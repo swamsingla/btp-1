@@ -1,3 +1,4 @@
+
 # NCERT Multilingual Smart Wiki
 
 A structured digital knowledge platform for students in grades 6–12, converting NCERT textbooks into a multilingual (Hindi/Odia) smart wiki.
