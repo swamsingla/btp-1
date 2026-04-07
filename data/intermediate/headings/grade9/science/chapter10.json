@@ -1,0 +1,76 @@
+{
+  "source_pdf": "chapter10.pdf",
+  "chapter_number": "10",
+  "chapter_title": "WORK",
+  "total_topics": 11,
+  "topics": [
+    {
+      "number": "10.1",
+      "title": "Work",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "10.1.1",
+          "title": "NOT MUCH ‘WORK’ IN SPITE OF",
+          "page": 1,
+          "subtopics": []
+        },
+        {
+          "number": "10.1.3",
+          "title": "WORK DONE BY A CONSTANT",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "10.2.1",
+          "title": "FORMS OF ENERGY",
+          "page": 4,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "10.2",
+      "title": "Energy",
+      "page": 4,
+      "subtopics": [
+        {
+          "number": "10.2.2",
+          "title": "KINETIC ENERGY",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "10.2.3",
+          "title": "POTENTIAL ENERGY",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "10.2.4",
+          "title": "POTENTIAL ENERGY OF AN OBJECT",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "10.2.5",
+          "title": "ARE VARIOUS ENERGY FORMS",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "10.2.6",
+          "title": "LAW OF CONSERVATION OF ENERGY",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "10.3",
+      "title": "Rate of Doing Work",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

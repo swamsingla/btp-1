@@ -1,0 +1,36 @@
+{
+  "chapter_number": 6,
+  "chapter_title": "TRIANGLES",
+  "topics": [
+    {
+      "number": "6.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.2",
+      "title": "Similar Figures",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "6.3",
+      "title": "Similarity of Triangles",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "6.4",
+      "title": "Criteria for Similarity of Triangles",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "6.5",
+      "title": "Summary",
+      "page": 25,
+      "subtopics": []
+    }
+  ]
+}

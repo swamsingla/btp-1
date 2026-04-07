@@ -1,0 +1,151 @@
+{
+  "source_pdf": "chapter3.pdf",
+  "chapter_number": "3",
+  "chapter_title": "Metals and Non-metals",
+  "total_topics": 23,
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "PHYSIC",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "3.1",
+      "title": "PHYSICAL PROPERTIES AL PROPERTIES",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "3.1.1",
+          "title": "Metals",
+          "page": 1,
+          "subtopics": []
+        },
+        {
+          "number": "3.1.2",
+          "title": "Non-metals",
+          "page": 3,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.2",
+      "title": "CHEMIC",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "3.2",
+      "title": "CHEMICAL PROPERTIES OF MET",
+      "page": 4,
+      "subtopics": [
+        {
+          "number": "3.2.1",
+          "title": "What happens when Metals are burnt in Air?",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "3.2.2",
+          "title": "What happens when Metals react with Water?",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "3.2.3",
+          "title": "What happens when Metals react with Acids?",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "3.2.4",
+          "title": "How do Metals react with Solutions of other Metal",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "3.2.5",
+          "title": "The Reactivity Series",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.3",
+      "title": "HOW DO MET",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "3.3",
+      "title": "HOW DO METALS AND NON-MET",
+      "page": 10,
+      "subtopics": [
+        {
+          "number": "3.3.1",
+          "title": "Properties of Ionic Compounds",
+          "page": 12,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.4",
+      "title": "OCCURRENCE OF MET OCCURRENCE OF MET",
+      "page": 13,
+      "subtopics": [
+        {
+          "number": "3.4.1",
+          "title": "Extraction of Metals",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.2",
+          "title": "Enrichment of Ores",
+          "page": 14,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.3",
+          "title": "Extracting Metals Low in the Activity Series",
+          "page": 15,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.4",
+          "title": "Extracting Metals in the Middle of the Activity Series",
+          "page": 15,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.5",
+          "title": "Extracting Metals towards the Top of the",
+          "page": 16,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.6",
+          "title": "Refining of Metals",
+          "page": 16,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.5",
+      "title": "CORROSION",
+      "page": 17,
+      "subtopics": [
+        {
+          "number": "3.5.1",
+          "title": "Prevention of Corrosion",
+          "page": 18,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

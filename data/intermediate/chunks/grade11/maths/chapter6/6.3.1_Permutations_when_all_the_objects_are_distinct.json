@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 6,
+  "chapter_title": "PERMUTATIONS AND COMBINATIONS",
+  "topic_number": "6.3.1",
+  "topic_title": "Permutations when all the objects are distinct",
+  "depth": 3,
+  "page_start": 6,
+  "content": "Theorem 1  The number of permutations of n different objects taken r at a time,\nwhere 0 < r ≤ n  and the objects do not repeat  is n ( n – 1) ( n – 2). . .( n – r + 1),\nwhich is denoted by nPr.\nProof There will be as many permutations as there are ways of filling in r vacant\nplaces\n. . .\nby\n←r vacant places →\nthe n objects. The first place can be filled in n ways; following which, the second place\ncan be filled in (n – 1) ways, following which the third place can be filled in (n – 2)\nways,..., the rth place can be filled in (n – (r – 1)) ways. Therefore, the number of\nways of filling in r vacant places in succession is n(n – 1) (n – 2) . . .   (n – (r – 1)) or\nn ( n – 1) (n – 2) ... (n – r + 1)\nThis expression for nPr is cumbersome and we need a notation which will help to\nreduce the size of this expression. The symbol n! (read as factorial n or n factorial )\ncomes to our rescue. In the following text we will learn what actually n! means.\n6.3.2  Factorial notation  The notation n! represents the product of first n natural",
+  "content_length": 1037
+}

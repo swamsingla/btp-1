@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "INTEGRALS",
+  "topic_number": "7.8.1",
+  "topic_title": "Area function",
+  "depth": 3,
+  "page_start": 43,
+  "content": "We have defined\n( )\nb\na f x dx\n∫\nas the area of\nthe region bounded by the curve y = f(x),\nthe ordinates x = a and x = b and x-axis. Let x\nbe a given point in [a, b]. Then\n( )\nx\na f x dx\n∫\nrepresents the area of the light shaded region\nin Fig 7.1 [Here it is assumed that f(x) > 0 for\nx ∈ [a, b], the assertion made below is\nequally true for other functions as well].\nThe area of this shaded region depends upon\nthe value of x.\nIn other words, the area of this shaded region is a function of x. We denote this\nfunction of x by A(x). We call the function A(x) as Area function and is given by\nA (x) = ∫\n( )\nx\na f x dx\n... (1)\nBased on this definition, the two basic fundamental theorems have been given.\nHowever, we only state them as their proofs are beyond the scope of this text book.\n7.8.2  First fundamental theorem of integral calculus\nFig 7.1",
+  "content_length": 847
+}

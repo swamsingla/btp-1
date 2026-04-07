@@ -1,0 +1,43 @@
+{
+  "chapter_number": 3,
+  "chapter_title": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "3.2",
+      "title": "Graphical Method of Solution of a Pair of Linear Equations",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "3.3",
+      "title": "Algebraic Methods of Solving a Pair of Linear Equations",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "3.3.1",
+          "title": "Substitution Method :",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "3.3.2",
+          "title": "Elimination Method",
+          "page": 11,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.4",
+      "title": "Summary",
+      "page": 14,
+      "subtopics": []
+    }
+  ]
+}

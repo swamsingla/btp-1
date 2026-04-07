@@ -1,0 +1,12 @@
+{
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "NUMBER PLAY",
+  "topic_number": "3.10",
+  "topic_title": "An Unsolved Mystery — the Collatz Conjecture!",
+  "depth": 2,
+  "page_start": 14,
+  "content": "Look at the sequences below—the same rule is applied in all the\nsequences:\na.\t 12, 6, 3, 10, 5, 16, 8, 4, 2, 1\nb.\t 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1\nc.\t 21, 64, 32, 16, 8, 4, 2, 1\nd.\t 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1\nDo you see how these sequences were formed?\nReprint 2025-26\nNumber Play\nThe rule is: one starts with any number; if the number is even,\ntake half of it; if the number is odd, multiply it by 3 and add 1;\nrepeat.\nNotice that all four sequences above eventually reached the\nnumber 1. In 1937, the German mathematician, Lothar Collatz\nconjectured that the sequence will always reach 1, regardless of\nthe whole number you start with. Even today — despite many\nmathematicians working on it — it remains an unsolved problem as\nto whether Collatz’s conjecture is true! Collatz’s conjecture is one of\nthe most famous unsolved problems in mathematics.\nMake some more Collatz sequences like those above, starting\nwith your favourite whole numbers. Do you always reach 1?\nDo you believe the conjecture of Collatz that all such sequences\nwill eventually reach 1?  Why or why not?\n3.11 Simple Estimation",
+  "content_length": 1143
+}

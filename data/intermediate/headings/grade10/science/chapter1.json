@@ -1,0 +1,82 @@
+{
+  "source_pdf": "chapter1.pdf",
+  "chapter_number": "1",
+  "chapter_title": "Chemical Reactions and Equations",
+  "total_topics": 12,
+  "topics": [
+    {
+      "number": "1.1",
+      "title": "CHEMIC",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "1.1",
+      "title": "CHEMICAL EQUA AL EQUA",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "1.1.1",
+          "title": "Writing a Chemical Equation",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "1.1.2",
+          "title": "Balanced Chemical Equations",
+          "page": 3,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "1.2",
+      "title": "TYPES OF CHEMIC",
+      "page": 6,
+      "subtopics": [
+        {
+          "number": "1.2.1",
+          "title": "Combination Reaction",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "1.2.2",
+          "title": "Decomposition Reaction",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "1.2.3",
+          "title": "Displacement Reaction",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "1.2.4",
+          "title": "Double Displacement Reaction",
+          "page": 11,
+          "subtopics": []
+        },
+        {
+          "number": "1.2.5",
+          "title": "Oxidation and Reduction",
+          "page": 12,
+          "subtopics": []
+        },
+        {
+          "number": "1.3.1",
+          "title": "Corrosion",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "1.3.2",
+          "title": "Rancidity",
+          "page": 13,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

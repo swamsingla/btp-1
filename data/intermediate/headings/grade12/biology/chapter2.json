@@ -1,0 +1,20 @@
+{
+  "source_pdf": "chapter2.pdf",
+  "chapter_number": "2",
+  "chapter_title": null,
+  "total_topics": 2,
+  "topics": [
+    {
+      "number": "2.3",
+      "title": "GAMETOGENESIS",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "2.4",
+      "title": "MENSTRUAL CYCLE",
+      "page": 8,
+      "subtopics": []
+    }
+  ]
+}

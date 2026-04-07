@@ -1,0 +1,20 @@
+{
+  "source_pdf": "chapter9.pdf",
+  "chapter_number": "9",
+  "chapter_title": null,
+  "total_topics": 2,
+  "topics": [
+    {
+      "number": "9.2",
+      "title": "PRIMARY AND SECONDARY METABOLITES",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "9.3",
+      "title": "BIOMACROMOLECULES",
+      "page": 5,
+      "subtopics": []
+    }
+  ]
+}

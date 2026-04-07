@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "STRAIGHT LINES",
+  "topic_number": "9.2.1",
+  "topic_title": "Slope of a line when coordinates of any two points on the line are given",
+  "depth": 3,
+  "page_start": 3,
+  "content": "We know that a line is completely determined when we are given two points on it.\nHence, we proceed to find the slope of a\nline in terms of the coordinates of two points\non the line.\nLet P(x1, y1) and Q(x2, y2) be two\npoints on non-vertical line l whose inclination\nis θ. Obviously, x1 ≠ x2, otherwise the line\nwill become perpendicular to x-axis and its\nslope will not be defined. The inclination of\nthe line l may be acute or obtuse. Let us\ntake these two cases.\nDraw perpendicular QR to x-axis and\nPM perpendicular to RQ as shown in\nFigs. 9.3 (i) and (ii).\nCase 1 When angle  θ is acute:\nIn Fig 9.3 (i), ∠MPQ =  θ.\n... (1)\nTherefore, slope of line l = m = tan θ.\nBut in ∆MPQ, we have\nMQ\ntanθ\n.\nMP\ny\ny\nx\nx\n−\n=\n=\n−\n... (2)\nFig 9. 3 (i)\nReprint 2025-26\nFrom equations (1) and (2), we have\n.\ny\ny\nm\nx\nx\n−\n=\n−\nCase II  When angle θ is obtuse:\nIn Fig 9.3 (ii), we have\n∠MPQ = 180° –  θ.\nTherefore,  θ = 180° – ∠MPQ.\nNow, slope of the line l\nm = tan θ\n= tan ( 180° – ∠MPQ) = – tan  ∠MPQ\n=\nMQ\nMP\ny\ny\nx\nx\n−\n−\n= −\n−\n=\ny\ny .\nx\nx\n−\n−\nConsequently, we see that in both the cases the slope m of the line through the points\n(x1, y1) and (x2, y2) is given by\ny\ny\nm\nx\nx\n−\n=\n−\n.\n9.2.2 Conditions for parallelism and perpendicularity of lines in terms of their\nFig 9. 3 (ii)",
+  "content_length": 1256
+}

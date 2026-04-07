@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topic_number": "4.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "W. R. Hamilton\n(1805-1865)\nIn earlier classes, we have studied linear equations in one\nand two variables and quadratic equations in one variable.\nWe have seen that the equation x2 + 1 = 0 has no real\nsolution as x2 + 1 = 0 gives x2 = – 1 and square of every\nreal number is non-negative. So, we need to extend the\nreal number system to a larger system so that we can\nfind the solution of the equation x2 = – 1. In fact, the main\nobjective is to solve the equation ax2 + bx + c = 0, where\nD = b2 –  4ac < 0, which is not possible in the system of\nreal numbers.\n4.2  Complex Numbers",
+  "content_length": 579
+}

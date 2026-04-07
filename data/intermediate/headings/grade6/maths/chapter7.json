@@ -1,0 +1,54 @@
+{
+  "chapter_number": 7,
+  "chapter_title": "Fractions",
+  "topics": [
+    {
+      "number": "7.1",
+      "title": "Fractional Units and Equal Shares",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "7.2",
+      "title": "Fractional Units as Parts of a Whole",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "7.3",
+      "title": "Measuring Using Fractional Units",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "7.5",
+      "title": "Mixed Fractions",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "7.6",
+      "title": "Equivalent Fractions",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "7.7",
+      "title": "Comparing Fractions",
+      "page": 23,
+      "subtopics": []
+    },
+    {
+      "number": "7.8",
+      "title": "Addition and Subtraction of Fractions",
+      "page": 25,
+      "subtopics": []
+    },
+    {
+      "number": "7.9",
+      "title": "A Pinch of History",
+      "page": 32,
+      "subtopics": []
+    }
+  ]
+}

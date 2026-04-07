@@ -1,0 +1,30 @@
+{
+  "chapter_number": 4,
+  "chapter_title": "ANOTHER PEEK BEYOND THE POINT",
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "A Quick Recap of Decimals",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "Decimal Multiplication",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "4.3",
+      "title": "Decimal Division",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "4.4",
+      "title": "Look Before You Leap!",
+      "page": 22,
+      "subtopics": []
+    }
+  ]
+}

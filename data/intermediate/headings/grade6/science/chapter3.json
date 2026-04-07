@@ -1,0 +1,76 @@
+{
+  "source_pdf": "chapter3.pdf",
+  "chapter_number": "3",
+  "chapter_title": "Mindful Eating: A Path",
+  "total_topics": 11,
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "What Do We Eat?",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "3.1.1",
+          "title": "Food in different regions",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "3.1.2",
+          "title": "How have cooking practices changed",
+          "page": 4,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.2",
+      "title": "What are the Components of Food?",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "3.3",
+      "title": "How to Test Different Components",
+      "page": 14,
+      "subtopics": [
+        {
+          "number": "3.3.1",
+          "title": "Test for starch",
+          "page": 14,
+          "subtopics": []
+        },
+        {
+          "number": "3.3.2",
+          "title": "Test for fats",
+          "page": 15,
+          "subtopics": []
+        },
+        {
+          "number": "3.3.3",
+          "title": "Test for proteins",
+          "page": 15,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.4",
+      "title": "Balanced Diet",
+      "page": 17,
+      "subtopics": []
+    },
+    {
+      "number": "3.5",
+      "title": "Millets: Nutrition-rich Cereals",
+      "page": 19,
+      "subtopics": []
+    },
+    {
+      "number": "3.6",
+      "title": "Food Miles: From Farm to Our Plate",
+      "page": 20,
+      "subtopics": []
+    }
+  ]
+}

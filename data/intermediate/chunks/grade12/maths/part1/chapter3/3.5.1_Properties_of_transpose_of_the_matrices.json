@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "MATRICES",
+  "topic_number": "3.5.1",
+  "topic_title": "Properties of transpose of the matrices",
+  "depth": 3,
+  "page_start": 28,
+  "content": "We now state the following properties of transpose of matrices without proof. These\nmay be verified by taking suitable examples.\nFor any matrices A and B of suitable orders, we have\n(i)\n(A′)′ = A,\n(ii)\n(kA)′ = kA′ (where k is any constant)\n(iii)\n(A + B)′ = A′ + B′\n(iv)\n(A B)′ = B′ A′\nExample 20 If\nA\nand B\n\n\n−\n\n\n=\n=\n\n\n\n\n\n\n\n\n, verify that\n(i)\n(A′)′ = A,\n(ii)\n(A + B)′ = A′ + B′,\n(iii)\n(kB)′ = kB′, where k is any constant.\nReprint 2025-26\nSolution\n(i)\nWe have\nA =\n(\n)\nA\n3 2\nA\nA\n\n\n\n\n\n\n\n\n′\n′\n′\n⇒\n=\n⇒\n=\n=\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThus\n(A′)′ = A\n(ii)\nWe have\nA = 3\n2 ,\n\n\n\n\n\n\nB =\nA\nB\n2 4\n\n\n−\n\n\n−\n⇒\n+\n= \n\n\n\n\n\n\n\nTherefore\n(A + B)′ =\n\n\n\n\n−\n\n\n\n\n\n\nNow\nA′ =\n2 1\n3 2 , B\n1 2 ,\n2 4\n\n\n\n\n\n\n\n\n′ = −\n\n\n\n\n\n\n\n\n\n\n\n\nSo\nA′ + B′ =\n3 1 4\n\n\n\n\n−\n\n\n\n\n\n\nThus\n(A + B)′ = A′ + B′\n(iii)\nWe have\nkB = k 2\nk\nk\nk\nk\nk\nk\n−\n−\n\n\n\n\n=\n\n\n\n\n\n\n\n\nThen\n(kB)′ =\n2 1\n1 2\nB\n2 4\nk\nk\nk\nk\nk\nk\nk\nk\n\n\n\n\n\n\n\n\n′\n−\n=\n−\n=\n\n\n\n\n\n\n\n\n\n\n\n\nThus\n(kB)′ = kB′\nReprint 2025-26\nMATRICES         63\nExample 21 If\n[\n]\nA\n4 , B\n−\n\n\n\n\n=\n=\n−\n\n\n\n\n\n\n, verify that (AB)′ = B′A′.\nSolution We have\nA =\n[\n]\n4 , B\n−\n\n\n\n\n=\n−\n\n\n\n\n\n\nthen\nAB =\n[\n]\n−\n\n\n\n\n−\n\n\n\n\n\n\n=\n−\n−\n\n\n\n\n−\n\n\n\n\n−\n\n\nNow\nA′ = [–2 4 5] ,\nB\n\n\n\n\n′ = \n\n\n\n−\n\n\nB′A′ =\n[\n]\n(AB)\n−\n\n\n\n\n\n\n\n\n′\n−\n= −\n=\n\n\n\n\n\n\n\n\n−\n−\n−\n\n\n\n\nClearly\n(AB)′ = B′A′\n3.6  Symmetric and Skew Symmetric Matrices",
+  "content_length": 1434
+}

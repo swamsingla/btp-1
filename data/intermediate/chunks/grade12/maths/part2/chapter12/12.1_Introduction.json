@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 12,
+  "chapter_title": "LINEAR PROGRAMMING",
+  "topic_number": "12.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In earlier classes, we have discussed systems of linear\nequations and their applications in day to day problems. In\nClass XI, we have studied linear inequalities and systems\nof linear inequalities in two variables and their solutions by\ngraphical method. Many applications in mathematics\ninvolve systems of inequalities/equations. In this chapter,\nwe shall apply the systems of linear inequalities/equations\nto solve some real life problems of the type as given below:\nA furniture dealer deals in only two items–tables and\nchairs. He has Rs 50,000 to invest and has storage space\nof at most 60 pieces. A table costs Rs 2500 and a chair\nRs 500. He estimates that from the sale of one table, he\ncan make a profit of Rs 250 and that from the sale of one\nchair a profit of Rs 75. He wants to know how many tables and chairs he should buy\nfrom the available money so as to maximise his total profit, assuming that he can sell all\nthe items which he buys.\nSuch type of problems which seek to maximise (or, minimise) profit (or, cost) form\na general class of problems called optimisation problems. Thus, an optimisation\nproblem may involve finding maximum profit, minimum cost, or minimum use of\nresources etc.\nA special but a very important class of optimisation problems is linear programming\nproblem. The above stated optimisation problem is an example of linear programming\nproblem. Linear programming problems are of much interest because of their wide\napplicability in industry, commerce, management science etc.\nIn this chapter, we shall study some linear programming problems and their solutions\nby graphical method only, though there are many other methods also to solve such\nproblems.\nL. Kantorovich\nReprint 2025-26\nLINEAR PROGRAMMING         395\n12.2  Linear Programming Problem and its Mathematical Formulation",
+  "content_length": 1815
+}

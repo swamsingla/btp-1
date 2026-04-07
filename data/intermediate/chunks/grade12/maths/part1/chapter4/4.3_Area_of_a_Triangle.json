@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "DETERMINANTS",
+  "topic_number": "4.3",
+  "topic_title": "Area of a Triangle",
+  "depth": 2,
+  "page_start": 7,
+  "content": "In earlier classes, we have studied that the area of a triangle whose vertices are\n(x1, y1), (x2, y2) and (x3, y3), is given by the expression 1\n2 [x1(y2–y3) + x2 (y3–y1) +\nx3 (y1–y2)]. Now this expression can be written in the form of a determinant as\n∆ =\nx\ny\nx\ny\nx\ny\n... (1)\nRemarks\n(i)\nSince area is a positive quantity, we always take the absolute value of the\ndeterminant in (1).\n(ii)\nIf area is given, use both positive and negative values of the determinant for\ncalculation.\n(iii)\nThe area of the triangle formed by three collinear points is zero.\nExample 6 Find the area of the triangle whose vertices are (3, 8), (– 4, 2) and (5, 1).\nSolution The area of triangle is given by\n∆ =\n–\nReprint 2025-26\nDETERMINANTS     83\n=\n(\n)\n(\n)\n(\n)\n1 3 2 –1 – 8 –4 – 5\n1 –4 –10\n2 \n+\n\n\n\n=\n(\n)\n–\n+\n=\nExample 7 Find the equation of the line joining A(1, 3) and B (0, 0) using determinants\nand find k if D(k, 0) is a point such that area of triangle ABD is 3sq units.\nSolution Let P (x, y) be any point on AB. Then, area of triangle ABP is zero (Why?). So\n1 1\nx\ny\n= 0\nThis gives\n(\n)\n2 y –\nx  = 0 or y = 3x,\nwhich is the equation of required line AB.\nAlso, since the area of the triangle ABD is 3 sq. units, we have\n1 0\nk\n= ± 3\nThis gives,\nk\n−\n= ± , i.e., k = ∓ 2.\nEXERCISE 4.2\n1.\nFind area of the triangle with vertices at the point given in each of the following :\n(i) (1, 0), (6, 0), (4, 3)\n(ii) (2, 7), (1, 1), (10, 8)\n(iii) (–2, –3), (3, 2), (–1, –8)\n2.\nShow that points\nA (a, b + c), B (b, c + a), C (c, a + b) are collinear.\n3.\nFind values of k if area of triangle is 4 sq. units and vertices are\n(i) (k, 0), (4, 0), (0, 2)\n(ii) (–2, 0), (0, 4), (0, k)\n4. (i) Find equation of line joining (1, 2) and (3, 6) using determinants.\n(ii) Find equation of line joining (3, 1) and (9, 3) using determinants.\n5.\nIf area of triangle is 35 sq units with vertices (2, – 6), (5, 4) and (k, 4). Then k is\n(A) 12\n(B) –2\n(C) –12, –2\n(D) 12, –2\nReprint 2025-26\n4.4  Minors and Cofactors",
+  "content_length": 1968
+}

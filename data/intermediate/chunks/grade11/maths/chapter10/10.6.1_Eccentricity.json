@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "CONIC SECTIONS",
+  "topic_number": "10.6.1",
+  "topic_title": "Eccentricity",
+  "depth": 3,
+  "page_start": 22,
+  "content": "Definition 8 Just like an ellipse, the ratio e = c\na  is called the eccentricity of the\nhyperbola.  Since c ≥ a, the eccentricity is never less than one.  In terms of the\neccentricity, the foci are at a distance of ae from the centre.\n10.6.2  Standard equation of  Hyperbola  The equation of a hyperbola is simplest if",
+  "content_length": 318
+}

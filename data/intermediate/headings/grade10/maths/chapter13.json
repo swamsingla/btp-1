@@ -1,0 +1,36 @@
+{
+  "chapter_number": 13,
+  "chapter_title": "STATISTICS",
+  "topics": [
+    {
+      "number": "13.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "13.2",
+      "title": "Mean of Grouped Data",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "13.3",
+      "title": "Mode of Grouped Data",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "13.4",
+      "title": "Median of Grouped Data",
+      "page": 18,
+      "subtopics": []
+    },
+    {
+      "number": "13.5",
+      "title": "Summary",
+      "page": 30,
+      "subtopics": []
+    }
+  ]
+}

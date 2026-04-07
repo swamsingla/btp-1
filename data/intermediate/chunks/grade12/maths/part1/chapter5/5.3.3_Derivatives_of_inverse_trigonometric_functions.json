@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 5,
+  "chapter_title": "CONTINUITY AND DIFFERENTIABILITY",
+  "topic_number": "5.3.3",
+  "topic_title": "Derivatives of inverse trigonometric functions",
+  "depth": 3,
+  "page_start": 21,
+  "content": "We remark that inverse trigonometric functions are continuous functions, but we will\nnot prove this. Now we use chain rule to find derivatives of these functions.\nExample 24 Find the derivative of f given by f(x) = sin–1 x assuming it exists.\nSolution Let y = sin–1 x. Then, x = sin y.\nDifferentiating both sides w.r.t. x, we get\n1 = cos y dy\ndx\nwhich implies that\ndy\ndx  =\ncos\ncos(sin\n)\ny\nx\n−\n=\nObserve that this is defined only for cos y ≠ 0, i.e., sin–1 x ≠\n,\n2 2\nπ π\n−\n, i.e., x ≠ – 1, 1,\ni.e., x ∈ (– 1, 1).\nTo make this result a bit more attractive, we carry out the following manipulation.\nRecall that for x ∈ (– 1, 1), sin (sin–1 x) = x and hence\ncos2 y = 1 – (sin y)2 = 1 – (sin (sin–1 x))2 = 1 – x2\nAlso, since y ∈\n,\n2 2\nπ π\n\n\n−\n\n\n\n, cos y is positive and hence cos y =\nx\n−\nThus, for x ∈ (– 1, 1),\ncos\ndy\ndx\ny\nx\n=\n=\n−\nx\n−\nx\n−\n−\nx\n+\nf(x)                    sin–1 x                      cos-1 x                   tan-1x\nDomain off               (-1, 1)                     (-1, 1)                        R\nf 1(x)\nReprint 2025-26\nCONTINUITY AND DIFFERENTIABILITY\nEXERCISE 5.3\nFind dy\ndx  in the following:\n1.\n2x + 3y = sin x\n2. 2x + 3y = sin y\n3. ax + by2 = cos y\n4.\nxy + y2 = tan x + y\n5. x2 + xy + y2 = 100\n6. x3 + x2y + xy2 + y3 = 81\n7.\nsin2 y + cos xy = κ\n8. sin2 x + cos2 y = 1\n9. y = sin–1\nx\nx\n\n\n\n\n+\n\n\n10.\ny = tan–1\n,\nx\nx\nx\n\n\n−\n\n\n−\n\n\nx\n−\n<\n<\n11.\n,\ncos\nx\ny\nx\nx\n−\n\n−\n=\n<\n<\n\n\n+\n\n\n12.\n,\nsin\nx\ny\nx\nx\n−\n\n−\n=\n<\n<\n\n\n+\n\n\n13.\n,\ncos\nx\ny\nx\nx\n−\n\n=\n−<\n<\n\n\n+\n\n\n14.\n(\n)\n,\nsin\ny\nx\nx\nx\n−\n=\n−\n−\n<\n<\n15.\n,\nsec\ny\nx\nx\n−\n\n=\n<\n<\n\n\n−\n\n\n5.4  Exponential and Logarithmic Functions",
+  "content_length": 1608
+}

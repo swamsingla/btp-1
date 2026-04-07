@@ -1,0 +1,54 @@
+{
+  "chapter_number": 5,
+  "chapter_title": "PARALLEL AND INTERSECTING LINES",
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "Across the Line",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "5.2",
+      "title": "Perpendicular Lines",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "5.3",
+      "title": "Between Lines",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "5.5",
+      "title": "Transversals",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "5.6",
+      "title": "Corresponding Angles",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "5.7",
+      "title": "Drawing Parallel Lines",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "5.8",
+      "title": "Alternate Angles",
+      "page": 15,
+      "subtopics": []
+    },
+    {
+      "number": "5.9",
+      "title": "Parallel Illusions",
+      "page": 20,
+      "subtopics": []
+    }
+  ]
+}

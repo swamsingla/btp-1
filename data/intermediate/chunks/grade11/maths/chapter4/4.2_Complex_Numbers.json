@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topic_number": "4.2",
+  "topic_title": "Complex Numbers",
+  "depth": 2,
+  "page_start": 1,
+  "content": "Let us denote\n− by the symbol i. Then, we have\ni = −. This means that i is a\nsolution of the equation x2 + 1 = 0.\nA number of the form a + ib, where a and b are real numbers, is defined to be a\ncomplex number. For example, 2 + i3,  (– 1) +\ni\n,\ni −\n\n\n+ \n\n\n are complex numbers.\nFor the complex number z = a + ib, a is called the real part, denoted by Re z and\nb is called the imaginary part denoted by Im z of the complex number z. For example,\nif z = 2 + i5, then Re z = 2 and Im z = 5.\nTwo complex numbers z1 = a + ib and z2 = c + id are equal if  a = c and b = d.\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       77\nExample 1 If 4x + i(3x – y) = 3 + i (– 6), where x and y are real numbers, then find\nthe values of x and y.\nSolution We have\n4x + i (3x – y) = 3 + i (–6)\n... (1)\nEquating the real and the imaginary parts of (1), we get\n4x = 3, 3x – y = – 6,\nwhich, on solving simultaneously, give\nx =\nand\ny =\n.\n4.3   Algebra of Complex Numbers",
+  "content_length": 963
+}

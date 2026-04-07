@@ -1,0 +1,42 @@
+{
+  "chapter_number": 6,
+  "chapter_title": "LINES AND ANGLES",
+  "topics": [
+    {
+      "number": "6.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.2",
+      "title": "Basic Terms and Definitions",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "6.3",
+      "title": "Intersecting Lines and Non-intersecting Lines",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "6.4",
+      "title": "Pairs of Angles",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "6.5",
+      "title": "Lines Parallel to the Same Line",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "6.6",
+      "title": "Summary",
+      "page": 14,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "source_pdf": "chapter2.pdf",
+  "chapter_number": "2",
+  "chapter_title": "IS M",
+  "total_topics": 10,
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "What is a Mixture?",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "2.1.1",
+          "title": "TYPES OF MIXTURES",
+          "page": 1,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "2.2",
+      "title": "What is a Solution?",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "2.2.1",
+          "title": "CONCENTRATION OF A SOLUTION",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "2.2.2",
+          "title": "WHAT IS A SUSPENSION?",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "2.2.3",
+          "title": "WHAT IS A COLLOIDAL SOLUTION?",
+          "page": 4,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "2.3",
+      "title": "Physical and Chemical",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "2.4",
+      "title": "What are the Types of Pure",
+      "page": 6,
+      "subtopics": [
+        {
+          "number": "2.4.1",
+          "title": "ELEMENTS",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "2.4.2",
+          "title": "COMPOUNDS",
+          "page": 7,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topic_number": "4.3.4",
+  "topic_title": "Division of two complex numbers",
+  "depth": 3,
+  "page_start": 3,
+  "content": "where\nz ≠\n, the quotient\nz\nz  is defined by\nz\nz\nz\nz\n=\nFor example, let\nz1 = 6 + 3i and  z2 = 2 – i\nThen\n(6\n3 )\nz\ni\nz\ni\n\n\n=\n+\n×\n\n\n−\n\n = (\n)\n3i\n+\n(\n)\n(\n)\n(\n)\ni\n\n\n−−\n\n\n+\n\n\n+ −\n+ −\n\n\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       79\n= (\n) 2\ni\ni\n+\n\n\n+\n\n\n\n =\n(\n)\n(\n)\n9 12\ni\ni\n\n−+\n+\n=\n+\n\n\n4.3.5  Power of i  we know that",
+  "content_length": 352
+}

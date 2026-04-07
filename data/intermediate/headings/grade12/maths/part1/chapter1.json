@@ -1,0 +1,30 @@
+{
+  "chapter_number": 1,
+  "chapter_title": "RELATIONS AND FUNCTIONS",
+  "topics": [
+    {
+      "number": "1.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "1.2",
+      "title": "Types of Relations",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "1.3",
+      "title": "Types of Functions",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "1.4",
+      "title": "Composition of Functions and Invertible Function",
+      "page": 12,
+      "subtopics": []
+    }
+  ]
+}

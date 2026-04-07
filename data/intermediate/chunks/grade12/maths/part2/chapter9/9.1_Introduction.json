@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "DIFFERENTIAL EQUATIONS",
+  "topic_number": "9.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In Class XI and in Chapter 5 of the present book, we\ndiscussed how to differentiate a given function f with respect\nto an independent variable, i.e., how to find f ′(x) for a given\nfunction f at each x in its domain of definition. Further, in\nthe chapter on Integral Calculus, we discussed  how to find\na function f whose derivative is the function g, which may\nalso be formulated as follows:\nFor a given function g, find a function f such that\ndy\ndx  = g(x), where y = f(x)                   ... (1)\nAn equation of the form (1) is known as a differential\nequation. A formal definition will be given later.\nThese equations arise in a variety of applications, may it be in Physics, Chemistry,\nBiology, Anthropology, Geology,  Economics etc. Hence, an indepth study of differential\nequations has assumed prime importance in all modern scientific investigations.\nIn this chapter, we will study some basic concepts related to differential equation,\ngeneral and particular solutions of a differential equation, formation of differential\nequations, some methods to solve a first order - first degree differential equation and\nsome applications of differential equations in different areas.\n9.2  Basic Concepts\nHenri Poincare\n(1854-1912 )",
+  "content_length": 1231
+}

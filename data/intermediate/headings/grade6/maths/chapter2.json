@@ -1,0 +1,54 @@
+{
+  "chapter_number": 2,
+  "chapter_title": "Lines and Angles",
+  "topics": [
+    {
+      "number": "2.4",
+      "title": "Ray",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "2.5",
+      "title": "Angle",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "2.6",
+      "title": "Comparing Angles",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "2.7",
+      "title": "Making Rotating Arms",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "2.8",
+      "title": "Special Types of Angles",
+      "page": 15,
+      "subtopics": []
+    },
+    {
+      "number": "2.9",
+      "title": "Measuring Angles",
+      "page": 20,
+      "subtopics": []
+    },
+    {
+      "number": "2.10",
+      "title": "Drawing Angles",
+      "page": 34,
+      "subtopics": []
+    },
+    {
+      "number": "2.11",
+      "title": "Types of Angles and their Measures",
+      "page": 38,
+      "subtopics": []
+    }
+  ]
+}

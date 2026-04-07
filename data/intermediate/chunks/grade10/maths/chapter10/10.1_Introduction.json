@@ -1,0 +1,12 @@
+{
+  "grade": 10,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "CIRCLES",
+  "topic_number": "10.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "You have studied in Class IX that a circle is a collection of all points in a plane\nwhich are at a constant distance (radius) from a fixed point (centre). You have\nalso studied various terms related to a circle like chord, segment, sector, arc etc.\nLet us now examine the different situations that can arise when a circle and a line\nare given in a plane.\nSo, let us consider a circle and a line PQ. There can be three possibilities given\nin Fig. 10.1 below:\nFig. 10.1\nIn Fig. 10.1 (i), the line PQ and the circle have no common point. In this case,\nPQ is called a non-intersecting line with respect to the circle. In Fig. 10.1 (ii), there\nare two common points A and B that the line PQ and the circle have. In this case, we\ncall the line PQ a secant of the circle. In Fig. 10.1 (iii), there is only one point A which\nis common to the line PQ and the circle. In this case, the line is called a tangent to the\ncircle.\nReprint 2025-26\nCIRCLES\nYou might have seen a pulley fitted over a well which is used\nin taking out water from the well. Look at Fig. 10.2. Here the rope\non both sides of the pulley, if considered as a ray, is like a tangent\nto the circle representing the pulley.\nIs there any position of the line with respect to the circle\nother than the types given above? You can see that there cannot\nbe any other type of position of the line with respect  to the circle.\nIn this chapter, we will study about the existence of the tangents\nto a circle and also study some of their properties.\n10.2 Tangent to a Circle\nFig. 10.2",
+  "content_length": 1530
+}

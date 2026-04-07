@@ -1,0 +1,43 @@
+{
+  "chapter_number": 9,
+  "chapter_title": "DIFFERENTIAL EQUATIONS",
+  "topics": [
+    {
+      "number": "9.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "9.2",
+      "title": "Basic Concepts",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "9.2.2",
+          "title": "Degree of a differential equation",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "9.4.1",
+          "title": "Differential equations with variables separable",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "9.4.2",
+          "title": "Homogeneous differential equations",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "9.4.3",
+          "title": "Linear differential equations",
+          "page": 23,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

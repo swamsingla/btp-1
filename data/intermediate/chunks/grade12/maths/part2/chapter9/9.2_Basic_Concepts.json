@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "DIFFERENTIAL EQUATIONS",
+  "topic_number": "9.2",
+  "topic_title": "Basic Concepts",
+  "depth": 2,
+  "page_start": 1,
+  "content": "We are already familiar with the equations of the type:\nx2 – 3x + 3 = 0\n... (1)\nsin x + cos x = 0\n... (2)\nx + y = 7\n... (3)\nReprint 2025-26\nDIFFERENTIAL EQUATIONS\nLet us consider the equation:\ndy\nx\ny\ndx +\n= 0\n... (4)\nWe see that equations (1), (2) and (3) involve independent and/or dependent variable\n(variables) only but equation (4) involves variables as well as derivative of the dependent\nvariable y with respect to the independent variable x. Such an equation is called a\ndifferential equation.\nIn general, an equation involving  derivative (derivatives) of the dependent variable\nwith respect to independent variable (variables) is called a differential equation.\nA differential equation involving derivatives of the dependent variable with respect\nto only one independent variable is called an ordinary differential equation, e.g.,\n2 d y\ndy\ndx\ndx\n\n\n+ \n\n\n\n= 0  is an ordinary differential equation\n.... (5)\nOf course, there are differential equations involving derivatives with respect to\nmore than one independent variables, called partial differential equations but at this\nstage we shall confine ourselves to the study of ordinary differential equations only.\nNow onward, we will use the term ‘differential equation’ for ‘ordinary differential\nequation’.\nANote\n1. We shall prefer to use the following notations for derivatives:\n,\n,\ndy\nd y\nd y\ny\ny\ny\ndx\ndx\ndx\n′\n′′\n′′′\n=\n=\n=\n2. For derivatives of higher order, it will be inconvenient  to use so many dashes\nas supersuffix therefore, we use the notation yn for nth order derivative\nn\nn\nd y\ndx\n.\n9.2.1.  Order of a differential equation\nOrder of a differential equation is defined as the order of the highest order derivative of\nthe dependent variable with respect to the independent variable involved in the given\ndifferential equation.\nConsider the following differential equations:\ndy\ndx  = ex\n... (6)\nReprint 2025-26\nd y\ny\ndx\n+\n= 0\n... (7)\nd y\nd y\nx\ndx\ndx\n\n\n\n\n+\n\n\n\n\n\n\n\n\n= 0\n... (8)\nThe equations (6), (7) and (8) involve the highest derivative of first, second and\nthird order respectively. Therefore, the order of these equations are 1, 2 and 3 respectively.\n9.2.2  Degree of a differential equation",
+  "content_length": 2179
+}

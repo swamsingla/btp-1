@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "STRAIGHT LINES",
+  "topic_number": "9.2.2",
+  "topic_title": "Conditions for parallelism and perpendicularity of lines in terms of their",
+  "depth": 3,
+  "page_start": 4,
+  "content": "slopes In a coordinate plane, suppose that non-vertical lines l1 and l2 have slopes m1\nand m2, respectively. Let their inclinations be α and\nβ, respectively.\nIf the line l1 is parallel to l2 (Fig 9.4), then their\ninclinations are equal, i.e.,\nα = β, and hence, tan α = tan β\nTherefore\nm1 = m2, i.e., their slopes are equal.\nConversely, if the slope of two lines l1 and l2\nis same, i.e.,\nm1 = m2.\nThen\ntan α = tan β.\nBy the property of tangent function (between 0° and 180°), α = β.\nTherefore, the lines are parallel.\nFig 9. 4\nReprint 2025-26\nSTRAIGHT LINES       155\nHence, two non vertical lines l1 and l2 are parallel if and only if their slopes\nare equal.\nIf the lines l1 and l2 are perpendicular (Fig 9.5), then β = α + 90°.\nTherefore, tan β = tan (α + 90°)\n= – cot α =\ntanα\n−\ni.e.,\nm2 =\nm\n−\nor\nm1  m2  = – 1\nConversely, if m1  m2  =  – 1, i.e., tan α tan β = – 1.\nThen tan α = – cot β = tan (β + 90°) or tan (β – 90°)\nTherefore,\nα  and β differ by 90°.\nThus, lines l1 and l2 are perpendicular to each other.\nHence, two non-vertical lines are perpendicular to each other if and only if\ntheir slopes are negative reciprocals of each other,\ni.e.,\nm2=\nm\n−\nor,  m1 m2 = – 1.\nLet us consider the following example.\nExample 1 Find the slope of the lines:\n(a)\nPassing through the points (3, – 2) and (–1, 4),\n(b)\nPassing through the points (3, – 2) and (7, – 2),\n(c)\nPassing through the points (3, – 2) and (3, 4),\n(d)\nMaking inclination of 60° with the positive direction of x-axis.\nSolution (a) The slope of the line through (3, – 2) and (– 1, 4) is\n( 2)\n1 3\nm\n−−\n=\n=\n= −\n−−\n−\n.\n(b) The slope of the line through the points (3, – 2) and (7, – 2) is\n–2 – (–2)\n=\n=\n= 0\n7 – 3\nm\n.\n(c) The slope of the line through the points (3, – 2) and (3, 4) is\nFig 9. 5\nReprint 2025-26\n4 – (–2)\n=\n=\n3 – 3\nm\n, which is not defined.\n(d) Here inclination of the line α = 60°. Therefore, slope of the line is\nm = tan 60° =\n3 .\n9.2.3 Angle between two lines When we think about more than one line in a plane,",
+  "content_length": 1986
+}

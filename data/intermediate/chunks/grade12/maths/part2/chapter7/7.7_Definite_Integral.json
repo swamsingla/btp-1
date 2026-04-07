@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "INTEGRALS",
+  "topic_number": "7.7",
+  "topic_title": "Definite Integral",
+  "depth": 2,
+  "page_start": 43,
+  "content": "In the previous sections, we have studied about the indefinite integrals and discussed\nfew methods of finding them including integrals of some special functions. In this\nsection, we shall study what is called definite integral of a function. The definite integral\nhas a unique value. A definite integral is denoted by\n( )\nb\na f x dx\n∫\n, where a is called the\nlower limit of the integral and b is called the upper limit of the integral. The definite\nintegral is introduced either as the limit of a sum or if it has an anti derivative F in the\ninterval [a, b], then its value is the difference  between the values of F at the end\npoints, i.e., F(b) – F(a).\n7.8  Fundamental Theorem of Calculus",
+  "content_length": 691
+}

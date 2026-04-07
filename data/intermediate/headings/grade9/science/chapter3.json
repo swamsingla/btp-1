@@ -1,0 +1,103 @@
+{
+  "source_pdf": "chapter3.pdf",
+  "chapter_number": "3",
+  "chapter_title": "ATOMS",
+  "total_topics": 15,
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "Laws of Chemical Combination",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "3.1.1",
+          "title": "LAW OF CONSERVATION OF MASS",
+          "page": 1,
+          "subtopics": []
+        },
+        {
+          "number": "3.1.2",
+          "title": "LAW OF CONSTANT PROPORTIONS",
+          "page": 2,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.2",
+      "title": "What is an Atom?",
+      "page": 3,
+      "subtopics": [
+        {
+          "number": "3.2.1",
+          "title": "WHAT ARE THE MODERN DAY",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "3.2.2",
+          "title": "ATOMIC MASS",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "3.2.3",
+          "title": "HOW DO ATOMS EXIST?",
+          "page": 5,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.3",
+      "title": "What is a Molecule?",
+      "page": 5,
+      "subtopics": [
+        {
+          "number": "3.3.1",
+          "title": "MOLECULES OF ELEMENTS",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "3.3.3",
+          "title": "WHAT IS AN ION?",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "3.3.2",
+          "title": "MOLECULES OF COMPOUNDS",
+          "page": 6,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.4",
+      "title": "Writing Chemical Formulae",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "3.4.1",
+          "title": "FORMULAE OF SIMPLE COMPOUNDS",
+          "page": 8,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.5",
+      "title": "Molecular Mass",
+      "page": 9,
+      "subtopics": [
+        {
+          "number": "3.5.1",
+          "title": "FORMULA UNIT MASS",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

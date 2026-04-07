@@ -1,0 +1,68 @@
+{
+  "chapter_number": 4,
+  "chapter_title": "DETERMINANTS",
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "Determinant",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "4.2.1",
+          "title": "Determinant of a matrix of order one",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "4.2.2",
+          "title": "Determinant of a matrix of order two",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "4.2.3",
+          "title": "Determinant of a matrix of order 3 × 3",
+          "page": 2,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "4.3",
+      "title": "Area of a Triangle",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "4.4",
+      "title": "Minors and Cofactors",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "4.5",
+      "title": "Adjoint and Inverse of a Matrix",
+      "page": 12,
+      "subtopics": [
+        {
+          "number": "4.5.1",
+          "title": "Adjoint of a matrix",
+          "page": 12,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "4.6",
+      "title": "Applications of Determinants and Matrices",
+      "page": 18,
+      "subtopics": []
+    }
+  ]
+}

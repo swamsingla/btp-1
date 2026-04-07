@@ -1,0 +1,18 @@
+{
+  "chapter_number": 2,
+  "chapter_title": "ARITHMETIC EXPRESSIONS",
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "Simple Expressions",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "2.2",
+      "title": "Reading and Evaluating Complex Expressions",
+      "page": 3,
+      "subtopics": []
+    }
+  ]
+}

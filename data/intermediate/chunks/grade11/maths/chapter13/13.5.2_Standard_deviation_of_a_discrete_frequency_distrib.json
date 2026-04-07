@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 13,
+  "chapter_title": "STATISTICS",
+  "topic_number": "13.5.2",
+  "topic_title": "Standard deviation of a discrete frequency distribution",
+  "depth": 3,
+  "page_start": 19,
+  "content": "frequency distribution be\nx :\nx1,   x2,     x3 ,. . . , xn\nf :\nf1,    f2,     f3 ,. . . ,  fn\nIn this case standard deviation  ( )\n(\n)\nN\nn\ni\ni\ni\nf x\nx\nσ\n=\n=\n−\n∑\n... (2)\nwhere\nN\nn\ni\ni\nf\n=\n=∑\n.\nLet us take up following example.\nExample 9  Find the variance and standard deviation for the following data:\nxi\nf i\nSolution Presenting the data in tabular form (Table 13.8), we get\nTable 13.8\nxi\nf i\nfi xi\nxi – x\n2)\n(\nx\nxi −\nfi\n2)\n(\nx\nxi −\n–10\n–6\n–3\nReprint 2025-26\nN = 30,\n(\n)\n420,\ni\ni\ni\ni\ni\ni\nf x\nf\nx\nx\n=\n=\n=\n−\n=\n∑\n∑\nTherefore\nN\ni\ni\ni\nf x\nx\n=\n=\n=\n×\n=\n∑\nHence\nvariance\n(\n)\nσ\n=\n(\n)\nN\ni\ni\ni\nf x\nx\n=\n−\n∑\n= 1\n30  × 1374 = 45.8\nand\nStandard deviation\n8.\n)\n(\n=\nσ\n= 6.77\n13.5.3  Standard deviation of a continuous frequency distribution The given",
+  "content_length": 733
+}

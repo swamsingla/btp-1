@@ -1,0 +1,38 @@
+{
+  "source_pdf": "chapter9.pdf",
+  "chapter_number": "9",
+  "chapter_title": null,
+  "total_topics": 5,
+  "topics": [
+    {
+      "number": "9.1",
+      "title": "What Are Solute, Solvent, and Solution?",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "9.2",
+      "title": "How Much Solute Can a Fixed Amount of",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "9.3",
+      "title": "Solubility of Gases",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "9.4",
+      "title": "Why Do Objects Float or Sink in Water?",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "9.5",
+      "title": "What Is Density?",
+      "page": 7,
+      "subtopics": []
+    }
+  ]
+}

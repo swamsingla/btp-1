@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 8,
+  "chapter_title": "SEQUENCES AND SERIES",
+  "topic_number": "8.4",
+  "topic_title": "Geometric Progression (G . P.)",
+  "depth": 2,
+  "page_start": 5,
+  "content": "Let us consider the following sequences:\n(i) 2,4,8,16,..., (ii)\n1 1\n9 27 81 243\n–\n–\n,\n,\n,\n... (iii) .\n,.\n,.\n,...\n01 0001 000001\nIn each of these sequences, how their terms progress? We note that each term, except\nthe first progresses in a definite order.\nIn (i), we have a\na\na\na\na\na\na\n=\n=\n=\n=\n,\n,\n,\nand so on.\nIn (ii), we observe, a\na\na\na\na\na\na\n=\n=\n=\n=\n,\n,\n,\n\u0013\n\u0013\n\u0013\nand so on.\nSimilarly, state how do the terms in (iii) progress? It is observed that in each case,\nevery term except the first term bears a constant ratio to the term immediately preceding\nit. In (i), this constant ratio is 2; in (ii), it is – 1\n3  and in (iii), the constant ratio is 0.01.\nSuch sequences are called geometric sequence or geometric progression abbreviated\nas G.P.\nA sequence a1, a2, a3, …, an, … is called geometric progression, if each term is\nnon-zero and\na\na\nk\nk\n+ 1 = r (constant), for k ≥ 1.\nBy letting a1 = a, we obtain a geometric progression, a, ar, ar2, ar3,…., where a\nis called the first term and r is called the common ratio of the G.P. Common ratio in\ngeometric progression (i), (ii) and (iii) above are 2, – 1\n3  and 0.01, respectively.\nReprint 2025-26\n140       MATHEMATICS\nAs in case of arithmetic progression, the problem of finding the nth term or sum of n\nterms of a geometric progression containing a large number of  terms would be difficult\nwithout the use of the formulae which we shall develop in the next Section. We shall\nuse the following notations with these formulae:\na = the first term, r = the common ratio, l = the last term,\nn = the numbers of terms,\nSn = the sum of first n terms.\n8.4.1  General term of a G .P. Let us consider a G.P. with first non-zero term ‘a’ and",
+  "content_length": 1682
+}

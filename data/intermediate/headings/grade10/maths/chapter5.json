@@ -1,0 +1,36 @@
+{
+  "chapter_number": 5,
+  "chapter_title": "ARITHMETIC PROGRESSIONS",
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "5.2",
+      "title": "Arithmetic Progressions",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "5.3",
+      "title": "nth Term of an AP",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "5.4",
+      "title": "Sum of First n Terms of an AP",
+      "page": 15,
+      "subtopics": []
+    },
+    {
+      "number": "5.5",
+      "title": "Summary",
+      "page": 24,
+      "subtopics": []
+    }
+  ]
+}

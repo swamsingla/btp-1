@@ -1,0 +1,89 @@
+{
+  "source_pdf": "chapter4.pdf",
+  "chapter_number": "4",
+  "chapter_title": "STRUCTURE",
+  "total_topics": 13,
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "Charged Particles in Matter",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "The Structure of an Atom",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "4.2.1",
+          "title": "THOMSON’S MODEL OF AN ATOM",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "4.2.2",
+          "title": "RUTHERFORD’S MODEL OF AN ATOM",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "4.2.3",
+          "title": "BOHR’S MODEL OF ATOM",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "4.2.4",
+          "title": "NEUTRONS",
+          "page": 4,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "4.3",
+      "title": "How are Electrons Distributed",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "4.4",
+      "title": "Valency",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "4.5",
+      "title": "Atomic Number and Mass",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "4.5.1",
+          "title": "ATOMIC NUMBER",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "4.5.2",
+          "title": "MASS NUMBER",
+          "page": 7,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "4.6",
+      "title": "Isotopes",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "4.6.1",
+          "title": "ISOBARS",
+          "page": 8,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

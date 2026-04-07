@@ -1,0 +1,30 @@
+{
+  "chapter_number": 1,
+  "chapter_title": "REAL NUMBERS",
+  "topics": [
+    {
+      "number": "1.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "1.2",
+      "title": "The Fundamental Theorem of Arithmetic",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "1.3",
+      "title": "Revisiting Irrational Numbers",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "1.4",
+      "title": "Summary",
+      "page": 9,
+      "subtopics": []
+    }
+  ]
+}

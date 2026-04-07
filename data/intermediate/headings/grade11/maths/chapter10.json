@@ -1,0 +1,79 @@
+{
+  "chapter_number": 10,
+  "chapter_title": "CONIC SECTIONS",
+  "topics": [
+    {
+      "number": "10.2.1",
+      "title": "Circle, ellipse, parabola and hyperbola",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "10.2.2",
+      "title": "Degenerated conic sections",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "10.4",
+      "title": "Parabola",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "10.4.1",
+          "title": "Standard equations of parabola",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "10.4.2",
+          "title": "Latus rectum",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "10.5.1",
+          "title": "Relationship between semi-major",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "10.5.2",
+          "title": "Eccentricity",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "10.5.3",
+          "title": "Standard equations of an ellipse",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "10.5.4",
+          "title": "Latus rectum",
+          "page": 17,
+          "subtopics": []
+        },
+        {
+          "number": "10.6.1",
+          "title": "Eccentricity",
+          "page": 22,
+          "subtopics": []
+        },
+        {
+          "number": "10.6.2",
+          "title": "Standard equation of  Hyperbola",
+          "page": 22,
+          "subtopics": []
+        },
+        {
+          "number": "10.6.3",
+          "title": "Latus rectum",
+          "page": 25,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

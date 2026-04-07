@@ -1,0 +1,87 @@
+{
+  "chapter_number": 9,
+  "chapter_title": "STRAIGHT LINES",
+  "topics": [
+    {
+      "number": "9.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "9.2",
+      "title": "Slope of a Line",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "9.2.1",
+          "title": "Slope of a line when coordinates of any two points on the line are given",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "9.2.2",
+          "title": "Conditions for parallelism and perpendicularity of lines in terms of their",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "9.2.3",
+          "title": "Angle between two lines",
+          "page": 6,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "9.3",
+      "title": "Various Forms",
+      "page": 9,
+      "subtopics": [
+        {
+          "number": "9.3.1",
+          "title": "Horizontal and vertical lines",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "9.3.2",
+          "title": "Point-slope form",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "9.3.3",
+          "title": "Two-point form",
+          "page": 11,
+          "subtopics": []
+        },
+        {
+          "number": "9.3.4",
+          "title": "Slope-intercept form",
+          "page": 11,
+          "subtopics": []
+        },
+        {
+          "number": "9.3.5",
+          "title": "Intercept - form",
+          "page": 13,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "9.4",
+      "title": "Distance of a Point",
+      "page": 14,
+      "subtopics": [
+        {
+          "number": "9.4.1",
+          "title": "Distance between two",
+          "page": 16,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

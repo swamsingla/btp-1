@@ -1,0 +1,42 @@
+{
+  "chapter_number": 8,
+  "chapter_title": "Playing with Constructions",
+  "topics": [
+    {
+      "number": "8.1",
+      "title": "Artwork",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "8.2",
+      "title": "Squares and Rectangles",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "8.3",
+      "title": "Constructing Squares and Rectangles",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "8.4",
+      "title": "An Exploration in Rectangles",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "8.5",
+      "title": "Exploring Diagonals of Rectangles and Squares",
+      "page": 17,
+      "subtopics": []
+    },
+    {
+      "number": "8.6",
+      "title": "Points Equidistant from Two Given Points",
+      "page": 25,
+      "subtopics": []
+    }
+  ]
+}

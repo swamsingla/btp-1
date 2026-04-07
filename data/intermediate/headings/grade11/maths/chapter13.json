@@ -1,0 +1,55 @@
+{
+  "chapter_number": 13,
+  "chapter_title": "STATISTICS",
+  "topics": [
+    {
+      "number": "13.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "13.2",
+      "title": "Measures of Dispersion",
+      "page": 3,
+      "subtopics": [
+        {
+          "number": "13.4.1",
+          "title": "Mean deviation for ungrouped data",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "13.4.2",
+          "title": "Mean deviation  for grouped data",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "13.4.3",
+          "title": "Limitations of mean deviation",
+          "page": 15,
+          "subtopics": []
+        },
+        {
+          "number": "13.5.1",
+          "title": "Standard Deviation",
+          "page": 18,
+          "subtopics": []
+        },
+        {
+          "number": "13.5.2",
+          "title": "Standard deviation of a discrete frequency distribution",
+          "page": 19,
+          "subtopics": []
+        },
+        {
+          "number": "13.5.3",
+          "title": "Standard deviation of a continuous frequency distribution",
+          "page": 20,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

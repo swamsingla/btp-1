@@ -1,0 +1,12 @@
+{
+  "grade": 8,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "THE BAUDHĀYANA- PYTHAGORAS THEOREM",
+  "topic_number": "2.2",
+  "topic_title": "Halving a Square",
+  "depth": 2,
+  "page_start": 4,
+  "content": "Now suppose we are given a square, and we want to\nconstruct a square whose area is half that of the original\nsquare. How would you do it?\nOne way to do it is to reverse the construction of the\nprevious section. We draw a tilted smaller square inside\nthe larger one:\nWhy is the smaller inside square half the area of the larger square?\nAgain, adding some east-west and north-south lines can explain it:\nHalving a Square Using Paper\nCut out a square from a piece of paper. Now make a square whose area\nis half the area of the first square.\nWill the square having half the sidelength have half the area? Why not?\nHow many such squares will fill the original square?\nFold the square paper inward, as shown, such that the crease lines\npass through the midpoints of the sides. PQRS is the required square\nwith half the area.\nS\nP\nQ\nR\nThe Baudhāyana-Pythagoras Theorem\nWhy is PQRS a square? Why is its area half that of the original paper?\nExplain by connecting QS and PR, finding the different angles formed,\nand then using tringle congruence.\n2.3 Hypotenuse of an Isosceles Right Triangle",
+  "content_length": 1082
+}

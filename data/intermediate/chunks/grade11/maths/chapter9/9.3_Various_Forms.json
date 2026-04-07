@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "STRAIGHT LINES",
+  "topic_number": "9.3",
+  "topic_title": "Various Forms",
+  "depth": 2,
+  "page_start": 9,
+  "content": "We know that every line in a plane contains infinitely many points on it. This relationship\nbetween line and points leads us to find the solution of the following problem:\nHow can we say that a given point lies on the given line? Its answer may be that\nfor a given line we should have a definite condition on the points lying on the line.\nSuppose P (x, y) is an arbitrary point in the XY-plane and L is the given line. For the\nequation of L, we wish to construct a statement or condition for the point P that is\ntrue, when P is on L, otherwise false. Of course the statement is merely an algebraic\nequation involving the variables x and y. Now, we will discuss the equation of a line\nunder different conditions.\n9.3.1 Horizontal and vertical lines If a horizontal line L is at a distance a from the x-",
+  "content_length": 801
+}

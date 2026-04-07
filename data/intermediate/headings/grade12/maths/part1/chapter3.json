@@ -1,0 +1,99 @@
+{
+  "chapter_number": 3,
+  "chapter_title": "MATRICES",
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "3.2",
+      "title": "Matrix",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "3.2.1",
+          "title": "Order of a matrix",
+          "page": 3,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.3",
+      "title": "Types of Matrices",
+      "page": 6,
+      "subtopics": [
+        {
+          "number": "3.3.1",
+          "title": "Equality of matrices",
+          "page": 8,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.4",
+      "title": "Operations on Matrices",
+      "page": 10,
+      "subtopics": [
+        {
+          "number": "3.4.1",
+          "title": "Addition of matrices",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.2",
+          "title": "Multiplication of a matrix by a scalar",
+          "page": 11,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.3",
+          "title": "Properties of matrix addition",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.4",
+          "title": "Properties of scalar multiplication of a matrix",
+          "page": 14,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.5",
+          "title": "Multiplication of matrices",
+          "page": 17,
+          "subtopics": []
+        },
+        {
+          "number": "3.4.6",
+          "title": "Properties of multiplication of matrices",
+          "page": 21,
+          "subtopics": []
+        },
+        {
+          "number": "3.5.1",
+          "title": "Properties of transpose of the matrices",
+          "page": 28,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.6",
+      "title": "Symmetric and Skew Symmetric Matrices",
+      "page": 30,
+      "subtopics": []
+    },
+    {
+      "number": "3.7",
+      "title": "Invertible Matrices",
+      "page": 35,
+      "subtopics": []
+    }
+  ]
+}

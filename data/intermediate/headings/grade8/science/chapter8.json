@@ -1,0 +1,38 @@
+{
+  "source_pdf": "chapter8.pdf",
+  "chapter_number": "8",
+  "chapter_title": null,
+  "total_topics": 5,
+  "topics": [
+    {
+      "number": "8.1",
+      "title": "What Are Mixtures?",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "8.2",
+      "title": "What Are Pure Substances?",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "8.3",
+      "title": "What Are the Types of Pure Substances?",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "8.4",
+      "title": "\u0007How Do We Use Elements, Compounds,",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "8.5",
+      "title": "What Are Minerals?",
+      "page": 14,
+      "subtopics": []
+    }
+  ]
+}

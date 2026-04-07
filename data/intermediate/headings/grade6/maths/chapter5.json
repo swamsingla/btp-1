@@ -1,0 +1,42 @@
+{
+  "chapter_number": 5,
+  "chapter_title": "PRIME TIME",
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "Common Multiples and Common Factors",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "5.2",
+      "title": "Prime Numbers",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "5.3",
+      "title": "Co-prime numbers for safekeeping treasures",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "5.4",
+      "title": "Prime Factorisation",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "5.5",
+      "title": "Divisibility Tests",
+      "page": 16,
+      "subtopics": []
+    },
+    {
+      "number": "5.6",
+      "title": "Fun with numbers",
+      "page": 20,
+      "subtopics": []
+    }
+  ]
+}

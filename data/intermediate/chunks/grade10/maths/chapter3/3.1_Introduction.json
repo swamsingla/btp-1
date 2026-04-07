@@ -1,0 +1,12 @@
+{
+  "grade": 10,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+  "topic_number": "3.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "You must have come across situations like the one given below :\nAkhila went to a fair in her village. She wanted to enjoy rides on the Giant Wheel\nand play Hoopla (a game in which you throw a ring on the items kept in a stall, and if\nthe ring covers any object completely, you get it). The number of times she played\nHoopla is half the number of rides she had on the Giant Wheel. If each ride costs\n` 3, and a game of Hoopla costs ` 4, how would you find out the number of rides she\nhad and how many times she played Hoopla, provided she spent ` 20.\nMay be you will try it by considering different cases. If she has one ride, is it\npossible? Is it possible to have two rides? And so on. Or you may use the knowledge\nof Class IX, to represent such situations as linear equations in two variables.\nReprint 2025-26\nPAIR OF LINEAR EQUATIONS IN TWO VARIABLES\nLet us try this approach.\nDenote the number of rides that Akhila had by x, and the number of times she\nplayed Hoopla by y. Now the situation can be represented by the two equations:\ny = 1\n2 x\n(1)\n3x + 4y = 20\n(2)\nCan we find the solutions of this pair of equations? There are several ways of\nfinding these, which we will study in this chapter.\n3.2 Graphical Method of Solution of a Pair of Linear Equations",
+  "content_length": 1260
+}

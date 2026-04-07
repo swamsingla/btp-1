@@ -1,0 +1,44 @@
+{
+  "source_pdf": "chapter13.pdf",
+  "chapter_number": "13",
+  "chapter_title": null,
+  "total_topics": 6,
+  "topics": [
+    {
+      "number": "13.1",
+      "title": "Why Is Earth a Unique Planet?",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "13.2",
+      "title": "\u0007What Do the Planets of Our Solar System",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "13.3",
+      "title": "What Makes the Earth Suitable for Life to",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "13.4",
+      "title": "What Allows Life to Be Sustained on Earth?",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "13.5",
+      "title": "What Keeps Life from Disappearing?",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "13.6",
+      "title": "What Are the Threats to Life on Earth?",
+      "page": 14,
+      "subtopics": []
+    }
+  ]
+}

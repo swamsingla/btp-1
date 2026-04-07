@@ -1,0 +1,12 @@
+{
+  "grade": 9,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "POLYNOMIALS",
+  "topic_number": "2.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "You have studied algebraic expressions, their addition, subtraction, multiplication and\ndivision in earlier classes. You also have studied how to factorise some algebraic\nexpressions. You may recall the algebraic identities :\n(x + y)2 = x2 + 2xy + y2\n(x – y)2 = x2 – 2xy + y2\nand\nx2 – y2 = (x + y) (x – y)\nand their use in factorisation. In this chapter, we shall start our study with a particular\ntype of algebraic expression, called polynomial, and the terminology related to it. We\nshall also study the Remainder Theorem and Factor Theorem and their use in the\nfactorisation of polynomials. In addition to the above, we shall study some more algebraic\nidentities and their use in factorisation and in evaluating some given expressions.\n2.2 Polynomials in One Variable",
+  "content_length": 770
+}

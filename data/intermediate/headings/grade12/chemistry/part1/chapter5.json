@@ -1,0 +1,27 @@
+{
+  "source_pdf": "chapter5.pdf",
+  "chapter_number": "5",
+  "chapter_title": null,
+  "total_topics": 3,
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "Write the formulas for the following coordination compounds:",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "5.2",
+      "title": "Write the IUPAC names of the following coordination compounds:",
+      "page": 8,
+      "subtopics": [
+        {
+          "number": "5.4.1",
+          "title": "Geometric Isomerism",
+          "page": 8,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

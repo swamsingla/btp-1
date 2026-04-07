@@ -1,0 +1,24 @@
+{
+  "chapter_number": 3,
+  "chapter_title": "COORDINATE GEOMETRY",
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "3.2",
+      "title": "Cartesian System",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "3.3",
+      "title": "Summary",
+      "page": 11,
+      "subtopics": []
+    }
+  ]
+}

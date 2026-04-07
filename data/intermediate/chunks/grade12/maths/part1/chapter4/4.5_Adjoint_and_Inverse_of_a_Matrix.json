@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "DETERMINANTS",
+  "topic_number": "4.5",
+  "topic_title": "Adjoint and Inverse of a Matrix",
+  "depth": 2,
+  "page_start": 12,
+  "content": "In the previous chapter, we have studied inverse of a matrix. In this section, we shall\ndiscuss the condition for existence of inverse of a matrix.\nTo find inverse of a matrix A, i.e., A–1 we shall first define adjoint of a matrix.\n4.5.1  Adjoint of a matrix",
+  "content_length": 258
+}

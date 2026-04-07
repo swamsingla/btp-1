@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "STRAIGHT LINES",
+  "topic_number": "9.3.1",
+  "topic_title": "Horizontal and vertical lines",
+  "depth": 3,
+  "page_start": 9,
+  "content": "axis then ordinate of every point lying on the line is either a or – a [Fig 9.8 (a)].\nTherefore, equation of the line L is either y =  a or y = – a. Choice of sign will depend\nupon the position of the line according as the line is above or below the y-axis. Similarly,\nthe equation of a vertical line at a distance b from the y-axis is either x = b or\nx =  – b  [Fig 9.8(b)].\nReprint 2025-26\nExample 4 Find the equations of the lines\nparallel to axes and passing through\n(– 2, 3).\nSolution Position of the lines is shown in the\nFig 9.9. The y-coordinate of every point on the\nline parallel to x-axis is 3, therefore, equation\nof the line parallel tox-axis and passing through\n(– 2, 3) is y = 3. Similarly, equation of the line\nparallel  to y-axis and passing through (– 2, 3)\nis x = – 2.\n9.3.2 Point-slope form  Suppose that\nFig  9.8\nFig  9.9",
+  "content_length": 842
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "VECTOR ALGEBRA",
+  "topic_number": "10.5",
+  "topic_title": "Multiplication of a Vector by a Scalar",
+  "depth": 2,
+  "page_start": 9,
+  "content": "a\na\na\n–2\na\na\nLet  be a given vector and λ a scalar. Then the product of the vector  by the scalar\nλ, denoted as λ , is called the multiplication of vector  by the scalar λ. Note that, λ\nis also a vector, collinear to the vector . The vector λ  has the direction same (or\nopposite) to that of vector  according as the value of λ is positive (or negative). Also,\nthe magnitude of vector λ  is |λ| times the magnitude of the vector , i.e.,\n|λ | = |λ|| |\nA geometric visualisation of multiplication of a vector by a scalar is given\nin Fig 10.12.\nFig 10.12\nWhen λ = –1, then λ = – , which is a vector having magnitude equal to the\nmagnitude of  and direction opposite to that of the direction of . The vector –  is\ncalled the negative (or additive inverse) of vector  and we always have\n+ (– ) = (– ) +  =\nAlso, if\n= |\n|\na\nλ\n, provided  ≠ 0 i.e.  is not a null vector, then\n|λ | =|λ|| | =\nReprint 2025-26\nVECTOR ALGEBRA\nSo, λ  represents the unit vector in the direction of . We write it as\nˆa  =\n|\n|\nr\nr a\na\nANote  For any scalar k, 0 = 0.\nr\nr\nk\n10.5.1  Components of a vector",
+  "content_length": 1072
+}

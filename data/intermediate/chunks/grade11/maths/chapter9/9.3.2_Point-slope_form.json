@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "STRAIGHT LINES",
+  "topic_number": "9.3.2",
+  "topic_title": "Point-slope form",
+  "depth": 3,
+  "page_start": 10,
+  "content": "P0 (x0, y0) is a fixed point on a non-vertical\nline L, whose slope is m. Let P (x, y) be an\narbitrary point on L (Fig 9.10).\nThen, by the definition, the slope of L is given\nby\n(\n)\nx\nx\nm\ny\ny\nx\nx\ny\ny\nm\n,\ni.e.\n,\n−\n=\n−\n−\n−\n=\n...(1)\nSince the point P0 (x0 , y0) along with\nall points (x, y) on L satisfies (1) and no other\npoint in the plane satisfies (1). Equation (1)\nis indeed the equation for the given line L.\nFig 9.10\nReprint 2025-26\nSTRAIGHT LINES       161\nThus, the point (x, y) lies on the line with slope m through the fixed point (x0, y0),\nif and only if, its coordinates satisfy the equation\ny – y0 = m (x – x0)\nExample 5 Find the equation of the line through (– 2, 3) with slope – 4.\nSolution Here m = – 4 and given point (x0 , y0) is (– 2, 3).\nBy slope-intercept form formula\n(1) above, equation of the given\nline is\ny – 3 = – 4 (x + 2) or\n4x + y + 5 = 0, which is the\nrequired equation.\n9.3.3 Two-point form Let the",
+  "content_length": 927
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "SETS",
+  "topic_number": "1.3",
+  "topic_title": "The Empty Set",
+  "depth": 2,
+  "page_start": 5,
+  "content": "Consider the set\nA = { x : x is a student of Class XI presently studying in a school }\nWe can go to the school and count the number of students presently studying in\nClass XI in the school. Thus, the set A contains a finite number of elements.\nWe now write another set B as follows:\nReprint 2025-26\n6       MATHEMATICS\nB = { x : x is a student presently studying in both Classes X and XI }\nWe observe that a student cannot study simultaneously in both Classes X and XI.\nThus, the set B contains no element at all.\nDefinition 1 A set which does not contain any element is called the empty set or the\nnull set or the void set.\nAccording to this definition, B is an empty set while A is not an empty set. The\nempty set is denoted by the symbol φ or {   }.\nWe give below a few examples of empty sets.\n(i)\nLet A = {x : 1 < x < 2, x is a natural number}. Then A is the empty set,\nbecause there is no natural number between 1 and 2.\n(ii)\nB = {x : x2 – 2 = 0 and x is rational number}. Then B is the empty set because\nthe equation x2 – 2 = 0 is not satisfied by any rational value of x.\n(iii)\nC = {x : x is an even prime number greater than 2}.Then C is the empty set,\nbecause 2 is the only even prime number.\n(iv)\nD = { x : x2 = 4, x is odd }. Then D is the empty set, because the equation\nx2 = 4 is not satisfied by any odd value of x.\n1.4  Finite and Infinite Sets",
+  "content_length": 1359
+}

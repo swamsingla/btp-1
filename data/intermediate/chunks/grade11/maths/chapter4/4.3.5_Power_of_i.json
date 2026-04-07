@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topic_number": "4.3.5",
+  "topic_title": "Power of i",
+  "depth": 3,
+  "page_start": 4,
+  "content": "(\n)\ni\ni i\ni\ni\n=\n= −\n= −,\n( )\n(\n)\ni\ni\n=\n= −\n=\n( )\n(\n)\ni\ni\ni\ni\ni\n=\n= −\n= ,\n( )\n(\n)\ni\ni\n=\n= −\n= −, etc.\nAlso, we have\n,\n1,\ni\ni\ni\ni\ni\ni\ni\ni\n−\n−\n=\n×\n=\n= −\n=\n=\n= −\n−\n−\n,\ni\ni\ni\ni\ni\ni\ni\ni\ni\n−\n−\n=\n=\n×\n=\n=\n=\n=\n=\n−\nIn general, for any integer k, i4k = 1, i4k + 1 = i, i4k + 2 = –1, i4k + 3 = – i\n4.3.6  The square roots of a negative real number",
+  "content_length": 334
+}

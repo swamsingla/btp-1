@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "MATRICES",
+  "topic_number": "3.4.3",
+  "topic_title": "Properties of matrix addition",
+  "depth": 3,
+  "page_start": 13,
+  "content": "The addition of matrices satisfy the following properties:\n(i)\nCommutative Law  If A = [aij], B = [bij] are matrices of the same order, say\nm × n, then A + B = B + A.\nNow\nA + B = [aij] + [bij] = [aij + bij]\n= [bij + aij] (addition of numbers is commutative)\n= ([bij] + [aij]) = B + A\n(ii)\nAssociative Law  For any three matrices A = [aij], B = [bij], C = [cij] of the\nsame order, say m × n, (A + B) + C = A + (B + C).\nNow\n(A + B) + C = ([aij] + [bij]) + [cij]\n= [aij + bij] + [cij] = [(aij + bij) + cij]\n= [aij + (bij + cij)]\n(Why?)\n= [aij] + [(bij + cij)] = [aij] + ([bij] + [cij]) = A + (B + C)\nReprint 2025-26\nMATRICES         47\n(iii)\nExistence of additive identity Let A = [aij] be an m × n matrix and\nO be an m × n zero matrix, then A + O = O  + A = A. In other words, O is the\nadditive identity for matrix addition.\n(iv)\nThe existence of additive inverse Let A = [aij]m × n be any matrix, then we\nhave another matrix as – A = [– aij]m × n such that A + (– A) = (– A) + A= O. So\n– A is the additive inverse of A or negative of A.\n3.4.4  Properties of scalar multiplication of a matrix",
+  "content_length": 1090
+}

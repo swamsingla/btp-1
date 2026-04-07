@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "VECTOR ALGEBRA",
+  "topic_number": "10.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In our day to day life, we come across many queries such\nas – What is your height? How should a football player hit\nthe ball to give a pass to another player of his team? Observe\nthat a possible answer to the first query may be 1.6 meters,\na quantity that involves only one value (magnitude) which\nis a real number. Such quantities are called scalars.\nHowever, an answer to the second query is a quantity (called\nforce) which involves muscular strength (magnitude) and\ndirection (in which another player is positioned). Such\nquantities are called vectors. In mathematics, physics and\nengineering, we frequently come across with both types of\nquantities, namely, scalar quantities such as length, mass,\ntime, distance, speed, area, volume, temperature, work,\nmoney, voltage, density, resistance etc. and vector quantities like displacement, velocity,\nacceleration,  force, weight, momentum, electric field intensity etc.\nIn this chapter, we will study some of the basic concepts about vectors, various\noperations on vectors, and their algebraic and geometric properties. These two type of\nproperties, when considered together give a full realisation to the concept of vectors,\nand lead to their vital applicability in various areas as mentioned above.\n10.2  Some Basic Concepts\nW.R. Hamilton\n(1805-1865)",
+  "content_length": 1302
+}

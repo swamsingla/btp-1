@@ -1,0 +1,79 @@
+{
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "Complex Numbers",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "4.3",
+      "title": "Algebra of Complex Numbers",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "4.3.1",
+          "title": "Addition of two complex numbers",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.2",
+          "title": "Difference of two complex numbers",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.3",
+          "title": "Multiplication of two complex numbers",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.4",
+          "title": "Division of two complex numbers",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.5",
+          "title": "Power of i",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.6",
+          "title": "The square roots of a negative real number",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.7",
+          "title": "Identities",
+          "page": 5,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "4.4",
+      "title": "The Modulus and the Conjugate of a Complex Number",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "4.5",
+      "title": "Argand Plane and Polar Representation",
+      "page": 8,
+      "subtopics": []
+    }
+  ]
+}

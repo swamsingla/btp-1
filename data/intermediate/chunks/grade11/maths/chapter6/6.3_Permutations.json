@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 6,
+  "chapter_title": "PERMUTATIONS AND COMBINATIONS",
+  "topic_number": "6.3",
+  "topic_title": "Permutations",
+  "depth": 2,
+  "page_start": 5,
+  "content": "In Example 1 of  the previous Section, we are actually counting the different possible\narrangements of the letters such as ROSE, REOS, ..., etc. Here, in this list, each\narrangement is different from other. In other words, the order of writing the letters is\nimportant. Each arrangement is called a permutation of 4 different letters taken all\nat a time. Now, if we have to determine the number of 3-letter words, with or without\nmeaning, which can be formed out of the letters of the word NUMBER, where the\nrepetition of the letters is not allowed, we need to count the arrangements NUM,\nNMU, MUN, NUB, ..., etc. Here, we are counting the permutations of 6 different\nletters taken 3 at a time. The required number of words = 6 × 5 × 4 = 120 (by using\nmultiplication principle).\nIf the repetition of the letters was allowed, the required number of words would\nbe 6 × 6 × 6 = 216.\nReprint 2025-26\nPERMUTATIONS AND COMBINATIONS       105\nDefinition 1 A permutation is an arrangement in a definite order of a number of\nobjects taken some or all at a time.\nIn the following sub-section, we shall obtain the formula needed to answer these\nquestions immediately.\n6.3.1  Permutations when all the objects are distinct",
+  "content_length": 1210
+}

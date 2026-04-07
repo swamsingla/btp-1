@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topic_number": "4.3.7",
+  "topic_title": "Identities",
+  "depth": 3,
+  "page_start": 5,
+  "content": "(\n)\n1 2\nz\nz\nz\nz\nz z\n+\n=\n+\n+\n, for all complex numbers z1 and z2.\nProof  We have,\n(z1 + z2)2 = (z1 + z2) (z1 + z2),\n=  (z1 + z2) z1 + (z1 + z2) z2\n(Distributive law)\n=\n2 1\n1 2\nz\nz z\nz z\nz\n+\n+\n+\n(Distributive law)\n=\n1 2\n1 2\nz\nz z\nz z\nz\n+\n+\n+\n(Commutative law of multiplication)\n=\n1 2\nz\nz z\nz\n+\n+\nSimilarly, we can prove the following identities:\n(i)\n(\n)\nz\nz\nz\nz z\nz\n−\n=\n−\n+\n(ii)\n(\n)\n1 2\nz\nz\nz\nz z\nz z\nz\n+\n=\n+\n+\n+\n(iii)\n(\n)\n1 2\nz\nz\nz\nz z\nz z\nz\n−\n=\n−\n+\n−\n(iv)\n(\n) (\n)\nz – z\nz\nz\nz – z\n=\n+\nIn fact, many other identities which are true for all real numbers, can be proved\nto be true for all complex numbers.\nExample 2 Express the following in the form of  a + bi:\n(i)\n(\n)\ni\ni\n\n\n−\n\n\n\n\n(ii)\n(\n) (\n)\ni\ni\n−\n8 i\n\n\n−\n\n\n\n\nSolution\n(i)\n(\n)\ni\ni\n\n\n−\n\n\n\n =\n8 i\n−\n=\n(\n)\n−\n−\n= 5\n8 = 5\ni\n+\n(ii)\n(\n) (\n)\ni\ni\ni\n\n\n−\n−\n\n\n\n =\n8 8 8\ni\n×\n×\n× ×\n=\n( )\n256 i\ni\ni\n=\n.\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       81\nExample 3 Express (5 – 3i)3 in the form a + ib.\nSolution We have, (5 – 3i)3 = 53 – 3 × 52 × (3i) + 3 × 5 (3i)2 – (3i)3\n= 125 –  225i – 135 + 27i  = – 10 – 198i.\nExample 4 Express (\n)(\n)\n2 3\ni\n−\n+\n−\n−\nin the form of a + ib\nSolution We have, (\n) (\n)\n2 3\ni\n−\n+\n−\n−\n= (\n) (\n)\n2 3\ni\ni\n−\n+\n−\n=\n2 6\ni\ni\ni\n−+\n+\n−\n= (\n)\n(\n)\n3 1\n2 2 i\n−+\n+\n+\n4.4  The Modulus and the Conjugate of a Complex Number",
+  "content_length": 1312
+}

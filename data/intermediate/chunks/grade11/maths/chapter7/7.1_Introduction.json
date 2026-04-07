@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "BINOMIAL THEOREM",
+  "topic_number": "7.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In earlier classes, we have learnt how to find the squares\nand cubes of binomials like a + b and a – b. Using them, we\ncould evaluate the numerical values of numbers like\n(98)2 = (100 – 2)2, (999)3 = (1000 – 1)3, etc. However, for\nhigher powers like (98)5, (101)6, etc., the calculations become\ndifficult by using repeated multiplication. This difficulty was\novercome by a theorem known as binomial theorem. It gives\nan easier way to expand (a + b)n, where n is an integer or a\nrational number. In this Chapter, we study binomial theorem\nfor positive integral indices only.\n7.2 Binomial Theorem for Positive Integral Indices\nBlaise Pascal\n(1623-1662)",
+  "content_length": 650
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 5,
+  "chapter_title": "CONTINUITY AND DIFFERENTIABILITY",
+  "topic_number": "5.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "This chapter is essentially a continuation of our study of\ndifferentiation of functions in Class XI. We had learnt to\ndifferentiate certain functions like polynomial functions and\ntrigonometric functions. In this chapter, we introduce the\nvery important concepts of continuity, differentiability and\nrelations between them. We will also learn differentiation\nof inverse trigonometric functions. Further, we introduce a\nnew class of functions called exponential and logarithmic\nfunctions. These functions lead to powerful techniques of\ndifferentiation. We illustrate certain geometrically obvious\nconditions through differential calculus. In the process, we\nwill learn some fundamental theorems in this area.\n5.2  Continuity\nSir Issac Newton\n(1642-1727)",
+  "content_length": 752
+}

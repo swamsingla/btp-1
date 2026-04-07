@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 14,
+  "chapter_title": "PROBABILITY",
+  "topic_number": "14.2.1",
+  "topic_title": "Probability of an event",
+  "depth": 3,
+  "page_start": 10,
+  "content": "‘examining three consecutive pens produced by a machine and classified as Good\n(non-defective) and bad (defective)’. We may get 0, 1, 2 or 3 defective pens as result\nof this examination.\nA sample space associated with this experiment is\nS = {BBB, BBG, BGB, GBB, BGG, GBG, GGB, GGG},\nwhere B stands for a defective or bad pen and G for a non – defective or good pen.\nLet the probabilities assigned to the outcomes be as follows\nSample point:\nBBB\nBBG\nBGB\nGBB\nBGG\nGBG\nGGB\nGGG\nProbability:\nLet event A: there is exactly one defective pen and event B: there are atleast two\ndefective pens.\nHence A = {BGG, GBG, GGB} and B = {BBG, BGB, GBB, BBB}\nNow\nP(A) =\nP(ω ), ω\nA\ni\ni\n∑\n∀\n∈\n= P(BGG) + P(GBG) + P(GGB) =\n=\n+\n+\nand\nP(B) =\nP(ω ), ω\nB\ni\ni\n∑\n∀\n∈\n= P(BBG) + P(BGB) + P(GBB) + P(BBB) =\n=\n=\n+\n+\n+\nLet us consider another experiment of ‘tossing a coin “twice”\nThe sample space of this experiment is S = {HH, HT, TH, TT}\nLet the following probabilities be assigned to the outcomes\nP(HH) = 4\n1 , P(HT) = 7\n1 , P(TH) = 7\n2 , P(TT) = 28\nClearly this assignment satisfies the conditions of axiomatic approach. Now, let\nus find the probability of the event E: ‘Both the tosses yield the same result’.\nHere\nE = {HH, TT}\nNow\nP(E) = Σ P(wi), for all wi ∈ E\nReprint 2025-26\nPROBABILITY            299\n= P(HH) + P(TT) =\n=\n+\nFor the event F: ‘exactly two heads’, we have F = {HH}\nand\nP(F) = P(HH) =\n14.2.2  Probabilities of equally likely outcomes  Let a sample space of an",
+  "content_length": 1450
+}

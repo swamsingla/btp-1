@@ -1,0 +1,33 @@
+{
+  "source_pdf": "chapter13.pdf",
+  "chapter_number": "13",
+  "chapter_title": "Our Environment",
+  "total_topics": 4,
+  "topics": [
+    {
+      "number": "13.1",
+      "title": "ECO-SYSTEM — WHA -SYSTEM — WHA",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "13.1.1",
+          "title": "Food Chains and Webs",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "13.2.1",
+          "title": "Ozone Layer and How it is Getting Depleted",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "13.2.2",
+          "title": "Managing the Garbage we Produce",
+          "page": 6,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

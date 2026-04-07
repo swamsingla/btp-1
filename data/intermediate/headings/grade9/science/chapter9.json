@@ -1,0 +1,96 @@
+{
+  "source_pdf": "chapter9.pdf",
+  "chapter_number": "9",
+  "chapter_title": "GRAVITATION",
+  "total_topics": 14,
+  "topics": [
+    {
+      "number": "9.1",
+      "title": "Gravitation",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "9.1.1",
+          "title": "UNIVERSAL LAW OF GRAVITATION",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "9.1.2",
+          "title": "IMPORTANCE OF THE UNIVERSAL",
+          "page": 3,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "9.2",
+      "title": "Free Fall",
+      "page": 3,
+      "subtopics": [
+        {
+          "number": "9.2.1",
+          "title": "TO CALCULATE THE VALUE OF g",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "9.2.2",
+          "title": "MOTION OF OBJECTS UNDER THE",
+          "page": 4,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "9.3",
+      "title": "Mass",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "9.4",
+      "title": "Weight",
+      "page": 6,
+      "subtopics": [
+        {
+          "number": "9.4.1",
+          "title": "WEIGHT OF AN OBJECT ON",
+          "page": 6,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "9.5",
+      "title": "Thrust and Pressure",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "9.5.1",
+          "title": "PRESSURE IN FLUIDS",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "9.5.3",
+          "title": "WHY OBJECTS FLOAT OR SINK",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "9.5.2",
+          "title": "BUOYANCY",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "9.6",
+      "title": "Archimedes’ Principle",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

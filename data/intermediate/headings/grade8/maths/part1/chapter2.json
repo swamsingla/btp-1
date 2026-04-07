@@ -1,0 +1,42 @@
+{
+  "chapter_number": 2,
+  "chapter_title": "POWER PLAY",
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "Experiencing the Power Play ...",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "2.2",
+      "title": "Exponential Notation and Operations",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "2.3",
+      "title": "The Other Side of Powers",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "2.4",
+      "title": "Powers of 10",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "2.5",
+      "title": "Did You Ever Wonder?",
+      "page": 15,
+      "subtopics": []
+    },
+    {
+      "number": "2.5",
+      "title": "A Pinch of History",
+      "page": 24,
+      "subtopics": []
+    }
+  ]
+}

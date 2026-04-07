@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "INTEGRALS",
+  "topic_number": "7.8.2",
+  "topic_title": "First fundamental theorem of integral calculus",
+  "depth": 3,
+  "page_start": 43,
+  "content": "Theorem 1 Let f be a continuous function on the closed interval [a, b] and let A (x) be\nthe area function. Then A′(x) = f (x), for all x ∈ [a, b].\nReprint 2025-26\n7.8.3  Second fundamental theorem of integral calculus",
+  "content_length": 217
+}

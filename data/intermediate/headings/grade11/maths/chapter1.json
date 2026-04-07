@@ -1,0 +1,98 @@
+{
+  "chapter_number": 1,
+  "chapter_title": "SETS",
+  "topics": [
+    {
+      "number": "1.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "1.2",
+      "title": "Sets and their Representations",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "1.3",
+      "title": "The Empty Set",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "1.4",
+      "title": "Finite and Infinite Sets",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "1.5",
+      "title": "Equal Sets",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "1.6",
+      "title": "Subsets",
+      "page": 9,
+      "subtopics": [
+        {
+          "number": "1.6.1",
+          "title": "Subsets of set of real numbers",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "1.6.2",
+          "title": "Intervals as subsets of R",
+          "page": 11,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "1.7",
+      "title": "Universal Set",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "1.8",
+      "title": "Venn Diagrams",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "1.9",
+      "title": "Operations on Sets",
+      "page": 13,
+      "subtopics": [
+        {
+          "number": "1.9.1",
+          "title": "Union of sets",
+          "page": 14,
+          "subtopics": []
+        },
+        {
+          "number": "1.9.2",
+          "title": "Intersection of sets",
+          "page": 15,
+          "subtopics": []
+        },
+        {
+          "number": "1.9.3",
+          "title": "Difference of sets",
+          "page": 16,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "1.10",
+      "title": "Complement of a Set",
+      "page": 18,
+      "subtopics": []
+    }
+  ]
+}

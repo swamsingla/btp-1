@@ -1,0 +1,49 @@
+{
+  "chapter_number": 8,
+  "chapter_title": "SEQUENCES AND SERIES",
+  "topics": [
+    {
+      "number": "8.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "8.2",
+      "title": "Sequences",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "8.3",
+      "title": "Series",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "8.4",
+      "title": "Geometric Progression (G . P.)",
+      "page": 5,
+      "subtopics": [
+        {
+          "number": "8.4.1",
+          "title": "General term of a G .P.",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "8.4.3",
+          "title": "Geometric Mean (G .M.)",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "8.5",
+      "title": "Relationship Between A.M. and G.M.",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

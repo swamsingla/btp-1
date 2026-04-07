@@ -1,0 +1,38 @@
+{
+  "source_pdf": "chapter4.pdf",
+  "chapter_number": "4",
+  "chapter_title": "Exploring Magnets",
+  "total_topics": 5,
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "Magnetic and Non-magnetic Materials",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "Poles of Magnet",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "4.3",
+      "title": "Finding Directions",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "4.4",
+      "title": "Attraction and Repulsion between Magnets",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "4.5",
+      "title": "Fun with Magnets",
+      "page": 11,
+      "subtopics": []
+    }
+  ]
+}

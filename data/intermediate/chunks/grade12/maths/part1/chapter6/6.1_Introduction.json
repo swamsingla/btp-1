@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 6,
+  "chapter_title": "APPLICATION OF DERIVATIVES",
+  "topic_number": "6.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In Chapter 5, we have learnt how to find derivative of composite functions, inverse\ntrigonometric functions, implicit functions, exponential functions and logarithmic functions.\nIn this chapter, we will study applications of the derivative in various disciplines, e.g., in\nengineering, science, social science, and many  other fields. For instance, we will learn\nhow the derivative can be used (i) to determine rate of change of quantities, (ii) to find\nthe equations of tangent and normal to a curve at a point, (iii) to find turning points on\nthe graph of a function which in turn will help us to locate points at which largest or\nsmallest value (locally) of a function occurs. We will also use derivative to find intervals\non which a function is increasing or decreasing. Finally, we use the derivative to find\napproximate value of certain quantities.\n6.2 Rate of Change of Quantities",
+  "content_length": 887
+}

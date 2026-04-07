@@ -1,0 +1,48 @@
+{
+  "chapter_number": 2,
+  "chapter_title": "THE BAUDHĀYANA- PYTHAGORAS THEOREM",
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "Doubling a Square",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "2.2",
+      "title": "Halving a Square",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "2.3",
+      "title": "Hypotenuse of an Isosceles Right Triangle",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "2.4",
+      "title": "Combining Two Different Squares",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "2.5",
+      "title": "Right–Triangles Having Integer Sidelengths",
+      "page": 16,
+      "subtopics": []
+    },
+    {
+      "number": "2.6",
+      "title": "A Long-Standing Open Problem",
+      "page": 18,
+      "subtopics": []
+    },
+    {
+      "number": "2.7",
+      "title": "Further Applications of the Baudhāyana -",
+      "page": 20,
+      "subtopics": []
+    }
+  ]
+}

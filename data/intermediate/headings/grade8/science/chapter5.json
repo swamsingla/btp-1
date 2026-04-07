@@ -1,0 +1,44 @@
+{
+  "source_pdf": "chapter5.pdf",
+  "chapter_number": "5",
+  "chapter_title": null,
+  "total_topics": 6,
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "What Is a Force?",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "5.2",
+      "title": "\u0007What Can a Force Do to the Bodies on",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "5.3",
+      "title": "\u0007Are Forces an Interaction Between Two",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "5.4",
+      "title": "What Are the Different Types of Forces?",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "5.5",
+      "title": "Weight and Its Measurement",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "5.6",
+      "title": "Floating and Sinking",
+      "page": 15,
+      "subtopics": []
+    }
+  ]
+}

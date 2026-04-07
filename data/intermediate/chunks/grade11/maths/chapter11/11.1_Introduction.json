@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 11,
+  "chapter_title": "INTRODUCTION TO THREE DIMENSIONAL GEOMETRY",
+  "topic_number": "11.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "You may recall that to locate the position of a point in a\nplane, we need two intersecting mutually perpendicular lines\nin the plane. These lines are called the coordinate axes\nand the two numbers are called the coordinates of the\npoint with respect to the axes. In actual life, we do not\nhave to deal with points lying in a plane only. For example,\nconsider the position of a ball thrown in space at different\npoints of time or the position of an aeroplane as it flies\nfrom one place to another at different times during its flight.\nSimilarly, if we were to locate the position of the\nlowest tip of an electric bulb hanging from the ceiling of a\nroom or the position of the central tip of the ceiling fan in a room, we will not only\nrequire the perpendicular distances of the point to be located from two perpendicular\nwalls of the room but also the height of the point from the floor of the room. Therefore,\nwe need not only two but three numbers representing the perpendicular distances of\nthe point from three mutually perpendicular planes, namely the floor of the room and\ntwo adjacent walls of the room. The three numbers representing the three distances\nare called the coordinates of the point with reference to the three coordinate\nplanes. So, a point in space has three coordinates. In this Chapter, we shall study the\nbasic concepts of geometry in three dimensional space.*\n*\nFor various activities in three dimensional geometry one may refer to the Book, “A Hand Book for\ndesigning Mathematics Laboratory in Schools”, NCERT, 2005.\nLeonhard Euler\n(1707-1783)\nReprint 2025-26\nINTRODUCTION TO THREE DIMENSIONAL GEOMETRY       209\n11.2  Coordinate Axes and Coordinate Planes in Three Dimensional Space",
+  "content_length": 1708
+}

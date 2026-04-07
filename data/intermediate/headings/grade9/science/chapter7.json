@@ -1,0 +1,77 @@
+{
+  "source_pdf": "chapter7.pdf",
+  "chapter_number": "7",
+  "chapter_title": "MOTION",
+  "total_topics": 11,
+  "topics": [
+    {
+      "number": "7.1",
+      "title": "Describing Motion",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "7.1.1",
+          "title": "MOTION ALONG A STRAIGHT LINE",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "7.1.2",
+          "title": "UNIFORM MOTION AND NON-",
+          "page": 3,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "title": "Measuring the Rate of Motion",
+      "page": 3,
+      "subtopics": [
+        {
+          "number": "7.2.1",
+          "title": "SPEED WITH DIRECTION",
+          "page": 4,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "7.3",
+      "title": "Rate of Change of Velocity",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "7.4",
+      "title": "Graphical Representation of",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "7.4.1",
+          "title": "DISTANCE–TIME GRAPHS",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "7.4.2",
+          "title": "VELOCITY-TIME GRAPHS",
+          "page": 8,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "7.5",
+      "title": "Equations of Motion",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "7.6",
+      "title": "Uniform Circular Motion",
+      "page": 12,
+      "subtopics": []
+    }
+  ]
+}

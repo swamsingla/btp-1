@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "MATRICES",
+  "topic_number": "3.4.1",
+  "topic_title": "Addition of matrices",
+  "depth": 3,
+  "page_start": 10,
+  "content": "Suppose Fatima has two factories at places A and B. Each factory produces sport\nshoes for boys and girls in three different price categories labelled 1, 2 and 3. The\nquantities produced by each factory are represented as matrices given below:\nSuppose Fatima wants to know the total production of sport shoes in each price\ncategory. Then the total production\nIn category 1 : for boys (80 + 90), for girls (60 + 50)\nIn category 2 : for boys (75 + 70), for girls (65 + 55)\nIn category 3 : for boys (90 + 75), for girls (85 + 75)\nThis can be represented in the matrix form as\n+\n+\n\n\n\n\n+\n+\n\n\n\n\n+\n+\n\n\n.\nReprint 2025-26\nThis new matrix is the sum of the above two matrices. We observe that the sum of\ntwo matrices is a matrix obtained by adding the corresponding elements of the given\nmatrices. Furthermore, the two matrices have to be of the same order.\nThus, if\nA\na\na\na\na\na\na\n\n\n= \n\n\n\nis a 2 × 3 matrix and\nB\nb\nb\nb\nb\nb\nb\n\n\n= \n\n\n\nis another\n2×3 matrix. Then, we define\nA + B\na\nb\na\nb\na\nb\na\nb\na\nb\na\nb\n+\n+\n+\n\n\n= \n\n+\n+\n+\n\n\n.\nIn general, if A = [aij] and B = [bij] are two matrices of the same order, say m × n.\nThen, the sum of the two matrices A and B is defined as a matrix C = [cij]m × n, where\ncij = aij + bij, for all possible values of i and j.\nExample 6  Given\nA\n\n\n−\n= \n\n\n\nand\nB\n\n\n\n\n= \n\n−\n\n\n\n\n, find A + B\nSince A, B are of the same order 2 × 3. Therefore, addition of A and B is defined\nand is given by\n1 1\nA+B\n\n\n\n\n+\n+\n−\n+\n+\n\n\n\n\n=\n=\n\n\n\n\n−\n+\n+\n\n\n\n\n\n\n\n\nANote\n1. We emphasise that if A and B are not of the same order, then A + B is not\ndefined. For example if\nA\n\n\n= \n\n\n\n,\nB\n,\n\n\n= \n\n\n\nthen A + B is not defined.\n2. We may observe that addition of matrices is an example of binary operation\non the set of matrices of the same order.\n3.4.2  Multiplication of a matrix by a scalar",
+  "content_length": 1846
+}

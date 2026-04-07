@@ -1,0 +1,115 @@
+{
+  "source_pdf": "chapter1.pdf",
+  "chapter_number": "1",
+  "chapter_title": "MATTER",
+  "total_topics": 17,
+  "topics": [
+    {
+      "number": "1.1",
+      "title": "Physical Nature of Matter",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "1.1.1",
+          "title": "MATTER IS MADE UP OF PARTICLES",
+          "page": 1,
+          "subtopics": []
+        },
+        {
+          "number": "1.1.2",
+          "title": "HOW SMALL ARE THESE PARTICLES",
+          "page": 1,
+          "subtopics": []
+        },
+        {
+          "number": "1.2.2",
+          "title": "PARTICLES",
+          "page": 2,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "1.2",
+      "title": "Characteristics of Particles of",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "1.2.1",
+          "title": "PARTICLES OF MATTER HAVE SPACE",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "1.2.3",
+          "title": "PARTICLES OF MATTER ATTRACT",
+          "page": 3,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "1.3",
+      "title": "States of Matter",
+      "page": 4,
+      "subtopics": [
+        {
+          "number": "1.3.1",
+          "title": "THE SOLID STATE",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "1.3.2",
+          "title": "THE LIQUID STATE",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "1.3.3",
+          "title": "THE GASEOUS STATE",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "1.4.1",
+          "title": "EFFECT OF CHANGE OF TEMPERATURE",
+          "page": 6,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "1.4",
+      "title": "Can Matter Change its State?",
+      "page": 6,
+      "subtopics": [
+        {
+          "number": "1.4.2",
+          "title": "EFFECT OF CHANGE OF PRESSURE",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "1.5.2",
+          "title": "HOW DOES EVAPORATION CAUSE",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "1.5",
+      "title": "Evaporation",
+      "page": 9,
+      "subtopics": [
+        {
+          "number": "1.5.1",
+          "title": "FACTORS AFFECTING EVAPORATION",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

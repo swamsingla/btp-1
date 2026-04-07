@@ -1,0 +1,12 @@
+{
+  "grade": 9,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "LINEAR EQUATIONS IN TWO VARIABLES",
+  "topic_number": "4.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In earlier classes, you have studied linear equations in one variable. Can you write\ndown a linear equation in one variable? You may say that x + 1 = 0, x +\n2  = 0 and\n2 y + 3  = 0 are examples of linear equations in one variable. You also know that\nsuch equations have a unique (i.e., one and only one) solution. You may also remember\nhow to represent the solution on a number line. In this chapter, the knowledge of linear\nequations in one variable shall be recalled and extended to that of two variables. You\nwill be considering questions like: Does a linear equation in two variables have a\nsolution? If yes, is it unique? What does the solution look like on the Cartesian plane?\nYou shall also use the concepts you studied in Chapter 3 to answer these questions.\n4.2 Linear Equations",
+  "content_length": 788
+}

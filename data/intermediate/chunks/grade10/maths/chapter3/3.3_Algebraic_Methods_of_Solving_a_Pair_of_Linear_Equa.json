@@ -1,0 +1,12 @@
+{
+  "grade": 10,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+  "topic_number": "3.3",
+  "topic_title": "Algebraic Methods of Solving a Pair of Linear Equations",
+  "depth": 2,
+  "page_start": 7,
+  "content": "In the previous section, we discussed how to solve a pair of linear equations graphically.\nThe graphical method is not convenient in cases when the point representing the\nsolution of the linear equations has non-integral coordinates like (\n)\n3, 2 7 ,\n(–1.75, 3.3),\n,\n13 19\n\n\n\n\n\n, etc. There is every possibility of making mistakes while reading\nsuch coordinates. Is there any alternative method of finding the solution? There are\nseveral algebraic methods, which we shall now discuss.\n3.3.1 Substitution Method : We shall explain the method of substitution by taking",
+  "content_length": 572
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "SETS",
+  "topic_number": "1.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "Georg Cantor\n(1845-1918)\nThe concept of set serves as a fundamental part of the\npresent day mathematics. Today this concept is being used\nin almost every branch of mathematics. Sets are used to\ndefine the concepts of relations and functions. The study of\ngeometry, sequences, probability, etc. requires the knowledge\nof sets.\nThe theory of sets was developed by German\nmathematician Georg Cantor (1845-1918). He first\nencountered sets while working on “problems on trigonometric\nseries”. In this Chapter, we discuss some basic definitions\nand operations involving sets.\n1.2  Sets and their Representations",
+  "content_length": 605
+}

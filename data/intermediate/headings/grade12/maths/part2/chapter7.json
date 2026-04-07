@@ -1,0 +1,56 @@
+{
+  "chapter_number": 13,
+  "chapter_title": "PROBABILITY",
+  "topics": [
+    {
+      "number": "13.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "13.2",
+      "title": "Conditional Probability",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "13.2.1",
+          "title": "Properties of conditional probability",
+          "page": 3,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "13.3",
+      "title": "Multiplication Theorem on Probability",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "13.4",
+      "title": "Independent Events",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "13.5",
+      "title": "Bayes' Theorem",
+      "page": 18,
+      "subtopics": [
+        {
+          "number": "13.5.1",
+          "title": "Partition of a sample space",
+          "page": 18,
+          "subtopics": []
+        },
+        {
+          "number": "13.5.2",
+          "title": "Theorem of total probability",
+          "page": 19,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

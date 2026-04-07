@@ -1,0 +1,38 @@
+{
+  "source_pdf": "chapter12.pdf",
+  "chapter_number": "12",
+  "chapter_title": "Beyond Earth",
+  "total_topics": 5,
+  "topics": [
+    {
+      "number": "12.1",
+      "title": "Stars and Constellations",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "12.2",
+      "title": "Night Sky Watching",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "12.3",
+      "title": "Our Solar System",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "12.4",
+      "title": "The Milky Way Galaxy",
+      "page": 17,
+      "subtopics": []
+    },
+    {
+      "number": "12.5",
+      "title": "The Universe",
+      "page": 17,
+      "subtopics": []
+    }
+  ]
+}

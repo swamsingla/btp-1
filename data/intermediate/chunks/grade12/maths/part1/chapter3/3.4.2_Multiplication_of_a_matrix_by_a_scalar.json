@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "MATRICES",
+  "topic_number": "3.4.2",
+  "topic_title": "Multiplication of a matrix by a scalar",
+  "depth": 3,
+  "page_start": 11,
+  "content": "Now suppose that Fatima has doubled the production at a factory A in all categories\n(refer to 3.4.1).\nReprint 2025-26\nMATRICES         45\nPreviously quantities (in standard units) produced by factory A  were\nRevised quantities produced by factory A are as given below:\nBoys\nGirls\n2 80\n2 2\n3 2 90\n2 85\n×\n×\n\n\n\n\n×\n×\n\n\n\n\n×\n×\n\n\nThis can be represented in the matrix form as\n\n\n\n\n\n\n\n\n\n\n. We observe that\nthe new matrix is obtained by multiplying each element of the previous matrix by 2.\nIn general, we may define multiplication of a matrix by a scalar as follows: if\nA = [aij] m × n is a matrix and k is a scalar, then kA is another matrix which is obtained\nby multiplying each element of A by the scalar k.\nIn other words, kA = k[aij] m × n = [k (aij)] m × n, that is, (i, j)th element of kA is kaij\nfor all possible values of i and j.\nFor example, if\nA =\n1.5\n\n\n\n\n−\n\n\n\n\n\n\n, then\n3A =\n1.5\n4.5\n3 5\n\n\n\n\n\n\n\n\n−\n=\n−\n\n\n\n\n\n\n\n\n\n\n\n\nNegative of a matrix The negative of a matrix is denoted by – A. We define\n–A = (– 1) A.\nReprint 2025-26\nFor example, let\nA =\nx\n\n\n\n\n−\n\n\n, then – A is given by\n– A = (– 1)\nA\n( 1)\nx\nx\n−\n−\n\n\n\n\n= −\n=\n\n\n\n\n−\n−\n\n\n\n\nDifference of matrices  If A = [aij], B = [bij] are two matrices of the same order,\nsay m × n, then difference A – B is defined as a matrix D = [dij], where dij = aij – bij,\nfor all value of i and j. In other words, D = A – B = A + (–1) B, that is sum of the matrix\nA and the matrix – B.\nExample 7 If\nA\nand B\n−\n\n\n\n\n=\n=\n\n\n\n\n−\n\n\n\n\n, then find 2A – B.\nSolution We have\n2A – B = 2 1\n3 1\n\n\n\n−\n−\n−\n\n\n\n\n=\n3 1\n−\n−\n\n\n\n\n+\n\n\n\n\n−\n\n\n\n\n=\n−\n+\n−\n−\n\n\n\n\n=\n\n\n\n\n+\n+\n−\n\n\n\n\n3.4.3  Properties of matrix addition",
+  "content_length": 1729
+}

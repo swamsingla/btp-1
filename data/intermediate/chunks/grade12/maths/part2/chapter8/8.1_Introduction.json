@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 8,
+  "chapter_title": "APPLICATION OF INTEGRALS",
+  "topic_number": "8.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In geometry, we have learnt formulae to calculate areas\nof various geometrical figures including triangles,\nrectangles, trapezias and circles. Such formulae are\nfundamental in the applications of mathematics to many\nreal life problems. The formulae of elementary geometry\nallow us to calculate areas of many simple figures.\nHowever, they are inadequate for calculating the areas\nenclosed by curves. For that we shall need some concepts\nof Integral Calculus.\nIn the previous chapter, we have studied to find the\narea bounded by the curve y = f (x), the ordinates x = a,\nx = b and x-axis, while calculating definite integral as the\nlimit of a sum. Here, in this chapter, we shall study a specific\napplication of integrals to find the area under simple curves,\narea between lines and arcs of circles, parabolas and\nellipses (standard forms only). We shall also deal with finding\nthe area bounded by the above said curves.\n8.2 Area under Simple Curves\nA.L. Cauchy\n(1789-1857)",
+  "content_length": 971
+}

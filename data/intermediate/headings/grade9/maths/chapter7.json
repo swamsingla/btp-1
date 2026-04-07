@@ -1,0 +1,42 @@
+{
+  "chapter_number": 7,
+  "chapter_title": "TRIANGLES",
+  "topics": [
+    {
+      "number": "7.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "7.2",
+      "title": "Congruence of Triangles",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "7.3",
+      "title": "Criteria for Congruence of Triangles",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "7.4",
+      "title": "Some Properties of a Triangle",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "7.5",
+      "title": "Some More Criteria for Congruence of Triangles",
+      "page": 17,
+      "subtopics": []
+    },
+    {
+      "number": "7.6",
+      "title": "Summary",
+      "page": 21,
+      "subtopics": []
+    }
+  ]
+}

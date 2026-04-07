@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 13,
+  "chapter_title": "STATISTICS",
+  "topic_number": "13.5.1",
+  "topic_title": "Standard Deviation",
+  "depth": 3,
+  "page_start": 18,
+  "content": "Deviations from mean\n(xi– x )\nindividual observations xi and the unit of their mean x are different from that of variance,\nsince variance involves the sum of squares of  (xi– x ). For this reason, the  proper\nmeasure of dispersion about the mean of a set of observations is expressed as positive\nsquare-root of the variance and is called standard deviation. Therefore, the standard\ndeviation, usually denoted by σ , is given by\n∑\n=\n−\n=\nn\ni\ni\nx\nx\nn\n2)\n(\nσ\n... (1)\nLet us take the following example to illustrate the calculation of variance and\nhence, standard deviation of  ungrouped data.\nExample 8  Find the variance of the following data:\n6, 8, 10, 12, 14, 16, 18, 20, 22, 24\nSolution From the given data we can form the following Table 13.7. The mean is\ncalculated by step-deviation method taking 14 as assumed mean. The number of\nobservations is n = 10\nTable 13.7\nxi\ni\ni\nx\nd\n−\n=\n(xi– x )\n–4\n–9\n–3\n–7\n–2\n–5\n–1\n–3\n–1\nReprint 2025-26\nSTATISTICS            275\nTherefore\nMean x = assumed mean +\nh\nn\nd\nn\ni\ni\n×\n∑\n=1\n=\n+\n×\n=\nand\nVariance (\nσ ) =\n)\ni\ni\n( x\nx\nn\n=\n−\n∑\n= 1\n10 ×\n= 33\nThus Standard deviation (σ ) =\n5 74\n.\n=\n13.5.2 Standard deviation of a discrete frequency distribution Let the given discrete",
+  "content_length": 1202
+}

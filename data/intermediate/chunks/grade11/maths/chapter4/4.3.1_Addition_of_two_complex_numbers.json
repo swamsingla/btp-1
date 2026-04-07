@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topic_number": "4.3.1",
+  "topic_title": "Addition of two complex numbers",
+  "depth": 3,
+  "page_start": 2,
+  "content": "complex numbers. Then, the sum  z1 + z2 is defined as follows:\nz1 + z2 = (a + c) + i (b + d), which is again a complex number.\nFor example, (2 + i3) + (– 6 +i5) = (2 – 6) + i (3 + 5) = – 4 + i 8\nThe addition of complex numbers satisfy the following properties:\n(i)\nThe closure law  The sum of two complex numbers is a complex\nnumber, i.e., z1 + z2 is a complex number for all complex numbers\nz1 and z2.\n(ii)\nThe commutative law  For any two complex numbers z1 and z2,\nz1 + z2 = z2\n+ z1\n(iii)\nThe associative law  For any three complex numbers z1, z2, z3,\n(z1 + z2) + z3 = z1 + (z2 + z3).\n(iv)\nThe existence of additive identity  There exists the complex number\n0 + i 0 (denoted as 0), called the additive identity or the zero complex\nnumber, such that, for every complex number z, z + 0 = z.\n(v)\nThe existence of additive inverse  To every complex number\nz = a + ib, we have the complex number – a + i(– b) (denoted as –  z),\ncalled the additive inverse or negative of z. We observe that z + (–z) = 0\n(the additive identity).\n4.3.2  Difference of two complex numbers Given any two complex numbers z1 and",
+  "content_length": 1103
+}

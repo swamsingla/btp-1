@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "CONIC SECTIONS",
+  "topic_number": "10.4",
+  "topic_title": "Parabola",
+  "depth": 2,
+  "page_start": 7,
+  "content": "Fig 10. 13\nFig 10.14\nDefinition 2 A parabola is the set of all points\nin a plane that are equidistant from a fixed line\nand a fixed point (not on the line) in the plane.\nThe fixed line is called the directrix of\nthe parabola and the fixed point F is called the\nfocus (Fig 10.13). (‘Para’ means ‘for’ and\n‘bola’ means ‘throwing’, i.e., the shape\ndescribed when you throw a ball in the air).\nANote   If the fixed point lies on the fixed\nline, then the set of points in the plane, which\nare equidistant from the fixed point and the\nfixed line is the straight line through the fixed\npoint and perpendicular to the fixed line.  We\ncall this straight line as degenerate case of\nthe parabola.\nA line through the focus  and perpendicular\nto the directrix  is called the axis of the\nparabola. The point of intersection of parabola\nwith the axis is called the vertex of the parabola\n(Fig10.14).\n10.4.1 Standard equations of parabola",
+  "content_length": 922
+}

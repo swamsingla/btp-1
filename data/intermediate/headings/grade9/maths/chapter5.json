@@ -1,0 +1,24 @@
+{
+  "chapter_number": 5,
+  "chapter_title": "INTRODUCTION TO EUCLID’S GEOMETRY",
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "5.2",
+      "title": "Euclid’s Definitions, Axioms and Postulates",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "5.3",
+      "title": "Summary",
+      "page": 9,
+      "subtopics": []
+    }
+  ]
+}

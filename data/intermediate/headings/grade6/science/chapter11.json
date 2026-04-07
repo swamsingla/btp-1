@@ -1,0 +1,56 @@
+{
+  "source_pdf": "chapter11.pdf",
+  "chapter_number": "11",
+  "chapter_title": "Nature’s Treasures",
+  "total_topics": 8,
+  "topics": [
+    {
+      "number": "11.1",
+      "title": "Air",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "11.2",
+      "title": "Water",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "11.3",
+      "title": "Energy from the Sun",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "11.4",
+      "title": "Forests",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "11.5",
+      "title": "Soil, Rocks and Minerals",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "11.6",
+      "title": "Fossil Fuels",
+      "page": 15,
+      "subtopics": []
+    },
+    {
+      "number": "11.7",
+      "title": "Natural Resources: renewable and",
+      "page": 17,
+      "subtopics": []
+    },
+    {
+      "number": "11.8",
+      "title": "Resources we use",
+      "page": 18,
+      "subtopics": []
+    }
+  ]
+}

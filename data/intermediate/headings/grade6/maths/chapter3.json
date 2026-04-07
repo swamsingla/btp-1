@@ -1,0 +1,78 @@
+{
+  "chapter_number": 3,
+  "chapter_title": "NUMBER PLAY",
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "Numbers can Tell us Things",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "3.2",
+      "title": "Supercells",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "3.3",
+      "title": "Patterns of Numbers on the Number Line",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "3.4",
+      "title": "Playing with Digits",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "3.5",
+      "title": "Pretty Palindromic Patterns",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "3.6",
+      "title": "The Magic Number of Kaprekar",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "3.7",
+      "title": "Clock and Calendar Numbers",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "3.8",
+      "title": "Mental Math",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "3.9",
+      "title": "Playing with Number Patterns",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "3.10",
+      "title": "An Unsolved Mystery — the Collatz Conjecture!",
+      "page": 14,
+      "subtopics": []
+    },
+    {
+      "number": "3.11",
+      "title": "Simple Estimation",
+      "page": 15,
+      "subtopics": []
+    },
+    {
+      "number": "3.12",
+      "title": "Games and Winning Strategies",
+      "page": 17,
+      "subtopics": []
+    }
+  ]
+}

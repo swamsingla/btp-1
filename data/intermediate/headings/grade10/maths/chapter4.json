@@ -1,0 +1,30 @@
+{
+  "chapter_number": 4,
+  "chapter_title": "QUADRATIC EQUATIONS",
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "Quadratic Equations",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "4.4",
+      "title": "Nature of Roots",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "4.5",
+      "title": "Summary",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 8,
+  "chapter_title": "SEQUENCES AND SERIES",
+  "topic_number": "8.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In mathematics, the word, “sequence” is used in much the\nsame way as it is in ordinary English. When we say that a\ncollection of objects is listed in a sequence, we usually  mean\nthat the collection is ordered in such a way that it has an\nidentified first member, second member, third member and\nso on. For example, population of human beings or bacteria\nat different times form a sequence. The amount of money\ndeposited in a bank, over a number of years form a sequence.\nDepreciated values of certain commodity occur in a\nsequence. Sequences have important applications in several\nspheres of human activities.\nSequences, following specific patterns are called progressions. In previous class,\nwe have studied about arithmetic progression (A.P). In this Chapter, besides discussing\nmore about A.P.; arithmetic mean, geometric mean, relationship between A.M.\nand G.M., special series in forms of sum to n terms of consecutive natural numbers,\nsum to n terms of squares of natural numbers and sum to n terms of cubes of\nnatural numbers will also be studied.\n8.2  Sequences\nFibonacci\n(1175-1250)",
+  "content_length": 1092
+}

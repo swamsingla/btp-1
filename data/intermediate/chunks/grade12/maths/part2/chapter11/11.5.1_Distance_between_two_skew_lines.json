@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 11,
+  "chapter_title": "THREE DIMENSIONAL GEOMETRY",
+  "topic_number": "11.5.1",
+  "topic_title": "Distance between two skew lines",
+  "depth": 3,
+  "page_start": 10,
+  "content": "l2\nS\nT\nQ\nP\nl1\nWe now determine the shortest distance between two skew lines in the following way:\nLet l1 and l2  be two skew lines with equations (Fig. 11.6)\n=\n+ λ\nr\nra\nb\n... (1)\nand\n=\n+ µ\nr\nra\nb\n... (2)\nTake any point S on l1 with position vector 1ar\nand T on l2, with position vector\nar .\nThen the magnitude of the shortest distance vector\nwill be equal to that of the projection of ST along the\ndirection of the line of shortest distance (See 10.6.2).\nIf  PQ\nuuur\nis the shortest distance vector between l1\nand l2 , then it being perpendicular to both  1\nr\nb  and 2\nr\nb ,\nthe unit vector nˆ  along PQ\nuuur\nwould therefore be\nˆn =\n|\n|\n×\n×\nr\nr\nr\nr\nb\nb\nb\nb\n... (3)\nThen\nPQ\nuuur\n= d nˆ\nwhere, d is the magnitude of the shortest distance vector. Let θ be the angle between\nST\nuur\nand PQ\nuuur\n. Then\nPQ = ST |cos θ|\nBut\ncos θ =\nPQ ST\n| PQ | | ST |\n⋅\nuuur uur\nuuuur\nuur\n=\nˆ (\n)\nST\n⋅\n−\nr\nr\nd n\na\na\nd\n(since\nST\n)\n=\n−\nuur\nr\nr\na\na\n=\n(\n) (\n)\nST\n×\n⋅\n−\n×\nr\nr\nr\nr\nr\nr\nb\nb\na\na\nb\nb\n[From (3)]\nFig 11.6\nReprint 2025-26\nTHREE DIMENSIONAL GEOMETRY\nHence, the required shortest distance is\nd = PQ = ST |cos θ|\nor\nd =\n(\n×\n) . (\n)\n|\n×\n|\nr\nr\nr\nr\nr\nr\nb\nb\na\na\nb\nb\n×\nCartesian form\nThe shortest distance between the lines\nl1 :\nx\nx\na\n−\n=\ny\ny\nb\nz\nz\nc\n−\n=\n−\nand\nl2  :\nx\nx\na\n−\n=\ny\ny\nb\nz\nz\nc\n−\n=\n−\nis\nx\nx\ny\ny\nz\nz\na\nb\nc\na\nb\nc\nb c\nb c\nc a\nc a\na b\n1 2\n2 1\n2 1\n1 2\n−\n−\n−\n−\n+\n−\n+\n(\n)\n(\n)\n(\n−a b\n2 1\n2)\n11.5.2 Distance between parallel lines",
+  "content_length": 1406
+}

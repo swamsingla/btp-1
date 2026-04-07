@@ -1,0 +1,51 @@
+{
+  "source_pdf": "chapter12.pdf",
+  "chapter_number": "12",
+  "chapter_title": "Magnetic Effects of Electric Current",
+  "total_topics": 7,
+  "topics": [
+    {
+      "number": "12.1",
+      "title": "MAGNETIC FIELD AND FIELD LINES",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "12.2.1",
+          "title": "Magnetic Field due to a Current through a Straight",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "12.2.2",
+          "title": "Right-Hand Thumb Rule",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "12.2.3",
+          "title": "Magnetic Field due to a Current through a",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "12.2.4",
+          "title": "Magnetic Field due to a Current in a Solenoid",
+          "page": 7,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "12.3",
+      "title": "FORCE ON A CURRENT FORCE ON A CURRENT",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "12.4",
+      "title": "DOMESTIC ELECTRIC CIRCUITS",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

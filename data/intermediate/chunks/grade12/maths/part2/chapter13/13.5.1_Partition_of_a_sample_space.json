@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 13,
+  "chapter_title": "PROBABILITY",
+  "topic_number": "13.5.1",
+  "topic_title": "Partition of a sample space",
+  "depth": 3,
+  "page_start": 18,
+  "content": "A set of events E1, E2, ..., En is said to represent a partition of the sample space S if\n(a) Ei ∩ Ej = φ, i ≠ j, i, j = 1, 2, 3, ..., n\nReprint 2025-26\n(b) E1 ∪ Ε2 ∪ ... ∪ En= S and\n(c) P(Ei) > 0 for all i = 1, 2, ..., n.\nIn other words, the events E1, E2, ..., En represent a partition of the sample space\nS if they are pairwise disjoint, exhaustive and have nonzero probabilities.\nAs an example, we see that any nonempty event E and its complement E′ form a\npartition of the sample space S since they satisfy E ∩ E′ = φ and E ∪ E′ = S.\nFrom the Venn diagram in Fig 13.3, one can easily observe that if E and F are any\ntwo events associated with a sample space S, then the set  {E ∩ F′, E ∩ F, E′ ∩ F, E′ ∩ F′}\nis a partition of the sample space S. It may be mentioned that the partition of a sample\nspace is not unique. There can be several partitions of the same sample space.\nWe shall now prove a theorem known as Theorem of total probability.\n13.5.2  Theorem of total probability",
+  "content_length": 985
+}

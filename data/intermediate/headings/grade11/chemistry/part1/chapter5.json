@@ -1,0 +1,51 @@
+{
+  "source_pdf": "chapter5.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 7,
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "Thermodynamic terms",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "5.1.1",
+          "title": "The System and the Surroundings",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "5.1.2",
+          "title": "Types of the System",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "5.1.3",
+          "title": "The State of the System",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "5.1.4",
+          "title": "The Internal Energy as a State",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.1",
+          "title": "Work",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.2",
+          "title": "Enthalpy, H",
+          "page": 8,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

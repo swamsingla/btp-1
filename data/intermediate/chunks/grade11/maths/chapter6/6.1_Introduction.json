@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 6,
+  "chapter_title": "PERMUTATIONS AND COMBINATIONS",
+  "topic_number": "6.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "Suppose you have a suitcase with a number lock. The number\nlock has 4 wheels each labelled with 10 digits from 0 to 9.\nThe lock can be opened if 4 specific digits are arranged in a\nparticular sequence with no repetition. Some how, you have\nforgotten this specific sequence of digits. You remember only\nthe first digit which is 7. In order to open  the lock, how\nmany sequences of 3-digits you may have to check with? To\nanswer this question, you may, immediately, start listing all\npossible arrangements of  9 remaining digits taken 3 at a\ntime. But, this method will be tedious, because the number\nof possible sequences may be large. Here, in this Chapter,\nwe shall learn some basic counting techniques which will\nenable us to answer this question without actually listing 3-digit arrangements. In fact,\nthese techniques will be useful in determining the number of different ways of arranging\nand selecting objects without actually listing them. As a first step, we shall examine a\nprinciple which is most fundamental to the learning of these techniques.\n6.2  Fundamental Principle of Counting\nJacob Bernoulli\n(1654-1705)",
+  "content_length": 1122
+}

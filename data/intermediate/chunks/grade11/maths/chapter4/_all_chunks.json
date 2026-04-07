@@ -1,0 +1,153 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "total_chunks": 12,
+  "chunks": [
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.1",
+      "topic_title": "Introduction",
+      "depth": 2,
+      "page_start": 1,
+      "content": "W. R. Hamilton\n(1805-1865)\nIn earlier classes, we have studied linear equations in one\nand two variables and quadratic equations in one variable.\nWe have seen that the equation x2 + 1 = 0 has no real\nsolution as x2 + 1 = 0 gives x2 = – 1 and square of every\nreal number is non-negative. So, we need to extend the\nreal number system to a larger system so that we can\nfind the solution of the equation x2 = – 1. In fact, the main\nobjective is to solve the equation ax2 + bx + c = 0, where\nD = b2 –  4ac < 0, which is not possible in the system of\nreal numbers.\n4.2  Complex Numbers",
+      "content_length": 579
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.2",
+      "topic_title": "Complex Numbers",
+      "depth": 2,
+      "page_start": 1,
+      "content": "Let us denote\n− by the symbol i. Then, we have\ni = −. This means that i is a\nsolution of the equation x2 + 1 = 0.\nA number of the form a + ib, where a and b are real numbers, is defined to be a\ncomplex number. For example, 2 + i3,  (– 1) +\ni\n,\ni −\n\n\n+ \n\n\n are complex numbers.\nFor the complex number z = a + ib, a is called the real part, denoted by Re z and\nb is called the imaginary part denoted by Im z of the complex number z. For example,\nif z = 2 + i5, then Re z = 2 and Im z = 5.\nTwo complex numbers z1 = a + ib and z2 = c + id are equal if  a = c and b = d.\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       77\nExample 1 If 4x + i(3x – y) = 3 + i (– 6), where x and y are real numbers, then find\nthe values of x and y.\nSolution We have\n4x + i (3x – y) = 3 + i (–6)\n... (1)\nEquating the real and the imaginary parts of (1), we get\n4x = 3, 3x – y = – 6,\nwhich, on solving simultaneously, give\nx =\nand\ny =\n.\n4.3   Algebra of Complex Numbers",
+      "content_length": 963
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.3",
+      "topic_title": "Algebra of Complex Numbers",
+      "depth": 2,
+      "page_start": 2,
+      "content": "In this Section, we shall develop the algebra of complex numbers.\n4.3.1   Addition of two complex numbers Let z1 = a + ib and z2 = c + id be any two",
+      "content_length": 148
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.3.1",
+      "topic_title": "Addition of two complex numbers",
+      "depth": 3,
+      "page_start": 2,
+      "content": "complex numbers. Then, the sum  z1 + z2 is defined as follows:\nz1 + z2 = (a + c) + i (b + d), which is again a complex number.\nFor example, (2 + i3) + (– 6 +i5) = (2 – 6) + i (3 + 5) = – 4 + i 8\nThe addition of complex numbers satisfy the following properties:\n(i)\nThe closure law  The sum of two complex numbers is a complex\nnumber, i.e., z1 + z2 is a complex number for all complex numbers\nz1 and z2.\n(ii)\nThe commutative law  For any two complex numbers z1 and z2,\nz1 + z2 = z2\n+ z1\n(iii)\nThe associative law  For any three complex numbers z1, z2, z3,\n(z1 + z2) + z3 = z1 + (z2 + z3).\n(iv)\nThe existence of additive identity  There exists the complex number\n0 + i 0 (denoted as 0), called the additive identity or the zero complex\nnumber, such that, for every complex number z, z + 0 = z.\n(v)\nThe existence of additive inverse  To every complex number\nz = a + ib, we have the complex number – a + i(– b) (denoted as –  z),\ncalled the additive inverse or negative of z. We observe that z + (–z) = 0\n(the additive identity).\n4.3.2  Difference of two complex numbers Given any two complex numbers z1 and",
+      "content_length": 1103
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.3.2",
+      "topic_title": "Difference of two complex numbers",
+      "depth": 3,
+      "page_start": 2,
+      "content": "z2, the difference z1 – z2 is defined as follows:\nz1 – z2 = z1 + (– z2).\nFor example,\n(6 + 3i) – (2 – i) = (6 + 3i) + (– 2 + i ) = 4 + 4i\nand\n(2 –  i) – (6 + 3i) = (2 – i) + ( – 6 – 3i) = – 4 – 4i\nReprint 2025-26\n78       MATHEMATICS\n4.3.3  Multiplication of two complex numbers Let z1 = a + ib and z2 = c + id be any",
+      "content_length": 317
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.3.3",
+      "topic_title": "Multiplication of two complex numbers",
+      "depth": 3,
+      "page_start": 3,
+      "content": "two complex numbers. Then, the product z1 z2 is defined as follows:\nz1 z2 = (ac –  bd) + i(ad + bc)\nFor example, (3 + i5) (2 + i6) = (3 × 2 – 5 × 6) + i(3 × 6 + 5 × 2) = – 24 + i28\nThe multiplication of complex numbers possesses the following properties, which\nwe state without proofs.\n(i)\nThe closure law The product of two complex numbers is a complex number,\nthe product z1 z2 is a complex number for all complex numbers z1 and z2.\n(ii)\nThe commutative law For any two complex numbers z1 and z2,\nz1 z2 = z2 z1\n.\n(iii)\nThe associative law For any three complex numbers z1, z2, z3,\n(z1 z2) z3 = z1 (z2 z3).\n(iv)\nThe existence of multiplicative identity There exists the complex number\n1 + i 0 (denoted as 1),  called the multiplicative identity such that z.1 = z,\nfor every complex number z.\n(v)\nThe existence of multiplicative inverse For every non-zero complex\nnumber z = a + ib or a + bi(a ≠ 0, b ≠ 0), we have the complex number\na\n–b\ni\na\nb\na\nb\n+\n+\n+\n(denoted by 1\nz  or z–1 ), called the multiplicative inverse\nof z such that\nz.z =  (the multiplicative identity).\n(vi)\nThe distributive law For any three complex numbers z1, z2, z3,\n(a)  z1 (z2 + z3) = z1 z2 + z1 z3\n(b)  (z1 + z2) z3 = z1 z3 + z2 z3\n4.3.4  Division of two complex numbers Given any two complex numbers z1 and  z2,",
+      "content_length": 1285
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.3.4",
+      "topic_title": "Division of two complex numbers",
+      "depth": 3,
+      "page_start": 3,
+      "content": "where\nz ≠\n, the quotient\nz\nz  is defined by\nz\nz\nz\nz\n=\nFor example, let\nz1 = 6 + 3i and  z2 = 2 – i\nThen\n(6\n3 )\nz\ni\nz\ni\n\n\n=\n+\n×\n\n\n−\n\n = (\n)\n3i\n+\n(\n)\n(\n)\n(\n)\ni\n\n\n−−\n\n\n+\n\n\n+ −\n+ −\n\n\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       79\n= (\n) 2\ni\ni\n+\n\n\n+\n\n\n\n =\n(\n)\n(\n)\n9 12\ni\ni\n\n−+\n+\n=\n+\n\n\n4.3.5  Power of i  we know that",
+      "content_length": 352
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.3.5",
+      "topic_title": "Power of i",
+      "depth": 3,
+      "page_start": 4,
+      "content": "(\n)\ni\ni i\ni\ni\n=\n= −\n= −,\n( )\n(\n)\ni\ni\n=\n= −\n=\n( )\n(\n)\ni\ni\ni\ni\ni\n=\n= −\n= ,\n( )\n(\n)\ni\ni\n=\n= −\n= −, etc.\nAlso, we have\n,\n1,\ni\ni\ni\ni\ni\ni\ni\ni\n−\n−\n=\n×\n=\n= −\n=\n=\n= −\n−\n−\n,\ni\ni\ni\ni\ni\ni\ni\ni\ni\n−\n−\n=\n=\n×\n=\n=\n=\n=\n=\n−\nIn general, for any integer k, i4k = 1, i4k + 1 = i, i4k + 2 = –1, i4k + 3 = – i\n4.3.6  The square roots of a negative real number",
+      "content_length": 334
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.3.6",
+      "topic_title": "The square roots of a negative real number",
+      "depth": 3,
+      "page_start": 4,
+      "content": "Note that  i2 = –1 and  ( – i)2 = i2 = – 1\nTherefore,  the square roots of – 1 are i, – i. However, by the symbol\n−, we would\nmean i only.\nNow, we can see that i and –i both are the solutions of the equation x2 + 1 = 0 or\nx2 = –1.\nSimilarly\n(\n)\n(\n)\ni\n=\ni2 = 3 (– 1) = – 3\n(\n)\n3i\n−\n= (\n)\n−\ni2 = – 3\nTherefore,  the square roots of –3 are\n3 i  and\n3i\n−\n.\nAgain, the symbol\n− is meant to represent 3i  only, i.e.,\n− =\n3i .\nGenerally, if a is a positive real number,\na\n−\n=\na\n− =\na i ,\nWe already know that a\nb\n×\n=\nab  for all positive real number a and b. This\nresult also holds true when either a > 0, b < 0  or a < 0,  b > 0. What if a < 0, b < 0?\nLet us examine.\nNote that\nReprint 2025-26\n80       MATHEMATICS\n(\n) (\n)\ni =\n−\n−=\n−\n−\n(by assuming\na\nb\n×\n=\nab  for all real numbers)\n= 1  = 1,  which is a contradiction to the fact that\n= −\ni\n.\nTherefore,\na\nb\nab\n×\n≠\nif both a and b are negative real numbers.\nFurther, if any of a and b is zero, then, clearly,\na\nb\nab\n×\n=\n= 0.\n4.3.7 Identities We prove the following identity",
+      "content_length": 1018
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.3.7",
+      "topic_title": "Identities",
+      "depth": 3,
+      "page_start": 5,
+      "content": "(\n)\n1 2\nz\nz\nz\nz\nz z\n+\n=\n+\n+\n, for all complex numbers z1 and z2.\nProof  We have,\n(z1 + z2)2 = (z1 + z2) (z1 + z2),\n=  (z1 + z2) z1 + (z1 + z2) z2\n(Distributive law)\n=\n2 1\n1 2\nz\nz z\nz z\nz\n+\n+\n+\n(Distributive law)\n=\n1 2\n1 2\nz\nz z\nz z\nz\n+\n+\n+\n(Commutative law of multiplication)\n=\n1 2\nz\nz z\nz\n+\n+\nSimilarly, we can prove the following identities:\n(i)\n(\n)\nz\nz\nz\nz z\nz\n−\n=\n−\n+\n(ii)\n(\n)\n1 2\nz\nz\nz\nz z\nz z\nz\n+\n=\n+\n+\n+\n(iii)\n(\n)\n1 2\nz\nz\nz\nz z\nz z\nz\n−\n=\n−\n+\n−\n(iv)\n(\n) (\n)\nz – z\nz\nz\nz – z\n=\n+\nIn fact, many other identities which are true for all real numbers, can be proved\nto be true for all complex numbers.\nExample 2 Express the following in the form of  a + bi:\n(i)\n(\n)\ni\ni\n\n\n−\n\n\n\n\n(ii)\n(\n) (\n)\ni\ni\n−\n8 i\n\n\n−\n\n\n\n\nSolution\n(i)\n(\n)\ni\ni\n\n\n−\n\n\n\n =\n8 i\n−\n=\n(\n)\n−\n−\n= 5\n8 = 5\ni\n+\n(ii)\n(\n) (\n)\ni\ni\ni\n\n\n−\n−\n\n\n\n =\n8 8 8\ni\n×\n×\n× ×\n=\n( )\n256 i\ni\ni\n=\n.\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       81\nExample 3 Express (5 – 3i)3 in the form a + ib.\nSolution We have, (5 – 3i)3 = 53 – 3 × 52 × (3i) + 3 × 5 (3i)2 – (3i)3\n= 125 –  225i – 135 + 27i  = – 10 – 198i.\nExample 4 Express (\n)(\n)\n2 3\ni\n−\n+\n−\n−\nin the form of a + ib\nSolution We have, (\n) (\n)\n2 3\ni\n−\n+\n−\n−\n= (\n) (\n)\n2 3\ni\ni\n−\n+\n−\n=\n2 6\ni\ni\ni\n−+\n+\n−\n= (\n)\n(\n)\n3 1\n2 2 i\n−+\n+\n+\n4.4  The Modulus and the Conjugate of a Complex Number",
+      "content_length": 1312
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.4",
+      "topic_title": "The Modulus and the Conjugate of a Complex Number",
+      "depth": 2,
+      "page_start": 6,
+      "content": "Let z = a + ib be a complex number. Then, the modulus of z, denoted by | z |, is defined\nto be the  non-negative real number\na\nb\n+\n, i.e., | z | =\na\nb\n+\nand the conjugate\nof z, denoted as z , is the complex number a –  ib, i.e.,  z  = a –  ib.\nFor example,\ni\n+\n=\n+\n=\n,\n(\n5)\ni\n−\n=\n+ −\n=\n,\nand\ni\ni\n+ =\n−,  2\ni\ni\n−\n=\n+\n, 3\ni\n−\n−\n= 3i – 5\nObserve that the multiplicative inverse of the non-zero complex number z is\ngiven by\nz–1 =\na\nib\n+\n=\na\nb\ni\na\nb\na\nb\n−\n+\n+\n+\n=\na\nib\na\nb\n−\n+\n=\nz\nz\nor\nz\nz\nz\n=\nFurthermore, the following results can easily be derived.\nFor any two compex numbers z1 and z2 , we have\n(i)\nz z\nz\nz\n=\n(ii)\nz\nz\nz\nz\n=\nprovided\nz\n≠\n(iii)\n1 2\nz z\nz z\n=\n(iv)\nz\nz\nz\nz\n±\n=\n±\n(v)\nz\nz\nz\nz\n\n=\n\n\n\n\nprovided z2 ≠ 0.\nReprint 2025-26\n82       MATHEMATICS\nExample 5 Find the multiplicative inverse of 2 –  3i.\nSolution\nLet z = 2 –  3i\nThen\nz  = 2 + 3i and\n(\n3)\nz\n=\n+ −\n=\nTherefore,   the multiplicative inverse of 2\n3i\n−\nis given by\nz–1\nz\ni\ni\nz\n+\n=\n=\n=\n+\nThe above working can be reproduced in the following manner also,\nz–1 =\n(2\n3 )(2\n3 )\ni\ni\ni\ni\n+\n=\n−\n−\n+\n=\n(3 )\ni\ni\ni\ni\n+\n+\n=\n=\n+\n−\nExample 6 Express the following in the form a + ib\n(i)\ni\ni\n+\n−\n(ii)  i–35\nSolution (i)  We have,\ni\ni\ni\ni\ni\ni\n+\n+\n+\n=\n×\n−\n−\n+\n(\n)\n5 2\ni\ni\ni\n+\n+\n−\n=\n−\n= 3\n6 2\n3(1\n2 2 )\ni\ni\n+\n+\n=\n+\n= 1\n2 2i\n+\n.\n(ii)\n( )\ni\ni\ni\ni\ni\ni\ni\n−\n=\n=\n=\n×\n−\n=\ni\ni\ni\n=\n−\nEXERCISE 4.1\nExpress each of the complex number given in the Exercises 1 to 10 in the\nform a + ib.\n1.\n( )\ni\ni\n\n\n−\n\n\n\n\n2.\ni\ni\n+\n3.\ni −39\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       83\n4.\n3(7 + i7) + i (7 + i7)\n5.\n(1 – i) – ( –1 + i6)\n6.\ni\ni\n\n\n\n\n+\n−\n+\n\n\n\n\n\n\n\n\n7.\ni\ni\ni\n\n\n\n\n\n\n\n\n+\n+\n+\n−−\n+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n8.\n(1 – i)4\n9.\ni\n\n\n+\n\n\n\n\n10.\n3i\n\n\n−−\n\n\n\n\nFind the multiplicative inverse of each of the complex numbers given in the\nExercises 11 to 13.\n11.\n4 –  3i\n12.\n3i\n+\n13.\n– i\n14.\nExpress the following expression in the form of a + ib :\n(\n) (\n)\n(\n) (\n)\ni\ni\ni\ni\n+\n−\n+\n−\n−\n4.5  Argand Plane and Polar Representation",
+      "content_length": 1999
+    },
+    {
+      "grade": 11,
+      "subject": "maths",
+      "chapter_number": 4,
+      "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+      "topic_number": "4.5",
+      "topic_title": "Argand Plane and Polar Representation",
+      "depth": 2,
+      "page_start": 8,
+      "content": "Fig 4.1\nWe already know that corresponding to\neach ordered pair of real numbers\n(x, y), we get a unique point in the XY-\nplane and vice-versa with reference to a\nset of mutually perpendicular lines known\nas the x-axis and the y-axis. The complex\nnumber x + iy which  corresponds to the\nordered pair (x, y) can be represented\ngeometrically as the unique point P(x, y)\nin the XY-plane and vice-versa.\nSome complex numbers such as\n2 + 4i, – 2 + 3i, 0 + 1i, 2 + 0i, – 5 –2i and\n1 – 2i which correspond to the ordered\npairs (2, 4), ( – 2, 3), (0, 1), (2, 0), ( –5, –2), and (1, – 2), respectively, have been\nrepresented geometrically by the points A, B, C, D, E, and F, respectively in\nthe Fig 4.1.\nThe plane having a complex number assigned to each of its point is called the\ncomplex plane or the Argand plane.\nReprint 2025-26\n84       MATHEMATICS\nObviously, in the Argand plane, the modulus of the complex number\nx + iy =\nx\ny\n+\nis the distance between the point P(x, y) and the origin O (0, 0)\n(Fig 4.2). The points on the x-axis corresponds to the complex numbers of the form\na + i 0 and the points on the y-axis corresponds to the complex numbers of the form\nFig 4.2\nFig 4.3\n0 + i b. The x-axis and y-axis in the Argand plane are called, respectively, the real axis\nand the imaginary axis.\nThe representation of a  complex number z = x + iy and its conjugate\nz = x – iy in the Argand plane are, respectively, the points P (x, y) and Q (x, – y).\nGeometrically, the point (x, – y) is the mirror image of the point (x, y) on the real\naxis (Fig 4.3).\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       85\nMiscellaneous Examples\nExample 7 Find the conjugate of\n(3 2 )(2\n3 )\n(1\n2 )(2\n)\ni\ni\ni\ni\n−\n+\n+\n−\n.\nSolution We have ,\n(3 2 )(2\n3 )\n(1\n2 )(2\n)\ni\ni\ni\ni\n−\n+\n+\n−\n= 6\ni\ni\ni\ni\n+\n−\n+\n−+\n+\n= 12 5\ni\ni\ni\ni\n+\n−\n×\n+\n−\n= 48 36\n63 16\n16 9\ni\ni\ni\n−\n+\n+\n−\n=\n+\n= 63\n25i\n−\nTherefore, conjugate of\n(3 2 )(2\n3 )\nis\n(1\n2 )(2\n)\ni\ni\ni\ni\ni\n−\n+\n+\n+\n−\n.\nExample 8 If x + iy =\na\nib\na ib\n+\n−\n, prove that x2 + y2 = 1.\nSolution We have,\nx + iy =\n(\n)(\n)\n(\n)(\n)\na\nib\na\nib\na\nib\na\nib\n+\n+\n−\n+\n=\na\nb\nabi\na\nb\n−\n+\n+\n=\na\nb\nab\ni\na\nb\na\nb\n−\n+\n+\n+\nSo that,  x –  iy =\na\nb\nab i\na\nb\na\nb\n−\n−\n+\n+\nTherefore,\nx2 + y2 = (x + iy) (x – iy) =\n2 2\n2 2\n2 2\n(\n)\n(\n)\n(\n)\na\nb\na b\na\nb\na\nb\n−\n+\n+\n+\n=\n2 2\n2 2\n(\n)\n(\n)\na\nb\na\nb\n+\n+\n= 1\nMiscellaneous Exercise on Chapter 4\n1.\nEvaluate:\ni\ni\n\n\n\n+\n\n\n\n\n\n\n\n\n.\n2.\nFor any two complex numbers z1 and z2, prove that\nRe (z1 z2) = Re z1 Re z2 – Imz1 Imz2\n.\nReprint 2025-26\n86       MATHEMATICS\n3.\nReduce\ni\ni\ni\ni\n−\n\n\n\n−\n\n\n\n−\n+\n+\n\n\n to the standard form .\n4.\nIf\na\nib\nx\niy\nc\nid\n−\n−\n=\n−\nprove that (\n)\na\nb\nx\ny\nc\nd\n+\n+\n=\n+\n.\n5.\nIf z1 = 2 – i, z2 = 1 + i, find\n–\nz\nz\nz\nz\n+\n+\n+\n.\n6.\nIf a + ib =\n(\n)\nx\ni\nx\n+\n+\n, prove  that  a2 + b2 = (\n)\n(\n1)\nx\nx\n+\n+\n.\n7.\nLet z1 = 2 – i, z2 = –2 + i. Find\n(i)\n1 2\nRe z z\nz\n\n\n\n\n\n,\n(ii)\n1 1\nIm z z\n\n\n\n\n\n\n.\n8.\nFind the real numbers x and y if (x – iy) (3 + 5i) is the conjugate of –6 – 24i.\n9.\nFind the modulus of\ni\ni\ni\ni\n+\n−\n−\n−\n+ .\n10.\nIf (x + iy)3 = u + iv, then show that\n4(\n–\n)\nu\nv\nx\ny\nx\ny\n+\n=\n.\n11.\nIf α and β are different complex numbers with β\n= , then find\nβ\nα\nαβ\n–\n–\n.\n12.\nFind the number of non-zero integral solutions of the equation 1\nx\nx\n– i\n=\n.\n13.\nIf (a + ib) (c + id) (e + if) (g + ih) = A + iB, then show that\n(a2 + b2) (c2 + d2) (e2 + f 2) (g2 + h2) = A2 + B2\n14.\nIf\nm\ni\n– i\n\n\n+\n=\n\n\n\n\n, then find the least positive integral value of m.\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       87\nSummary\n®A number of the form a + ib, where a and b are real numbers, is called a\ncomplex number, a is called the real part and b is called the imaginary part\nof the complex number.\n®Let z1 = a + ib and z2 = c + id. Then\n(i)\nz1 + z2 = (a + c) + i (b + d)\n(ii)\nz1 z2  = (ac – bd) + i (ad + bc)\n®For any non-zero complex number z = a + ib (a ≠ 0, b ≠ 0), there exists the\ncomplex number\na\nb\ni\na\nb\na\nb\n−\n+\n+\n+\n, denoted by 1\nz  or z–1, called the\nmultiplicative inverse of z such that (a + ib)\n−\n+\n+\n+\na\nb\ni\na\nb\na\nb\n= 1 + i0\n=1\n®For any integer k, i4k = 1, i4k + 1 = i, i4k + 2 = – 1, i4k + 3 = – i\n®The conjugate of the complex number z = a + ib, denoted by z , is given by\nz  = a – ib.\nHistorical Note\nThe fact that square root of a negative number does not exist in the real number\nsystem was recognised by the Greeks. But the credit goes to the Indian\nmathematician Mahavira (850) who first stated this difficulty clearly. “He\nmentions in his work ‘Ganitasara Sangraha’ as in the nature of things a negative\n(quantity) is not a square (quantity)’,  it has, therefore, no square root”.\nBhaskara, another Indian mathematician, also writes in his work Bijaganita,\nwritten in 1150. “There is no square root of a negative quantity, for it is not a\nsquare.” Cardan (1545) considered the problem of solving\nx + y = 10, xy = 40.\nReprint 2025-26\n88       MATHEMATICS\n— v —\nHe obtained x = 5 +\n−\nand y = 5 –\n−\nas the solution of it, which\nwas discarded by him by saying that these numbers are ‘useless’.  Albert\nGirard (about 1625) accepted square root of negative numbers and said that\nthis will enable us to get as many roots as the degree of the polynomial equation.\nEuler was the first to introduce the symbol i for\n− and W.R. Hamilton\n(about 1830) regarded the complex number a + ib as an ordered pair of real\nnumbers (a, b) thus giving it a purely mathematical definition and avoiding use\nof the so called ‘imaginary numbers’.\nReprint 2025-26",
+      "content_length": 5414
+    }
+  ]
+}

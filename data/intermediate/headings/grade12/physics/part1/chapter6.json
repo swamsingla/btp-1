@@ -1,0 +1,27 @@
+{
+  "source_pdf": "chapter6.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 3,
+  "topics": [
+    {
+      "number": "6.7",
+      "title": "INDUCTANCE",
+      "page": 12,
+      "subtopics": [
+        {
+          "number": "6.7.1",
+          "title": "Mutual inductance",
+          "page": 12,
+          "subtopics": []
+        },
+        {
+          "number": "6.7.2",
+          "title": "Self-inductance",
+          "page": 15,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

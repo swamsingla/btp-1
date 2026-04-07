@@ -1,0 +1,32 @@
+{
+  "source_pdf": "chapter8.pdf",
+  "chapter_number": "8",
+  "chapter_title": null,
+  "total_topics": 4,
+  "topics": [
+    {
+      "number": "8.4.1",
+      "title": "Cell Envelope and its Modifications",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "8.5.1",
+      "title": "Cell Membrane",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "8.5.4",
+      "title": "Mitochondria",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "8.5.5",
+      "title": "Plastids",
+      "page": 13,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "chapter_number": 12,
+  "chapter_title": "LIMITS AND DERIVATIVES",
+  "topics": [
+    {
+      "number": "12.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "12.2",
+      "title": "Intuitive Idea of Derivatives",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "12.3",
+      "title": "Limits",
+      "page": 4,
+      "subtopics": [
+        {
+          "number": "12.3.1",
+          "title": "Algebra of limits",
+          "page": 12,
+          "subtopics": []
+        },
+        {
+          "number": "12.3.2",
+          "title": "Limits of polynomials and rational functions",
+          "page": 12,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "12.4",
+      "title": "Limits of Trigonometric Functions",
+      "page": 18,
+      "subtopics": []
+    },
+    {
+      "number": "12.5",
+      "title": "Derivatives",
+      "page": 23,
+      "subtopics": [
+        {
+          "number": "12.5.1",
+          "title": "Algebra of derivative of functions",
+          "page": 28,
+          "subtopics": []
+        },
+        {
+          "number": "12.5.2",
+          "title": "Derivative of polynomials and trigonometric functions",
+          "page": 30,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

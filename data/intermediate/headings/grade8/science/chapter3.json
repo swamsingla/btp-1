@@ -1,0 +1,38 @@
+{
+  "source_pdf": "chapter3.pdf",
+  "chapter_number": "3",
+  "chapter_title": null,
+  "total_topics": 5,
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "Health: Is It More Than Not Falling Sick?",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "3.2",
+      "title": "How Can We Stay Healthy?",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "3.3",
+      "title": "How Do We Know That We Are Unwell?",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "3.4",
+      "title": "Diseases: What Are the Causes and Types?",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "3.5",
+      "title": "How to Prevent and Control Diseases?",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

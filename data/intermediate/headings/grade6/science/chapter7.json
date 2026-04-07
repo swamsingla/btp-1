@@ -1,0 +1,45 @@
+{
+  "source_pdf": "chapter7.pdf",
+  "chapter_number": "7",
+  "chapter_title": "Temperature and",
+  "total_topics": 6,
+  "topics": [
+    {
+      "number": "7.1",
+      "title": "Hot or Cold?",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "7.2",
+      "title": "Temperature",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "7.3",
+      "title": "Measuring Temperature",
+      "page": 3,
+      "subtopics": [
+        {
+          "number": "7.3.1",
+          "title": "Clinical thermometer",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "7.3.2",
+          "title": "Laboratory thermometer",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "7.3.3",
+          "title": "Air temperature",
+          "page": 12,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

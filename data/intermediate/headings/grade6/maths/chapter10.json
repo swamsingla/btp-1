@@ -1,0 +1,36 @@
+{
+  "chapter_number": 10,
+  "chapter_title": "THE OTHER SIDE OF ZERO",
+  "topics": [
+    {
+      "number": "10.1",
+      "title": "Bela’s Building of Fun",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "10.2",
+      "title": "The Token Model",
+      "page": 15,
+      "subtopics": []
+    },
+    {
+      "number": "10.3",
+      "title": "Integers in Other Places",
+      "page": 18,
+      "subtopics": []
+    },
+    {
+      "number": "10.4",
+      "title": "Explorations with Integers",
+      "page": 22,
+      "subtopics": []
+    },
+    {
+      "number": "10.5",
+      "title": "A Pinch of History",
+      "page": 25,
+      "subtopics": []
+    }
+  ]
+}

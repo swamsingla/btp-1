@@ -1,0 +1,30 @@
+{
+  "chapter_number": 7,
+  "chapter_title": "COORDINATE GEOMETRY",
+  "topics": [
+    {
+      "number": "7.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "7.2",
+      "title": "Distance Formula",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "7.3",
+      "title": "Section Formula",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "7.4",
+      "title": "Summary",
+      "page": 14,
+      "subtopics": []
+    }
+  ]
+}

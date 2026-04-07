@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "STRAIGHT LINES",
+  "topic_number": "9.3.4",
+  "topic_title": "Slope-intercept form",
+  "depth": 3,
+  "page_start": 11,
+  "content": "intercept on one of the axes. We will now find equations of such lines.\nReprint 2025-26\nFig 9.12\nCase I Suppose a line L with slope m cuts\nthe y-axis at a distance c from the origin\n(Fig 9.12). The distance c is called the y-\nintercept of the line L. Obviously,\ncoordinates of the point where the line meet\nthe y-axis are (0, c). Thus, L has slope m\nand passes through a fixed point (0, c).\nTherefore, by point-slope form, the equation\nof L is\nor\ny\nc\nm( x\n)\ny\nmx\nc\n−=\n−\n=\n+\nThus, the point (x, y) on the line with slope m and y-intercept c lies on the line if and\nonly if\ny = mx +c\n...(3)\nNote that the value of c will be positive or negative according as the intercept is made\non the positive or negative side of the y-axis, respectively.\nCase II Suppose line L with slope m makes x-intercept d. Then equation of L is\ny = m(x – d)\n... (4)\nStudents may derive this equation themselves by the same method as in Case I.\nExample 7 Write the equation of the lines for which tan θ = 2\n, where θ is the\ninclination of the line and  (i) y-intercept is\n–\n(ii) x-intercept is 4.\nSolution (i) Here, slope of the line is m = tan θ  = 2\nand y - intercept c = – 2\n.\nTherefore, by slope-intercept form (3) above, the equation of the line is\nor\n=\n+\n−\n−\n=\nx\ny\nx\ny\n,\nwhich is the required equation.\n(ii) Here, we have m = tan θ  = 2\nand d = 4.\nTherefore, by slope-intercept form (4) above, the equation of the line is\nor\n)\n(\n=\n+\n−\n−\n=\nx\ny\nx\ny\n,\nwhich is the required equation.\nReprint 2025-26\nSTRAIGHT LINES       163\n9.3.5 Intercept - form Suppose a line L makes x-intercept a and y-intercept b on the",
+  "content_length": 1585
+}

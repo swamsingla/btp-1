@@ -1,0 +1,12 @@
+{
+  "grade": 8,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "PROPORTIONAL REASONING-1",
+  "topic_number": "7.2",
+  "topic_title": "Ratios",
+  "depth": 2,
+  "page_start": 3,
+  "content": "We use the notion of a ratio to represent such proportional relationships\nin mathematics.\nWe can say that the ratio of width to height of image A is\n60 : 40.\nThe numbers 60 and 40 are called the terms of the ratio.\u0007\nThe ratio of width to height of image C is 30 : 20, and that of image D\nis 90 : 60.\nIn a ratio of the form a : b, we can say that for every ‘a’ units of the\nfirst quantity, there are ‘b’ units of the second quantity.\nSo, in image A, we can say that for every 60 mm of width, there are 40\nmm of height.\nWe can say that the ratios of width to height of images A, C, and D\nare proportional because the terms of these ratios change by the same\nfactor. Let us see how.\nImage A — 60 : 40\nMultiplying both the terms by 1\n2, we get\n60 × 1\n2 : 40 × 1\nwhich is 30 : 20, the ratio of width to height in image C.\nBy what factor should we multiply the ratio 60 : 40 (image A) to get 90 : 60\n(image D)?\nA more systematic way to compare whether the ratios are proportional\nis to reduce them to their simplest form and see if these simplest forms\nare the same.\n7.3 Ratios in their Simplest Form",
+  "content_length": 1094
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "TRIGONOMETRIC FUNCTIONS",
+  "topic_number": "3.3.1",
+  "topic_title": "Sign of trigonometric functions",
+  "depth": 3,
+  "page_start": 9,
+  "content": "Let P (a, b) be a point on the unit circle\nwith centre at the origin such that\n∠AOP = x. If ∠AOQ = – x, then the\ncoordinates of the point Q will be (a, –b)\n(Fig 3.7). Therefore\ncos (– x) = cos x\nand\nsin (– x) = – sin x\nSince for every point P (a, b) on\nthe unit circle, – 1 ≤ a ≤ 1 and\nFig  3.7\nReprint 2025-26\n– 1 ≤  b ≤ 1, we have – 1 ≤ cos x ≤ 1 and –1 ≤ sin x ≤ 1 for all x. We   have learnt in\nprevious classes that in the first quadrant (0 < x < π\n2 ) a and b are both positive, in the\nsecond quadrant ( π\n2  < x <π) a is negative and b is positive, in the third quadrant\n(π < x < 3π\n2 ) a and b are both negative and in the fourth quadrant ( 3π\n2  < x < 2π) a is\npositive and b is negative. Therefore, sin x is positive for 0 < x < π, and negative for\nπ < x < 2π. Similarly, cos x is positive for 0 < x < π\n2 , negative for π\n2  <  x < 3π\n2  and also\npositive for 3π\n2 <  x < 2π. Likewise, we can find the signs of other trigonometric\nfunctions in different quadrants. In fact, we have the following table.\nI\nII\nIII\nIV\nsin x\n+\n+\n–\n–\ncos x\n+\n–\n–\n+\ntan x\n+\n–\n+\n–\ncosec x\n+\n+\n–\n–\nsec x\n+\n–\n–\n+\ncot x\n+\n–\n+\n–\n3.3.2  Domain and range of trigonometric functions  From the definition of sine",
+  "content_length": 1191
+}

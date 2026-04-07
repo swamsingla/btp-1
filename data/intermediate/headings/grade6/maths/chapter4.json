@@ -1,0 +1,36 @@
+{
+  "chapter_number": 4,
+  "chapter_title": "Data Handling and Presentation",
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "Collecting and Organising Data",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "Pictographs",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "4.3",
+      "title": "Bar Graphs",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "4.4",
+      "title": "Drawing a Bar Graph",
+      "page": 16,
+      "subtopics": []
+    },
+    {
+      "number": "4.5",
+      "title": "Artistic and Aesthetic Considerations",
+      "page": 28,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "chapter_number": 3,
+  "chapter_title": "A PEEK BEYOND THE POINT",
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "The Need for Smaller Units",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "3.2",
+      "title": "A Tenth Part",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "3.3",
+      "title": "A Hundredth Part",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "3.4",
+      "title": "Decimal Place Value",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "3.5",
+      "title": "Units of Measurement",
+      "page": 19,
+      "subtopics": []
+    },
+    {
+      "number": "3.6",
+      "title": "Locating and Comparing Decimals",
+      "page": 24,
+      "subtopics": []
+    },
+    {
+      "number": "3.7",
+      "title": "Addition and Subtraction of Decimals",
+      "page": 29,
+      "subtopics": []
+    },
+    {
+      "number": "3.8",
+      "title": "More on the Decimal System",
+      "page": 31,
+      "subtopics": []
+    }
+  ]
+}

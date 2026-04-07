@@ -1,0 +1,30 @@
+{
+  "chapter_number": 12,
+  "chapter_title": "SURFACE AREAS AND VOLUMES",
+  "topics": [
+    {
+      "number": "12.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "12.2",
+      "title": "Surface Area of a Combination of Solids",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "12.3",
+      "title": "Volume of a Combination of Solids",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "12.4",
+      "title": "Summary",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "SETS",
+  "topic_number": "1.6.2",
+  "topic_title": "Intervals as subsets of R",
+  "depth": 3,
+  "page_start": 11,
+  "content": "{ y : a < y < b} is called an open interval and is denoted by (a, b). All the points\nbetween a and b belong to the open interval (a, b) but a, b themselves do not belong to\nthis interval.\nThe interval which contains the end points also is called closed interval and is\ndenoted by [ a, b ]. Thus\n[ a, b ] = {x : a ≤ x ≤ b}\nWe can also have intervals closed at one end and open at the other, i.e.,\n[ a, b ) = {x : a ≤ x < b} is an open interval from a to b, including a but excluding b.\n( a, b ] = { x : a < x ≤  b } is an open interval from a to b including b but excluding a.\nThese notations provide an alternative way of designating the subsets of set of\nreal numbers. For example , if A = (–3, 5) and B = [–7, 9], then A ⊂ B. The set [ 0, ∞)\ndefines the set of non-negative real numbers, while set ( – ∞, 0 ) defines the set of\nnegative real numbers. The set ( – ∞, ∞ ) describes the set of real numbers in relation\nto a line extending from – ∞ to ∞.\nOn real number line, various types of intervals described above as subsets of  R,\nare shown in the Fig 1.1.\nHere, we note that an interval contains infinitely many points.\nFor example, the set {x : x ∈ R, –5 < x ≤ 7}, written in set-builder form, can be\nwritten in the form of interval as (–5, 7] and the interval [–3, 5) can be written in set-\nbuilder form as {x : –3 ≤ x < 5}.\nFig 1.1\nReprint 2025-26\n12       MATHEMATICS\nThe number (b – a) is called the length of any of the intervals (a, b), [a, b],\n[a, b)  or (a, b].\n1.7  Universal Set",
+  "content_length": 1494
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 8,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "PROPORTIONAL REASONING-1",
+  "topic_number": "7.1",
+  "topic_title": "Observing Similarity in Change",
+  "depth": 2,
+  "page_start": 1,
+  "content": "We are all familiar with digital images. We often change the size and\norientation of these images to suit our needs. Observe the set of images\nbelow —\nWe can see that all the images are of different sizes.\nWhich images look similar and which ones look different?\nImages (A, C, and D) look similar, even though they have different sizes.\nImage A\nImage D\nImage E\nImage B\nImage C\nGanita Prakash | Grade 8\nDo images B and E look like the other three images?\nNo, they are slightly distorted. The tiger appears elongated in B, and\ncompressed and fatter in E!\nWhy?\nYou may notice that images A, C, and D are rectangular, but E is\nsquare. Maybe that is why E looks different. But B is also a rectangle!\nWhy does it look different from the other rectangular images?\nCan we observe any pattern to answer this question? Perhaps by\nmeasuring the rectangles?\nImage\nWidth (in mm)\nHeight (in mm)\nImage A\nImage B\nImage C\nImage D\nImage E\nWhat makes images A, C, and D appear similar, and B and E different?\nWhen we compare image A with C, we notice that the width of C is\nhalf that of A. The height is also half of A. Both the width and height\nhave changed by the same factor (through multiplication), 1\n2 in this\ncase. Since the widths and heights have changed by the same factor, the\nimages look similar.\nWhen we compare image A with image B, we notice that the width of\nB is 20 millimetre (mm) less than that of A. The height too is 20 mm less\nthan the height of A. Even though the difference (through subtraction) is\nthe same, the images look different. Have the width and height changed\nby the same factor? The height of B is half the height of A. But the width of\nB is not half the width of A. Since the width and height have not changed\nby the same factor, the images look different.\nCan you check by what factors the width and height of image D change\nas compared to image A? Are the factors the same?\nImages A, C, and D look similar because their widths and heights have\nchanged by the same factor. We say that the changes to their widths and\nheights are proportional.\nMath\nTalk\nProportional Reasoning-1\n7.2 Ratios",
+  "content_length": 2106
+}

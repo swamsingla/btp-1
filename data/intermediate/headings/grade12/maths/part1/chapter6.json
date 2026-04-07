@@ -1,0 +1,37 @@
+{
+  "chapter_number": 6,
+  "chapter_title": "APPLICATION OF DERIVATIVES",
+  "topics": [
+    {
+      "number": "6.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.2",
+      "title": "Rate of Change of Quantities",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.3",
+      "title": "Increasing and Decreasing Functions",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "6.4",
+      "title": "Maxima and Minima",
+      "page": 13,
+      "subtopics": [
+        {
+          "number": "6.4.1",
+          "title": "Maximum and Minimum Values of a Function in a Closed Interval",
+          "page": 25,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

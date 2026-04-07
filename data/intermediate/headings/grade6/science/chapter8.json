@@ -1,0 +1,50 @@
+{
+  "source_pdf": "chapter8.pdf",
+  "chapter_number": "8",
+  "chapter_title": "A Journey through",
+  "total_topics": 7,
+  "topics": [
+    {
+      "number": "8.1",
+      "title": "Investigating Water’s Disappearing Act",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "8.2",
+      "title": "Another Mystery",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "8.3",
+      "title": "What are the different States of Water?",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "8.4",
+      "title": "How can we change the States of Water?",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "8.5",
+      "title": "How can Water be Evaporated Faster or",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "8.6",
+      "title": "Cooling Effect",
+      "page": 14,
+      "subtopics": []
+    },
+    {
+      "number": "8.7",
+      "title": "How do Clouds give us Rain?",
+      "page": 15,
+      "subtopics": []
+    }
+  ]
+}

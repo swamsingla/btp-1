@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "RELATIONS AND FUNCTIONS",
+  "topic_number": "2.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "Much of mathematics is about finding a pattern – a\nrecognisable link between quantities that change. In our\ndaily life, we come across many patterns that characterise\nrelations such as brother and sister, father and son, teacher\nand student. In mathematics also, we come across many\nrelations such as number m is less than number n, line l is\nparallel to line m, set A is a subset of set B. In all these, we\nnotice that a relation involves pairs of objects in certain\norder. In this Chapter, we will learn how to link pairs of\nobjects from two sets and then introduce relations between\nthe two objects in the pair. Finally, we will learn about\nspecial relations which will qualify to be functions. The\nconcept of function is very important in mathematics since it captures the idea of a\nmathematically precise correspondence between one quantity with the other.\n2.2  Cartesian Products of Sets\nG . W.  Leibnitz\n(1646–1716)",
+  "content_length": 922
+}

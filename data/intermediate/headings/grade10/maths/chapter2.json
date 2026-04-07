@@ -1,0 +1,30 @@
+{
+  "chapter_number": 2,
+  "chapter_title": "POLYNOMIALS",
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "2.2",
+      "title": "Geometrical Meaning of the Zeroes of a Polynomial",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "2.3",
+      "title": "Relationship between Zeroes and Coefficients of a Polynomial",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "2.4",
+      "title": "Summary",
+      "page": 14,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "source_pdf": "chapter4.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 5,
+  "topics": [
+    {
+      "number": "11.8.2",
+      "title": "Isothermal process",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "11.8.3",
+      "title": "Adiabatic process",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "11.8.4",
+      "title": "Isochoric process",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "11.8.5",
+      "title": "Isobaric process",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "11.8.6",
+      "title": "Cyclic process",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

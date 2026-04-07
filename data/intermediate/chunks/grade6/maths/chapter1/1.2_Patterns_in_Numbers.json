@@ -1,0 +1,12 @@
+{
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "PATTERNS IN MATHEMATICS",
+  "topic_number": "1.2",
+  "topic_title": "Patterns in Numbers",
+  "depth": 2,
+  "page_start": 2,
+  "content": "Among the most basic patterns that occur in mathematics are\npatterns of numbers, particularly patterns of whole numbers:\n0, 1, 2, 3, 4, ...\nThe branch of Mathematics that studies patterns in whole\nnumbers is called number theory.\nNumber sequences are the most basic and among the most\nfascinating types of patterns that mathematicians study.\nTable 1 shows some key number sequences that are studied in\nMathematics.\nReprint 2025-26\nPatterns in Mathematics\nTable 1: Examples of number sequences\n1, 1, 1, 1, 1, 1, 1, ...\n(All 1’s)\n1, 2, 3, 4, 5, 6, 7, ...\n(Counting numbers)\n1, 3, 5, 7, 9, 11, 13, ...\n(Odd numbers)\n2, 4, 6, 8, 10, 12, 14, ...\n(Even numbers)\n1, 3, 6, 10, 15, 21, 28, ...\n(Triangular numbers)\n1, 4, 9, 16, 25, 36, 49, ...\n(Squares)\n1, 8, 27, 64, 125, 216, ...\n(Cubes)\n1, 2, 3, 5, 8, 13, 21, ...\n(Virahānka numbers)\n1, 2, 4, 8, 16, 32, 64, ...\n(Powers of 2)\n1, 3, 9, 27, 81, 243, 729, ...\n(Powers of 3)\nFigure it Out\n1. \t Can you recognise the pattern in each of the sequences in\nTable 1?\n2.\t Rewrite each sequence of Table 1 in your notebook, along\nwith the next three numbers in each sequence! After\neach sequence, write in your own words what is the rule\nfor forming the numbers in the sequence.\n1.3 \tVisualising Number Sequences\nMath\nTalk",
+  "content_length": 1254
+}

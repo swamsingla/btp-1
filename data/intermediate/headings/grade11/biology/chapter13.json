@@ -1,0 +1,21 @@
+{
+  "source_pdf": "chapter13.pdf",
+  "chapter_number": "13",
+  "chapter_title": null,
+  "total_topics": 2,
+  "topics": [
+    {
+      "number": "13.4.3",
+      "title": "Physiological Effects of Plant Growth Regulators",
+      "page": 10,
+      "subtopics": [
+        {
+          "number": "13.4.3.1",
+          "title": "Auxins",
+          "page": 10,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

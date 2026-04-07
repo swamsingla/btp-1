@@ -1,0 +1,12 @@
+{
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "Fractions",
+  "topic_number": "7.7",
+  "topic_title": "Comparing Fractions",
+  "depth": 2,
+  "page_start": 23,
+  "content": "Which is greater, 4\n5 or 7\n9? It can be difficult to compare two such\nfractions directly.  However, we know how to find fractions equivalent\nto two fractions with the same denominator. Let us see how we can\nuse it:\n5  =  4×9\n5×9 = 36\n9  =  7×5\n9×5  = 35\n45.\n45 is a common multiple\nof 5 and 9, so we can\nuse 45 as a common\ndenominator.\nReprint 2025-26\nGanita Prakash | Grade 6\nClearly,  36\n45 > 35\nSo, 4\n5 > 7\n9 !\nLet us try this for another pair: 7\n9 and 17\n21.\n63 is a common multiple of 9 and 21. We can then write:\n9 = 7×7\n9×7 =  49\n63 ,  17\n21 = 17×3\n21×3 = 51\n63.\nClearly,  49\n63 < 51\n63 . So, 7\n9 < 17\n21!\nLet’s Summarise!\nSteps to compare the sizes of two or more given fractions:\nStep 1: \u0007Change the given fractions to equivalent fractions so that\nthey all are expressed with the same denominator or same\nfractional unit.\nStep 2: \u0007Now, compare the equivalent fractions by simply comparing\nthe numerators, i.e., the number of fractional units each has.\nFigure it Out\n\u00071. \u0007Compare the following fractions and justify your answers:\na.  8\n3 ,  5\nb.  4\n9 ,  3\nc.  7\n10 ,  9\nd.  12\n5 ,   8\ne.  9\n4 ,  5\n2.  Write the following fractions in ascending order.\na.  7\n10 , 11\n15 ,  2\nb. 19\n24 ,  5\n6 , 7\n3.  Write the following fractions in descending order.\na.  25\n16,  7\n8, 13\n4 , 17\nb. 3\n4 ,  12\n5 ,  7\n12,  5\nReprint 2025-26\nFractions\n7.8 Addition and Subtraction of Fractions",
+  "content_length": 1378
+}

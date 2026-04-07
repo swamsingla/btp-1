@@ -1,0 +1,44 @@
+{
+  "source_pdf": "chapter6.pdf",
+  "chapter_number": "6",
+  "chapter_title": null,
+  "total_topics": 6,
+  "topics": [
+    {
+      "number": "6.1",
+      "title": "Pressure",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "6.2",
+      "title": "Pressure Exerted by Air",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "6.3",
+      "title": "Formation of Wind",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "6.4",
+      "title": "\u0007High-Speed Winds Result in Lowering",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "6.5",
+      "title": "Storms, Thunderstorms, and Lightning",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "6.6",
+      "title": "Cyclone",
+      "page": 13,
+      "subtopics": []
+    }
+  ]
+}

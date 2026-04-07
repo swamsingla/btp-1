@@ -1,0 +1,82 @@
+{
+  "source_pdf": "chapter11.pdf",
+  "chapter_number": "11",
+  "chapter_title": "SOUND",
+  "total_topics": 12,
+  "topics": [
+    {
+      "number": "11.1",
+      "title": "Production of Sound",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "11.2",
+      "title": "Propagation of Sound",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "11.2.1",
+          "title": "SOUND WAVES ARE LONGITUDINAL",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "11.2.2",
+          "title": "CHARACTERISTICS OF A SOUND",
+          "page": 3,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "11.3",
+      "title": "Reflection of Sound",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "11.2.3",
+          "title": "SPEED OF SOUND IN DIFFERENT",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "11.3.1",
+          "title": "ECHO",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "11.3.2",
+          "title": "REVERBERATION",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "11.3.3",
+          "title": "USES OF MULTIPLE REFLECTION",
+          "page": 8,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "11.4",
+      "title": "Range of Hearing",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "11.5",
+      "title": "Applications of Ultrasound",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "11.5",
+      "title": "Applications of Ultrasound",
+      "page": 11,
+      "subtopics": []
+    }
+  ]
+}

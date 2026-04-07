@@ -1,0 +1,12 @@
+{
+  "grade": 8,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "PROPORTIONAL REASONING–2",
+  "topic_number": "3.1",
+  "topic_title": "Proportionality — A Quick Recap",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In an earlier chapter, we explored proportional relationships between\nquantities and we used the ratio notation to represent such relationships.\nWhen two or more related quantities change by the same factor, we call\nthat relationship a proportional relationship. For example, idli batter is\nmade by mixing rice and urad dal. The proportion of these two can have\nregional variations. One of the proportions used is: for 2 cups of rice,\nwe add 1 cup of urad dal. We represent this relationship using the ratio\nnotation 2 : 1.\nViswanath made idlis by mixing 6 cups of rice with 3 cups of urad dal,\nwhile Puneet made idlis by mixing 4 cups of rice with 2 cups of urad dal.\nIf cooked in the same way, would their idlis taste the same?\nViswanath’s mixture can be represented as 6 : 3 and Puneet’s mixture\nas 4 : 2.\nRecall that, to verify that these two ratios are proportional, we can\nuse the cross-multiplication method:\n×\n×\n6 : 3\n4 : 2\nThe two products are the same (12). So, the two ratios are proportional.\nIt is likely that the idlis would taste the same, if all the other ingredients\nare proportional too!\nIn general, we can say that two ratios a : b and c : d are proportional if\na × d = b × c, or\na\nc = b\nd.\nGanita Prakash | Grade 8 | Part-II\n3.2 Ratios in Maps",
+  "content_length": 1263
+}

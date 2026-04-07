@@ -1,0 +1,62 @@
+{
+  "source_pdf": "chapter12.pdf",
+  "chapter_number": "12",
+  "chapter_title": null,
+  "total_topics": 9,
+  "topics": [
+    {
+      "number": "12.1",
+      "title": "\u0007How Do We Experience and Interpret",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "12.2",
+      "title": "Who All Live Together in Nature?",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "12.3",
+      "title": "\u0007Does Every Organism in a Community",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "12.4",
+      "title": "\u0007What Are the Different Types of Interactions",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "12.5",
+      "title": "Who Eats Whom?",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "12.6",
+      "title": "What Happens to Waste in Nature?",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "12.7",
+      "title": "How Does One Change Lead to Another?",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "12.8",
+      "title": "\u0007How Do Interactions Maintain",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "12.9",
+      "title": "What Are the Benefits of an Ecosystem?",
+      "page": 14,
+      "subtopics": []
+    }
+  ]
+}

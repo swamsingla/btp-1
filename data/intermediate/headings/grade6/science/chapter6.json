@@ -1,0 +1,69 @@
+{
+  "source_pdf": "chapter6.pdf",
+  "chapter_number": "6",
+  "chapter_title": "Materials Around Us",
+  "total_topics": 10,
+  "topics": [
+    {
+      "number": "6.1",
+      "title": "Observing Objects Around Us",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.2",
+      "title": "How to Group Materials?",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "6.3",
+      "title": "What are the different Properties of",
+      "page": 6,
+      "subtopics": [
+        {
+          "number": "6.3.1",
+          "title": "\u0007Observe and identify appearance of materials",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.2",
+          "title": "Which materials are hard?",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.3",
+          "title": "Explore materials through which one can",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.4",
+          "title": "What is soluble in water; what is not?",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.5",
+          "title": "How heavy or light?",
+          "page": 12,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.6",
+          "title": "Space and volume",
+          "page": 13,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "6.4",
+      "title": "What is Matter?",
+      "page": 15,
+      "subtopics": []
+    }
+  ]
+}

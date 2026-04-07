@@ -1,0 +1,42 @@
+{
+  "chapter_number": 2,
+  "chapter_title": "POLYNOMIALS",
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "2.2",
+      "title": "Polynomials in One Variable",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "2.3",
+      "title": "Zeroes of a Polynomial",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "2.4",
+      "title": "Factorisation of Polynomials",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "2.5",
+      "title": "Algebraic Identities",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "2.6",
+      "title": "Summary",
+      "page": 18,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "chapter_number": 1,
+  "chapter_title": "A SQUARE AND A CUBE",
+  "topics": [
+    {
+      "number": "1.1",
+      "title": "Square Numbers",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "1.2",
+      "title": "Cubic Numbers",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "1.3",
+      "title": "A Pinch of History",
+      "page": 15,
+      "subtopics": []
+    }
+  ]
+}

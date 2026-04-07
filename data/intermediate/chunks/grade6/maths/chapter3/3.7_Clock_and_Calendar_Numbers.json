@@ -1,0 +1,12 @@
+{
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "NUMBER PLAY",
+  "topic_number": "3.7",
+  "topic_title": "Clock and Calendar Numbers",
+  "depth": 2,
+  "page_start": 10,
+  "content": "On the usual 12-hour clock, there are timings with different patterns.\nFor example, 4:44, 10:10, 12:21.\nTry and find out all possible times on a 12-hour clock of each of\nthese types.\nManish\nhas\nhis\nbirthday\non\n20/12/2012 where the digits ‘2’, ‘0’, ‘1’,\nand ‘2’ repeat in that order.\nFind some other dates of this form\nfrom the past.\nHis\nsister,\nMeghana,\nhas\nher\nbirthday on 11/02/2011 where the\ndigits read the same from left to right and from right to left.\nFind all possible dates of this form from the past.\nJeevan was looking at this year’s calendar. He started wondering,\n“Why should we change the calendar every year? Can we not reuse a\ncalendar?”. What do you think?\nYou might have noticed that last year’s calendar was different\nfrom this year’s. Also, next year’s calendar will also be different from\nthe previous years.\nBut, will any year’s calendar repeat again after some\nyears? Will all dates and days in a year match exactly with\nthat of another year?\nFigure it Out\b\n1.\t Pratibha uses the digits ‘4’, ‘7’, ‘3’ and ‘2’, and makes the smallest and\nlargest 4-digit numbers with them: 2347 and 7432. The difference\nbetween these two numbers is 7432 – 2347 = 5085. The sum of these\ntwo numbers is 9779. Choose 4 - digits to make:\na.\t the difference between the largest and smallest numbers\ngreater than 5085.\nTry\nThis\nReprint 2025-26\nNumber Play\nb.\t the difference between the largest and smallest numbers less\nthan 5085.\nc. \t the sum of the largest and smallest numbers greater than 9779.\nd.\t the sum of the largest and smallest numbers less than 9779.\n2.\t What is the sum of the smallest and largest 5-digit palindrome?\nWhat is their difference?\n3.\t The time now is 10:01. How many minutes until the clock shows\nthe next palindromic time? What about the one after that?\n4.\t How many rounds does the number 5683 take to reach the Kaprekar\nconstant?\n3.8 Mental Math",
+  "content_length": 1874
+}

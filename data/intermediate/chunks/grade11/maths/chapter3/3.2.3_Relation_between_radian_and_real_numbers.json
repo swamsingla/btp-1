@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "TRIGONOMETRIC FUNCTIONS",
+  "topic_number": "3.2.3",
+  "topic_title": "Relation between radian and real numbers",
+  "depth": 3,
+  "page_start": 4,
+  "content": "Consider the unit circle with centre O. Let A be any point\non the circle. Consider OA as initial side of an angle.\nThen the length  of an arc of the circle will give the radian\nmeasure of the angle which the arc will subtend at the\ncentre of the circle. Consider the line PAQ which is\ntangent to the circle at A. Let the point A represent the\nreal number zero, AP represents positive real number and\nAQ represents negative real numbers (Fig 3.5). If we\nrope the line AP in the anticlockwise direction along the\ncircle, and AQ in the clockwise direction, then every real\nnumber will correspond to a radian measure and\nconversely. Thus, radian measures and real numbers can\nbe considered as one and the same.\n3.2.4   Relation between degree and radian   Since a circle subtends at the centre\nA\nO\n−1\n−2\nQ\nFig  3.5",
+  "content_length": 810
+}

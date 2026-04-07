@@ -1,0 +1,12 @@
+{
+  "grade": 10,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "REAL NUMBERS",
+  "topic_number": "1.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In Class IX, you began your exploration of the world of real numbers and encountered\nirrational numbers. We continue our discussion on real numbers in this chapter. We\nbegin with very important properties of positive integers in Sections 1.2, namely the\nEuclid’s division algorithm and the Fundamental Theorem of Arithmetic.\nEuclid’s division algorithm, as the name suggests, has to do with divisibility of\nintegers. Stated simply, it says any positive integer a can be divided by another positive\ninteger b in such a way that it leaves a remainder r that is smaller than b. Many of you\nprobably recognise this as the usual long division process. Although this result is quite\neasy to state and understand, it has many applications related to the divisibility properties\nof integers. We touch upon a few of them, and use it mainly to compute the HCF of\ntwo positive integers.\nThe Fundamental Theorem of Arithmetic, on the other hand, has to do something\nwith multiplication of positive integers. You already know that every composite number\ncan be expressed as a product of primes in a unique way—this important fact is the\nFundamental Theorem of Arithmetic. Again, while it is a result that is easy to state and\nunderstand, it has some very deep and significant applications in the field of mathematics.\nWe use the Fundamental Theorem of Arithmetic for two main applications. First, we\nuse it to prove the irrationality of many of the numbers you studied in Class IX, such as\n2,\n3  and 5 . Second, we apply this theorem to explore when exactly the decimal\nexpansion of a rational number, say\n(\n0)\np q\nq\n\n, is terminating and when it is non-\nterminating repeating. We do so by looking at the prime factorisation of the denominator\nq of p\nq . You will see that the prime factorisation of q will completely reveal the nature\nof the decimal expansion of p\nq .\nSo let us begin our exploration.\nReprint 2025-26\n1.2 The Fundamental Theorem of Arithmetic",
+  "content_length": 1948
+}

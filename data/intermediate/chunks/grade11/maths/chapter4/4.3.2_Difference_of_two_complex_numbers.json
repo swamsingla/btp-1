@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topic_number": "4.3.2",
+  "topic_title": "Difference of two complex numbers",
+  "depth": 3,
+  "page_start": 2,
+  "content": "z2, the difference z1 – z2 is defined as follows:\nz1 – z2 = z1 + (– z2).\nFor example,\n(6 + 3i) – (2 – i) = (6 + 3i) + (– 2 + i ) = 4 + 4i\nand\n(2 –  i) – (6 + 3i) = (2 – i) + ( – 6 – 3i) = – 4 – 4i\nReprint 2025-26\n78       MATHEMATICS\n4.3.3  Multiplication of two complex numbers Let z1 = a + ib and z2 = c + id be any",
+  "content_length": 317
+}

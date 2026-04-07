@@ -1,0 +1,32 @@
+{
+  "source_pdf": "chapter7.pdf",
+  "chapter_number": "7",
+  "chapter_title": null,
+  "total_topics": 4,
+  "topics": [
+    {
+      "number": "7.1",
+      "title": "What Is Matter Composed of?",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "7.2",
+      "title": "What Decides Different States of Matter?",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "7.3",
+      "title": "\u0007How Does the Interparticle Spacing",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "7.4",
+      "title": "\u0007How Particles Move in Different States",
+      "page": 12,
+      "subtopics": []
+    }
+  ]
+}

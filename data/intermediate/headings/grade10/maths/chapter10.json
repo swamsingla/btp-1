@@ -1,0 +1,24 @@
+{
+  "chapter_number": 10,
+  "chapter_title": "CIRCLES",
+  "topics": [
+    {
+      "number": "10.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "10.2",
+      "title": "Tangent to a Circle",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "10.3",
+      "title": "Number of Tangents from a Point on a Circle",
+      "page": 4,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "INTEGRALS",
+  "topic_number": "7.6.1",
+  "topic_title": "Integral of the type",
+  "depth": 3,
+  "page_start": 38,
+  "content": "We have\nI =\n[\n( ) +\n( )]\nxe\nf x\nf x\ndx\n′\n∫\n=\n( )\n+\n( )\nx\nx\ne f x dx\ne f x dx\n′\n∫\n∫\n=\nI\n( )\n, where I =\n( )\nx\nx\ne f\nx dx\ne f x dx\n′\n+ ∫\n∫\n... (1)\nTaking f (x) and ex as the first function and second function, respectively, in I1 and\nintegrating it by parts, we have I1 = f (x) ex –\n( )\nC\nx\nf x e dx\n′\n+\n∫\nSubstituting I1 in (1), we get\nI =\n( )\n( )\n( )\nC\nx\nx\nx\ne f x\nf\nx e dx\ne f x dx\n′\n′\n−\n+\n+\n∫\n∫\n= ex f (x) + C\nReprint 2025-26\nINTEGRALS         263\nThus,\n′\n∫\n[\n( )\n( )]\nx\ne\nf x + f\nx\ndx  =\n( )\nC\nx\ne f x +\nExample 22 Find (i)\n(tan\n)\nx\n–\ne\nx\nx\n+\n+\n∫\ndx   (ii)\n(\n+1)\n( +1)\nx\nx\ne\nx\n∫\ndx\nSolution\n(i) We have I =\n(tan\n)\nx\n–\ne\nx\ndx\nx\n+\n+\n∫\nConsider f (x) = tan– 1x, then  f ′(x) =\nx\n+\nThus, the given integrand is of the form ex [ f (x) + f ′(x)].\nTherefore,\nI\n(tan\n)\nx\n–\ne\nx\ndx\nx\n=\n+\n+\n∫\n= ex tan– 1x + C\n(ii) We have\n(\n+1)\nI\n( +1)\nx\nx\ne\nx\n= ∫\ndx\n1+1+1)\n[\n]\n( +1)\nx\nx –\ne\ndx\nx\n= ∫\n[\n]\n( +1)\n( +1)\nx\nx –\ne\ndx\nx\nx\n=\n+\n∫\n[\n+\n]\n+1\n( +1)\nx\nx –\ne\ndx\nx\nx\n= ∫\nConsider\n( )\nx\nf x\nx\n−\n=\n+ , then\n( )\n(\n1)\nf x\nx\n′\n=\n+\nThus, the given integrand is of the form ex [f (x) + f ′(x)].\nTherefore,\nC\n(\n1)\nx\nx\nx\nx\ne dx\ne\nx\nx\n+\n−\n=\n+\n+\n+\n∫\nEXERCISE 7.6\nIntegrate the functions in Exercises 1 to 22.\n1. x sin x\n2. x sin 3x\n3.\nx2 ex\n4. x log x\n5. x log 2x\n6. x2 log x\n7.\nx sin– 1x\n8. x tan–1 x\n9. x cos–1 x\n10. (sin–1x)2\n11.\ncos\nx\nx\nx\n−\n−\n12. x sec2 x\n13. tan–1x\n14. x (log x)2\n15.\n(x2 + 1) log x\nReprint 2025-26\n16. ex (sinx + cosx) 17.\n(1\n)\nx\nx e\nx\n+\n18.\nsin\ncos\nx\nx\ne\nx\n\n\n+\n\n\n+\n\n\n19.\n–\nxe\nx\nx\n\n\n\n\n\n\n20.\n(\n3)\n(\n1)\nx\nx\ne\nx\n−\n−\n21.\ne2x sin x\n22.\nsin\n–\nx\nx\n\n\n\n\n+\n\n\nChoose the correct answer in Exercises 23 and 24.\n23.\nx\nx e dx\n∫\nequals\n(A)\nC\nxe\n+\n(B)\nC\nxe\n+\n(C)\nC\nxe\n+\n(D)\nC\nxe\n+\n24.\nsec\n(1\ntan )\nxe\nx\nx dx\n+\n∫\nequals\n(A) ex cos x + C\n(B) ex sec x + C\n(C) ex sin x + C\n(D) ex tan x + C\n7.6.2 Integrals of some more types",
+  "content_length": 1813
+}

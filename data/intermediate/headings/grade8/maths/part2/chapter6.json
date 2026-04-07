@@ -1,0 +1,42 @@
+{
+  "chapter_number": 6,
+  "chapter_title": "ALGEBRA PLAY",
+  "topics": [
+    {
+      "number": "6.1",
+      "title": "Algebra Play",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.2",
+      "title": "Thinking about ‘Think of a Number’ Tricks",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.3",
+      "title": "Number Pyramids",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "6.4",
+      "title": "Fun with Grids",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "6.5",
+      "title": "The Largest Product",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "6.6",
+      "title": "Decoding Divisibility Tricks",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

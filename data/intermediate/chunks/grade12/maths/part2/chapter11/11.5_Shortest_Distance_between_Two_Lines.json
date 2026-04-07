@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 11,
+  "chapter_title": "THREE DIMENSIONAL GEOMETRY",
+  "topic_number": "11.5",
+  "topic_title": "Shortest Distance between Two Lines",
+  "depth": 2,
+  "page_start": 9,
+  "content": "If two lines in space intersect at a point,\nthen the shortest distance between them is\nzero. Also, if two lines in space are parallel,\nthen the shortest distance between them\nwill be the perpendicular distance, i.e. the\nlength of the perpendicular drawn from a\npoint on one line onto the other line.\nFurther, in a space, there are lines which\nare neither intersecting nor parallel. In fact,\nsuch pair of lines are non coplanar and\nare called skew lines. For example, let us\nconsider a room of size 1, 3, 2 units along\nx, y and z-axes respectively Fig 11.5.\nFig 11.5\nReprint 2025-26\nThe line GE that goes diagonally across the ceiling and the line DB passes through\none corner of the ceiling directly above A and goes diagonally down the wall. These\nlines are skew because they are not parallel and also never meet.\nBy the shortest distance between two lines we mean the join of a point in one line\nwith one point on the other line so that the length of the segment so obtained is the\nsmallest.\nFor skew lines, the line of the shortest distance will be perpendicular to both\nthe lines.\n11.5.1  Distance between two skew lines",
+  "content_length": 1124
+}

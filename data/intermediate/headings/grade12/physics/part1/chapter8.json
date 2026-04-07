@@ -1,0 +1,27 @@
+{
+  "source_pdf": "chapter8.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 3,
+  "topics": [
+    {
+      "number": "8.4",
+      "title": "ELECTROMAGNETIC SPECTRUM",
+      "page": 8,
+      "subtopics": [
+        {
+          "number": "8.4.1",
+          "title": "Radio waves",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "8.4.2",
+          "title": "Microwaves",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

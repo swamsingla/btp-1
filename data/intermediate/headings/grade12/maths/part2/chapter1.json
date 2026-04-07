@@ -1,0 +1,118 @@
+{
+  "chapter_number": 7,
+  "chapter_title": "INTEGRALS",
+  "topics": [
+    {
+      "number": "7.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "7.2",
+      "title": "Integration as an Inverse Process of Differentiation",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "7.2.1",
+          "title": "Some properties of indefinite integral",
+          "page": 5,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "7.3",
+      "title": "Methods of Integration",
+      "page": 11,
+      "subtopics": [
+        {
+          "number": "7.3.1",
+          "title": "Integration by substitution",
+          "page": 11,
+          "subtopics": []
+        },
+        {
+          "number": "7.3.2",
+          "title": "Integration using trigonometric identities",
+          "page": 17,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "7.4",
+      "title": "Integrals of Some Particular Functions",
+      "page": 19,
+      "subtopics": []
+    },
+    {
+      "number": "7.5",
+      "title": "Integration by Partial Fractions",
+      "page": 28,
+      "subtopics": []
+    },
+    {
+      "number": "7.6",
+      "title": "Integration by Parts",
+      "page": 35,
+      "subtopics": [
+        {
+          "number": "7.6.1",
+          "title": "Integral of the type",
+          "page": 38,
+          "subtopics": []
+        },
+        {
+          "number": "7.6.2",
+          "title": "Integrals of some more types",
+          "page": 40,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "7.7",
+      "title": "Definite Integral",
+      "page": 43,
+      "subtopics": []
+    },
+    {
+      "number": "7.8",
+      "title": "Fundamental Theorem of Calculus",
+      "page": 43,
+      "subtopics": [
+        {
+          "number": "7.8.1",
+          "title": "Area function",
+          "page": 43,
+          "subtopics": []
+        },
+        {
+          "number": "7.8.2",
+          "title": "First fundamental theorem of integral calculus",
+          "page": 43,
+          "subtopics": []
+        },
+        {
+          "number": "7.8.3",
+          "title": "Second fundamental theorem of integral calculus",
+          "page": 44,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "7.9",
+      "title": "Evaluation of Definite Integrals by Substitution",
+      "page": 47,
+      "subtopics": []
+    },
+    {
+      "number": "7.10",
+      "title": "Some Properties of Definite Integrals",
+      "page": 49,
+      "subtopics": []
+    }
+  ]
+}

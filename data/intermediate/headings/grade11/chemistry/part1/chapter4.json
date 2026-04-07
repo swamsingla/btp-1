@@ -1,0 +1,184 @@
+{
+  "source_pdf": "chapter4.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 29,
+  "topics": [
+    {
+      "number": "4.1.1",
+      "title": "Octet Rule",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "4.1.2",
+      "title": "Covalent Bond",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "4.1.3",
+      "title": "Lewis Representation of Simple",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "4.1.4",
+      "title": "Formal Charge",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "4.1.5",
+      "title": "Limitations of the Octet Rule",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "4.2.1",
+      "title": "Lattice Enthalpy",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "4.3",
+      "title": "Bond Parameters",
+      "page": 8,
+      "subtopics": [
+        {
+          "number": "4.3.1",
+          "title": "Bond Length",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.2",
+          "title": "Bond Angle",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.3",
+          "title": "Bond Enthalpy",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.4",
+          "title": "Bond Order",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.5",
+          "title": "Resonance Structures",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "4.3.6",
+          "title": "Polarity of Bonds",
+          "page": 11,
+          "subtopics": []
+        },
+        {
+          "number": "4.5.1",
+          "title": "Orbital Overlap Concept",
+          "page": 19,
+          "subtopics": []
+        },
+        {
+          "number": "4.5.2",
+          "title": "Directional Properties of Bonds",
+          "page": 20,
+          "subtopics": []
+        },
+        {
+          "number": "4.5.3",
+          "title": "Overlapping of Atomic Orbitals",
+          "page": 20,
+          "subtopics": []
+        },
+        {
+          "number": "4.5.4",
+          "title": "Types of Overlapping and Nature of",
+          "page": 21,
+          "subtopics": []
+        },
+        {
+          "number": "4.5.5",
+          "title": "Strength of Sigma and pi Bonds",
+          "page": 21,
+          "subtopics": []
+        },
+        {
+          "number": "4.6.1",
+          "title": "Types of Hybridisation",
+          "page": 22,
+          "subtopics": []
+        },
+        {
+          "number": "4.6.2",
+          "title": "Other Examples of sp3, sp2 and sp",
+          "page": 24,
+          "subtopics": []
+        },
+        {
+          "number": "4.6.3",
+          "title": "Hybridisation of Elements",
+          "page": 25,
+          "subtopics": []
+        },
+        {
+          "number": "4.7.1",
+          "title": "Formation of Molecular Orbitals",
+          "page": 27,
+          "subtopics": []
+        },
+        {
+          "number": "4.7.2",
+          "title": "Conditions for the Combination of",
+          "page": 28,
+          "subtopics": []
+        },
+        {
+          "number": "4.7.3",
+          "title": "Types of Molecular Orbitals",
+          "page": 28,
+          "subtopics": []
+        },
+        {
+          "number": "4.7.4",
+          "title": "Energy Level Diagram for Molecular",
+          "page": 28,
+          "subtopics": []
+        },
+        {
+          "number": "4.7.5",
+          "title": "Electronic Configuration and",
+          "page": 30,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "4.9",
+      "title": "Hydrogen Bonding",
+      "page": 32,
+      "subtopics": [
+        {
+          "number": "4.9.1",
+          "title": "Cause of Formation of Hydrogen",
+          "page": 32,
+          "subtopics": []
+        },
+        {
+          "number": "4.9.2",
+          "title": "Types of H-Bonds",
+          "page": 33,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

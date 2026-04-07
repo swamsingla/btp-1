@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topic_number": "4.3.3",
+  "topic_title": "Multiplication of two complex numbers",
+  "depth": 3,
+  "page_start": 3,
+  "content": "two complex numbers. Then, the product z1 z2 is defined as follows:\nz1 z2 = (ac –  bd) + i(ad + bc)\nFor example, (3 + i5) (2 + i6) = (3 × 2 – 5 × 6) + i(3 × 6 + 5 × 2) = – 24 + i28\nThe multiplication of complex numbers possesses the following properties, which\nwe state without proofs.\n(i)\nThe closure law The product of two complex numbers is a complex number,\nthe product z1 z2 is a complex number for all complex numbers z1 and z2.\n(ii)\nThe commutative law For any two complex numbers z1 and z2,\nz1 z2 = z2 z1\n.\n(iii)\nThe associative law For any three complex numbers z1, z2, z3,\n(z1 z2) z3 = z1 (z2 z3).\n(iv)\nThe existence of multiplicative identity There exists the complex number\n1 + i 0 (denoted as 1),  called the multiplicative identity such that z.1 = z,\nfor every complex number z.\n(v)\nThe existence of multiplicative inverse For every non-zero complex\nnumber z = a + ib or a + bi(a ≠ 0, b ≠ 0), we have the complex number\na\n–b\ni\na\nb\na\nb\n+\n+\n+\n(denoted by 1\nz  or z–1 ), called the multiplicative inverse\nof z such that\nz.z =  (the multiplicative identity).\n(vi)\nThe distributive law For any three complex numbers z1, z2, z3,\n(a)  z1 (z2 + z3) = z1 z2 + z1 z3\n(b)  (z1 + z2) z3 = z1 z3 + z2 z3\n4.3.4  Division of two complex numbers Given any two complex numbers z1 and  z2,",
+  "content_length": 1285
+}

@@ -1,0 +1,37 @@
+{
+  "chapter_number": 2,
+  "chapter_title": "RELATIONS AND FUNCTIONS",
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "2.2",
+      "title": "Cartesian Products of Sets",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "2.3",
+      "title": "Relations",
+      "page": 5,
+      "subtopics": [
+        {
+          "number": "2.4.1",
+          "title": "Some functions and their graphs",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "2.4.2",
+          "title": "Algebra of real functions",
+          "page": 13,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 12,
+  "chapter_title": "LIMITS AND DERIVATIVES",
+  "topic_number": "12.3.1",
+  "topic_title": "Algebra of limits",
+  "depth": 3,
+  "page_start": 12,
+  "content": "process respects addition, subtraction, multiplication and division as long as the limits\nand functions under consideration are well defined. This is not a coincidence. In fact,\nbelow we formalise these as a theorem without proof.\nTheorem 1 Let f  and g be two functions such that both lim\nx\na\n→ f (x) and  lim\nx\na\n→ g(x) exist.\nThen\n(i) Limit of sum of two functions is sum of the limits of the functions, i.e.,\nlim\nx\na\n→[f(x) + g (x)] =  lim\nx\na\n→ f(x) +  lim\nx\na\n→ g(x).\n(ii)\nLimit of difference of two functions is difference of the limits of the functions, i.e.,\nlim\nx\na\n→[f(x) – g(x)] =  lim\nx\na\n→ f(x) –  lim\nx\na\n→ g(x).\n(iii)\nLimit of product of two functions is product of the limits of the functions, i.e.,\nlim\nx\na\n→ [f(x) . g(x)] =  lim\nx\na\n→ f(x).  lim\nx\na\n→ g(x).\n(iv)\nLimit of quotient of two functions is quotient of the limits of the functions (whenever\nthe denominator is non zero), i.e.,\n( )\n( )\n( )\n( )\nlim\nlim\nlim\nx\na\nx\na\nx\na\nf x\nf x\ng x\ng x\n→\n→\n→\n=\nANote In particular as a special case of (iii), when g is the constant function\nsuch that  g(x) = λ , for some real number λ , we have\n(\n) ( )\n( )\nlim\n.\n.lim\nx\na\nx\na\nf\nx\nf x\n→\n→\n\n\nλ\n= λ\n\n\n.\nIn the next two subsections, we illustrate how to exploit this theorem to evaluate\nlimits of special types of functions.\n12.3.2  Limits of polynomials and rational functions A function f is said to be a",
+  "content_length": 1366
+}

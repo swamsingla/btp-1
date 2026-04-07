@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "INTEGRALS",
+  "topic_number": "7.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "Differential Calculus is centred on the concept of the\nderivative. The original motivation for the derivative was\nthe problem of defining tangent lines to the graphs of\nfunctions and calculating the slope of such lines. Integral\nCalculus is motivated by the problem of defining and\ncalculating the area of the region bounded by the graph of\nthe functions.\nIf a function f  is differentiable in an interval I, i.e., its\nderivative f ′exists at each point of I, then a natural question\narises that given f ′at each point of I, can we determine\nthe function? The functions that could possibly have given\nfunction as a derivative are called anti derivatives (or\nprimitive) of the function. Further, the formula that gives\nall these anti derivatives is called the indefinite integral of the function and such\nprocess of finding anti derivatives is called integration. Such type of problems arise in\nmany practical situations. For instance, if we know the instantaneous velocity of an\nobject at any instant, then there arises a natural question, i.e., can we determine the\nposition of the object at any instant? There are several such practical and theoretical\nsituations where the process of integration is involved. The development of integral\ncalculus arises out of the efforts of solving the problems of the following types:\n(a)\nthe problem of finding a function whenever its derivative is given,\n(b)\nthe problem of finding the area bounded by the graph of a function under certain\nconditions.\nThese  two problems lead to the two forms of the integrals, e.g., indefinite and\ndefinite integrals, which together constitute the Integral Calculus.\nG .W. Leibnitz\n(1646 -1716)\nReprint 2025-26\nThere is a connection, known as the Fundamental Theorem of Calculus, between\nindefinite integral and definite integral which makes the definite integral as a practical\ntool for science and engineering. The definite integral is also used to solve many interesting\nproblems from various disciplines like economics, finance and probability.\nIn this Chapter, we shall confine ourselves to the study of indefinite and definite\nintegrals and their elementary properties including some techniques of integration.\n7.2  Integration as an Inverse Process of Differentiation",
+  "content_length": 2249
+}

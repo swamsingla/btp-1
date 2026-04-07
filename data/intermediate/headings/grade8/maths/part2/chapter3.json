@@ -1,0 +1,42 @@
+{
+  "chapter_number": 3,
+  "chapter_title": "PROPORTIONAL REASONING–2",
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "Proportionality — A Quick Recap",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "3.2",
+      "title": "Ratios in Maps",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "3.3",
+      "title": "Ratios with More than 2 Terms",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "3.4",
+      "title": "Dividing a Whole in a Given Ratio",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "3.5",
+      "title": "A Slice of the Pie",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "3.6",
+      "title": "Inverse Proportions",
+      "page": 9,
+      "subtopics": []
+    }
+  ]
+}

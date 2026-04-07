@@ -1,0 +1,39 @@
+{
+  "source_pdf": "chapter2.pdf",
+  "chapter_number": "2",
+  "chapter_title": "Diversity in the Living World",
+  "total_topics": 5,
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "Diversity in Plants and Animals Around Us",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "2.2",
+      "title": "How to Group Plants and Animals?",
+      "page": 6,
+      "subtopics": [
+        {
+          "number": "2.2.1",
+          "title": "How to group plants?",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "2.2.2",
+          "title": "How to group animals?",
+          "page": 12,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "2.3",
+      "title": "Plants and Animals in Different",
+      "page": 15,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "SETS",
+  "topic_number": "1.9.1",
+  "topic_title": "Union of sets",
+  "depth": 3,
+  "page_start": 14,
+  "content": "which consists of all the elements of A and all the elements of B, the common elements\nbeing taken only once. The symbol ‘∪’ is used to denote the union. Symbolically, we\nwrite A ∪ B and usually read as ‘A union B’.\nExample 12 Let A = { 2, 4, 6, 8} and B = { 6, 8, 10, 12}. Find A ∪ B.\nSolution  We have  A ∪ B  = { 2, 4, 6, 8, 10, 12}\nNote that the common elements 6 and 8 have been taken only once while writing\nA ∪ B.\nExample 13   Let A = { a, e, i, o, u } and B = { a, i, u }. Show that A ∪ B  = A\nSolution We have, A ∪ B = { a, e, i, o, u } = A.\nThis example illustrates that union of sets A and its subset B is the set A\nitself, i.e., if B ⊂ A, then A ∪ B = A.\nExample 14 Let X = {Ram, Geeta, Akbar} be the set of students of Class XI, who are\nin school hockey team. Let Y = {Geeta, David, Ashok} be the set of students from\nClass XI who are in the school football team. Find X ∪ Y and interpret the set.\nSolution We have, X ∪ Y = {Ram, Geeta, Akbar, David, Ashok}. This is the set of\nstudents from Class XI who are in the hockey team or the football team or both.\nThus, we can define the union of two sets as follows:\nDefinition 5 The union of two sets A and B is the set C which consists of all those\nelements which are either in A or in B (including\nthose which are in both). In symbols, we write.\nA ∪ B  = { x : x ∈A or x ∈B }\nThe union of two sets can be represented by\na Venn diagram as shown in Fig 1.4.\nThe shaded portion in Fig 1.4 represents A ∪ B.\nSome Properties of the Operation of Union\n(i)\nA ∪ B  = B ∪ A  (Commutative law)\n(ii)\n( A ∪ B ) ∪ C = A ∪ ( B ∪ C)\n(Associative law )\n(iii)\nA ∪ φ = A\n(Law of identity element, φ is the identity of ∪)\nFig 1.4\nReprint 2025-26\nSETS        15\n(iv)\nA ∪ A  = A\n(Idempotent law)\n(v)\nU ∪ A  = U      (Law of U)\n1.9.2  Intersection of sets  The intersection of sets A and B is the set of all elements",
+  "content_length": 1855
+}

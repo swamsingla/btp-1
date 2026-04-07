@@ -1,0 +1,42 @@
+{
+  "chapter_number": 9,
+  "chapter_title": "CIRCLES",
+  "topics": [
+    {
+      "number": "9.1",
+      "title": "Angle Subtended by a Chord at a Point",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "9.2",
+      "title": "Perpendicular from the Centre to a Chord",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "9.3",
+      "title": "Equal Chords and their Distances from the Centre",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "9.4",
+      "title": "Angle Subtended by an Arc of a Circle",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "9.5",
+      "title": "Cyclic Quadrilaterals",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "9.6",
+      "title": "Summary",
+      "page": 14,
+      "subtopics": []
+    }
+  ]
+}

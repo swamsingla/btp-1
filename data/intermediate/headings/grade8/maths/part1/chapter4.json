@@ -1,0 +1,36 @@
+{
+  "chapter_number": 4,
+  "chapter_title": "QUADRILATERALS",
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "Rectangles and Squares",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "Angles in a Quadrilateral",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "4.4",
+      "title": "Quadrilaterals with Equal Sidelengths",
+      "page": 18,
+      "subtopics": []
+    },
+    {
+      "number": "4.5",
+      "title": "Playing with Quadrilaterals",
+      "page": 22,
+      "subtopics": []
+    },
+    {
+      "number": "4.6",
+      "title": "Kite and Trapezium",
+      "page": 24,
+      "subtopics": []
+    }
+  ]
+}

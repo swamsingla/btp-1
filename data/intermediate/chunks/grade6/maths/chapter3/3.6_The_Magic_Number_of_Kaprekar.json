@@ -1,0 +1,12 @@
+{
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "NUMBER PLAY",
+  "topic_number": "3.6",
+  "topic_title": "The Magic Number of Kaprekar",
+  "depth": 2,
+  "page_start": 8,
+  "content": "D.R. Kaprekar was a mathematics teacher in a\ngovernment school in Devlali, Maharashtra. He liked\nplaying with numbers very much and found many\nbeautiful patterns in numbers that were previously\nunknown.\nIn 1949, he discovered a fascinating and magical\nphenomenon when playing with 4-digit numbers.\n*The answer is yes! For 3-digit numbers the answer is unknown.  It is suspected that\nstarting with 196 never yields a palindrome!\nReprint 2025-26\nNumber Play\nFollow these steps and experience the magic for yourselves! Pick\nany 4-digit number having at least two different digits, say 6382.\nMake the largest number from these\ndigits. Call it A.\nMake the smallest number from these\ndigits. Call it B.\nSubtract B from A. Call it C.\nC = A – B\nTake a 4-digit number.\nUse digits\nof C\nWhat happens if we continue\ndoing this?\nA = 8632\nA = 6642\nA = 7641\nA =\nB = 2368\nB = 2466\nB = 1467\nB =\nC = 8632–2368\nC = 6642–2466\nC = 7641–1467\nC =\n= 6264\n= 4176\n= 6174\nExplore\nTake different 4-digit numbers and try carrying out these steps. Find\nout what happens. Check with your friends what they got.\nYou will always reach the magic number ‘6174’! The number\n‘6174’ is now called the ‘Kaprekar constant’.\nCarry out these same steps with a few 3-digit numbers. What\nnumber will start repeating?\nReprint 2025-26\nGanita Prakash | Grade 6\n3.7 Clock and Calendar Numbers",
+  "content_length": 1344
+}

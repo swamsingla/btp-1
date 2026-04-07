@@ -1,0 +1,27 @@
+{
+  "source_pdf": "chapter5.pdf",
+  "chapter_number": "5",
+  "chapter_title": null,
+  "total_topics": 3,
+  "topics": [
+    {
+      "number": "5.9",
+      "title": "HUMAN GENOME PROJECT",
+      "page": 24,
+      "subtopics": [
+        {
+          "number": "5.9.1",
+          "title": "Salient Features of Human Genome",
+          "page": 26,
+          "subtopics": []
+        },
+        {
+          "number": "5.9.2",
+          "title": "Applications and Future Challenges",
+          "page": 26,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

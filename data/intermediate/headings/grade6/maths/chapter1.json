@@ -1,0 +1,42 @@
+{
+  "chapter_number": 1,
+  "chapter_title": "PATTERNS IN MATHEMATICS",
+  "topics": [
+    {
+      "number": "1.1",
+      "title": "What is Mathematics?",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "1.2",
+      "title": "Patterns in Numbers",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "1.3",
+      "title": "Visualising Number Sequences",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "1.4",
+      "title": "Relations among Number Sequences",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "1.5",
+      "title": "Patterns in Shapes",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "1.6",
+      "title": "Relation to Number Sequences",
+      "page": 11,
+      "subtopics": []
+    }
+  ]
+}

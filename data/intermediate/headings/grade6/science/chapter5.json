@@ -1,0 +1,50 @@
+{
+  "source_pdf": "chapter5.pdf",
+  "chapter_number": "5",
+  "chapter_title": "Measurement of Length",
+  "total_topics": 7,
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "How do we Measure?",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "5.2",
+      "title": "Standard Units",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "5.3",
+      "title": "Correct Way of Measuring Length",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "5.4",
+      "title": "Measuring the length of a curved line",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "5.5",
+      "title": "Describing Position",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "5.6",
+      "title": "Moving Things",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "5.7",
+      "title": "Types of Motion",
+      "page": 13,
+      "subtopics": []
+    }
+  ]
+}

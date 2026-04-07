@@ -1,0 +1,120 @@
+{
+  "source_pdf": "chapter2.pdf",
+  "chapter_number": "2",
+  "chapter_title": "Acids, Bases and Salts",
+  "total_topics": 18,
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "UNDERST UNDERST",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "2.1.1",
+          "title": "Acids and Bases in the Laboratory",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "2.1.2",
+          "title": "How do Acids and Bases React with Metals?",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "2.1.3",
+          "title": "How do Metal Carbonates and Metal",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "2.1.5",
+          "title": "Reaction of Metallic Oxides with Acids",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "2.1.4",
+          "title": "How do Acids and Bases React with each other?",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "2.1.6",
+          "title": "Reaction of a Non-metallic Oxide with Base",
+          "page": 6,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "2.2",
+      "title": "WHAT DO ALL ACIDS AND ALL BASES HA",
+      "page": 6,
+      "subtopics": [
+        {
+          "number": "2.2.1",
+          "title": "What Happens to an Acid or a Base in a Water Solution?",
+          "page": 7,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "2.3",
+      "title": "HOW STRONG ARE ACID OR BASE SOLUTIONS?",
+      "page": 9,
+      "subtopics": [
+        {
+          "number": "2.3.1",
+          "title": "Impor",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "2.3.1",
+          "title": "Importance of pH in Ever",
+          "page": 10,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "2.4",
+      "title": "MORE ABOUT SAL",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "2.4",
+      "title": "MORE ABOUT SALTS TS",
+      "page": 12,
+      "subtopics": [
+        {
+          "number": "2.4.1",
+          "title": "Family of Salts",
+          "page": 12,
+          "subtopics": []
+        },
+        {
+          "number": "2.4.2",
+          "title": "pH of Salts",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "2.4.3",
+          "title": "Chemicals from Common Salt",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "2.4.4",
+          "title": "Are the Crystals of Salts really Dry?",
+          "page": 16,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

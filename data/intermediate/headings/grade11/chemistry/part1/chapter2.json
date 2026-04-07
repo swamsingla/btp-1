@@ -1,0 +1,147 @@
+{
+  "source_pdf": "chapter2.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 23,
+  "topics": [
+    {
+      "number": "2.1.1",
+      "title": "Discovery of Electron",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "2.1.2",
+      "title": "Charge to Mass Ratio of Electron",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "2.1.3",
+      "title": "Charge on the Electron",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "2.1.4",
+      "title": "Discovery of Protons and Neutrons",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "2.2.1",
+      "title": "Thomson Model of Atom",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "2.2.2",
+      "title": "Rutherford’s Nuclear Model of Atom",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "2.2.3",
+      "title": "Atomic Number and Mass Number",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "2.2.4",
+      "title": "Isobars and Isotopes",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "2.2.5",
+      "title": "Drawbacks of Rutherford Model",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "2.3.1",
+      "title": "Wave Nature of Electromagnetic",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "2.3.2",
+      "title": "Particle Nature of Electromagnetic",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "2.3.3",
+      "title": "Evidence",
+      "page": 16,
+      "subtopics": []
+    },
+    {
+      "number": "2.4.1",
+      "title": "Explanation of Line Spectrum of",
+      "page": 20,
+      "subtopics": []
+    },
+    {
+      "number": "2.4.2",
+      "title": "Limitations of Bohr’s Model",
+      "page": 21,
+      "subtopics": []
+    },
+    {
+      "number": "2.5.1",
+      "title": "Dual Behaviour of Matter",
+      "page": 21,
+      "subtopics": []
+    },
+    {
+      "number": "2.5.2",
+      "title": "Heisenberg’s Uncertainty Principle",
+      "page": 22,
+      "subtopics": []
+    },
+    {
+      "number": "2.6",
+      "title": "Quantum Mechanical Model of",
+      "page": 25,
+      "subtopics": [
+        {
+          "number": "2.6.1",
+          "title": "Orbitals and Quantum Numbers",
+          "page": 26,
+          "subtopics": []
+        },
+        {
+          "number": "2.6.2",
+          "title": "Shapes of Atomic Orbitals",
+          "page": 29,
+          "subtopics": []
+        },
+        {
+          "number": "2.6.3",
+          "title": "Energies of Orbitals",
+          "page": 31,
+          "subtopics": []
+        },
+        {
+          "number": "2.6.4",
+          "title": "Filling of Orbitals in Atom",
+          "page": 33,
+          "subtopics": []
+        },
+        {
+          "number": "2.6.5",
+          "title": "Electronic Configuration of Atoms",
+          "page": 35,
+          "subtopics": []
+        },
+        {
+          "number": "2.6.6",
+          "title": "Stability of Completely Filled and",
+          "page": 36,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

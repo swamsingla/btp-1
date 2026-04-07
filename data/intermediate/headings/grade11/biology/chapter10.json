@@ -1,0 +1,38 @@
+{
+  "source_pdf": "chapter10.pdf",
+  "chapter_number": "10",
+  "chapter_title": null,
+  "total_topics": 5,
+  "topics": [
+    {
+      "number": "10.1.1",
+      "title": "Phases of Cell Cycle",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "10.2.1",
+      "title": "Prophase",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "10.2.2",
+      "title": "Metaphase",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "10.2.3",
+      "title": "Anaphase",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "10.4.2",
+      "title": "Meiosis II",
+      "page": 8,
+      "subtopics": []
+    }
+  ]
+}

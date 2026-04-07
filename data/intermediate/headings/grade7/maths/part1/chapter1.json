@@ -1,0 +1,42 @@
+{
+  "chapter_number": 1,
+  "chapter_title": "LARGE NUMBERS AROUND US",
+  "topics": [
+    {
+      "number": "1.1",
+      "title": "A Lakh Varieties!",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "1.2",
+      "title": "Land of Tens",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "1.3",
+      "title": "Of Crores and Crores!",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "1.4",
+      "title": "Exact and Approximate Values",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "1.5",
+      "title": "Patterns in Products",
+      "page": 13,
+      "subtopics": []
+    },
+    {
+      "number": "1.6",
+      "title": "Did You Ever Wonder…?",
+      "page": 18,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "TRIGONOMETRIC FUNCTIONS",
+  "topic_number": "3.2",
+  "topic_title": "Angles",
+  "depth": 2,
+  "page_start": 1,
+  "content": "Angle is a measure of rotation of a given ray about its initial point. The original ray is\nFig  3.1\nVertex\nReprint 2025-26\ncalled the initial side and the final position of the ray after rotation is called the\nterminal side of the angle. The point of rotation is called the vertex. If the direction of\nrotation is anticlockwise, the angle is said to be positive and if the direction of rotation\nis clockwise, then the angle is negative (Fig 3.1).\nThe measure of an angle is the amount of\nrotation performed to get the terminal side from\nthe initial side. There are several units for\nmeasuring angles. The definition of an angle\nsuggests a unit, viz. one complete revolution from the position of the initial side as\nindicated in Fig 3.2.\nThis is often convenient for large angles. For example, we can say that a rapidly\nspinning wheel is making an angle of say 15 revolution per second. We shall  describe\ntwo other units of measurement of an angle which are most commonly used, viz.\ndegree measure and radian measure.\n3.2.1  Degree measure  If a rotation from the initial side to terminal side is\nth\n\n\n\n\nof\nFig  3.2",
+  "content_length": 1120
+}

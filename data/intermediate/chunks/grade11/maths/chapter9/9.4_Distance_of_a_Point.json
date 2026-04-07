@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "STRAIGHT LINES",
+  "topic_number": "9.4",
+  "topic_title": "Distance of a Point",
+  "depth": 2,
+  "page_start": 14,
+  "content": "The distance of a point from a line is the length of the perpendicular drawn from the\npoint to the line. Let L : Ax + By + C = 0 be a line, whose distance from the point\nP (x1, y1) is d. Draw a perpendicular PM from the point P to the line L (Fig 9.14). If the\nReprint 2025-26\nSTRAIGHT LINES       165\nline meets the x-and y-axes at the points Q and R, respectively. Then, coordinates of\nthe points are    Q\nC\nA ,\n\n\n−\n\n\n\nand R\nC\nB\n,\n\n\n−\n\n\n\n. Thus, the area of the triangle PQR is\ngiven by\narea\n( PQR)\nPM.QR\n∆\n=\n, which gives\n2 area (∆PQR)\nPM =\nQR\n... (1)\nAlso, area\n(\n)\nC\nC\nC\n(∆PQR)\nB\nA\nB\nx\ny\ny\n\n\n\n\n\n=\n+\n+ −\n−\n−\n+\n−\n\n\n\n\n\n\n\n\n\n\nC\nC\nC\nB\nA\nAB\ny\nx\n=\n+\n+\nor\nC\n2 area (∆PQR)\nA\nB\nC\nand\nAB .\n,\ny\nx\n=\n+\n+\n(\n)\nC\nC\nC\nQR\nA\nB\nAB\nA\nB\n\n\n=\n+\n=\n+\n+\n−\n\n\n\n\nSubstituting the values of area (∆PQR) and QR in (1), we get\nA\nB\nC\nPM\nA\nB\ny\nx +\n+\n=\n+\nFig 9.14\nReprint 2025-26\nor\nA\nB\nC\nA\nB\ny\nx\nd\n+\n+\n=\n+\n.\nThus, the perpendicular distance (d) of a line Ax + By+ C = 0 from a point (x1, y1)\nis given by\nA\nB\nC\nA\nB\ny\nx\nd\n+\n+\n=\n+\n.\n9.4.1  Distance between two",
+  "content_length": 1062
+}

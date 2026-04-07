@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "DETERMINANTS",
+  "topic_number": "4.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In the previous chapter, we have studied about matrices\nand algebra of matrices. We have also learnt that a system\nof algebraic equations can be expressed in the form of\nmatrices. This means, a system of linear equations like\na1 x + b1 y = c1\na2 x + b2 y = c2\ncan be represented as\na\nb\nc\nx\na\nb\nc\ny\n\n\n\n\n=\n\n\n\n\n\n\n\n\n\n\n. Now, this\nsystem of equations has a unique solution or not, is\ndetermined by the number a1 b2 – a2 b1. (Recall that if\na\nb\na\nb\n≠\nor, a1 b2 – a2 b1 ≠ 0,  then the system of linear\nequations has a unique solution). The number a1 b2 – a2 b1\nwhich determines uniqueness of solution is associated with the matrix\nA\na\nb\na\nb\n\n\n= \n\n\n\nand is called the determinant of A or det A. Determinants have wide applications in\nEngineering, Science, Economics, Social Science, etc.\nIn this chapter, we shall study determinants up to order three only with real entries.\nAlso, we will study various properties of determinants, minors, cofactors and applications\nof determinants in finding the area of a triangle, adjoint and inverse of a square matrix,\nconsistency and inconsistency of system of linear equations and solution of linear\nequations in two or three variables using inverse of a matrix.\n4.2  Determinant\nP.S. Laplace\n(1749-1827)",
+  "content_length": 1260
+}

@@ -1,0 +1,68 @@
+{
+  "chapter_number": 3,
+  "chapter_title": "TRIGONOMETRIC FUNCTIONS",
+  "topics": [
+    {
+      "number": "3.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "3.2",
+      "title": "Angles",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "3.2.1",
+          "title": "Degree measure",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "3.2.2",
+          "title": "Radian measure",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "3.2.3",
+          "title": "Relation between radian and real numbers",
+          "page": 4,
+          "subtopics": []
+        },
+        {
+          "number": "3.2.4",
+          "title": "Relation between degree and radian",
+          "page": 4,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.3",
+      "title": "Trigonometric Functions",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "3.3.1",
+          "title": "Sign of trigonometric functions",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "3.3.2",
+          "title": "Domain and range of trigonometric functions",
+          "page": 10,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "3.4",
+      "title": "Trigonometric Functions of Sum and Difference of Two Angles",
+      "page": 15,
+      "subtopics": []
+    }
+  ]
+}

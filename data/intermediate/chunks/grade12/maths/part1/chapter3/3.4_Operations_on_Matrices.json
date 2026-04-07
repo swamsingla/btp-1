@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "MATRICES",
+  "topic_number": "3.4",
+  "topic_title": "Operations on Matrices",
+  "depth": 2,
+  "page_start": 10,
+  "content": "In this section, we shall introduce certain operations on matrices, namely, addition of\nmatrices, multiplication of a matrix by a scalar, difference and multiplication of matrices.\n3.4.1  Addition of matrices",
+  "content_length": 208
+}

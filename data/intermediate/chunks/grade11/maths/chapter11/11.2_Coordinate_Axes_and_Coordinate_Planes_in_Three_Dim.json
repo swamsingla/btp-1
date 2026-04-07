@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 11,
+  "chapter_title": "INTRODUCTION TO THREE DIMENSIONAL GEOMETRY",
+  "topic_number": "11.2",
+  "topic_title": "Coordinate Axes and Coordinate Planes in Three Dimensional Space",
+  "depth": 2,
+  "page_start": 2,
+  "content": "Consider three planes intersecting at a point O\nsuch that these three planes are mutually\nperpendicular to each other (Fig 11.1). These\nthree planes intersect along the lines X′OX, Y′OY\nand Z′OZ, called the x, y and z-axes, respectively.\nWe may note that these lines are mutually\nperpendicular to each other. These lines constitute\nthe rectangular coordinate system. The planes\nXOY, YOZ and ZOX, called, respectively the\nXY-plane, YZ-plane and the ZX-plane, are\nknown as the three coordinate planes. We take\nthe XOY plane as the plane of the paper and the\nline Z′OZ as perpendicular to the plane XOY. If the plane of the paper is considered\nas horizontal, then the line Z′OZ will be vertical. The distances measured from\nXY-plane upwards in the direction of OZ are taken as positive and those measured\ndownwards in the direction of OZ′ are taken as negative. Similarly, the distance\nmeasured to the right of ZX-plane along OY are taken as positive, to the left of\nZX-plane and along OY′ as negative, in front of the YZ-plane along OX as positive\nand to the back of it along OX′ as negative. The point O is called the origin of the\ncoordinate system. The three coordinate planes divide the space into eight parts known\nas octants. These octants could be named as XOYZ, X′OYZ, X′OY′Z, XOY′Z,  XOYZ′,\nX′OYZ′, X′OY′Z′ and XOY′Z′. and denoted by I, II, III, ..., VIII , respectively.\n11.3  Coordinates of a Point in Space\nFig 11.1",
+  "content_length": 1425
+}

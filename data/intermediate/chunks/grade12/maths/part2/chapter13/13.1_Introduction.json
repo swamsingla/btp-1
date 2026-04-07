@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 13,
+  "chapter_title": "PROBABILITY",
+  "topic_number": "13.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In earlier Classes, we have studied the probability as a\nmeasure of uncertainty of events in a random experiment.\nWe discussed the axiomatic approach formulated by\nRussian Mathematician, A.N. Kolmogorov (1903-1987)\nand treated probability as a function of outcomes of the\nexperiment. We have also established equivalence between\nthe axiomatic theory and the classical theory of probability\nin case of equally likely outcomes. On the basis of this\nrelationship, we obtained probabilities of events associated\nwith discrete sample spaces. We have also studied the\naddition rule of probability. In this chapter, we shall discuss\nthe important concept of conditional probability of an event\ngiven that another event has occurred, which will be helpful\nin understanding the Bayes' theorem, multiplication rule of\nprobability and independence of events. We shall also learn\nan  important concept of  random variable and its probability\ndistribution and also the mean and variance of a probability  distribution. In the last\nsection of the chapter, we shall study an important discrete probability distribution\ncalled  Binomial distribution. Throughout this chapter, we shall take up the experiments\nhaving equally likely outcomes, unless stated otherwise.\n13.2  Conditional Probability\nPierre de Fermat\n(1601-1665)",
+  "content_length": 1308
+}

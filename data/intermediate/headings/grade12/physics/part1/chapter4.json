@@ -1,0 +1,57 @@
+{
+  "source_pdf": "chapter4.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 8,
+  "topics": [
+    {
+      "number": "4.3",
+      "title": "MOTION IN A MAGNETIC FIELD",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "4.5",
+      "title": "MAGNETIC FIELD ON THE AXIS OF A CIRCULAR",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "4.6",
+      "title": "AMPERE’S CIRCUITAL LAW",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "4.7",
+      "title": "THE SOLENOID",
+      "page": 15,
+      "subtopics": []
+    },
+    {
+      "number": "4.8",
+      "title": "FORCE BETWEEN TWO PARALLEL",
+      "page": 16,
+      "subtopics": []
+    },
+    {
+      "number": "4.9",
+      "title": "TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE",
+      "page": 18,
+      "subtopics": [
+        {
+          "number": "4.9.2",
+          "title": "Circular current loop as a magnetic dipole",
+          "page": 22,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "4.10",
+      "title": "THE MOVING COIL GALVANOMETER",
+      "page": 23,
+      "subtopics": []
+    }
+  ]
+}

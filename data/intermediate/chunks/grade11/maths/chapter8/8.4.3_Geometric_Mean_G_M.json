@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 8,
+  "chapter_title": "SEQUENCES AND SERIES",
+  "topic_number": "8.4.3",
+  "topic_title": "Geometric Mean (G .M.)",
+  "depth": 3,
+  "page_start": 9,
+  "content": "and b is the number\nab . Therefore, the geometric mean of 2 and 8 is 4. We\nobserve that the three numbers 2,4,8 are consecutive terms of a G.P. This leads to a\ngeneralisation of the concept of geometric means of two numbers.\nGiven any two positive numbers a and b, we can insert as many numbers as\nwe like between them to make the resulting sequence in a G.P.\nLet G1, G2,…, Gn be  n numbers between positive numbers a and b such that\na,G1,G2,G3,…,Gn,b is a G.P. Thus, b being the (n + 2)th term,we have\nn\nb\nar\n+\n=\n,    or\nn\nb\nr\na\n+\n\n\n= \n\n\n\n.\nHence\nG\nn\nb\nar\na a\n+\n\n\n=\n= \n\n\n\n,\nG\nn\nb\nar\na a\n+\n\n\n=\n= \n\n\n\n,\nG\nn\nb\nar\na a\n+\n\n\n=\n= \n\n\n\n,\nG\nn\nn\nn\nn\nb\nar\na a\n+\n\n\n=\n= \n\n\n\nReprint 2025-26\n144       MATHEMATICS\nExample12 Insert three numbers between 1 and 256 so that the resulting sequence\nis a G.P.\nSolution   Let G1, G2,G3  be three numbers between 1 and 256 such that\n1, G1,G2,G3 ,256 is a G.P.\nTherefore\n256 = r4 giving r = ± 4 (Taking real roots only)\nFor r = 4, we have G1 = ar = 4, G2 = ar2 = 16, G3 = ar3 = 64\nSimilarly, for r = – 4, numbers are – 4,16 and – 64.\nHence, we can insert 4, 16, 64 between 1 and 256 so that the resulting sequences are\nin G.P.\n8.5  Relationship Between A.M. and G.M.",
+  "content_length": 1221
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "INVERSE TRIGONOMETRIC FUNCTIONS",
+  "topic_number": "2.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In Chapter 1, we have studied that the inverse of a function\nf, denoted by f –1, exists if f is one-one and onto. There are\nmany functions which are not one-one, onto or both and\nhence we can not talk of their inverses. In Class XI, we\nstudied that trigonometric functions are not one-one and\nonto over their natural domains and ranges and hence their\ninverses do not exist. In this chapter, we shall study about\nthe restrictions on domains and ranges of trigonometric\nfunctions which ensure the existence of their inverses and\nobserve their behaviour through graphical representations.\nBesides, some elementary properties will also be discussed.\nThe inverse trigonometric functions play an important\nrole in calculus for they serve to define many integrals.\nThe concepts of inverse trigonometric functions is also used in science and engineering.\n2.2  Basic Concepts\nAryabhata\n(476-550 A. D.)",
+  "content_length": 893
+}

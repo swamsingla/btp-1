@@ -1,0 +1,88 @@
+{
+  "source_pdf": "chapter11.pdf",
+  "chapter_number": "11",
+  "chapter_title": "Electricity",
+  "total_topics": 13,
+  "topics": [
+    {
+      "number": "11.1",
+      "title": "ELECTRIC CURRENT AND CIRCUIT",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "11.2",
+      "title": "ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "11.3",
+      "title": "CIRCUIT DIAGRAM",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "11.4",
+      "title": "OHM’S LA",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "11.4",
+      "title": "OHM’S LAW",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "11.5",
+      "title": "FACTORS ON WHICH THE RESIST",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "11.6",
+      "title": "RESIST",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "11.6",
+      "title": "RESISTANCE OF A SYSTEM OF RESISTORS",
+      "page": 11,
+      "subtopics": [
+        {
+          "number": "11.6.1",
+          "title": "Resistors in Series",
+          "page": 12,
+          "subtopics": []
+        },
+        {
+          "number": "11.6.2",
+          "title": "Resistors in Parallel",
+          "page": 15,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "11.7",
+      "title": "HEATING EFFECT OF ELECTRIC CURRENT",
+      "page": 18,
+      "subtopics": [
+        {
+          "number": "11.7.1",
+          "title": "Practical Applications of Heating Effect of",
+          "page": 20,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "11.8",
+      "title": "ELECTRIC POWER",
+      "page": 21,
+      "subtopics": []
+    }
+  ]
+}

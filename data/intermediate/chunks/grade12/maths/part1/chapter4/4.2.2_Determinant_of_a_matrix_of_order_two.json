@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "DETERMINANTS",
+  "topic_number": "4.2.2",
+  "topic_title": "Determinant of a matrix of order two",
+  "depth": 3,
+  "page_start": 2,
+  "content": "Let\nA =\na\na\na\na\n\n\n\n\n\n\nbe a matrix of order 2 × 2,\nthen the determinant of A is defined as:\ndet (A) = |A| = ∆ =\n= a11a22 – a21a12\nExample 1 Evaluate\n–1\n2 .\nSolution We have\n–1\n2  = 2(2) – 4(–1) = 4 + 4 = 8.\nExample 2 Evaluate\n– 1\nx\nx\nx\nx\n+\nSolution We have\n– 1\nx\nx\nx\nx\n+\n= x (x) – (x + 1) (x – 1)  = x2 – (x2 – 1) = x2 – x2 + 1 = 1\n4.2.3  Determinant of a matrix of order 3 × 3",
+  "content_length": 382
+}

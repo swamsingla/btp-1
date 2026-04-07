@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "DETERMINANTS",
+  "topic_number": "4.2.1",
+  "topic_title": "Determinant of a matrix of order one",
+  "depth": 3,
+  "page_start": 2,
+  "content": "Let A = [a] be the matrix of order 1, then determinant of A is defined to be equal to a\n4.2.2  Determinant of a matrix of order two",
+  "content_length": 131
+}

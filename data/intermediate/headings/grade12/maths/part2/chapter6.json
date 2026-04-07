@@ -1,0 +1,31 @@
+{
+  "chapter_number": 12,
+  "chapter_title": "LINEAR PROGRAMMING",
+  "topics": [
+    {
+      "number": "12.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "12.2",
+      "title": "Linear Programming Problem and its Mathematical Formulation",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "12.2.1",
+          "title": "Mathematical formulation of the problem",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "12.2.2",
+          "title": "Graphical method of solving linear programming problems",
+          "page": 4,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

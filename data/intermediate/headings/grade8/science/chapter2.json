@@ -1,0 +1,38 @@
+{
+  "source_pdf": "chapter2.pdf",
+  "chapter_number": "2",
+  "chapter_title": null,
+  "total_topics": 5,
+  "topics": [
+    {
+      "number": "2.1",
+      "title": "What Is a Cell?",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "2.2",
+      "title": "What Are the Levels of Organisation in",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "2.3",
+      "title": "What Are Microorganisms?",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "2.4",
+      "title": "How Are We Connected to Microbes?",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "2.5",
+      "title": "\u0007Why Is Cell Considered to Be a Basic Unit",
+      "page": 16,
+      "subtopics": []
+    }
+  ]
+}

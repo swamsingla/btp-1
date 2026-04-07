@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "CONIC SECTIONS",
+  "topic_number": "10.2.1",
+  "topic_title": "Circle, ellipse, parabola and hyperbola",
+  "depth": 3,
+  "page_start": 2,
+  "content": "than the vertex) of the cone, we have the following situations:\n(a)\nWhen β = 90o,  the section is a circle (Fig10.4).\n(b)\nWhen α < β <  90o, the section is an ellipse (Fig10.5).\n(c)\nWhen β = α; the section is a parabola (Fig10.6).\n(In each of the above three situations, the plane cuts entirely across one nappe of\nthe cone).\n(d)\nWhen 0 ≤ β < α; the plane cuts through both the nappes and the curves of\nintersection is a hyperbola (Fig10.7).\nReprint 2025-26\n178    MATHEMATICS\nFig 10. 4\n10.2.2  Degenerated conic sections\nFig 10. 6\nFig 10. 7\nFig 10. 5",
+  "content_length": 551
+}

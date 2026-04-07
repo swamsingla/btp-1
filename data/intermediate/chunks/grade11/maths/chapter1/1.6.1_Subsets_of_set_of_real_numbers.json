@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "SETS",
+  "topic_number": "1.6.1",
+  "topic_title": "Subsets of set of real numbers",
+  "depth": 3,
+  "page_start": 10,
+  "content": "As noted in Section 1.6, there are many important subsets of R. We give below the\nnames of some of these subsets.\nThe set of natural numbers  N = {1, 2, 3, 4, 5, . . .}\nThe set of integers\nZ = {. . ., –3, –2, –1, 0, 1, 2, 3, . . .}\nThe set of rational numbers Q = { x : x = p\nq  , p, q ∈  Z and q ≠ 0}\nReprint 2025-26\nSETS        11\nwhich is read “ Q is the set of all numbers x  such that x equals the quotient\np\nq , where\np and q  are integers and q is not zero”. Members of Q include  –5 (which can be\nexpressed  as\n–\n) , 7\n5 , 1\n3 2     (which can be expressed as 7\n2 ) and\n–\n.\nThe set of irrational numbers, denoted by T, is composed of all other real numbers.\nThus\nT = {x :  x ∈ R and x ∉ Q}, i.e., all real numbers that are not rational.\nMembers of T include\n2  ,\n5  and π .\nSome of the obvious relations among these subsets are:\nN  ⊂  Z ⊂ Q, Q ⊂ R, T ⊂ R, N ⊄ T.\n1.6.2  Intervals as subsets of R  Let a, b ∈ R and a < b. Then the set of real numbers",
+  "content_length": 957
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "RELATIONS AND FUNCTIONS",
+  "topic_number": "1.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "Recall that the notion of relations and functions, domain,\nco-domain and range have been introduced in Class XI\nalong with different types of specific real valued functions\nand their graphs. The concept of the term ‘relation’ in\nmathematics has been drawn from the meaning of relation\nin English language, according to which two objects or\nquantities are related if there is a recognisable connection\nor link between the two objects or quantities. Let  A be\nthe set of students of Class XII of a school and B be the\nset of students of Class XI of the same school. Then some\nof the examples of relations from A to B are\n(i)\n{(a, b) ∈A × B: a is brother of b},\n(ii)\n{(a, b) ∈A × B: a is sister of b},\n(iii)\n{(a, b) ∈A × B: age of a is greater than age of b},\n(iv)\n{(a, b) ∈A × B: total marks obtained by a in the final examination is less than\nthe total marks obtained by b in the final examination},\n(v)\n{(a, b) ∈ A × B: a lives in the same locality as b}.  However, abstracting from\nthis, we define mathematically a relation R from A to B as an arbitrary subset\nof A × B.\nIf (a, b) ∈ R, we say that a is related to b under the relation R and we write as\na R b. In general, (a, b) ∈ R, we do not bother whether there is a recognisable\nconnection or link between a and b. As seen in Class XI, functions are special kind of\nrelations.\nIn this chapter, we will study different types of relations and functions, composition\nof functions, invertible functions and binary operations.\nLejeune Dirichlet\n(1805-1859)\nReprint 2025-26\n1.2  Types of Relations",
+  "content_length": 1546
+}

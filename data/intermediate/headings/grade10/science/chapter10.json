@@ -1,0 +1,64 @@
+{
+  "source_pdf": "chapter10.pdf",
+  "chapter_number": "10",
+  "chapter_title": "The Human Eye and the Colourful World",
+  "total_topics": 9,
+  "topics": [
+    {
+      "number": "10.1",
+      "title": "THE HUMAN EYE",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "10.1.1",
+          "title": "Power of Accommodation",
+          "page": 2,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "10.2",
+      "title": "DEFECTS OF VISION AND THEIR CORRECTION",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "10.3",
+      "title": "REFRACTION OF LIGHT THROUGH A PRISM",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "10.4",
+      "title": "DISPERSION OF WHITE LIGHT BY A GL",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "10.5",
+      "title": "ATMOSPHERIC REFRACTION",
+      "page": 8,
+      "subtopics": []
+    },
+    {
+      "number": "10.6",
+      "title": "SCATTERING OF LIGHT",
+      "page": 9,
+      "subtopics": [
+        {
+          "number": "10.6.1",
+          "title": "Tyndall Effect",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "10.6.2",
+          "title": "Why is the colour of the clear Sky Blue?",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chapter_number": 5,
+  "chapter_title": "CONTINUITY AND DIFFERENTIABILITY",
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "5.2",
+      "title": "Continuity",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "5.2.1",
+          "title": "Algebra of continuous functions",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "5.3.1",
+          "title": "Derivatives of composite functions",
+          "page": 17,
+          "subtopics": []
+        },
+        {
+          "number": "5.3.2",
+          "title": "Derivatives of implicit functions",
+          "page": 19,
+          "subtopics": []
+        },
+        {
+          "number": "5.3.3",
+          "title": "Derivatives of inverse trigonometric functions",
+          "page": 21,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "5.4",
+      "title": "Exponential and Logarithmic Functions",
+      "page": 22,
+      "subtopics": []
+    },
+    {
+      "number": "5.6",
+      "title": "Derivatives of Functions in Parametric Forms",
+      "page": 31,
+      "subtopics": []
+    },
+    {
+      "number": "5.7",
+      "title": "Second Order Derivative",
+      "page": 34,
+      "subtopics": []
+    }
+  ]
+}

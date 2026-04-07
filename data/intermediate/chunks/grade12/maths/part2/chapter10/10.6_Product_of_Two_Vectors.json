@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "VECTOR ALGEBRA",
+  "topic_number": "10.6",
+  "topic_title": "Product of Two Vectors",
+  "depth": 2,
+  "page_start": 18,
+  "content": "So far we have studied about addition and subtraction of vectors. An other algebraic\noperation which we intend to discuss regarding vectors is their product. We may\nrecall that product of two numbers is a number, product of two matrices is again a\nmatrix. But in case of functions, we may multiply them in two ways, namely,\nmultiplication of two functions pointwise and composition of two functions. Similarly,\nmultiplication of two vectors is also defined in two ways, namely, scalar (or dot)\nproduct where the result is a scalar, and vector (or cross) product where the\nresult is a vector. Based upon these two types of products for vectors, they have\nfound various applications in geometry, mechanics and engineering. In this section,\nwe will discuss these two types of products.\n10.6.1  Scalar (or dot) product of two vectors",
+  "content_length": 829
+}

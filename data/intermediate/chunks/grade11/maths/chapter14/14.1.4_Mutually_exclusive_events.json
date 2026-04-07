@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 14,
+  "chapter_title": "PROBABILITY",
+  "topic_number": "14.1.4",
+  "topic_title": "Mutually exclusive events",
+  "depth": 3,
+  "page_start": 4,
+  "content": "is S = {1, 2, 3, 4, 5, 6}. Consider events, A ‘an odd number appears’ and B ‘an even\nnumber appears’\nClearly the event A excludes the event B and vice versa. In other words, there is\nno outcome which ensures the occurrence of events A and B simultaneously. Here\nA = {1, 3, 5} and B = {2, 4, 6}\nClearly A ∩ B = φ,  i.e., A and B are disjoint sets.\nIn general, two events A and B are called mutually exclusive events if the\noccurrence of any one of them excludes the occurrence of the other event, i.e., if they\ncan not occur simultaneously. In this case the sets A and B are disjoint.\nReprint 2025-26\nPROBABILITY            293\nAgain in the experiment of rolling a die, consider the events A ‘an odd number\nappears’ and event B ‘a number less than 4 appears’\nObviously A = {1, 3, 5} and B = {1, 2, 3}\nNow 3 ∈ A  as well as 3 ∈ B\nTherefore,  A and B are not mutually exclusive events.\nRemark Simple events of a sample space are always mutually exclusive.\n14.1.5 Exhaustive events Consider the experiment of throwing a die. We have",
+  "content_length": 1028
+}

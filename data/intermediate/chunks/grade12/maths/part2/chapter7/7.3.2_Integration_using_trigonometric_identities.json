@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "INTEGRALS",
+  "topic_number": "7.3.2",
+  "topic_title": "Integration using trigonometric identities",
+  "depth": 3,
+  "page_start": 17,
+  "content": "When the integrand involves some trigonometric functions, we use some known identities\nto find the integral as illustrated through the following example.\nExample 7 Find (i)\ncos x dx\n∫\n(ii) sin 2 cos 3\nx\nx dx\n∫\n(iii)\nsin x dx\n∫\nReprint 2025-26\nSolution\n(i)\nRecall the identity cos 2x = 2 cos2 x – 1, which gives\ncos2x = 1\ncos 2\nx\n+\nTherefore,\n= 1 (1+ cos 2 )\nx dx\n∫\n= 1\ncos 2\ndx\nx dx\n+\n∫\n∫\n=\n1 sin 2\nC\nx\nx\n+\n+\n(ii)\nRecall the identity sin x cos y = 1\n2 [sin (x + y) + sin (x – y)]\n(Why?)\nThen\n=\n=\n1 cos 5\ncos\nC\n–\nx\nx\n\n\n+\n+\n\n\n\n\n=\ncos 5\ncos\nC\n–\nx\nx\n+\n+\n(iii)\nFrom the identity sin 3x = 3 sin x – 4 sin3 x, we find that\nsin3x = 3sin\nsin 3\nx –\nx\nTherefore,\nsin x dx\n∫\n= 3\nsin\nsin 3\nx dx –\nx dx\n∫\n∫\n=\n–\ncos\ncos 3\nC\nx\nx\n+\n+\nAlternatively,\nsin\nsin\nsin\nx dx\nx\nx dx\n=\n∫\n∫\n=\n(1 – cos\n) sin\nx\nx dx\n∫\nPut cos x = t so that – sin x dx = dt\nTherefore,\nsin x dx\n∫\n=\n(\n)\n1 – t\ndt\n−∫\n=\nC\nt\n–\ndt\nt dt\n– t\n+\n=\n+\n+\n∫\n∫\n=\ncos\ncos\nC\n–\nx\nx\n+\n+\nRemark It can be shown using trigonometric identities that both answers are equivalent.\nReprint 2025-26\nINTEGRALS         243\nEXERCISE 7.3\nFind the integrals of the functions in Exercises 1 to 22:\n1.\nsin2 (2x + 5)\n2. sin 3x cos 4x\n3. cos 2x cos 4x cos 6x\n4.\nsin3 (2x + 1)\n5. sin3 x cos3 x\n6. sin x sin 2x sin 3x\n7.\nsin 4x sin 8x\n8. 1\ncos\ncos\n–\nx\nx\n+\n9.\ncos\ncos\nx\nx\n+\n10.\nsin4 x\n11. cos4 2x\n12.\nsin\ncos\nx\nx\n+\n13.\ncos 2\ncos 2\ncos\ncos\nx –\nx –\nα\nα\n14.\ncos\nsin\nsin 2\nx –\nx\nx\n+\n15. tan3 2x sec 2x\n16.\ntan4x\n17.\nsin\ncos\nsin\ncos\nx\nx\nx\nx\n+\n18.\ncos 2\n2sin\ncos\nx\nx\nx\n+\n19.\nsin\ncos\nx\nx\n20.\n(\n)\ncos 2\ncos\nsin\nx\nx\nx\n+\n21. sin – 1 (cos x)\n22.\ncos (\n) cos (\n)\nx – a\nx – b\nChoose the correct answer in Exercises 23 and 24.\n23.\nsin\ncos\nis equal to\nsin\ncos\nx\nx dx\nx\nx\n−\n∫\n(A) tan x + cot x + C\n(B) tan x + cosec x + C\n(C) – tan x + cot x + C\n(D) tan x + sec x + C\n24.\n(1\n)\nequals\ncos (\n)\nx\nx\ne\nx\ndx\ne x\n+\n∫\n(A) – cot (exx) + C\n(B) tan (xex) + C\n(C) tan (ex) + C\n(D) cot (ex) + C\n7.4  Integrals of Some Particular Functions",
+  "content_length": 1929
+}

@@ -1,0 +1,76 @@
+{
+  "source_pdf": "chapter6.pdf",
+  "chapter_number": "6",
+  "chapter_title": "TISSUES",
+  "total_topics": 11,
+  "topics": [
+    {
+      "number": "6.1",
+      "title": "Are Plants and Animals Made",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.2",
+      "title": "Plant Tissues",
+      "page": 2,
+      "subtopics": [
+        {
+          "number": "6.2.1",
+          "title": "MERISTEMATIC TISSUE",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "6.2.2",
+          "title": "PERMANENT TISSUE",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "6.2.2",
+          "title": "(i) SIMPLE PERMANENT TISSUE",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "6.2.2",
+          "title": "(ii) COMPLEX PERMANENT TISSUE",
+          "page": 5,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "6.3",
+      "title": "Animal Tissues",
+      "page": 6,
+      "subtopics": [
+        {
+          "number": "6.3.1",
+          "title": "EPITHELIAL TISSUE",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.2",
+          "title": "CONNECTIVE TISSUE",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.3",
+          "title": "MUSCULAR TISSUE",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.4",
+          "title": "NERVOUS TISSUE",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "source_pdf": "chapter10.pdf",
+  "chapter_number": "10",
+  "chapter_title": null,
+  "total_topics": 4,
+  "topics": [
+    {
+      "number": "10.1",
+      "title": "What Are Spherical Mirrors?",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "10.2",
+      "title": "What Are the Characteristics of Images",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "10.3",
+      "title": "What Are the Laws of Reflection?",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "10.4",
+      "title": "What Is a Lens?",
+      "page": 11,
+      "subtopics": []
+    }
+  ]
+}

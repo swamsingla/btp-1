@@ -1,0 +1,36 @@
+{
+  "chapter_number": 8,
+  "chapter_title": "INTRODUCTION TO TRIGONOMETRY",
+  "topics": [
+    {
+      "number": "8.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "8.2",
+      "title": "Trigonometric Ratios",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "8.3",
+      "title": "Trigonometric Ratios of Some Specific Angles",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "8.4",
+      "title": "Trigonometric Identities",
+      "page": 16,
+      "subtopics": []
+    },
+    {
+      "number": "8.5",
+      "title": "Summary",
+      "page": 20,
+      "subtopics": []
+    }
+  ]
+}

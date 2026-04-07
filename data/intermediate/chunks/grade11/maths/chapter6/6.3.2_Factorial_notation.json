@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 6,
+  "chapter_title": "PERMUTATIONS AND COMBINATIONS",
+  "topic_number": "6.3.2",
+  "topic_title": "Factorial notation",
+  "depth": 3,
+  "page_start": 6,
+  "content": "numbers, i.e., the product 1 × 2 × 3 × . . . × (n – 1) × n is denoted as n!. We read this\nsymbol as ‘n factorial’. Thus, 1 × 2 × 3 × 4 . . .  × (n – 1) × n = n !\n1 = 1 !\n1 × 2 = 2 !\n1× 2 × 3 = 3 !\n1 × 2 × 3 × 4 = 4 ! and so on.\nWe define 0 ! = 1\nWe can write   5 ! = 5 × 4 ! = 5 × 4 × 3 ! = 5 × 4 × 3 × 2 !\n= 5 × 4 × 3 × 2 × 1!\nClearly, for a natural number n\nn ! = n (n  –  1) !\n= n (n  –  1) (n  –  2) !\n[provided (n ≥ 2)]\n= n (n  –  1) (n  –  2)  (n  –  3) !\n[provided (n ≥ 3)]\nand so on.\nReprint 2025-26\n106       MATHEMATICS\nExample 5 Evaluate (i) 5 !\n(ii) 7 !\n(iii) 7 ! – 5!\nSolution\n(i) 5 ! = 1 × 2 × 3 × 4 × 5 = 120\n(ii) 7 ! = 1 × 2 × 3 × 4 × 5 × 6 ×7 = 5040\nand\n(iii) 7 !  –  5! = 5040  –  120 = 4920.\nExample 6 Compute (i)\n7!\n5!\n(ii) (\n)\n12!\n10! (2!)\nSolution\n(i) We have 7!\n5!  =\n6 5!\n5!\n× ×\n= 7 × 6 = 42\nand\n(ii) (\n) ( )\n12!\n10!\n2!   =\n(\n)\n(\n) ( )\n12 11\n10!\n10!\n×\n×\n×\n= 6 × 11 = 66.\nExample 7 Evaluate\n(\n)\n!\n!\n!\nn\nr\nn\nr\n−\n, when n = 5, r = 2.\nSolution\nWe have to evaluate\n(\n)\n5!\n2! 5\n2 !\n−\n(since n = 5, r = 2)\nWe have\n(\n)\n5!\n2! 5\n2 !\n−\n=\n5!\n2!\n3!\n×\n=\n=\n×\n.\nExample 8\nIf\n8!\n9!\n10!\nx\n+\n=\n, find x.\nSolution We have\n8!\n9 8!\n10 9 8!\nx\n+\n=\n×\n× ×\nTherefore\n10 9\nx\n+\n=\n×\nor\n10 9\nx\n=\n×\nSo\nx = 100.\nEXERCISE 6.2\n1.\nEvaluate\n(i) 8 !\n(ii) 4 ! – 3 !\nReprint 2025-26\nPERMUTATIONS AND COMBINATIONS       107\n2.\nIs 3 ! + 4 ! = 7 ! ?\n3. Compute\n8!\n6! 2!\n×\n4. If\n6!\n7!\n8!\nx\n+\n=\n, find x\n5.\nEvaluate (\n)\n!\n!\nn\nn\nr\n−\n, when\n(i) n = 6, r = 2\n(ii) n = 9, r = 5.\n6.3.3  Derivation of the formula for nPr",
+  "content_length": 1494
+}

@@ -1,0 +1,45 @@
+{
+  "source_pdf": "chapter8.pdf",
+  "chapter_number": "8",
+  "chapter_title": "FORCE",
+  "total_topics": 6,
+  "topics": [
+    {
+      "number": "8.1",
+      "title": "Balanced and Unbalanced",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "8.2",
+      "title": "First Law of Motion",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "8.4",
+      "title": "Second Law of Motion",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "8.3",
+      "title": "Inertia and Mass",
+      "page": 5,
+      "subtopics": [
+        {
+          "number": "8.4.1",
+          "title": "MATHEMATICAL FORMULATION OF",
+          "page": 6,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "8.5",
+      "title": "Third Law of Motion",
+      "page": 9,
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "CONIC SECTIONS",
+  "topic_number": "10.5.1",
+  "topic_title": "Relationship between semi-major",
+  "depth": 3,
+  "page_start": 13,
+  "content": "axis, semi-minor axis and the distance of\nthe focus from the centre of the ellipse\n(Fig 10.23).\nTake a point P at one end of the major axis.\nSum of the distances of the point P to the\nfoci is F1 P + F2P = F1O + OP + F2P\n(Since,  F1P  = F1O + OP)\n= c + a + a – c = 2a\nTake a point Q at one end of the minor axis.\nSum of the distances from the point Q  to the foci is\nF1Q + F2Q =\nc\nb\nc\nb\n+\n+\n+\n=\nc\nb\n+\nSince both P and Q lies on the  ellipse.\nBy the definition of ellipse, we have\nc\nb\n+\n=  2a, i.e.,\na =\nc\nb\n+\nor\na 2 = b2 + c2\n, i.e., c =\nb\na\n−\n.\n10.5.2 Eccentricity\nFig 10.23",
+  "content_length": 574
+}

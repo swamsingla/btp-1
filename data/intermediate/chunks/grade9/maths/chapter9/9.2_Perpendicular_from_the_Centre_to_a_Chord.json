@@ -1,0 +1,12 @@
+{
+  "grade": 9,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "CIRCLES",
+  "topic_number": "9.2",
+  "topic_title": "Perpendicular from the Centre to a Chord",
+  "depth": 2,
+  "page_start": 3,
+  "content": "equal, then the chords are equal.\nThe above theorem is the converse of the Theorem 9.1. Note that in Fig. 9.4, if\nyou take ∠ AOB = ∠ COD, then\n∆ AOB ≅ ∆ COD (Why?)\nCan you now see that AB = CD?\nEXERCISE 9.1\n1.\nRecall that two circles are congruent if they have the same radii. Prove that equal\nchords of congruent circles subtend equal angles at their centres.\n2.\nProve that if chords of congruent circles subtend equal angles at their centres, then\nthe chords are equal.\n9.2 Perpendicular from the Centre to a Chord\nActivity : Draw a circle on a tracing paper. Let O\nbe its centre. Draw a chord AB. Fold the paper along\na line through O so that a portion of the chord falls on\nthe other. Let the crease cut AB at the point M. Then,\n∠ OMA = ∠ OMB = 90° or OM is perpendicular to\nAB. Does the point B coincide with A (see Fig.9.6)?\nYes it will. So MA = MB.\nGive a proof yourself by joining OA and OB and proving the right triangles OMA\nand OMB to be congruent. This example is a particular instance of the following\nresult:\nTheorem 9.3 : The perpendicular from the centre of a circle to a chord bisects\nthe chord.\nWhat is the converse of this theorem? To write this, first let us be clear what is\nassumed in Theorem 9.3 and what is proved. Given that the perpendicular from the\ncentre of a circle to a chord is drawn and to prove that it bisects the chord. Thus in the\nconverse, what the hypothesis is ‘if a line from the centre bisects a chord of a\ncircle’ and what is to be proved is ‘the line is perpendicular to the chord’. So the\nconverse is:\nFig. 9.6\nReprint 2025-26\nCIRCLES\nTheorem 9.4 : The line drawn through the centre of a circle to bisect a chord is\nperpendicular to the chord.\nIs this true? Try it for few cases and see. You will\nsee that it is true for these cases. See if it is true, in\ngeneral, by doing the following exercise. We will write\nthe stages and you give the reasons.\nLet AB be a chord of a circle with centre O and\nO is joined to the mid-point M of AB. You have to\nprove that OM ⊥ AB. Join OA and OB\n(see Fig. 9.7). In triangles OAM and OBM,\nOA = OB\n(Why ?)\nAM = BM\n(Why ?)\nOM = OM\n(Common)\nTherefore, ∆OAM ≅∆OBM\n(How ?)\nThis gives ∠OMA = ∠OMB = 90°    (Why ?)\n9.3 Equal Chords and their Distances from the Centre\nFig. 9.7",
+  "content_length": 2249
+}

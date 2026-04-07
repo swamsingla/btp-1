@@ -1,0 +1,94 @@
+{
+  "source_pdf": "chapter12.pdf",
+  "chapter_number": "12",
+  "chapter_title": "IMPROVEMENT",
+  "total_topics": 14,
+  "topics": [
+    {
+      "number": "12.1",
+      "title": "Improvement in Crop Yields",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "12.1.1",
+          "title": "CROP VARIETY IMPROVEMENT",
+          "page": 2,
+          "subtopics": []
+        },
+        {
+          "number": "12.1.2",
+          "title": "CROP PRODUCTION MANAGEMENT",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "12.1.2",
+          "title": "(i)  NUTRIENT MANAGEMENT",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "12.1.2",
+          "title": "(iii)  CROPPING PATTERNS",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "12.1.2",
+          "title": "(ii)  IRRIGATION",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "12.1.3",
+          "title": "CROP PROTECTION MANAGEMENT",
+          "page": 6,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "12.2",
+      "title": "Animal Husbandry",
+      "page": 7,
+      "subtopics": [
+        {
+          "number": "12.2.1",
+          "title": "CATTLE FARMING",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "12.2.2",
+          "title": "POULTRY FARMING",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "12.2.3",
+          "title": "FISH PRODUCTION",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "12.2.3",
+          "title": "(i) MARINE FISHERIES",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "12.2.3",
+          "title": "(ii)  INLAND FISHERIES",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "12.2.4",
+          "title": "BEE-KEEPING",
+          "page": 11,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

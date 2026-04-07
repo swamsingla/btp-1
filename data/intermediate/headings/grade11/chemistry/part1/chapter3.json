@@ -1,0 +1,56 @@
+{
+  "source_pdf": "chapter3.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 8,
+  "topics": [
+    {
+      "number": "3.6.1",
+      "title": "The s-Block Elements",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "3.6.2",
+      "title": "The p-Block Elements",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "3.6.3",
+      "title": "The d-Block Elements (Transition",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "3.6.4",
+      "title": "The f-Block Elements",
+      "page": 11,
+      "subtopics": []
+    },
+    {
+      "number": "3.6.5",
+      "title": "Metals, Non-metals and Metalloids",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "3.7.1",
+      "title": "Trends in Physical Properties",
+      "page": 12,
+      "subtopics": []
+    },
+    {
+      "number": "3.7.2",
+      "title": "Periodic Trends in Chemical",
+      "page": 19,
+      "subtopics": []
+    },
+    {
+      "number": "3.7.3",
+      "title": "Periodic",
+      "page": 21,
+      "subtopics": []
+    }
+  ]
+}

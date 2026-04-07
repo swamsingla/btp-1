@@ -1,0 +1,74 @@
+{
+  "chapter_number": 10,
+  "chapter_title": "VECTOR ALGEBRA",
+  "topics": [
+    {
+      "number": "10.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "10.2",
+      "title": "Some Basic Concepts",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "10.3",
+      "title": "Types of Vectors",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "10.4",
+      "title": "Addition of Vectors",
+      "page": 6,
+      "subtopics": []
+    },
+    {
+      "number": "10.5",
+      "title": "Multiplication of a Vector by a Scalar",
+      "page": 9,
+      "subtopics": [
+        {
+          "number": "10.5.1",
+          "title": "Components of a vector",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "10.5.2",
+          "title": "Vector joining two points",
+          "page": 14,
+          "subtopics": []
+        },
+        {
+          "number": "10.5.3",
+          "title": "Section formula",
+          "page": 15,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "10.6",
+      "title": "Product of Two Vectors",
+      "page": 18,
+      "subtopics": [
+        {
+          "number": "10.6.1",
+          "title": "Scalar (or dot) product of two vectors",
+          "page": 18,
+          "subtopics": []
+        },
+        {
+          "number": "10.6.2",
+          "title": "Projection of a vector on a line",
+          "page": 20,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

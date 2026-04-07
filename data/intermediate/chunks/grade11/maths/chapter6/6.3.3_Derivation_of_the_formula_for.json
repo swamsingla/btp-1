@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 6,
+  "chapter_title": "PERMUTATIONS AND COMBINATIONS",
+  "topic_number": "6.3.3",
+  "topic_title": "Derivation of the formula for",
+  "depth": 3,
+  "page_start": 8,
+  "content": "(\n)\n!\nP\n!\nn\nr\nn\nn\nr\n−\n=\n, 0 ≤ r ≤ n\nLet us now go back to the stage where we had determined the following formula:\nnPr = n (n – 1) (n – 2) . . .  (n – r + 1)\nMultiplying numerator and denomirator by (n – r) (n – r – 1) . . . 3 × 2 × 1, we get\n(\n) (\n) (\n)(\n)(\n)\n(\n)(\n)\n3 2 1\nP\n3 2 1\nn\nr\nn n\nn\n... n\nr\nn\nr\nn\nr\n...\nn\nr\nn\nr\n...\n−\n−\n−\n+\n−\n−\n−\n× ×\n=\n−\n−−\n× ×\n= (\n)\n!\n!\nn\nn\nr\n−\n,\nThus\n(\n)\n!\nP\n!\nn\nr\nn\nn\nr\n=\n−\n, where 0 < r ≤n\nThis is a much more convenient expression for nPr than the previous one.\nIn particular, when r = n,\n!\nP\n!\n0!\nn\nn\nn\nn\n=\n=\nCounting permutations is merely counting the number of ways in which some or\nall objects at a time are rearranged. Arranging no object at all is the same as leaving\nbehind all the objects and we know that there is only one way of doing so. Thus, we\ncan have\nn P0 = 1 =\n!\n!\n!\n(\n0)!\n=\n−\nn\nn\nn\nn\n... (1)\nTherefore, the formula (1) is applicable for r = 0 also.\nThus\n(\n)\n!\nP\n!\nn\nr\nn\n,\nr\nn\nn\nr\n=\n≤\n≤\n−\n.\nReprint 2025-26\n108       MATHEMATICS\nTheorem 2  The number of permutations of n different objects taken r at a time,\nwhere repetition is allowed, is nr.\nProof is very similar to that of Theorem 1 and is left for the reader to arrive at.\nHere, we are solving some of the problems of the pervious Section using the\nformula for nPr to illustrate its usefulness.\nIn Example 1, the required number of words = 4P4 = 4! = 24. Here repetition is\nnot allowed.  If repetition is allowed, the required number of words would be 44 = 256.\nThe number of 3-letter words which can be formed by the letters of the word\nNUMBER =\n6!\nP\n3!\n=\n= 4 × 5 × 6 = 120. Here, in this case also, the repetition is not\nallowed. If  the repetition is allowed,the required number of words would be 63 = 216.\nThe number of ways in which a Chairman and a Vice-Chairman can be chosen\nfrom amongst a group of 12 persons assuming that one person can not hold more than\none position, clearly  12\n12!\nP\n11 12\n10!\n=\n=\n×\n= 132.\n6.3.4   Permutations when all the objects are not distinct objects  Suppose we have",
+  "content_length": 2008
+}

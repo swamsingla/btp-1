@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "CONIC SECTIONS",
+  "topic_number": "10.5.2",
+  "topic_title": "Eccentricity",
+  "depth": 3,
+  "page_start": 13,
+  "content": "Definition 5 The eccentricity of an ellipse is the ratio of the distances from the centre\nof the ellipse to one of the foci and to one of the vertices of the ellipse (eccentricity is\ndenoted by e) i.e.,\nc\ne\na\n=\n.\nThen since the focus is at a distance of c from the centre, in terms of the eccentricity\nthe focus is at a distance of ae from the centre.\n10.5.3 Standard equations of an ellipse The  equation of  an ellipse is simplest if the",
+  "content_length": 439
+}

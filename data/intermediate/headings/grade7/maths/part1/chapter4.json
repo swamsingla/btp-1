@@ -1,0 +1,30 @@
+{
+  "chapter_number": 4,
+  "chapter_title": "EXPRESSIONS USING LETTER- NUMBERS",
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "The Notion of Letter-Numbers",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "Revisiting Arithmetic Expressions",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "4.4",
+      "title": "Simplification of Algebraic Expressions",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "4.5",
+      "title": "Pick Patterns and Reveal Relationships",
+      "page": 15,
+      "subtopics": []
+    }
+  ]
+}

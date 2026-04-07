@@ -1,0 +1,56 @@
+{
+  "chapter_number": 11,
+  "chapter_title": "THREE DIMENSIONAL GEOMETRY",
+  "topics": [
+    {
+      "number": "11.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "11.2",
+      "title": "Direction Cosines and Direction Ratios of a Line",
+      "page": 1,
+      "subtopics": [
+        {
+          "number": "11.2.1",
+          "title": "Direction cosines of a line passing through two points",
+          "page": 3,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "11.3",
+      "title": "Equation of a Line in Space",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "11.4",
+      "title": "Angle between Two Lines",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "11.5",
+      "title": "Shortest Distance between Two Lines",
+      "page": 9,
+      "subtopics": [
+        {
+          "number": "11.5.1",
+          "title": "Distance between two skew lines",
+          "page": 10,
+          "subtopics": []
+        },
+        {
+          "number": "11.5.2",
+          "title": "Distance between parallel lines",
+          "page": 11,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

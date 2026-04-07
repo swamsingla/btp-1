@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+  "topic_number": "4.3.6",
+  "topic_title": "The square roots of a negative real number",
+  "depth": 3,
+  "page_start": 4,
+  "content": "Note that  i2 = –1 and  ( – i)2 = i2 = – 1\nTherefore,  the square roots of – 1 are i, – i. However, by the symbol\n−, we would\nmean i only.\nNow, we can see that i and –i both are the solutions of the equation x2 + 1 = 0 or\nx2 = –1.\nSimilarly\n(\n)\n(\n)\ni\n=\ni2 = 3 (– 1) = – 3\n(\n)\n3i\n−\n= (\n)\n−\ni2 = – 3\nTherefore,  the square roots of –3 are\n3 i  and\n3i\n−\n.\nAgain, the symbol\n− is meant to represent 3i  only, i.e.,\n− =\n3i .\nGenerally, if a is a positive real number,\na\n−\n=\na\n− =\na i ,\nWe already know that a\nb\n×\n=\nab  for all positive real number a and b. This\nresult also holds true when either a > 0, b < 0  or a < 0,  b > 0. What if a < 0, b < 0?\nLet us examine.\nNote that\nReprint 2025-26\n80       MATHEMATICS\n(\n) (\n)\ni =\n−\n−=\n−\n−\n(by assuming\na\nb\n×\n=\nab  for all real numbers)\n= 1  = 1,  which is a contradiction to the fact that\n= −\ni\n.\nTherefore,\na\nb\nab\n×\n≠\nif both a and b are negative real numbers.\nFurther, if any of a and b is zero, then, clearly,\na\nb\nab\n×\n=\n= 0.\n4.3.7 Identities We prove the following identity",
+  "content_length": 1018
+}

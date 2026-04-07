@@ -1,0 +1,55 @@
+{
+  "chapter_number": 6,
+  "chapter_title": "PERMUTATIONS AND COMBINATIONS",
+  "topics": [
+    {
+      "number": "6.1",
+      "title": "Introduction",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.2",
+      "title": "Fundamental Principle of Counting",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "6.3",
+      "title": "Permutations",
+      "page": 5,
+      "subtopics": [
+        {
+          "number": "6.3.1",
+          "title": "Permutations when all the objects are distinct",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.2",
+          "title": "Factorial notation",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.3",
+          "title": "Derivation of the formula for",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "6.3.4",
+          "title": "Permutations when all the objects are not distinct objects",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "6.4",
+      "title": "Combinations",
+      "page": 15,
+      "subtopics": []
+    }
+  ]
+}

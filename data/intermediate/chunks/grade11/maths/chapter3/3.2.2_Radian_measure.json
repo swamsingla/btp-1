@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "TRIGONOMETRIC FUNCTIONS",
+  "topic_number": "3.2.2",
+  "topic_title": "Radian measure",
+  "depth": 3,
+  "page_start": 3,
+  "content": "the radian measure. Angle subtended at the centre by an arc of length 1 unit in a\nunit circle (circle of radius 1 unit) is said to have a measure of 1 radian. In the Fig\n3.4(i) to (iv), OA is the initial side and OB is the terminal side. The figures show the\nangles whose measures are 1 radian, –1 radian, 1 1\n2  radian and –1 1\n2  radian.\n(i)\n(ii)\n(iii)\nFig  3.4 (i) to (iv)\n(iv)\nWe know that the circumference of a circle of radius 1 unit is 2π. Thus, one\ncomplete revolution of the initial side subtends an angle of  2π radian.\nMore generally, in a circle of radius r, an arc of length r will subtend an angle of\n1 radian. It is well-known that equal arcs of a circle subtend equal angle at the centre.\nSince in a circle of radius r, an arc of length r subtends an angle whose measure is 1\nradian, an arc of length l will subtend an angle whose measure is l\nr  radian. Thus, if in\na circle of radius r, an arc of length l subtends an angle θ radian at the centre, we have\nθ  = l\nr   or  l  = r θ.\nReprint 2025-26\n3.2.3  Relation between radian and real numbers\nP",
+  "content_length": 1065
+}

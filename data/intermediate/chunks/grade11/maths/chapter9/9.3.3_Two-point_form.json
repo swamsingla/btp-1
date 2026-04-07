@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 9,
+  "chapter_title": "STRAIGHT LINES",
+  "topic_number": "9.3.3",
+  "topic_title": "Two-point form",
+  "depth": 3,
+  "page_start": 11,
+  "content": "line L passes through two given\npoints P1 (x1, y1) and P2 (x2, y2).\nLet P (x, y) be a general point\non L (Fig 9.11).\nThe three points P1, P2 and P are\ncollinear, therefore, we have\nslope of P1P = slope of P1P2\ni.e.,\nor\ny\ny\ny\ny\ny\ny\n,\ny\n( x\n).\ny\nx\nx\nx\nx\nx\nx\nx\n−\n−\n−\n=\n−\n=\n−\n−\n−\n−\nThus, equation of the line passing through the points (x1, y1) and (x2, y2) is given by\n)\n(\nx\nx\nx\nx\ny\ny\ny\ny\n−\n−\n−\n=\n−\n... (2)\nExample 6 Write the equation of the line through the points (1, –1) and (3, 5).\nSolution Here x1 = 1, y1 = – 1, x2 = 3 and y2 = 5. Using two-point form (2) above\nfor the equation of the line, we have\n(\n)\n(\n) (\n)\n5 – –1\n– –1 =\n– 1\n3 – 1\ny\nx\nor                        –3x + y + 4 = 0, which is the required equation.\n9.3.4 Slope-intercept form Sometimes a line is known to us with its slope and an\nFig 9.11",
+  "content_length": 808
+}

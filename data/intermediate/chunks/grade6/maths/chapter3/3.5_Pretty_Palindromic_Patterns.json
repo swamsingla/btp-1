@@ -1,0 +1,12 @@
+{
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "NUMBER PLAY",
+  "topic_number": "3.5",
+  "topic_title": "Pretty Palindromic Patterns",
+  "depth": 2,
+  "page_start": 7,
+  "content": "What pattern do you see in these numbers: 66, 848, 575, 797, 1111?\nThese numbers read the same from left to right and from right to left.\nTry and see. Such numbers are called palindromes or palindromic\nnumbers.\nAll palindromes using 1, 2, 3\nThe numbers 121, 313, 222 are some examples of palindromes\nusing the digits ‘1’, ‘2’, 3’.\nWrite all possible 3-digit palindromes using these digits.\nReverse-and-add palindromes\nNow, look at these additions. Try to figure out what is happening.\nSteps to follow: Start with a\n2-digit number. Add this number\nto its reverse. Stop if you get a\npalindrome or else repeat the\nsteps of reversing the digits and\nadding.\nTry\nthe\nsame\nprocedure\nfor some other numbers, and\nperform the same steps. Stop if\nReprint 2025-26\nGanita Prakash | Grade 6\nyou get a palindrome. There are numbers for which you have to\nrepeat this a large number of times.\nAre there numbers for which you do not reach a palindrome\nat all?\nExplore\nWill reversing and adding numbers repeatedly, starting with\na 2-digit number, always give a palindrome? Explore and find\nout.*\nPuzzle time\ntth\nWrite the number in words:\nh\nth\nu\nt\nI am a 5-digit palindrome.\nI am an odd number.\nMy ‘t’ digit is double of my ‘u’ digit.\nMy ‘h’ digit is double of my ‘t’ digit.\nWho am I? _________________\n3.6 The Magic Number of Kaprekar\nMath\nTalk",
+  "content_length": 1326
+}

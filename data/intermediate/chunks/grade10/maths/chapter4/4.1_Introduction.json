@@ -1,0 +1,12 @@
+{
+  "grade": 10,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "QUADRATIC EQUATIONS",
+  "topic_number": "4.1",
+  "topic_title": "Introduction",
+  "depth": 2,
+  "page_start": 1,
+  "content": "In Chapter 2, you have studied different types of polynomials. One type was the\nquadratic polynomial of the form ax2 + bx + c, a  0. When we equate this polynomial\nto zero, we get a quadratic equation. Quadratic equations come up when we deal with\nmany real-life situations. For instance, suppose a\ncharity trust decides to build a prayer hall having\na carpet area of 300 square metres with its length\none metre more than twice its breadth. What\nshould be the length and breadth of the hall?\nSuppose the breadth of the hall is x metres. Then,\nits length should be (2x + 1) metres. We can depict\nthis information pictorially as shown in Fig. 4.1.\nNow,\narea of the hall = (2x + 1). x m2 = (2x2 + x) m2\nSo,\n2x2 + x = 300\n(Given)\nTherefore,\n2x2 + x – 300 = 0\nSo, the breadth of the hall should satisfy the equation 2x2 + x – 300 = 0 which is a\nquadratic equation.\nMany people believe that Babylonians were the first to solve quadratic equations.\nFor instance, they knew how to find two positive numbers with a given positive sum\nand a given positive product, and this problem is equivalent to solving a quadratic\nequation of the form x2 – px + q = 0. Greek mathematician Euclid developed a\ngeometrical approach for finding out lengths which, in our present day terminology,\nare solutions of quadratic equations. Solving of quadratic equations, in general form, is\noften credited to ancient Indian mathematicians. In fact, Brahmagupta (C.E.598–665)\ngave an explicit formula to solve a quadratic equation of the form ax2 + bx = c. Later,\nFig. 4.1\nReprint 2025-26\nQUADRATIC EQUATIONS\nSridharacharya (C.E. 1025) derived a formula, now known as the quadratic formula,\n(as quoted by Bhaskara II) for solving a quadratic equation by the method of completing\nthe square. An  Arab mathematician Al-Khwarizmi (about C.E. 800) also studied\nquadratic equations of different types. Abraham bar Hiyya Ha-Nasi, in his book\n‘Liber embadorum’ published in Europe in C.E. 1145 gave complete solutions of\ndifferent quadratic equations.\nIn this chapter, you will study quadratic equations, and various ways of finding\ntheir roots. You will also see some applications of quadratic equations in daily life\nsituations.\n4.2 Quadratic Equations",
+  "content_length": 2216
+}

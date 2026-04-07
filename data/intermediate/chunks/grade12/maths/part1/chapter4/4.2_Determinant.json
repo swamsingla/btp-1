@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 4,
+  "chapter_title": "DETERMINANTS",
+  "topic_number": "4.2",
+  "topic_title": "Determinant",
+  "depth": 2,
+  "page_start": 1,
+  "content": "To every square matrix A = [aij] of order n, we can associate a number (real or\ncomplex) called determinant of the square matrix A, where aij = (i, j)th element of A.\nReprint 2025-26\nDETERMINANTS     77\nThis may be thought of as a function which associates each square matrix with a\nunique number (real or complex). If M is the set of square matrices, K is the set of\nnumbers (real or complex) and f : M → K is defined by f (A) = k, where A ∈ M and\nk ∈ K, then f (A) is called the determinant of A. It is also denoted by |A| or det A or ∆.\nIf A =\na\nb\nc\nd\n\n\n\n\n\n\n, then determinant of A is written as |A| =\na\nb\nc\nd  = det (A)\nRemarks\n(i)\nFor matrix A, |A| is read as determinant of A and not modulus of A.\n(ii)\nOnly square matrices have determinants.\n4.2.1  Determinant of a matrix of order one",
+  "content_length": 798
+}

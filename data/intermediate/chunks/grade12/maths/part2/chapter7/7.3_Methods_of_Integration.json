@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "INTEGRALS",
+  "topic_number": "7.3",
+  "topic_title": "Methods of Integration",
+  "depth": 2,
+  "page_start": 11,
+  "content": "In previous section, we discussed integrals of those functions which were readily\nobtainable from derivatives of some functions. It was based on inspection, i.e., on the\nsearch of a function F whose derivative is f which led us to the integral of f. However,\nthis method, which depends on inspection, is not very suitable for many functions.\nHence, we need to develop additional techniques or methods for finding the integrals\nby reducing them into standard forms. Prominent among them are methods based on:\n1.\nIntegration by Substitution\n2.\nIntegration using Partial Fractions\n3.\nIntegration by Parts\n7.3.1 Integration by substitution",
+  "content_length": 635
+}

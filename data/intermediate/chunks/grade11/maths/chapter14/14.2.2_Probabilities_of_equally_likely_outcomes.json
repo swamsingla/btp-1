@@ -1,0 +1,12 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 14,
+  "chapter_title": "PROBABILITY",
+  "topic_number": "14.2.2",
+  "topic_title": "Probabilities of equally likely outcomes",
+  "depth": 3,
+  "page_start": 11,
+  "content": "experiment be\nS = {ω1, ω2,..., ωn}.\nLet all the outcomes are equally likely to occur, i.e., the chance of occurrence of each\nsimple event must be same.\ni.e.\nP(ωi) = p, for all ωi ∈ S where 0 ≤  p ≤ 1\nSince\nP(ω ) 1\nn\ni\ni=\n=\n∑\ni.e., p + p + ... + p (n times) = 1\nor\nnp = 1 i.e.,  p = 1\nn\nLet S be a sample space and E be an event, such that n(S) = n and n(E) = m. If\neach out come is equally likely, then it follows that\nP(E)\nm\nn\n=\n=\nNumber of outcomesfavourable toE\nTotalpossibleoutcomes\n14.2.3  Probability of the event ‘A or B’ Let us now find the probability of event",
+  "content_length": 569
+}

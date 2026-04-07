@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 13,
+  "chapter_title": "PROBABILITY",
+  "topic_number": "13.5",
+  "topic_title": "Bayes' Theorem",
+  "depth": 2,
+  "page_start": 18,
+  "content": "Consider that there are two bags I and II. Bag I contains 2 white and 3 red balls and\nBag II contains 4 white and 5 red balls. One ball is drawn at random from one of the\nbags. We can find the probability of selecting any of the bags (i.e. 1\n2 ) or probability of\ndrawing a ball of a particular colour (say white) from a particular bag (say Bag I). In\nother words, we can find the probability that the ball drawn is of a particular colour, if\nwe are given the bag from which the ball is drawn. But, can we find the probability that\nthe ball drawn is from a particular bag (say Bag II), if the colour of the ball drawn is\ngiven? Here, we have to find the reverse probability of Bag II to be selected when an\nevent occurred after it is known. Famous mathematician, John Bayes' solved the problem\nof finding reverse probability by using conditional probability. The formula developed\nby him is known as ‘Bayes theorem’ which was published posthumously in 1763.\nBefore stating and proving the Bayes' theorem, let us first take up a definition and\nsome preliminary results.\n13.5.1 Partition of a sample space",
+  "content_length": 1103
+}

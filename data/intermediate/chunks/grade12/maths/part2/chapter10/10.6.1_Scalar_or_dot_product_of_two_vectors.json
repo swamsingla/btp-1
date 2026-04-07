@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "VECTOR ALGEBRA",
+  "topic_number": "10.6.1",
+  "topic_title": "Scalar (or dot) product of two vectors",
+  "depth": 3,
+  "page_start": 18,
+  "content": "Definition 2 The scalar product of two nonzero vectors\n, denoted by\n, is\nReprint 2025-26\ndefined as\n=\nwhere, θ is the angle between\n(Fig 10.19).\nIf either\nthen θ is not defined, and in this case, we\ndefine\nObservations\n1.\nis a real number.\n2.\nLet\nbe two nonzero vectors, then\nif and only if\nare\nperpendicular to each other. i.e.\n3.\nIf θ = 0, then\nIn particular,\nas θ in this case is 0.\n4.\nIf θ = π, then\n|\n| |\n|\n⋅\n= −\nr\nr\nr\nr\na b\na\nb\nIn particular,\n, as θ in this case is π.\n5.\nIn view of the Observations 2 and 3, for mutually perpendicular unit vectors\nˆ\nˆ ˆ\n,\nand\n,\ni\nj\nk  we have\nˆ ˆ\nˆ ˆ\ni i\nj j\n⋅=\n⋅\n= ˆ ˆ\n1,\nk k\n⋅\n=\nˆ\nˆ ˆ\nˆ\ni\nj\nj k\n⋅\n=\n⋅\n= ˆ ˆ\nk i⋅=\n6.\nThe angle between two nonzero vectors\nis given by\nor\n7.\nThe scalar product is commutative. i.e.\n(Why?)\nTwo important properties of scalar product\nProperty 1 (Distributivity of scalar product over addition) Let\nbe\nany three vectors, then\nFig 10.19\nReprint 2025-26\nVECTOR ALGEBRA\nProperty 2 Let\nbe any two vectors, and l be any scalar. Then\nIf two vectors\nare given in component form as\n3 ˆ\nˆ\nˆ\na i\na j\na k\n+\n+\nand\n3 ˆ\nˆ\nˆ\nb i\nb j\nb k\n+\n+\n, then their scalar product is given as\n=\nˆ\nˆ\nˆ\nˆ\nˆ\nˆ\n(\n) (\n)\na i\na j\na k\nb i\nb j\nb k\n+\n+\n⋅\n+\n+\n=\nˆ\nˆ\nˆ\nˆ\nˆ\nˆ\nˆ\nˆ\n(\n)\n(\n)\na i\nb i\nb j\nb k\na j\nb i\nb j\nb k\n⋅\n+\n+\n+\n⋅\n+\n+\n+\nˆ\nˆ\nˆ\nˆ\n(\n)\na k\nb i\nb j\nb k\n⋅\n+\n+\n=\n1 1\n1 2\n1 3\n2 1\n2 2\n2 3\nˆ\nˆ\nˆ ˆ\nˆ ˆ\nˆ\nˆ ˆ\nˆ ˆ\nˆ\n(\n)\n(\n)\n(\n)\n(\n)\n(\n)\n(\n)\na b i i\na b i\nj\na b i k\na b\nj i\na b\nj j\na b\nj k\n⋅\n+\n⋅\n+\n⋅\n+\n⋅\n+\n⋅\n+\n⋅\n+\n3 1\n3 2\n3 3\nˆ\nˆ\nˆ ˆ\nˆ\nˆ\n(\n)\n(\n)\n(\n)\na b k i\na b k\nj\na b k k\n⋅\n+\n⋅\n+\n⋅\n(Using the above Properties 1 and 2)\n= a1b1 + a2b2 + a3b3\n(Using Observation 5)\nThus\n=\n1 1\n2 2\n3 3\na b\na b\na b\n+\n+\n10.6.2  Projection of a vector on a line",
+  "content_length": 1671
+}

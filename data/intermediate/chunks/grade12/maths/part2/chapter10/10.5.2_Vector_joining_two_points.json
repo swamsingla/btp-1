@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 10,
+  "chapter_title": "VECTOR ALGEBRA",
+  "topic_number": "10.5.2",
+  "topic_title": "Vector joining two points",
+  "depth": 3,
+  "page_start": 14,
+  "content": "If P1(x1, y1, z1) and P2(x2, y2, z2) are any two\npoints, then the vector joining P1 and P2 is the\nvector\n(Fig 10.15).\nJoining the points P1 and P2 with the origin\nO, and applying triangle law, from the triangle\nOP1P2, we have\n=\nUsing the properties of vector addition, the\nabove equation becomes\n=\ni.e.\n=\nˆ\nˆ\nˆ\nˆ\nˆ\nˆ\n(\n)\n(\n)\nx i\ny j\nz k\nx i\ny j\nz k\n+\n+\n−\n+\n+\n=\n1 ˆ\nˆ\nˆ\n(\n)\n(\n)\n(\n)\nx\nx i\ny\ny\nj\nz\nz k\n−\n+\n−\n+\n−\nThe magnitude of vector\nis given by\n|\n| =\n(\n)\n(\n)\n(\n)\nx\nx\ny\ny\nz\nz\n−\n+\n−\n+\n−\nFig 10.15\nReprint 2025-26\nExample 10 Find the vector joining the points P(2, 3, 0) and Q(– 1, – 2, – 4) directed\nfrom P to Q.\nSolution Since the vector is to be directed from P to Q, clearly P is the initial point\nand Q is the terminal point. So, the required vector joining P and Q is the vector\n,\ngiven by\n=\nˆ\nˆ\nˆ\n( 1\n2)\n( 2\n3)\n( 4\n0)\ni\nj\nk\n−−\n+ −−\n+ −−\ni.e.\n=\nˆ\nˆ\nˆ\n4 .\ni\nj\nk\n−\n−\n−\n10.5.3  Section formula",
+  "content_length": 893
+}

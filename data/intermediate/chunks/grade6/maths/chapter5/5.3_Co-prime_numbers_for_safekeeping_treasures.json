@@ -1,0 +1,12 @@
+{
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 5,
+  "chapter_title": "PRIME TIME",
+  "topic_number": "5.3",
+  "topic_title": "Co-prime numbers for safekeeping treasures",
+  "depth": 2,
+  "page_start": 9,
+  "content": "Which pairs are safe?\nLet us go back to the treasure finding game. This time, treasures are\nkept on two numbers. Jumpy gets the treasures only if he is able to\nreach both the numbers with the same jump size. There is also a\nnew rule — a jump size of 1 is not allowed.\nWhere should Grumpy place the treasures so that Jumpy cannot\nreach both the treasures?\nWill placing the treasure on 12 and 26 work? No! If the jump size\nis chosen to be 2, then Jumpy will reach both 12 and 26.\nWhat about 4 and 9? Jumpy cannot reach both using any jump size\nother than 1. So, Grumpy knows that the pair 4 and 9 is safe.\nCheck if these pairs are safe:\na. 15 and 39\nb. 4 and 15\nc. 18 and 29\nd. 20 and 55\nReprint 2025-26\nGanita Prakash | Grade 6\nWhat is special about safe pairs? They don’t have any common\nfactor other than 1. Two numbers are said to be co-prime to each\nother if they have no common factor other than 1.\nExample: As 15 and 39 have 3 as a common factor, they are not\nco-prime. But 4 and 9 are co-prime.\nWhich of the following pairs of numbers are co-prime?\na. 18 and 35\nb. 15 and 37\nc. 30 and 415\nd. 17 and 69\ne. 81 and 18\nWhile playing the ‘idli-vada’ game with different number\npairs, Anshu observed something interesting!\n1. \t Sometimes the first common multiple was the same\nas the product of the two numbers.\n2. \t At other times the first common multiple was less\nthan the product of the two numbers.\n\u0007Find examples for each of the above. How is it related to the\nnumber pair being co-prime?\nCo-prime art\nObserve the following thread art. The first diagram has 12\npegs and the thread is tied to every fourth peg (we say that\nthe thread-gap is 4). The second diagram has 13 pegs and the\nthread-gap is 3. What about the other diagrams? Observe these\npictures, share and discuss your findings in class.\n24 1 2 3\n22 23\nIn some diagrams, the thread is tied to every peg. In some, it is\nnot. Is it related to the two numbers (the number of pegs and the\nthread-gap) being co-prime?\nMath\nTalk\nMath\nTalk\nReprint 2025-26\nPrime Time\nMake such pictures for the following:\na.  15 pegs, thread-gap of 10\nb.  10 pegs, thread-gap of 7\nc.  14 pegs, thread-gap of 6\nd.  8 pegs, thread-gap of 3\n5.4 Prime Factorisation",
+  "content_length": 2202
+}

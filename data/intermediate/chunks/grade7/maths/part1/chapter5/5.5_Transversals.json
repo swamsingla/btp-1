@@ -1,0 +1,12 @@
+{
+  "grade": 7,
+  "subject": "maths",
+  "chapter_number": 5,
+  "chapter_title": "PARALLEL AND INTERSECTING LINES",
+  "topic_number": "5.5",
+  "topic_title": "Transversals",
+  "depth": 2,
+  "page_start": 10,
+  "content": "We saw what happens when two lines intersect in different ways. Let\nus explore what happens when one line intersects two different lines.\nl\nt\nm\nFig. 5.14\nIn Fig. 5.14, line t intersects lines l and m. t is called a transversal.\nNotice that 8 angles are formed when a line crosses a pair of lines.\nIs it possible for all the eight angles to have different measurements?\nWhy, why not?\nWhat about five different angles — 6, 5, 4, 3 and 2?\nIn Fig. 5.14, since ∠1 and ∠3 are vertically opposite angles,  they are\nequal. Are there other pairs of vertically opposite angles? We can see\nthat there are a total of four pairs of vertically opposite angles and in\neach pair, the angles are equal to each other.\nThus, when a transversal intersects two lines, it forms eight angles\nwith a maximum of four distinct angle measures.\n5.6 Corresponding Angles",
+  "content_length": 841
+}

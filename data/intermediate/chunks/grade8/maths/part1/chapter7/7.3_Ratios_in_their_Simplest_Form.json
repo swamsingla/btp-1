@@ -1,0 +1,12 @@
+{
+  "grade": 8,
+  "subject": "maths",
+  "chapter_number": 7,
+  "chapter_title": "PROPORTIONAL REASONING-1",
+  "topic_number": "7.3",
+  "topic_title": "Ratios in their Simplest Form",
+  "depth": 2,
+  "page_start": 3,
+  "content": "We can reduce ratios to their simplest form by dividing the terms by\ntheir HCF.\nIn image A, the terms are 60 and 40. What is the HCF of 60 and 40? It\nis 20. Dividing the terms by 20, we get the ratio of image A to be 3 : 2 in\nits simplest form.\nThe ratio of image D is 90 : 60. Dividing both terms by 30 (HCF\nof 90 and 60), we get the simplest form to be 3 : 2. So the ratios of\nimages A and D are proportional as well.\nWhat is the simplest form of the ratios of images B and E?\nThe ratio of image B is 40 : 20; in its simplest form, it is 2 : 1.\nThe ratio of image E is 60 : 60; in its simplest form, it is 1 : 1.\nGanita Prakash | Grade 8\nThese ratios are not the same as 3 : 2. So, we can say that the ratios of\nwidth to height of images B and E are not proportional to the ratios of\nimages A, C, and D.\nWhen two ratios are the same in their simplest forms, we say that the\nratios are in proportion, or that the ratios are proportional. We use\nthe ‘::’ symbol to indicate that they are proportional.\nSo a : b :: c : d indicates that the ratios a : b and c : d are proportional.\nThus,\n60 : 40 :: 30 : 20 and 60 : 40 :: 90 : 60.\n7.4 Problem Solving with Proportional Reasoning",
+  "content_length": 1176
+}

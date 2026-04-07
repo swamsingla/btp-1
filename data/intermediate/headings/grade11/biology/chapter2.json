@@ -1,0 +1,20 @@
+{
+  "source_pdf": "chapter2.pdf",
+  "chapter_number": "2",
+  "chapter_title": null,
+  "total_topics": 2,
+  "topics": [
+    {
+      "number": "2.3.3",
+      "title": "Basidiomycetes",
+      "page": 9,
+      "subtopics": []
+    },
+    {
+      "number": "2.3.4",
+      "title": "Deuteromycetes",
+      "page": 9,
+      "subtopics": []
+    }
+  ]
+}

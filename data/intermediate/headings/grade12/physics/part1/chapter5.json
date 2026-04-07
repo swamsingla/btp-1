@@ -1,0 +1,63 @@
+{
+  "source_pdf": "chapter5.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 9,
+  "topics": [
+    {
+      "number": "5.2.2",
+      "title": "Bar magnet as an",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "5.2.3",
+      "title": "The dipole in a uniform magnetic field",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "5.2.4",
+      "title": "The electrostatic analog",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "5.3",
+      "title": "MAGNETISM AND GAUSS’S LAW",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "5.4",
+      "title": "MAGNETISATION AND MAGNETIC INTENSITY",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "5.5",
+      "title": "MAGNETIC PROPERTIES OF MATERIALS",
+      "page": 12,
+      "subtopics": [
+        {
+          "number": "5.5.1",
+          "title": "Diamagnetism",
+          "page": 12,
+          "subtopics": []
+        },
+        {
+          "number": "5.5.2",
+          "title": "Paramagnetism",
+          "page": 13,
+          "subtopics": []
+        },
+        {
+          "number": "5.5.3",
+          "title": "Ferromagnetism",
+          "page": 14,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

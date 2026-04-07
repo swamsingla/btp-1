@@ -1,0 +1,210 @@
+{
+  "source_pdf": "chapter6.pdf",
+  "chapter_number": null,
+  "chapter_title": null,
+  "total_topics": 33,
+  "topics": [
+    {
+      "number": "6.1.1",
+      "title": "Solid-Liquid Equilibrium",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "6.1.2",
+      "title": "Liquid-Vapour Equilibrium",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "6.1.3",
+      "title": "Solid – Vapour Equilibrium",
+      "page": 3,
+      "subtopics": []
+    },
+    {
+      "number": "6.1.4",
+      "title": "Equilibrium Involving Dissolution",
+      "page": 4,
+      "subtopics": []
+    },
+    {
+      "number": "6.1.5",
+      "title": "General Characteristics of",
+      "page": 5,
+      "subtopics": []
+    },
+    {
+      "number": "6.4.1",
+      "title": "Equilibrium Constant in Gaseous",
+      "page": 10,
+      "subtopics": []
+    },
+    {
+      "number": "6.6.1",
+      "title": "Predicting the Extent of a",
+      "page": 14,
+      "subtopics": []
+    },
+    {
+      "number": "6.6.2",
+      "title": "Predicting the Direction of the",
+      "page": 15,
+      "subtopics": []
+    },
+    {
+      "number": "6.6.3",
+      "title": "Calculating  Equilibrium",
+      "page": 16,
+      "subtopics": []
+    },
+    {
+      "number": "6.8.1",
+      "title": "Effect of Concentration Change",
+      "page": 18,
+      "subtopics": []
+    },
+    {
+      "number": "6.8.2",
+      "title": "Effect of Pressure Change",
+      "page": 19,
+      "subtopics": []
+    },
+    {
+      "number": "6.8.3",
+      "title": "Effect of Inert Gas Addition",
+      "page": 20,
+      "subtopics": []
+    },
+    {
+      "number": "6.8.4",
+      "title": "Effect of Temperature Change",
+      "page": 20,
+      "subtopics": []
+    },
+    {
+      "number": "6.8.5",
+      "title": "Effect of a Catalyst",
+      "page": 21,
+      "subtopics": []
+    },
+    {
+      "number": "6.10",
+      "title": "ACIDS, BASES AND SALTS",
+      "page": 22,
+      "subtopics": [
+        {
+          "number": "6.10.1",
+          "title": "Arrhenius Concept of Acids and",
+          "page": 23,
+          "subtopics": []
+        },
+        {
+          "number": "6.10.2",
+          "title": "The Brönsted-Lowry Acids and",
+          "page": 23,
+          "subtopics": []
+        },
+        {
+          "number": "6.10.3",
+          "title": "Lewis Acids and Bases",
+          "page": 25,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "6.11",
+      "title": "IONIZATION OF ACIDS AND BASES",
+      "page": 25,
+      "subtopics": [
+        {
+          "number": "6.11.1",
+          "title": "The Ionization Constant of Water",
+          "page": 26,
+          "subtopics": []
+        },
+        {
+          "number": "6.11.2",
+          "title": "The pH Scale",
+          "page": 26,
+          "subtopics": []
+        },
+        {
+          "number": "6.11.3",
+          "title": "Ionization Constants of Weak Acids",
+          "page": 28,
+          "subtopics": []
+        },
+        {
+          "number": "6.11.4",
+          "title": "Ionization of Weak Bases",
+          "page": 30,
+          "subtopics": []
+        },
+        {
+          "number": "6.11.5",
+          "title": "Relation between Ka and Kb",
+          "page": 31,
+          "subtopics": []
+        },
+        {
+          "number": "6.11.6",
+          "title": "Di- and Polybasic Acids and Di-",
+          "page": 32,
+          "subtopics": []
+        },
+        {
+          "number": "6.11.8",
+          "title": "Common Ion Effect in the",
+          "page": 33,
+          "subtopics": []
+        },
+        {
+          "number": "6.11.7",
+          "title": "Factors Affecting Acid Strength",
+          "page": 33,
+          "subtopics": []
+        },
+        {
+          "number": "6.11.9",
+          "title": "Hydrolysis of Salts and the pH of",
+          "page": 34,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "6.12",
+      "title": "BUFFER SOLUTIONS",
+      "page": 35,
+      "subtopics": [
+        {
+          "number": "6.12.1",
+          "title": "Designing Buffer Solution",
+          "page": 36,
+          "subtopics": []
+        }
+      ]
+    },
+    {
+      "number": "6.13",
+      "title": "SOLUBILITY EQUILIBRIA OF",
+      "page": 37,
+      "subtopics": [
+        {
+          "number": "6.13.1",
+          "title": "Solubility Product Constant",
+          "page": 37,
+          "subtopics": []
+        },
+        {
+          "number": "6.13.2",
+          "title": "Common Ion Effect on Solubility",
+          "page": 39,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

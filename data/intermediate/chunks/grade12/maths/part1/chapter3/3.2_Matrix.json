@@ -1,0 +1,12 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "MATRICES",
+  "topic_number": "3.2",
+  "topic_title": "Matrix",
+  "depth": 2,
+  "page_start": 1,
+  "content": "Suppose we wish to express the information that Radha has 15 notebooks. We may\nexpress it as [15] with the understanding that the number inside [ ] is the number of\nnotebooks that Radha has. Now, if we have to express that Radha has 15 notebooks\nand 6 pens. We may express it as [15  6] with the understanding that first number\ninside [ ] is the number of notebooks while the other one is the number of pens possessed\nby Radha. Let us now suppose that we wish to express the information of possession\nReprint 2025-26\nMATRICES         35\nof notebooks and pens by Radha and her two friends Fauzia and Simran which\nis as follows:\nRadha\nhas\nnotebooks\nand\n6 pens,\nFauzia\nhas\nnotebooks\nand\n2 pens,\nSimran\nhas\nnotebooks\nand\n5 pens.\nNow this could be arranged in the tabular form as follows:\nNotebooks\nPens\nRadha\nFauzia\nSimran\nand this can be expressed as\nor\nRadha\nFauzia\nSimran\nNotebooks\nPens\nwhich can be expressed as:\nIn the first arrangement the entries in the first column represent the number of\nnote books possessed by Radha, Fauzia and Simran, respectively and the entries in the\nsecond column represent the number of pens possessed by Radha, Fauzia and Simran,\nReprint 2025-26\nrespectively. Similarly, in the second arrangement, the entries in the first row represent\nthe number of notebooks possessed by Radha, Fauzia and Simran, respectively. The\nentries in the second row represent the number of pens possessed by Radha, Fauzia\nand Simran, respectively. An arrangement or display of the above kind is called a\nmatrix. Formally, we define matrix as:\nDefinition 1  A matrix is an ordered rectangular array of numbers or functions. The\nnumbers or functions are called the elements or the entries of the matrix.\nWe denote matrices by capital letters. The following are some examples of matrices:\n– 2\nA\n\n\n\n\n= \n\n\n\n\n\n,\nB\n3.5\n–1\ni\n\n\n+\n−\n\n\n\n\n= \n\n\n\n\n\n\n\n,\nC\ncos\ntan\nsin\nx\nx\nx\nx\nx\n\n\n+\n= \n\n+\n\n\nIn the above examples, the horizontal lines of elements are said to constitute, rows\nof the matrix and the vertical lines of elements are said to constitute, columns of the\nmatrix. Thus A has 3 rows and 2 columns, B has 3 rows and 3 columns while C has 2\nrows and 3 columns.\n3.2.1  Order of a matrix",
+  "content_length": 2214
+}

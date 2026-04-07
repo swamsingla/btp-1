@@ -1,0 +1,87 @@
+{
+  "source_pdf": "chapter5.pdf",
+  "chapter_number": "5",
+  "chapter_title": "HE F",
+  "total_topics": 13,
+  "topics": [
+    {
+      "number": "5.1",
+      "title": "What are Living Organisms",
+      "page": 1,
+      "subtopics": []
+    },
+    {
+      "number": "5.2",
+      "title": "What is a Cell Made Up of?",
+      "page": 3,
+      "subtopics": [
+        {
+          "number": "5.2.1",
+          "title": "PLASMA MEMBRANE OR CELL",
+          "page": 3,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.2",
+          "title": "CELL WALL",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.3",
+          "title": "NUCLEUS",
+          "page": 5,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.4",
+          "title": "CYTOPLASM",
+          "page": 6,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.5",
+          "title": "CELL ORGANELLES",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.5",
+          "title": "(i) ENDOPLASMIC RETICULUM (ER)",
+          "page": 7,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.5",
+          "title": "(iii) LYSOSOMES",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.5",
+          "title": "(ii) GOLGI APPARATUS",
+          "page": 8,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.5",
+          "title": "(iv) MITOCHONDRIA",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.5",
+          "title": "(V) PLASTIDS",
+          "page": 9,
+          "subtopics": []
+        },
+        {
+          "number": "5.2.5",
+          "title": "(vi) VACUOLES",
+          "page": 9,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}

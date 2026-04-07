@@ -1,0 +1,26 @@
+{
+  "source_pdf": "chapter4.pdf",
+  "chapter_number": "4",
+  "chapter_title": null,
+  "total_topics": 3,
+  "topics": [
+    {
+      "number": "4.1",
+      "title": "\u0007Does an Electric Current Have a Magnetic",
+      "page": 2,
+      "subtopics": []
+    },
+    {
+      "number": "4.2",
+      "title": "Does a Current Carrying Wire Get Hot?",
+      "page": 7,
+      "subtopics": []
+    },
+    {
+      "number": "4.3",
+      "title": "How Does a Battery Generate Electricity?",
+      "page": 10,
+      "subtopics": []
+    }
+  ]
+}

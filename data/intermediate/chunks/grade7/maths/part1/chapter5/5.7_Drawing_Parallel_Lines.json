@@ -1,0 +1,12 @@
+{
+  "grade": 7,
+  "subject": "maths",
+  "chapter_number": 5,
+  "chapter_title": "PARALLEL AND INTERSECTING LINES",
+  "topic_number": "5.7",
+  "topic_title": "Drawing Parallel Lines",
+  "depth": 2,
+  "page_start": 13,
+  "content": "Can you draw a pair of parallel lines using a ruler and a set square?\nFig. 5.21 shows how you can do it.\nDraw a line l with a scale. By sliding your set square you can make\ntwo lines perpendicular to line l.\nAre these two lines parallel to each other? How are we sure that they\nare parallel to each other? What angles are formed between these lines\nand line l?\nl\nFig. 5.21\nSince we used a set square, the angles measure 90°. The position\nof the lines is different, but they make the same angle with l. If line l\nis seen as a transversal to the two new lines, then the corresponding\nangles measure 90°.\nFig. 5.22\nl\nAs we know these are corresponding angles and they are equal, we\ncan be sure that the lines are parallel.\nDraw two more parallel lines using the long side of the set square as\nshown in Fig. 5.22.\nParallel and Intersecting Lines\nHow do you know these two lines are parallel? Can you check if the\ncorresponding angles are equal?\nNote to the Teacher: Students should be encouraged to check the equality of\ncorresponding angles both by using the tracing method and using protractors to\nmeasure the angles. Pay attention to the language used to make the relationship\nbetween corresponding angles and parallel lines. Equality of corresponding\nangles is both necessary and sufficient for the pair of lines to be parallel to\neach other.\nFigure it Out\nCan you draw a line parallel to l, that goes through point A? How will\nyou do it with the tools from your geometry box? Describe your method.\nFig. 5.23\nA\nl\nMaking Parallel Lines through Paper Folding\nLet us try to do the same with paper folding. For a line l (given as a\ncrease), how do we make a line parallel to l such that it passes through\npoint A?\nWe know how to fold a piece of paper to get a line perpendicular to l.\nNow, try to fold a perpendicular to l such that it passes through point\nA. Let us call this new crease t.\nNow, fold a line perpendicular to t passing through A again. Let us\ncall this line m. The lines l and m are parallel to each other.\nFig. 5.24\nl\nl\nA\nt\nl\nA\nl\nm\nA\nt\nGanita Prakash | Grade 7\nWhy are lines l and m parallel to each other?\n5.8 Alternate Angles",
+  "content_length": 2140
+}
