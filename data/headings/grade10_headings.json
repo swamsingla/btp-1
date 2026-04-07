@@ -1,0 +1,2178 @@
+{
+  "science": {
+    "chapter1": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Chemical Reactions",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "and Equations",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Activity 1.1",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 1.2 Activity 1.3 Activity 1.3",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.1 CHEMICAL EQUA AL EQUATIONS 1.1 CHEMIC AL EQUA TIONS",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.1.1 Writing a Chemical Equation",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.1.2 Balanced Chemical Equations",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "(Glucose)",
+        "level": 4,
+        "page": 5,
+        "font_size": 9.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 6,
+        "font_size": 20.0
+      },
+      {
+        "text": "1.2 TYPES OF CHEMICAL REA AL REACTIONS 1.2 TYPES OF CHEMIC AL REA CTIONS",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.2.1 Combination Reaction",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 1.4",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Do You Know?",
+        "level": 4,
+        "page": 7,
+        "font_size": 16.5
+      },
+      {
+        "text": "1.2.2 Decomposition Reaction",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 1.5",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 1.6 Activity 1.6",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 1.7 Activity 1.7",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 1.8 Activity 1.8",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "Carry out the following Activity",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.2.3 Displacement Reaction",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 1.9",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.2.4 Double Displacement Reaction",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 1.10",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.2.5 Oxidation and Reduction",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 1.11 Activity 1.11",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.3.1 Corrosion",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.3.2 Rancidity",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 14,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 14,
+        "font_size": 18.0
+      },
+      {
+        "text": "Group Activity",
+        "level": 4,
+        "page": 16,
+        "font_size": 18.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Acids, Bases",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "and Salts",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Do You Know?",
+        "level": 4,
+        "page": 1,
+        "font_size": 15.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "2.1.1 Acids and Bases in the Laboratory",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.1",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.2",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.1.2 How do Acids and Bases React with Metals?",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.3",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.4",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.1.3 How do Metal Carbonates and Metal Hydrogencarbonates React with Acids?",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.5 Activity 2.5",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.1.4 How do Acids and Bases React with each other?",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.6",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.1.5 Reaction of Metallic Oxides with Acids",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.7 Activity 2.7",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.1.6 Reaction of a Non-metallic Oxide with Base",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.8",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.2.1 What Happens to an Acid or a Base in a Water Solution?",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.9",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "Know? Do You",
+        "level": 4,
+        "page": 8,
+        "font_size": 15.0
+      },
+      {
+        "text": "Activity 2.10 Activity 2.10",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.3 HOW STRONG ARE ACID OR BASE SOLUTIONS?",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.11",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.3.1 Importance of pH in Ever tance of pH in Everyday Life 2.3.1 Impor tance of pH in Ever yday Life",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.12",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.4 MORE ABOUT SALTS 2.4 MORE ABOUT SAL TS",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.4.1 Family of Salts",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.13 Activity 2.13",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.4.2 pH of Salts",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.14 Activity 2.14",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.4.3 Chemicals from Common Salt",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.4.4 Are the Crystals of Salts really Dry?",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 2.15",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 17,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 18,
+        "font_size": 18.0
+      },
+      {
+        "text": "Group Activity",
+        "level": 4,
+        "page": 19,
+        "font_size": 18.0
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Metals and Non-metals",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "3.1 PHYSIC AL PROPERTIES 3.1 PHYSICAL PROPERTIES 3.1 PHYSIC AL PROPERTIES 3.1.1 Metals",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.1 Activity 3.1",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.2 Activity 3.2",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.3",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.4 Activity 3.4",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.5",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.6 Activity 3.6",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.1.2 Non-metals",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.7 Activity 3.7",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.8 Activity 3.8",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 4,
+        "font_size": 20.0
+      },
+      {
+        "text": "3.2 CHEMIC AL PROPERTIES OF MET ALS 3.2 CHEMICAL PROPERTIES OF MET AL PROPERTIES OF METALS 3.2 CHEMIC AL PROPERTIES OF MET ALS",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.2.1 What happens when Metals are burnt in Air?",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.9",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Do You Know?",
+        "level": 4,
+        "page": 6,
+        "font_size": 15.0
+      },
+      {
+        "text": "3.2.2 What happens when Metals react with Water?",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.10",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.2.3 What happens when Metals react with Acids?",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.11 Activity 3.11",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.2.4 How do Metals react with Solutions of other Metal Salts?",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.12",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.2.5 The Reactivity Series",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.3 HOW DO METALS AND NON-MET ALS AND NON-METALS REA ALS REACT? 3.3 HOW DO MET ALS AND NON-MET ALS REA CT?",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "2 2 , 8 2",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.0
+      },
+      {
+        "text": "3.3.1 Properties of Ionic Compounds",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.13",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.4 OCCURRENCE OF MET ALS OCCURRENCE OF METALS 3.4 OCCURRENCE OF MET ALS",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.4.1 Extraction of Metals",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.4.2 Enrichment of Ores",
+        "level": 4,
+        "page": 14,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.4.3 Extracting Metals Low in the Activity Series",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.4.4 Extracting Metals in the Middle of the Activity Series",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.4.5 Extracting Metals towards the Top of the Activity Series",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.4.6 Refining of Metals",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.5 CORROSION",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 3.14",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.5.1 Prevention of Corrosion",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "More to Know!",
+        "level": 4,
+        "page": 18,
+        "font_size": 15.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 19,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 20,
+        "font_size": 18.0
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Carbon and its",
+        "level": 3,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Compounds",
+        "level": 3,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Activity 4.1",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.1 BONDING IN CARBON – THE COVALENT BOND",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "More to Know!",
+        "level": 4,
+        "page": 4,
+        "font_size": 15.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 4,
+        "page": 4,
+        "font_size": 20.0
+      },
+      {
+        "text": "4.2 VERSATILE NATURE OF CARBON",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.2.1 Saturated and Unsaturated Carbon Compounds",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.2.2 Chains, Branches and Rings",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.2.3 Will you be my Friend?",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.2.4 Homologous Series",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 4.2",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.2.5 Nomenclature of Carbon Compounds",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.3 CHEMICAL PROPERTIES OF CARBON COMPOUNDS",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.3.1 Combustion",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 4.3 Activity 4.3 Activity 4.4",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "Do You Know?",
+        "level": 4,
+        "page": 13,
+        "font_size": 15.0
+      },
+      {
+        "text": "4.3.2 Oxidation",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 4.5",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.3.3 Addition Reaction",
+        "level": 4,
+        "page": 14,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.3.4 Substitution Reaction",
+        "level": 4,
+        "page": 14,
+        "font_size": 14.0
+      },
+      {
+        "text": "? 4.4 SOME IMPORTANT CARBON COMPOUNDS – ETHANOL",
+        "level": 1,
+        "page": 14,
+        "font_size": 60.0
+      },
+      {
+        "text": "AND ETHANOIC ACID",
+        "level": 4,
+        "page": 14,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.4.1 Properties of Ethanol",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 4.6",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "CH OH = CH + H O",
+        "level": 4,
+        "page": 15,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.4.2 Properties of Ethanoic Acid",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 4.7",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 4.8",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 4.9",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "? 4.5 SOAPS AND DETERGENTS",
+        "level": 1,
+        "page": 17,
+        "font_size": 60.0
+      },
+      {
+        "text": "Activity 4.10",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 4.11",
+        "level": 4,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 4.12",
+        "level": 4,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 20,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 20,
+        "font_size": 18.0
+      },
+      {
+        "text": "Group Activity",
+        "level": 4,
+        "page": 21,
+        "font_size": 18.0
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Life Processes",
+        "level": 3,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "5.1 WHAT ARE LIFE PROCESSES? 5.1 WHA TARE LIFE PROCESSES?",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 4,
+        "page": 3,
+        "font_size": 20.0
+      },
+      {
+        "text": "? 5.2 NUTRITION 5.2 NUTRITION",
+        "level": 1,
+        "page": 3,
+        "font_size": 100.0
+      },
+      {
+        "text": "5.2.1 Autotrophic Nutrition",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 5.1",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 5.2 Activity 5.2",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.2.2 Heterotrophic Nutrition",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.2.3 How do Organisms obtain their Nutrition?",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.2.4 Nutrition in Human Beings",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 5.3 Activity 5.3",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "More to Know!",
+        "level": 4,
+        "page": 8,
+        "font_size": 15.0
+      },
+      {
+        "text": "5.3 RESPIR TION 5.3 RESPIRATION 5.3 RESPIR TION",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 5.4",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "(a) (b)",
+        "level": 4,
+        "page": 9,
+        "font_size": 9.0
+      },
+      {
+        "text": "Activity 5.5 Activity 5.5",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 5.6 Activity 5.6",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "Do You Know?",
+        "level": 4,
+        "page": 12,
+        "font_size": 15.0
+      },
+      {
+        "text": "5.4 TR ANSPORT TION 5.4 TRANSPORT ANSPORTATION 5.4 TR ANSPORT TION 5.4.1 Transportation in Human Beings",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 5.7",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.4.2 Transportation in Plants",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 5.8",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.5 EXCRETION CRETION 5.5 EX",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.5.1 Excretion in Human Beings",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.5.2 Excretion in Plants",
+        "level": 4,
+        "page": 20,
+        "font_size": 14.0
+      },
+      {
+        "text": "Think it over!",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 20,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 21,
+        "font_size": 18.0
+      }
+    ],
+    "chapter6": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Control and",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Coordination",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "6.1 ANIMALS – NERVOUS SYSTEM",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 6.1",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.1.1 What happens in Reflex Actions?",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.1.2 Human Brain",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.1.3 How are these Tissues protected?",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.1.4 How does the Nervous Tissue cause Action?",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 6,
+        "font_size": 20.0
+      },
+      {
+        "text": "6.2 COORDINATION IN PL TION IN PLANTS 6.2 COORDINA TION IN PL ANTS",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.2.1 Immediate Response to Stimulus",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.2.2 Movement Due to Growth",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 6.2 Activity 6.2",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.3 HORMONES IN ANIMALS",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 6.3",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "Do You Know?",
+        "level": 4,
+        "page": 11,
+        "font_size": 15.0
+      },
+      {
+        "text": "Activity 6.4",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 12,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 13,
+        "font_size": 18.0
+      }
+    ],
+    "chapter7": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "How do Organisms",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Reproduce",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "7.1.1 The Importance of Variation",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "7.2 MODES OF REPRODUCTION USED BY SINGLE 7.2 MODES OF REPRODUCTION USED BY SINGLE ORGANISMS",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 7.1 Activity 7.1",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 7.2",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.2.1 Fission",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 7.3 Activity 7.3",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.2.2 Fragmentation",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 7.4",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.2.3 Regeneration",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.2.4 Budding",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.2.5 Vegetative Propagation",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 7.5",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 7.6",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "More to Know?",
+        "level": 4,
+        "page": 6,
+        "font_size": 15.0
+      },
+      {
+        "text": "7.2.6 Spore Formation",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.3 SEXUAL REPRODUCTION 7.3 SEXUAL REPRODUCTION",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.3.1 Why the Sexual Mode of Reproduction?",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.3.2 Sexual Reproduction in Flowering Plants",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 7.7",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.3.3 Reproduction in Human Beings",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.3.3 (a) Male Reproductive System",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.3.3 (b) Female Reproductive System",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.3.3 (c) What happens when the Egg is not Fertilised?",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.3.3 (d) Reproductive Health",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 14,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 15,
+        "font_size": 18.0
+      }
+    ],
+    "chapter8": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Heredity",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "CCUMULATION OF VTION OF VARIA ARIATION ACCUMUL CCUMUL TION OF VARIA TION 8.1 DURING REPRODUCTION DURING REPRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "8.2 HEREDITY",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.2.1 Inherited Traits",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 8.1",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.2.2 Rules for the Inheritance of Traits – Mendel’s Contributions",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 8.2",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.2.3 How do these Traits get Expressed?",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.2.4 Sex Determination",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 6,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 6,
+        "font_size": 18.0
+      }
+    ],
+    "chapter9": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Light – Reflection and",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Refraction",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "More to Know!",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "9.1 REFLECTION OF LIGHT 9.1 REFLECTION OF LIGHT",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.1 Activity 9.1",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.2 SPHERIC AL MIRRORS 9.2 SPHERICAL MIRRORS 9.2 SPHERIC AL MIRRORS",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.2",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.2.1 Image Formation by Spherical Mirrors",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.3",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.2.2 Representation of Images Formed by Spherical Mirrors Using Ray Diagrams",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.4",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.5",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.6",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 9,
+        "font_size": 20.0
+      },
+      {
+        "text": "9.2.3 Sign Convention for Reflection by Spherical Mirrors",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.2.4 Mirror Formula and Magnification",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3 REFRACTION OF LIGHT",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.7",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.8 Activity 9.8",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.9 Activity 9.9",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3.1 Refraction through a Rectangular Glass Slab",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.10 Activity 9.10",
+        "level": 4,
+        "page": 14,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3.2 The Refractive Index",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3.3 Refraction by Spherical Lenses",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.11",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3.4 Image Formation by Lenses",
+        "level": 4,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.12",
+        "level": 4,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 9.13",
+        "level": 4,
+        "page": 20,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3.5 Image Formation in Lenses Using Ray Diagrams",
+        "level": 4,
+        "page": 20,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3.6 Sign Convention for Spherical Lenses",
+        "level": 4,
+        "page": 22,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3.7 Lens Formula and Magnification",
+        "level": 4,
+        "page": 22,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3.8 Power of a Lens",
+        "level": 4,
+        "page": 24,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 25,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 26,
+        "font_size": 18.0
+      }
+    ],
+    "chapter10": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "The Human Eye and",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "the Colourful World",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "10.1 THE HUMAN EYE",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.1.1 Power of Accommodation",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.2 DEFECTS OF VISION AND THEIR CORRECTION 10.2 DEFECTS OF VISION AND THEIR CORRECTION",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 4,
+        "font_size": 20.0
+      },
+      {
+        "text": "10.3 REFRACTION OF LIGHT THROUGH APRISM 10.3 REFRACTION OF LIGHT THROUGH APRISM",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 10.1",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.4 DISPERSION OF WHITE LIGHT BY AGLASS PRISM 10.4 DISPERSION OF WHITE LIGHT BY AGL ASS PRISM",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 10.2 Activity 10.2",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.5 ATMOSPHERIC REFRACTION",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.6 SCATTERING OF LIGHT",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.6.1 Tyndall Effect",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.6.2 Why is the colour of the clear Sky Blue?",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 10,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 10,
+        "font_size": 18.0
+      }
+    ],
+    "chapter11": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Electricity",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "11.1 ELECTRIC CURRENT AND CIRCUIT",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.3 CIRCUIT DIAGRAM 11.3 CIRCUIT DIAGRAM",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.4 OHM’SLA 11.4 OHM’SLAW 11.4 OHM’SLA",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 11.1",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 11.2",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.5 FACTORS ON WHICH THE RESIST CTORS ON WHICH THE RESISTANCE OF A 11.5 FA CTORS ON WHICH THE RESIST ANCE OF ACONDUCTOR DEPENDS CONDUCTOR DEPENDS",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 11.3 Activity 11.3",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.6 RESIST ANCE OF ASYSTEM OF RESISTORS 11.6 RESISTANCE OF ASYSTEM OF RESISTORS 11.6 RESIST ANCE OF ASYSTEM OF RESISTORS",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.6.1 Resistors in Series",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 11.4",
+        "level": 4,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 11.5",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.6.2 Resistors in Parallel",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 11.6 Activity 11.6",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.7 HEATING EFFECT OF ELECTRIC CURRENT 11.7 HEA TING EFFECT OF ELECTRIC CURRENT",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.7.1 Practical Applications of Heating Effect of Electric Current",
+        "level": 4,
+        "page": 20,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.8 ELECTRIC POWER 11.8 ELECTRIC POWER",
+        "level": 4,
+        "page": 21,
+        "font_size": 14.0
+      },
+      {
+        "text": "More to Know!",
+        "level": 4,
+        "page": 21,
+        "font_size": 12.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 22,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 23,
+        "font_size": 18.0
+      }
+    ],
+    "chapter12": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Magnetic Effects of",
+        "level": 3,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Electric Current",
+        "level": 3,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Activity 12.1",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "12.1 MAGNETIC FIELD AND FIELD LINES",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 4,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "Activity 12.2",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 12.3 Activity 12.3",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "MAGNETIC FIELD DUE TO ACURRENT GNETIC FIELD DUE TO ACURRENT-CARRYING 12.2 MA GNETIC FIELD DUE TO ACURRENT ARRYING CONDUCTOR",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 12.4",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "12.2.1 Magnetic Field due to a Current through a Straight Conductor",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 12.5",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "12.2.2 Right-Hand Thumb Rule",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "? 12.2.3 Magnetic Field due to a Current through a",
+        "level": 1,
+        "page": 6,
+        "font_size": 75.0
+      },
+      {
+        "text": "Circular Loop",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 12.6 Activity 12.6",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "12.2.4 Magnetic Field due to a Current in a Solenoid",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "12.3 FORCE ON ACURRENT ARRYING CONDUCTOR FORCE ON ACURRENT-CARRYING CONDUCTOR 12.3 FORCE ON ACURRENT ARRYING CONDUCTOR IN AMAGNETIC FIELD",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 12.7 Activity 12.7",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "More to Know!",
+        "level": 4,
+        "page": 10,
+        "font_size": 15.0
+      },
+      {
+        "text": "12.4 DOMESTIC ELECTRIC CIRCUITS",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 12,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 13,
+        "font_size": 18.0
+      }
+    ],
+    "chapter13": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 34.0
+      },
+      {
+        "text": "Our Environment",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "13.1 ECO -SYSTEM — WHA TARE ITS COMPONENTS? 13.1 ECO-SYSTEM — WHA -SYSTEM — WHAT ARE ITS COMPONENTS? 13.1 ECO -SYSTEM — WHA TARE ITS COMPONENTS?",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 13.1 Activity 13.1",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 13.2 Activity 13.2",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "13.1.1 Food Chains and Webs",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 13.3",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Q U E S T I O N",
+        "level": 3,
+        "page": 5,
+        "font_size": 20.0
+      },
+      {
+        "text": "13.2 HOW DO OUR ACTIVITIES AFFECT THE ENVIRONMENT? ENVIRONMENT?",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "13.2.1 Ozone Layer and How it is Getting Depleted",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 13.4",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "13.2.2 Managing the Garbage we Produce",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 13.5",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 13.6 Activity 13.6",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 13.7",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Activity 13.8 Activity 13.8",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Think it over",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "Activity 13.9",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "What you have learnt",
+        "level": 4,
+        "page": 9,
+        "font_size": 18.0
+      },
+      {
+        "text": "E X R C I S",
+        "level": 4,
+        "page": 9,
+        "font_size": 18.0
+      }
+    ]
+  }
+}

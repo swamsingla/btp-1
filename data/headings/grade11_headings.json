@@ -1,0 +1,5250 @@
+{
+  "physics_part1": {
+    "chapter1": [
+      {
+        "text": "CHAPTER ONE",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "UNITS AND MEASUREMENT",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "CHAPTER TWO",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "MOTION IN A STRAIGHT LINE",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "2.1 INTRODUCTION Motion is common to everything in the universe. We walk, run and ride a bicycle. Even when we are sleeping, air moves",
+        "level": 4,
+        "page": 1,
+        "font_size": 10.0
+      },
+      {
+        "text": "described in this chapter and the next chapter forms the subject matter of Chapter 4.",
+        "level": 4,
+        "page": 1,
+        "font_size": 10.0
+      },
+      {
+        "text": "2.2 INSTANTANEOUS VELOCITY AND SPEED The average velocity tells us how fast an object has been moving over a given time interval but",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.0
+      },
+      {
+        "text": "does not tell us how fast it moves at different instants of time during that interval. For this, we define instantaneous velocity or simply",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.0
+      },
+      {
+        "text": "velocity v at an instant t . The velocity at an instant is defined as the limit of the average velocity as the time interval",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.0
+      },
+      {
+        "text": "t becomes infinitesimally small. In other words, (2.1a)",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.0
+      },
+      {
+        "text": "(2.1b)",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.0
+      },
+      {
+        "text": "where the symbol stands for the operation Now, we decrease the value of from 2 s to 1 of taking limit as of the quantity on its g",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.0
+      },
+      {
+        "text": "x Table 2.1 Limiting value of at t = 4 s t",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.0
+      },
+      {
+        "text": "a 16 b – – 4",
+        "level": 4,
+        "page": 3,
+        "font_size": 10.0
+      },
+      {
+        "text": "corresponding values of x , i.e. ( t ) = 0.08 6.0 b t",
+        "level": 4,
+        "page": 3,
+        "font_size": 11.9
+      },
+      {
+        "text": "and x ( t ) = 0.08 . The sixth column lists the t ⊳",
+        "level": 4,
+        "page": 3,
+        "font_size": 12.1
+      },
+      {
+        "text": "increasing distance of fall. This led to the ⊳",
+        "level": 4,
+        "page": 3,
+        "font_size": 10.0
+      },
+      {
+        "text": "v – v (2.2) a Answer In notation of differential calculus, the t – velocity is",
+        "level": 4,
+        "page": 3,
+        "font_size": 10.0
+      },
+      {
+        "text": "x 4.0 2.0 ( )",
+        "level": 4,
+        "page": 3,
+        "font_size": 11.3
+      },
+      {
+        "text": "connecting the points corresponding to ( v , t ) Average velocity 4.0 2.0 and ( v , t ).",
+        "level": 4,
+        "page": 3,
+        "font_size": 10.0
+      },
+      {
+        "text": "a lim , (2.3) till time t and then turns back with the",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "motion with positive, negative and zero acceleration are shown in Figs. 2.4 (a), (b) and (c), respectively. Note that the graph",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "curves upward for positive acceleration; downward for negative acceleration and it is a straight line for zero acceleration.",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "Although acceleration can vary with time, our study in this chapter will be restricted to motion with constant acceleration. In this",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "case, the average acceleration equals the constant value of acceleration during the interval. If the velocity of an object is v at t",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "0 and v at time t , we have v a or , v v a t (2.4)",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "Let us see how velocity-time graph looks like for some simple cases. Fig. 2.3 shows velocity- time graph for motion with constant acceleration",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "for the following cases : (a) An object is moving in a positive direction with a positive acceleration.",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "(b) An object is moving in positive direction with a negative acceleration.",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "The v-t curve is a straight line parallel to the time axis and the area under it between t = 0 and t = T is the area of the rectangle of height u",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "and base T . Therefore, area = u × = uT which is the displacement in this time interval. How come in this case an area is equal to a distance?",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "kinks at some points implying that the 2 functions are not differentiable at these But v a t points. In any realistic situation, the",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.1
+      },
+      {
+        "text": "functions will be differentiable at all points 1 x a t + v Therefore, and the graphs will be smooth . 2 What this means physically is that",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "v + v x t v t (2.7a) 2.4 KINEMATIC E QUATIONS FOR 2 UNIFORMLY ACCELERATED MOTION",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "where, For uniformly accelerated motion, we can derive some simple equations that relate displacement v v",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "The area under this curve is : Area between instants 0 and t = Area of triangle v x v t ABC + Area of rectangle OACD 2 a",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "1 v – t + v t ( ) (2.8) v 2 ax",
+        "level": 4,
+        "page": 5,
+        "font_size": 11.8
+      },
+      {
+        "text": "This equation can also be obtained by v at d t ( ) substituting the value of t from Eq. (2.4) into Eq. ∫",
+        "level": 3,
+        "page": 6,
+        "font_size": 14.9
+      },
+      {
+        "text": "(2.6). Thus, we have obtained three important 1 equations : x – v t a 2 v at",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.2
+      },
+      {
+        "text": "1 x v t a x = 1 2 x v t at 2 We can write",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.1
+      },
+      {
+        "text": "d v x (2.9a) v 2 ax a v d t x connecting five quantities v , v, a, t and x . These or, v d v = a x",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.2
+      },
+      {
+        "text": "are kinematic equations of rectilinear motion for Integrating both sides, constant acceleration. The set of Eq. (2.9a) were obtained by v d a x",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.0
+      },
+      {
+        "text": "2 zero, say x . Then Eqs. (2.9a) are modified (replacing x by – ) to : v 2 a x – ( )",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "v at The advantage of this method is that it can be used for motion with non-uniform acceleration 1 x v t at (2.9b) also.",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.2
+      },
+      {
+        "text": "Now, we shall use these equations to some important cases. ⊳ (2.9c)",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.0
+      },
+      {
+        "text": "Example 2.3 A ball is thrown vertically ⊳",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.0
+      },
+      {
+        "text": "thrown is 25.0 m from the ground. (a) How high will the ball rise ? and (b) how long Answer By definition will it be before the ball hits the ground?",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.0
+      },
+      {
+        "text": "d v Take g = 10 m s . a d t d v = a t",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.0
+      },
+      {
+        "text": "Answer (a) Let us take the y -axis in the Integrating both sides vertically upward direction with zero at the d v a t ground, as shown in Fig. 2.6. ∫",
+        "level": 3,
+        "page": 6,
+        "font_size": 14.9
+      },
+      {
+        "text": "Now v = + 20 m s , d a = – g = –10 m s , a t ( a is ∫",
+        "level": 3,
+        "page": 6,
+        "font_size": 14.9
+      },
+      {
+        "text": "v = 0 m s constant) If the ball rises to height y from the point of v – at launch, then using the equation",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.1
+      },
+      {
+        "text": "v 2 a y – y ( ) v at we get d x 0 = (20) + 2(–10)( y – y ) v Further,",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.8
+      },
+      {
+        "text": "d t Solving, we get, ( y – y ) = 20 m. d x = v t Integrating both sides (b) We can solve this part of the problem in two",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.0
+      },
+      {
+        "text": "ways. Note carefully the methods used . d x ∫ v t",
+        "level": 3,
+        "page": 6,
+        "font_size": 14.9
+      },
+      {
+        "text": "0 = 25 +20 t + (½) (-10) Or, 5 t – 20 – 25 =",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "Solving this quadratic equation for t , we get t = 5s",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "Note that the second method is better since we do not have to worry about the path of the motion as the motion is under constant acceleration.",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "Example 2.4 Free-fall : Discuss the motion of an object under free fall. Neglect air resistance.",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "Answer An object released near the surface of the Earth is accelerated downward under the influence of the force of gravity. The magnitude",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "of acceleration due to gravity is represented by g . If air resistance is neglected, the object is said to be in free fall . If the height through",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "ball is moving in negative y direction. We use v = 0 – g t = –9.8 t m s equation y = 0 – ½ g t = –4.9 t m",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "Therefore, the total time taken by the ball before and (c). it hits the ground = t + = 2 s + 3 s = 5 s. SECOND METHOD : The total time taken can",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "also be calculated by noting the coordinates of initial and final positions of the ball with respect to the origin chosen and using equation",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "1 y v t at 2 Now y = 25 m = 0 m",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "v = 20 m s , a = –10m s t = ? (a)",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "traversed during successive intervals of time. Since initial velocity is zero, we have",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "y gt 2 Using this equation, we can calculate the",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "position of the object after different time intervals, 0, , 2 , 3 … which are given in second column of Table 2.2. If we take",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "(–1/ 2) g as y — the position coordinate after first time interval , then third column gives (b) the positions in the unit of y . The fourth",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "column gives the distances traversed in successive s. We find that the distances are in the simple ratio 1: 3: 5: 7: 9: 11… as shown",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "in the last column. This law was established by Galileo Galilei (1564-1642) who was the first to make quantitative studies of free fall. ⊳",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "Example 2.6 Stopping distance of vehicles : When brakes are applied to a moving vehicle, the distance it travels before",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "stopping is called stopping distance. It is an important factor for road safety and (c) depends on the initial velocity ( v ) and the",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "braking capacity, or deceleration, – a that is caused by the braking. Derive an expression for stopping distance of a vehicle ⊳",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "in terms of v and a",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "d 2 a Answer Let us divide the time interval of Thus, the stopping distance is proportional to motion of an object under free fall into many",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "the square of the initial velocity. Doubling the equal intervals and find out the distances τ",
+        "level": 4,
+        "page": 8,
+        "font_size": 11.5
+      },
+      {
+        "text": "initial velocity increases the stopping distance by a factor of 4 (for the same deceleration). For the car of a particular make, the braking",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "distance was found to be 10 m, 20 m, 34 m and 50 m corresponding to velocities of 11, 15, 20 and 25 m/s which are nearly consistent with",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "the above formula. Stopping distance is an important factor",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "considered in setting speed limits, for example, in school zones. ⊳ ⊳",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "Example 2.7 Reaction time : When a situation demands our immediate action, it takes some time before we",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "really respond. Reaction time is the time a person takes to observe, think and act. For example, if a person is",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "distance travelled d and the reaction time t are reaction time. Reaction time depends related by on complexity of the situation and on an individual.",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "You can measure your reaction time by a simple experiment. Take a ruler and ask your friend to drop it",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "time is travelled by the ruler. In a particular case, d was found to be 21.0 cm.",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "Estimate reaction time.",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "x d v lim",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "∆→ t d",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "v a t",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.0
+      },
+      {
+        "text": "v d a lim",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.0
+      },
+      {
+        "text": "1 x v t at",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.0
+      },
+      {
+        "text": "v 2ax",
+        "level": 4,
+        "page": 10,
+        "font_size": 9.9
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "CHAPTER THREE",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "MOTION IN A PLANE",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "* **",
+        "level": 4,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "ɵ ɵ ɵ",
+        "level": 4,
+        "page": 6,
+        "font_size": 9.9
+      },
+      {
+        "text": "ɵ ɵ ɵ ɵ",
+        "level": 4,
+        "page": 6,
+        "font_size": 9.1
+      },
+      {
+        "text": "R = A + B 2AB cos θ",
+        "level": 4,
+        "page": 8,
+        "font_size": 11.0
+      },
+      {
+        "text": "r 3.0 t i j k",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.0
+      },
+      {
+        "text": "( ) ( )",
+        "level": 3,
+        "page": 12,
+        "font_size": 12.8
+      },
+      {
+        "text": "v sin2 R g",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "q ( )",
+        "level": 4,
+        "page": 19,
+        "font_size": 10.9
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "CHAPTER FOUR",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "LAWS OF MOTION",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "⊳ ( )",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "( ) ( )",
+        "level": 3,
+        "page": 9,
+        "font_size": 13.1
+      },
+      {
+        "text": "⊳ ⊳ ⊳",
+        "level": 4,
+        "page": 13,
+        "font_size": 10.0
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "CHAPTER FIVE",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "WORK , ENERGY AND POWER",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "ˆ (3 i + 4 j -5 k ) ˆ (5 i + 4 j +3 k )",
+        "level": 4,
+        "page": 2,
+        "font_size": 11.4
+      },
+      {
+        "text": "mv mg L",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.9
+      },
+      {
+        "text": "( ) 1 f",
+        "level": 3,
+        "page": 15,
+        "font_size": 13.3
+      }
+    ],
+    "chapter6": [
+      {
+        "text": "CHAPTER SIX",
+        "level": 3,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "SYSTEMS OF PARTICLES AND ROTATIONAL MOTION",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "∑ ∫ ∑ ∫",
+        "level": 4,
+        "page": 6,
+        "font_size": 15.2
+      },
+      {
+        "text": "( ∑ ∫",
+        "level": 4,
+        "page": 6,
+        "font_size": 15.1
+      },
+      {
+        "text": "and ∫",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.4
+      },
+      {
+        "text": "l r p sin",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.6
+      },
+      {
+        "text": "l r p",
+        "level": 4,
+        "page": 16,
+        "font_size": 10.0
+      },
+      {
+        "text": "d L l l ∑ ( ) ∑",
+        "level": 2,
+        "page": 17,
+        "font_size": 18.0
+      },
+      {
+        "text": "τ = r × F",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.5
+      },
+      {
+        "text": "i.e.",
+        "level": 4,
+        "page": 24,
+        "font_size": 10.2
+      },
+      {
+        "text": "ω α ∫",
+        "level": 4,
+        "page": 26,
+        "font_size": 15.0
+      },
+      {
+        "text": "2 2 ( – )",
+        "level": 4,
+        "page": 26,
+        "font_size": 10.2
+      },
+      {
+        "text": "ω ω α",
+        "level": 4,
+        "page": 29,
+        "font_size": 10.0
+      },
+      {
+        "text": "l × ∑ ⊥",
+        "level": 4,
+        "page": 30,
+        "font_size": 14.8
+      },
+      {
+        "text": "l l ω",
+        "level": 4,
+        "page": 30,
+        "font_size": 10.0
+      }
+    ],
+    "chapter7": [
+      {
+        "text": "CHAPTER SEVEN",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "GRAVITATION",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "2 b A P S S",
+        "level": 4,
+        "page": 2,
+        "font_size": 8.8
+      },
+      {
+        "text": "C 2 a",
+        "level": 4,
+        "page": 2,
+        "font_size": 8.8
+      },
+      {
+        "text": "ο ( ) ο ( )",
+        "level": 3,
+        "page": 5,
+        "font_size": 12.5
+      },
+      {
+        "text": "n F i i =",
+        "level": 4,
+        "page": 13,
+        "font_size": 10.0
+      }
+    ]
+  },
+  "physics_part2": {
+    "chapter1": [
+      {
+        "text": "CHAPTER EIGHT",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "MECHANICAL PROPERTIES OF SOLIDS",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "− ( )",
+        "level": 3,
+        "page": 5,
+        "font_size": 14.4
+      },
+      {
+        "text": "aaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaa",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.3
+      },
+      {
+        "text": "YAl YA l dl ∫",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.1
+      },
+      {
+        "text": "L 2 1 l YAL",
+        "level": 4,
+        "page": 8,
+        "font_size": 11.7
+      },
+      {
+        "text": "8.5.4 P ’ R",
+        "level": 4,
+        "page": 8,
+        "font_size": 11.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "CHAPTER NINE",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "MECHANICAL PROPERTIES OF FLUIDS",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "( ) ( )",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.8
+      },
+      {
+        "text": "L A 1",
+        "level": 4,
+        "page": 7,
+        "font_size": 11.9
+      },
+      {
+        "text": "× × ×",
+        "level": 4,
+        "page": 18,
+        "font_size": 10.0
+      },
+      {
+        "text": "F P av A",
+        "level": 4,
+        "page": 18,
+        "font_size": 9.7
+      },
+      {
+        "text": "° × °",
+        "level": 4,
+        "page": 22,
+        "font_size": 9.0
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "CHAPTER TEN",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "THERMAL PROPERTIES OF MATTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "(a) Linear expansion (b) Area expansion (c) Volume expansion",
+        "level": 4,
+        "page": 4,
+        "font_size": 8.0
+      },
+      {
+        "text": "× × ×",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "° ° × °",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "° ° ⊳",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.0
+      },
+      {
+        "text": "° ° °",
+        "level": 4,
+        "page": 8,
+        "font_size": 9.8
+      },
+      {
+        "text": "× × °",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "( × × ) °",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "° × ° ° ×",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.0
+      },
+      {
+        "text": "° ⊳ ⊳",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.0
+      },
+      {
+        "text": "⊳ ° ° °",
+        "level": 4,
+        "page": 20,
+        "font_size": 10.0
+      },
+      {
+        "text": "° × °",
+        "level": 4,
+        "page": 23,
+        "font_size": 9.0
+      },
+      {
+        "text": "× ° °",
+        "level": 4,
+        "page": 23,
+        "font_size": 9.0
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "CHAPTER ELEVEN",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "THERMODYNAMICS",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "–v Molar speci�c Speci�c heat Substance –1 heat (J mol K ) (J kg K )",
+        "level": 4,
+        "page": 6,
+        "font_size": 9.0
+      },
+      {
+        "text": "γ − γ µ",
+        "level": 4,
+        "page": 10,
+        "font_size": 9.2
+      },
+      {
+        "text": "[ ] γ",
+        "level": 3,
+        "page": 10,
+        "font_size": 12.2
+      },
+      {
+        "text": "γ − µ γ",
+        "level": 4,
+        "page": 13,
+        "font_size": 10.0
+      },
+      {
+        "text": "µ → η",
+        "level": 4,
+        "page": 13,
+        "font_size": 10.0
+      },
+      {
+        "text": "µ → γ",
+        "level": 4,
+        "page": 13,
+        "font_size": 10.0
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "CHAPTER TWELVE",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "KINETIC THEORY",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "ρ µ ρ µ",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "⊳ ⊳ ⊳",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "( ) ( )",
+        "level": 3,
+        "page": 8,
+        "font_size": 12.9
+      },
+      {
+        "text": "à à ⊳",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.0
+      },
+      {
+        "text": "× × ×",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.0
+      },
+      {
+        "text": "T 1 –1 PV T 2 (J�K���) T",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      }
+    ],
+    "chapter6": [
+      {
+        "text": "CHAPTER THIRTEEN",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "OSCILLATIONS",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "h = ut +",
+        "level": 3,
+        "page": 2,
+        "font_size": 11.1
+      },
+      {
+        "text": "h = ut –",
+        "level": 3,
+        "page": 2,
+        "font_size": 11.1
+      }
+    ],
+    "chapter7": [
+      {
+        "text": "CHAPTER FOURTEEN",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "WAVES",
+        "level": 1,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "y ( x , t ) a sin( kx",
+        "level": 4,
+        "page": 4,
+        "font_size": 11.9
+      },
+      {
+        "text": "y ( x , t ) A sin( kx B cos(",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.6
+      },
+      {
+        "text": "tan a A B A",
+        "level": 4,
+        "page": 4,
+        "font_size": 11.4
+      },
+      {
+        "text": "y ( x ,0) a sin kx",
+        "level": 4,
+        "page": 6,
+        "font_size": 11.7
+      },
+      {
+        "text": "a sin t ( T) a sin( t T)",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.9
+      },
+      {
+        "text": "2 n x 2 k T 2 T",
+        "level": 4,
+        "page": 6,
+        "font_size": 11.1
+      },
+      {
+        "text": "1 2 k T 2 k",
+        "level": 4,
+        "page": 6,
+        "font_size": 11.1
+      },
+      {
+        "text": "− 1 rad m",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.2
+      },
+      {
+        "text": "y (0, t ) a sin( a sin t",
+        "level": 4,
+        "page": 6,
+        "font_size": 11.0
+      },
+      {
+        "text": "y x , t = 2 a sin kx − ω ( )",
+        "level": 3,
+        "page": 11,
+        "font_size": 13.7
+      },
+      {
+        "text": "kx t ( )",
+        "level": 4,
+        "page": 11,
+        "font_size": 13.6
+      },
+      {
+        "text": "a 2sin cos",
+        "level": 4,
+        "page": 11,
+        "font_size": 11.9
+      },
+      {
+        "text": "sin A + B y x , t 2 a cos sin kx ( )",
+        "level": 4,
+        "page": 11,
+        "font_size": 13.6
+      },
+      {
+        "text": "y x , t = a sin kx − ω ( )",
+        "level": 3,
+        "page": 12,
+        "font_size": 13.7
+      },
+      {
+        "text": "y 0 2 r",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "+ ( )",
+        "level": 4,
+        "page": 16,
+        "font_size": 11.9
+      },
+      {
+        "text": "Musical Pillars",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.0
+      }
+    ]
+  },
+  "chemistry_part1": {
+    "chapter1": [
+      {
+        "text": "UNIT",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "SOME BASIC CONCEPTS OF CHEMISTRY",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "9 F C 32  ",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.6
+      },
+      {
+        "text": "Mass Density",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.7
+      },
+      {
+        "text": "Volume",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.7
+      },
+      {
+        "text": "kg 3 m",
+        "level": 4,
+        "page": 10,
+        "font_size": 11.0
+      },
+      {
+        "text": "5 . 6 10 9 =  ",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.2
+      },
+      {
+        "text": "13 = 5 . 6 9 10 13 = 38.64",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.4
+      },
+      {
+        "text": "14 = 3.864",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.4
+      },
+      {
+        "text": "9 . 8 10 2 5 =      2 6 = 9 . 8 2 5 10  ",
+        "level": 3,
+        "page": 12,
+        "font_size": 13.9
+      },
+      {
+        "text": " 8 = 24.50",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.4
+      },
+      {
+        "text": " 7 = 2.450",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.4
+      },
+      {
+        "text": " 3 2 . 7 10  3 4  7 = 2 . 7 5 10 =0.4909 1 0   4 5 .5",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.2
+      },
+      {
+        "text": " 8 =4.909",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.4
+      },
+      {
+        "text": "Multiplication and Division of Significant Figures",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "Addition and Subtraction of Significant Figures",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "Solution",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "3 1 m 2 3 ",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "2 1000 cm 10 m 6 3 10 cm",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "Example 1 in 2 . 54 cm 1 2 . 54 cm 1 in",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "2 . 54 cm 1 in 1 in 2 . 54 cm 1 day 24 h",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "24 h 1 day 1 h 60 min",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "1 60 min 1 h",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "2 . 54 cm 1 in",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "24 h 60 min s day 2 1 day h min 2 . 54 cm",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "1 in",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "Example",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "1 m 100 cm 1 100 cm 1 m",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "3 3 1 m 3 1  6 3 100 cm",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.6
+      },
+      {
+        "text": "12 12 g / mol C",
+        "level": 4,
+        "page": 18,
+        "font_size": 10.5
+      },
+      {
+        "text": " 23 12 1 . 992648 10 g / Catom 23 6 . 0221367 10 atoms/mol",
+        "level": 4,
+        "page": 18,
+        "font_size": 10.5
+      },
+      {
+        "text": "mass of that element in the compound 100 molar mass of th e compound",
+        "level": 4,
+        "page": 19,
+        "font_size": 9.8
+      },
+      {
+        "text": "16.00 100 18.02",
+        "level": 4,
+        "page": 19,
+        "font_size": 11.0
+      },
+      {
+        "text": "24.02g 100 46.068g",
+        "level": 4,
+        "page": 19,
+        "font_size": 11.0
+      },
+      {
+        "text": "6.048g 100 4.07 g 46.068g",
+        "level": 4,
+        "page": 19,
+        "font_size": 11.0
+      },
+      {
+        "text": "1.008g 16.00g 24.27 g 100 2 .",
+        "level": 4,
+        "page": 19,
+        "font_size": 11.0
+      },
+      {
+        "text": "46.068g 12 . 01 g 71.65g",
+        "level": 4,
+        "page": 19,
+        "font_size": 11.0
+      },
+      {
+        "text": "2 . 021 35 . 453 g",
+        "level": 4,
+        "page": 19,
+        "font_size": 11.0
+      },
+      {
+        "text": "Mass Density Volume",
+        "level": 4,
+        "page": 20,
+        "font_size": 11.0
+      },
+      {
+        "text": "1.10.1 Limiting Reagent",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.10.2 Reactions in Solutions",
+        "level": 4,
+        "page": 21,
+        "font_size": 12.0
+      },
+      {
+        "text": "1000 g N 1 mol N 2 50 . 0 kg N 2 1 kg N 28 . 0 g N",
+        "level": 4,
+        "page": 22,
+        "font_size": 11.0
+      },
+      {
+        "text": "18g H O 2 1000 g H 1 mol H 2 10 . 00 kg H 1mol H O 2 2 1 kg H 2 . 016 g H",
+        "level": 4,
+        "page": 22,
+        "font_size": 11.0
+      },
+      {
+        "text": "18g H O 2 1mol H O",
+        "level": 4,
+        "page": 22,
+        "font_size": 11.0
+      },
+      {
+        "text": "3 mol H g  2 17 . 86 10 mol N 2 1 mol N g ",
+        "level": 4,
+        "page": 22,
+        "font_size": 12.9
+      },
+      {
+        "text": "2 mol NH g  3 1 molCO g  2 3 mol H g ",
+        "level": 4,
+        "page": 22,
+        "font_size": 12.9
+      },
+      {
+        "text": "44 gCO g ",
+        "level": 4,
+        "page": 22,
+        "font_size": 12.9
+      },
+      {
+        "text": "17 . 0 g NH g  3 1 mol NH g ",
+        "level": 4,
+        "page": 22,
+        "font_size": 12.9
+      },
+      {
+        "text": "3. Molarity",
+        "level": 4,
+        "page": 23,
+        "font_size": 12.0
+      },
+      {
+        "text": "No. of moles of solute",
+        "level": 4,
+        "page": 23,
+        "font_size": 11.0
+      },
+      {
+        "text": "1. Mass per cent",
+        "level": 4,
+        "page": 23,
+        "font_size": 12.0
+      },
+      {
+        "text": "Volume of solution in litres",
+        "level": 4,
+        "page": 23,
+        "font_size": 11.0
+      },
+      {
+        "text": "1000 mL 0 . 2 mol solution 1 mol",
+        "level": 4,
+        "page": 23,
+        "font_size": 11.0
+      },
+      {
+        "text": "2. Mole Fraction",
+        "level": 4,
+        "page": 23,
+        "font_size": 12.0
+      },
+      {
+        "text": "No. of moles of solute = Mass of solvent in kg",
+        "level": 4,
+        "page": 24,
+        "font_size": 10.5
+      },
+      {
+        "text": "3 mol = 1 . 0745 kg",
+        "level": 4,
+        "page": 24,
+        "font_size": 10.2
+      },
+      {
+        "text": "4. Molality",
+        "level": 4,
+        "page": 24,
+        "font_size": 12.0
+      },
+      {
+        "text": "0.02856 298.15 0.112 0 . 5785",
+        "level": 4,
+        "page": 28,
+        "font_size": 9.5
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "structure of atom",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "Objectives",
+        "level": 3,
+        "page": 1,
+        "font_size": 15.5
+      },
+      {
+        "text": "• • •",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "α β γ α",
+        "level": 4,
+        "page": 5,
+        "font_size": 9.5
+      },
+      {
+        "text": "γ α ∼",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.5
+      },
+      {
+        "text": "α β α α γ α",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.5
+      },
+      {
+        "text": "12 13 14 C, C 6 35",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.5
+      },
+      {
+        "text": "17 Cl, Cl",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.5
+      },
+      {
+        "text": "80 Br",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "80 Br 35 m 1 2 G. 2 r",
+        "level": 4,
+        "page": 8,
+        "font_size": 11.0
+      },
+      {
+        "text": "λ λ ν",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.5
+      },
+      {
+        "text": "ν ν ν",
+        "level": 4,
+        "page": 14,
+        "font_size": 10.5
+      },
+      {
+        "text": "× ν ×",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.5
+      },
+      {
+        "text": "h c = E 34 8 1 6.626 10 J s 3.0 m s",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.0
+      },
+      {
+        "text": "19 3.84 10 J",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.0
+      },
+      {
+        "text": " 34 8 1 6.626 10 J s 3 m s",
+        "level": 4,
+        "page": 15,
+        "font_size": 11.0
+      },
+      {
+        "text": " 9 400 10 m ν × ×",
+        "level": 4,
+        "page": 15,
+        "font_size": 11.0
+      },
+      {
+        "text": " 1 100 J s 20  1 2 . 012 10 s",
+        "level": 4,
+        "page": 15,
+        "font_size": 11.0
+      },
+      {
+        "text": " 19 4 . 969 10 J",
+        "level": 4,
+        "page": 15,
+        "font_size": 11.0
+      },
+      {
+        "text": "ν × ×",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.5
+      },
+      {
+        "text": "× × × ×",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.5
+      },
+      {
+        "text": "× ω ω",
+        "level": 4,
+        "page": 18,
+        "font_size": 10.0
+      },
+      {
+        "text": "h m v r n . e",
+        "level": 4,
+        "page": 18,
+        "font_size": 11.0
+      },
+      {
+        "text": "1 E R n H 2 n",
+        "level": 4,
+        "page": 19,
+        "font_size": 11.0
+      },
+      {
+        "text": "R H E 2 n f i ∞",
+        "level": 4,
+        "page": 20,
+        "font_size": 10.5
+      },
+      {
+        "text": "1  18 R 2 . 18 10 J ∆ H 2 n i f",
+        "level": 4,
+        "page": 20,
+        "font_size": 10.5
+      },
+      {
+        "text": "2 Z  18 E 2 . 18 10 J n 2 n",
+        "level": 4,
+        "page": 20,
+        "font_size": 10.5
+      },
+      {
+        "text": "2 52 . 9 ( n )  18 r pm 2 . 18 10 J 1 n Z  34 2 6 . 626 10 Js n i f",
+        "level": 4,
+        "page": 20,
+        "font_size": 10.5
+      },
+      {
+        "text": "1 15 3 . 29 10 Hz 2 n i f",
+        "level": 4,
+        "page": 20,
+        "font_size": 10.5
+      },
+      {
+        "text": "15  1 3 . 29 10 s 1 = 8  s 2 3 10 m s n i f",
+        "level": 4,
+        "page": 20,
+        "font_size": 11.0
+      },
+      {
+        "text": "1 7  1 = 1 . 09677 10 m 2 n i f",
+        "level": 4,
+        "page": 20,
+        "font_size": 11.0
+      },
+      {
+        "text": "1  18 E = 2 . 18 10 J 2 5",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": " 19 = 4 . 58 10 J",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": " 18 2 ( 2 . 18 10 J ) Z E n 2 n",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": " 18 2 ( 2 . 18 10 J )( )  18 E 8 . 72 10 J 1 2",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": "2 ( 0 . 0529 nm ) n r n Z",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": "2 ( 0 . 0529 nm ) 1 r 0 . 02645 nm n λ",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": " 34 h ( 6 . 626 10 Js )",
+        "level": 4,
+        "page": 22,
+        "font_size": 11.0
+      },
+      {
+        "text": " 1 m v ( 0 . 1 kg )( 10 m s )",
+        "level": 4,
+        "page": 22,
+        "font_size": 11.0
+      },
+      {
+        "text": " 31 m 9 . 1 10 kg m v p",
+        "level": 4,
+        "page": 22,
+        "font_size": 10.5
+      },
+      {
+        "text": "34 h 6 . 626 10 Js 31 1 m v ( 9 . 1 10 kg )( 812 m s )",
+        "level": 4,
+        "page": 22,
+        "font_size": 11.7
+      },
+      {
+        "text": " 4 2 1 10 m s 4  1 10 ms",
+        "level": 4,
+        "page": 24,
+        "font_size": 11.5
+      },
+      {
+        "text": " 8 10 m",
+        "level": 4,
+        "page": 24,
+        "font_size": 11.5
+      },
+      {
+        "text": "13 16 24 56 88 C , O Mg Fe Sr 6 8 12 26",
+        "level": 4,
+        "page": 41,
+        "font_size": 9.5
+      },
+      {
+        "text": "79 35 Br Br 35",
+        "level": 4,
+        "page": 43,
+        "font_size": 10.0
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Classification of Elements and",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "Periodicity in Properties",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "Z s p d",
+        "level": 4,
+        "page": 1,
+        "font_size": 9.0
+      },
+      {
+        "text": "X-ray spectra X Z",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.5
+      },
+      {
+        "text": "i.e.",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.5
+      },
+      {
+        "text": "n s s",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "s K n s",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "s p L",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "s p n",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "s s p",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "n s p",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "Z d s Z",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "d s p n",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "n d s, p,",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "Z d, f p n",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "s f d p f Z",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "Z f n",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "s f d p n",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "Z f f f",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "s p n l d s p",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "s d p",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "ns aufbau",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "Og Ts",
+        "level": 4,
+        "page": 10,
+        "font_size": 9.3
+      },
+      {
+        "text": "n- d ns",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.5
+      },
+      {
+        "text": "s- s",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.5
+      },
+      {
+        "text": "Z Z n f",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.5
+      },
+      {
+        "text": "ns np n d ns f",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.5
+      },
+      {
+        "text": "ns np",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.5
+      },
+      {
+        "text": "f d s p Z n- d ns",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.5
+      },
+      {
+        "text": "Variation of atomic radius with atomic number for alkali metals and halogens",
+        "level": 4,
+        "page": 14,
+        "font_size": 9.5
+      },
+      {
+        "text": "∆ H i",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.5
+      },
+      {
+        "text": "First ionization enthalpies ( H) of elements of the second period as a i function of atomic number (Z) and H of alkali metals as a function of Z. i",
+        "level": 4,
+        "page": 15,
+        "font_size": 9.5
+      },
+      {
+        "text": "s p s",
+        "level": 4,
+        "page": 16,
+        "font_size": 10.5
+      },
+      {
+        "text": "p- p",
+        "level": 4,
+        "page": 16,
+        "font_size": 10.5
+      },
+      {
+        "text": "p- ns p",
+        "level": 4,
+        "page": 16,
+        "font_size": 10.5
+      },
+      {
+        "text": "p s- p- p",
+        "level": 4,
+        "page": 16,
+        "font_size": 10.5
+      },
+      {
+        "text": "s p d",
+        "level": 4,
+        "page": 20,
+        "font_size": 10.5
+      },
+      {
+        "text": "BF  ",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.2
+      },
+      {
+        "text": "AlF   6 p p",
+        "level": 3,
+        "page": 20,
+        "font_size": 13.3
+      },
+      {
+        "text": "π ≡ ≡ Ν",
+        "level": 4,
+        "page": 20,
+        "font_size": 10.5
+      },
+      {
+        "text": "f s- p",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": "s-, p-, d- f- ns np n d ns f",
+        "level": 4,
+        "page": 24,
+        "font_size": 9.5
+      },
+      {
+        "text": "∆ H eg",
+        "level": 4,
+        "page": 25,
+        "font_size": 9.5
+      },
+      {
+        "text": "p p d",
+        "level": 4,
+        "page": 25,
+        "font_size": 9.5
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "CHEMICAL BONDING AND MOLECULAR STRUCTURE",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "→ ∆ →",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.5
+      },
+      {
+        "text": "∆ ≡ →",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "502 427",
+        "level": 4,
+        "page": 10,
+        "font_size": 11.0
+      },
+      {
+        "text": "σ π σ",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": "2 1 2 S p x y z",
+        "level": 4,
+        "page": 23,
+        "font_size": 10.0
+      },
+      {
+        "text": "σ = ψ ψ σ ψ",
+        "level": 4,
+        "page": 27,
+        "font_size": 10.5
+      },
+      {
+        "text": "ψ ψ σ = ψ",
+        "level": 4,
+        "page": 27,
+        "font_size": 10.5
+      },
+      {
+        "text": "σ σ ψ",
+        "level": 4,
+        "page": 27,
+        "font_size": 10.5
+      },
+      {
+        "text": "σ π δ",
+        "level": 4,
+        "page": 28,
+        "font_size": 10.5
+      },
+      {
+        "text": "∗ σ π σ π",
+        "level": 4,
+        "page": 29,
+        "font_size": 10.5
+      },
+      {
+        "text": "∗ π ∗ π",
+        "level": 4,
+        "page": 30,
+        "font_size": 10.5
+      },
+      {
+        "text": "N 2 0 b a 1",
+        "level": 4,
+        "page": 30,
+        "font_size": 11.0
+      },
+      {
+        "text": "∗ ∗ π2 π σ",
+        "level": 4,
+        "page": 31,
+        "font_size": 10.5
+      },
+      {
+        "text": "∗ π2 π ∗ π2 π",
+        "level": 4,
+        "page": 31,
+        "font_size": 10.5
+      },
+      {
+        "text": "– – – H –F – – –H – F",
+        "level": 3,
+        "page": 32,
+        "font_size": 12.0
+      },
+      {
+        "text": "H + – X – – – H – X",
+        "level": 3,
+        "page": 33,
+        "font_size": 12.0
+      },
+      {
+        "text": "AlCl Cl 3",
+        "level": 4,
+        "page": 35,
+        "font_size": 9.5
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "Unit",
+        "level": 3,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Thermodynamics",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "The energy of an isolated system is constant.",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.5
+      },
+      {
+        "text": "V f w p dV ex ",
+        "level": 2,
+        "page": 6,
+        "font_size": 16.5
+      },
+      {
+        "text": "V f w p dV ( dp ) rev ex in ",
+        "level": 2,
+        "page": 7,
+        "font_size": 16.5
+      },
+      {
+        "text": "V f w p d V rev in ",
+        "level": 2,
+        "page": 7,
+        "font_size": 16.5
+      },
+      {
+        "text": "V i V f",
+        "level": 4,
+        "page": 7,
+        "font_size": 11.0
+      },
+      {
+        "text": "n R T p V",
+        "level": 4,
+        "page": 7,
+        "font_size": 11.0
+      },
+      {
+        "text": "V f V dV f w n R T ln rev ",
+        "level": 2,
+        "page": 7,
+        "font_size": 16.5
+      },
+      {
+        "text": "V i V i V f",
+        "level": 4,
+        "page": 7,
+        "font_size": 11.0
+      },
+      {
+        "text": "V i Free expansion:",
+        "level": 4,
+        "page": 7,
+        "font_size": 11.0
+      },
+      {
+        "text": "U q p V ex",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "V f log V s",
+        "level": 4,
+        "page": 7,
+        "font_size": 11.2
+      },
+      {
+        "text": "(a) A Useful New State Function",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "q coeff T",
+        "level": 4,
+        "page": 9,
+        "font_size": 11.0
+      },
+      {
+        "text": "C = n",
+        "level": 4,
+        "page": 9,
+        "font_size": 11.0
+      },
+      {
+        "text": "q c m T C",
+        "level": 4,
+        "page": 10,
+        "font_size": 11.0
+      },
+      {
+        "text": "C T U V C T H p",
+        "level": 4,
+        "page": 10,
+        "font_size": 11.0
+      },
+      {
+        "text": "H U R T",
+        "level": 4,
+        "page": 10,
+        "font_size": 11.0
+      },
+      {
+        "text": "C T R p V C R p V",
+        "level": 4,
+        "page": 10,
+        "font_size": 11.0
+      },
+      {
+        "text": " 1 12 . 0 g mol 20 7 kJ  ",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "a H b H  i products reactants i",
+        "level": 2,
+        "page": 11,
+        "font_size": 16.5
+      },
+      {
+        "text": "∆ H = a − b H ∑ r i Pr oducts reac tan ts i  ",
+        "level": 2,
+        "page": 12,
+        "font_size": 16.5
+      },
+      {
+        "text": "H fus",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.5
+      },
+      {
+        "text": "O(1) → O(g) 2 1mol",
+        "level": 4,
+        "page": 13,
+        "font_size": 10.0
+      },
+      {
+        "text": "18g = =1 mol –1 18g mol",
+        "level": 4,
+        "page": 13,
+        "font_size": 11.4
+      },
+      {
+        "text": "H vap",
+        "level": 4,
+        "page": 13,
+        "font_size": 10.5
+      },
+      {
+        "text": "Fe O s 3 H g 2 l ,  2",
+        "level": 4,
+        "page": 16,
+        "font_size": 12.6
+      },
+      {
+        "text": "1 3 Fe O s H g l  2 3",
+        "level": 4,
+        "page": 16,
+        "font_size": 12.6
+      },
+      {
+        "text": "1 1 2 2 ",
+        "level": 4,
+        "page": 16,
+        "font_size": 11.0
+      },
+      {
+        "text": "1 C graphite , s O g CO ;    2 C H O ( g ) 6 CO 1 ); 2 6",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.9
+      },
+      {
+        "text": "6 C graphite 3 H g l ;    2",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.9
+      },
+      {
+        "text": " (a) Standard Enthalpy of Combustion",
+        "level": 4,
+        "page": 17,
+        "font_size": 10.5
+      },
+      {
+        "text": "(symbol : H ) c",
+        "level": 4,
+        "page": 17,
+        "font_size": 10.5
+      },
+      {
+        "text": "15 C H l O 6 CO g 3 ;   6 2",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.9
+      },
+      {
+        "text": "C graphite O g CO ;   ",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.9
+      },
+      {
+        "text": "1 H g O l ;  2 2 13 ",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.9
+      },
+      {
+        "text": "C H ( g ) O 4 CO 5 1 ); 4 10 2",
+        "level": 4,
+        "page": 17,
+        "font_size": 11.0
+      },
+      {
+        "text": "6 C graphite O g CO ;   ",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.9
+      },
+      {
+        "text": "  (c) Bond Enthalpy (symbol: H bond 3 3 H g O 1 ; ",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.9
+      },
+      {
+        "text": "15 6 C graphite 3 H g OCO 2 2 3 H O l ;",
+        "level": 4,
+        "page": 18,
+        "font_size": 9.9
+      },
+      {
+        "text": "15 6 CO g 3 H O l C ;  2 6",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.9
+      },
+      {
+        "text": "Diatomic Molecules:",
+        "level": 4,
+        "page": 18,
+        "font_size": 10.5
+      },
+      {
+        "text": "(b) Enthalpy of Atomization",
+        "level": 4,
+        "page": 18,
+        "font_size": 10.5
+      },
+      {
+        "text": "(symbol: H a",
+        "level": 4,
+        "page": 18,
+        "font_size": 10.5
+      },
+      {
+        "text": "Polyatomic Molecules:",
+        "level": 4,
+        "page": 18,
+        "font_size": 10.5
+      },
+      {
+        "text": "CH (g) → C(g) + 4H(g);",
+        "level": 4,
+        "page": 18,
+        "font_size": 11.0
+      },
+      {
+        "text": " bond enthalpies  reactants   bond enthalpies  products",
+        "level": 2,
+        "page": 19,
+        "font_size": 16.5
+      },
+      {
+        "text": " **",
+        "level": 4,
+        "page": 19,
+        "font_size": 12.0
+      },
+      {
+        "text": "  1 Na ( g ) e",
+        "level": 4,
+        "page": 20,
+        "font_size": 11.0
+      },
+      {
+        "text": "(d) Lattice Enthalpy 1 Cl ( g ) 2",
+        "level": 4,
+        "page": 20,
+        "font_size": 11.0
+      },
+      {
+        "text": "  1  Na Cl s ( g ) ; ",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.6
+      },
+      {
+        "text": " 1 Cl ( g ) e",
+        "level": 4,
+        "page": 20,
+        "font_size": 11.0
+      },
+      {
+        "text": "Na ( s ) g",
+        "level": 4,
+        "page": 20,
+        "font_size": 11.0
+      },
+      {
+        "text": "Na (g) + Cl → (s) Fig. 5.9",
+        "level": 4,
+        "page": 20,
+        "font_size": 10.7
+      },
+      {
+        "text": "  (f) Enthalpy of Dilution",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": "(e) Enthalpy of Solution (symbol : H ) sol",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": "A spontaneous process is an irreversible process and may only be reversed by some external agency.",
+        "level": 4,
+        "page": 22,
+        "font_size": 10.5
+      },
+      {
+        "text": "1 1 2",
+        "level": 4,
+        "page": 22,
+        "font_size": 10.8
+      },
+      {
+        "text": "1 2 ",
+        "level": 4,
+        "page": 22,
+        "font_size": 10.8
+      },
+      {
+        "text": "q rev T",
+        "level": 4,
+        "page": 24,
+        "font_size": 10.0
+      },
+      {
+        "text": "S 0 total system surr",
+        "level": 4,
+        "page": 24,
+        "font_size": 11.0
+      },
+      {
+        "text": "q sys rev , T",
+        "level": 4,
+        "page": 24,
+        "font_size": 11.0
+      },
+      {
+        "text": "S sys surr",
+        "level": 4,
+        "page": 24,
+        "font_size": 11.0
+      },
+      {
+        "text": "iii 2 NaHCO s Na CO    3 2 CO g H O ",
+        "level": 4,
+        "page": 24,
+        "font_size": 12.9
+      },
+      {
+        "text": "H g 2 ",
+        "level": 4,
+        "page": 24,
+        "font_size": 12.9
+      },
+      {
+        "text": "4 Fe s 3 O g 2  2",
+        "level": 4,
+        "page": 25,
+        "font_size": 12.6
+      },
+      {
+        "text": "G = H T S sys",
+        "level": 4,
+        "page": 25,
+        "font_size": 10.0
+      },
+      {
+        "text": "G = H T S sys S   total sys surr",
+        "level": 4,
+        "page": 25,
+        "font_size": 14.2
+      },
+      {
+        "text": "G H T S",
+        "level": 4,
+        "page": 25,
+        "font_size": 10.0
+      },
+      {
+        "text": "3  1 1648 10 J mol  ",
+        "level": 4,
+        "page": 25,
+        "font_size": 14.0
+      },
+      {
+        "text": "298 K",
+        "level": 4,
+        "page": 25,
+        "font_size": 11.0
+      },
+      {
+        "text": "– 1 S 5530 JK mol r total – 1 549 . 4 JK mol  ",
+        "level": 4,
+        "page": 25,
+        "font_size": 12.6
+      },
+      {
+        "text": "H H sys surr S = surr T",
+        "level": 4,
+        "page": 26,
+        "font_size": 11.0
+      },
+      {
+        "text": "H sys S total sys T",
+        "level": 4,
+        "page": 26,
+        "font_size": 11.0
+      },
+      {
+        "text": "S 0 total",
+        "level": 4,
+        "page": 26,
+        "font_size": 11.0
+      },
+      {
+        "text": "H T S 0   sys",
+        "level": 4,
+        "page": 26,
+        "font_size": 14.2
+      },
+      {
+        "text": "n q rev T",
+        "level": 4,
+        "page": 27,
+        "font_size": 11.0
+      },
+      {
+        "text": " 3 –1 – 13 . 6 10 J mol  ",
+        "level": 4,
+        "page": 28,
+        "font_size": 13.7
+      },
+      {
+        "text": "–1 2 . 303 8 314 JK mol 298 K  ",
+        "level": 4,
+        "page": 28,
+        "font_size": 13.7
+      },
+      {
+        "text": "1 0 . 5 2 x : NO N O 2  2 4 1 0 .",
+        "level": 4,
+        "page": 28,
+        "font_size": 10.5
+      },
+      {
+        "text": "0 . 5 p 1 atm, N ONO 2 4 1 . 5",
+        "level": 4,
+        "page": 28,
+        "font_size": 11.0
+      },
+      {
+        "text": "1 atm. 1 .",
+        "level": 4,
+        "page": 28,
+        "font_size": 11.0
+      },
+      {
+        "text": "2 p   1 . 5 NO 2 2 p ( 1 . 5 ) 0 N O 2",
+        "level": 4,
+        "page": 28,
+        "font_size": 14.5
+      },
+      {
+        "text": "H a b  r i f products reactions f i",
+        "level": 4,
+        "page": 29,
+        "font_size": 14.2
+      },
+      {
+        "text": "q rev rev T T",
+        "level": 4,
+        "page": 29,
+        "font_size": 9.5
+      },
+      {
+        "text": "2 1 ",
+        "level": 4,
+        "page": 32,
+        "font_size": 10.1
+      }
+    ],
+    "chapter6": [
+      {
+        "text": "Unit",
+        "level": 3,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Equilibrium",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "N g 3 H 2 NH  2",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.9
+      },
+      {
+        "text": "C D ",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.9
+      },
+      {
+        "text": "K c A B ",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.9
+      },
+      {
+        "text": "2 NO K c = N O",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.6
+      },
+      {
+        "text": "2 –3 2.8 10 M = 3 3 . 0 10 M 4",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.6
+      },
+      {
+        "text": "K c K c",
+        "level": 4,
+        "page": 10,
+        "font_size": 9.5
+      },
+      {
+        "text": "n K c",
+        "level": 4,
+        "page": 10,
+        "font_size": 9.5
+      },
+      {
+        "text": "2 NH g  3 K c = 3 N g H ",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.9
+      },
+      {
+        "text": "1 . 2 10  ",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "3 2  2 1 . 5 10 3 0  ",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "n p = R T V",
+        "level": 4,
+        "page": 10,
+        "font_size": 11.0
+      },
+      {
+        "text": "2 − 2 NH g R T ) ( [ ] − 2 3 K R T ) ( c 3 N g H ) (",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "− 2 or K R T ) ( p c",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.6
+      },
+      {
+        "text": "p ( )( ) C D R T ) ( [ ] D C K p a b + a b ( )",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "p A B R T ( )( ) ) ( [ ] B A c d",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "C D [ ] c + d − a b ( )",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "R T ) ( 2 a b A B [ ] HI g ) (",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "K = c H g I ( ) 2 c d C D [ ] ∆ n R T K ) ( c 2 a b",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "A B p ) [ ] ( HI or K = c p ( )( ) H I",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.3
+      },
+      {
+        "text": "Further, since p HI g R T ) ( HI p I g R T ) ( I 2",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "p H g R T ) ( H 2",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "2 2 2 HI g R T ( ) p [ ] ) ( HI K p H g R T . I p ) ( ( )( ) 2 H I",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.4
+      },
+      {
+        "text": "2 HI g ( )",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "K c H g I ) (",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "2 p ( ) NH 3 K p 3 p ( )( ) N H",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.5
+      },
+      {
+        "text": "2 2 NH g R T ) ( [ ] 3 3 3 N g R T . H ) (",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.9
+      },
+      {
+        "text": "2 PCl Cl 1 . 59     3 2 K 1 . 79 c 1 . 41 PCl    ",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.3
+      },
+      {
+        "text": "2 b 4 ac  ",
+        "level": 2,
+        "page": 12,
+        "font_size": 16.1
+      },
+      {
+        "text": "x 2 a",
+        "level": 4,
+        "page": 12,
+        "font_size": 11.0
+      },
+      {
+        "text": "CaO s CO g  2 K c CaCO s ",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.6
+      },
+      {
+        "text": "Ni CO  ",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.6
+      },
+      {
+        "text": "4 K c 4 CO  ",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.9
+      },
+      {
+        "text": "2 AgNO   3 K c = 2 HNO  ",
+        "level": 4,
+        "page": 13,
+        "font_size": 13.3
+      },
+      {
+        "text": "2 p CO K p p CO",
+        "level": 4,
+        "page": 14,
+        "font_size": 11.0
+      },
+      {
+        "text": "• • 2 b 4 ac  ",
+        "level": 2,
+        "page": 14,
+        "font_size": 16.1
+      },
+      {
+        "text": "2 K = p /   p NO N O 2",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.4
+      },
+      {
+        "text": "CH g H O ) ( 4 2 Q c 3 CO g H ) (",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.9
+      },
+      {
+        "text": "a    H",
+        "level": 4,
+        "page": 26,
+        "font_size": 14.3
+      },
+      {
+        "text": " ",
+        "level": 4,
+        "page": 34,
+        "font_size": 10.5
+      },
+      {
+        "text": "[Salt] p H= pK log a [Acid]",
+        "level": 4,
+        "page": 36,
+        "font_size": 10.5
+      },
+      {
+        "text": "[Conjugate acid,BH+] pOH= p K +log b [Base,B]",
+        "level": 4,
+        "page": 36,
+        "font_size": 10.5
+      },
+      {
+        "text": "[Conjugate acid,BH ] p K - pH= p log w a [Base,B]",
+        "level": 4,
+        "page": 36,
+        "font_size": 10.0
+      },
+      {
+        "text": "[Conjugate acid,BH ] pH= p K log a [Base,B]",
+        "level": 4,
+        "page": 36,
+        "font_size": 10.0
+      },
+      {
+        "text": "[Conjugate acid,BH ] pH= 9 . 25 log [Base,B]",
+        "level": 4,
+        "page": 37,
+        "font_size": 11.0
+      },
+      {
+        "text": "M X x y",
+        "level": 4,
+        "page": 38,
+        "font_size": 10.9
+      },
+      {
+        "text": "HHX  ",
+        "level": 4,
+        "page": 39,
+        "font_size": 12.9
+      },
+      {
+        "text": "K X a",
+        "level": 4,
+        "page": 39,
+        "font_size": 11.0
+      },
+      {
+        "text": "HX H K   a",
+        "level": 4,
+        "page": 39,
+        "font_size": 12.9
+      },
+      {
+        "text": "4 5 NH O 3 2 K c 6 4 NO H O",
+        "level": 4,
+        "page": 42,
+        "font_size": 9.5
+      }
+    ]
+  },
+  "chemistry_part2": {
+    "chapter1": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "redox reactions",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "Reduced form)",
+        "level": 3,
+        "page": 17,
+        "font_size": 9.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Organic Chemistry – Some Basic Principles and Techniques",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "12 m 100 2 44 m",
+        "level": 4,
+        "page": 31,
+        "font_size": 11.6
+      },
+      {
+        "text": "2 m 100 1 18 m",
+        "level": 4,
+        "page": 31,
+        "font_size": 12.0
+      },
+      {
+        "text": "PV 273 1 Volumeof nitrogen atSTP 760 T",
+        "level": 4,
+        "page": 31,
+        "font_size": 11.8
+      },
+      {
+        "text": "12 0.198 100 (Letit be V mL) Percentageof carbon 44 0.246",
+        "level": 4,
+        "page": 31,
+        "font_size": 12.0
+      },
+      {
+        "text": "21.95% 2 0.1014",
+        "level": 4,
+        "page": 31,
+        "font_size": 12.0
+      },
+      {
+        "text": "18 0.246 4.58%",
+        "level": 4,
+        "page": 31,
+        "font_size": 12.0
+      },
+      {
+        "text": "28 V",
+        "level": 4,
+        "page": 32,
+        "font_size": 12.0
+      },
+      {
+        "text": "28 41.9 V mL N atSTP weighs g 2 41.9mLof nitrogen weighs g 22400 22400 28 V",
+        "level": 4,
+        "page": 32,
+        "font_size": 12.0
+      },
+      {
+        "text": "28 41.9 100 22400 m Percentageof nitrogen 22400 0.3",
+        "level": 3,
+        "page": 32,
+        "font_size": 12.2
+      },
+      {
+        "text": "17.46%",
+        "level": 3,
+        "page": 32,
+        "font_size": 12.2
+      },
+      {
+        "text": "273 700 50 Volumeof nitrogen atSTP 300",
+        "level": 4,
+        "page": 32,
+        "font_size": 12.0
+      },
+      {
+        "text": "41.9mL",
+        "level": 4,
+        "page": 32,
+        "font_size": 12.0
+      },
+      {
+        "text": "14 M 2(V V / 2) 100 1 Percentageof N 1000 m",
+        "level": 4,
+        "page": 33,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.4 M 2(V V / 2)",
+        "level": 4,
+        "page": 33,
+        "font_size": 12.0
+      },
+      {
+        "text": "Na SO + 2NH + 2H O 2 4 3 m",
+        "level": 4,
+        "page": 33,
+        "font_size": 12.0
+      },
+      {
+        "text": "14 M 2(V V / 2) g N 1 1000",
+        "level": 4,
+        "page": 33,
+        "font_size": 12.0
+      },
+      {
+        "text": "14 20 1000 atomicmassof X m g 1 14×20×100 molecular massof AgX",
+        "level": 4,
+        "page": 34,
+        "font_size": 12.0
+      },
+      {
+        "text": "Percentageof nitrogen =56.0% 1000×0.5",
+        "level": 4,
+        "page": 34,
+        "font_size": 12.0
+      },
+      {
+        "text": "80 0.12 g",
+        "level": 4,
+        "page": 34,
+        "font_size": 10.0
+      },
+      {
+        "text": "80 0.12 100 Percentage of bromine 188×0.15",
+        "level": 4,
+        "page": 34,
+        "font_size": 11.2
+      },
+      {
+        "text": "34.04%",
+        "level": 4,
+        "page": 34,
+        "font_size": 11.2
+      },
+      {
+        "text": "32 m 100 1 233 m",
+        "level": 4,
+        "page": 34,
+        "font_size": 12.0
+      },
+      {
+        "text": "32 m 100 1 Percentageof sulphur 233 m",
+        "level": 4,
+        "page": 34,
+        "font_size": 12.0
+      },
+      {
+        "text": "atomicmassof X m g 1 molecular massof AgX",
+        "level": 4,
+        "page": 34,
+        "font_size": 12.0
+      },
+      {
+        "text": "32 0.4813 g",
+        "level": 4,
+        "page": 35,
+        "font_size": 11.4
+      },
+      {
+        "text": "32 0.4813 100 Percentageof sulphur 233 0.157 42.10%",
+        "level": 4,
+        "page": 35,
+        "font_size": 10.7
+      },
+      {
+        "text": "32 m 1 g O 2 88 32 m 100 %",
+        "level": 4,
+        "page": 35,
+        "font_size": 11.1
+      },
+      {
+        "text": "88 m 31 m 100 % 1 1877 m",
+        "level": 4,
+        "page": 35,
+        "font_size": 11.1
+      },
+      {
+        "text": "62 m 100 1 %",
+        "level": 4,
+        "page": 35,
+        "font_size": 10.9
+      },
+      {
+        "text": "– HO →",
+        "level": 4,
+        "page": 37,
+        "font_size": 9.5
+      },
+      {
+        "text": "– C N →",
+        "level": 4,
+        "page": 38,
+        "font_size": 9.5
+      },
+      {
+        "text": "+ CH C O →",
+        "level": 4,
+        "page": 38,
+        "font_size": 9.5
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Hydrocarbons",
+        "level": 1,
+        "page": 1,
+        "font_size": 19.0
+      },
+      {
+        "text": "− + 2CH COO Na 2H O 3 2 Sodium acetate",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "↓ Electrolysts CH − + 2CO H 2NaOH 3",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "At anode:",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.5
+      },
+      {
+        "text": "hv homolysis CH (g) 20 CO 2H O(1); 4",
+        "level": 4,
+        "page": 9,
+        "font_size": 11.3
+      },
+      {
+        "text": "è -1 Ä H 890kJmol c (9.17)",
+        "level": 4,
+        "page": 9,
+        "font_size": 11.3
+      },
+      {
+        "text": "C H (g) 13/2O 4CO 5H O(1) 4 10 2 è -1 Ä H 2875.84kJmol c",
+        "level": 4,
+        "page": 9,
+        "font_size": 11.3
+      },
+      {
+        "text": "hv (9.18)",
+        "level": 4,
+        "page": 9,
+        "font_size": 11.3
+      },
+      {
+        "text": "3n 1 C H O nCO (n 1)H n 2n+2 2",
+        "level": 4,
+        "page": 9,
+        "font_size": 11.1
+      },
+      {
+        "text": "Anhy, AICI / HCI 3 CH (CH) ) 3 2 4 n -Hexane",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "CH CH–(CH ) –CH +CH –CH–CH CH",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "2-Methylpentane 3-Methylpenatone",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "CH Br 2 1–Bromopropane",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      },
+      {
+        "text": ". Homolysis",
+        "level": 3,
+        "page": 18,
+        "font_size": 14.5
+      },
+      {
+        "text": "But-2-ene\b Ethanoic acid",
+        "level": 4,
+        "page": 19,
+        "font_size": 12.0
+      },
+      {
+        "text": "Polythene (9.53)",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "15 C H O 6CO +3H 6 2 6",
+        "level": 4,
+        "page": 30,
+        "font_size": 12.0
+      }
+    ]
+  },
+  "biology": {
+    "chapter1": [
+      {
+        "text": "UNIT",
+        "level": 1,
+        "page": 1,
+        "font_size": 40.0
+      },
+      {
+        "text": "DIVERSITY IN THE LIVING WORLD",
+        "level": 3,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "THE LIVING WORLD",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "1.1 D L W",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "1.2 T C",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "1.2.1 Species",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.2.2 Genus",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.2.3 Family",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.2.4 Order",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.2.5 Class",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.2.6 Phylum",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.2.7 Kingdom",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "BIOLOGICAL CLASSIFICATION",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "2.1 K M",
+        "level": 2,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.1.1 Archaebacteria",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.1.2 Eubacteria",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.2 K P",
+        "level": 2,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.2.1 Chrysophytes",
+        "level": 3,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.2.2 Dinoflagellates",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.2.3 Euglenoids",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.2.4 Slime Moulds",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.2.5 Protozoans",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.3 K F",
+        "level": 2,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.3.1 Phycomycetes",
+        "level": 3,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.3.2 Ascomycetes",
+        "level": 3,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.3.3 Basidiomycetes",
+        "level": 3,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.3.4 Deuteromycetes",
+        "level": 3,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.4 K P",
+        "level": 2,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.5 K A",
+        "level": 2,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.6 V , V , P L",
+        "level": 2,
+        "page": 10,
+        "font_size": 13.0
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "PLANT KINGDOM",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "3.1 A",
+        "level": 2,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "3.1.1 Chlorophyceae",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "3.1.2 Phaeophyceae",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "3.1.3 Rhodophyceae",
+        "level": 3,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "3.2 B",
+        "level": 2,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "3.2.1 Liverworts",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "3.2.2 Mosses",
+        "level": 3,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "3.3 P",
+        "level": 2,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "3.4 G",
+        "level": 2,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "3.5 A",
+        "level": 2,
+        "page": 12,
+        "font_size": 13.0
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "ANIMAL KINGDOM",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "4.1 B C",
+        "level": 2,
+        "page": 1,
+        "font_size": 13.0
+      },
+      {
+        "text": "4.1.1 Levels of Organisation",
+        "level": 3,
+        "page": 1,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.1.2 Symmetry",
+        "level": 3,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.1.3 Diploblastic and Triploblastic Organisation",
+        "level": 3,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.1.4 Coelom",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.1.5 Segmentation",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.1.6 Notochord",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2 C A",
+        "level": 2,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "4.2.1 Phylum – Porifera",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.2 Phylum – Coelenterata (Cnidaria)",
+        "level": 3,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.3 Phylum – Ctenophora",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.4 Phylum – Platyhelminthes",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.5 Phylum – Aschelminthes",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.6 Phylum – Annelida",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.7 Phylum – Arthropoda",
+        "level": 3,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.8 Phylum – Mollusca",
+        "level": 3,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.9 Phylum – Echinodermata",
+        "level": 3,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.10 Phylum – Hemichordata",
+        "level": 3,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.11 Phylum – Chordata",
+        "level": 3,
+        "page": 9,
+        "font_size": 12.0
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "UNIT",
+        "level": 1,
+        "page": 1,
+        "font_size": 40.0
+      },
+      {
+        "text": "STRUCTURAL ORGANISATION IN PLANTS AND ANIMALS",
+        "level": 3,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "MORPHOLOGY OF FLOWERING PLANTS",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "5.1 T R",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.1.1 Regions of the Root",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.2 T S",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.3 T L",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.3.1 Venation",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.3.2 Types of Leaves",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.3.3 Phyllotaxy",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.4 T I",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.5 T F",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.5.1 Parts of a Flower",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.6 T F",
+        "level": 4,
+        "page": 11,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.7 T S",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.7.1 Structure of a Dicotyledonous Seed",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.7.2 Structure of Monocotyledonous Seed",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.8 S -T D T F P",
+        "level": 4,
+        "page": 13,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.9 S",
+        "level": 4,
+        "page": 14,
+        "font_size": 13.0
+      }
+    ],
+    "chapter6": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "ANATOMY OF FLOWERING PLANTS",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "6.1 T S",
+        "level": 2,
+        "page": 1,
+        "font_size": 13.0
+      },
+      {
+        "text": "6.1.1 Epidermal Tissue System",
+        "level": 3,
+        "page": 1,
+        "font_size": 12.0
+      },
+      {
+        "text": "6.1.2 The Ground Tissue System",
+        "level": 3,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "6.1.3 The Vascular Tissue System",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "6.2 A D M P",
+        "level": 2,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "6.2.1 Dicotyledonous Root",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "6.2.2 Monocotyledonous Root",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "6.2.3 Dicotyledonous Stem",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "6.2.4 Monocotyledonous Stem",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "6.2.5 Dorsiventral (Dicotyledonous) Leaf",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "6.2.6 Isobilateral (Monocotyledonous) Leaf",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      }
+    ],
+    "chapter7": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "STRUCTURAL ORGANISATION IN",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "ANIMALS",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "7.1 O S",
+        "level": 2,
+        "page": 1,
+        "font_size": 13.0
+      },
+      {
+        "text": "7.2 F",
+        "level": 2,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "7.2.1 Morphology",
+        "level": 3,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.2.2 Anatomy",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      }
+    ],
+    "chapter8": [
+      {
+        "text": "UNIT 3 CELL: STRUCTURE AND FUNCTIONS",
+        "level": 1,
+        "page": 1,
+        "font_size": 40.0
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "CELL : THE UNIT OF LIFE",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "8.1 W C",
+        "level": 3,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.2 C T",
+        "level": 3,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.3 A O C",
+        "level": 3,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.4 P C",
+        "level": 3,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.4.1 Cell Envelope and its Modifications",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.4.2 Ribosomes and Inclusion Bodies",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5 E C",
+        "level": 3,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "Nuclear envelope",
+        "level": 4,
+        "page": 8,
+        "font_size": 9.0
+      },
+      {
+        "text": "8.5.1 Cell Membrane",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.2 Cell Wall",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.3 Endomembrane System",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.4 Mitochondria",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.5 Plastids",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.6 Ribosomes",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.7 Cytoskeleton",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.8 Cilia and Flagella",
+        "level": 4,
+        "page": 15,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.9 Centrosome and Centrioles",
+        "level": 4,
+        "page": 15,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.10 Nucleus",
+        "level": 4,
+        "page": 16,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.5.11 Microbodies",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      }
+    ],
+    "chapter9": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "BIOMOLECULES",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "9.1 H A C",
+        "level": 2,
+        "page": 1,
+        "font_size": 13.0
+      },
+      {
+        "text": "9.2 P S M",
+        "level": 2,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "9.3 B",
+        "level": 2,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "9.4 P",
+        "level": 2,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "9.5 P",
+        "level": 2,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "O O O O",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.0
+      },
+      {
+        "text": "9.6 N A",
+        "level": 2,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "9.7 S P",
+        "level": 3,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.8 E",
+        "level": 2,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "9.8.1 Chemical Reactions",
+        "level": 3,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.8.2 How do Enzymes bring about such High Rates of Chemical Conversions?",
+        "level": 3,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "Transition�state Activation�energy",
+        "level": 4,
+        "page": 12,
+        "font_size": 9.6
+      },
+      {
+        "text": "without�enzyme",
+        "level": 4,
+        "page": 12,
+        "font_size": 9.6
+      },
+      {
+        "text": "Activation energy�with�enzyme Substrate�(s)",
+        "level": 4,
+        "page": 12,
+        "font_size": 9.6
+      },
+      {
+        "text": "Potential�Energy",
+        "level": 4,
+        "page": 12,
+        "font_size": 9.6
+      },
+      {
+        "text": "Product�(P) Progress�of�reaction",
+        "level": 4,
+        "page": 12,
+        "font_size": 9.6
+      },
+      {
+        "text": "9.8.3 Nature of Enzyme Action",
+        "level": 3,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.8.4 Factors Affecting Enzyme Activity",
+        "level": 3,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.8.5 Classification and Nomenclature of Enzymes",
+        "level": 3,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.8.6 Co-factors",
+        "level": 3,
+        "page": 14,
+        "font_size": 12.0
+      }
+    ],
+    "chapter10": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "CELL YCLE AND DIVISION",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "10.1 C",
+        "level": 2,
+        "page": 1,
+        "font_size": 13.0
+      },
+      {
+        "text": "10.1.1 Phases of Cell Cycle",
+        "level": 3,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.2 M P",
+        "level": 2,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "10.2.1 Prophase",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.2.2 Metaphase",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.2.3 Anaphase",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.2.4 Telophase",
+        "level": 3,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.2.5 Cytokinesis",
+        "level": 3,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.3 Significance of Mitosis",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.4 M",
+        "level": 2,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "10.4.1 Meiosis I 10.4.1 Meiosis I",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.4.2 Meiosis II",
+        "level": 3,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.5 S M",
+        "level": 2,
+        "page": 9,
+        "font_size": 13.0
+      }
+    ],
+    "chapter11": [
+      {
+        "text": "UNIT",
+        "level": 1,
+        "page": 1,
+        "font_size": 40.0
+      },
+      {
+        "text": "PLANT PHYSIOLOGY",
+        "level": 3,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "PHOTOSYNTHESIS IN HIGHER LANTS",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "11.1 W K",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.2 E E",
+        "level": 4,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "+   →",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.5
+      },
+      {
+        "text": "11.3 W P",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.4 H T P I P",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.5 W L R",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.6 T E",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.6.1 Splitting of Water",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "+ −  → +",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "11.6.2 Cyclic and Non-cyclic Photo-phosphorylation",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.6.3 Chemiosmotic Hypothesis",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.7 WATP NADPH U",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.7.1 The Primary Acceptor of CO",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.7.2 The Calvin Cycle",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.8 T C P",
+        "level": 4,
+        "page": 15,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.9 P",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.10 F P",
+        "level": 4,
+        "page": 19,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.10.1 Light",
+        "level": 4,
+        "page": 19,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.10.2 Carbon dioxide Concentration",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.10.3 Temperature",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.10.4 Water",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      }
+    ],
+    "chapter12": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "RESPIRATION IN PLANTS",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "12.1 D P B",
+        "level": 2,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "12.2 G",
+        "level": 2,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "12.3 F",
+        "level": 2,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "12.4 A R",
+        "level": 2,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "12.4.1 Tricarboxylic Acid Cycle",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "12.4.2 Electron Transport System (ETS) and Oxidative Phosphorylation",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "12.5 T R B S",
+        "level": 2,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "12.6 A P",
+        "level": 2,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "12.7 R Q",
+        "level": 2,
+        "page": 11,
+        "font_size": 13.0
+      }
+    ],
+    "chapter13": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "PLANT GROWTH AND DEVELOPMENT",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "13.1 G",
+        "level": 2,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "13.1.1 Plant Growth Generally is Indeterminate",
+        "level": 3,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.1.2 Growth is Measurable",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.1.3 Phases of Growth",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.1.4 Growth Rates",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.1.5 Conditions for Growth",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.2 D , D R",
+        "level": 2,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "13.3 D",
+        "level": 2,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "13.4 P G R 13.4.1 Characteristics",
+        "level": 2,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "13.4.2 The Discovery of Plant Growth Regulators",
+        "level": 3,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.4.3 Physiological Effects of Plant Growth Regulators",
+        "level": 3,
+        "page": 10,
+        "font_size": 12.0
+      }
+    ],
+    "chapter14": [
+      {
+        "text": "UNIT",
+        "level": 1,
+        "page": 1,
+        "font_size": 40.0
+      },
+      {
+        "text": "HUMAN PHYSIOLOGY",
+        "level": 3,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "BREATHING AND EXCHANGE OF GASES",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.8
+      },
+      {
+        "text": "14.1 R O",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "14.1.1 Human Respiratory System",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "14.2 M B",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "14.2.1 Respiratory V olumes and Respiratory Volumes and 14.2.1 Respiratory V olumes and Capacities",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "14.3 E G",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "14.4 T G",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "14.4.1 Transport of Oxygen",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "14.4.2 Transport of Carbon dioxide",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "14.5 R",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "14.6 D R S",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      }
+    ],
+    "chapter15": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "BODY FLUIDS AND CIRCULATION",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "15.1 B",
+        "level": 2,
+        "page": 1,
+        "font_size": 13.0
+      },
+      {
+        "text": "15.1.1 Plasma",
+        "level": 3,
+        "page": 1,
+        "font_size": 12.0
+      },
+      {
+        "text": "15.1.2 Formed Elements",
+        "level": 3,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "15.1.3 Blood Groups",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "15.1.4 Coagulation of Blood",
+        "level": 3,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "15.2 L (T F )",
+        "level": 2,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "15.3 C P",
+        "level": 2,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "15.3.1 Human Circulatory System",
+        "level": 3,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "15.3.2 Cardiac Cycle",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "15.3.3 Electrocardiogram (ECG)",
+        "level": 3,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "15.4 D C",
+        "level": 2,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "15.5 R C A",
+        "level": 2,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "15.6 D C S",
+        "level": 2,
+        "page": 10,
+        "font_size": 13.0
+      }
+    ],
+    "chapter16": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "EXCRETORY PRODUCTS AND",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "THEIR ELIMINATION",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "16.1 H E S",
+        "level": 2,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "Efferent arteriole",
+        "level": 3,
+        "page": 4,
+        "font_size": 9.5
+      },
+      {
+        "text": "Bowman’s capsule",
+        "level": 3,
+        "page": 4,
+        "font_size": 9.5
+      },
+      {
+        "text": "Proximal convoluted�tubule",
+        "level": 3,
+        "page": 4,
+        "font_size": 9.5
+      },
+      {
+        "text": "16.2 U F",
+        "level": 2,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "16.3 F T",
+        "level": 2,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "16.4 M C F",
+        "level": 2,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "16.5 R K F",
+        "level": 2,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "16.6 M",
+        "level": 2,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "16.7 R O E",
+        "level": 2,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "16.8 D E S",
+        "level": 2,
+        "page": 9,
+        "font_size": 13.0
+      }
+    ],
+    "chapter17": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "LOCOMOTION AND MOVEMENT",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "17.1 T M",
+        "level": 2,
+        "page": 1,
+        "font_size": 13.0
+      },
+      {
+        "text": "17.2 M",
+        "level": 2,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "17.2.1 Structure of Contractile Proteins",
+        "level": 3,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "17.2.2 Mechanism of Muscle Contraction",
+        "level": 3,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "17.3 S",
+        "level": 2,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "17.4 J",
+        "level": 2,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "17.5 D M S",
+        "level": 2,
+        "page": 11,
+        "font_size": 13.0
+      }
+    ],
+    "chapter18": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "NEURAL CONTROL AND",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "COORDINATION",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "18.1 N S",
+        "level": 2,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "18.2 H N S",
+        "level": 2,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "18.3 N S F U N S",
+        "level": 2,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "18.3.1 Generation and Conduction of Nerve Impulse",
+        "level": 3,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "+ + + - - - - - - +",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "+ - - - + + + + +",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.0
+      },
+      {
+        "text": "18.3.2 Transmission of Impulses",
+        "level": 3,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "18.4 C N S",
+        "level": 2,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "18.4.1 Forebrain",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "18.4.2 Midbrain",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "18.4.3 Hindbrain",
+        "level": 3,
+        "page": 7,
+        "font_size": 12.0
+      }
+    ],
+    "chapter19": [
+      {
+        "text": "CHAPTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "CHEMICAL OORDINATION",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "AND INTEGRATION",
+        "level": 1,
+        "page": 1,
+        "font_size": 26.8
+      },
+      {
+        "text": "19.1 E G H",
+        "level": 3,
+        "page": 1,
+        "font_size": 13.0
+      },
+      {
+        "text": "19.2 H E S",
+        "level": 3,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "19.2.1 The Hypothalamus",
+        "level": 4,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.2.2 The Pituitary Gland",
+        "level": 4,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.2.3 The Pineal Gland",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.2.4 Thyroid Gland",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.2.5 Parathyroid Gland",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.2.6 Thymus",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.2.7 Adrenal Gland",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.2.8 Pancreas",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.2.9 Testis",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.2.10 Ovary",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "19.3 H , K G T",
+        "level": 3,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "19.4 M H A",
+        "level": 3,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "NOTE",
+        "level": 2,
+        "page": 14,
+        "font_size": 18.0
+      }
+    ]
+  }
+}

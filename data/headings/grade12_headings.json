@@ -1,0 +1,5732 @@
+{
+  "physics_part1": {
+    "chapter1": [
+      {
+        "text": "Chapter One",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "ELECTRIC CHARGES",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "AND FIELDS",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "1.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.2 ELECTRIC CHARGE",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "Electric Charges and Fields",
+        "level": 4,
+        "page": 3,
+        "font_size": 15.0
+      },
+      {
+        "text": "1.3 CONDUCTORS AND INSULATORS",
+        "level": 4,
+        "page": 3,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.4 BASIC PROPERTIES OF ELECTRIC CHARGE",
+        "level": 4,
+        "page": 4,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.4.1 Additivity of charges",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.4.2 Charge is conserved",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.4.3 Quantisation of charge",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.5 COULOMB ’ S LAW",
+        "level": 4,
+        "page": 6,
+        "font_size": 16.0
+      },
+      {
+        "text": "CHARLES AUGUSTIN DE COULOMB (1736 –1806)",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "1.6 FORCES BETWEEN MULTIPLE CHARGES",
+        "level": 4,
+        "page": 11,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.7 ELECTRIC FIELD",
+        "level": 4,
+        "page": 14,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.7.1 Electric field due to a system of charges",
+        "level": 4,
+        "page": 15,
+        "font_size": 12.0
+      },
+      {
+        "text": "r ∑ ε",
+        "level": 4,
+        "page": 16,
+        "font_size": 15.6
+      },
+      {
+        "text": "1.7.2 Physical significance of electric field",
+        "level": 4,
+        "page": 16,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.8 ELECTRIC FIELD LINES",
+        "level": 4,
+        "page": 19,
+        "font_size": 16.0
+      },
+      {
+        "text": "is at",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.9 ELECTRIC FLUX",
+        "level": 4,
+        "page": 21,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.10 ELECTRIC DIPOLE",
+        "level": 4,
+        "page": 23,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.10.1 The field of an electric dipole",
+        "level": 4,
+        "page": 23,
+        "font_size": 12.0
+      },
+      {
+        "text": "+ − ε",
+        "level": 4,
+        "page": 24,
+        "font_size": 10.0
+      },
+      {
+        "text": "1.10.2 Physical significance of dipoles",
+        "level": 4,
+        "page": 25,
+        "font_size": 12.0
+      },
+      {
+        "text": "ε 0 −",
+        "level": 4,
+        "page": 27,
+        "font_size": 9.4
+      },
+      {
+        "text": "1.11 DIPOLE IN A UNIFORM EXTERNAL FIELD",
+        "level": 4,
+        "page": 27,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.12 CONTINUOUS CHARGE DISTRIBUTION",
+        "level": 4,
+        "page": 28,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.13 GAUSS ’ S LAW",
+        "level": 4,
+        "page": 29,
+        "font_size": 16.0
+      },
+      {
+        "text": "ˆ r ˆ r",
+        "level": 4,
+        "page": 29,
+        "font_size": 12.6
+      },
+      {
+        "text": "( ) ( )",
+        "level": 4,
+        "page": 32,
+        "font_size": 12.7
+      },
+      {
+        "text": "1.14 APPLICATIONS OF GAUSS ’ S LAW",
+        "level": 4,
+        "page": 33,
+        "font_size": 16.0
+      },
+      {
+        "text": "1.14.1 Field due to an infinitely long straight uniformly charged wire",
+        "level": 4,
+        "page": 33,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.14.2 Field due to a uniformly charged infinite plane sheet",
+        "level": 4,
+        "page": 34,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.14.3 Field due to a uniformly charged thin spherical shell",
+        "level": 4,
+        "page": 35,
+        "font_size": 12.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 42,
+        "font_size": 16.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "Chapter Two",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "ELECTROSTATIC",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "POTENTIAL AND",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "CAPACITANCE",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "NTRODUCTION 2.1 I",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "Electrostatic Potential and Capacitance",
+        "level": 4,
+        "page": 3,
+        "font_size": 15.0
+      },
+      {
+        "text": "COUNT ALESSANDRO VOLTA (1745 –1827)",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.2 ELECTROSTATIC POTENTIAL",
+        "level": 4,
+        "page": 3,
+        "font_size": 16.0
+      },
+      {
+        "text": "2.3 POTENTIAL DUE TO A POINT CHARGE",
+        "level": 4,
+        "page": 4,
+        "font_size": 16.0
+      },
+      {
+        "text": "∫ ε ∞ ∞",
+        "level": 4,
+        "page": 4,
+        "font_size": 15.7
+      },
+      {
+        "text": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE",
+        "level": 4,
+        "page": 5,
+        "font_size": 16.0
+      },
+      {
+        "text": "− θ θ",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.5
+      },
+      {
+        "text": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES",
+        "level": 4,
+        "page": 7,
+        "font_size": 16.0
+      },
+      {
+        "text": "v v.",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.6 EQUIPOTENTIAL SURFACES",
+        "level": 4,
+        "page": 10,
+        "font_size": 16.0
+      },
+      {
+        "text": "2.6.1 Relation between field and potential",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "δ δ δ",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.5
+      },
+      {
+        "text": "2.7 POTENTIAL ENERGY OF A SYSTEM CHARGES",
+        "level": 4,
+        "page": 11,
+        "font_size": 16.0
+      },
+      {
+        "text": "( ) ε",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.8
+      },
+      {
+        "text": "2.8 POTENTIAL ENERGY IN AN XTERNAL FIELD 2.8.1 Potential energy of a single charge",
+        "level": 4,
+        "page": 14,
+        "font_size": 16.0
+      },
+      {
+        "text": "2.8.2 Potential energy of a system of two charges in an external field",
+        "level": 4,
+        "page": 15,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.8.3 Potential energy of a dipole in an external field",
+        "level": 4,
+        "page": 16,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.9 ELECTROSTATICS OF CONDUCTORS",
+        "level": 4,
+        "page": 17,
+        "font_size": 16.0
+      },
+      {
+        "text": "1. Inside a conductor, electrostatic field is zero",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      },
+      {
+        "text": "2. At the surface of a charged conductor, electrostatic field must be normal to the surface at every point",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      },
+      {
+        "text": "3. The interior of a conductor can have no excess charge in the static situation",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      },
+      {
+        "text": "4. Electrostatic potential is constant throughout the volume of the conductor and has the same value (as inside) on its surface",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      },
+      {
+        "text": "5. Electric field at the surface of a charged conductor",
+        "level": 4,
+        "page": 19,
+        "font_size": 12.0
+      },
+      {
+        "text": "6. Electrostatic shielding",
+        "level": 4,
+        "page": 19,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.10 DIELECTRICS AND POLARISATION",
+        "level": 4,
+        "page": 21,
+        "font_size": 16.0
+      },
+      {
+        "text": "2.11 CAPACITORS AND CAPACITANCE",
+        "level": 4,
+        "page": 23,
+        "font_size": 16.0
+      },
+      {
+        "text": "2.12 THE PARALLEL LATE CAPACITOR",
+        "level": 4,
+        "page": 24,
+        "font_size": 16.0
+      },
+      {
+        "text": "http://micro.magnet.fsu.edu/electromag/java/capacitance/ Interactive Java tutorial Factors affecting capacitance, capacitors in action",
+        "level": 4,
+        "page": 25,
+        "font_size": 10.0
+      },
+      {
+        "text": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE",
+        "level": 4,
+        "page": 25,
+        "font_size": 16.0
+      },
+      {
+        "text": "2.14 COMBINATION OF CAPACITORS",
+        "level": 4,
+        "page": 27,
+        "font_size": 16.0
+      },
+      {
+        "text": "2.14.1 Capacitors in series",
+        "level": 4,
+        "page": 27,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.14.2 Capacitors in parallel",
+        "level": 4,
+        "page": 28,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.15 ENERGY STORED IN A CAPACITOR",
+        "level": 4,
+        "page": 29,
+        "font_size": 16.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 35,
+        "font_size": 16.0
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "Chapter Three",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "CURRENT",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "ELECTRICITY",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "3.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "3.2 ELECTRIC CURRENT",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "3.3 ELECTRIC CURRENTS IN ONDUCTORS",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "Current Electricity",
+        "level": 4,
+        "page": 3,
+        "font_size": 15.0
+      },
+      {
+        "text": "3.4 OHM ’ S LAW",
+        "level": 4,
+        "page": 3,
+        "font_size": 16.0
+      },
+      {
+        "text": "GEORG SIMON OHM (1787–1854)",
+        "level": 4,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY",
+        "level": 4,
+        "page": 5,
+        "font_size": 16.0
+      },
+      {
+        "text": "3.5.1 Mobility",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "3.6 LIMITATIONS OF OHM ’ S LAW",
+        "level": 4,
+        "page": 9,
+        "font_size": 16.0
+      },
+      {
+        "text": "3.7 RESISTIVITY OF VARIOUS MATERIALS",
+        "level": 4,
+        "page": 9,
+        "font_size": 16.0
+      },
+      {
+        "text": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY",
+        "level": 4,
+        "page": 10,
+        "font_size": 16.0
+      },
+      {
+        "text": "3.9 ELECTRICAL ENERGY , POWER",
+        "level": 4,
+        "page": 12,
+        "font_size": 16.0
+      },
+      {
+        "text": "3.10 CELLS , EMF , INTERNAL RESISTANCE",
+        "level": 4,
+        "page": 13,
+        "font_size": 16.0
+      },
+      {
+        "text": "3.11 CELLS IN ERIES AND ARALLEL 3.11 S P",
+        "level": 4,
+        "page": 15,
+        "font_size": 16.0
+      },
+      {
+        "text": "– V ( A ) B I r",
+        "level": 4,
+        "page": 15,
+        "font_size": 11.2
+      },
+      {
+        "text": "GUSTAV ROBERT KIRCHHOFF (1824 –",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "3.12 KIRCHHOFF ’ S RULES",
+        "level": 4,
+        "page": 17,
+        "font_size": 16.0
+      },
+      {
+        "text": "http://www.phys.hawaii.edu/~teb/optics/java/kirch3/ Similation for application of Kirchhoff’s rules:",
+        "level": 4,
+        "page": 19,
+        "font_size": 10.0
+      },
+      {
+        "text": "3.13 WHEATSTONE BRIDGE",
+        "level": 4,
+        "page": 20,
+        "font_size": 16.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 25,
+        "font_size": 16.0
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "Chapter Four",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "MOVING CHARGES",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "AND MAGNETISM",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "4.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "4.2 MAGNETIC FORCE 4.2.1 Sources and fields",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "HANS CHRISTIAN OERSTED (1777–1851)",
+        "level": 4,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "Moving Charges and Magnetism",
+        "level": 4,
+        "page": 3,
+        "font_size": 15.0
+      },
+      {
+        "text": "HENDRIK ANTOON LORENTZ (1853 – 1928)",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "4.2.2 Magnetic Field, Lorentz Force",
+        "level": 4,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.3 Magnetic force on a current-carrying conductor",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "http://www.phys.hawaii.edu/~teb/optics/java/partmagn/index.html Interactive demonstration: Charged particles moving in a magnetic field.",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.0
+      },
+      {
+        "text": "4.3 MOTION IN A MAGNETIC FIELD",
+        "level": 4,
+        "page": 6,
+        "font_size": 16.0
+      },
+      {
+        "text": "v × B ,",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.5
+      },
+      {
+        "text": "2 m v",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.5
+      },
+      {
+        "text": "v ||",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.5
+      },
+      {
+        "text": "× × ×",
+        "level": 4,
+        "page": 7,
+        "font_size": 9.5
+      },
+      {
+        "text": "7 –1 –19 –4 r = m v / ( qB ) ×1 × × 10 m s / ( 1.6 × 10 C × 6 × 10 T) –2 = 28 × 10 m = 28 cm 6 –1 = v / (2 r ) = 17×10 s = 17×10 Hz =17 MHz.",
+        "level": 4,
+        "page": 7,
+        "font_size": 9.5
+      },
+      {
+        "text": "2 –31 14 –17 E = (½ ) mv = (½ ) 9 × 10 kg × 9 × 10 m /s = 40.5 ×10 J –16 4×10 J = 2.5 keV.",
+        "level": 4,
+        "page": 7,
+        "font_size": 9.5
+      },
+      {
+        "text": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT , BIOT -SAVART LAW",
+        "level": 4,
+        "page": 7,
+        "font_size": 16.0
+      },
+      {
+        "text": "l × l",
+        "level": 4,
+        "page": 7,
+        "font_size": 9.0
+      },
+      {
+        "text": "− ( )",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.4
+      },
+      {
+        "text": "y - x",
+        "level": 4,
+        "page": 8,
+        "font_size": 9.5
+      },
+      {
+        "text": "( ) r",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.6
+      },
+      {
+        "text": "4.5 MAGNETIC FIELD ON THE AXIS OF CIRCULAR CURRENT LOOP",
+        "level": 4,
+        "page": 9,
+        "font_size": 16.0
+      },
+      {
+        "text": "2 r = x + R",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "l l l ×",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "π ( )",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.4
+      },
+      {
+        "text": "l x x x",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.5
+      },
+      {
+        "text": "x - l",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.5
+      },
+      {
+        "text": "l x - x - x",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.5
+      },
+      {
+        "text": "l × r l × r",
+        "level": 4,
+        "page": 11,
+        "font_size": 9.5
+      },
+      {
+        "text": "4.6 AMPERE ’ S CIRCUITAL LAW",
+        "level": 4,
+        "page": 11,
+        "font_size": 16.0
+      },
+      {
+        "text": ". B dl= d l ]. t",
+        "level": 4,
+        "page": 12,
+        "font_size": 10.5
+      },
+      {
+        "text": "“ l I",
+        "level": 4,
+        "page": 12,
+        "font_size": 18.0
+      },
+      {
+        "text": "“ d l",
+        "level": 4,
+        "page": 12,
+        "font_size": 18.0
+      },
+      {
+        "text": "ANDRE AMPERE (1775 –1836)",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.0
+      },
+      {
+        "text": "4.7 THE SOLENOID",
+        "level": 4,
+        "page": 15,
+        "font_size": 16.0
+      },
+      {
+        "text": "h . I = I (n h ) , e",
+        "level": 4,
+        "page": 16,
+        "font_size": 10.5
+      },
+      {
+        "text": "B h = )",
+        "level": 4,
+        "page": 16,
+        "font_size": 10.5
+      },
+      {
+        "text": "l / a",
+        "level": 4,
+        "page": 16,
+        "font_size": 9.5
+      },
+      {
+        "text": "3 4 × × 10 × 5 ×",
+        "level": 4,
+        "page": 16,
+        "font_size": 9.5
+      },
+      {
+        "text": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS , THE AMPERE",
+        "level": 4,
+        "page": 16,
+        "font_size": 16.0
+      },
+      {
+        "text": "distance d. B is the magnetic field a set up by conductor ‘a’ at conductor ‘b’.",
+        "level": 4,
+        "page": 16,
+        "font_size": 9.5
+      },
+      {
+        "text": "F ba",
+        "level": 4,
+        "page": 17,
+        "font_size": 10.5
+      },
+      {
+        "text": "I 0 a b L 2 d",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.1
+      },
+      {
+        "text": "–7 2 ×",
+        "level": 4,
+        "page": 18,
+        "font_size": 10.5
+      },
+      {
+        "text": "–5 3.0 ×10 T",
+        "level": 4,
+        "page": 18,
+        "font_size": 9.5
+      },
+      {
+        "text": "F = I l × B IlB",
+        "level": 4,
+        "page": 18,
+        "font_size": 9.5
+      },
+      {
+        "text": "f = F / l",
+        "level": 4,
+        "page": 18,
+        "font_size": 9.5
+      },
+      {
+        "text": "f = –5 –1 1 × 3 × 10 = 3 × 10 N m 2×10",
+        "level": 4,
+        "page": 18,
+        "font_size": 9.5
+      },
+      {
+        "text": "4.9 TORQUE ON CURRENT LOOP , MAGNETIC DIPOLE 4.9.1 Torque on a rectangular current loop in a uniform",
+        "level": 4,
+        "page": 18,
+        "font_size": 16.0
+      },
+      {
+        "text": "magnetic field",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      },
+      {
+        "text": "–2 100 × 3.2 × 3.14 × 10 = 10 A m",
+        "level": 4,
+        "page": 21,
+        "font_size": 9.5
+      },
+      {
+        "text": "m × B",
+        "level": 4,
+        "page": 21,
+        "font_size": 9.5
+      },
+      {
+        "text": "4.9.2 Circular current loop as a magnetic dipole",
+        "level": 4,
+        "page": 22,
+        "font_size": 12.0
+      },
+      {
+        "text": "x 2 IR 0 B",
+        "level": 4,
+        "page": 22,
+        "font_size": 11.9
+      },
+      {
+        "text": "3 2 x",
+        "level": 4,
+        "page": 22,
+        "font_size": 11.9
+      },
+      {
+        "text": "4.10 THE MOVING COIL GALVANOMETER",
+        "level": 4,
+        "page": 23,
+        "font_size": 16.0
+      },
+      {
+        "text": "NAB I φ",
+        "level": 4,
+        "page": 24,
+        "font_size": 11.2
+      },
+      {
+        "text": "v × B + E ( v × B ) l",
+        "level": 4,
+        "page": 26,
+        "font_size": 9.0
+      },
+      {
+        "text": "I l × B",
+        "level": 4,
+        "page": 26,
+        "font_size": 9.0
+      },
+      {
+        "text": "l r B",
+        "level": 4,
+        "page": 26,
+        "font_size": 9.4
+      },
+      {
+        "text": "v × B + E",
+        "level": 4,
+        "page": 28,
+        "font_size": 9.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 28,
+        "font_size": 16.0
+      },
+      {
+        "text": "30º T",
+        "level": 4,
+        "page": 29,
+        "font_size": 9.5
+      },
+      {
+        "text": "10 1 –3 2 = 3.6 × 10 m , B = 0.25 T R =",
+        "level": 4,
+        "page": 29,
+        "font_size": 9.5
+      },
+      {
+        "text": "2 –3 2 A = 1.8 × 10 m , B = 0.50 T",
+        "level": 4,
+        "page": 29,
+        "font_size": 9.5
+      },
+      {
+        "text": "6 4.8 × 10 –19 –31 e = 1.5 × 10 C, m = 9.1×10 kg)",
+        "level": 4,
+        "page": 29,
+        "font_size": 9.5
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "Chapter Five",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "MAGNETISM AND",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "MATTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "5.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Magnetism and Matter",
+        "level": 4,
+        "page": 2,
+        "font_size": 15.0
+      },
+      {
+        "text": "5.2 T B MHE AR AGNET HE AR AGNET 5.2 T B M",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "5.2.1 The magnetic field lines 5.2.1 The magnetic field lines",
+        "level": 4,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.2.2 Bar magnet as an equivalent solenoid",
+        "level": 4,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.2.3 The dipole in a uniform magnetic field",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "τ θ ∫ θ ∫",
+        "level": 4,
+        "page": 4,
+        "font_size": 15.8
+      },
+      {
+        "text": "5.2.4 The electrostatic analog",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "T 5.1 T",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "× m × B",
+        "level": 4,
+        "page": 6,
+        "font_size": 10.5
+      },
+      {
+        "text": "5.3 MAGNETISM AND GAUSS ’ S LAW",
+        "level": 4,
+        "page": 7,
+        "font_size": 16.0
+      },
+      {
+        "text": "KARL FRIEDRICH GAUSS (1777 – 1855)",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "φ . ∑",
+        "level": 4,
+        "page": 7,
+        "font_size": 15.7
+      },
+      {
+        "text": ". µ ∫",
+        "level": 4,
+        "page": 10,
+        "font_size": 15.8
+      },
+      {
+        "text": "5.4 MAGNETISATION AND MAGNETIC INTENSITY",
+        "level": 4,
+        "page": 10,
+        "font_size": 16.0
+      },
+      {
+        "text": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+        "level": 4,
+        "page": 12,
+        "font_size": 16.0
+      },
+      {
+        "text": "T 5.2",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.5.1 Diamagnetism",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.5.2 Paramagnetism",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.5.3 Ferromagnetism",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "� i � �",
+        "level": 4,
+        "page": 15,
+        "font_size": 15.8
+      },
+      {
+        "text": "– 1.6 ×10",
+        "level": 4,
+        "page": 16,
+        "font_size": 9.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 17,
+        "font_size": 16.0
+      },
+      {
+        "text": "4.5 ×",
+        "level": 4,
+        "page": 17,
+        "font_size": 9.5
+      },
+      {
+        "text": "–4 2.5 ×",
+        "level": 4,
+        "page": 17,
+        "font_size": 9.5
+      },
+      {
+        "text": "–4 2 1.6 × 10 m",
+        "level": 4,
+        "page": 17,
+        "font_size": 9.5
+      },
+      {
+        "text": "–2 .5 × 10 T i",
+        "level": 4,
+        "page": 18,
+        "font_size": 9.5
+      }
+    ],
+    "chapter6": [
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "Chapter Six",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "ELECTROMAGNETIC",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "INDUCTION",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "6.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Electromagnetic Induction",
+        "level": 4,
+        "page": 2,
+        "font_size": 15.0
+      },
+      {
+        "text": "6.2 THE EXPERIMENTS OF FARADAY AND JOSEPH HENRY (1797 – 1878) HENRY",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "Experiment 6.1",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Experiment 6.2",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Experiment 6.3",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.3 MAGNETIC FLUX",
+        "level": 4,
+        "page": 3,
+        "font_size": 16.0
+      },
+      {
+        "text": "6.4 FARADAY ’ S LAW OF INDUCTION",
+        "level": 4,
+        "page": 4,
+        "font_size": 16.0
+      },
+      {
+        "text": "MICHAEL FARADAY (1791–1867)",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "6.5 LENZ ’ S LAW AND CONSERVATION OF ENERGY",
+        "level": 4,
+        "page": 7,
+        "font_size": 16.0
+      },
+      {
+        "text": "6.6 MOTIONAL ELECTROMOTIVE FORCE",
+        "level": 4,
+        "page": 9,
+        "font_size": 16.0
+      },
+      {
+        "text": "ω ε ∫ ω ∫",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.1
+      },
+      {
+        "text": "6.7 INDUCTANCE",
+        "level": 4,
+        "page": 12,
+        "font_size": 16.0
+      },
+      {
+        "text": "6.7.1 Mutual inductance",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "6.7.2 Self-inductance",
+        "level": 4,
+        "page": 15,
+        "font_size": 12.0
+      },
+      {
+        "text": "Interactive animation on ac generator: http://micro.magnet.fsu.edu/electromag/java/generator/ac.html",
+        "level": 4,
+        "page": 17,
+        "font_size": 10.0
+      },
+      {
+        "text": "6.8 AC GENERATOR",
+        "level": 4,
+        "page": 17,
+        "font_size": 16.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 21,
+        "font_size": 16.0
+      }
+    ],
+    "chapter7": [
+      {
+        "text": "Chapter Seven",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "ALTERNATING",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "CURRENT",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "7.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "7.2 AC VOLTAGE APPLIED TO RESISTOR",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "ε t ∑",
+        "level": 4,
+        "page": 2,
+        "font_size": 15.8
+      },
+      {
+        "text": "NICOLA TESLA (1856 – 1943)",
+        "level": 4,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "Alternating Current",
+        "level": 4,
+        "page": 3,
+        "font_size": 15.0
+      },
+      {
+        "text": "GEORGE WESTINGHOUSE (1846 – 1914)",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS",
+        "level": 4,
+        "page": 5,
+        "font_size": 16.0
+      },
+      {
+        "text": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR",
+        "level": 4,
+        "page": 5,
+        "font_size": 16.0
+      },
+      {
+        "text": "7.5 AC VOLTAGE APPLIED TO CAPACITOR",
+        "level": 4,
+        "page": 8,
+        "font_size": 16.0
+      },
+      {
+        "text": "i v i v m i v cos( t ) sin( m",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "7.6 AC VOLTAGE APPLIED TO SERIES LCR CIRCUIT",
+        "level": 4,
+        "page": 10,
+        "font_size": 16.0
+      },
+      {
+        "text": "7.6.1 Phasor-diagram solution",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.6.2 Resonance",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.7 POWER IN AC CIRCUIT : THE P FACTOR",
+        "level": 4,
+        "page": 14,
+        "font_size": 16.0
+      },
+      {
+        "text": "�� �",
+        "level": 4,
+        "page": 17,
+        "font_size": 9.9
+      },
+      {
+        "text": "7.8 TRANSFORMERS",
+        "level": 4,
+        "page": 18,
+        "font_size": 16.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 24,
+        "font_size": 16.0
+      }
+    ],
+    "chapter8": [
+      {
+        "text": "Chapter Eight",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "ELECTROMAGNETIC",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "WAVES",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "8.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "8.2 DISPLACEMENT CURRENT",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "JAMES CLERK MAXWELL (1831–1879)",
+        "level": 4,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "Electromagnetic Waves",
+        "level": 4,
+        "page": 3,
+        "font_size": 15.0
+      },
+      {
+        "text": "i µ ε",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.5
+      },
+      {
+        "text": "M ’ V",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.3 ELECTROMAGNETIC WAVES 8.3.1 Sources of electromagnetic waves",
+        "level": 4,
+        "page": 5,
+        "font_size": 16.0
+      },
+      {
+        "text": "HEINRICH RUDOLF HERTZ (1857–1894)",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.3.2 Nature of electromagnetic waves",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "π ν λ",
+        "level": 4,
+        "page": 7,
+        "font_size": 10.4
+      },
+      {
+        "text": "x x- E × B s",
+        "level": 4,
+        "page": 8,
+        "font_size": 9.5
+      },
+      {
+        "text": "x - × ×",
+        "level": 4,
+        "page": 8,
+        "font_size": 9.5
+      },
+      {
+        "text": "3 –7 0.5×10 x × B = (2 × 10 ) y",
+        "level": 4,
+        "page": 8,
+        "font_size": 9.5
+      },
+      {
+        "text": "p B = Sin y",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "8 1 2×10 T × 3 × 10 m/s = 6 × 10 V/m",
+        "level": 4,
+        "page": 8,
+        "font_size": 9.5
+      },
+      {
+        "text": "Electromagnetic spectrum http://www.fnal.gov/pub/inquiring/more/light http://imagine.gsfc.nasa.gov/docs/science/",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "3 11 (0.5 × 10 x + 1.5 × 10 t )",
+        "level": 4,
+        "page": 8,
+        "font_size": 9.5
+      },
+      {
+        "text": "8.4 ELECTROMAGNETIC SPECTRUM",
+        "level": 4,
+        "page": 8,
+        "font_size": 16.0
+      },
+      {
+        "text": "8.4.1 Radio waves",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.4.2 Microwaves",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.4.3 Infrared waves",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.4.4 Visible rays",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.4.5 Ultraviolet rays",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.4.6 X-rays",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.4.7 Gamma rays",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "T 8.1 D",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 13,
+        "font_size": 16.0
+      }
+    ]
+  },
+  "physics_part2": {
+    "chapter1": [
+      {
+        "text": "Chapter Nine",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "RAY OPTICS",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "AND OPTICAL",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "INSTRUMENTS",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "9.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "9.2 REFLECTION OF LIGHT BY SPHERICAL MIRRORS",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "9.2.1 Sign convention",
+        "level": 4,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "Ray Optics and Optical Instruments",
+        "level": 4,
+        "page": 3,
+        "font_size": 15.0
+      },
+      {
+        "text": "9.2.2 Focal length of spherical mirrors",
+        "level": 4,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.2.3 The mirror equation",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": ". . –",
+        "level": 4,
+        "page": 7,
+        "font_size": 9.3
+      },
+      {
+        "text": "9.3 REFRACTION",
+        "level": 4,
+        "page": 8,
+        "font_size": 16.0
+      },
+      {
+        "text": "9.4 TOTAL INTERNAL REFLECTION",
+        "level": 4,
+        "page": 9,
+        "font_size": 16.0
+      },
+      {
+        "text": "T 9.1 C",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.5 REFRACTION AT SPHERICAL URFACES AND BY LENSES",
+        "level": 4,
+        "page": 12,
+        "font_size": 16.0
+      },
+      {
+        "text": "9.5.1 Refraction at a spherical surface",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.5.2 Refraction by a lens",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.5.3 Power of a lens",
+        "level": 4,
+        "page": 16,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.5.4 Combination of thin lenses in contact",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.6 REFRACTION THROUGH A PRISM",
+        "level": 4,
+        "page": 19,
+        "font_size": 16.0
+      },
+      {
+        "text": "9.7 OPTICAL INSTRUMENTS",
+        "level": 4,
+        "page": 20,
+        "font_size": 16.0
+      },
+      {
+        "text": "9.7.1 The microscope",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "http://astro.nineplanets.org/bigeyes.html The world’s largest optical telescopes",
+        "level": 4,
+        "page": 23,
+        "font_size": 10.0
+      },
+      {
+        "text": "9.7.2 Telescope",
+        "level": 4,
+        "page": 24,
+        "font_size": 12.0
+      },
+      {
+        "text": "� � �",
+        "level": 4,
+        "page": 24,
+        "font_size": 10.5
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 29,
+        "font_size": 16.0
+      },
+      {
+        "text": "Notes",
+        "level": 3,
+        "page": 34,
+        "font_size": 20.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "Wave Optics",
+        "level": 4,
+        "page": 1,
+        "font_size": 15.0
+      },
+      {
+        "text": "Chapter Ten",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "10.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "10.2 HUYGENS PRINCIPLE",
+        "level": 4,
+        "page": 3,
+        "font_size": 16.0
+      },
+      {
+        "text": "10.3 REFRACTION AND EFLECTION OF PLANE WAVES USING HUYGENS RINCIPLE",
+        "level": 4,
+        "page": 4,
+        "font_size": 16.0
+      },
+      {
+        "text": "10.3.1 Refraction of a plane wave",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "CHRISTIAAN HUYGENS (1629 – 1695)",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "10.3.2 Refraction at a rarer medium",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.4 COHERENT AND INCOHERENT ADDITION OF WAVES",
+        "level": 4,
+        "page": 8,
+        "font_size": 16.0
+      },
+      {
+        "text": "Ripple Tank experiments on wave interference http://phet.colorado.edu/en/simulation/legacy/wave-interference",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.0
+      },
+      {
+        "text": "10.5 INTERFERENCE OF LIGHT WAVES AND YOUNG ’ S EXPERIMENT",
+        "level": 4,
+        "page": 11,
+        "font_size": 16.0
+      },
+      {
+        "text": "THOMAS YOUNG (1773 – 1829)",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.0
+      },
+      {
+        "text": "10.6 DIFFRACTION",
+        "level": 4,
+        "page": 12,
+        "font_size": 16.0
+      },
+      {
+        "text": "10.6.1 The single slit",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.6.2 Seeing the single slit diffraction pattern",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.7 POLARISATION",
+        "level": 4,
+        "page": 15,
+        "font_size": 16.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 19,
+        "font_size": 16.0
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "Chapter Eleven",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "DUAL NATURE OF",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "RADIATION AND",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "MATTER",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "11.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Dual Nature of Radiation and Matter",
+        "level": 4,
+        "page": 2,
+        "font_size": 15.0
+      },
+      {
+        "text": "11.2 ELECTRON EMISSION",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "11.3 PHOTOELECTRIC EFFECT 11.3.1 Hertz’s observations",
+        "level": 4,
+        "page": 3,
+        "font_size": 16.0
+      },
+      {
+        "text": "11.3.2 Hallwachs’ and Lenard’s observations",
+        "level": 4,
+        "page": 3,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT",
+        "level": 4,
+        "page": 4,
+        "font_size": 16.0
+      },
+      {
+        "text": "11.4.1 Effect of intensity of light on photocurrent",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.4.2 Effect of potential on photoelectric current",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.4.3 Effect of frequency of incident radiation on stopping potential",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.5 PHOTOELECTRIC EFFECT AND WAVE THEORY OF LIGHT",
+        "level": 4,
+        "page": 7,
+        "font_size": 16.0
+      },
+      {
+        "text": "11.6 EINSTEIN ’ S PHOTOELECTRIC QUATION : ENERGY QUANTUM OF RADIATION",
+        "level": 4,
+        "page": 8,
+        "font_size": 16.0
+      },
+      {
+        "text": "ALBERT EINSTEIN (1879 – 1955)",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "11.7 PARTICLE NATURE OF LIGHT : THE PHOTON",
+        "level": 4,
+        "page": 10,
+        "font_size": 16.0
+      },
+      {
+        "text": "11.8 WAVE NATURE OF MATTER",
+        "level": 4,
+        "page": 11,
+        "font_size": 16.0
+      },
+      {
+        "text": "LOUIS VICTOR DE BROGLIE (1892 – 1987)",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.0
+      },
+      {
+        "text": "’ ’ ’",
+        "level": 4,
+        "page": 13,
+        "font_size": 9.5
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 15,
+        "font_size": 16.0
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "Chapter Twelve",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "ATOMS",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "12.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "ERNST RUTHERFORD (1871 – 1937)",
+        "level": 4,
+        "page": 2,
+        "font_size": 13.0
+      },
+      {
+        "text": "12.2 SARTICLE CATTERING LPHA PAR AR TICLE CA TTERING AND 12.2 A - S NUTHERFORD UCLEAR ODEL OF TOM UTHERFORD SUCLEAR ODEL OF TOM R ’ N M A",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "12.2.1 Alpha-particle trajectory",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "12.2.2 Electron orbits",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "12.3 ATOMIC SPECTRA",
+        "level": 4,
+        "page": 7,
+        "font_size": 16.0
+      },
+      {
+        "text": "12.4 BOHR MODEL OF THE HYDROGEN ATOM",
+        "level": 4,
+        "page": 8,
+        "font_size": 16.0
+      },
+      {
+        "text": "NIELS HENRIK DAVID BOHR (1885 – 1962)",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "12.4.1 Energy levels",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "12.5 THE LINE SPECTRA OF THE HYDROGEN ATOM",
+        "level": 4,
+        "page": 11,
+        "font_size": 16.0
+      },
+      {
+        "text": "12.6 D E BROGLIE ’ SXPLANATION OF OHR SECOND POSTULATE OF QUANTISATION",
+        "level": 4,
+        "page": 12,
+        "font_size": 16.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 16,
+        "font_size": 16.0
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "Physics",
+        "level": 3,
+        "page": 1,
+        "font_size": 20.0
+      },
+      {
+        "text": "Chapter Thirteen",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "NUCLEI",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "13.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "13.2 ATOMIC MASSES AND COMPOSITION OF NUCLEUS",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "13.3 SIZE OF THE NUCLEUS",
+        "level": 4,
+        "page": 4,
+        "font_size": 16.0
+      },
+      {
+        "text": "13.4 MASS -ENERGY AND NUCLEAR BINDING E 13.4.1 Mass – Energy",
+        "level": 4,
+        "page": 5,
+        "font_size": 16.0
+      },
+      {
+        "text": "13.4.2 Nuclear binding energy",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.5 NUCLEAR FORCE",
+        "level": 4,
+        "page": 8,
+        "font_size": 16.0
+      },
+      {
+        "text": "13.6 RADIOACTIVITY",
+        "level": 4,
+        "page": 9,
+        "font_size": 16.0
+      },
+      {
+        "text": "13.7 NUCLEAR ENERGY",
+        "level": 4,
+        "page": 9,
+        "font_size": 16.0
+      },
+      {
+        "text": "13.7.1 Fission",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.7.2 Nuclear fusion – energy generation in stars",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.7.3 Controlled thermonuclear fusion",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 16,
+        "font_size": 16.0
+      }
+    ],
+    "chapter6": [
+      {
+        "text": "Chapter Fourteen",
+        "level": 2,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "SEMICONDUCTOR",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "ELECTRONICS:",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "MATERIALS, DEVICES",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "AND SIMPLE CIRCUITS",
+        "level": 1,
+        "page": 1,
+        "font_size": 48.0
+      },
+      {
+        "text": "14.1 INTRODUCTION",
+        "level": 4,
+        "page": 1,
+        "font_size": 16.0
+      },
+      {
+        "text": "Physics",
+        "level": 4,
+        "page": 2,
+        "font_size": 20.0
+      },
+      {
+        "text": "14.2 CLASSIFICATION OF METALS , CONDUCTORS AND SEMICONDUCTORS",
+        "level": 4,
+        "page": 2,
+        "font_size": 16.0
+      },
+      {
+        "text": "Semiconductor Electronics: Materials, Devices and",
+        "level": 4,
+        "page": 3,
+        "font_size": 15.0
+      },
+      {
+        "text": "Simple Circuits",
+        "level": 4,
+        "page": 3,
+        "font_size": 15.0
+      },
+      {
+        "text": "14.3 INTRINSIC SEMICONDUCTOR",
+        "level": 4,
+        "page": 5,
+        "font_size": 16.0
+      },
+      {
+        "text": "14.4 EXTRINSIC SEMICONDUCTOR",
+        "level": 4,
+        "page": 7,
+        "font_size": 16.0
+      },
+      {
+        "text": "14.5 p-n JUNCTION",
+        "level": 4,
+        "page": 11,
+        "font_size": 16.0
+      },
+      {
+        "text": "http://hyperphysics.phy-astr.gsu.edu/hbase/solids/pnjun.html Formation and working of p-n junction diode",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.0
+      },
+      {
+        "text": "14.5.1 p-n junction formation",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "14.6 SEMICONDUCTOR DIODE",
+        "level": 4,
+        "page": 12,
+        "font_size": 16.0
+      },
+      {
+        "text": "14.6.1 p-n junction diode under forward bias",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "14.6.2 p-n junction diode under reverse bias",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER",
+        "level": 4,
+        "page": 16,
+        "font_size": 16.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 4,
+        "page": 19,
+        "font_size": 16.0
+      },
+      {
+        "text": "Notes",
+        "level": 4,
+        "page": 21,
+        "font_size": 20.0
+      },
+      {
+        "text": "APPENDICES",
+        "level": 4,
+        "page": 22,
+        "font_size": 20.0
+      },
+      {
+        "text": "Appendices Answers",
+        "level": 4,
+        "page": 23,
+        "font_size": 15.0
+      },
+      {
+        "text": "ANSWERS",
+        "level": 4,
+        "page": 24,
+        "font_size": 16.0
+      },
+      {
+        "text": "Bibligraphy",
+        "level": 4,
+        "page": 31,
+        "font_size": 15.0
+      },
+      {
+        "text": "BIBLIOGRAPHY",
+        "level": 3,
+        "page": 31,
+        "font_size": 24.0
+      }
+    ]
+  },
+  "chemistry_part1": {
+    "chapter1": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Objectives",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Solutions",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "1.1 Types of Solutions Solutions",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.2 Expressing 1.2 Expressing Concentration Concentration",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "of Solutions",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Mass percentage ( w / )",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.5
+      },
+      {
+        "text": "Volume percentage (V/V)",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.5
+      },
+      {
+        "text": "Mass by volume percentage ( w /V)",
+        "level": 4,
+        "page": 3,
+        "font_size": 10.5
+      },
+      {
+        "text": "Parts per million",
+        "level": 4,
+        "page": 3,
+        "font_size": 10.5
+      },
+      {
+        "text": "Mole fraction",
+        "level": 4,
+        "page": 3,
+        "font_size": 10.5
+      },
+      {
+        "text": "Example 1.1",
+        "level": 4,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution",
+        "level": 4,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "Molarity",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.5
+      },
+      {
+        "text": "Example 1.2",
+        "level": 4,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "Molality",
+        "level": 4,
+        "page": 5,
+        "font_size": 10.5
+      },
+      {
+        "text": "Example 1.3 Example 1.3",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "× Solution Solution",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Questions Intext Questions",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "1.3 Solubility",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Effect of temperature",
+        "level": 4,
+        "page": 6,
+        "font_size": 9.5
+      },
+      {
+        "text": "Effect of pressure",
+        "level": 4,
+        "page": 6,
+        "font_size": 9.5
+      },
+      {
+        "text": "Example 1.4",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "x × n",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "anoxia Effect of Temperature",
+        "level": 4,
+        "page": 9,
+        "font_size": 10.5
+      },
+      {
+        "text": "1.4 Vapour 1.4 Vapour Pressure of",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "Liquid Solutions",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "x x y",
+        "level": 4,
+        "page": 10,
+        "font_size": 10.5
+      },
+      {
+        "text": "Example 1.5 Example 1.5",
+        "level": 4,
+        "page": 11,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution",
+        "level": 4,
+        "page": 11,
+        "font_size": 13.0
+      },
+      {
+        "text": "y p ×",
+        "level": 4,
+        "page": 11,
+        "font_size": 10.5
+      },
+      {
+        "text": "1.5 Ideal and Non- ideal Solutions ideal Solutions",
+        "level": 4,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "ideal solutions",
+        "level": 4,
+        "page": 13,
+        "font_size": 10.5
+      },
+      {
+        "text": "non-ideal solution",
+        "level": 4,
+        "page": 13,
+        "font_size": 10.5
+      },
+      {
+        "text": "Intext Question Intext Question",
+        "level": 4,
+        "page": 15,
+        "font_size": 13.0
+      },
+      {
+        "text": "1.6 Colligative Properties and",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "Determination Determination of Molar Mass of Molar Mass",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "p x p x",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.5
+      },
+      {
+        "text": "p x x",
+        "level": 4,
+        "page": 15,
+        "font_size": 10.5
+      },
+      {
+        "text": "Example 1.6 Example 1.6",
+        "level": 4,
+        "page": 16,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 1.7 Example 1.7",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 1.8 Example 1.8",
+        "level": 4,
+        "page": 18,
+        "font_size": 13.0
+      },
+      {
+        "text": "( Solution",
+        "level": 4,
+        "page": 18,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 1.9 Example 1.9",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.0
+      },
+      {
+        "text": "nt Ä",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "Example 1.10 Example 1.10",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 1.11",
+        "level": 4,
+        "page": 22,
+        "font_size": 13.0
+      },
+      {
+        "text": "1.7 Abnormal Molar",
+        "level": 4,
+        "page": 23,
+        "font_size": 14.0
+      },
+      {
+        "text": "Masses Masses",
+        "level": 4,
+        "page": 23,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 1.12 Example 1.12",
+        "level": 4,
+        "page": 25,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 1.13",
+        "level": 4,
+        "page": 26,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution ",
+        "level": 4,
+        "page": 26,
+        "font_size": 13.0
+      },
+      {
+        "text": "x n x",
+        "level": 4,
+        "page": 26,
+        "font_size": 10.5
+      },
+      {
+        "text": "Summary Summary",
+        "level": 3,
+        "page": 27,
+        "font_size": 16.0
+      },
+      {
+        "text": "Exercises Exercises",
+        "level": 2,
+        "page": 27,
+        "font_size": 24.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "Unit Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Objectives",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Electrochemistry",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "2.1 Electrochemical 2.1 Electrochemical Cells",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "V ext",
+        "level": 4,
+        "page": 2,
+        "font_size": 9.0
+      },
+      {
+        "text": "voltage E opposing the ext cell potential is applied.",
+        "level": 4,
+        "page": 2,
+        "font_size": 9.5
+      },
+      {
+        "text": "2.2 Galvanic Cells 2.2 Galvanic Cells",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "cell potential",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.5
+      },
+      {
+        "text": "reduction oxidation",
+        "level": 4,
+        "page": 4,
+        "font_size": 10.5
+      },
+      {
+        "text": "Intext Questions Intext Questions",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.3 Nernst Equation",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "( ) + [ ]",
+        "level": 4,
+        "page": 8,
+        "font_size": 9.9
+      },
+      {
+        "text": "Example 2.1",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 2.2",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "E ( )",
+        "level": 4,
+        "page": 10,
+        "font_size": 11.1
+      },
+      {
+        "text": "Solution ( )",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "o o E nF (cell)",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.2
+      },
+      {
+        "text": "Example 2.3",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "o o E Solution (cell)",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "1.05 V E",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "2.4 Conductance of Electrolytic of Electrolytic",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "Solutions Solutions",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 2.4 Example 2.4",
+        "level": 4,
+        "page": 15,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution",
+        "level": 4,
+        "page": 15,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 2.5",
+        "level": 4,
+        "page": 16,
+        "font_size": 13.0
+      },
+      {
+        "text": "× Solution Solution",
+        "level": 4,
+        "page": 16,
+        "font_size": 13.0
+      },
+      {
+        "text": "acid (weak electrolyte) and potassium chloride (strong electrolyte) in aqueous solutions.",
+        "level": 4,
+        "page": 17,
+        "font_size": 9.5
+      },
+      {
+        "text": "Example 2.6",
+        "level": 4,
+        "page": 18,
+        "font_size": 13.0
+      },
+      {
+        "text": "limiting molar conductivity of an electrolyte can be represented as the sum of the individual contributions of the anion and cation of the electrolyte",
+        "level": 4,
+        "page": 19,
+        "font_size": 10.5
+      },
+      {
+        "text": "° – + if and are limiting molar conductivity Na Cl",
+        "level": 4,
+        "page": 19,
+        "font_size": 10.5
+      },
+      {
+        "text": "Weak Electrolytes",
+        "level": 4,
+        "page": 19,
+        "font_size": 9.5
+      },
+      {
+        "text": "    ",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.0
+      },
+      {
+        "text": "Applications of Kohlrausch law",
+        "level": 4,
+        "page": 20,
+        "font_size": 9.5
+      },
+      {
+        "text": "Example 2.7 Example 2.7 Solution",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 2.8 Example 2.8",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution     ",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.0
+      },
+      {
+        "text": "× Example 2.9 Example 2.9",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution ",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.0
+      },
+      {
+        "text": ". ( ) c",
+        "level": 4,
+        "page": 20,
+        "font_size": 9.6
+      },
+      {
+        "text": "Intext Questions",
+        "level": 4,
+        "page": 21,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.5 Electrolytic 2.5 Electrolytic Cells and Cells and",
+        "level": 4,
+        "page": 21,
+        "font_size": 14.0
+      },
+      {
+        "text": "Electrolysis",
+        "level": 4,
+        "page": 21,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 2.10 Example 2.10 Solution Solution ×",
+        "level": 4,
+        "page": 22,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.6 Batteries",
+        "level": 4,
+        "page": 24,
+        "font_size": 14.0
+      },
+      {
+        "text": "zinc container; the latter acts as the anode.",
+        "level": 4,
+        "page": 24,
+        "font_size": 9.5
+      },
+      {
+        "text": "reducing agent is zinc and the oxidising agent is",
+        "level": 4,
+        "page": 25,
+        "font_size": 9.5
+      },
+      {
+        "text": "mercury (II) oxide.",
+        "level": 4,
+        "page": 25,
+        "font_size": 9.5
+      },
+      {
+        "text": "in a jelly roll arrangement and separated by a layer",
+        "level": 4,
+        "page": 26,
+        "font_size": 9.5
+      },
+      {
+        "text": "soaked in moist sodium or potassium hydroxide.",
+        "level": 4,
+        "page": 26,
+        "font_size": 9.5
+      },
+      {
+        "text": "2.7 Fuel Cells 2.7 Fuel Cells",
+        "level": 4,
+        "page": 26,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.8 Corrosion 2.8 Corrosion",
+        "level": 4,
+        "page": 27,
+        "font_size": 14.0
+      },
+      {
+        "text": "The Hydrogen Economy",
+        "level": 4,
+        "page": 28,
+        "font_size": 13.0
+      },
+      {
+        "text": "Summary",
+        "level": 3,
+        "page": 28,
+        "font_size": 16.0
+      },
+      {
+        "text": "Exercises Exercises",
+        "level": 2,
+        "page": 29,
+        "font_size": 24.0
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Objectives",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Chemical Kinetics",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "3.1 Rate of a Chemical Chemical",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Reaction Reaction",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 3.1 Example 3.1",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 3.2 Example 3.2",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Questions Intext Questions",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "3.2 Factors Influencing 3.2 Factors Influencing Rate of a Reaction Rate of a Reaction",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 3.3",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "− − − ( )",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 3.4 Example 3.4",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Questions",
+        "level": 4,
+        "page": 11,
+        "font_size": 13.0
+      },
+      {
+        "text": "3.3 Integrated 3.3 Integrated Rate",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "Equations",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 3.5",
+        "level": 4,
+        "page": 14,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 3.6",
+        "level": 4,
+        "page": 15,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 3.7 k × Example 3.7",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 3.8",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "k Solution",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "the reaction behaves as first order reaction. Such reactions are called pseudo first order reactions",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      },
+      {
+        "text": "3.4 Temperature 3.4 Temperature Dependence of Dependence of",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "the Rate of a Reaction",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 3.9",
+        "level": 4,
+        "page": 21,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 3.10",
+        "level": 4,
+        "page": 21,
+        "font_size": 13.0
+      },
+      {
+        "text": "k k ×",
+        "level": 4,
+        "page": 22,
+        "font_size": 10.5
+      },
+      {
+        "text": "3.5 Collision 3.5 Collision Theory of Theory of",
+        "level": 4,
+        "page": 22,
+        "font_size": 14.0
+      },
+      {
+        "text": "Chemical Reactions",
+        "level": 4,
+        "page": 22,
+        "font_size": 14.0
+      },
+      {
+        "text": "Summary",
+        "level": 3,
+        "page": 24,
+        "font_size": 16.0
+      },
+      {
+        "text": "Exercises Exercises",
+        "level": 2,
+        "page": 25,
+        "font_size": 24.0
+      },
+      {
+        "text": "k × ×",
+        "level": 4,
+        "page": 28,
+        "font_size": 9.5
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "Unit Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "The d- and f- The d - and f - Objectives",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Block Elements Block Elements",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "THE TRANSITION ELEMENTS ( d -BLOCK)",
+        "level": 4,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.1 Position in the 4.1 Position in the Periodic Table",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.2 Electronic Configurations",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "of the d-Block of the d-Block Elements Elements",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 4.1 Example 4.1",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Question",
+        "level": 4,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "4.3 General Properties of",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "the Transition Elements Elements",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "(d-Block) (d-Block)",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 4.2",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 4.3 Example 4.3",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 4.4 Solution",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 4.5",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Question Intext Question",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 4.6 Example 4.6",
+        "level": 4,
+        "page": 13,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 4.7",
+        "level": 4,
+        "page": 13,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Questions Intext Questions",
+        "level": 4,
+        "page": 13,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 4.8",
+        "level": 4,
+        "page": 14,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 4.9",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "4.4 Some Important",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "Compounds of Transition Transition",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "Elements Elements",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "Uses Uses: Uses",
+        "level": 4,
+        "page": 20,
+        "font_size": 11.0
+      },
+      {
+        "text": "THE INNER TRANSITION ELEMENTS ( f -BLOCK)",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.5 The Lanthanoids",
+        "level": 4,
+        "page": 20,
+        "font_size": 14.0
+      },
+      {
+        "text": "N with 2 O",
+        "level": 4,
+        "page": 23,
+        "font_size": 9.0
+      },
+      {
+        "text": "heated",
+        "level": 4,
+        "page": 23,
+        "font_size": 9.0
+      },
+      {
+        "text": "4.6 The Actinoids 4.6 The Actinoids",
+        "level": 4,
+        "page": 23,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 4.10 Example 4.10",
+        "level": 4,
+        "page": 25,
+        "font_size": 13.0
+      },
+      {
+        "text": "4.7 Some 4.7 Some Applications",
+        "level": 4,
+        "page": 25,
+        "font_size": 14.0
+      },
+      {
+        "text": "of d- and f-Block",
+        "level": 4,
+        "page": 25,
+        "font_size": 14.0
+      },
+      {
+        "text": "Summary",
+        "level": 3,
+        "page": 26,
+        "font_size": 16.0
+      },
+      {
+        "text": "Exercises",
+        "level": 2,
+        "page": 27,
+        "font_size": 24.0
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "Unit Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Coordination Coordination Objectives",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Compounds Compounds",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Werner’s 5.1 Werner’ Theory of Theory of",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Coordination Coordination Compounds",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 5.1",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "Werner Werner",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "(1866-1919) (1866-1919)",
+        "level": 4,
+        "page": 3,
+        "font_size": 10.5
+      },
+      {
+        "text": "5.2 Definitions of Some Some",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Important Important Terms",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Pertaining to Coordination",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.3 Nomenclature ofofofofof",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 5.2",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 5.3",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Questions",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.4 Isomerism in Coordination",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Compounds",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 5.4 Example 5.4",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 5.5 Solution",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 5.6",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Questions Intext Questions",
+        "level": 4,
+        "page": 11,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.5 Bonding in Coordination",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 5.7",
+        "level": 4,
+        "page": 14,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.6 Bonding in 5.6 Bonding in Metal Metal",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "Carbonyls Carbonyls",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.7 Importance and",
+        "level": 4,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "Applications ofofofofof",
+        "level": 4,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "Summary Summary",
+        "level": 3,
+        "page": 20,
+        "font_size": 16.0
+      },
+      {
+        "text": "Exercises",
+        "level": 2,
+        "page": 21,
+        "font_size": 24.0
+      }
+    ]
+  },
+  "chemistry_part2": {
+    "chapter1": [
+      {
+        "text": "Unit Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Objectives Haloalkanes and Haloalkanes and Haloalkanes and",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "Haloar enes Haloarenes Haloar enes Haloarenes Haloar enes",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "6.1 Classification",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.2 Nomenclature",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.6
+      },
+      {
+        "text": "Example 6.1",
+        "level": 4,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution",
+        "level": 4,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 6.2",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Question Intext Question",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "6.3 Nature of 6.3 Nature of C-X Bond C-X Bond",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.4 Methods of Preparation Preparation",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "of Haloalkanes of Haloalkanes",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 6.3",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "6.5 Preparation of Haloarenes Haloarenes",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 6.4 Example 6.4",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Questions",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "6.6 Physical 6.6 Physical Properties Properties",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "Intext Question",
+        "level": 4,
+        "page": 11,
+        "font_size": 13.0
+      },
+      {
+        "text": "6.7 Chemical Reactions Reactions",
+        "level": 4,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 6.5",
+        "level": 4,
+        "page": 13,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 6.6 Example 6.6",
+        "level": 4,
+        "page": 16,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 6.7",
+        "level": 4,
+        "page": 16,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 6.8 Example 6.8",
+        "level": 4,
+        "page": 19,
+        "font_size": 13.0
+      },
+      {
+        "text": "of the plane of",
+        "level": 4,
+        "page": 21,
+        "font_size": 10.5
+      },
+      {
+        "text": "Elimination versus substitution",
+        "level": 4,
+        "page": 22,
+        "font_size": 13.0
+      },
+      {
+        "text": "That is why reaction is carried out in dry ether.",
+        "level": 4,
+        "page": 23,
+        "font_size": 10.5
+      },
+      {
+        "text": "Example 6.9",
+        "level": 4,
+        "page": 27,
+        "font_size": 13.0
+      },
+      {
+        "text": "6.8 Polyhalogen 6.8 Polyhalogen Compounds",
+        "level": 4,
+        "page": 29,
+        "font_size": 14.0
+      },
+      {
+        "text": "Summary",
+        "level": 3,
+        "page": 30,
+        "font_size": 16.0
+      },
+      {
+        "text": "Exercises",
+        "level": 2,
+        "page": 31,
+        "font_size": 24.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Alcohols Phenols Objectives Alcohols, Phenols Alcohols Phenols Alcohols, Phenols Alcohols Phenols",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "and ther and Ether thers and ther and Ether thers and ther",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "7.1 Classification 7.1 Classification 7.1 Classification",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Intext Questions",
+        "level": 4,
+        "page": 3,
+        "font_size": 13.0
+      },
+      {
+        "text": "7.2 Nomenclature 7.2 Nomenclature",
+        "level": 4,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 7.1",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Question Intext Question",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "7.3 Structures of 7.3 Structures of Functional",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Groups",
+        "level": 4,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.4 Alcohols and 7.4 Alcohols and Phenols Phenols",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 7.2 Example 7.2",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 7.3 Example 7.3",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 7.4 Example 7.4",
+        "level": 4,
+        "page": 15,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 7.5",
+        "level": 4,
+        "page": 20,
+        "font_size": 13.0
+      },
+      {
+        "text": "7.5 Some Commercially",
+        "level": 4,
+        "page": 22,
+        "font_size": 14.0
+      },
+      {
+        "text": "Important Alcohols Alcohols",
+        "level": 4,
+        "page": 22,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.6 Ethers",
+        "level": 4,
+        "page": 23,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 7.6 Example 7.6",
+        "level": 4,
+        "page": 24,
+        "font_size": 13.0
+      },
+      {
+        "text": "Mechanism",
+        "level": 4,
+        "page": 26,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 7.7 Example 7.7",
+        "level": 4,
+        "page": 27,
+        "font_size": 13.0
+      },
+      {
+        "text": "Summary",
+        "level": 3,
+        "page": 29,
+        "font_size": 16.0
+      },
+      {
+        "text": "Exercises",
+        "level": 2,
+        "page": 30,
+        "font_size": 24.0
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Objectives Aldehydes, Ketones Aldehydes tones Aldehydes, Ketones Aldehydes tones",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "and Carboxylic and Carboxylic and Carboxylic and Carboxylic",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "cids Acids cids",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "8.1 Nomenclature and Structure of Carbonyl Group 8.1 Nomenclature and Structure of Carbonyl Group",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Intext Questions",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.2 Preparation of Aldehydes and Ketones and Ketones",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 8.1 Example 8.1",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Question",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.3 Physical Properties",
+        "level": 4,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 8.2",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.4 Chemical 8.4 Chemical Reactions",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 8.3",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 8.4",
+        "level": 4,
+        "page": 14,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Questions Intext Questions",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.5 Uses of Aldehydes",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "and Ketones",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.6 Nomenclature and Structure of Carboxyl Group 8.6 Nomenclature and Structure of Carboxyl Group",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "Intext Question Intext Question",
+        "level": 4,
+        "page": 19,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.7 Methods of Preparation",
+        "level": 4,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "of Carboxylic of Carboxylic Acids Acids",
+        "level": 4,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 8.5",
+        "level": 4,
+        "page": 21,
+        "font_size": 13.0
+      },
+      {
+        "text": "8.8 Physical Properties Properties",
+        "level": 4,
+        "page": 23,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.9 Chemical Reactions",
+        "level": 4,
+        "page": 23,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.10 Uses of Carboxylic",
+        "level": 4,
+        "page": 28,
+        "font_size": 14.0
+      },
+      {
+        "text": "Acids Acids",
+        "level": 4,
+        "page": 28,
+        "font_size": 14.0
+      },
+      {
+        "text": "Summary Summary",
+        "level": 3,
+        "page": 28,
+        "font_size": 14.3
+      },
+      {
+        "text": "Exercises",
+        "level": 2,
+        "page": 29,
+        "font_size": 24.0
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "Unit Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "mines Amines mines Objectives",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "9.1 Structure of Amines",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.2 Classification",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3 Nomenclature",
+        "level": 4,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "Intext Questions",
+        "level": 4,
+        "page": 4,
+        "font_size": 13.0
+      },
+      {
+        "text": "9.4 Preparation of Amines",
+        "level": 4,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 9.1 Example 9.1",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution Solution",
+        "level": 4,
+        "page": 5,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 9.2",
+        "level": 4,
+        "page": 6,
+        "font_size": 13.0
+      },
+      {
+        "text": "Example 9.3 Example 9.3",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "Solution",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "Intext Question",
+        "level": 4,
+        "page": 7,
+        "font_size": 13.0
+      },
+      {
+        "text": "9.5 Physical Properties",
+        "level": 4,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.6 Chemical Reactions",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 9.4 Example 9.4",
+        "level": 4,
+        "page": 12,
+        "font_size": 13.0
+      },
+      {
+        "text": "Method of 9.7 9.7 Method of Preparation",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "of Diazoniun Salts",
+        "level": 4,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.8 Physical 9.8 Physical Properties",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.9 Chemical 9.9 Chemical Reactions",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": ".10 Importance 9.10 .10 Importance Diazonium ofofofofof Diazonium",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "Salts in Synthesis",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "of Aromatic Compounds Compounds",
+        "level": 4,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "Example 9.5 Solution",
+        "level": 4,
+        "page": 19,
+        "font_size": 13.0
+      },
+      {
+        "text": "Summary Summary",
+        "level": 3,
+        "page": 19,
+        "font_size": 16.0
+      },
+      {
+        "text": "Exercises",
+        "level": 2,
+        "page": 20,
+        "font_size": 24.0
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "Unit",
+        "level": 2,
+        "page": 1,
+        "font_size": 24.0
+      },
+      {
+        "text": "Biomolecules Biomolecules Biomolecules Objectives",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "10.1 Carbohydrates 10.1 Carbohydrates",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "Intext Questions",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "10.2 Proteins 10.2 Proteins",
+        "level": 4,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "Intext Questions Intext Questions",
+        "level": 4,
+        "page": 15,
+        "font_size": 13.0
+      },
+      {
+        "text": "10.3 Enzymes",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.4 Vitamins",
+        "level": 4,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.5.5.5.5.5 Nucleic Acids",
+        "level": 4,
+        "page": 17,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.6 Hormones",
+        "level": 4,
+        "page": 20,
+        "font_size": 14.0
+      },
+      {
+        "text": "Summary",
+        "level": 3,
+        "page": 21,
+        "font_size": 16.0
+      },
+      {
+        "text": "Exercises Exercises",
+        "level": 2,
+        "page": 22,
+        "font_size": 24.0
+      }
+    ]
+  },
+  "biology": {
+    "chapter1": [
+      {
+        "text": "understanding of biology of reproduction.",
+        "level": 4,
+        "page": 1,
+        "font_size": 10.0
+      },
+      {
+        "text": "very first textbooks of Biology for Higher Secondary Schools published by NCERT in 1964.",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.5
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.0
+      },
+      {
+        "text": "SEXUAL REPRODUCTION IN",
+        "level": 1,
+        "page": 3,
+        "font_size": 30.0
+      },
+      {
+        "text": "FLOWERING PLANTS",
+        "level": 1,
+        "page": 3,
+        "font_size": 30.0
+      },
+      {
+        "text": "1.1 F – A F O A",
+        "level": 3,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.2 P - : S E",
+        "level": 3,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.2.1 Stamen, Microsporangium and Pollen Grain",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.2.2 The Pistil, Megasporangium (ovule) and Embryo sac",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "( ( ( ( (",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.5
+      },
+      {
+        "text": "1.2.3 Pollination",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.3 D F",
+        "level": 3,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.4 P - : S E",
+        "level": 3,
+        "page": 18,
+        "font_size": 14.0
+      },
+      {
+        "text": "1.4.1 Endosperm",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.4.2 Embryo",
+        "level": 4,
+        "page": 19,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.4.3 Seed",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "1.5 A P",
+        "level": 3,
+        "page": 22,
+        "font_size": 14.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 23,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 24,
+        "font_size": 30.0
+      }
+    ],
+    "chapter2": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 26.0
+      },
+      {
+        "text": "HUMAN REPRODUCTION",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "2.1 T M R S",
+        "level": 3,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.2 T F R S",
+        "level": 3,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.3 G",
+        "level": 3,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "Secondary oocyte",
+        "level": 4,
+        "page": 8,
+        "font_size": 10.0
+      },
+      {
+        "text": "2.4 M C",
+        "level": 3,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.5 F I",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "2.6 P E D",
+        "level": 3,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "2.7 P L",
+        "level": 4,
+        "page": 13,
+        "font_size": 13.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 14,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 14,
+        "font_size": 30.0
+      }
+    ],
+    "chapter3": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 26.0
+      },
+      {
+        "text": "REPRODUCTIVE HEALTH",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "3.1 R H – P S",
+        "level": 3,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.2 P S B C",
+        "level": 3,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.3 M T P (MTP)",
+        "level": 3,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.4 S T I (STI )",
+        "level": 3,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "3.5 I",
+        "level": 3,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 9,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 10,
+        "font_size": 30.0
+      }
+    ],
+    "chapter4": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.0
+      },
+      {
+        "text": "PRINCIPLES OF INHERITANCE",
+        "level": 1,
+        "page": 3,
+        "font_size": 30.0
+      },
+      {
+        "text": "AND VARIATION",
+        "level": 1,
+        "page": 3,
+        "font_size": 30.0
+      },
+      {
+        "text": "4.1 M ’ L I",
+        "level": 3,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.2 I O G",
+        "level": 3,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.2.1 Law of Dominance",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.2 Law of Segregation",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.2.1 Incomplete Dominance",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.2.2.2 Co-dominance",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.3 I T G",
+        "level": 3,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.3.1 Law of Independent Assortment",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.3.2 Chromosomal Theory of Inheritance",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.3.3 Linkage and Recombination",
+        "level": 4,
+        "page": 17,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.4 P I",
+        "level": 3,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.5 P",
+        "level": 3,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.6 S D",
+        "level": 3,
+        "page": 19,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.6.1 Sex Determination in Humans",
+        "level": 4,
+        "page": 21,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.6.2 Sex Determination in Honey Bee",
+        "level": 4,
+        "page": 21,
+        "font_size": 12.0
+      },
+      {
+        "text": "4.7 M",
+        "level": 3,
+        "page": 22,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.8 G D 4.8.1 Pedigree Analysis",
+        "level": 3,
+        "page": 22,
+        "font_size": 14.0
+      },
+      {
+        "text": "4.8.2 Mendelian Disorders",
+        "level": 4,
+        "page": 23,
+        "font_size": 12.0
+      },
+      {
+        "text": "α β α",
+        "level": 4,
+        "page": 25,
+        "font_size": 10.5
+      },
+      {
+        "text": "4.8.3 Chromosomal Disorders",
+        "level": 4,
+        "page": 25,
+        "font_size": 12.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 27,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 28,
+        "font_size": 30.0
+      }
+    ],
+    "chapter5": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 26.0
+      },
+      {
+        "text": "MOLECULAR BASIS OF",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "INHERITANCE",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "BIOLOGY",
+        "level": 4,
+        "page": 2,
+        "font_size": 9.0
+      },
+      {
+        "text": "5.1 TDNA",
+        "level": 3,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.1.1 Structure of Polynucleotide Chain",
+        "level": 4,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "MOLECULAR BASIS OF INHERITANCE",
+        "level": 4,
+        "page": 3,
+        "font_size": 9.0
+      },
+      {
+        "text": "5.1.2 Packaging of DNA Helix",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.2 T S G M",
+        "level": 3,
+        "page": 6,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.2.1 The Genetic Material is DNA",
+        "level": 4,
+        "page": 7,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.2.2 Properties of Genetic Material (DNA versus RNA)",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.3 RNA W",
+        "level": 3,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.4 R",
+        "level": 3,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.4.1 The Experimental Proof",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.4.2 The Machinery and the Enzymes",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "90 �",
+        "level": 3,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.5 T",
+        "level": 3,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.5.1 Transcription Unit",
+        "level": 3,
+        "page": 13,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.5.2 Transcription Unit and the Gene",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.5.3 Types of RNA and the process of Transcription",
+        "level": 4,
+        "page": 15,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.6 G C",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.6.1 Mutations and Genetic Code",
+        "level": 4,
+        "page": 19,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.6.2 tRNA– the Adapter Molecule",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.7 T",
+        "level": 3,
+        "page": 20,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.8 R G E",
+        "level": 4,
+        "page": 21,
+        "font_size": 13.0
+      },
+      {
+        "text": "5.8.1 The Lac operon",
+        "level": 4,
+        "page": 22,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.9 H G P",
+        "level": 3,
+        "page": 24,
+        "font_size": 14.0
+      },
+      {
+        "text": "5.9.1 Salient Features of Human Genome",
+        "level": 4,
+        "page": 26,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.9.2 Applications and Future Challenges",
+        "level": 4,
+        "page": 26,
+        "font_size": 12.0
+      },
+      {
+        "text": "5.10 DNA F",
+        "level": 3,
+        "page": 27,
+        "font_size": 14.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 30,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 31,
+        "font_size": 30.0
+      }
+    ],
+    "chapter6": [
+      {
+        "text": "BIOLOGY",
+        "level": 4,
+        "page": 1,
+        "font_size": 9.0
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 26.0
+      },
+      {
+        "text": "EVOLUTION",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "6.1 O L",
+        "level": 4,
+        "page": 1,
+        "font_size": 13.0
+      },
+      {
+        "text": "6.2 E L F – A T",
+        "level": 3,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.3 W E",
+        "level": 3,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.4 W A R",
+        "level": 3,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.5 B E",
+        "level": 3,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.6 M E",
+        "level": 3,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.7 H -W P",
+        "level": 3,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.8 A B A E",
+        "level": 3,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "6.9 O E M",
+        "level": 3,
+        "page": 15,
+        "font_size": 14.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 17,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 17,
+        "font_size": 30.0
+      }
+    ],
+    "chapter7": [
+      {
+        "text": "brought socio-cultural changes in human communities. These are briefly described in the following three chapters of this unit.",
+        "level": 4,
+        "page": 1,
+        "font_size": 10.0
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.0
+      },
+      {
+        "text": "HUMAN HEALTH AND DISEASE",
+        "level": 1,
+        "page": 3,
+        "font_size": 30.0
+      },
+      {
+        "text": "7.1 C D H",
+        "level": 3,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.2 I",
+        "level": 3,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.2.1 Innate Immunity",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.2.2 Acquired Immunity",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.2.3 Active and Passive Immunity",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.2.4 Vaccination and Immunisation",
+        "level": 4,
+        "page": 10,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.2.5 Allergies",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.2.6 Auto Immunity",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.2.7 Immune System in the Body",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.3 AIDS",
+        "level": 3,
+        "page": 12,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.4 C",
+        "level": 3,
+        "page": 14,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.5 D A",
+        "level": 3,
+        "page": 16,
+        "font_size": 14.0
+      },
+      {
+        "text": "7.5.1 Adolescence and Drug/Alcohol Abuse",
+        "level": 4,
+        "page": 18,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.5.2 Addiction and Dependence",
+        "level": 4,
+        "page": 19,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.5.3 Effects of Drug/Alcohol Abuse",
+        "level": 4,
+        "page": 19,
+        "font_size": 12.0
+      },
+      {
+        "text": "7.5.4 Prevention and Control",
+        "level": 4,
+        "page": 20,
+        "font_size": 12.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 21,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 22,
+        "font_size": 30.0
+      }
+    ],
+    "chapter8": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 26.0
+      },
+      {
+        "text": "MICROBES IN HUMAN WELFARE",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "BIOLOGY",
+        "level": 4,
+        "page": 2,
+        "font_size": 9.0
+      },
+      {
+        "text": "8.1 M H P",
+        "level": 3,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.2 M I P",
+        "level": 3,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.2.1 Fermented Beverages",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.2.2 Antibiotics",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.2.3 Chemicals, Enzymes and other Bioactive Molecules",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "8.3 M S T",
+        "level": 3,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.4 M P B",
+        "level": 3,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.5 M B A",
+        "level": 3,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "8.6 M B",
+        "level": 3,
+        "page": 9,
+        "font_size": 14.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 11,
+        "font_size": 30.0
+      }
+    ],
+    "chapter9": [
+      {
+        "text": "act as manufacturing plants for specific proteins. This breakthrough was the basis upon which the discipline of biotechnology was founded.",
+        "level": 4,
+        "page": 2,
+        "font_size": 10.5
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.0
+      },
+      {
+        "text": "BIOTECHNOLOGY : PRINCIPLES",
+        "level": 1,
+        "page": 3,
+        "font_size": 30.0
+      },
+      {
+        "text": "AND PROCESSES",
+        "level": 1,
+        "page": 3,
+        "font_size": 30.0
+      },
+      {
+        "text": "9.1 P B",
+        "level": 3,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.2 T RDNA T",
+        "level": 3,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.2.1 Restriction Enzymes",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.2.2 Cloning Vectors",
+        "level": 4,
+        "page": 8,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.2.3 Competent Host (For Transformation with Recombinant DNA)",
+        "level": 3,
+        "page": 10,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3 P RDNA T",
+        "level": 3,
+        "page": 11,
+        "font_size": 14.0
+      },
+      {
+        "text": "9.3.1 Isolation of the Genetic Material (DNA)",
+        "level": 4,
+        "page": 11,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.3.2 Cutting of DNA at Specific Locations",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.3.3 Amplification of Gene of Interest using PCR",
+        "level": 4,
+        "page": 12,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.3.4 Insertion of Recombinant DNA into the Host Cell/Organism",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.3.5 Obtaining the Foreign Gene Product",
+        "level": 4,
+        "page": 13,
+        "font_size": 12.0
+      },
+      {
+        "text": "9.3.6 Downstream Processing",
+        "level": 4,
+        "page": 14,
+        "font_size": 12.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 15,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 15,
+        "font_size": 30.0
+      }
+    ],
+    "chapter10": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 26.0
+      },
+      {
+        "text": "BIOTECHNOLOGY AND ITS",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "APPLICATIONS",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "10.1 B A A",
+        "level": 3,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.2 B A M",
+        "level": 3,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.2.1 Genetically Engineered Insulin",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.2.2 Gene Therapy",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.2.3 Molecular Diagnosis",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "10.3 T A",
+        "level": 3,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "10.4 E I",
+        "level": 4,
+        "page": 8,
+        "font_size": 13.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 10,
+        "font_size": 30.0
+      }
+    ],
+    "chapter11": [
+      {
+        "text": "takes a critical view of the above aspects.",
+        "level": 4,
+        "page": 1,
+        "font_size": 10.0
+      },
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 3,
+        "font_size": 26.0
+      },
+      {
+        "text": "ORGANISMS AND POPULATIONS",
+        "level": 1,
+        "page": 3,
+        "font_size": 30.0
+      },
+      {
+        "text": "11.1 P 11.1.1 Population Attributes",
+        "level": 3,
+        "page": 4,
+        "font_size": 14.0
+      },
+      {
+        "text": "11.1.2 Population Growth",
+        "level": 4,
+        "page": 5,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.1.3 Life History Variation",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "11.1.4 Population Interactions",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 16,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 17,
+        "font_size": 30.0
+      }
+    ],
+    "chapter12": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 26.0
+      },
+      {
+        "text": "ECOSYSTEM",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "12.1 E – S F",
+        "level": 3,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "12.2 P",
+        "level": 3,
+        "page": 2,
+        "font_size": 14.0
+      },
+      {
+        "text": "12.3 D",
+        "level": 3,
+        "page": 3,
+        "font_size": 14.0
+      },
+      {
+        "text": "12.4 E F",
+        "level": 3,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "12.5 E P",
+        "level": 3,
+        "page": 7,
+        "font_size": 14.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "EXERCISES",
+        "level": 1,
+        "page": 10,
+        "font_size": 30.0
+      }
+    ],
+    "chapter13": [
+      {
+        "text": "CHAPTER",
+        "level": 2,
+        "page": 1,
+        "font_size": 26.0
+      },
+      {
+        "text": "BIODIVERSITY AND",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "CONSERVATION",
+        "level": 1,
+        "page": 1,
+        "font_size": 30.0
+      },
+      {
+        "text": "13.1 B",
+        "level": 4,
+        "page": 1,
+        "font_size": 14.0
+      },
+      {
+        "text": "13.1.1 How Many Species are there on Earth and How Many in India?",
+        "level": 4,
+        "page": 2,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.1.2 Patterns of Biodiversity",
+        "level": 4,
+        "page": 4,
+        "font_size": 12.0
+      },
+      {
+        "text": "220 13.1.3 The importance of Species Diversity to the Ecosystem",
+        "level": 4,
+        "page": 5,
+        "font_size": 14.0
+      },
+      {
+        "text": "13.1.4 Loss of Biodiversity",
+        "level": 4,
+        "page": 6,
+        "font_size": 12.0
+      },
+      {
+        "text": "13.2 B C 13.2.1 Why Should We Conserve Biodiversity?",
+        "level": 4,
+        "page": 8,
+        "font_size": 14.0
+      },
+      {
+        "text": "13.2.2 How do we conserve Biodiversity?",
+        "level": 4,
+        "page": 9,
+        "font_size": 12.0
+      },
+      {
+        "text": "SUMMARY",
+        "level": 4,
+        "page": 10,
+        "font_size": 13.0
+      },
+      {
+        "text": "226 EXERCISES",
+        "level": 1,
+        "page": 11,
+        "font_size": 30.0
+      },
+      {
+        "text": "NOTES",
+        "level": 3,
+        "page": 13,
+        "font_size": 24.0
+      }
+    ]
+  }
+}
