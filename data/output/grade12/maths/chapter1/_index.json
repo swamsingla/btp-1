@@ -1,0 +1,46 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 12,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "RELATIONS AND FUNCTIONS",
+  "topics": [
+    {
+      "topic_number": "1.1",
+      "topic_title": "Introduction",
+      "file": "1.1_Introduction.md",
+      "importance": 2,
+      "content_length": 4078,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.2",
+      "topic_title": "Types of Relations",
+      "file": "1.2_Types_of_Relations.md",
+      "importance": 5,
+      "content_length": 9363,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.3",
+      "topic_title": "Types of Functions",
+      "file": "1.3_Types_of_Functions.md",
+      "importance": 5,
+      "content_length": 7587,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.4",
+      "topic_title": "Composition of Functions and Invertible Function",
+      "file": "1.4_Composition_of_Functions_and_Invertible_Function.md",
+      "importance": 5,
+      "content_length": 8150,
+      "generation_time": 306.5
+    }
+  ],
+  "total_content_length": 29178,
+  "total_generation_time": 306.5
+}

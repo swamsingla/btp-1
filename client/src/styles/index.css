@@ -1648,6 +1648,55 @@ img {
   color: var(--text-secondary);
 }
 
+/* ── Generated content: Related Topics links ── */
+.prose a.related-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--primary);
+  font-weight: 500;
+  text-decoration: none;
+  border-bottom: 1px dashed var(--primary);
+  transition: border-style 0.15s;
+}
+.prose a.related-link:hover {
+  border-bottom-style: solid;
+  text-decoration: none;
+}
+
+/* ── Generated content: Key Formulas table ── */
+.prose .table-wrap {
+  overflow-x: auto;
+  margin: 1em 0;
+}
+.prose table.key-formulas {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.93em;
+}
+.prose table.key-formulas th,
+.prose table.key-formulas td {
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+.prose table.key-formulas th {
+  background: var(--bg-secondary);
+  font-weight: 600;
+}
+.prose table.key-formulas tr:nth-child(even) td {
+  background: var(--bg-secondary);
+}
+
+/* ── Generated content: Display math wrapper ── */
+.prose .math-display {
+  display: block;
+  overflow-x: auto;
+  text-align: center;
+  margin: 0.75em 0;
+}
+
 .footer-bottom {
   max-width: var(--max-width);
   margin: 32px auto 0;

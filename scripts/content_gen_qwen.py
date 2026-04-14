@@ -78,82 +78,119 @@ def load_model():
 
 # ═══════════ IMPORTANCE SCORING ═══════════
 
+def unload_model():
+    """Unload model from GPU to free memory for the next model."""
+    global _model, _tokenizer
+    if _model is not None:
+        del _model
+        _model = None
+    if _tokenizer is not None:
+        del _tokenizer
+        _tokenizer = None
+    gc.collect()
+    torch.cuda.empty_cache()
+    print("  Model unloaded, GPU memory freed.")
+
+
 def score_topic_importance(chunks: List[Dict], chapter_title: str, grade: int) -> List[int]:
     topic_list = "\n".join(
         f"  {c['topic_number']} {c['topic_title']}" for c in chunks
     )
 
-    prompt = f"""As an expert NCERT curriculum designer, look at this list of topics for Class {grade} '{chapter_title}'.
-Assign an importance score from 1 to 5 to each topic based on how fundamental it is to the subject and its weightage in board exams.
+    # Build the expected output format as an example
+    example_lines = "\n".join(f"{c['topic_number']}: <score>" for c in chunks)
 
-Scoring guide:
-  5 = Core concept, heavily tested, foundational for future learning
+    prompt = f"""As an expert NCERT curriculum designer, score each topic for Class {grade} '{chapter_title}'.
+
+Score 1-5:
+  5 = Core concept, heavily tested in board exams, foundational
   4 = Important, frequently appears in exams
   3 = Moderate importance, supporting concept
   2 = Minor, rarely tested directly
-  1 = Supplementary, enrichment only
+  1 = Supplementary / enrichment only
 
-Topics:
+Topics to score:
 {topic_list}
 
-Respond with ONLY the scores, one per line, in format:
-topic_number: score
+Reply with EXACTLY {len(chunks)} lines, one per topic, in this format:
+{example_lines}
 
-Example:
-1.1: 4
-1.2: 5
-1.3: 3"""
+Replace <score> with a number 1-5. Output NOTHING else — no explanations, no headers, no extra text.
+/no_think"""
 
-    system = "You are an NCERT curriculum expert. Respond only with the requested scores, nothing else."
+    system = "You are an NCERT curriculum expert. Output ONLY the topic scores in the exact format requested. No thinking, no explanation, no extra text."
 
-    try:
-        result = generate_content(prompt, system, max_new_tokens=256)
-        scores = {}
-        for line in result.strip().split('\n'):
-            line = line.strip()
-            if ':' in line:
-                parts = line.split(':')
-                topic_num = parts[0].strip()
-                try:
-                    score = int(parts[1].strip())
-                    score = max(1, min(5, score))
-                    scores[topic_num] = score
-                except ValueError:
-                    pass
+    max_attempts = 5
+    for attempt in range(max_attempts):
+        try:
+            # Clear GPU cache before each attempt
+            gc.collect()
+            torch.cuda.empty_cache()
 
-        result_scores = []
-        for c in chunks:
-            s = scores.get(c['topic_number'], 3)
-            result_scores.append(s)
-        return result_scores
-    except Exception as e:
-        print(f"  Warning: Scoring failed ({e}), using default scores")
-        return [3] * len(chunks)
+            result = generate_content(prompt, system, max_new_tokens=256)
+            # Strip any <think> blocks that Qwen3 might include
+            result = re.sub(r'<think>.*?</think>', '', result, flags=re.DOTALL).strip()
+            print(f"  [Scoring attempt {attempt+1}] Raw LLM output:\n{result}")
+            scores = {}
+            for line in result.strip().split('\n'):
+                line = line.strip()
+                if not line:
+                    continue
+                # Try to match "topic_number: score" or "topic_number score" or similar
+                # Match patterns like "1.1: 4", "1.6.1: 5", "1.1 Introduction: 4"
+                m = re.match(r'^(\d+\.\d+(?:\.\d+)?)\b.*?(\d)\s*$', line)
+                if m:
+                    topic_num = m.group(1)
+                    score_val = int(m.group(2))
+                    if 1 <= score_val <= 5:
+                        scores[topic_num] = score_val
+
+            # Check how many topics we got scores for
+            matched = sum(1 for c in chunks if c['topic_number'] in scores)
+            print(f"  [Scoring attempt {attempt+1}] Matched {matched}/{len(chunks)} topics")
+
+            if matched >= len(chunks) * 0.7:  # At least 70% matched
+                result_scores = []
+                for c in chunks:
+                    s = scores.get(c['topic_number'], 3)
+                    result_scores.append(s)
+                return result_scores
+            else:
+                print(f"  [Scoring attempt {attempt+1}] Too few matches, retrying...")
+        except Exception as e:
+            print(f"  [Scoring attempt {attempt+1}] Error: {e}")
+            # If model failed to load, clear and retry
+            gc.collect()
+            torch.cuda.empty_cache()
+            import time as _t
+            _t.sleep(2)
+
+    # FAIL HARD — importance scores MUST come from the LLM
+    raise RuntimeError(
+        f"Importance scoring failed after {max_attempts} attempts. "
+        "Check GPU memory (nvidia-smi) and ensure no other processes are using GPUs."
+    )
 
 
 def _estimate_content_size(chunk: Dict, importance: int = 3) -> str:
     content_len = chunk.get("content_length", 0)
-    depth = chunk.get("depth", 2)
-
-    if depth >= 3:
-        return "concise (300-500 words)"
 
     if importance >= 5:
-        return "comprehensive (1200-1800 words)"
+        return "comprehensive (1500-2200 words)"
     elif importance >= 4:
         if content_len < 500:
-            return "moderate (500-800 words)"
-        else:
             return "detailed (800-1200 words)"
+        else:
+            return "comprehensive (1200-1800 words)"
     elif importance >= 3:
         if content_len < 500:
-            return "brief (300-500 words)"
+            return "moderate (600-900 words)"
         else:
-            return "moderate (500-800 words)"
+            return "detailed (800-1200 words)"
     elif importance >= 2:
-        return "brief (200-400 words)"
+        return "moderate (500-800 words)"
     else:
-        return "concise (150-300 words)"
+        return "brief (400-600 words)"
 
 
 def _build_system_prompt(grade: int) -> str:
@@ -193,6 +230,7 @@ Your content must be:
 
 FORMATTING RULES (strictly follow):
 - Use Markdown: ## for main sections, ### for subsections, **bold** for key terms
+- IMPORTANT: Number all ## headings sequentially (## 1. Prerequisites, ## 2. Introduction, ## 3. Explanation, ## 4. Solved Examples, etc.) and all ### subheadings as X.Y (### 3.1 Definition, ### 3.2 Properties, etc.)
 - ALL math formulas MUST use LaTeX: inline $x^2$ or display $$\\frac{{a}}{{b}}$$
 - CRITICAL: Display math ($$...$$) MUST be on its own line, with a blank line before and after:
   Correct:
@@ -228,86 +266,159 @@ def _build_topic_prompt(chunk: Dict, chapter_title: str, grade: int,
     if len(source_text) > 2500:
         source_text = source_text[:2500] + "\n[...source continues...]"
 
-    if importance >= 4:
-        section_instructions = """Write the topic page with these sections (ALL required):
+    # Build the related topics list (exclude current topic)
+    related_topics_str = "\n".join(f"  - {t}" for t in all_topics if not t.startswith(topic_num + " "))
 
-## Introduction
+    if importance >= 4:
+        section_instructions = f"""Write the topic page with these sections (ALL required, in this exact order, with NUMBERED headings):
+
+## 1. Prerequisites
+- List 2-3 concepts the student should already know before studying this topic
+- Be specific (e.g., "Understanding of set notation and element membership")
+
+## 2. Introduction
 - Open with a hook — a question, real-life connection, or motivating observation
 - State what the student will learn from THIS specific topic
 - Connect to what they already know
 
-## Explanation
+## 3. Explanation
 - Explain ONLY the concepts present in the source text above — do NOT add material from other topics
 - Define all key terms in **bold** when first introduced
 - State all definitions, theorems, and properties in > blockquote format
-- Use LaTeX for all math: inline $x$ or display $$...$$ (display math MUST be on its own line with blank lines around it)
+- IMPORTANT: If any theorem, corollary, lemma, or result is mentioned or referenced in the source text, include its COMPLETE statement and FULL step-by-step proof. Do NOT skip proofs or say "proof omitted"
+- EVERY mathematical expression, symbol, set notation, number reference, or formula MUST be in LaTeX: inline $x$ or display $$...$$ (display math MUST be on its own line with blank lines around it)
+- Even simple things like set names ($A$, $B$), membership ($\\in$), subset ($\\subset$), element references must be in LaTeX
 - Build understanding step-by-step, from simple to complex
 
-## Solved Examples
-- 3-4 fully worked examples based on the source material
+## 4. Solved Examples
+- 4-5 fully worked examples based ONLY on THIS topic's concepts from the source material
 - Number as **Example 1:**, **Example 2:**, etc.
 - Begin each solution with "**Solution:**"
-- Show every intermediate step
+- Show EVERY intermediate step — do not skip any reasoning
+- VERIFY each answer is mathematically correct before writing it
+- All math in LaTeX
 
-## Practice Problems
-- 3-4 unsolved problems (mark difficulty: 🟢 Easy, 🟡 Medium, 🔴 Hard)
-- Give final answers only in an "**Answers:**" subsection
+## 5. Practice Problems
+- 4-5 unsolved problems ordered by difficulty: Easy first, then Medium, then Hard
+- Mark each: 🟢 Easy, 🟡 Medium, 🔴 Hard (place the tag at the START of each problem)
+- Problems MUST be directly related to THIS topic only — do not use concepts from other topics
+- In the "**Answers:**" subsection, provide DETAILED step-by-step solutions for EACH problem, not just final answers
+- DOUBLE-CHECK every answer is correct — verify by solving the problem yourself step by step
+- All math in LaTeX
 
-## Summary
-- 4-6 bullet points summarising the key concepts and formulas from this topic
+## 6. Summary
+- 5-7 bullet points summarising the key concepts and formulas from this topic
+- All math in LaTeX
 
-## Student Corner
+## 7. Key Formulas
+- A markdown table listing every important formula, definition, or property introduced in this topic
+- Format: | Formula | Description |
+- All formulas in LaTeX
+
+## 8. Student Corner
 - **Common Mistakes:** 2-3 typical errors with corrections
 - **Exam Tips:** 1-2 tips specific to this topic
-- **Memory Aid:** A mnemonic or shortcut if applicable"""
+- **Memory Aid:** A mnemonic or shortcut if applicable
+
+## 9. Related Topics
+List 2-4 topics from this chapter that are conceptually connected to this topic:
+{related_topics_str}
+Format as: - [Topic Number Topic Title] — one line explaining the connection"""
 
     elif importance >= 3:
-        section_instructions = """Write the topic page with these sections:
+        section_instructions = f"""Write the topic page with these sections (ALL required, in this exact order, with NUMBERED headings):
 
-## Introduction
+## 1. Prerequisites
+- List 2-3 concepts the student should already know before studying this topic
+
+## 2. Introduction
 - Brief hook and state what the student will learn (2-3 sentences)
 
-## Explanation
+## 3. Explanation
 - Explain ONLY the concepts present in the source text above — do NOT add material from other topics
 - Define key terms in **bold**
 - State formulas and properties in > blockquote format
-- Use LaTeX for all math expressions
+- If any theorem, corollary, or proof is present in the source text, include the COMPLETE statement and FULL proof step by step
+- EVERY mathematical expression, symbol, set notation, or formula MUST be in LaTeX: inline $x$ or display $$...$$
+- Even simple things like set names ($A$, $B$), membership ($\\in$), subset ($\\subset$) must be in LaTeX
 
-## Solved Examples
-- 2-3 worked examples (if problem-solving is relevant to this topic)
-- Show all steps, number them **Example 1:**, etc.
+## 4. Solved Examples
+- 3-4 worked examples based ONLY on THIS topic's concepts
+- Show ALL steps, number them **Example 1:**, etc.
+- Begin each with "**Solution:**"
+- VERIFY each answer is mathematically correct
+- All math in LaTeX
 
-## Practice Problems
-- 2-3 unsolved problems with difficulty markers (🟢 🟡 🔴) and final answers
+## 5. Practice Problems
+- 3-4 unsolved problems ordered by difficulty: Easy first, then Medium, then Hard
+- Mark each: 🟢 Easy, 🟡 Medium, 🔴 Hard (place the tag at the START of each problem)
+- Problems MUST be directly related to THIS topic only
+- In "**Answers:**" subsection, provide DETAILED step-by-step solutions, not just final answers
+- DOUBLE-CHECK every answer is correct
+- All math in LaTeX
 
-## Summary
-- 3-5 bullet points of key concepts and formulas
+## 6. Summary
+- 4-6 bullet points of key concepts and formulas (all math in LaTeX)
 
-## Student Corner
-- **Common Mistakes:** 1-2 errors worth flagging (only if genuinely useful)
-- Include Memory Aid or Exam Tips only if directly relevant"""
+## 7. Key Formulas
+- A markdown table: | Formula | Description |
+- All formulas in LaTeX
+
+## 8. Student Corner
+- **Common Mistakes:** 1-2 errors worth flagging
+- Include Memory Aid or Exam Tips only if directly relevant
+
+## 9. Related Topics
+List 2-3 related topics from this chapter:
+{related_topics_str}
+Format as: - [Topic Number Topic Title] — one line explaining the connection"""
 
     else:
-        section_instructions = """Write a concise topic page. Keep it brief and focused — do not pad.
+        section_instructions = f"""Write a topic page with these sections (use NUMBERED headings):
 
-## Introduction
+## 1. Prerequisites
+- List 1-2 concepts the student should already know
+
+## 2. Introduction
 - 2-3 sentences: hook + what the student will learn
 
-## Explanation
+## 3. Explanation
 - Explain ONLY the concepts present in the source text above — do NOT add material from other topics
-- Define key terms, state important formulas using LaTeX
+- Define key terms, state important formulas
+- If any theorem, corollary, or proof exists in the source, include it completely
+- EVERY mathematical expression MUST be in LaTeX: inline $x$ or display $$...$$
 
-Include ONLY if genuinely useful for this specific topic:
-## Solved Examples (1-2 examples maximum)
-## Practice Problems (1-2 problems maximum)
-## Summary (2-3 point recap)
-## Student Corner (only if there are common mistakes worth mentioning)"""
+## 4. Solved Examples
+- 2-3 worked examples with full step-by-step solutions
+- VERIFY each answer is mathematically correct
+- All math in LaTeX
+
+## 5. Practice Problems
+- 2-3 problems ordered by difficulty: Easy first, then Medium, then Hard
+- Mark each: 🟢 Easy, 🟡 Medium, 🔴 Hard (place the tag at the START of each problem)
+- In "**Answers:**", provide step-by-step solutions
+- DOUBLE-CHECK correctness
+- All math in LaTeX
+
+## 6. Summary
+- 3-5 bullet points (all math in LaTeX)
+
+## 7. Key Formulas
+- Markdown table: | Formula | Description |
+
+## 8. Related Topics
+List 2-3 related topics:
+{related_topics_str}
+Format as: - [Topic Number Topic Title] — one line explaining the connection"""
 
     return f"""Create a student-friendly educational page for the following NCERT topic. Write ENTIRELY in English.
 
 Topic: {topic_num} {topic_title}
 Chapter: {chapter_title} (Grade {grade})
 Target length: {size_hint}
+
+All topics in this chapter (for context — do NOT cover content from these other topics):
+{chr(10).join('  - ' + t for t in all_topics)}
 
 SOURCE TEXT (from the NCERT textbook for THIS specific topic section):
 ---
@@ -318,15 +429,23 @@ IMPORTANT RULES:
 1. Base your content EXCLUSIVELY on the SOURCE TEXT above. Do not add concepts from other parts of the chapter.
 2. Do not mention topic numbers, importance scores, or any internal metadata in your output.
 3. Every word must be in English — absolutely no Chinese, Hindi, or any other language.
-4. All math must be in LaTeX: inline $x$ or display $$...$$ (display math on its own line with blank lines around it).
+4. CRITICAL — ALL math MUST be in LaTeX without exception:
+   - Set names: $A$, $B$, $U$ (never plain A, B, U when referring to sets)
+   - Symbols: $\\in$, $\\notin$, $\\subset$, $\\subseteq$, $\\cup$, $\\cap$, $\\emptyset$, $\\phi$
+   - Numbers in math context: $x = 2$, $n(A) = 5$
+   - Display math on its own line with blank lines before and after
+   - Even simple expressions like "element a belongs to set A" should be "$a \\in A$"
+5. Solved examples and practice problem answers MUST be verified for correctness. Show every step.
 
 {section_instructions}
 
 STRICT OUTPUT RULES:
 - Do NOT start your response with the topic title (it will be added automatically)
 - Do NOT include any preamble like "Here is the content" or "Sure, I will..."
-- Start directly with the first ## heading
-- Write ENTIRELY in English"""
+- Start directly with the first ## heading (## 1. Prerequisites)
+- Write ENTIRELY in English
+- Every mathematical symbol, set name, or formula MUST be in LaTeX
+- CRITICAL: All ## headings MUST have sequential numbers (## 1. Prerequisites, ## 2. Introduction, etc.) and ### subheadings MUST use parent.child numbering (### 3.1 Definition, etc.)"""
 
 
 # ═══════════ GENERATION ═══════════
@@ -386,7 +505,7 @@ def generate_content(prompt: str, system_prompt: str,
                 del inputs
                 gc.collect()
                 torch.cuda.empty_cache()
-                inputs = tokenizer(input_text, return_tensors="pt").to("cuda:0")
+                inputs = tokenizer(input_text, return_tensors="pt").to(embed_device)
             else:
                 raise
 
@@ -434,6 +553,35 @@ def _fix_latex_formatting(text: str) -> str:
     return text
 
 
+# ═══════════ CHAPTER INTRO GENERATION ═══════════
+
+def generate_chapter_intro(chapter_title: str, grade: int, all_topics: List[str]) -> str:
+    """Generate a short introduction paragraph for the chapter overview page."""
+    system_prompt = _build_system_prompt(grade)
+    topics_list = '\n'.join(f'  - {t}' for t in all_topics)
+    prompt = f"""Write a SHORT introduction paragraph (3-5 sentences) for the chapter overview page.
+
+Chapter: {chapter_title} (Grade {grade})
+Topics covered in this chapter:
+{topics_list}
+
+Rules:
+- Write a welcoming, student-friendly paragraph that explains what this chapter covers
+- Mention the key themes and concepts students will learn
+- Do NOT list all topics — just give a high-level overview
+- Write ENTIRELY in English
+- Keep it under 100 words
+- Do NOT include any headings or markdown formatting
+- Just write the paragraph text directly"""
+
+    text = generate_content(prompt, system_prompt, max_new_tokens=512)
+    text = _clean_generated_content(text)
+    # Strip any accidental markdown headings
+    text = re.sub(r'^#+\s+.*\n', '', text)
+    text = re.sub(r'^\*\*.*?\*\*\s*', '', text)
+    return text.strip()
+
+
 # ═══════════ CHAPTER PROCESSING ═══════════
 
 def generate_chapter_content(chunks_file: str, output_dir: str):
@@ -444,6 +592,7 @@ def generate_chapter_content(chunks_file: str, output_dir: str):
     grade = data.get("grade", 11)
     chapter_num = data.get("chapter_number", 1)
     chapter_title = data.get("chapter_title", "Unknown")
+    subject = data.get("subject", "maths")
 
     out_dir = Path(output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -493,15 +642,15 @@ def generate_chapter_content(chunks_file: str, output_dir: str):
         prompt = _build_topic_prompt(chunk, chapter_title, grade, all_topics, importance)
 
         if importance >= 5:
-            max_tokens = 4096
+            max_tokens = 6144
         elif importance >= 4:
-            max_tokens = 3072
+            max_tokens = 5120
         elif importance >= 3:
-            max_tokens = 2560
+            max_tokens = 4096
         elif importance >= 2:
-            max_tokens = 2048
+            max_tokens = 3072
         else:
-            max_tokens = 1536
+            max_tokens = 2560
 
         raw_content = generate_content(prompt, system_prompt, max_tokens)
         content = _clean_generated_content(raw_content)
@@ -528,7 +677,8 @@ def generate_chapter_content(chunks_file: str, output_dir: str):
 
     index = {
         "model": MODEL_ID,
-        "grade": grade, "chapter_number": chapter_num, "chapter_title": chapter_title,
+        "grade": grade, "subject": subject,
+        "chapter_number": chapter_num, "chapter_title": chapter_title,
         "topics": results,
         "total_content_length": sum(r["content_length"] for r in results),
         "total_generation_time": sum(r["generation_time"] for r in results),
@@ -536,6 +686,20 @@ def generate_chapter_content(chunks_file: str, output_dir: str):
 
     with open(out_dir / "_index.json", 'w', encoding='utf-8') as f:
         json.dump(index, f, indent=2, ensure_ascii=False)
+
+    # Generate chapter intro paragraph
+    print("\n  Generating chapter introduction...", end=" ", flush=True)
+    intro_file = out_dir / "_chapter_intro.txt"
+    if not intro_file.exists():
+        try:
+            intro_text = generate_chapter_intro(chapter_title, grade, all_topics)
+            with open(intro_file, 'w', encoding='utf-8') as f:
+                f.write(intro_text)
+            print(f"({len(intro_text)} chars)")
+        except Exception as e:
+            print(f"Failed: {e}")
+    else:
+        print("(exists, skipping)")
 
     print(f"\nDone! {len(results)} topics | {index['total_content_length']} chars | {index['total_generation_time']:.1f}s")
     print(f"Output: {out_dir}")

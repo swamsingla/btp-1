@@ -1,0 +1,35 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 10,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "REAL NUMBERS",
+  "topics": [
+    {
+      "topic_number": "1.1",
+      "topic_title": "Introduction",
+      "file": "1.1_Introduction.md",
+      "importance": 2,
+      "content_length": 4657,
+      "generation_time": 237.9
+    },
+    {
+      "topic_number": "1.2",
+      "topic_title": "The Fundamental Theorem of Arithmetic",
+      "file": "1.2_The_Fundamental_Theorem_of_Arithmetic.md",
+      "importance": 5,
+      "content_length": 7518,
+      "generation_time": 275.9
+    },
+    {
+      "topic_number": "1.3",
+      "topic_title": "Revisiting Irrational Numbers",
+      "file": "1.3_Revisiting_Irrational_Numbers.md",
+      "importance": 4,
+      "content_length": 7484,
+      "generation_time": 286.8
+    }
+  ],
+  "total_content_length": 19659,
+  "total_generation_time": 800.5999999999999
+}
