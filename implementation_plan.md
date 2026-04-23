@@ -9,9 +9,9 @@ The current pipeline extracts headings linearly from NCERT PDFs (e.g., `1.1 Real
 1. **Not a flat list** — instead a **knowledge graph** like Khan Academy, where each concept is a node with prerequisite edges
 2. **Not board-specific** — topics should cover the **union** of all Indian curricula; the LLM knows what topics exist across boards
 3. **Not section-numbered pages** — instead **true Wikipedia-style pages** per concept (e.g., "Newton's First Law" is its own page, not "Chapter 5, Section 5.1")
-4. **No translation** — prefer direct generation in target languages. Use LLaMA-8B for intermediate generation tasks (planning, topic-discovery, summarization), and reserve Sarvam models for the final high-quality article generation
+4. **No translation** — prefer direct generation in target languages. Use LLaMA-8B for ALL intermediate generation tasks (topic discovery, canonicalization, summarization, plan-building) AND for final English page generation. Reserve Sarvam-30B **only** for the final multilingual page generation step (Stage 4) where highest multilingual fluency is required.
 5. **Same topic, different depth per grade** — "Newton's Third Law" has separate grade-appropriate pages for Grade 8 vs Grade 11
-6. **Model usage (updated)**: Use LLaMA-8B for intermediate generative steps (topic discovery, canonicalization, summarization, plan-building). Use Sarvam-30B or Sarvam-105B only for the final page-level content generation where highest multilingual fluency and style are required.
+6. **Model usage**: LLaMA-8B handles everything (Stages 1–3 and English generation). Sarvam-30B is used **only** in Stage 4 for generating pages in Hindi, Telugu, Odia and other Indian languages.
 
 ---
 
@@ -91,7 +91,7 @@ The current pipeline extracts headings linearly from NCERT PDFs (e.g., `1.1 Real
    - Already works for grades 6–12, maths + science
 
 2. **LLM-powered comprehensive topic discovery** (the primary source):
-   - For each grade+subject, prompt Sarvam-30B:
+   - For each grade+subject, prompt **LLaMA-8B** (local):
      *"List ALL important topics and concepts that an Indian student in Grade {X} should learn in {Subject}. Cover topics from NCERT, ICSE, all major state boards, and any universally important concepts. The goal is completeness — a student who masters all these topics should have world-class understanding at this grade level."*
    - Cross-reference with NCERT headings to ensure nothing is missed
    - The LLM output is the primary topic source; NCERT headings are validation
@@ -127,7 +127,7 @@ The current pipeline extracts headings linearly from NCERT PDFs (e.g., `1.1 Real
 
 **Step 2a: Canonical Concept Extraction with Full Hierarchy**
 
-Use Sarvam-30B to process the merged topic lists and identify **canonical concepts** at EVERY hierarchy level — the actual knowledge atoms that should become Wikipedia pages.
+Use **LLaMA-8B** (local) to process the merged topic lists and identify **canonical concepts** at EVERY hierarchy level — the actual knowledge atoms that should become Wikipedia pages.
 
 **Key insight: How to decide what gets its own page?**
 
@@ -181,7 +181,7 @@ Output as nested JSON:
 
 **Step 2b: Prerequisite Edge Construction**
 
-For each subject+grade cluster, prompt the LLM:
+For each subject+grade cluster, prompt **LLaMA-8B** (local):
 ```
 Here are the canonical concepts for {Subject} relevant to Grade {X}:
 {concept_list}
@@ -255,7 +255,7 @@ The graph is structured in layers:
    - Tool: use `requests` + `BeautifulSoup` or a search API
 
 3. **Summarize all references**: Combine NCERT chunks + web content, then:
-   - Use Sarvam-30B: *"Summarize the key content about {concept} for Grade {X}, keeping all formulas and definitions."*
+   - Use **LLaMA-8B** (local): *"Summarize the key content about {concept} for Grade {X}, keeping all formulas and definitions."*
    - Compress to ~3000 chars to fit in generation prompt
 
 4. **Determine page structure from hierarchy level**:
@@ -294,7 +294,7 @@ The graph is structured in layers:
 
 #### [NEW] [generate_pages.py](file:///home/swamsingla/btp-1/scripts/generate_pages.py)
 
-**Uses Sarvam-30B API** (free, OpenAI-compatible endpoint).
+**Uses LLaMA-8B (local) for English pages, and Sarvam-30B API for multilingual pages** (Hindi, Telugu, Odia, etc.).
 
 **Generation prompt design:**
 
@@ -333,12 +333,18 @@ Language: {language}
 ```
 
 **For multilingual generation** (the key change — no translation):
-- For each page, call Sarvam-30B separately for each target language
-- The prompt itself is in that language (or English with instruction to generate in target language)
-- Sarvam-30B natively supports 22 Indian languages, so direct generation quality >> translation
+- For each page, call **LLaMA-8B locally for English** generation first
+- Then call **Sarvam-30B API** separately for each target Indian language (Hindi, Telugu, Odia, etc.)
+- Sarvam-30B is used **exclusively for multilingual output** — not for any intermediate steps
 
 **API integration:**
 ```python
+# --- English generation: LLaMA-8B (local) ---
+from llm_local import generate_text
+
+english_page = generate_text(prompt=generation_prompt, max_new_tokens=2500)
+
+# --- Multilingual generation: Sarvam-30B API ---
 import openai
 
 client = openai.OpenAI(
@@ -347,7 +353,7 @@ client = openai.OpenAI(
 )
 
 response = client.chat.completions.create(
-    model="sarvam-30b",  # or "sarvam-105b" for higher quality
+    model="sarvam-30b",   # only for non-English languages
     messages=[
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": generation_prompt}
@@ -455,7 +461,7 @@ The current webapp shows linear chapter/section lists. Update to:
 # 1. For each grade+subject:
 #    a. Extract headings from NCERT PDFs (reuse extract_headings.py logic)
 #    b. Load any curated syllabus files for ICSE/state boards
-#    c. Call Sarvam-30B to discover additional topics across boards
+#    c. Call LLaMA-8B (local) to discover additional topics across boards
 #    d. Merge all into a unified raw topic list with source attribution
 ```
 
@@ -474,10 +480,10 @@ The current webapp shows linear chapter/section lists. Update to:
 # 1. Load all raw topics across all grades and boards
 # 2. For each subject (maths, physics, chemistry, biology):
 #    a. Batch all raw topics for this subject
-#    b. Prompt Sarvam-30B in batches of ~50 topics:
+#    b. Prompt LLaMA-8B (local) in batches of ~20 topics:
 #       "Here are topics from multiple boards. Extract canonical concepts."
 #    c. Deduplicate the extracted concepts (fuzzy match on names)
-#    d. For each grade, prompt Sarvam-30B:
+#    d. For each grade, prompt LLaMA-8B (local):
 #       "What are the prerequisite relationships between these concepts?"
 #    e. Build DAG, validate no cycles (topological sort check)
 #    f. Identify entry points per grade (concepts with no prerequisites in that grade)
@@ -502,7 +508,7 @@ The current webapp shows linear chapter/section lists. Update to:
 #    - Also search chunk content for concept name mentions
 #    - Take top 3-5 matching chunks
 # 2. If total matched content > 3000 chars:
-#    - Summarize using Sarvam-30B: "Summarize about {concept} from this text"
+#    - Summarize using LLaMA-8B (local): "Summarize about {concept} from this text"
 # 3. Determine page structure based on importance score
 # 4. List cross-reference links (prerequisites, related, next-grade)
 # 5. Write page plan JSON
@@ -521,13 +527,14 @@ The current webapp shows linear chapter/section lists. Update to:
 # Algorithm:
 # For each page plan:
 # 1. Build the Wikipedia-style generation prompt
-# 2. For each target language:
-#    a. Call Sarvam-30B API (OpenAI-compatible)
+# 2. Call LLaMA-8B (local) → generate English page
+# 3. For each non-English target language:
+#    a. Call Sarvam-30B API (OpenAI-compatible) — ONLY for multilingual output
 #    b. Post-process: fix LaTeX, add wikilinks, clean formatting
 #    c. Save markdown file
-# 3. Update index with metadata
+# 4. Update index with metadata
 #
-# Rate limiting: Sarvam free tier may have rate limits
+# Rate limiting: Sarvam free tier may have rate limits (multilingual calls only)
 # → Implement exponential backoff + resume support (skip existing files)
 ```
 
@@ -568,7 +575,7 @@ The **content_planner** determines this by:
 3. **LLM knowledge as primary content engine**: The LLM is not a "fallback" — it is the primary content author. The textbook chunks are **grounding references** to ensure accuracy and curriculum alignment, but the LLM should produce content that matches or exceeds textbook quality. The prompt says:
    *"Write as if you are the best teacher in India explaining this concept. A student reading this in {language} should understand the topic as well as someone who studied from the best English textbooks."*
    
-   This works because Sarvam-30B has been trained extensively on Indian education content in 22 languages.
+   **English pages use LLaMA-8B (local)**. For Indian language pages, Sarvam-30B takes the English page as reference and generates natively in the target language (it supports 22 Indian languages).
 
 ---
 
