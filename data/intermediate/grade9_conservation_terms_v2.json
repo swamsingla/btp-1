@@ -1,0 +1,1644 @@
+{
+  "per_page": {
+    "chapter1/1.1_Introduction.md": {
+      "mathematical_terms": [
+        "denominator",
+        "fraction",
+        "integer",
+        "integers",
+        "numerator"
+      ],
+      "theorems_and_laws": [],
+      "notation_terms": [
+        "\\mathbb{N}",
+        "\\mathbb{Q}",
+        "\\mathbb{W}",
+        "\\mathbb{Z}"
+      ],
+      "domain_phrases": [
+        "Important Theorem",
+        "decimal expansion",
+        "irrational number",
+        "irrational numbers",
+        "natural number",
+        "natural numbers",
+        "number line",
+        "number system",
+        "number systems",
+        "rational number",
+        "rational numbers",
+        "real number",
+        "real numbers",
+        "terminating decimal",
+        "whole number",
+        "whole numbers"
+      ],
+      "conserve_in_english": [
+        "\\mathbb{N}",
+        "\\mathbb{Q}",
+        "\\mathbb{W}",
+        "\\mathbb{Z}"
+      ]
+    },
+    "chapter1/1.2_Irrational_Numbers.md": {
+      "mathematical_terms": [
+        "constant",
+        "coprime",
+        "fraction",
+        "integers"
+      ],
+      "theorems_and_laws": [],
+      "notation_terms": [
+        "\\mathbb{Q}",
+        "\\mathbb{R}"
+      ],
+      "domain_phrases": [
+        "all non-repeating decimals",
+        "completely fill the number line",
+        "coprime integers",
+        "decimal expansion",
+        "decimal expansions",
+        "irrational number",
+        "irrational numbers",
+        "laws of exponents",
+        "non-repeating and non-terminating",
+        "non-repeating, non-terminating decimal expansions",
+        "number line",
+        "number system",
+        "number systems",
+        "rational number",
+        "rational numbers",
+        "real number",
+        "real numbers",
+        "repeating decimal",
+        "set notation",
+        "square root",
+        "square roots",
+        "terminating decimal"
+      ],
+      "conserve_in_english": [
+        "\\mathbb{Q}",
+        "\\mathbb{R}"
+      ]
+    },
+    "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md": {
+      "mathematical_terms": [
+        "Theorem",
+        "integers",
+        "repeats"
+      ],
+      "theorems_and_laws": [],
+      "notation_terms": [],
+      "domain_phrases": [
+        "Basic division algorithm",
+        "Confusing terminating and recurring decimals",
+        "Decimal expansions",
+        "Fractions and decimals",
+        "Ignoring remainders",
+        "Non-Terminating Recurring Decimal",
+        "Non-terminating recurring decimals",
+        "Practice long division",
+        "Set notation and element membership",
+        "Terminating decimals",
+        "decimal expansion",
+        "decimal expansions of real numbers",
+        "division algorithm",
+        "finite or infinite periodic decimal expansions",
+        "irrational number",
+        "irrational numbers",
+        "laws of exponents",
+        "length of the repeating block",
+        "less than the divisor",
+        "no pattern",
+        "non-repeating, non-terminating decimals",
+        "non-terminating recurring",
+        "number of digits in the repeating block",
+        "number system",
+        "number systems",
+        "rational number",
+        "rational numbers",
+        "real number",
+        "real numbers",
+        "recurring decimal",
+        "repeating block",
+        "terminating decimal"
+      ],
+      "conserve_in_english": []
+    },
+    "chapter1/1.4_Operations_on_Real_Numbers.md": {
+      "mathematical_terms": [
+        "associative",
+        "coefficients",
+        "commutative",
+        "denominator",
+        "distributive",
+        "exponent",
+        "fraction",
+        "integers",
+        "numerator",
+        "radical",
+        "radicand",
+        "rationalize"
+      ],
+      "theorems_and_laws": [
+        "Associative law for addition",
+        "Associative law for multiplication",
+        "Commutative law for addition",
+        "Commutative law for multiplication",
+        "Distributive law",
+        "Theorem 1",
+        "Theorem 2",
+        "Theorem 3"
+      ],
+      "notation_terms": [],
+      "domain_phrases": [
+        "\"Rational + Irrational = Irrational\"",
+        "Decimal Expansions",
+        "Operations on irrationals",
+        "Radical simplification",
+        "Square roots",
+        "Sum/Difference of rational and irrational",
+        "Theorem 1",
+        "Theorem 2",
+        "Theorem 3",
+        "Use theorems",
+        "closure property",
+        "decimal expansion",
+        "irrational number",
+        "irrational numbers",
+        "laws of exponents",
+        "non-zero rational number",
+        "number line",
+        "number system",
+        "number systems",
+        "rational number",
+        "rational numbers",
+        "real number",
+        "real numbers",
+        "square root",
+        "terminating decimal",
+        "whole number"
+      ],
+      "conserve_in_english": []
+    },
+    "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md": {
+      "mathematical_terms": [
+        "LEAP",
+        "base",
+        "exponent",
+        "integer",
+        "integers",
+        "power"
+      ],
+      "theorems_and_laws": [
+        "Law 1",
+        "Law 2",
+        "Law 3",
+        "Law 4"
+      ],
+      "notation_terms": [],
+      "domain_phrases": [
+        "Basic exponent rules",
+        "Law 1",
+        "Law 2",
+        "Law 3",
+        "Law 4",
+        "Mistake 1",
+        "Mistake 2",
+        "Negative exponents",
+        "Rational exponents",
+        "Tip 1",
+        "Tip 2",
+        "decimal expansion",
+        "irrational number",
+        "irrational numbers",
+        "laws of exponents",
+        "negative exponent",
+        "number system",
+        "number systems",
+        "positive real numbers",
+        "rational exponent",
+        "rational number",
+        "rational numbers",
+        "real number",
+        "real numbers"
+      ],
+      "conserve_in_english": []
+    },
+    "chapter2/2.1_Introduction.md": {
+      "mathematical_terms": [
+        "FOIL",
+        "binomial",
+        "binomials",
+        "coefficient",
+        "coefficients",
+        "degree",
+        "exponent",
+        "factor",
+        "factorisation",
+        "factorization",
+        "integer",
+        "monomial",
+        "monomials",
+        "polynomial",
+        "polynomials",
+        "power",
+        "trinomial",
+        "trinomials",
+        "variable"
+      ],
+      "theorems_and_laws": [
+        "Identity 1",
+        "Identity 2",
+        "Identity 3"
+      ],
+      "notation_terms": [
+        "P(x)"
+      ],
+      "domain_phrases": [
+        "Answer 1",
+        "Answer 2",
+        "Answer 3",
+        "Identity 1",
+        "Identity 2",
+        "Identity 3",
+        "Key Property",
+        "algebraic expression",
+        "algebraic expressions",
+        "algebraic identities",
+        "negative exponent",
+        "zeroes of a polynomial"
+      ],
+      "conserve_in_english": [
+        "P(x)"
+      ]
+    },
+    "chapter2/2.2_Polynomials_in_One_Variable.md": {
+      "mathematical_terms": [
+        "coefficient",
+        "coefficients",
+        "constant",
+        "constants",
+        "degree",
+        "exponent",
+        "factor",
+        "factorisation",
+        "integer",
+        "integers",
+        "polynomial",
+        "polynomials",
+        "power",
+        "variable",
+        "variables"
+      ],
+      "theorems_and_laws": [],
+      "notation_terms": [],
+      "domain_phrases": [
+        "Examples from the Source Text",
+        "Exponents and Powers",
+        "Focus on definitions",
+        "Key Points",
+        "Practice simplification",
+        "Variables and Constants",
+        "algebraic expression",
+        "algebraic expressions",
+        "algebraic identities",
+        "cubic polynomial",
+        "highest exponent",
+        "not a non-negative integer",
+        "polynomial in one variable",
+        "polynomials in one variable",
+        "zeroes of a polynomial"
+      ],
+      "conserve_in_english": []
+    },
+    "chapter2/2.3_Zeroes_of_a_Polynomial.md": {
+      "mathematical_terms": [
+        "coefficients",
+        "constant",
+        "factorisation",
+        "factorization",
+        "polynomial",
+        "polynomials",
+        "variable",
+        "zeroes"
+      ],
+      "theorems_and_laws": [],
+      "notation_terms": [
+        "p(c)",
+        "p(k)",
+        "p(x)"
+      ],
+      "domain_phrases": [
+        "Memorize linear zero formula",
+        "Non-zero constant polynomials",
+        "Polynomials in one variable",
+        "Practice substitution",
+        "Special Case 1",
+        "Special Case 2",
+        "algebraic identities",
+        "every real number",
+        "is a zero",
+        "linear polynomial",
+        "no zeroes",
+        "non-zero constant polynomial",
+        "non-zero constants",
+        "real number",
+        "real numbers",
+        "zero of a polynomial",
+        "zero polynomial",
+        "zero polynomial rule",
+        "zeroes of a polynomial"
+      ],
+      "conserve_in_english": [
+        "p(c)",
+        "p(k)",
+        "p(x)"
+      ]
+    },
+    "chapter2/2.4_Factorisation_of_Polynomials.md": {
+      "mathematical_terms": [
+        "F.O.I.L.",
+        "binomials",
+        "coefficient",
+        "constant",
+        "degree",
+        "factor",
+        "factorisation",
+        "polynomial",
+        "polynomials",
+        "variable"
+      ],
+      "theorems_and_laws": [
+        "Factor Theorem",
+        "Remainder Theorem"
+      ],
+      "notation_terms": [
+        "g(a)",
+        "g(x)",
+        "p(a)",
+        "p(x)",
+        "q(a)",
+        "q(x)"
+      ],
+      "domain_phrases": [
+        "Case (i)",
+        "Case (ii)",
+        "Factor Theorem",
+        "Incorrect splitting of terms",
+        "Misapplying the Factor Theorem",
+        "Remainder Theorem",
+        "algebraic identities",
+        "basic algebraic identities",
+        "factorisation of polynomials",
+        "if and only if",
+        "leading coefficient",
+        "polynomials in one variable",
+        "quadratic polynomial",
+        "quadratic polynomials",
+        "real number",
+        "zeroes of a polynomial"
+      ],
+      "conserve_in_english": [
+        "g(a)",
+        "g(x)",
+        "p(a)",
+        "p(x)",
+        "q(a)",
+        "q(x)"
+      ]
+    },
+    "chapter2/2.5_Algebraic_Identities.md": {
+      "mathematical_terms": [
+        "binomial",
+        "binomials",
+        "distributive",
+        "factorisation",
+        "factorization",
+        "polynomial",
+        "polynomials",
+        "power",
+        "trinomial",
+        "variable"
+      ],
+      "theorems_and_laws": [
+        "Identity I",
+        "Identity II",
+        "Identity III",
+        "Identity IV",
+        "Identity V",
+        "distributive law"
+      ],
+      "notation_terms": [],
+      "domain_phrases": [
+        "\"Square, Subtract, Multiply, Expand, Trinomial\"",
+        "Basic factorization techniques",
+        "Check for symmetry",
+        "Computational efficiency",
+        "Definition of Algebraic Identity",
+        "Expanding algebraic expressions",
+        "Factorizing polynomials",
+        "Identity I",
+        "Identity II",
+        "Identity III",
+        "Identity IV",
+        "Identity V",
+        "Incorrect sign application",
+        "Memorize identities",
+        "Misidentifying patterns",
+        "Recognizing patterns in expressions",
+        "algebraic expression",
+        "algebraic expressions",
+        "algebraic identities",
+        "algebraic identity",
+        "five fundamental algebraic identities",
+        "four key identities",
+        "zeroes of a polynomial"
+      ],
+      "conserve_in_english": []
+    },
+    "chapter3/3.1_Introduction.md": {
+      "mathematical_terms": [
+        "Columns",
+        "East",
+        "North",
+        "Rows",
+        "axes",
+        "coordinate",
+        "integers",
+        "origin",
+        "quadrant",
+        "quadrants",
+        "x-axis",
+        "x-coordinate",
+        "x-direction",
+        "y-axis",
+        "y-coordinate",
+        "y-direction"
+      ],
+      "theorems_and_laws": [],
+      "notation_terms": [
+        "x-axis",
+        "x-coordinate",
+        "y-axis",
+        "y-coordinate"
+      ],
+      "domain_phrases": [
+        "House 5",
+        "Ignoring negative values",
+        "Key Terms",
+        "Mixing up x and y coordinates",
+        "Street 2",
+        "cartesian system",
+        "coordinate geometry",
+        "coordinate plane",
+        "first number (2)",
+        "horizontal and vertical lines",
+        "number line",
+        "perpendicular lines",
+        "reference points",
+        "second number (5)",
+        "two independent pieces of information",
+        "two perpendicular lines",
+        "two reference points"
+      ],
+      "conserve_in_english": [
+        "cartesian system",
+        "x-axis",
+        "x-coordinate",
+        "y-axis",
+        "y-coordinate"
+      ]
+    },
+    "chapter3/3.2_Cartesian_System.md": {
+      "mathematical_terms": [
+        "axes",
+        "origin",
+        "quadrant",
+        "quadrants",
+        "x-axis",
+        "y-axis"
+      ],
+      "theorems_and_laws": [],
+      "notation_terms": [
+        "x-axis",
+        "y-axis"
+      ],
+      "domain_phrases": [
+        "Basic Geometry Concepts",
+        "I, II, III, and IV",
+        "Important Theorem",
+        "Number Line Representation",
+        "Origin (O)",
+        "Point A(1, 2)",
+        "Point B(-3, 4)",
+        "Point C(0, -5)",
+        "Problem 6",
+        "Problem 7",
+        "Quadrant I",
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant IV",
+        "cartesian plane",
+        "cartesian system",
+        "coordinate geometry",
+        "four quadrants",
+        "number line",
+        "ordered pair",
+        "perpendicular lines"
+      ],
+      "conserve_in_english": [
+        "cartesian plane",
+        "cartesian system",
+        "x-axis",
+        "y-axis"
+      ]
+    }
+  },
+  "cross_page": {
+    "high_priority": {
+      "integers": {
+        "term": "integers",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter3/3.1_Introduction.md"
+        ],
+        "count": 7
+      },
+      "real number": {
+        "term": "real number",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md"
+        ],
+        "count": 7
+      },
+      "real numbers": {
+        "term": "real numbers",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md"
+        ],
+        "count": 6
+      },
+      "exponent": {
+        "term": "exponent",
+        "pages": [
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md",
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md"
+        ],
+        "count": 6
+      },
+      "fraction": {
+        "term": "fraction",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 5
+      },
+      "decimal expansion": {
+        "term": "decimal expansion",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 5
+      },
+      "irrational number": {
+        "term": "irrational number",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 5
+      },
+      "irrational numbers": {
+        "term": "irrational numbers",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 5
+      },
+      "number line": {
+        "term": "number line",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 5
+      },
+      "number system": {
+        "term": "number system",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 5
+      },
+      "number systems": {
+        "term": "number systems",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 5
+      },
+      "rational number": {
+        "term": "rational number",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 5
+      },
+      "rational numbers": {
+        "term": "rational numbers",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 5
+      },
+      "decimal expansions": {
+        "term": "decimal expansions",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 5
+      },
+      "theorem": {
+        "term": "theorem",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 5
+      },
+      "coefficient": {
+        "term": "coefficient",
+        "pages": [
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md"
+        ],
+        "count": 5
+      },
+      "factorisation": {
+        "term": "factorisation",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 5
+      },
+      "polynomial": {
+        "term": "polynomial",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 5
+      },
+      "polynomials": {
+        "term": "polynomials",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 5
+      },
+      "variable": {
+        "term": "variable",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 5
+      },
+      "algebraic identities": {
+        "term": "algebraic identities",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 5
+      },
+      "zeroes of a polynomial": {
+        "term": "zeroes of a polynomial",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 5
+      },
+      "polynomials in one variable": {
+        "term": "polynomials in one variable",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 5
+      },
+      "zeroes": {
+        "term": "zeroes",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 5
+      },
+      "factorisation of polynomials": {
+        "term": "factorisation of polynomials",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 5
+      },
+      "integer": {
+        "term": "integer",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md",
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md"
+        ],
+        "count": 4
+      },
+      "terminating decimal": {
+        "term": "terminating decimal",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md"
+        ],
+        "count": 4
+      },
+      "constant": {
+        "term": "constant",
+        "pages": [
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md"
+        ],
+        "count": 4
+      },
+      "laws of exponents": {
+        "term": "laws of exponents",
+        "pages": [
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md"
+        ],
+        "count": 4
+      },
+      "terminating decimals": {
+        "term": "terminating decimals",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md"
+        ],
+        "count": 4
+      },
+      "coefficients": {
+        "term": "coefficients",
+        "pages": [
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md"
+        ],
+        "count": 4
+      },
+      "power": {
+        "term": "power",
+        "pages": [
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md",
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 4
+      },
+      "variables": {
+        "term": "variables",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 4
+      }
+    },
+    "medium_priority": {
+      "denominator": {
+        "term": "denominator",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md"
+        ],
+        "count": 3
+      },
+      "repeating decimal": {
+        "term": "repeating decimal",
+        "pages": [
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md"
+        ],
+        "count": 3
+      },
+      "binomial": {
+        "term": "binomial",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 3
+      },
+      "binomials": {
+        "term": "binomials",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 3
+      },
+      "degree": {
+        "term": "degree",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md"
+        ],
+        "count": 3
+      },
+      "factor": {
+        "term": "factor",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.4_Factorisation_of_Polynomials.md"
+        ],
+        "count": 3
+      },
+      "factorization": {
+        "term": "factorization",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 3
+      },
+      "algebraic expression": {
+        "term": "algebraic expression",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 3
+      },
+      "algebraic expressions": {
+        "term": "algebraic expressions",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 3
+      },
+      "numerator": {
+        "term": "numerator",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md"
+        ],
+        "count": 2
+      },
+      "important theorem": {
+        "term": "important theorem",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "whole number": {
+        "term": "whole number",
+        "pages": [
+          "chapter1/1.1_Introduction.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md"
+        ],
+        "count": 2
+      },
+      "set notation": {
+        "term": "set notation",
+        "pages": [
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md"
+        ],
+        "count": 2
+      },
+      "square root": {
+        "term": "square root",
+        "pages": [
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md"
+        ],
+        "count": 2
+      },
+      "square roots": {
+        "term": "square roots",
+        "pages": [
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.4_Operations_on_Real_Numbers.md"
+        ],
+        "count": 2
+      },
+      "non-repeating, non-terminating decimals": {
+        "term": "non-repeating, non-terminating decimals",
+        "pages": [
+          "chapter1/1.2_Irrational_Numbers.md",
+          "chapter1/1.3_Real_Numbers_and_their_Decimal_Expansions.md"
+        ],
+        "count": 2
+      },
+      "distributive": {
+        "term": "distributive",
+        "pages": [
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 2
+      },
+      "distributive law": {
+        "term": "distributive law",
+        "pages": [
+          "chapter1/1.4_Operations_on_Real_Numbers.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 2
+      },
+      "negative exponents": {
+        "term": "negative exponents",
+        "pages": [
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md",
+          "chapter2/2.1_Introduction.md"
+        ],
+        "count": 2
+      },
+      "negative exponent": {
+        "term": "negative exponent",
+        "pages": [
+          "chapter1/1.5_Laws_of_Exponents_for_Real_Numbers.md",
+          "chapter2/2.1_Introduction.md"
+        ],
+        "count": 2
+      },
+      "trinomial": {
+        "term": "trinomial",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.5_Algebraic_Identities.md"
+        ],
+        "count": 2
+      },
+      "constants": {
+        "term": "constants",
+        "pages": [
+          "chapter2/2.2_Polynomials_in_One_Variable.md",
+          "chapter2/2.3_Zeroes_of_a_Polynomial.md"
+        ],
+        "count": 2
+      },
+      "highest exponent": {
+        "term": "highest exponent",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md"
+        ],
+        "count": 2
+      },
+      "polynomial in one variable": {
+        "term": "polynomial in one variable",
+        "pages": [
+          "chapter2/2.1_Introduction.md",
+          "chapter2/2.2_Polynomials_in_One_Variable.md"
+        ],
+        "count": 2
+      },
+      "axes": {
+        "term": "axes",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "coordinate": {
+        "term": "coordinate",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "origin": {
+        "term": "origin",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "quadrant": {
+        "term": "quadrant",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "quadrants": {
+        "term": "quadrants",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "x-axis": {
+        "term": "x-axis",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "y-axis": {
+        "term": "y-axis",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "cartesian system": {
+        "term": "cartesian system",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "coordinate geometry": {
+        "term": "coordinate geometry",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "horizontal and vertical lines": {
+        "term": "horizontal and vertical lines",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "perpendicular lines": {
+        "term": "perpendicular lines",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "quadrant i": {
+        "term": "quadrant i",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "quadrant ii": {
+        "term": "quadrant ii",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "quadrant iii": {
+        "term": "quadrant iii",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      },
+      "quadrant iv": {
+        "term": "quadrant iv",
+        "pages": [
+          "chapter3/3.1_Introduction.md",
+          "chapter3/3.2_Cartesian_System.md"
+        ],
+        "count": 2
+      }
+    }
+  },
+  "gap_analysis": {
+    "glossary_size": 140,
+    "conservation_terms": 224,
+    "covered_by_glossary": 85,
+    "missing_from_glossary": [
+      "\"rational + irrational = irrational\"",
+      "\"square, subtract, multiply, expand, trinomial\"",
+      "all non-repeating decimals",
+      "answer 1",
+      "answer 2",
+      "answer 3",
+      "associative",
+      "basic factorization techniques",
+      "basic geometry concepts",
+      "binomial",
+      "cartesian plane",
+      "case (i)",
+      "case (ii)",
+      "check for symmetry",
+      "columns",
+      "commutative",
+      "completely fill the number line",
+      "computational efficiency",
+      "confusing terminating and recurring decimals",
+      "constants",
+      "coordinate plane",
+      "coprime",
+      "cubic polynomial",
+      "definition of algebraic identity",
+      "distributive",
+      "division algorithm",
+      "east",
+      "every real number",
+      "examples from the source text",
+      "expanding algebraic expressions",
+      "f.o.i.l.",
+      "factor",
+      "factorisation",
+      "factorization",
+      "factorizing polynomials",
+      "finite or infinite periodic decimal expansions",
+      "first number (2)",
+      "five fundamental algebraic identities",
+      "focus on definitions",
+      "foil",
+      "four key identities",
+      "four quadrants",
+      "fraction",
+      "highest exponent",
+      "house 5",
+      "i, ii, iii, and iv",
+      "identity 1",
+      "identity 2",
+      "identity 3",
+      "identity i",
+      "identity ii",
+      "identity iii",
+      "identity iv",
+      "identity v",
+      "if and only if",
+      "ignoring negative values",
+      "ignoring remainders",
+      "important theorem",
+      "incorrect sign application",
+      "incorrect splitting of terms",
+      "integer",
+      "is a zero",
+      "key points",
+      "key property",
+      "key terms",
+      "leading coefficient",
+      "leap",
+      "length of the repeating block",
+      "less than the divisor",
+      "memorize identities",
+      "memorize linear zero formula",
+      "misapplying the factor theorem",
+      "misidentifying patterns",
+      "mistake 1",
+      "mistake 2",
+      "mixing up x and y coordinates",
+      "monomial",
+      "natural number",
+      "no pattern",
+      "no zeroes",
+      "non-repeating and non-terminating",
+      "non-repeating, non-terminating decimal expansions",
+      "non-repeating, non-terminating decimals",
+      "non-terminating recurring decimals",
+      "non-zero constant polynomials",
+      "non-zero constants",
+      "north",
+      "not a non-negative integer",
+      "number of digits in the repeating block",
+      "number system",
+      "number systems",
+      "operations on irrationals",
+      "ordered pair",
+      "origin (o)",
+      "point a(1, 2)",
+      "point b(-3, 4)",
+      "point c(0, -5)",
+      "polynomials",
+      "polynomials in one variable",
+      "power",
+      "practice long division",
+      "practice simplification",
+      "practice substitution",
+      "problem 6",
+      "problem 7",
+      "quadrant i",
+      "quadrant ii",
+      "quadrant iii",
+      "quadrant iv",
+      "quadratic polynomial",
+      "radical",
+      "radical simplification",
+      "rationalize",
+      "recognizing patterns in expressions",
+      "recurring decimal",
+      "repeating decimal",
+      "repeats",
+      "rows",
+      "second number (5)",
+      "special case 1",
+      "special case 2",
+      "square root",
+      "street 2",
+      "sum/difference of rational and irrational",
+      "theorem",
+      "theorem 1",
+      "theorem 2",
+      "theorem 3",
+      "tip 1",
+      "tip 2",
+      "trinomial",
+      "two independent pieces of information",
+      "use theorems",
+      "variables",
+      "variables and constants",
+      "whole number",
+      "x-direction",
+      "y-direction",
+      "zero polynomial rule"
+    ]
+  },
+  "all_unique_terms": [
+    "\"Rational + Irrational = Irrational\"",
+    "\"Square, Subtract, Multiply, Expand, Trinomial\"",
+    "Answer 1",
+    "Answer 2",
+    "Answer 3",
+    "Associative law for addition",
+    "Associative law for multiplication",
+    "Basic Geometry Concepts",
+    "Basic division algorithm",
+    "Basic exponent rules",
+    "Basic factorization techniques",
+    "Case (i)",
+    "Case (ii)",
+    "Check for symmetry",
+    "Columns",
+    "Commutative law for addition",
+    "Commutative law for multiplication",
+    "Computational efficiency",
+    "Confusing terminating and recurring decimals",
+    "Decimal Expansions",
+    "Decimal expansions",
+    "Definition of Algebraic Identity",
+    "Distributive law",
+    "East",
+    "Examples from the Source Text",
+    "Expanding algebraic expressions",
+    "Exponents and Powers",
+    "F.O.I.L.",
+    "FOIL",
+    "Factor Theorem",
+    "Factorizing polynomials",
+    "Focus on definitions",
+    "Fractions and decimals",
+    "House 5",
+    "I, II, III, and IV",
+    "Identity 1",
+    "Identity 2",
+    "Identity 3",
+    "Identity I",
+    "Identity II",
+    "Identity III",
+    "Identity IV",
+    "Identity V",
+    "Ignoring negative values",
+    "Ignoring remainders",
+    "Important Theorem",
+    "Incorrect sign application",
+    "Incorrect splitting of terms",
+    "Key Points",
+    "Key Property",
+    "Key Terms",
+    "LEAP",
+    "Law 1",
+    "Law 2",
+    "Law 3",
+    "Law 4",
+    "Memorize identities",
+    "Memorize linear zero formula",
+    "Misapplying the Factor Theorem",
+    "Misidentifying patterns",
+    "Mistake 1",
+    "Mistake 2",
+    "Mixing up x and y coordinates",
+    "Negative exponents",
+    "Non-Terminating Recurring Decimal",
+    "Non-terminating recurring decimals",
+    "Non-zero constant polynomials",
+    "North",
+    "Number Line Representation",
+    "Operations on irrationals",
+    "Origin (O)",
+    "P(x)",
+    "Point A(1, 2)",
+    "Point B(-3, 4)",
+    "Point C(0, -5)",
+    "Polynomials in one variable",
+    "Practice long division",
+    "Practice simplification",
+    "Practice substitution",
+    "Problem 6",
+    "Problem 7",
+    "Quadrant I",
+    "Quadrant II",
+    "Quadrant III",
+    "Quadrant IV",
+    "Radical simplification",
+    "Rational exponents",
+    "Recognizing patterns in expressions",
+    "Remainder Theorem",
+    "Rows",
+    "Set notation and element membership",
+    "Special Case 1",
+    "Special Case 2",
+    "Square roots",
+    "Street 2",
+    "Sum/Difference of rational and irrational",
+    "Terminating decimals",
+    "Theorem",
+    "Theorem 1",
+    "Theorem 2",
+    "Theorem 3",
+    "Tip 1",
+    "Tip 2",
+    "Use theorems",
+    "Variables and Constants",
+    "\\mathbb{N}",
+    "\\mathbb{Q}",
+    "\\mathbb{R}",
+    "\\mathbb{W}",
+    "\\mathbb{Z}",
+    "algebraic expression",
+    "algebraic expressions",
+    "algebraic identities",
+    "algebraic identity",
+    "all non-repeating decimals",
+    "associative",
+    "axes",
+    "base",
+    "basic algebraic identities",
+    "binomial",
+    "binomials",
+    "cartesian plane",
+    "cartesian system",
+    "closure property",
+    "coefficient",
+    "coefficients",
+    "commutative",
+    "completely fill the number line",
+    "constant",
+    "constants",
+    "coordinate",
+    "coordinate geometry",
+    "coordinate plane",
+    "coprime",
+    "coprime integers",
+    "cubic polynomial",
+    "decimal expansion",
+    "decimal expansions",
+    "decimal expansions of real numbers",
+    "degree",
+    "denominator",
+    "distributive",
+    "distributive law",
+    "division algorithm",
+    "every real number",
+    "exponent",
+    "factor",
+    "factorisation",
+    "factorisation of polynomials",
+    "factorization",
+    "finite or infinite periodic decimal expansions",
+    "first number (2)",
+    "five fundamental algebraic identities",
+    "four key identities",
+    "four quadrants",
+    "fraction",
+    "g(a)",
+    "g(x)",
+    "highest exponent",
+    "horizontal and vertical lines",
+    "if and only if",
+    "integer",
+    "integers",
+    "irrational number",
+    "irrational numbers",
+    "is a zero",
+    "laws of exponents",
+    "leading coefficient",
+    "length of the repeating block",
+    "less than the divisor",
+    "linear polynomial",
+    "monomial",
+    "monomials",
+    "natural number",
+    "natural numbers",
+    "negative exponent",
+    "no pattern",
+    "no zeroes",
+    "non-repeating and non-terminating",
+    "non-repeating, non-terminating decimal expansions",
+    "non-repeating, non-terminating decimals",
+    "non-terminating recurring",
+    "non-zero constant polynomial",
+    "non-zero constants",
+    "non-zero rational number",
+    "not a non-negative integer",
+    "number line",
+    "number of digits in the repeating block",
+    "number system",
+    "number systems",
+    "numerator",
+    "ordered pair",
+    "origin",
+    "p(a)",
+    "p(c)",
+    "p(k)",
+    "p(x)",
+    "perpendicular lines",
+    "polynomial",
+    "polynomial in one variable",
+    "polynomials",
+    "polynomials in one variable",
+    "positive real numbers",
+    "power",
+    "q(a)",
+    "q(x)",
+    "quadrant",
+    "quadrants",
+    "quadratic polynomial",
+    "quadratic polynomials",
+    "radical",
+    "radicand",
+    "rational exponent",
+    "rational number",
+    "rational numbers",
+    "rationalize",
+    "real number",
+    "real numbers",
+    "recurring decimal",
+    "reference points",
+    "repeating block",
+    "repeating decimal",
+    "repeats",
+    "second number (5)",
+    "set notation",
+    "square root",
+    "square roots",
+    "terminating decimal",
+    "trinomial",
+    "trinomials",
+    "two independent pieces of information",
+    "two perpendicular lines",
+    "two reference points",
+    "variable",
+    "variables",
+    "whole number",
+    "whole numbers",
+    "x-axis",
+    "x-coordinate",
+    "x-direction",
+    "y-axis",
+    "y-coordinate",
+    "y-direction",
+    "zero of a polynomial",
+    "zero polynomial",
+    "zero polynomial rule",
+    "zeroes",
+    "zeroes of a polynomial"
+  ],
+  "total_unique": 248,
+  "pages_processed": 12
+}

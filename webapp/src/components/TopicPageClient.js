@@ -3,9 +3,12 @@ import { useState } from 'react';
 import TopicContent from './TopicContent';
 import LanguageSwitch from './LanguageSwitch';
 
-export default function TopicPageClient({ topic, translations }) {
+export default function TopicPageClient({ topic, translations, initialLang }) {
   const availableLangs = ['en', ...Object.keys(translations || {})];
-  const [lang, setLang] = useState('en');
+
+  // Use initial language from URL ?lang= parameter (passed from server)
+  const startLang = initialLang && availableLangs.includes(initialLang) ? initialLang : 'en';
+  const [lang, setLang] = useState(startLang);
 
   const content = lang === 'en'
     ? topic.content
@@ -22,7 +25,7 @@ export default function TopicPageClient({ topic, translations }) {
           />
         </div>
       )}
-      <TopicContent html={content} key={lang} />
+      <TopicContent html={content} lang={lang} key={lang} />
     </>
   );
 }

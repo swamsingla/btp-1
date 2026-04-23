@@ -1,0 +1,35 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 8,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "A SQUARE AND A CUBE",
+  "topics": [
+    {
+      "topic_number": "1.1",
+      "topic_title": "Square Numbers",
+      "file": "1.1_Square_Numbers.md",
+      "importance": 5,
+      "content_length": 6771,
+      "generation_time": 348.5
+    },
+    {
+      "topic_number": "1.2",
+      "topic_title": "Cubic Numbers",
+      "file": "1.2_Cubic_Numbers.md",
+      "importance": 5,
+      "content_length": 7260,
+      "generation_time": 324.6
+    },
+    {
+      "topic_number": "1.3",
+      "topic_title": "A Pinch of History",
+      "file": "1.3_A_Pinch_of_History.md",
+      "importance": 2,
+      "content_length": 4437,
+      "generation_time": 207.0
+    }
+  ],
+  "total_content_length": 18468,
+  "total_generation_time": 880.1
+}

@@ -1,0 +1,59 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 1,
+  "chapter_title": "PATTERNS IN MATHEMATICS",
+  "topics": [
+    {
+      "topic_number": "1.1",
+      "topic_title": "What is Mathematics?",
+      "file": "1.1_What_is_Mathematics.md",
+      "importance": 2,
+      "content_length": 4878,
+      "generation_time": 147.4
+    },
+    {
+      "topic_number": "1.2",
+      "topic_title": "Patterns in Numbers",
+      "file": "1.2_Patterns_in_Numbers.md",
+      "importance": 5,
+      "content_length": 8186,
+      "generation_time": 267.3
+    },
+    {
+      "topic_number": "1.3",
+      "topic_title": "Visualising Number Sequences",
+      "file": "1.3_Visualising_Number_Sequences.md",
+      "importance": 4,
+      "content_length": 7177,
+      "generation_time": 240.4
+    },
+    {
+      "topic_number": "1.4",
+      "topic_title": "Relations among Number Sequences",
+      "file": "1.4_Relations_among_Number_Sequences.md",
+      "importance": 3,
+      "content_length": 5937,
+      "generation_time": 199.0
+    },
+    {
+      "topic_number": "1.5",
+      "topic_title": "Patterns in Shapes",
+      "file": "1.5_Patterns_in_Shapes.md",
+      "importance": 4,
+      "content_length": 6686,
+      "generation_time": 213.4
+    },
+    {
+      "topic_number": "1.6",
+      "topic_title": "Relation to Number Sequences",
+      "file": "1.6_Relation_to_Number_Sequences.md",
+      "importance": 3,
+      "content_length": 5421,
+      "generation_time": 180.2
+    }
+  ],
+  "total_content_length": 38285,
+  "total_generation_time": 1247.7
+}

@@ -1,0 +1,27 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 7,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "ARITHMETIC EXPRESSIONS",
+  "topics": [
+    {
+      "topic_number": "2.1",
+      "topic_title": "Simple Expressions",
+      "file": "2.1_Simple_Expressions.md",
+      "importance": 4,
+      "content_length": 7525,
+      "generation_time": 278.1
+    },
+    {
+      "topic_number": "2.2",
+      "topic_title": "Reading and Evaluating Complex Expressions",
+      "file": "2.2_Reading_and_Evaluating_Complex_Expressions.md",
+      "importance": 5,
+      "content_length": 6320,
+      "generation_time": 256.3
+    }
+  ],
+  "total_content_length": 13845,
+  "total_generation_time": 534.4000000000001
+}

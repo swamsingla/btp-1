@@ -1,0 +1,145 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 11,
+  "chapter_number": 1,
+  "chapter_title": "SETS",
+  "topics": [
+    {
+      "topic_number": "1.1",
+      "topic_title": "Introduction",
+      "file": "1.1_Introduction.md",
+      "importance": 5,
+      "content_length": 7651,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.2",
+      "topic_title": "Sets and their Representations",
+      "file": "1.2_Sets_and_their_Representations.md",
+      "importance": 5,
+      "content_length": 9321,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.3",
+      "topic_title": "The Empty Set",
+      "file": "1.3_The_Empty_Set.md",
+      "importance": 4,
+      "content_length": 8307,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.4",
+      "topic_title": "Finite and Infinite Sets",
+      "file": "1.4_Finite_and_Infinite_Sets.md",
+      "importance": 4,
+      "content_length": 9079,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.5",
+      "topic_title": "Equal Sets",
+      "file": "1.5_Equal_Sets.md",
+      "importance": 4,
+      "content_length": 8492,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.6",
+      "topic_title": "Subsets",
+      "file": "1.6_Subsets.md",
+      "importance": 5,
+      "content_length": 6732,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.6.1",
+      "topic_title": "Subsets of set of real numbers",
+      "file": "1.6.1_Subsets_of_set_of_real_numbers.md",
+      "importance": 3,
+      "content_length": 5857,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.6.2",
+      "topic_title": "Intervals as subsets of R",
+      "file": "1.6.2_Intervals_as_subsets_of_R.md",
+      "importance": 3,
+      "content_length": 6295,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.7",
+      "topic_title": "Universal Set",
+      "file": "1.7_Universal_Set.md",
+      "importance": 4,
+      "content_length": 7532,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.8",
+      "topic_title": "Venn Diagrams",
+      "file": "1.8_Venn_Diagrams.md",
+      "importance": 4,
+      "content_length": 7910,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.9",
+      "topic_title": "Operations on Sets",
+      "file": "1.9_Operations_on_Sets.md",
+      "importance": 5,
+      "content_length": 7859,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.9.1",
+      "topic_title": "Union of sets",
+      "file": "1.9.1_Union_of_sets.md",
+      "importance": 5,
+      "content_length": 7786,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.9.2",
+      "topic_title": "Intersection of sets",
+      "file": "1.9.2_Intersection_of_sets.md",
+      "importance": 5,
+      "content_length": 7460,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.9.3",
+      "topic_title": "Difference of sets",
+      "file": "1.9.3_Difference_of_sets.md",
+      "importance": 4,
+      "content_length": 6462,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "1.10",
+      "topic_title": "Complement of a Set",
+      "file": "1.10_Complement_of_a_Set.md",
+      "importance": 5,
+      "content_length": 6896,
+      "generation_time": 0,
+      "skipped": true
+    }
+  ],
+  "total_content_length": 113639,
+  "total_generation_time": 0
+}

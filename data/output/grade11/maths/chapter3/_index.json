@@ -1,0 +1,91 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "TRIGONOMETRIC FUNCTIONS",
+  "topics": [
+    {
+      "topic_number": "3.1",
+      "topic_title": "Introduction",
+      "file": "3.1_Introduction.md",
+      "importance": 5,
+      "content_length": 7789,
+      "generation_time": 269.5
+    },
+    {
+      "topic_number": "3.2",
+      "topic_title": "Angles",
+      "file": "3.2_Angles.md",
+      "importance": 5,
+      "content_length": 7979,
+      "generation_time": 256.4
+    },
+    {
+      "topic_number": "3.2.1",
+      "topic_title": "Degree measure",
+      "file": "3.2.1_Degree_measure.md",
+      "importance": 4,
+      "content_length": 6335,
+      "generation_time": 218.5
+    },
+    {
+      "topic_number": "3.2.2",
+      "topic_title": "Radian measure",
+      "file": "3.2.2_Radian_measure.md",
+      "importance": 5,
+      "content_length": 8777,
+      "generation_time": 285.9
+    },
+    {
+      "topic_number": "3.2.3",
+      "topic_title": "Relation between radian and real numbers",
+      "file": "3.2.3_Relation_between_radian_and_real_numbers.md",
+      "importance": 4,
+      "content_length": 7832,
+      "generation_time": 227.5
+    },
+    {
+      "topic_number": "3.2.4",
+      "topic_title": "Relation between degree and radian",
+      "file": "3.2.4_Relation_between_degree_and_radian.md",
+      "importance": 4,
+      "content_length": 8685,
+      "generation_time": 313.3
+    },
+    {
+      "topic_number": "3.3",
+      "topic_title": "Trigonometric Functions",
+      "file": "3.3_Trigonometric_Functions.md",
+      "importance": 5,
+      "content_length": 8001,
+      "generation_time": 321.8
+    },
+    {
+      "topic_number": "3.3.1",
+      "topic_title": "Sign of trigonometric functions",
+      "file": "3.3.1_Sign_of_trigonometric_functions.md",
+      "importance": 5,
+      "content_length": 10713,
+      "generation_time": 320.9
+    },
+    {
+      "topic_number": "3.3.2",
+      "topic_title": "Domain and range of trigonometric functions",
+      "file": "3.3.2_Domain_and_range_of_trigonometric_functions.md",
+      "importance": 5,
+      "content_length": 8749,
+      "generation_time": 350.7
+    },
+    {
+      "topic_number": "3.4",
+      "topic_title": "Trigonometric Functions of Sum and Difference of Two Angles",
+      "file": "3.4_Trigonometric_Functions_of_Sum_and_Difference_of_T.md",
+      "importance": 4,
+      "content_length": 10671,
+      "generation_time": 429.3
+    }
+  ],
+  "total_content_length": 85531,
+  "total_generation_time": 2993.7999999999997
+}

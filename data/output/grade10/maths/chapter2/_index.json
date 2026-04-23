@@ -1,0 +1,35 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 10,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "POLYNOMIALS",
+  "topics": [
+    {
+      "topic_number": "2.1",
+      "topic_title": "Introduction",
+      "file": "2.1_Introduction.md",
+      "importance": 3,
+      "content_length": 5303,
+      "generation_time": 236.8
+    },
+    {
+      "topic_number": "2.2",
+      "topic_title": "Geometrical Meaning of the Zeroes of a Polynomial",
+      "file": "2.2_Geometrical_Meaning_of_the_Zeroes_of_a_Polynomial.md",
+      "importance": 4,
+      "content_length": 7406,
+      "generation_time": 327.3
+    },
+    {
+      "topic_number": "2.3",
+      "topic_title": "Relationship between Zeroes and Coefficients of a Polynomial",
+      "file": "2.3_Relationship_between_Zeroes_and_Coefficients_of_a_.md",
+      "importance": 5,
+      "content_length": 8536,
+      "generation_time": 432.6
+    }
+  ],
+  "total_content_length": 21245,
+  "total_generation_time": 996.7
+}

@@ -1,0 +1,53 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 11,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "RELATIONS AND FUNCTIONS",
+  "topics": [
+    {
+      "topic_number": "2.1",
+      "topic_title": "Introduction",
+      "file": "2.1_Introduction.md",
+      "importance": 3,
+      "content_length": 4816,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "2.2",
+      "topic_title": "Cartesian Products of Sets",
+      "file": "2.2_Cartesian_Products_of_Sets.md",
+      "importance": 5,
+      "content_length": 7623,
+      "generation_time": 0,
+      "skipped": true
+    },
+    {
+      "topic_number": "2.3",
+      "topic_title": "Relations",
+      "file": "2.3_Relations.md",
+      "importance": 5,
+      "content_length": 9845,
+      "generation_time": 408.8
+    },
+    {
+      "topic_number": "2.4.1",
+      "topic_title": "Some functions and their graphs",
+      "file": "2.4.1_Some_functions_and_their_graphs.md",
+      "importance": 4,
+      "content_length": 7679,
+      "generation_time": 261.9
+    },
+    {
+      "topic_number": "2.4.2",
+      "topic_title": "Algebra of real functions",
+      "file": "2.4.2_Algebra_of_real_functions.md",
+      "importance": 4,
+      "content_length": 6358,
+      "generation_time": 267.8
+    }
+  ],
+  "total_content_length": 36321,
+  "total_generation_time": 938.5
+}

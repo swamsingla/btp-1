@@ -11,7 +11,6 @@ export default function Navbar() {
   const [loading, setLoading] = useState(false);
   const [gradeFilter, setGradeFilter] = useState('');
   const [subjectFilter, setSubjectFilter] = useState('');
-  const [chapterFilter, setChapterFilter] = useState('');
   const inputRef = useRef(null);
   const router = useRouter();
   const debounceRef = useRef(null);
@@ -42,14 +41,13 @@ export default function Navbar() {
         const params = new URLSearchParams({ q: query });
         if (gradeFilter) params.set('grade', gradeFilter);
         if (subjectFilter) params.set('subject', subjectFilter);
-        if (chapterFilter) params.set('chapter', chapterFilter);
         const res = await fetch(`/api/search?${params}`);
         const data = await res.json();
         setResults(data.results || []);
       } catch { setResults([]); }
       setLoading(false);
     }, 300);
-  }, [query, gradeFilter, subjectFilter, chapterFilter]);
+  }, [query, gradeFilter, subjectFilter]);
 
   const goTo = (r) => {
     setSearchOpen(false);
@@ -115,10 +113,6 @@ export default function Navbar() {
                 <option value="">All Subjects</option>
                 <option value="maths">Mathematics</option>
                 <option value="science">Science</option>
-              </select>
-              <select value={chapterFilter} onChange={e => setChapterFilter(e.target.value)} className="text-xs px-2 py-1 rounded-md border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-700 dark:text-gray-300 outline-none">
-                <option value="">All Chapters</option>
-                {[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15].map(c => <option key={c} value={c}>Ch {c}</option>)}
               </select>
             </div>
             <div className="max-h-80 overflow-y-auto">

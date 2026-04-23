@@ -3,7 +3,9 @@ import { useState } from 'react';
 
 const LANGUAGES = {
   en: { name: 'English', flag: '🇬🇧' },
-  hi: { name: 'हिन्दी', flag: '🇮🇳' },
+  hi: { name: 'Hindi', flag: '🇮🇳' },
+  te: { name: 'Telugu', flag: '🇮🇳' },
+  od: { name: 'Odia', flag: '🇮🇳' },
 };
 
 export default function LanguageSwitch({ currentLang, availableLangs, onChange }) {

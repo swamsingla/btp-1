@@ -1,0 +1,35 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 8,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "A STORY OF NUMBERS",
+  "topics": [
+    {
+      "topic_number": "3.1",
+      "topic_title": "Reema’s Curiosity",
+      "file": "3.1_Reemas_Curiosity.md",
+      "importance": 3,
+      "content_length": 6053,
+      "generation_time": 188.7
+    },
+    {
+      "topic_number": "3.2",
+      "topic_title": "Some Early Number Systems",
+      "file": "3.2_Some_Early_Number_Systems.md",
+      "importance": 4,
+      "content_length": 7289,
+      "generation_time": 219.0
+    },
+    {
+      "topic_number": "3.3",
+      "topic_title": "The Idea of a Base",
+      "file": "3.3_The_Idea_of_a_Base.md",
+      "importance": 5,
+      "content_length": 8716,
+      "generation_time": 315.9
+    }
+  ],
+  "total_content_length": 22058,
+  "total_generation_time": 723.5999999999999
+}

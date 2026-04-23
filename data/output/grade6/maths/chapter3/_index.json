@@ -1,0 +1,107 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "NUMBER PLAY",
+  "topics": [
+    {
+      "topic_number": "3.1",
+      "topic_title": "Numbers can Tell us Things",
+      "file": "3.1_Numbers_can_Tell_us_Things.md",
+      "importance": 5,
+      "content_length": 9828,
+      "generation_time": 314.4
+    },
+    {
+      "topic_number": "3.2",
+      "topic_title": "Supercells",
+      "file": "3.2_Supercells.md",
+      "importance": 2,
+      "content_length": 4589,
+      "generation_time": 189.6
+    },
+    {
+      "topic_number": "3.3",
+      "topic_title": "Patterns of Numbers on the Number Line",
+      "file": "3.3_Patterns_of_Numbers_on_the_Number_Line.md",
+      "importance": 4,
+      "content_length": 6420,
+      "generation_time": 260.0
+    },
+    {
+      "topic_number": "3.4",
+      "topic_title": "Playing with Digits",
+      "file": "3.4_Playing_with_Digits.md",
+      "importance": 4,
+      "content_length": 8004,
+      "generation_time": 257.3
+    },
+    {
+      "topic_number": "3.5",
+      "topic_title": "Pretty Palindromic Patterns",
+      "file": "3.5_Pretty_Palindromic_Patterns.md",
+      "importance": 4,
+      "content_length": 8886,
+      "generation_time": 317.4
+    },
+    {
+      "topic_number": "3.6",
+      "topic_title": "The Magic Number of Kaprekar",
+      "file": "3.6_The_Magic_Number_of_Kaprekar.md",
+      "importance": 3,
+      "content_length": 5634,
+      "generation_time": 195.0
+    },
+    {
+      "topic_number": "3.7",
+      "topic_title": "Clock and Calendar Numbers",
+      "file": "3.7_Clock_and_Calendar_Numbers.md",
+      "importance": 3,
+      "content_length": 5964,
+      "generation_time": 196.1
+    },
+    {
+      "topic_number": "3.8",
+      "topic_title": "Mental Math",
+      "file": "3.8_Mental_Math.md",
+      "importance": 5,
+      "content_length": 7442,
+      "generation_time": 263.2
+    },
+    {
+      "topic_number": "3.9",
+      "topic_title": "Playing with Number Patterns",
+      "file": "3.9_Playing_with_Number_Patterns.md",
+      "importance": 4,
+      "content_length": 5847,
+      "generation_time": 222.5
+    },
+    {
+      "topic_number": "3.10",
+      "topic_title": "An Unsolved Mystery — the Collatz Conjecture!",
+      "file": "3.10_An_Unsolved_Mystery_the_Collatz_Conjecture.md",
+      "importance": 1,
+      "content_length": 4247,
+      "generation_time": 154.2
+    },
+    {
+      "topic_number": "3.11",
+      "topic_title": "Simple Estimation",
+      "file": "3.11_Simple_Estimation.md",
+      "importance": 3,
+      "content_length": 5119,
+      "generation_time": 183.9
+    },
+    {
+      "topic_number": "3.12",
+      "topic_title": "Games and Winning Strategies",
+      "file": "3.12_Games_and_Winning_Strategies.md",
+      "importance": 3,
+      "content_length": 5322,
+      "generation_time": 185.6
+    }
+  ],
+  "total_content_length": 77302,
+  "total_generation_time": 2739.2
+}

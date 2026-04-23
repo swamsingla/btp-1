@@ -1,8 +1,10 @@
 'use client';
 import { useEffect, useRef } from 'react';
+import { useRouter } from 'next/navigation';
 
-export default function TopicContent({ html }) {
+export default function TopicContent({ html, lang }) {
   const ref = useRef(null);
+  const router = useRouter();
 
   useEffect(() => {
     if (!ref.current) return;
@@ -23,6 +25,21 @@ export default function TopicContent({ html }) {
     };
     tryRender();
   }, [html]);
+
+  useEffect(() => {
+    if (!ref.current || !lang || lang === 'en') return;
+    const handleClick = (e) => {
+      const a = e.target.closest('a.related-link');
+      if (!a) return;
+      e.preventDefault();
+      const href = a.getAttribute('href');
+      const url = new URL(href, window.location.origin);
+      url.searchParams.set('lang', lang);
+      router.push(url.pathname + url.search);
+    };
+    ref.current.addEventListener('click', handleClick);
+    return () => ref.current?.removeEventListener('click', handleClick);
+  }, [lang, router]);
 
   return (
     <div

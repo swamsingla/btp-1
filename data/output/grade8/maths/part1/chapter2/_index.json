@@ -1,0 +1,59 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 8,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "POWER PLAY",
+  "topics": [
+    {
+      "topic_number": "2.1",
+      "topic_title": "Experiencing the Power Play ...",
+      "file": "2.1_Experiencing_the_Power_Play_.md",
+      "importance": 4,
+      "content_length": 7598,
+      "generation_time": 339.6
+    },
+    {
+      "topic_number": "2.2",
+      "topic_title": "Exponential Notation and Operations",
+      "file": "2.2_Exponential_Notation_and_Operations.md",
+      "importance": 5,
+      "content_length": 7965,
+      "generation_time": 353.9
+    },
+    {
+      "topic_number": "2.3",
+      "topic_title": "The Other Side of Powers",
+      "file": "2.3_The_Other_Side_of_Powers.md",
+      "importance": 3,
+      "content_length": 4693,
+      "generation_time": 282.2
+    },
+    {
+      "topic_number": "2.4",
+      "topic_title": "Powers of 10",
+      "file": "2.4_Powers_of_10.md",
+      "importance": 4,
+      "content_length": 7746,
+      "generation_time": 366.0
+    },
+    {
+      "topic_number": "2.5",
+      "topic_title": "Did You Ever Wonder?",
+      "file": "2.5_Did_You_Ever_Wonder.md",
+      "importance": 1,
+      "content_length": 3698,
+      "generation_time": 245.8
+    },
+    {
+      "topic_number": "2.5",
+      "topic_title": "A Pinch of History",
+      "file": "2.5_A_Pinch_of_History.md",
+      "importance": 1,
+      "content_length": 3979,
+      "generation_time": 215.7
+    }
+  ],
+  "total_content_length": 35679,
+  "total_generation_time": 1803.2
+}

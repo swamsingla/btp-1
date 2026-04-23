@@ -17,8 +17,10 @@ const SUBJECT_META = {
 
 export const dynamic = 'force-dynamic';
 
-export default async function TopicPage({ params }) {
+export default async function TopicPage({ params, searchParams }) {
   const { gradeId, subject, chapterId, topicId } = await params;
+  const resolvedSearch = await searchParams;
+  const initialLang = resolvedSearch?.lang || 'en';
   const grade = parseInt(gradeId);
   const chapter = parseInt(chapterId);
   await dbConnect();
@@ -104,6 +106,7 @@ export default async function TopicPage({ params }) {
             <TopicPageClient
               topic={{ content: topic.content }}
               translations={topic.translations || {}}
+              initialLang={initialLang}
             />
           </div>
 

@@ -55,22 +55,25 @@ def upload_json(json_path: Path, db):
 
     grade = data['grade']
     chapter_num = data['chapter']
+    part = data.get('part', None)
     subject_raw = data.get('subject', 'Mathematics')
     # Normalize subject to lowercase key
     subject = subject_raw.lower()
     if subject == 'mathematics':
         subject = 'maths'
 
-    print(f"\n  Uploading: Grade {grade} {subject} Chapter {chapter_num}")
+    print(f"\n  Uploading: Grade {grade} {subject} Chapter {chapter_num}" + (f" (Part {part})" if part else ""))
     print(f"    Title: {data['title']}")
     print(f"    Topics: {len(data.get('topics', []))}")
 
     # Upsert chapter
+    chapter_filter = {'grade': grade, 'subject': subject, 'chapter': chapter_num, 'part': part}
     chapter_doc = {
         'title': data['title'],
         'subject': subject,
         'grade': grade,
         'chapter': chapter_num,
+        'part': part,
         'language': data.get('language', 'en'),
         'model': data.get('model', ''),
         'summary': data.get('summary', ''),
@@ -78,13 +81,13 @@ def upload_json(json_path: Path, db):
     }
 
     result = db.chapters.update_one(
-        {'grade': grade, 'subject': subject, 'chapter': chapter_num},
+        chapter_filter,
         {'$set': chapter_doc},
         upsert=True
     )
 
     # Get the chapter _id
-    ch = db.chapters.find_one({'grade': grade, 'subject': subject, 'chapter': chapter_num})
+    ch = db.chapters.find_one(chapter_filter)
     chapter_id = ch['_id']
 
     if result.upserted_id:
@@ -93,9 +96,8 @@ def upload_json(json_path: Path, db):
         print(f"    Chapter: updated (id={chapter_id})")
 
     # Delete existing topics for this chapter, then insert fresh
-    del_result = db.topics.delete_many({
-        'grade': grade, 'subject': subject, 'chapter': chapter_num
-    })
+    topic_filter = {'grade': grade, 'subject': subject, 'chapter': chapter_num, 'part': part}
+    del_result = db.topics.delete_many(topic_filter)
     if del_result.deleted_count:
         print(f"    Deleted {del_result.deleted_count} old topics")
 
@@ -112,6 +114,7 @@ def upload_json(json_path: Path, db):
             'grade': grade,
             'subject': subject,
             'chapter': chapter_num,
+            'part': part,
             'order': i + 1,
         })
 
@@ -123,7 +126,7 @@ def upload_json(json_path: Path, db):
     # The HTML has placeholder links like /grade/{g}/{s}/chapter/{c}/topic/TOPICID_{order}
     # We need to replace TOPICID_{order} with the actual MongoDB _id
     topics_in_db = list(db.topics.find(
-        {'grade': grade, 'subject': subject, 'chapter': chapter_num},
+        {'grade': grade, 'subject': subject, 'chapter': chapter_num, 'part': part},
         {'_id': 1, 'order': 1}
     ).sort('order', 1))
 
@@ -160,8 +163,8 @@ def main():
     print(f"Connected to MongoDB: {uri.split('@')[1].split('/')[0] if '@' in uri else 'local'}")
 
     # Ensure indexes
-    db.chapters.create_index([('grade', 1), ('subject', 1), ('chapter', 1)], unique=True)
-    db.topics.create_index([('grade', 1), ('subject', 1), ('chapter', 1), ('order', 1)])
+    db.chapters.create_index([('grade', 1), ('subject', 1), ('chapter', 1), ('part', 1)], unique=True)
+    db.topics.create_index([('grade', 1), ('subject', 1), ('chapter', 1), ('part', 1), ('order', 1)])
     db.topics.create_index([('chapterId', 1)])
     print("Indexes ensured")
 

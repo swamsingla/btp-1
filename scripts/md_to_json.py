@@ -355,6 +355,11 @@ def convert(output_dir: Path, dest_json: Path):
         'topics': topics_html,
     }
 
+    # Detect part from directory path (e.g., .../part1/chapter1/)
+    parts = [p.name for p in output_dir.parents if p.name.startswith('part')]
+    if parts:
+        output['part'] = int(parts[0].replace('part', ''))
+
     dest_json.parent.mkdir(parents=True, exist_ok=True)
     with open(dest_json, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
@@ -384,7 +389,13 @@ def main():
     chapter = idx.get('chapter_number', 1)
     subject = idx.get('subject', 'maths')
 
-    dest = ROOT / 'data' / 'generated' / f'grade{grade}' / subject / f'chapter{chapter}' / 'en.json'
+    # Detect part from path (e.g., .../part1/chapter1/)
+    part_dirs = [p.name for p in output_dir.parents if p.name.startswith('part')]
+    if part_dirs:
+        part_num = part_dirs[0]
+        dest = ROOT / 'data' / 'generated' / f'grade{grade}' / subject / part_num / f'chapter{chapter}' / 'en.json'
+    else:
+        dest = ROOT / 'data' / 'generated' / f'grade{grade}' / subject / f'chapter{chapter}' / 'en.json'
 
     print(f"Converting: {output_dir.name}  →  {dest.relative_to(ROOT)}")
     print(f"Topics: {len(idx.get('topics', []))}\n")

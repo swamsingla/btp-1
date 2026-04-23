@@ -1,0 +1,27 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 9,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "COORDINATE GEOMETRY",
+  "topics": [
+    {
+      "topic_number": "3.1",
+      "topic_title": "Introduction",
+      "file": "3.1_Introduction.md",
+      "importance": 3,
+      "content_length": 5523,
+      "generation_time": 170.7
+    },
+    {
+      "topic_number": "3.2",
+      "topic_title": "Cartesian System",
+      "file": "3.2_Cartesian_System.md",
+      "importance": 5,
+      "content_length": 8057,
+      "generation_time": 236.4
+    }
+  ],
+  "total_content_length": 13580,
+  "total_generation_time": 407.1
+}

@@ -1,0 +1,51 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 9,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "POLYNOMIALS",
+  "topics": [
+    {
+      "topic_number": "2.1",
+      "topic_title": "Introduction",
+      "file": "2.1_Introduction.md",
+      "importance": 3,
+      "content_length": 5275,
+      "generation_time": 181.8
+    },
+    {
+      "topic_number": "2.2",
+      "topic_title": "Polynomials in One Variable",
+      "file": "2.2_Polynomials_in_One_Variable.md",
+      "importance": 5,
+      "content_length": 6386,
+      "generation_time": 206.1
+    },
+    {
+      "topic_number": "2.3",
+      "topic_title": "Zeroes of a Polynomial",
+      "file": "2.3_Zeroes_of_a_Polynomial.md",
+      "importance": 5,
+      "content_length": 6529,
+      "generation_time": 278.9
+    },
+    {
+      "topic_number": "2.4",
+      "topic_title": "Factorisation of Polynomials",
+      "file": "2.4_Factorisation_of_Polynomials.md",
+      "importance": 4,
+      "content_length": 7314,
+      "generation_time": 275.7
+    },
+    {
+      "topic_number": "2.5",
+      "topic_title": "Algebraic Identities",
+      "file": "2.5_Algebraic_Identities.md",
+      "importance": 5,
+      "content_length": 7692,
+      "generation_time": 326.9
+    }
+  ],
+  "total_content_length": 33196,
+  "total_generation_time": 1269.4
+}

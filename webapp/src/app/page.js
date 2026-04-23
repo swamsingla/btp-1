@@ -3,6 +3,7 @@ import dbConnect from '@/lib/mongodb';
 import Chapter from '@/lib/models/Chapter';
 
 const GRADE_GROUPS = [
+  { label: 'Middle School', range: [6, 7, 8], emoji: '📚' },
   { label: 'Secondary', range: [9, 10], emoji: '🎓' },
   { label: 'Senior Secondary', range: [11, 12], emoji: '🎯' },
 ];
@@ -81,10 +82,10 @@ export default async function Home() {
             { icon: '✅', title: 'Practice with Solutions', desc: 'Graded practice problems (Easy, Medium, Hard) with detailed step-by-step solutions to build confidence' },
             { icon: '🎯', title: 'Exam-Ready Content', desc: 'Key formulas, common mistakes, memory aids and important theorems — everything needed for board preparation' },
           ].map((f, i) => (
-            <div key={i} className="bg-white rounded-xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+            <div key={i} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm border border-gray-100 dark:border-gray-700 hover:shadow-md transition-shadow">
               <div className="text-3xl mb-3">{f.icon}</div>
-              <h3 className="font-semibold text-gray-900 mb-2">{f.title}</h3>
-              <p className="text-sm text-gray-600 leading-relaxed">{f.desc}</p>
+              <h3 className="font-semibold text-gray-900 dark:text-gray-100 mb-2">{f.title}</h3>
+              <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">{f.desc}</p>
             </div>
           ))}
         </div>
@@ -93,28 +94,28 @@ export default async function Home() {
       {/* Grade Selection */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16" id="grades">
         <div className="text-center mb-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Select Your Grade</h2>
-          <p className="text-gray-500 mt-2">Choose a grade to explore chapters and topics</p>
+          <h2 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-gray-100">Select Your Grade</h2>
+          <p className="text-gray-500 dark:text-gray-400 mt-2">Choose a grade to explore chapters and topics</p>
         </div>
         {GRADE_GROUPS.map(group => {
           const groupGrades = grades.filter(g => group.range.includes(g.grade));
           if (!groupGrades.length) return null;
           return (
             <div key={group.label} className="mb-10">
-              <h3 className="text-lg font-semibold text-gray-700 mb-4 flex items-center gap-2">
+              <h3 className="text-lg font-semibold text-gray-700 dark:text-gray-300 mb-4 flex items-center gap-2">
                 <span>{group.emoji}</span> {group.label}
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {groupGrades.map(g => (
                   <Link key={g.grade} href={`/grade/${g.grade}`}
-                    className="flex items-center gap-4 bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-blue-200 transition-all group">
-                    <div className="flex-shrink-0 w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center text-2xl font-bold text-blue-600 group-hover:bg-blue-100 transition-colors">{g.grade}</div>
+                    className="flex items-center gap-4 bg-white dark:bg-gray-800 rounded-xl p-5 shadow-sm border border-gray-100 dark:border-gray-700 hover:shadow-md hover:border-blue-200 dark:hover:border-blue-600 transition-all group">
+                    <div className="flex-shrink-0 w-14 h-14 bg-blue-50 dark:bg-blue-900/30 rounded-xl flex items-center justify-center text-2xl font-bold text-blue-600 dark:text-blue-400 group-hover:bg-blue-100 dark:group-hover:bg-blue-900/50 transition-colors">{g.grade}</div>
                     <div className="flex-1">
-                      <div className="font-semibold text-gray-900">Grade {g.grade}</div>
-                      <div className="text-sm text-gray-500 mt-0.5">{g.subjects.length} subject{g.subjects.length > 1 ? 's' : ''} · {g.totalChapters} chapter{g.totalChapters > 1 ? 's' : ''}</div>
+                      <div className="font-semibold text-gray-900 dark:text-gray-100">Grade {g.grade}</div>
+                      <div className="text-sm text-gray-500 dark:text-gray-400 mt-0.5">{g.subjects.length} subject{g.subjects.length > 1 ? 's' : ''} · {g.totalChapters} chapter{g.totalChapters > 1 ? 's' : ''}</div>
                       <div className="flex flex-wrap gap-1.5 mt-2">
                         {g.subjects.map(s => (
-                          <span key={s.key} className="inline-flex items-center gap-1 px-2 py-0.5 bg-gray-100 rounded-full text-xs text-gray-600">{s.icon} {s.name}</span>
+                          <span key={s.key} className="inline-flex items-center gap-1 px-2 py-0.5 bg-gray-100 dark:bg-gray-700 rounded-full text-xs text-gray-600 dark:text-gray-300">{s.icon} {s.name}</span>
                         ))}
                       </div>
                     </div>

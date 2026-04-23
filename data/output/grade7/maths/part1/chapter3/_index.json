@@ -1,0 +1,75 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 7,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "A PEEK BEYOND THE POINT",
+  "topics": [
+    {
+      "topic_number": "3.1",
+      "topic_title": "The Need for Smaller Units",
+      "file": "3.1_The_Need_for_Smaller_Units.md",
+      "importance": 5,
+      "content_length": 7328,
+      "generation_time": 327.1
+    },
+    {
+      "topic_number": "3.2",
+      "topic_title": "A Tenth Part",
+      "file": "3.2_A_Tenth_Part.md",
+      "importance": 5,
+      "content_length": 9366,
+      "generation_time": 447.1
+    },
+    {
+      "topic_number": "3.3",
+      "topic_title": "A Hundredth Part",
+      "file": "3.3_A_Hundredth_Part.md",
+      "importance": 5,
+      "content_length": 6574,
+      "generation_time": 311.0
+    },
+    {
+      "topic_number": "3.4",
+      "topic_title": "Decimal Place Value",
+      "file": "3.4_Decimal_Place_Value.md",
+      "importance": 5,
+      "content_length": 7194,
+      "generation_time": 298.8
+    },
+    {
+      "topic_number": "3.5",
+      "topic_title": "Units of Measurement",
+      "file": "3.5_Units_of_Measurement.md",
+      "importance": 4,
+      "content_length": 5762,
+      "generation_time": 277.1
+    },
+    {
+      "topic_number": "3.6",
+      "topic_title": "Locating and Comparing Decimals",
+      "file": "3.6_Locating_and_Comparing_Decimals.md",
+      "importance": 5,
+      "content_length": 7932,
+      "generation_time": 329.1
+    },
+    {
+      "topic_number": "3.7",
+      "topic_title": "Addition and Subtraction of Decimals",
+      "file": "3.7_Addition_and_Subtraction_of_Decimals.md",
+      "importance": 5,
+      "content_length": 6414,
+      "generation_time": 275.0
+    },
+    {
+      "topic_number": "3.8",
+      "topic_title": "More on the Decimal System",
+      "file": "3.8_More_on_the_Decimal_System.md",
+      "importance": 4,
+      "content_length": 7425,
+      "generation_time": 320.5
+    }
+  ],
+  "total_content_length": 57995,
+  "total_generation_time": 2585.7
+}

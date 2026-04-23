@@ -12,6 +12,7 @@ const TopicSchema = new mongoose.Schema({
   grade: { type: Number, required: true, index: true },
   subject: { type: String, required: true, index: true },
   chapter: { type: Number, required: true },
+  part: { type: Number, default: null },
   order: { type: Number, required: true },
 }, { timestamps: true });
 

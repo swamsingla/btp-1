@@ -16,7 +16,6 @@ export async function GET(request) {
   const query = (searchParams.get('q') || '').trim();
   const gradeFilter = searchParams.get('grade');
   const subjectFilter = searchParams.get('subject');
-  const chapterFilter = searchParams.get('chapter');
 
   if (!query || query.length < 2) {
     return NextResponse.json({ results: [], total: 0 });
@@ -37,12 +36,10 @@ export async function GET(request) {
   };
   if (gradeFilter) topicFilter.grade = parseInt(gradeFilter);
   if (subjectFilter) topicFilter.subject = subjectFilter;
-  if (chapterFilter) topicFilter.chapter = parseInt(chapterFilter);
 
   const chapterFilterQuery = { title: regex };
   if (gradeFilter) chapterFilterQuery.grade = parseInt(gradeFilter);
   if (subjectFilter) chapterFilterQuery.subject = subjectFilter;
-  if (chapterFilter) chapterFilterQuery.chapter = parseInt(chapterFilter);
 
   let topics = [];
   try {
@@ -51,7 +48,7 @@ export async function GET(request) {
       .select('title topicNumber grade subject chapter _id headings')
       .lean();
   } catch (e) {
-    topics = await Topic.find({ title: regex, ...(gradeFilter && { grade: parseInt(gradeFilter) }), ...(subjectFilter && { subject: subjectFilter }), ...(chapterFilter && { chapter: parseInt(chapterFilter) }) })
+    topics = await Topic.find({ title: regex, ...(gradeFilter && { grade: parseInt(gradeFilter) }), ...(subjectFilter && { subject: subjectFilter }) })
       .limit(20)
       .select('title topicNumber grade subject chapter _id headings')
       .lean();

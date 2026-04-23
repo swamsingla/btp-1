@@ -1,0 +1,51 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 10,
+  "subject": "maths",
+  "chapter_number": 3,
+  "chapter_title": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+  "topics": [
+    {
+      "topic_number": "3.1",
+      "topic_title": "Introduction",
+      "file": "3.1_Introduction.md",
+      "importance": 5,
+      "content_length": 8493,
+      "generation_time": 294.7
+    },
+    {
+      "topic_number": "3.2",
+      "topic_title": "Graphical Method of Solution of a Pair of Linear Equations",
+      "file": "3.2_Graphical_Method_of_Solution_of_a_Pair_of_Linear_E.md",
+      "importance": 4,
+      "content_length": 7267,
+      "generation_time": 242.6
+    },
+    {
+      "topic_number": "3.3",
+      "topic_title": "Algebraic Methods of Solving a Pair of Linear Equations",
+      "file": "3.3_Algebraic_Methods_of_Solving_a_Pair_of_Linear_Equa.md",
+      "importance": 5,
+      "content_length": 10034,
+      "generation_time": 411.4
+    },
+    {
+      "topic_number": "3.3.1",
+      "topic_title": "Substitution Method :",
+      "file": "3.3.1_Substitution_Method_.md",
+      "importance": 4,
+      "content_length": 8189,
+      "generation_time": 365.7
+    },
+    {
+      "topic_number": "3.3.2",
+      "topic_title": "Elimination Method",
+      "file": "3.3.2_Elimination_Method.md",
+      "importance": 4,
+      "content_length": 8251,
+      "generation_time": 285.8
+    }
+  ],
+  "total_content_length": 42234,
+  "total_generation_time": 1600.1999999999998
+}

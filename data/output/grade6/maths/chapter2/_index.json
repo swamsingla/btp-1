@@ -1,0 +1,75 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "grade": 6,
+  "subject": "maths",
+  "chapter_number": 2,
+  "chapter_title": "Lines and Angles",
+  "topics": [
+    {
+      "topic_number": "2.4",
+      "topic_title": "Ray",
+      "file": "2.4_Ray.md",
+      "importance": 5,
+      "content_length": 9005,
+      "generation_time": 267.1
+    },
+    {
+      "topic_number": "2.5",
+      "topic_title": "Angle",
+      "file": "2.5_Angle.md",
+      "importance": 5,
+      "content_length": 5163,
+      "generation_time": 180.0
+    },
+    {
+      "topic_number": "2.6",
+      "topic_title": "Comparing Angles",
+      "file": "2.6_Comparing_Angles.md",
+      "importance": 4,
+      "content_length": 6111,
+      "generation_time": 208.2
+    },
+    {
+      "topic_number": "2.7",
+      "topic_title": "Making Rotating Arms",
+      "file": "2.7_Making_Rotating_Arms.md",
+      "importance": 3,
+      "content_length": 5106,
+      "generation_time": 155.2
+    },
+    {
+      "topic_number": "2.8",
+      "topic_title": "Special Types of Angles",
+      "file": "2.8_Special_Types_of_Angles.md",
+      "importance": 5,
+      "content_length": 9493,
+      "generation_time": 287.9
+    },
+    {
+      "topic_number": "2.9",
+      "topic_title": "Measuring Angles",
+      "file": "2.9_Measuring_Angles.md",
+      "importance": 5,
+      "content_length": 6834,
+      "generation_time": 235.8
+    },
+    {
+      "topic_number": "2.10",
+      "topic_title": "Drawing Angles",
+      "file": "2.10_Drawing_Angles.md",
+      "importance": 5,
+      "content_length": 6833,
+      "generation_time": 222.2
+    },
+    {
+      "topic_number": "2.11",
+      "topic_title": "Types of Angles and their Measures",
+      "file": "2.11_Types_of_Angles_and_their_Measures.md",
+      "importance": 5,
+      "content_length": 7320,
+      "generation_time": 272.2
+    }
+  ],
+  "total_content_length": 55865,
+  "total_generation_time": 1828.6000000000001
+}
