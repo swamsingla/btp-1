@@ -38,6 +38,21 @@ from llm_local import llm_call as _local_llm_call
 BASE_DIR = Path(__file__).resolve().parent.parent
 RAW_TOPICS_DIR = BASE_DIR / "data" / "intermediate" / "raw_topics"
 KG_DIR = BASE_DIR / "data" / "knowledge_graph"
+CKPT_DIR = KG_DIR / ".checkpoints"
+
+
+def _ckpt_save(path: Path, data: Any) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2))
+
+
+def _ckpt_load(path: Path) -> Any | None:
+    if path.exists():
+        try:
+            return json.loads(path.read_text())
+        except Exception:
+            pass
+    return None
 
 # ─── Logging ─────────────────────────────────────────────────────────────────
 logging.basicConfig(
@@ -163,6 +178,7 @@ def extract_canonical_concepts(
 ) -> list[dict]:
     """
     Calls the LLM in batches to extract canonical concepts from raw topics.
+    Saves per-batch checkpoints so the run can be resumed after interruption.
     Returns a deduplicated list of concept dicts.
     """
     # Collect all unique raw topic names across grades (with grade context)
@@ -183,8 +199,26 @@ def extract_canonical_concepts(
     all_concepts: list[dict] = []
     seen_slugs: set[str] = set()
 
+    # ── Reload already-completed batches from checkpoint ──────────────────────
+    num_batches = (len(raw_entries) + batch_size - 1) // batch_size
+    completed_batches: set[int] = set()
+    for batch_idx in range(num_batches):
+        batch_start = batch_idx * batch_size
+        ckpt_path = CKPT_DIR / f"{subject}_concepts_batch{batch_start}.json"
+        cached = _ckpt_load(ckpt_path)
+        if cached is not None:
+            log.info("  [ckpt] Loading batch %d from checkpoint", batch_start)
+            for c in cached:
+                if c.get("slug") and c["slug"] not in seen_slugs:
+                    seen_slugs.add(c["slug"])
+                    all_concepts.append(c)
+            completed_batches.add(batch_start)
+
     # Process in batches
     for batch_start in range(0, len(raw_entries), batch_size):
+        if batch_start in completed_batches:
+            continue  # already loaded from checkpoint
+
         batch = raw_entries[batch_start : batch_start + batch_size]
         batch_str = "\n".join(batch)
 
@@ -211,6 +245,7 @@ Return JSON array only."""
             continue
 
         # Assign subject + deduplicate by slug
+        new_in_batch: list[dict] = []
         for c in concepts:
             if "canonical_name" not in c:
                 continue
@@ -221,12 +256,17 @@ Return JSON array only."""
                 continue
             seen_slugs.add(c["slug"])
             all_concepts.append(c)
+            new_in_batch.append(c)
+
+        # ── Save batch checkpoint ─────────────────────────────────────────────
+        ckpt_path = CKPT_DIR / f"{subject}_concepts_batch{batch_start}.json"
+        _ckpt_save(ckpt_path, new_in_batch)
 
         log.info(
             "  Batch %d-%d → %d new concepts (total so far: %d)",
             batch_start,
             batch_start + len(batch),
-            len([c for c in concepts if c.get("slug", "") in seen_slugs]),
+            len(new_in_batch),
             len(all_concepts),
         )
         # Be polite to the API between batches
@@ -263,15 +303,24 @@ Return a JSON array ONLY:
 def extract_prerequisite_edges(
     concepts: list[dict],
     grade: int,
+    subject: str = "",
     batch_size: int = 40,
 ) -> list[dict]:
     """
     For the concepts relevant to a given grade, ask the LLM for prerequisite edges.
+    Saves per-grade checkpoints so the run can be resumed after interruption.
     Returns a list of {slug, prerequisites, related, see_also} dicts.
     """
     grade_concepts = [c for c in concepts if grade in c.get("grades", [])]
     if not grade_concepts:
         return []
+
+    # ── Check full-grade checkpoint ───────────────────────────────────────────
+    grade_ckpt = CKPT_DIR / f"{subject}_edges_grade{grade}.json"
+    cached = _ckpt_load(grade_ckpt)
+    if cached is not None:
+        log.info("  [ckpt] Loading grade %d edges from checkpoint (%d records)", grade, len(cached))
+        return cached
 
     all_edges: list[dict] = []
     slug_set = {c["slug"] for c in grade_concepts}
@@ -279,9 +328,10 @@ def extract_prerequisite_edges(
     for batch_start in range(0, len(grade_concepts), batch_size):
         batch = grade_concepts[batch_start : batch_start + batch_size]
         concept_list = "\n".join(f"- {c['slug']}: {c['canonical_name']}" for c in batch)
+        subj = batch[0].get("subject", subject)
 
         user_prompt = f"""Grade: {grade}
-Subject: {batch[0].get('subject', '')}
+Subject: {subj}
 
 Concepts for this grade:
 {concept_list}
@@ -312,6 +362,10 @@ Return JSON array only."""
             all_edges.append(filtered)
 
         time.sleep(1)
+
+    # ── Save full-grade checkpoint ────────────────────────────────────────────
+    _ckpt_save(grade_ckpt, all_edges)
+    log.info("  [ckpt] Saved grade %d edges checkpoint (%d records)", grade, len(all_edges))
 
     return all_edges
 
@@ -500,7 +554,7 @@ def process_subject(
     relevant_grades = sorted(grade_topics.keys())
     for grade in relevant_grades:
         log.info("  Extracting prerequisite edges for grade %d …", grade)
-        edges = extract_prerequisite_edges(concepts, grade)
+        edges = extract_prerequisite_edges(concepts, grade, subject=subject)
         edges_by_grade[grade] = edges
         log.info("    → %d edge records", len(edges))
 
@@ -585,7 +639,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--subject", help="Process only this subject")
     p.add_argument(
         "--model-path",
-        default=os.environ.get("LLAMA_MODEL_PATH", "/ssd_scratch/models/llama-8b"),
+        default=os.environ.get("LLAMA_MODEL_PATH", str(Path.home() / "models" / "llama-8b")),
         help="Path to the local LLaMA-8B model",
     )
     p.add_argument("--skip-existing", action="store_true", default=True)

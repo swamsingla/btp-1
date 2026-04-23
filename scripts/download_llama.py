@@ -25,7 +25,10 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s  %(message)s", datef
 log = logging.getLogger(__name__)
 
 MODEL_ID = "meta-llama/Meta-Llama-3.1-8B-Instruct"
-DEFAULT_SAVE_PATH = os.environ.get("LLAMA_MODEL_PATH", "/ssd_scratch/models/llama-8b")
+DEFAULT_SAVE_PATH = os.environ.get(
+    "LLAMA_MODEL_PATH",
+    str(Path.home() / "models" / "llama-8b"),
+)
 
 
 def download(save_path: str, hf_token: str | None) -> None:
