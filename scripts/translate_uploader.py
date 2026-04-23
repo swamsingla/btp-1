@@ -26,7 +26,7 @@ ROOT = Path(__file__).parent.parent
 
 # Import conversion logic from md_to_json
 sys.path.insert(0, str(ROOT / "scripts"))
-from md_to_json import convert_md_to_html
+from md_to_json import md_to_html as convert_md_to_html
 
 
 def get_mongo_uri():
@@ -86,7 +86,7 @@ def upload_translations(translated_dir: Path, lang_code: str):
     if index_file.exists():
         index = json.load(open(index_file, encoding='utf-8'))
         for i, t in enumerate(index.get('topics', []), 1):
-            topic_num_to_order[t['number']] = i
+            topic_num_to_order[t.get('topic_number', t.get('number', str(i)))] = i
 
     # Read translated .md files
     md_files = sorted(translated_dir.glob("*.md"))

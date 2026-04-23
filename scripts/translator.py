@@ -673,11 +673,24 @@ def translate_chapter(input_dir: str, output_base: str,
 
     total_time = 0
 
+    skipped_count = 0
+
     for lang_code in langs:
         lang_name = LANGUAGES[lang_code]["name"]
         print(f"\n--- {lang_name} ({lang_code}) ---")
 
+        out_dir = in_dir / model_label / lang_code
+        out_dir.mkdir(parents=True, exist_ok=True)
+
         for md_file in md_files:
+            out_file = out_dir / md_file.name
+
+            # Skip if translated file already exists and has content
+            if out_file.exists() and out_file.stat().st_size > 100:
+                print(f"  [{md_file.stem}] — skipping (already translated)")
+                skipped_count += 1
+                continue
+
             print(f"  [{md_file.stem}]", end="", flush=True)
             start = time.time()
 
@@ -686,14 +699,6 @@ def translate_chapter(input_dir: str, output_base: str,
 
             translated = translate_markdown(content, lang_code, model_key)
 
-            # Output: <output_base>/grade10/maths/chapter1/<model_label>/<lang>/file.md
-            # We need to compute the relative path from standard output structure
-            # input_dir is like: data/output/grade10/maths/chapter1
-            # We want: data/output/grade10/maths/chapter1/<model_label>/<lang>/file.md
-            out_dir = in_dir / model_label / lang_code
-            out_dir.mkdir(parents=True, exist_ok=True)
-
-            out_file = out_dir / md_file.name
             with open(out_file, 'w', encoding='utf-8') as f:
                 f.write(translated)
 
@@ -703,7 +708,7 @@ def translate_chapter(input_dir: str, output_base: str,
 
     unload_model()
 
-    print(f"\nDone! Total translation time: {total_time:.1f}s")
+    print(f"\nDone! Total translation time: {total_time:.1f}s (skipped {skipped_count} already-translated files)")
     print(f"Output: {in_dir / model_label}")
 
 
