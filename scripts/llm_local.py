@@ -113,37 +113,29 @@ class LocalLLM:
             {"role": "user", "content": user},
         ]
 
-        import concurrent.futures, threading
+        import signal
 
-        result_holder: list = []
-        exc_holder: list = []
+        def _timeout_handler(signum, frame):
+            raise TimeoutError(f"LLM generation exceeded time limit")
 
-        def _run():
-            try:
-                out = self._pipeline(
-                    messages,
-                    max_new_tokens=max_new_tokens,
-                    temperature=temperature,
-                    do_sample=DEFAULT_DO_SAMPLE,
-                )
-                result_holder.append(out)
-            except Exception as e:
-                exc_holder.append(e)
-
-        thread = threading.Thread(target=_run, daemon=True)
-        thread.start()
-        # Timeout: 0.5s per token is generous; hard cap at 180s (3 min)
-        timeout_secs = min(max(max_new_tokens * 0.5, 60), 180)
-        thread.join(timeout=timeout_secs)
-
-        if thread.is_alive():
-            log.error("LLM generation timed out after %.0fs — returning empty string", timeout_secs)
+        timeout_secs = min(max(max_new_tokens // 10, 60), 180)
+        signal.signal(signal.SIGALRM, _timeout_handler)
+        signal.alarm(timeout_secs)
+        try:
+            outputs = self._pipeline(
+                messages,
+                max_new_tokens=max_new_tokens,
+                temperature=temperature,
+                do_sample=DEFAULT_DO_SAMPLE,
+                repetition_penalty=1.15,      # prevents token repetition loops
+                no_repeat_ngram_size=4,        # prevents ngram repetition loops
+            )
+        except TimeoutError:
+            log.error("LLM generation timed out after %ds — returning empty string", timeout_secs)
             return ""
+        finally:
+            signal.alarm(0)  # cancel alarm
 
-        if exc_holder:
-            raise exc_holder[0]
-
-        outputs = result_holder[0]
         # The pipeline returns a list; the generated text is in the last message
         generated = outputs[0]["generated_text"]
         if isinstance(generated, list):
