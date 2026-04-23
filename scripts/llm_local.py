@@ -132,8 +132,8 @@ class LocalLLM:
 
         thread = threading.Thread(target=_run, daemon=True)
         thread.start()
-        # Timeout: 3 seconds per max_new_token is generous; hard cap at 600s
-        timeout_secs = min(max(max_new_tokens * 0.5, 120), 600)
+        # Timeout: 0.5s per token is generous; hard cap at 180s (3 min)
+        timeout_secs = min(max(max_new_tokens * 0.5, 60), 180)
         thread.join(timeout=timeout_secs)
 
         if thread.is_alive():

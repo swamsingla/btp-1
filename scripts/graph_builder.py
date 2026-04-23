@@ -190,7 +190,7 @@ Respond with a JSON array of concept objects ONLY (no prose):
 def extract_canonical_concepts(
     subject: str,
     grade_topics: dict[int, list[dict]],
-    batch_size: int = 60,
+    batch_size: int = 20,
 ) -> list[dict]:
     """
     Calls the LLM in batches to extract canonical concepts from raw topics.
@@ -249,7 +249,7 @@ Each raw topic may produce 1 high-level concept OR multiple sub-concepts.
 IMPORTANT: Populate the "slug" field using lowercase-hyphenated form of canonical_name.
 Return JSON array only."""
 
-        raw_resp = llm_call(system=SYSTEM_HIERARCHY, user=user_prompt, max_new_tokens=6000)
+        raw_resp = llm_call(system=SYSTEM_HIERARCHY, user=user_prompt, max_new_tokens=2500)
 
         try:
             concepts = extract_json(raw_resp)
