@@ -98,6 +98,22 @@ def extract_json(text: str) -> Any:
                 return json.loads(text[si : ei + 1])
             except json.JSONDecodeError:
                 pass
+    # Last resort: recover partial array — LLM truncated output mid-item
+    start = text.find("[")
+    if start != -1:
+        chunk = text[start:]
+        for end in range(len(chunk) - 1, 0, -1):
+            if chunk[end] in ("]", "}"):
+                candidate = chunk[:end + 1]
+                if candidate.rstrip()[-1] == "}":
+                    candidate += "]"
+                try:
+                    parsed = json.loads(candidate)
+                    if isinstance(parsed, list) and parsed:
+                        log.warning("Recovered %d partial items from truncated LLM array", len(parsed))
+                        return parsed
+                except json.JSONDecodeError:
+                    continue
     raise ValueError(f"Cannot extract JSON from: {text[:400]}")
 
 
