@@ -113,13 +113,37 @@ class LocalLLM:
             {"role": "user", "content": user},
         ]
 
-        outputs = self._pipeline(
-            messages,
-            max_new_tokens=max_new_tokens,
-            temperature=temperature,
-            do_sample=DEFAULT_DO_SAMPLE,
-        )
+        import concurrent.futures, threading
 
+        result_holder: list = []
+        exc_holder: list = []
+
+        def _run():
+            try:
+                out = self._pipeline(
+                    messages,
+                    max_new_tokens=max_new_tokens,
+                    temperature=temperature,
+                    do_sample=DEFAULT_DO_SAMPLE,
+                )
+                result_holder.append(out)
+            except Exception as e:
+                exc_holder.append(e)
+
+        thread = threading.Thread(target=_run, daemon=True)
+        thread.start()
+        # Timeout: 3 seconds per max_new_token is generous; hard cap at 600s
+        timeout_secs = min(max(max_new_tokens * 0.5, 120), 600)
+        thread.join(timeout=timeout_secs)
+
+        if thread.is_alive():
+            log.error("LLM generation timed out after %.0fs — returning empty string", timeout_secs)
+            return ""
+
+        if exc_holder:
+            raise exc_holder[0]
+
+        outputs = result_holder[0]
         # The pipeline returns a list; the generated text is in the last message
         generated = outputs[0]["generated_text"]
         if isinstance(generated, list):
