@@ -104,6 +104,25 @@ def extract_json(text: str) -> Any:
                 return json.loads(text[start : end + 1])
             except json.JSONDecodeError:
                 pass
+    # Last resort: recover partial array — strip trailing incomplete item
+    # e.g. "[{...}, {...}, {..." → parse "[{...}, {...}]"
+    start = text.find("[")
+    if start != -1:
+        chunk = text[start:]
+        # Walk backwards trying progressively shorter tails
+        for end in range(len(chunk) - 1, 0, -1):
+            if chunk[end] in ("]", "}"):
+                candidate = chunk[: end + 1]
+                # Close any unclosed array
+                if candidate.rstrip()[-1] == "}":
+                    candidate = candidate + "]"
+                try:
+                    parsed = json.loads(candidate)
+                    if isinstance(parsed, list) and parsed:
+                        log.warning("Recovered %d partial items from truncated LLM array", len(parsed))
+                        return parsed
+                except json.JSONDecodeError:
+                    continue
     raise ValueError(f"Could not extract JSON from LLM response:\n{text[:500]}")
 
 
@@ -152,18 +171,29 @@ def load_ncert_headings(grade: int, subject: str) -> list[dict]:
 
 SYSTEM_TOPIC_DISCOVERY = """You are an expert Indian curriculum designer with deep knowledge of
 NCERT, ICSE, CBSE, and all major state board syllabi (Maharashtra, Tamil Nadu, Karnataka, etc.).
-You have been asked to create a COMPREHENSIVE list of topics for a grade and subject.
 
-Your goal: A student who masters ALL topics on this list should have world-class
-understanding at this grade level — covering every important concept across all Indian boards
-plus universally important concepts taught globally at this level.
-
-You MUST respond with a valid JSON array only (no prose, no markdown fences). Each element:
+You MUST respond with a valid JSON array only — no prose, no markdown fences, no explanation.
+Each element must follow exactly this schema:
 {
   "raw_name": "<topic name — proper Wikipedia-style title>",
-  "subtopics": ["<sub-topic 1>", "<sub-topic 2>", ...],
   "source_boards": ["NCERT", "ICSE", "State Boards"],
-  "note": "<optional: which boards include this / any clarification>"
+  "note": "<optional: which boards include this>"
+}"""
+
+SYSTEM_SUBTOPIC_ENRICHMENT = """You are an expert Indian curriculum designer.
+Given a list of educational topics for a specific grade and subject, generate precise,
+concept-specific subtopics for each topic.
+
+Rules:
+- Subtopics must be SPECIFIC to the topic — never generic phrases like "Making Predictions", "Analyzing Data", "Understanding X"
+- Each subtopic should name a concrete skill, concept, or procedure (e.g., "Cross-multiplication of fractions", "Prime factorization method")
+- 3 to 6 subtopics per topic, ordered from foundational to advanced
+- Subtopics must make sense without reading the parent topic name
+
+You MUST respond with a valid JSON array only — no prose, no markdown fences. Each element:
+{
+  "raw_name": "<exact topic name as given>",
+  "subtopics": ["<specific subtopic 1>", "<specific subtopic 2>", ...]
 }"""
 
 
@@ -173,30 +203,30 @@ def discover_topics_via_llm(
     ncert_topic_names: list[str],
 ) -> list[dict]:
     """
-    Ask the LLM to enumerate the complete canonical topic set for grade+subject,
-    using the already-known NCERT topic names as a grounding anchor.
+    Ask the LLM to enumerate additional topics (beyond NCERT) for grade+subject.
+    Returns topics WITHOUT subtopics — those are enriched separately.
     """
     ncert_preview = "\n".join(f"- {t}" for t in ncert_topic_names[:60])
 
     user_prompt = f"""Grade: {grade}
 Subject: {subject.title()}
 
-The following topics are confirmed to appear in NCERT textbooks for this grade+subject:
+The following topics are already confirmed from NCERT for Grade {grade} {subject.title()}:
 {ncert_preview}
 
-Now produce the COMPLETE list of topics for Grade {grade} {subject.title()}.
+List ONLY the additional important topics that appear in ICSE or major state board syllabi
+(Maharashtra, Tamil Nadu, Karnataka, AP/Telangana) but are NOT already in the NCERT list above.
+Also include any universally important concepts taught globally at this grade level that are missing.
+
 Requirements:
-1. Include ALL topics from NCERT (those above and any you know are there)
-2. Include additional important topics from ICSE and state boards NOT in NCERT
-3. Include any universally important concepts taught globally at this grade level
-4. Use proper Wikipedia-style names (e.g., "Quadratic Equations" not "2.3 Solving Equations")
-5. Each topic should be a distinct, self-contained concept — not a chapter name
-6. Include 3-8 meaningful subtopics per topic
-7. Aim for completeness — it is better to include too many than to miss important ones
+- Use proper Wikipedia-style names (e.g., "Quadratic Equations" not "2.3 Solving Equations")
+- Each topic must be a distinct, self-contained concept — not a chapter name
+- Do NOT repeat any NCERT topics already listed above
+- Aim for 15-30 additional topics
 
 Return a JSON array directly (no markdown, no preamble)."""
 
-    raw = llm_call(system=SYSTEM_TOPIC_DISCOVERY, user=user_prompt, temperature=0.2, max_new_tokens=6000)
+    raw = llm_call(system=SYSTEM_TOPIC_DISCOVERY, user=user_prompt, temperature=0.2, max_new_tokens=3000)
     try:
         result = extract_json(raw)
         if isinstance(result, list):
@@ -210,6 +240,77 @@ Return a JSON array directly (no markdown, no preamble)."""
         return []
 
 
+def enrich_subtopics_batch(
+    grade: int,
+    subject: str,
+    topics: list[dict],
+    batch_size: int = 10,
+) -> dict[str, list[str]]:
+    """
+    For a list of topics that have no/poor subtopics, call the LLM in batches
+    to generate specific, high-quality subtopics.
+    Returns a dict mapping raw_name → list[subtopic_str].
+    """
+    result: dict[str, list[str]] = {}
+
+    for i in range(0, len(topics), batch_size):
+        batch = topics[i : i + batch_size]
+        topic_list = "\n".join(f'- "{t["raw_name"]}"' for t in batch)
+
+        user_prompt = f"""Grade: {grade}  Subject: {subject.title()}
+
+Generate specific subtopics for each of the following topics:
+{topic_list}
+
+Return a JSON array with one object per topic (same order). Each object:
+{{
+  "raw_name": "<exact topic name>",
+  "subtopics": ["<concrete subtopic>", ...]
+}}"""
+
+        raw = llm_call(
+            system=SYSTEM_SUBTOPIC_ENRICHMENT,
+            user=user_prompt,
+            temperature=0.1,
+            max_new_tokens=2000,
+        )
+        try:
+            parsed = extract_json(raw)
+            if not isinstance(parsed, list):
+                log.warning("  Subtopic enrichment batch %d: unexpected shape %s", i // batch_size, type(parsed))
+                continue
+            for item in parsed:
+                name = item.get("raw_name", "").strip()
+                subs = item.get("subtopics", [])
+                if name and isinstance(subs, list) and subs:
+                    result[name] = subs
+        except ValueError as exc:
+            log.warning("  Subtopic enrichment batch %d failed: %s", i // batch_size, exc)
+
+    return result
+
+
+# Generic/placeholder subtopic phrases to detect and replace
+_GENERIC_SUBTOPICS = {
+    "making predictions", "analyzing data", "understanding the topic",
+    "exploring concepts", "applying knowledge", "reviewing concepts",
+    "solving problems", "real-life applications",
+}
+
+
+def _has_generic_subtopics(subtopics: list[str]) -> bool:
+    """Return True if the subtopic list is mostly generic/placeholder phrases."""
+    if not subtopics:
+        return True
+    generic_count = sum(
+        1 for s in subtopics
+        if s.lower().strip() in _GENERIC_SUBTOPICS
+        or s.lower().startswith("understanding ")
+        or s.lower().startswith("exploring ")
+    )
+    return generic_count >= len(subtopics) // 2
+
+
 # ─── Deduplication / merging ──────────────────────────────────────────────────
 
 FUZZY_THRESHOLD = 85  # similarity score out of 100
@@ -218,33 +319,30 @@ FUZZY_THRESHOLD = 85  # similarity score out of 100
 def fuzzy_merge(
     ncert_topics: list[dict],
     llm_topics: list[dict],
-) -> list[dict]:
+) -> tuple[list[dict], int]:
     """
     Merge NCERT topics and LLM-discovered topics using fuzzy name matching.
-    NCERT topics are ground-truth; LLM topics are treated as additional discoveries.
-    Deduplicates by name similarity ≥ FUZZY_THRESHOLD.
+    NCERT topics are ground-truth — their subtopics (from actual textbook headings)
+    are NEVER overwritten by LLM subtopics.
+    LLM topics that don't match any NCERT topic are added as new entries.
+    Returns (merged_list, new_from_llm_count).
     """
     merged: list[dict] = []
-    # Index for dedup: list of normalized names already in merged
     seen_names: list[str] = []
 
     def _add(topic: dict) -> None:
         name_key = topic["raw_name"].lower().strip()
-        for existing in seen_names:
+        for idx, existing in enumerate(seen_names):
             if fuzz.token_sort_ratio(name_key, existing) >= FUZZY_THRESHOLD:
-                # Merge metadata into the existing entry
-                idx = seen_names.index(existing)
+                # Merge source_boards only — never clobber NCERT subtopics with LLM ones
                 for board in topic.get("source_boards", []):
                     if board not in merged[idx]["source_boards"]:
                         merged[idx]["source_boards"].append(board)
-                for st in topic.get("subtopics", []):
-                    if st not in merged[idx]["subtopics"]:
-                        merged[idx]["subtopics"].append(st)
-                # Keep NCERT note if present
+                # Only adopt LLM note if existing entry has none
                 if not merged[idx].get("note") and topic.get("note"):
                     merged[idx]["note"] = topic["note"]
                 return
-        # New entry
+        # New entry — include subtopics as-is (will be enriched later if needed)
         merged.append(dict(topic))
         seen_names.append(name_key)
 
@@ -264,7 +362,7 @@ def fuzzy_merge(
         len(merged),
         new_from_llm,
     )
-    return merged
+    return merged, new_from_llm
 
 
 # ─── Single grade+subject pipeline ───────────────────────────────────────────
@@ -287,15 +385,30 @@ def process_grade_subject(
     ncert_topics = load_ncert_headings(grade, subject)
     ncert_names = [t["raw_name"] for t in ncert_topics]
 
-    # Step 2: LLM comprehensive discovery
-    log.info("  Calling LLM for comprehensive topic discovery …")
+    # Step 2: LLM discovers ADDITIONAL topics (names + boards only, no subtopics)
+    log.info("  Calling LLM for additional topic discovery …")
     llm_topics = discover_topics_via_llm(grade, subject, ncert_names)
-    log.info("  LLM discovered %d topics", len(llm_topics))
+    log.info("  LLM discovered %d additional topics", len(llm_topics))
 
-    # Step 3: Merge & deduplicate
-    merged = fuzzy_merge(ncert_topics, llm_topics)
+    # Step 3: Merge & deduplicate (NCERT subtopics are preserved; LLM subtopics ignored)
+    merged, _ = fuzzy_merge(ncert_topics, llm_topics)
 
-    # Step 4: Serialise
+    # Step 4: Enrich subtopics
+    #   4a: NCERT topics whose headings had no/poor subtopics
+    ncert_needs_subs = [t for t in merged if "NCERT" in t.get("source_boards", []) and _has_generic_subtopics(t.get("subtopics", []))]
+    #   4b: LLM-added topics (no textbook headings to rely on)
+    llm_only = [t for t in merged if "NCERT" not in t.get("source_boards", [])]
+    needs_enrichment = ncert_needs_subs + llm_only
+    if needs_enrichment:
+        log.info("  Enriching subtopics for %d topics (%d NCERT poor + %d LLM-only) …",
+                 len(needs_enrichment), len(ncert_needs_subs), len(llm_only))
+        enriched = enrich_subtopics_batch(grade, subject, needs_enrichment)
+        for topic in merged:
+            if topic["raw_name"] in enriched:
+                topic["subtopics"] = enriched[topic["raw_name"]]
+        log.info("  Enriched subtopics for %d/%d topics", len(enriched), len(needs_enrichment))
+
+    # Step 6: Serialise
     result = {
         "grade": grade,
         "subject": subject,
