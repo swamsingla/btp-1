@@ -263,7 +263,7 @@ Return JSON array only."""
         # Assign subject + deduplicate by slug
         new_in_batch: list[dict] = []
         for c in concepts:
-            if "canonical_name" not in c:
+            if not c.get("canonical_name"):
                 continue
             if "slug" not in c or not c["slug"]:
                 c["slug"] = slugify(c["canonical_name"])
