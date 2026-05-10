@@ -443,7 +443,7 @@ is unreliable for a curriculum-aligned system.
 Models produce explanations that sound authoritative but contain subtle errors:
 wrong formula applications, imprecise definitions, and reasoning steps
 that deviate from the curriculum.
-The solution in Phase~2 is to assemble a rich context for every concept
+The solution in Phase~2 is Retrieval-Augmented Generation (RAG): assembling a rich context for every concept
 before any content is generated, drawing from three complementary sources.
 
 The first source is the knowledge graph itself.
@@ -461,7 +461,7 @@ The best-matching passages are included in the generation context,
 giving the model access to the actual textbook language rather than relying on
 its internal knowledge alone.
 
-The third source is externally fetched reference material for additional factual grounding,
+The third source is externally fetched Wikipedia summaries for additional factual grounding,
 particularly useful for higher-grade concepts where textbook coverage is less complete.
 All three sources are assembled into a single structured context before any API call is made,
 ensuring that every generated page is grounded simultaneously in the curriculum structure,
