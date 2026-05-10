@@ -1,0 +1,52 @@
+{
+  "concept_slug": "properties-of-triangles",
+  "canonical_name": "Properties of Triangles",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Geometry",
+  "description": "Triangle inequality; angle-side relationships",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angle Sum Property of a Triangle",
+    "Parallel Lines and Transversals"
+  ],
+  "prerequisites_descriptions": {
+    "Angle Sum Property of a Triangle": "Sum of interior angles of a triangle equals 180°",
+    "Parallel Lines and Transversals": "Angle relationships when a transversal cuts parallel lines"
+  },
+  "successors_to_link": [
+    "Congruence of Triangles",
+    "Triangle Theorems",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Angle Sum Property of a Triangle",
+    "Parallel Lines and Transversals",
+    "Congruence of Triangles",
+    "Triangle Theorems",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle",
+    "Angles",
+    "Types of Angles and Angle Pairs",
+    "Basic Geometric Constructions",
+    "Types of Triangles",
+    "Exterior Angle Theorem"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

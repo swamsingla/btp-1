@@ -1,0 +1,57 @@
+{
+  "concept_slug": "basic-constructions",
+  "canonical_name": "Basic Geometric Constructions",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Geometry",
+  "description": "Using compass and straightedge to construct angles, bisectors and perpendiculars",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch6 — Geometric Constructions]\nEyes\nDo you recall the ‘Eyes’ construction we did in Grade 6?\nOf course, eyes can be drawn freehand, but we wanted to construct\nthem so that the lower arc and upper arc of each eye look symmetrical.\nWe relied on our spatial estimation to determine the two centres, A\nand B (see the figure), from which we drew\nthe lower arc and upper arc  respectively.\nThe arcs define a line XY that ‘supports’\nthe drawing though it is not part of the final\nfigure. We can start with this supporting line\nand systematically find the centres A and B.\nFor the eye to be symmetrical, or for the\nsupporting line to be the line of symmetry, the\nupper and lower arcs should have the same\nradius. In other words, we must have AX = BX.\nSince AX = AY and BX = BY, this means\nAX = AY = BX = BY\nA\nB\nX\nY\nConstructions and Tilings\nHow do we find such A and B?\nFrom X and Y, draw arcs above and below\nXY, with the same radii.\nThe two points at which the arcs meet,\nabove and below XY, give us A and B,\nrespectively.\nUse this to co\n\n[NCERT Grade7 Ch6 — Tiling]\nTangrams are puzzles that originated in China.\nThey make use of 7 pieces obtained by dividing a\nsquare as shown.\nFor the problems ahead, we need these 7\ntangram pieces. These are provided at the end of\nthe book. Or, by looking at the figure, you could\nmake cardboard cutouts of the pieces.\nA\nG\nC\nB\nD\nE\nF\nGanita Prakash | Grade 7 | Part-II\nWe can form interesting pieces by\nrearranging the tangram pieces. Here is\nan arrow.\nFigure it Out\nHow can the tangram pieces be rearranged to form each of the\nfollowing figures?\nConstructions and Tilings\nCovering a region using a set of shapes, without gaps or overlaps, is\ncalled tiling.\nConsider a rectangular grid made of unit squares —\nWe call this a 4 × 6 grid, since it has 4 rows and 6 columns.\nCan a 4 × 6 grid be tiled using multiple copies of 2 × 1 tiles?\nWe are allowed to rotate a 2 × 1 tile and use it.\nVertical tile\nHorizontal tile\nHere is one way.\nObviously, this is not the only tiling possible.\nCan a 4 × 7 grid be tiled using 2 × 1 tiles?\nWhat",
+  "context_sources": [
+    "ncert:grade7/maths/ch6",
+    "ncert:grade7/maths/ch6"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angles",
+    "Points, Lines and Planes"
+  ],
+  "prerequisites_descriptions": {
+    "Angles": "Amount of rotation between two rays sharing a common endpoint",
+    "Points, Lines and Planes": "Fundamental undefined terms: point, line, ray, line segment, plane"
+  },
+  "successors_to_link": [
+    "Constructions of Triangles",
+    "Perpendicular Bisector",
+    "Constructions — Division of Line Segment",
+    "Construction of Tangents to a Circle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Angles",
+    "Points, Lines and Planes",
+    "Constructions of Triangles",
+    "Perpendicular Bisector",
+    "Constructions — Division of Line Segment",
+    "Construction of Tangents to a Circle",
+    "Types of Angles and Angle Pairs",
+    "Parallel Lines and Transversals",
+    "Types of Triangles",
+    "Angle Sum Property of a Triangle",
+    "Exterior Angle Theorem",
+    "Properties of Triangles",
+    "Congruence of Triangles"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

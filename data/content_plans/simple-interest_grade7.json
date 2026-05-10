@@ -1,0 +1,46 @@
+{
+  "concept_slug": "simple-interest",
+  "canonical_name": "Simple Interest",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Proportional Reasoning",
+  "description": "I = PRT/100",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch2 — Simple Expressions]\nYou may have seen mathematical phrases like 13 + 2, 20 – 4, 12 × 5, and\n18 ÷ 3. Such phrases are called arithmetic expressions.\nEvery arithmetic expression has a value which is the number it\nevaluates to. For example, the value of the expression 13 + 2 is 15. This\nexpression can be read as ‘13 plus 2’ or ‘the sum of 13 and 2’.\nWe use the equality sign ‘=’ to denote the relationship between an\narithmetic expression and its value. For example:\n13 + 2 = 15.\nExample 1: Mallika spends ₹25 every day for lunch at school. Write\nthe expression for the total amount she spends on lunch in a week\nfrom Monday to Friday.\nThe expression for the total amount is 5 × 25.\n5 × 25 is  “5 times 25” or “the product of 5 and 25”.\nDifferent expressions can have the same value. Here are multiple\nways to express the number 12, using two numbers and any of the four\noperations +, – ,  × and ÷:\n10 + 2, 15 – 3, 3 × 4, 24 ÷ 2.\nChoose your favourite number and write as many expressions as you\ncan having that value.\nCo",
+  "context_sources": [
+    "ncert:grade7/maths/ch2"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Percentage",
+    "Unitary Method and Direct Proportion"
+  ],
+  "prerequisites_descriptions": {
+    "Percentage": "A ratio expressed per hundred",
+    "Unitary Method and Direct Proportion": "Finding value of one unit; y = kx"
+  },
+  "successors_to_link": [
+    "Compound Interest"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Percentage",
+    "Unitary Method and Direct Proportion",
+    "Compound Interest",
+    "Ratios and Proportions",
+    "Percentage Increase and Decrease",
+    "Profit, Loss and Discount",
+    "Speed, Distance and Time"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

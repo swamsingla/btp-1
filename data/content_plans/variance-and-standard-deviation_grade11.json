@@ -1,0 +1,49 @@
+{
+  "concept_slug": "variance-and-standard-deviation",
+  "canonical_name": "Variance and Standard Deviation",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Statistics",
+  "description": "σ² = Σ(xᵢ−x̄)²/n; shortcut formula; for frequency distributions",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch13 — Limitations of mean deviation]\nvery high, the median is not a representative central tendency. Thus, the mean deviation\nabout median calculated for such series can not be fully relied.\nThe sum of the deviations from the mean (minus signs ignored) is more than the sum\nof the deviations from median. Therefore, the mean deviation about the mean is not very\nscientific.Thus, in many cases, mean deviation may give unsatisfactory results. Also mean\ndeviation is calculated on the basis of absolute values of the deviations and therefore,\ncannot be subjected to further algebraic treatment. This implies that we must have some\nother measure of dispersion. Standard deviation is such a measure of dispersion.\n13.5\nVariance and Standard Deviation\nRecall that while calculating mean deviation about mean or median, the absolute values\nof the deviations were taken. The absolute values were taken to give meaning to the\nmean deviation, otherwise the deviations may cancel among themselves.\nAnother way to overcome this difficulty which aro\n\n[NCERT Grade11 Ch13 — Standard Deviation]\nDeviations from mean\n(xi– x )\nindividual observations xi and the unit of their mean x are different from that of variance,\nsince variance involves the sum of squares of  (xi– x ). For this reason, the  proper\nmeasure of dispersion about the mean of a set of observations is expressed as positive\nsquare-root of the variance and is called standard deviation. Therefore, the standard\ndeviation, usually denoted by σ , is given by\n∑\n=\n−\n=\nn\ni\ni\nx\nx\nn\n2)\n(\nσ\n... (1)\nLet us take the following example to illustrate the calculation of variance and\nhence, standard deviation of  ungrouped data.\nExample 8  Find the variance of the following data:\n6, 8, 10, 12, 14, 16, 18, 20, 22, 24\nSolution From the given data we can form the following Table 13.7. The mean is\ncalculated by step-deviation method taking 14 as assumed mean. The number of\nobservations is n = 10\nTable 13.7\nxi\ni\ni\nx\nd\n−\n=\n(xi– x )\n–4\n–9\n–3\n–7\n–2\n–5\n–1\n–3\n–1\nReprint 2025-26\nSTATISTICS            275\nTherefore\nMean x = assumed mean +\nh\nn\nd\n\n[NCERT Grade11 Ch13 — Standard deviation of a continuous frequency distribution]\ncontinuous frequency distribution can be represented as a discrete frequency distribution\nby replacing each class by its mid-point. Then, the standard deviation is calculated by\nthe technique adopted in the case of a discrete frequency distribution.\nIf there is a frequency distribution of n classes each class defined by its mid-point\nxi with frequency fi, the standard deviation will be obtained by the formula\n(\n)\nN\nn\ni\ni\ni\nf x\nx\nσ\n=\n=\n−\n∑\n,\nwhere x is the mean of the distribution and\nN\nn\ni\ni\nf\n=\n=∑\n.\nAnother formula for standard deviation We know that\nVariance\n(\n)\nσ\n=\n(\n)\nN\nn\ni\ni\ni\nf x\nx\n=\n−\n∑\n=\n(\n)\nN\nn\ni\ni\ni\ni\nf x\nx\nx x\n=\n+\n−\n∑\n=\nN\nn\nn\nn\ni\ni\ni\ni\ni\ni\ni\ni\nf x\nx f\nx f x\n=\n=\n=\n\n\n+\n−\n\n\n\n\n∑\n∑\n∑\n=\nN\nn\nn\nn\ni\ni\ni\ni\ni\ni\ni\ni\nf x\nx\nf\nx\nx f\n=\n=\n=\n\n\n+\n−\n\n\n\n\n∑\n∑\n∑\nReprint 2025-26\nSTATISTICS            277\n=\nN\n2 . N\nN\n=\n+\n−\nn\ni\ni\ni\nf x\nx\nx\nx\nHere\nor\nN\nN\nn\nn\ni\ni\ni\ni\ni\ni\nx f\nx\nx f\nx\n=\n=\n\n\n=\n=\n\n\n\n\n∑\n∑\n=\nN\nn\ni\ni\ni\nx\nx\nf x\n=\n+\n−\n∑\nN\nn\ni\ni\ni\nx\nf x\n=\n=\n−\n∑\nor\nσ\n=\n=1\n=1\nN\nN\nN\nN\nn\ni\ni\nn\nn\nn\n\n\n[NCERT Grade11 Ch13 — Standard deviation of a discrete frequency distribution]\nfrequency distribution be\nx :\nx1,   x2,     x3 ,. . . , xn\nf :\nf1,    f2,     f3 ,. . . ,  fn\nIn this case standard deviation  ( )\n(\n)\nN\nn\ni\ni\ni\nf x\nx\nσ\n=\n=\n−\n∑\n... (2)\nwhere\nN\nn\ni\ni\nf\n=\n=∑\n.\nLet us take up following example.\nExample 9  Find the variance and standard deviation for the following data:\nxi\nf i\nSolution Presenting the data in tabular form (Table 13.8), we get\nTable 13.8\nxi\nf i\nfi xi\nxi – x\n2)\n(\nx\nxi −\nfi\n2)\n(\nx\nxi −\n–10\n–6\n–3\nReprint 2025-26\nN = 30,\n(\n)\n420,\ni\ni\ni\ni\ni\ni\nf x\nf\nx\nx\n=\n=\n=\n−\n=\n∑\n∑\nTherefore\nN\ni\ni\ni\nf x\nx\n=\n=\n=\n×\n=\n∑\nHence\nvariance\n(\n)\nσ\n=\n(\n)\nN\ni\ni\ni\nf x\nx\n=\n−\n∑\n= 1\n30  × 1374 = 45.8\nand\nStandard deviation\n8.\n)\n(\n=\nσ\n= 6.77\n13.5.3  Standard deviation of a continuous frequency distribution The given",
+  "context_sources": [
+    "ncert:grade11/maths/ch13",
+    "ncert:grade11/maths/ch13",
+    "ncert:grade11/maths/ch13",
+    "ncert:grade11/maths/ch13"
+  ],
+  "ncert_chunks_found": 4,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Measures of Dispersion"
+  ],
+  "prerequisites_descriptions": {
+    "Measures of Dispersion": "Range, mean deviation, variance, standard deviation"
+  },
+  "successors_to_link": [
+    "Coefficient of Variation",
+    "Mean and Variance of a Random Variable",
+    "Correlation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Measures of Dispersion",
+    "Coefficient of Variation",
+    "Mean and Variance of a Random Variable",
+    "Correlation",
+    "Scatter Plot",
+    "Regression Line"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

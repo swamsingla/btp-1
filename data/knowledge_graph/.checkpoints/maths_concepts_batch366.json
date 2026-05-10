@@ -1,0 +1,21 @@
+[
+  {
+    "canonical_name": "Increasing and Decreasing functions",
+    "slug": "increasing-and-decreasing-functions",
+    "aliases": [],
+    "domain": "Calculus",
+    "area": "Functions",
+    "parent": null,
+    "grades": [
+      12
+    ],
+    "importance-by-grade": {
+      "12": 5
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

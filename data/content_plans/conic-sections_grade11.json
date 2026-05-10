@@ -1,0 +1,56 @@
+{
+  "concept_slug": "conic-sections",
+  "canonical_name": "Conic Sections — Introduction",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "Circle, parabola, ellipse, hyperbola as sections of a cone",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch10 — Circle, ellipse, parabola and hyperbola]\nthan the vertex) of the cone, we have the following situations:\n(a)\nWhen β = 90o,  the section is a circle (Fig10.4).\n(b)\nWhen α < β <  90o, the section is an ellipse (Fig10.5).\n(c)\nWhen β = α; the section is a parabola (Fig10.6).\n(In each of the above three situations, the plane cuts entirely across one nappe of\nthe cone).\n(d)\nWhen 0 ≤ β < α; the plane cuts through both the nappes and the curves of\nintersection is a hyperbola (Fig10.7).\nReprint 2025-26\n178    MATHEMATICS\nFig 10. 4\n10.2.2  Degenerated conic sections\nFig 10. 6\nFig 10. 7\nFig 10. 5\n\n[NCERT Grade11 Ch10 — Degenerated conic sections]\nWhen the plane cuts at the vertex of the cone, we have  the following  different cases:\n(a)\nWhen α < β ≤ 90o, then the section is a point (Fig10.8).\n(b)\nWhen β = α, the plane contains a generator of the cone and the section is a\nstraight line  (Fig10.9).\nIt is the degenerated case of a parabola.\n(c)\nWhen 0 ≤ β < α, the section is a pair of intersecting straight lines (Fig10.10).\nIt is the degenerated case of a hyperbola.\nReprint 2025-26\nCONIC SECTIONS       179\nIn the following sections, we shall obtain the equations of each of  these conic\nsections in standard form  by defining them based on geometric properties.\nFig 10. 8\nFig 10. 9\nFig 10. 10\n10.3\nCircle\nDefinition 1 A circle is the set of all points in a plane that are equidistant from a fixed\npoint in the plane.\nThe fixed point is called the centre of the circle and the distance from the centre\nto a point on the circle is called the radius of the circle (Fig 10.11).\nReprint 2025-26\n180    MATHEMATICS\nThe equation of the circle is s\n\n[NCERT Grade11 Ch10 — Parabola]\nFig 10. 13\nFig 10.14\nDefinition 2 A parabola is the set of all points\nin a plane that are equidistant from a fixed line\nand a fixed point (not on the line) in the plane.\nThe fixed line is called the directrix of\nthe parabola and the fixed point F is called the\nfocus (Fig 10.13). (‘Para’ means ‘for’ and\n‘bola’ means ‘throwing’, i.e., the shape\ndescribed when you throw a ball in the air).\nANote   If the fixed point lies on the fixed\nline, then the set of points in the plane, which\nare equidistant from the fixed point and the\nfixed line is the straight line through the fixed\npoint and perpendicular to the fixed line.  We\ncall this straight line as degenerate case of\nthe parabola.\nA line through the focus  and perpendicular\nto the directrix  is called the axis of the\nparabola. The point of intersection of parabola\nwith the axis is called the vertex of the parabola\n(Fig10.14).\n10.4.1 Standard equations of parabola\n\n[NCERT Grade11 Ch10 — Standard equations of parabola]\nThe equation of a parabola is simplest if the\nvertex is at the origin and the axis of symmetry is along the x-axis or y-axis. The four\npossible such orientations of parabola are shown below in  Fig10.15 (a) to (d).\nReprint 2025-26\nCONIC SECTIONS       183\nWe will derive the equation for the parabola shown above in Fig 10.15 (a) with\nfocus at (a, 0) a > 0; and directricx x = – a as below:\nLet F be the focus and l the directrix.  Let\nFM be perpendicular to the directrix and bisect\nFM at the point O.  Produce MO to X.  By the\ndefinition of  parabola, the mid-point O is on the\nparabola and is called the vertex of the parabola.\nTake O as origin, OX the x-axis and OY\nperpendicular to it as the y-axis.  Let the distance\nfrom the directrix to the focus be 2a. Then, the\ncoordinates of the focus are (a, 0),  and the\nequation of the directrix is x + a = 0 as in Fig10.16.\nLet P(x, y) be any point on the parabola such that\nPF = PB,\n... (1)\nwhere PB is perpendicular to l. The coordinates of B are (–\n\n[NCERT Grade11 Ch10 — Latus rectum]\nDefinition 3 Latus rectum of a parabola is a line segment perpendicular to the axis of\nthe parabola, through the focus and whose end points lie on the parabola (Fig10.17).\nTo find the Length of the latus rectum of the parabola y2 = 4ax (Fig 10.18).\nBy the definition of the parabola, AF = AC.\nBut\nAC = FM = 2a\nHence\nAF = 2a.\nAnd since the parabola is symmetric with respect to x-axis AF = FB and so\nAB = Length of the latus rectum = 4a.\nFig 10.17\nFig 10.18\nExample 5 Find the coordinates of the focus, axis,\nthe equation of the directrix and latus rectum of\nthe parabola y2 = 8x.\nSolution The given equation involves y2, so the\naxis of symmetry is along the x-axis.\nThe coefficient of x is positive so the parabola opens\nto the right. Comparing with the given equation\ny2 = 4ax, we find that a = 2.\nThus, the focus of the parabola is (2, 0) and the equation of the directrix of the parabola\nis x = – 2 (Fig 10.19).\nLength of the latus rectum is 4a = 4 × 2 = 8.\nFig 10.19\nReprint 2025-26\n186    MATHEM",
+  "context_sources": [
+    "ncert:grade11/maths/ch10",
+    "ncert:grade11/maths/ch10",
+    "ncert:grade11/maths/ch10",
+    "ncert:grade11/maths/ch10",
+    "ncert:grade11/maths/ch10"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Equation of a Circle"
+  ],
+  "prerequisites_descriptions": {
+    "Equation of a Circle": "(x−h)²+(y−k)²=r²; general form"
+  },
+  "successors_to_link": [
+    "Parabola",
+    "Ellipse",
+    "Hyperbola",
+    "Area Under Curves"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Equation of a Circle",
+    "Parabola",
+    "Ellipse",
+    "Hyperbola",
+    "Area Under Curves",
+    "Slope of a Line",
+    "Equation of a Straight Line",
+    "General Equation of a Line",
+    "Angle Between Two Lines",
+    "Distance of a Point from a Line",
+    "Family of Lines"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

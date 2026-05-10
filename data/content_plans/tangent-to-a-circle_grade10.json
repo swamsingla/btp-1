@@ -1,0 +1,57 @@
+{
+  "concept_slug": "tangent-to-a-circle",
+  "canonical_name": "Tangent to a Circle",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Geometry",
+  "description": "Tangent is perpendicular to radius at point of contact",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade10 Ch10 — Tangent to a Circle]\nIn the previous section, you have seen that a tangent* to a circle is a line that\nintersects the circle at only one point.\nTo understand the existence of the tangent to a circle at a point, let us perform\nthe following activities:\nActivity 1 : Take a circular wire and attach a straight wire AB at a point P of the\ncircular wire so that it can rotate about the point P in a plane. Put the system on a table\nand gently rotate the wire AB about the point P to get different positions of the straight\nwire [see Fig. 10.3(i)].\nIn various positions, the wire intersects the\ncircular wire at P and at another point Q1 or Q2 or\nQ3, etc. In one position, you will see that it will\nintersect the circle at the point P only (see position\nAB of AB). This shows that a tangent exists at\nthe point P of the circle. On rotating further, you\ncan observe that in all other positions of AB, it will\nintersect the circle at P and at another point, say R1\nor R2 or R3, etc. So, you can observe that there is\nonly one \n\n[NCERT Grade10 Ch10 — Number of Tangents from a Point on a Circle]\nTo get an idea of the number of tangents from a point on a circle, let us perform the\nfollowing activity:\nReprint 2025-26\nActivity 3 : Draw a circle on a paper. Take a\npoint P inside it. Can you draw a tangent to the\ncircle through this point? You will find that all\nthe lines through this point intersect the circle in\ntwo points. So, it is not possible to draw any\ntangent to a circle through a point inside it\n[see Fig. 10.6 (i)].\nNext take a point P on the circle and draw\ntangents through this point. You have already\nobserved that there is only one tangent to the\ncircle at such a point [see Fig. 10.6 (ii)].\nFinally, take a point P outside the circle and\ntry to draw tangents to the circle from this point.\nWhat do you observe? You will find that you\ncan draw exactly two tangents to the circle\nthrough this point [see Fig. 10.6 (iii)].\nWe can summarise these facts as follows:\nCase 1 : There is no tangent to a circle passing\nthrough a point lying inside the circle.\nCase 2 : There is one and\n\n[NCERT Grade10 Ch10 — Introduction]\nYou have studied in Class IX that a circle is a collection of all points in a plane\nwhich are at a constant distance (radius) from a fixed point (centre). You have\nalso studied various terms related to a circle like chord, segment, sector, arc etc.\nLet us now examine the different situations that can arise when a circle and a line\nare given in a plane.\nSo, let us consider a circle and a line PQ. There can be three possibilities given\nin Fig. 10.1 below:\nFig. 10.1\nIn Fig. 10.1 (i), the line PQ and the circle have no common point. In this case,\nPQ is called a non-intersecting line with respect to the circle. In Fig. 10.1 (ii), there\nare two common points A and B that the line PQ and the circle have. In this case, we\ncall the line PQ a secant of the circle. In Fig. 10.1 (iii), there is only one point A which\nis common to the line PQ and the circle. In this case, the line is called a tangent to the\ncircle.\nReprint 2025-26\nCIRCLES\nYou might have seen a pulley fitted over a well which is use\n\n[NCERT Grade10 Ch11 — Areas of Sector and Segment of a Circle]\nYou have already come across the terms sector and\nsegment of a circle in your earlier classes. Recall\nthat the portion (or part) of the circular region enclosed\nby two radii and the corresponding arc is called a\nsector of the circle and the portion (or part) of the\ncircular region enclosed between a chord and the\ncorresponding arc is called a segment of the circle.\nThus, in Fig. 11.1, shaded region OAPB is a sector\nof the circle with centre O. ∠ AOB is called the\nangle of the sector. Note that in this figure, unshaded region OAQB is also a sector of\nthe circle. For obvious reasons, OAPB is called the minor sector and\nOAQB is called the major sector. You can also see that angle of the major sector is\n360° – ∠ AOB.\nNow, look at Fig. 11.2 in which AB is a chord\nof the circle with centre O. So, shaded region APB is\na segment of the circle. You can also note that\nunshaded region AQB is another segment of the circle\nformed by the chord AB. For obvious reasons, APB\nis called the minor segment",
+  "context_sources": [
+    "ncert:grade10/maths/ch10",
+    "ncert:grade10/maths/ch10",
+    "ncert:grade10/maths/ch10",
+    "ncert:grade10/maths/ch11"
+  ],
+  "ncert_chunks_found": 4,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Circle Theorems",
+    "Pythagorean Theorem"
+  ],
+  "prerequisites_descriptions": {
+    "Circle Theorems": "Equal chords equidistant from centre; angle in semicircle; inscribed angle theorem",
+    "Pythagorean Theorem": "In a right triangle: a² + b² = c²"
+  },
+  "successors_to_link": [
+    "Properties of Tangents from External Point",
+    "Incentre of a Triangle",
+    "Construction of Tangents to a Circle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Circle Theorems",
+    "Pythagorean Theorem",
+    "Properties of Tangents from External Point",
+    "Incentre of a Triangle",
+    "Construction of Tangents to a Circle",
+    "Similar Triangles",
+    "Similarity of Triangles — Theorems",
+    "Basic Proportionality Theorem (Thales)",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle",
+    "Centroid of a Triangle",
+    "Circumcentre of a Triangle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

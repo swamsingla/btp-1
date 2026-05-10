@@ -1,0 +1,44 @@
+{
+  "concept_slug": "set-operations",
+  "canonical_name": "Set Operations and Venn Diagrams",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Set Theory",
+  "description": "Union, intersection, difference, complement; Venn diagrams; De Morgan's laws",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch1 — Operations on Sets]\nIn earlier classes, we have learnt how to perform the operations of addition, subtraction,\nmultiplication and division on numbers. Each one of these operations was performed\non a pair of numbers to get another number. For example, when we perform the\noperation of addition on the pair of numbers 5 and 13, we get the number 18. Again,\nperforming the operation of multiplication on the pair of numbers 5 and 13, we get 65.\nReprint 2025-26\n14       MATHEMATICS\nSimilarly, there are some operations which when performed on two sets give rise to\nanother set. We will now define certain operations on sets and examine their properties.\nHenceforth, we will refer all our sets as subsets of some universal set.\n1.9.1  Union of sets  Let A and B be any two sets. The union of  A and B is the set",
+  "context_sources": [
+    "ncert:grade11/maths/ch1"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Subsets and Power Set"
+  ],
+  "prerequisites_descriptions": {
+    "Subsets and Power Set": "A ⊆ B; power set P(A); number of subsets = 2ⁿ"
+  },
+  "successors_to_link": [
+    "Cartesian Product of Sets",
+    "Sample Space and Events"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Subsets and Power Set",
+    "Cartesian Product of Sets",
+    "Sample Space and Events",
+    "Sets",
+    "Types of Sets"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

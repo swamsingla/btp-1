@@ -1,0 +1,48 @@
+{
+  "concept_slug": "unitary-method-and-direct-proportion",
+  "canonical_name": "Unitary Method and Direct Proportion",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Proportional Reasoning",
+  "description": "Finding value of one unit; y = kx",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[Wikipedia]\nThe single transferable vote (STV) or proportional-ranked choice voting (P-RCV), also known as PR-STV and \"proportional representation by means of the single transferable vote\", is a multi-winner electoral system in which each voter casts a single vote in the form of a ranked ballot. Voters have the option to rank candidates, and their vote may be transferred according to alternative preferences if their preferred candidate is eliminated or elected with surplus votes, so that their vote is used to elect someone they prefer over others in the running. STV aims to approach proportional representation based on votes cast in the district where it is used, so that each vote is worth about the same as another.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Ratios and Proportions"
+  ],
+  "prerequisites_descriptions": {
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios"
+  },
+  "successors_to_link": [
+    "Simple Interest",
+    "Speed, Distance and Time",
+    "Inverse Proportion",
+    "Direct and Inverse Variation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Ratios and Proportions",
+    "Simple Interest",
+    "Speed, Distance and Time",
+    "Inverse Proportion",
+    "Direct and Inverse Variation",
+    "Percentage",
+    "Percentage Increase and Decrease",
+    "Profit, Loss and Discount"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

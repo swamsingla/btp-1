@@ -1,0 +1,46 @@
+{
+  "concept_slug": "fundamental-theorem-of-arithmetic",
+  "canonical_name": "Fundamental Theorem of Arithmetic",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Number Theory",
+  "description": "Every integer > 1 is uniquely expressible as a product of primes",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade10 Ch1 — The Fundamental Theorem of Arithmetic]\nIn your earlier classes, you have seen that any natural number can be written as a\nproduct of its prime factors. For instance, 2 = 2, 4 = 2 × 2, 253 = 11 × 23, and so on.\nNow, let us try and look at natural numbers from the other direction. That is, can any\nnatural number be obtained by multiplying prime numbers? Let us see.\nTake any collection of prime numbers, say 2, 3, 7, 11 and 23. If we multiply\nsome or all of these numbers, allowing them to repeat as many times as we wish,\nwe can produce a large collection of positive integers (In fact, infinitely many).\nLet us list a few :\n7 × 11 × 23 = 1771\n3 × 7 × 11 × 23 = 5313\n2 × 3 × 7 × 11 × 23 = 10626\n23 × 3 × 73 = 8232\n22 × 3 × 7 × 11 × 23 = 21252\nand so on.\nNow, let us suppose your collection of primes includes all the possible primes.\nWhat is your guess about the size of this collection? Does it contain only a finite\nnumber of integers, or infinitely many? Infact, there are infinitely many primes. So,\nif we combine all these primes in",
+  "context_sources": [
+    "ncert:grade10/maths/ch1"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Prime Factorisation",
+    "LCM and GCD (HCF)"
+  ],
+  "prerequisites_descriptions": {
+    "Prime Factorisation": "Expressing a number as a product of prime factors; factor trees",
+    "LCM and GCD (HCF)": "Least Common Multiple and Greatest Common Divisor using prime factorisation"
+  },
+  "successors_to_link": [
+    "Proof of Irrationality"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Prime Factorisation",
+    "LCM and GCD (HCF)",
+    "Proof of Irrationality",
+    "Euclidean Algorithm",
+    "Euclid's Division Lemma",
+    "Modular Arithmetic"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

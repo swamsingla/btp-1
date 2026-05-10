@@ -1,0 +1,46 @@
+{
+  "concept_slug": "hyperbola",
+  "canonical_name": "Hyperbola",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "x²/a²−y²/b²=1; transverse/conjugate axes; asymptotes",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch10 — Parabola]\nFig 10. 13\nFig 10.14\nDefinition 2 A parabola is the set of all points\nin a plane that are equidistant from a fixed line\nand a fixed point (not on the line) in the plane.\nThe fixed line is called the directrix of\nthe parabola and the fixed point F is called the\nfocus (Fig 10.13). (‘Para’ means ‘for’ and\n‘bola’ means ‘throwing’, i.e., the shape\ndescribed when you throw a ball in the air).\nANote   If the fixed point lies on the fixed\nline, then the set of points in the plane, which\nare equidistant from the fixed point and the\nfixed line is the straight line through the fixed\npoint and perpendicular to the fixed line.  We\ncall this straight line as degenerate case of\nthe parabola.\nA line through the focus  and perpendicular\nto the directrix  is called the axis of the\nparabola. The point of intersection of parabola\nwith the axis is called the vertex of the parabola\n(Fig10.14).\n10.4.1 Standard equations of parabola\n\n[NCERT Grade11 Ch10 — Standard equation of  Hyperbola]\nthe centre of the hyperbola is at the origin and the foci are on the x-axis or y-axis.  The\ntwo such possible orientations are shown in Fig10.29.\nWe will derive the equation for the hyperbola  shown in Fig 10.29(a) with foci on\nthe x-axis.\nLet F1 and F2 be the foci and O be the mid-point of the line segment F1F2.  Let O\nbe the origin and the line through O\nthrough F2 be the positive x-axis and\nthat through F1 as the negative\nx-axis.  The line through O\nperpendicular to the x-axis be the\ny-axis.  Let the coordinates of F1 be\n(– c,0) and F2 be (c,0) (Fig 10.30).\nLet P(x, y) be any point on the\nhyperbola such that the difference\nof the distances from P to the farther\npoint minus the closer point be 2a.\nSo given,  PF1 – PF2 = 2a\nFig 10.29\n(a)\n(b)\nFig 10.30\nReprint 2025-26\n198    MATHEMATICS\nUsing the distance formula, we have\n(\n)\n(\n)\nx\nc\ny\n–\nx – c\ny\na\n+\n+\n+\n=\ni.e.,\n(\n)\n(\n)\nx\nc\ny\na\nx – c\ny\n+\n+\n=\n+\n+\nSquaring both side, we get\n(x + c)2 + y2 = 4a2 + 4a\n(\n)\nx – c\ny\n+\n+ (x – c)2 + y2\nand on sim",
+  "context_sources": [
+    "ncert:grade11/maths/ch10",
+    "ncert:grade11/maths/ch10"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Conic Sections — Introduction",
+    "Ellipse"
+  ],
+  "prerequisites_descriptions": {
+    "Conic Sections — Introduction": "Circle, parabola, ellipse, hyperbola as sections of a cone",
+    "Ellipse": "x²/a²+y²/b²=1; foci, vertices, eccentricity, latus rectum"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Conic Sections — Introduction",
+    "Ellipse",
+    "Slope of a Line",
+    "Equation of a Straight Line",
+    "General Equation of a Line",
+    "Angle Between Two Lines",
+    "Distance of a Point from a Line",
+    "Family of Lines",
+    "Equation of a Circle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

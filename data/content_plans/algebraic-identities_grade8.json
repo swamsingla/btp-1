@@ -1,0 +1,56 @@
+{
+  "concept_slug": "algebraic-identities",
+  "canonical_name": "Algebraic Identities",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Algebra",
+  "description": "Standard identities: (a±b)², a²−b², (a+b+c)², (x+a)(x+b)",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Simplification of Algebraic Expressions"
+  ],
+  "prerequisites_descriptions": {
+    "Simplification of Algebraic Expressions": "Collecting like terms; simplifying using properties"
+  },
+  "successors_to_link": [
+    "Factorisation of Algebraic Expressions",
+    "Surds and Rationalisation",
+    "Factorisation of Polynomials",
+    "Quadratic Equations",
+    "Completing the Square",
+    "Trigonometric Identities",
+    "Binomial Theorem"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Simplification of Algebraic Expressions",
+    "Factorisation of Algebraic Expressions",
+    "Surds and Rationalisation",
+    "Factorisation of Polynomials",
+    "Quadratic Equations",
+    "Completing the Square",
+    "Trigonometric Identities",
+    "Binomial Theorem",
+    "Linear Equations in One Variable",
+    "Exponents and Powers",
+    "Negative and Zero Exponents",
+    "Division of Algebraic Expressions",
+    "Linear Equations in Two Variables",
+    "Graphing Linear Equations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

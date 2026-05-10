@@ -1,0 +1,44 @@
+{
+  "concept_slug": "section-formula-3d",
+  "canonical_name": "Section Formula in 3D",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "Dividing a line segment in 3D space in a given ratio",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Introduction to 3D Geometry",
+    "Section Formula and Midpoint"
+  ],
+  "prerequisites_descriptions": {
+    "Introduction to 3D Geometry": "3D coordinate system; octants; distance between two points in 3D",
+    "Section Formula and Midpoint": "Internal and external division of a line segment in a given ratio"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Introduction to 3D Geometry",
+    "Section Formula and Midpoint",
+    "Slope of a Line",
+    "Equation of a Straight Line",
+    "General Equation of a Line",
+    "Angle Between Two Lines",
+    "Distance of a Point from a Line",
+    "Family of Lines",
+    "Equation of a Circle",
+    "Conic Sections — Introduction"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

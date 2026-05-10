@@ -1,0 +1,51 @@
+{
+  "concept_slug": "area-under-curves",
+  "canonical_name": "Area Under Curves",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "Area between curves using definite integrals",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch8 — Area under Simple Curves]\nFig 8.1\nIn the previous chapter, we have studied\ndefinite integral as the limit of a sum and\nhow to evaluate definite integral using\nFundamental Theorem of Calculus. Now,\nwe consider the easy and intuitive way of\nfinding the area bounded by the curve\ny = f (x), x-axis and the ordinates x = a and\nx = b. From Fig 8.1, we can think of area\nunder the curve as composed of large\nnumber of very thin vertical strips. Consider\nan arbitrary strip of height y and width dx,\nthen dA (area of the elementary strip)= ydx,\nwhere, y = f (x).\nReprint 2025-26\nAPPLICATION OF INTEGRALS         293\nFig  8.2\nThis area is called the elementary area which is located at an arbitrary position\nwithin the region which is specified by some value of x between a and b. We can think\nof the total area A of the region between x-axis, ordinates x = a, x = b and the curve\ny = f (x) as the result of adding up the elementary areas of thin strips across the region\nPQRSP. Symbolically, we express\nA =\nA\n( )\nb\nb\nb\na\na\na\nd\nydx\nf",
+  "context_sources": [
+    "ncert:grade12/maths/ch8"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Properties of Definite Integrals",
+    "Conic Sections — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Properties of Definite Integrals": "∫ₐᵇ=−∫ᵇₐ; King's property; even/odd function integrals",
+    "Conic Sections — Introduction": "Circle, parabola, ellipse, hyperbola as sections of a cone"
+  },
+  "successors_to_link": [
+    "Area Between Two Curves"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Properties of Definite Integrals",
+    "Conic Sections — Introduction",
+    "Area Between Two Curves",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

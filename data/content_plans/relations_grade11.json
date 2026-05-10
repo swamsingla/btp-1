@@ -1,0 +1,54 @@
+{
+  "concept_slug": "relations",
+  "canonical_name": "Relations",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "A relation R from A to B is a subset of A × B",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch2 — Relations]\nConsider the two sets P = {a, b, c} and Q = {Ali, Bhanu, Binoy, Chandra, Divya}.\nThe cartesian product of\nP and Q has 15 ordered pairs which\ncan be listed as P × Q = {(a, Ali),\n(a,Bhanu), (a, Binoy), ..., (c, Divya)}.\nWe can now obtain a subset of\nP × Q by introducing a relation R\nbetween the first element x and the\nsecond element y of each ordered pair\n(x, y) as\nR= { (x,y): x is the first letter of the name y, x ∈ P, y ∈ Q}.\nThen R = {(a, Ali), (b, Bhanu), (b, Binoy), (c, Chandra)}\nA visual representation of this relation R (called an arrow diagram) is shown\nin Fig 2.4.\nDefinition 2 A relation R from a non-empty set A to a non-empty set B is a subset of\nthe cartesian product  A × B. The subset is derived by describing a relationship between\nthe first element and the second element of the ordered pairs in A × B. The second\nelement is called the image of  the first element.\nDefinition 3 The set of all first elements of the ordered pairs in a relation R from a set\nA to a set B is called \n\n[NCERT Grade11 Ch6 — Combinations]\nLet us now assume that there is a group of 3 lawn tennis players X, Y, Z. A team\nconsisting of 2 players is to be formed. In how many ways can we do so? Is the team\nof X and Y different from the team of Y and X ? Here, order is not important.\nIn fact, there are only 3 possible ways in which the team could be constructed.\nReprint 2025-26\nPERMUTATIONS AND COMBINATIONS       115\nThese are XY, YZ and ZX (Fig 6.3).\nHere, each selection is called a combination of 3 different objects taken 2 at a time.\nIn a combination, the order is not important.\nNow consider some more illustrations.\nTwelve persons meet in a room and each shakes hand with all the others. How do\nwe determine the number of hand shakes. X shaking hands with Y and  Y with X will\nnot be two different hand shakes. Here, order is not important. There will be as many\nhand shakes as there are combinations of 12 different things taken 2 at a time.\nSeven points lie on a circle. How many chords can be drawn by joining these\npoints pairw\n\n[NCERT Grade11 Ch2 — Introduction]\nMuch of mathematics is about finding a pattern – a\nrecognisable link between quantities that change. In our\ndaily life, we come across many patterns that characterise\nrelations such as brother and sister, father and son, teacher\nand student. In mathematics also, we come across many\nrelations such as number m is less than number n, line l is\nparallel to line m, set A is a subset of set B. In all these, we\nnotice that a relation involves pairs of objects in certain\norder. In this Chapter, we will learn how to link pairs of\nobjects from two sets and then introduce relations between\nthe two objects in the pair. Finally, we will learn about\nspecial relations which will qualify to be functions. The\nconcept of function is very important in mathematics since it captures the idea of a\nmathematically precise correspondence between one quantity with the other.\n2.2  Cartesian Products of Sets\nG . W.  Leibnitz\n(1646–1716)\n\n[NCERT Grade11 Ch2 — Cartesian Products of Sets]\nSuppose A is a set of 2 colours and B is a set of  3 objects, i.e.,\nA = {red, blue}and B = {b, c, s},\nwhere b, c and s represent a particular bag, coat and shirt, respectively.\nHow many pairs of coloured objects can be made from these two sets?\nProceeding in a very orderly manner, we can see that there will be 6\ndistinct pairs as given below:\n(red, b), (red, c), (red, s), (blue, b), (blue, c), (blue, s).\nThus, we get 6 distinct objects (Fig 2.1).\nLet us recall from our earlier classes that an ordered pair of elements\ntaken from any two sets P and Q is a pair of elements written in small\nFig 2.1\nReprint 2025-26\nRELATIONS AND FUNCTIONS          25\nbrackets and grouped together in a particular order, i.e., (p,q), p ∈ P and  q ∈ Q . This\nleads to the following definition:\nDefinition 1 Given two non-empty sets P and Q. The cartesian product P × Q is the\nset of all ordered pairs of elements from P and Q, i.e.,\nP × Q = { (p,q) : p  ∈ P, q  ∈ Q }\nIf either P or Q is the null set, then P × Q wi\n\n[NCERT Grade11 Ch2 — Some functions and their graphs]\n(i)\nIdentity function  Let R be the set of real numbers. Define the real valued\nfunction f : R → R by y =  f(x) = x for each x ∈ R. Such a function is called the\nidentity function. Here the domain and range of f are R. The graph is a straight line as\nshown in Fig 2.8. It passes through the origin.\nFig 2.9\nFig 2.8\n(ii)\nConstant function Define the function f: R → R by y = f (x) = c, x ∈ R where\nc is a constant and each x ∈ R. Here domain of f is R and its range is {c}.\nReprint 2025-26\nRELATIONS AND FUNCTIONS          33\nThe graph is a line parallel to x-axis. For example, if f(x)=3 for each x∈R, then its\ngraph will be a line as shown in the Fig 2.9.\n(iii)\nPolynomial function A function f : R → R is said to be polynomial function if\nfor each x in R, y  =  f (x) = a0 + a1x  + a2x2 + ...+ an xn, where n is a non-negative\ninteger and  a0, a1, a2,...,an∈R.\nThe functions defined by f(x) = x3 – x2 + 2, and g(x) = x4 +\n2 x are some examples\nof polynomial functions, whereas the function h define",
+  "context_sources": [
+    "ncert:grade11/maths/ch2",
+    "ncert:grade11/maths/ch6",
+    "ncert:grade11/maths/ch2",
+    "ncert:grade11/maths/ch2",
+    "ncert:grade11/maths/ch2"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cartesian Product of Sets"
+  ],
+  "prerequisites_descriptions": {
+    "Cartesian Product of Sets": "A × B = {(a,b) : a∈A, b∈B}"
+  },
+  "successors_to_link": [
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Relations"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Cartesian Product of Sets",
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Relations",
+    "Types of Functions",
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Complex Numbers",
+    "Algebra of Complex Numbers",
+    "Modulus and Argument of a Complex Number"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

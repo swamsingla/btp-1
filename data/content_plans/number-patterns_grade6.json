@@ -1,0 +1,46 @@
+{
+  "concept_slug": "number-patterns",
+  "canonical_name": "Number Patterns and Sequences",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Patterns and Sequences",
+  "description": "Identifying, extending and describing rules for number sequences",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch1 — Relations among Number Sequences]\n\u0007Sometimes, number sequences can be related to each other in\nsurprising ways.\nExample: What happens when we start adding up odd numbers?\n1 = 1\n1 + 3 = 4\n1 + 3 + 5 = 9\n1 + 3 + 5 + 7 = 16\n1 + 3 + 5 + 7 + 9 = 25\n1 + 3 + 5 + 7 + 9 + 11 = 36\n...\nThis is a really beautiful pattern!\nWhy does this happen? Do you think it will happen forever?\nThe answer is that the pattern does happen forever. But why?\nAs mentioned earlier, the reason why the pattern happens is just as\nimportant and exciting as the pattern itself.\nA picture can explain it\nVisualising with a picture can help explain the phenomenon. Recall\nthat square numbers are made by counting the number of dots in a\nsquare grid.\nHow can we partition the dots in a square grid into odd\nnumbers of dots: 1, 3, 5, 7,... ?\nThink about it for a moment before reading further!\nMath\nTalk\nReprint 2025-26\nPatterns in Mathematics\nHere is how it can be done:\nThis picture now makes it evident that\n1 + 3 + 5 + 7 + 9 + 11 = 36.\nBecause such a picture can be m\n\n[NCERT Grade6 Ch1 — Patterns in Numbers]\nAmong the most basic patterns that occur in mathematics are\npatterns of numbers, particularly patterns of whole numbers:\n0, 1, 2, 3, 4, ...\nThe branch of Mathematics that studies patterns in whole\nnumbers is called number theory.\nNumber sequences are the most basic and among the most\nfascinating types of patterns that mathematicians study.\nTable 1 shows some key number sequences that are studied in\nMathematics.\nReprint 2025-26\nPatterns in Mathematics\nTable 1: Examples of number sequences\n1, 1, 1, 1, 1, 1, 1, ...\n(All 1’s)\n1, 2, 3, 4, 5, 6, 7, ...\n(Counting numbers)\n1, 3, 5, 7, 9, 11, 13, ...\n(Odd numbers)\n2, 4, 6, 8, 10, 12, 14, ...\n(Even numbers)\n1, 3, 6, 10, 15, 21, 28, ...\n(Triangular numbers)\n1, 4, 9, 16, 25, 36, 49, ...\n(Squares)\n1, 8, 27, 64, 125, 216, ...\n(Cubes)\n1, 2, 3, 5, 8, 13, 21, ...\n(Virahānka numbers)\n1, 2, 4, 8, 16, 32, 64, ...\n(Powers of 2)\n1, 3, 9, 27, 81, 243, 729, ...\n(Powers of 3)\nFigure it Out\n1. \t Can you recognise the pattern in each of the sequences in\nTable 1?\n\n[NCERT Grade6 Ch1 — Relation to Number Sequences]\nOften, shape sequences are related to number sequences in\nsurprising ways. Such relationships can be helpful in studying and\nunderstanding both the shape sequence and the related number\nsequence.\nExample: The number of sides in the shape sequence of Regular\nPolygons is given by the counting numbers starting at 3, i.e., 3, 4, 5, 6,\n7, 8, 9, 10, .... That is why these shapes are called, respectively, regular\ntriangle, quadrilateral (i.e., square), pentagon, hexagon, heptagon,\noctagon, nonagon, decagon, etc., respectively.\nThe word ‘regular’ refers to the fact that these shapes have\nequal-length sides and also equal ‘angles’ (i.e., the sides look the same\nand the corners also look the same). We will discuss angles in more\ndepth in the next chapter.\nThe other shape sequences in Table 3 also have beautiful\nrelationships with number sequences.\nFigure it Out\n1.\t Count the number of sides in each shape in the sequence\nof Regular Polygons. Which number sequence do you get?\nWhat about the number\n\n[NCERT Grade6 Ch3 — Numbers can Tell us Things]\nWhat are these numbers telling us?\nSome children in a park are standing in a line. Each one says a number.\nWhat do you think these numbers mean?\nThe children now rearrange themselves, and again each one\nsays a number based on the arrangement.\nReprint 2025-26\nGanita Prakash | Grade 6\nDid you figure out what these numbers represent?\nHint: \u0007Could their heights be playing a role?\nA child says ‘1’ if there is only one taller child standing next to them.\nA child says ‘2’ if both the children standing next to them are taller.\nA child says ‘0’, if neither of the children standing next to them are taller.\nThat is each person says the number of taller neighbours they have.\nTry answering the questions below and share your reasoning.\n1.\t\u0007Can the children rearrange themselves so that the children\nstanding at the ends say ‘2’?\n2.\t\u0007Can we arrange the children in a line so that all would say\nonly 0s?\n3.\t\u0007Can two children standing next to each other say the same\nnumber?\n4.\t\u0007There are 5 children in a gr",
+  "context_sources": [
+    "ncert:grade6/maths/ch1",
+    "ncert:grade6/maths/ch1",
+    "ncert:grade6/maths/ch1",
+    "ncert:grade6/maths/ch3"
+  ],
+  "ncert_chunks_found": 4,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Whole Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Whole Numbers": "Natural numbers together with zero: 0, 1, 2, 3, …"
+  },
+  "successors_to_link": [
+    "Fibonacci–Virahanka Sequence",
+    "Square Numbers",
+    "Arithmetic Progressions"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Whole Numbers",
+    "Fibonacci–Virahanka Sequence",
+    "Square Numbers",
+    "Arithmetic Progressions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

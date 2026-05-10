@@ -1,0 +1,43 @@
+{
+  "concept_slug": "lcm-and-gcd",
+  "canonical_name": "LCM and GCD (HCF)",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Number Theory",
+  "description": "Least Common Multiple and Greatest Common Divisor using prime factorisation",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Prime Factorisation"
+  ],
+  "prerequisites_descriptions": {
+    "Prime Factorisation": "Expressing a number as a product of prime factors; factor trees"
+  },
+  "successors_to_link": [
+    "Comparing and Ordering Fractions",
+    "Addition and Subtraction of Fractions",
+    "Euclidean Algorithm",
+    "Fundamental Theorem of Arithmetic"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Prime Factorisation",
+    "Comparing and Ordering Fractions",
+    "Addition and Subtraction of Fractions",
+    "Euclidean Algorithm",
+    "Fundamental Theorem of Arithmetic"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

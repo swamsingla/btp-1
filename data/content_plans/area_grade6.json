@@ -1,0 +1,37 @@
+{
+  "concept_slug": "area",
+  "canonical_name": "Area of 2D Figures",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Mensuration",
+  "description": "Measuring the region enclosed by a plane figure",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Area of Rectangle and Square"
+  ],
+  "prerequisites_descriptions": {
+    "Area of Rectangle and Square": "Length × width for rectangle; side² for square"
+  },
+  "successors_to_link": [
+    "Area of Triangles"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Area of Rectangle and Square",
+    "Area of Triangles",
+    "Perimeter"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

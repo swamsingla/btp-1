@@ -1,0 +1,46 @@
+{
+  "concept_slug": "data-representation-grouped",
+  "canonical_name": "Data Representation — Grouped Data",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Statistics",
+  "description": "Histograms, frequency polygons for grouped data",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade9 Ch12 — Graphical Representation of Data]\nThe representation of data by tables has already been discussed. Now let us turn our\nattention to another representation of data, i.e., the graphical representation. It is well\nsaid that one picture is better than a thousand words. Usually comparisons among the\nindividual items are best shown by means of graphs. The representation then becomes\neasier to understand than the actual data. We shall study the following graphical\nrepresentations in this section.\n(A) Bar graphs\n(B) Histograms of uniform width, and of varying widths\n(C) Frequency polygons\n(A) Bar Graphs\nIn earlier classes, you have already studied and constructed bar graphs. Here we\nshall discuss them through a more formal approach. Recall that a bar graph is a\npictorial representation of data in which usually bars of uniform width are drawn with\nequal spacing between them on one axis (say, the x-axis), depicting the variable. The\nvalues of the variable are shown on the other axis (say, the y-axis) and the heights of\nthe bars",
+  "context_sources": [
+    "ncert:grade9/maths/ch12"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Bar Graphs, Pictographs and Pie Charts",
+    "Frequency Distribution Table"
+  ],
+  "prerequisites_descriptions": {
+    "Bar Graphs, Pictographs and Pie Charts": "Visual representations of categorical data",
+    "Frequency Distribution Table": "Organising data into classes with frequencies"
+  },
+  "successors_to_link": [
+    "Histogram",
+    "Central Tendency for Grouped Data"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Bar Graphs, Pictographs and Pie Charts",
+    "Frequency Distribution Table",
+    "Histogram",
+    "Central Tendency for Grouped Data",
+    "Frequency Polygon"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

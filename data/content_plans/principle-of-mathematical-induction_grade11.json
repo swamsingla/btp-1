@@ -1,0 +1,44 @@
+{
+  "concept_slug": "principle-of-mathematical-induction",
+  "canonical_name": "Principle of Mathematical Induction",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "Base case + inductive step; proving statements for all n∈ℕ",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch6 — Fundamental Principle of Counting]\nLet us consider the following problem. Mohan has 3 pants and 2 shirts. How many\ndifferent pairs of a pant and a shirt, can he dress up with? There are 3 ways in which\na pant can be chosen, because there are 3 pants available. Similarly, a shirt can be\nchosen in 2 ways. For every choice of a pant, there are 2 choices of a shirt. Therefore,\nthere are 3 × 2 = 6 pairs of a pant and a shirt.\nReprint 2025-26\nPERMUTATIONS AND COMBINATIONS       101\nLet us name the three pants as P1, P2, P3  and the two shirts as S1, S2. Then,\nthese six possibilities can be illustrated in the Fig. 6.1.\nLet us consider another problem\nof the same type.\nSabnam has 2 school bags, 3 tiffin boxes\nand 2 water bottles. In how many ways\ncan she carry these items (choosing one\neach).\nA school  bag can be chosen in 2\ndifferent ways. After a school bag is\nchosen, a tiffin box can be chosen in 3\ndifferent ways. Hence, there are\n2 × 3 = 6 pairs of school bag and a tiffin\nbox. For each of these pairs a water\nbottle can be c\n\n[NCERT Grade11 Ch7 — Binomial Theorem for Positive Integral Indices]\nLet us have a look at the following identities done earlier:\n(a+ b)0 = 1\na + b ≠ 0\n(a+ b)1 = a + b\n(a+ b)2 = a2 + 2ab + b2\n(a+ b)3 = a3 + 3a2b + 3ab2 + b3\n(a+ b)4 = (a + b)3 (a + b) = a4 + 4a3b + 6a2b2 + 4ab3 + b4\nIn these expansions, we observe that\n(i)\nThe total number of terms in the expansion is one more than the index. For\nexample, in the expansion of (a + b)2 , number of terms is 3 whereas the index of\n(a + b)2 is 2.\n(ii)\nPowers of the first quantity ‘a’ go on decreasing by 1 whereas the powers of the\nsecond quantity ‘b’ increase by 1, in the successive terms.\n(iii)\nIn each term of the expansion, the sum of the indices of a and b is the same and\nis equal to the index of a + b.\nReprint 2025-26\nBINOMIAL THEOREM       127\nWe now arrange the coefficients in these expansions as follows (Fig 7.1):\nDo we observe any pattern in this table that will help us to write the next row? Yes we\ndo. It can be seen that the addition of 1’s in the row for index 1 gives rise to 2 in the row\nfor index",
+  "context_sources": [
+    "ncert:grade11/maths/ch6",
+    "ncert:grade11/maths/ch7"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Natural Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Natural Numbers": "Counting numbers 1, 2, 3, … — the most basic number set"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Natural Numbers",
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Functions",
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Complex Numbers",
+    "Algebra of Complex Numbers"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

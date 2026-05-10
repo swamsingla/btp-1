@@ -1,0 +1,46 @@
+{
+  "concept_slug": "zeroes-coefficients-relationship",
+  "canonical_name": "Relationship Between Zeroes and Coefficients",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Algebra",
+  "description": "Sum and product of zeroes related to coefficients (Vieta's formulas for quadratics/cubics)",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch2 — Relationship between Zeroes and Coefficients of a Polynomial]\nYou have already seen that zero of a linear polynomial ax + b is\nb\na\n\n. We will now try\nto answer the question raised in Section 2.1 regarding the relationship between zeroes\nand coefficients of a quadratic polynomial. For this, let us take a quadratic polynomial,\nsay p(x) = 2x2 – 8x + 6. In Class IX, you have learnt how to factorise quadratic\npolynomials by splitting the middle term. So, here we need to split the middle term\n‘– 8x’ as a sum of two terms, whose product is 6 × 2x2 = 12x2. So, we write\n2x2 – 8x + 6 = 2x2 – 6x – 2x + 6 = 2x(x – 3) – 2(x – 3)\n= (2x – 2)(x – 3) = 2(x – 1)(x – 3)\nReprint 2025-26\nPOLYNOMIALS\nSo, the value of p(x) = 2x2 – 8x + 6 is zero when x – 1 = 0 or x – 3 = 0, i.e., when\nx = 1 or x = 3. So, the zeroes of 2x2 – 8x + 6 are 1 and 3. Observe that :\nSum of its zeroes\n=\n( 8)\n(Coefficient of\n)\nCoefficient of\nx\nx\n\n\n\n\n\n\nProduct of its zeroes =\nConstant term\nCoefficient of x\n\n\n\n\nLet us take one more quadratic polynomial, say, p(x) = 3x2 + 5x – 2. By the\n\n[NCERT Grade10 Ch2 — Geometrical Meaning of the Zeroes of a Polynomial]\nYou know that a real number k is a zero of the polynomial p(x) if p(k) = 0. But why\nare the zeroes of a polynomial so important? To answer this, first we will see the\ngeometrical representations of linear and quadratic polynomials and the geometrical\nmeaning of their zeroes.\nReprint 2025-26\nConsider first a linear polynomial ax + b, a  0. You have studied in Class IX that the\ngraph of y = ax + b is a straight line. For example, the graph of y = 2x + 3 is a straight\nline passing through the points (– 2, –1) and (2, 7).\nx\n–2\ny = 2x + 3\n–1\nFrom Fig. 2.1, you can see\nthat the graph of y = 2x + 3\nintersects the x-axis mid-way\nbetween x = –1 and x = – 2,\nthat is, at the point\n3, 0\n\n\n\n\n\n\n\n.\nYou also know that the zero of\n2x + 3 is\n\n. Thus, the zero of\nthe polynomial 2x + 3 is the\nx-coordinate of the point where the\ngraph of y = 2x + 3 intersects the\nx-axis.\nIn general, for a linear polynomial ax + b, a  0, the graph of y = ax + b is a\nstraight line which intersects the x-axis at exa",
+  "context_sources": [
+    "ncert:grade10/maths/ch2",
+    "ncert:grade10/maths/ch2"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Zeroes of a Polynomial"
+  ],
+  "prerequisites_descriptions": {
+    "Zeroes of a Polynomial": "Values of x for which p(x) = 0"
+  },
+  "successors_to_link": [
+    "Vieta's Formulas"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Zeroes of a Polynomial",
+    "Vieta's Formulas",
+    "Quadratic Equations",
+    "Quadratic Formula",
+    "Completing the Square",
+    "Nature of Roots — Discriminant",
+    "Pair of Linear Equations in Two Variables",
+    "Substitution Method",
+    "Elimination Method"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

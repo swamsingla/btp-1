@@ -1,0 +1,62 @@
+{
+  "concept_slug": "real-numbers",
+  "canonical_name": "Real Numbers",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Number Systems",
+  "description": "Union of rational and irrational numbers",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade9 Ch1 — Operations on Real Numbers]\nYou have learnt, in earlier classes, that rational numbers satisfy the commutative,\nassociative and distributive laws for addition and multiplication. Moreover, if we add,\nsubtract, multiply or divide (except by zero) two rational numbers, we still get a rational\nnumber (that is, rational numbers are ‘closed’ with respect to addition, subtraction,\nmultiplication and division). It turns out that irrational numbers also satisfy the\ncommutative, associative and distributive laws for addition and multiplication. However,\nthe sum, difference, quotients and products of irrational numbers are not always\nirrational. For example, (\n)\n(\n)\n+ −\n,(\n)\n(\n) (\n) (\n)\n,\n−\n⋅\nand\n17  are\nrationals.\nLet us look at what happens when we add and multiply a rational number with an\nirrational number. For example, 3  is irrational. What about 2\n+\nand 2 3 ? Since\n3  has a non-terminating non-recurring decimal expansion, the same is true for\n+\nand 2 3 . Therefore, both 2\n+\nand 2 3  are also irrational numbers.\nExam\n\n[NCERT Grade9 Ch1 — Irrational Numbers]\nWe saw, in the previous section, that there may be numbers on the number line that\nare not rationals. In this section, we are going to investigate these numbers. So far, all\nthe numbers you have come across, are of the form p\nq , where p and q are integers\nand q ≠ 0. So, you may ask: are there numbers which are not of this form? There are\nindeed such numbers.\nThe Pythagoreans in Greece, followers of the famous\nmathematician and philosopher Pythagoras, were the first\nto discover the numbers which were not rationals, around\n400 BC. These numbers are called irrational numbers\n(irrationals), because they cannot be written in the form of\na ratio of integers. There are many myths surrounding the\ndiscovery of irrational numbers by the Pythagorean,\nHippacus of Croton. In all the myths, Hippacus has an\nunfortunate end, either for discovering that\n2  is irrational\nor for disclosing the secret about\n2  to people outside the\nsecret Pythagorean sect!\nLet us formally define these numbers.\nA number ‘\n\n[NCERT Grade9 Ch1 — Real Numbers and their Decimal Expansions]\nIn this section, we are going to study rational and irrational numbers from a different\npoint of view. We will look at the decimal expansions of real numbers and see if we\ncan use the expansions to distinguish between rationals and irrationals. We will also\nexplain how to visualise the representation of real numbers on the number line using\ntheir decimal expansions. Since rationals are more familiar to us, let us start with\nthem. Let us take three examples :\n,\n,\n7 .\nPay special attention to the remainders and see if you can find any pattern.\nReprint 2025-26\nNUMBER SYSTEMS\nExample 5 : Find the decimal expansions of 10\n3 , 7\n8  and 1\n7 .\nSolution :\n3.333...\n0.875\n0.142857...\n3 10\n8 7.0\n1.0\nRemainders : 1, 1, 1, 1, 1...\nRemainders : 6, 4, 0\nRemainders : 3, 2, 6, 4, 5, 1,\nDivisor : 3\nDivisor : 8\n3, 2, 6, 4, 5, 1,...\nDivisor : 7\nWhat have you noticed? You should have noticed at least three things:\n(i)\nThe remainders either become 0 after a certain stage, or start repeating themselves.\n(ii)\n\n\n[NCERT Grade9 Ch1 — Laws of Exponents for Real Numbers]\nDo you remember how to simplify the following?\n(i) 172 . 175 =\n(ii) (52)7 =\n(iii)\n23  =\n(iv) 73 . 93 =\nDid you get these answers? They are as follows:\n(i) 172 . 175 = 177\n(ii) (52)7 = 514\n(iii)\n=\n(iv) 73 . 93 = 633\nTo get these answers, you would have used the following laws of exponents,\nwhich you have learnt in your earlier classes. (Here a, n and m are natural numbers.\nRemember, a is called the base and m and n are the exponents.)\n(i)\nam . an = am + n\n(ii) (am)n = amn\n(iii)\nm\nm\nn\nn\na\na\n, m\nn\na\n−\n=\n>\n(iv) ambm = (ab)m\nReprint 2025-26\nWhat is (a)0? Yes, it is 1! So you have learnt that (a)0 = 1. So, using (iii), we can\nget 1\n.\nn\nn\na\na\n−\n=\nWe can now extend the laws to negative exponents too.\nSo, for example :\n(i)\n–5\n–3\n⋅\n=\n=\n(ii)\n–7\n–14\n(5 )\n=\n(iii)\n–10\n–17\n=\n(iv)\n–3\n–3\n–3\n(7)\n(9)\n(63)\n⋅\n=\nSuppose we want to do the following computations:\n(i)\n⋅\n(ii)\n\n\n\n\n\n\n(iii)\n(iv)\n⋅\nHow would we go about it? It turns out that we can extend the laws of exponents\nthat we have studied earlier, ev\n\n[NCERT Grade9 Ch1 — Introduction]\nIn your earlier classes, you have learnt about the number line and how to represent\nvarious types of numbers on it (see Fig. 1.1).\nFig. 1.1 : The number line\nJust imagine you start from zero and go on walking along this number line in the\npositive direction. As far as your eyes can see, there are numbers, numbers and\nnumbers!\nFig. 1.2\nNow suppose you start walking along the number line, and collecting some of the\nnumbers. Get a bag ready to store them!\nReprint 2025-26\n-40\n-75\nZ\n-3\n-757\n-66\n-21\n-40\nW\n71 10\nN\nYou might begin with picking up only natural\nnumbers like 1, 2, 3, and so on. You know that this list\ngoes on for ever. (Why is this true?) So, now your\nbag contains infinitely many natural numbers! Recall\nthat we denote this collection by the symbol N.\nNow turn and walk all the way back, pick up\nzero and put it into the bag. You now have the\ncollection of whole numbers which is denoted by\nthe symbol W.\nNow, stretching in front of you are many, many negative integers. Put all the\nne",
+  "context_sources": [
+    "ncert:grade9/maths/ch1",
+    "ncert:grade9/maths/ch1",
+    "ncert:grade9/maths/ch1",
+    "ncert:grade9/maths/ch1",
+    "ncert:grade9/maths/ch1"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Irrational Numbers",
+    "Rational Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Irrational Numbers": "Numbers that cannot be expressed as p/q; non-terminating non-repeating decimals",
+    "Rational Numbers": "Numbers expressible as p/q where p, q are integers and q ≠ 0"
+  },
+  "successors_to_link": [
+    "Decimal Expansions of Real Numbers",
+    "Laws of Exponents for Real Numbers",
+    "Cartesian Coordinate System",
+    "Complex Numbers",
+    "Linear Inequalities",
+    "Limits — Intuitive Idea",
+    "Logarithms"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Irrational Numbers",
+    "Rational Numbers",
+    "Decimal Expansions of Real Numbers",
+    "Laws of Exponents for Real Numbers",
+    "Cartesian Coordinate System",
+    "Complex Numbers",
+    "Linear Inequalities",
+    "Limits — Intuitive Idea",
+    "Logarithms",
+    "Surds and Rationalisation"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "canonical_name": "Baudhayana Sulva Sutra",
+    "slug": "baudhayana-sulva-sutra",
+    "_aliases": [
+      "Baudhaayana Sulva sutra",
+      "Ancient Indian Mathematics"
+    ],
+    "domain": "Number Systems",
+    "area": "History of Mathematics",
+    "parent": "",
+    "grades": [
+      8,
+      12
+    ],
+    "importance_BY_GRADE": {
+      "8": 5,
+      "12": 4
+    },
+    "source_BOARDS": [
+      "NCERT",
+      "state board"
+    ],
+    "subject": "maths"
+  }
+]

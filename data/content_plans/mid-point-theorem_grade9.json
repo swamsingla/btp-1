@@ -1,0 +1,44 @@
+{
+  "concept_slug": "mid-point-theorem",
+  "canonical_name": "Mid-Point Theorem",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Geometry",
+  "description": "Line joining midpoints of two sides is parallel to and half of the third side",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade9 Ch8 — The Mid-point Theorem]\nYou have studied many properties of a triangle as well as a quadrilateral. Now let us\nstudy yet another result which is related to the mid-point of sides of a triangle. Perform\nthe following activity.\nDraw a triangle and mark the mid-points E and F of two sides of the triangle. Join\nthe points E and F (see Fig. 8.15).\nMeasure EF and BC. Measure ∠ AEF and ∠ ABC.\nWhat do you observe? You will find that :\nEF = 1\n2  BC and ∠ AEF = ∠ ABC\nso,\nEF || BC\nRepeat this activity with some more triangles.\nSo, you arrive at the following theorem:\nFig. 8.15\nReprint 2025-26\nTheorem 8.8 : The line segment joining the mid-points of two sides of a triangle\nis parallel to the third side.\nYou can prove this theorem using the following\nclue:\nObserve Fig 8.16 in which E and F are mid-points\nof AB and AC respectively and CD || BA.\n∆ AEF ≅∆ CDF\n(ASA Rule)\nSo,\nEF = DF and BE = AE = DC\n(Why?)\nTherefore, BCDE is a parallelogram.\n(Why?)\nThis gives EF || BC.\nIn this case, also note that EF = 1\n2  ED = 1\n2 BC.\nCan yo",
+  "context_sources": [
+    "ncert:grade9/maths/ch8"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Properties of Parallelogram",
+    "Similar Triangles"
+  ],
+  "prerequisites_descriptions": {
+    "Properties of Parallelogram": "Opposite sides/angles equal; diagonals bisect each other",
+    "Similar Triangles": "AA, SAS, SSS similarity criteria; corresponding sides proportional"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Properties of Parallelogram",
+    "Similar Triangles",
+    "Parallel Lines and Transversals",
+    "Properties of Triangles",
+    "Congruence of Triangles",
+    "Constructions of Triangles",
+    "Quadrilaterals",
+    "Pythagorean Theorem"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

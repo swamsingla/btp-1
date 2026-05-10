@@ -1,0 +1,47 @@
+{
+  "concept_slug": "statistics-measures",
+  "canonical_name": "Central Tendency for Grouped Data",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Statistics",
+  "description": "Mean, median, mode for frequency distributions",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mean, Median and Mode",
+    "Data Representation — Grouped Data"
+  ],
+  "prerequisites_descriptions": {
+    "Mean, Median and Mode": "Three measures of central tendency for ungrouped data",
+    "Data Representation — Grouped Data": "Histograms, frequency polygons for grouped data"
+  },
+  "successors_to_link": [
+    "Mean of Grouped Data",
+    "Measures of Dispersion"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mean, Median and Mode",
+    "Data Representation — Grouped Data",
+    "Mean of Grouped Data",
+    "Measures of Dispersion",
+    "Ogive (Cumulative Frequency Curve)",
+    "Median of Grouped Data",
+    "Mode of Grouped Data",
+    "Scatter Plot"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

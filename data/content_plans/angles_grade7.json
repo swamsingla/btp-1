@@ -1,0 +1,57 @@
+{
+  "concept_slug": "angles",
+  "canonical_name": "Angles",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Geometry",
+  "description": "Amount of rotation between two rays sharing a common endpoint",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch5 — Alternate Angles]\nIn Fig. 5.25, ∠d is called the alternate angle of ∠f, and ∠c is the alternate\nangle of ∠e.\na\nb\nd\nc\ne\nh\ng\nm\nl\nt\nf\nFig. 5.25\nYou can find the alternate angle of a given angle, say ∠f, by first\nfinding the corresponding angle of ∠f, which is ∠b and then finding the\nvertically opposite angle of ∠b, which is ∠d.\nActivity 6\nIn Fig. 5.25, if ∠f is 120° what is the measure of its alternate angle ∠d?\nWe can find the measure of ∠d if we know ∠b because they are\nvertically opposite angles. Remember, vertically opposite angles are\nequal.\nWhat is the measure of ∠b? It is 120° because it is the corresponding\nangle of ∠f.\nSo, ∠d also measures 120°.\nIn fact, ∠f = ∠b irrespective of the measure of ∠f. Why? Because ∠b\nis the corresponding angle of ∠f.\nSimilarly, ∠b = ∠d irrespective of the measure of ∠b. Why? Because\n∠d is the vertically opposite angle of ∠b. So, it must always be the\ncase that\n∠f = ∠d\nUsing our understanding of corresponding angles without any\nmeasurements, we have justified that alter\n\n[NCERT Grade7 Ch7 — Types of Triangles]\nIn our study of triangles, we have encountered the following types of\ntriangles; equilateral, isosceles, scalene and right-angled triangles.\nDid you spot any other type of triangle?\nThe classification of triangles as equilateral and isosceles was based\non equality of sides.\nEquilateral triangles have sides of equal length. Isosceles triangles\nhave two sides of equal length. Scalene triangles have sides of three\ndifferent lengths.\nCan a similar classification be done based on equality of angles? Is\nthere any relation between these two classifications? We will answer\nthese questions in a later chapter.\nWe used angle measures when classifying a triangle as a right-\nangled triangle.\nWhat are the other types of triangles based on angle measures?\nA classification of triangles based on their angle measures is acute-\nangled, right-angled and obtuse-angled triangles. We have already\nseen what a right-angled triangle is. It is a triangle with one right angle.\nSimilarly, an obtuse-angled triangle\n\n[NCERT Grade7 Ch5 — Corresponding Angles]\nIn Fig. 5.14, we notice that the transversal t forms two sets of angles —\none with line l and another with line m. There are angles in the first set\nthat  correspond to angles in the second set based on their position. ∠1\nand ∠5 are called corresponding angles. Similarly, ∠2 and ∠6, ∠3 and\n∠7, ∠4 and ∠8 are the corresponding angles formed when transversal\nt intersects lines l and m.\nActivity 3\nDraw a pair of lines and a transversal such that they form two\ndistinct angles.\nGanita Prakash | Grade 7\nStep 1: Draw a line l and a transversal t intersecting it at point X.\nFig. 5.15\nX\nl\nt\nStep 2: Measure ∠a formed by lines l and t (let us say it is 60°).\na = 60°\nl\nX\nt\nFig. 5.16\nHow many distinct angles have formed now?\nIf one angle is 60°, the other angle of the linear pair should be 120°.\nSo, we already have two distinct angles.\nSo, when we draw another line intersecting the transversal t we\nwish to form only two angles, 60° and 120°.\nStep 3: Mark a point Y on line t.\na = 60°\nl\nX\nt\nY\nFig. 5.1\n\n[NCERT Grade7 Ch5 — Transversals]\nWe saw what happens when two lines intersect in different ways. Let\nus explore what happens when one line intersects two different lines.\nl\nt\nm\nFig. 5.14\nIn Fig. 5.14, line t intersects lines l and m. t is called a transversal.\nNotice that 8 angles are formed when a line crosses a pair of lines.\nIs it possible for all the eight angles to have different measurements?\nWhy, why not?\nWhat about five different angles — 6, 5, 4, 3 and 2?\nIn Fig. 5.14, since ∠1 and ∠3 are vertically opposite angles,  they are\nequal. Are there other pairs of vertically opposite angles? We can see\nthat there are a total of four pairs of vertically opposite angles and in\neach pair, the angles are equal to each other.\nThus, when a transversal intersects two lines, it forms eight angles\nwith a maximum of four distinct angle measures.\n5.6 Corresponding Angles\n\n[NCERT Grade7 Ch5 — Drawing Parallel Lines]\nCan you draw a pair of parallel lines using a ruler and a set square?\nFig. 5.21 shows how you can do it.\nDraw a line l with a scale. By sliding your set square you can make\ntwo lines perpendicular to line l.\nAre these two lines parallel to each other? How are we sure that they\nare parallel to each other? What angles are formed between these lines\nand line l?\nl\nFig. 5.21\nSince we used a set square, the angles measure 90°. The position\nof the lines is different, but they make the same angle with l. If line l\nis seen as a transversal to the two new lines, then the corresponding\nangles measure 90°.\nFig. 5.22\nl\nAs we know these are corresponding angles and they are equal, we\ncan be sure that the lines are parallel.\nDraw two more parallel lines using the long side of the set square as\nshown in Fig. 5.22.\nParallel and Intersecting Lines\nHow do you know these two lines are parallel? Can you check if the\ncorresponding angles are equal?\nNote to the Teacher: Students should be encouraged to check",
+  "context_sources": [
+    "ncert:grade7/maths/ch5",
+    "ncert:grade7/maths/ch7",
+    "ncert:grade7/maths/ch5",
+    "ncert:grade7/maths/ch5",
+    "ncert:grade7/maths/ch5"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Points, Lines and Planes"
+  ],
+  "prerequisites_descriptions": {
+    "Points, Lines and Planes": "Fundamental undefined terms: point, line, ray, line segment, plane"
+  },
+  "successors_to_link": [
+    "Measuring Angles with Protractor",
+    "Rotational Symmetry",
+    "Basic Geometric Constructions",
+    "Parallel Lines and Transversals",
+    "Types of Triangles"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Points, Lines and Planes",
+    "Measuring Angles with Protractor",
+    "Rotational Symmetry",
+    "Basic Geometric Constructions",
+    "Parallel Lines and Transversals",
+    "Types of Triangles",
+    "Types of Angles and Angle Pairs",
+    "Angle Sum Property of a Triangle",
+    "Exterior Angle Theorem",
+    "Properties of Triangles",
+    "Congruence of Triangles"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

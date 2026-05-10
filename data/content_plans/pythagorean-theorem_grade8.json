@@ -1,0 +1,66 @@
+{
+  "concept_slug": "pythagorean-theorem",
+  "canonical_name": "Pythagorean Theorem",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Geometry",
+  "description": "In a right triangle: a² + b² = c²",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade8 Ch2 — Combining Two Different Squares]\nWe have seen in the previous sections how to combine two copies of the\nsame square to make a larger square whose area is the sum of the areas\nof the two smaller squares.\n+\n→\nThe sidelength of the larger square is the length of the diagonal of\neither of the smaller squares.\nWhat if we wish to combine two squares of ‘different’ sizes to make a\nlarge square whose area is the sum of the two smaller squares?\n+\n→\n?\nIn his Śulba-Sūtra (Verse 1.12), Baudhāyana also gives a truly\nremarkable solution to this more general problem of combining two\ndifferent sized squares. He writes:\nThe area of the square produced by the diagonal is the sum of the\nareas of the squares produced by the two sides.\nGanita Prakash | Grade 8 | Part-II\nThat is, to combine two different squares, make a right-angled triangle\nwhose perpendicular sides are the sidelengths of the two squares. The\nsquare whose sidelength is the hypotenuse of this right-angled triangle\nhas an area that is the sum of the areas of the original tw\n\n[NCERT Grade8 Ch2 — Doubling a Square]\nIn Baudhāyana’s Śulba-Sūtra (c. 800 BCE), Baudhāyana considers the\nfollowing question:\nHow can one construct a square having double the area\nof a given square?\nA first guess might be to simply double the length of\neach side of the square. Will this new square have double\nthe area of the original square?\nIt’s not hard to see that the new square will have area 2 × 2 = 4 times\nthe area of the original square:\nSo how can one make a square that has double the area? Baudhāyana\nin his Śulba-Sūtra (Verse 1.9) gave an elegant answer to this question:\nThe diagonal of a square produces a square of double the area of the\noriginal square.\nAs Baudhāyana says, the key is to construct a square on the diagonal\nof the original square:\nGanita Prakash | Grade 8 | Part-II\nWhy does the new dotted square have double the\narea of the original square?\nIn many of the constructions in the Śulba-Sūtra,\nit is desirable to construct, where needed, what\nBaudhāyana calls ‘east-west’ and ‘north-south’\nlines, i.e., hori\n\n[NCERT Grade8 Ch2 — Halving a Square]\nNow suppose we are given a square, and we want to\nconstruct a square whose area is half that of the original\nsquare. How would you do it?\nOne way to do it is to reverse the construction of the\nprevious section. We draw a tilted smaller square inside\nthe larger one:\nWhy is the smaller inside square half the area of the larger square?\nAgain, adding some east-west and north-south lines can explain it:\nHalving a Square Using Paper\nCut out a square from a piece of paper. Now make a square whose area\nis half the area of the first square.\nWill the square having half the sidelength have half the area? Why not?\nHow many such squares will fill the original square?\nFold the square paper inward, as shown, such that the crease lines\npass through the midpoints of the sides. PQRS is the required square\nwith half the area.\nS\nP\nQ\nR\nThe Baudhāyana-Pythagoras Theorem\nWhy is PQRS a square? Why is its area half that of the original paper?\nExplain by connecting QS and PR, finding the different angles formed\n\n[NCERT Grade8 Ch2 — Hypotenuse of an Isosceles Right Triangle]\nRecall that in a right triangle, the side opposite to the right angle is called\nthe hypotenuse.\nFind the hypotenuse of this isosceles right triangle.\nWe know that a square of side 1 unit is made of two\nsuch isosceles right triangles. We also know that the\nsquare constructed on the diagonal of this square has\ntwice the area of the original square.\nT\nS\nR\nP\nE\nA\nWe do not yet know the length of the hypotenuse, but we know the\narea of the square REST on it!\nArea of REST = 2 × Area of PEAR\n= 2 × 1 = 2 sq. units.\nWe know the relation between the side and the area of a square. If c\nis the hypotenuse ER, then\nArea of REST = c × c = c2.\nSo, c2 = 2.\nTherefore, c = 2.\nThus, the hypotenuse is of length 2 units.\n?\nGanita Prakash | Grade 8 | Part-II\nIn the rest of this chapter, we will assume that all the lengths are of a\nfixed unit unless specified otherwise.\nWhat is the value of 2?\nDecimal Representation of 2\nThe decimal representation of\n2 can be found using the following\nargument.\nIs 2 less than \n\n[NCERT Grade8 Ch2 — Right–Triangles Having Integer Sidelengths]\nIn his Śulba-Sūtra (Verse 1.13) Baudhāyana lists a number of integer\ntriples (a, b, c) that form the sidelengths of a right-triangle and therefore\nsatisfy a2 + b2 = c2. These include (3, 4, 5), (5, 12, 13) (8, 15, 17), (7, 24, 25),\n(12, 35, 37), and (15, 36, 39).\nFor this reason, such triples (a, b, c) that form the sidelengths of a\nright triangle (equivalently, satisfy a2 + b2 = c2) are called Baudhāyana\ntriples. They are also called Baudhāyana-Pythagoras triples,\nPythagorean triples, and right-angled triangle triples.\nList down all the Baudhāyana triples with numbers less than or\nequal to 20.\nIs there an unending sequence of Baudhāyana triples?\nMathematicians have answered this question and have found a\nmethod to generate all such triples! Let us take a few steps in this\ndirection.\nWe have seen that (3, 4, 5) is a Baudhāyana triple.\nIs (30, 40, 50) a Baudhāyana triple?\nIs (300, 400, 500) a Baudhāyana triple?\nThe list of Baudhāyana triples having numbers less than or equal to\n20 conta\n\n[Wikipedia]\nIn mathematics, the Pythagorean theorem or Pythagoras's theorem is a fundamental relation in Euclidean geometry between the three sides of a right triangle. It states that the area of the square whose side is the hypotenu\n[…truncated]",
+  "context_sources": [
+    "ncert:grade8/maths/ch2",
+    "ncert:grade8/maths/ch2",
+    "ncert:grade8/maths/ch2",
+    "ncert:grade8/maths/ch2",
+    "ncert:grade8/maths/ch2",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Area of Triangles",
+    "Square Roots"
+  ],
+  "prerequisites_descriptions": {
+    "Area of Triangles": "Area = ½ × base × height for any triangle",
+    "Square Roots": "Finding square roots by prime factorisation and long division"
+  },
+  "successors_to_link": [
+    "Pythagorean Triples",
+    "Converse of Pythagorean Theorem",
+    "Surface Area of Cone",
+    "Trigonometric Ratios",
+    "Distance Formula",
+    "Tangent to a Circle",
+    "Altitudes of a Triangle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Area of Triangles",
+    "Square Roots",
+    "Pythagorean Triples",
+    "Converse of Pythagorean Theorem",
+    "Surface Area of Cone",
+    "Trigonometric Ratios",
+    "Distance Formula",
+    "Tangent to a Circle",
+    "Altitudes of a Triangle",
+    "Quadrilaterals",
+    "Properties of Parallelogram",
+    "Properties of Rhombus, Rectangle and Square",
+    "Kite and Trapezium Properties",
+    "Circles — Basic Properties",
+    "Perpendicular Bisector"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

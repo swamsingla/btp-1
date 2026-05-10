@@ -1,0 +1,58 @@
+{
+  "concept_slug": "quadrilaterals",
+  "canonical_name": "Quadrilaterals",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Geometry",
+  "description": "Four-sided polygons; angle sum = 360°; types of quadrilaterals",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade8 Ch4 — Rectangles and Squares]\nWe know what rectangles are. Let us define them.\nRectangle: A rectangle is a quadrilateral in which —\n(i)\t The angles are all right angles (90°), and\n(ii)\t The opposite sides are of equal length.\nThe definition precisely states the conditions a quadrilateral has to\nsatisfy to be called a rectangle.\nAre there other ways to define a rectangle?\nLet us consider the following problem related to the construction of\nrectangles.\nA Carpenter’s Problem\nA carpenter needs to put together\ntwo thin strips of wood, as shown\nin Fig. 1, so that when a thread is\npassed through their endpoints, it\nforms a rectangle.\nShe already has one 8 cm long\nstrip. What should be the length of\nthe other strip? Where should they\nboth be joined?\nLet us first model the structure\nthat the carpenter has to make. The\nstrips can be modelled as line segments. They are the diagonals of the\nquadrilateral formed by their endpoints. For the quadrilateral to be a\nrectangle, we need to answer the following questions —\n1. \u0007What is \n\n[NCERT Grade8 Ch4 — Angles in a Quadrilateral]\nIs it possible to construct a quadrilateral with three angles equal to 90°\nand the fourth angle not equal to 90°?\nYou might have observed through constructions that this may not be\npossible.\nBut why not?\nThis is due to a general property of quadrilaterals related to their\nangles.\nWe have seen that the sum of the angles of a triangle is 180°. There is\na similar regularity in the sum of the angles of a quadrilateral.\nQuadrilaterals\nConsider a quadrilateral SOME.\nDraw a diagonal SM. We get two\ntriangles ∆SEM and ∆SOM.\nIn ∆SEM, we have ∠1 + ∠2 + ∠3 = 180°.\nAnd in ∆SOM, ∠4 + ∠5 + ∠6 = 180°.\nWhat do we get when we add all six\nangles?\nWe will have\n∠1+ ∠2 + ∠3 + ∠4 + ∠5 + ∠6 = 180° + 180°\n= 360°.\nOr, (∠1+ ∠4) + (∠3 + ∠6) +∠2 + ∠5 = 360°.\nSince (∠1 + ∠4), (∠3 + ∠6), ∠2 and ∠5 are the angles of this quadrilateral,\nwe have the following result —\nThe sum of all angles in any quadrilateral is 360°.\nThis explains why it is impossible for a quadrilateral to have three\nright angles, with the fourth an\n\n[NCERT Grade8 Ch4 — Quadrilaterals with Equal Sidelengths]\nAre squares the only quadrilaterals that have\nequal sidelengths? Let us explore this question\nthrough construction.\nDraw two equal sides AD and AB, that are\nnot perpendicular to each other.\nCan we complete this quadrilateral so that all its sides are of the same\nlength?\nMark a point C whose distance from\nB and D is equal to AB (or AD). To do this,\nmeasure AB using a compass. Keeping\nthis length as the radius, cut arcs from\nB and D.\nNow we have a quadrilateral with\nequal sidelengths and one of its angles\n50°. Note that we could have constructed\nsuch a quadrilateral by taking any angle less than 180° (in place of 50°).\nA quadrilateral in which all the sides have the same length is a\nrhombus.\n50°\nA\nB\nD\n50°\nA\nB\nD\nC\nGanita Prakash | Grade 8\nWhat are the other angles of the rhombus ABCD that we have\nconstructed? Reason and/or experiment to figure this out.\nDeduction 9 — What can we say about the angles in a rhombus?\nConsider a rhombus GAME.\nIn ∆GAE, since GE = GA, a = d.\nSimilarly, in ∆MAE, \n\n[NCERT Grade8 Ch4 — Playing with Quadrilaterals]\nGeoboard Activity\nTake a geoboard and some rubber bands. If you do not have these, you\ncould just use the dot grid papers given at the end of the book for this\nactivity.\nPlace two rubber bands perpendicular to each other, forming\ndiagonals of equal length. Join the ends.\nWhat is the quadrilateral that you get? Justify your answer.\nExtend one of the diagonals on both sides by 2 cm.\nWhat quadrilateral will you get now? Justify your answer.\nGanita Prakash | Grade 8\nJoining Triangles\n1.\t Take two cardboard cutouts of an equilateral triangle of sidelength\n8 cm.\n8 cm\n8 cm\n8 cm\n8 cm\n8 cm\n8 cm\nCan you join them to get a quadrilateral?\n8 cm\n8 cm\n8 cm\n8 cm\n8 cm\nWhat type of a quadrilateral is this? Justify your answer.\n2.\t Take two cardboard cutouts of an isosceles triangle with sidelengths\n8 cm, 8 cm, and 6 cm.\n6 cm\n8 cm\n8 cm\n6 cm\n8 cm\n8 cm\nWhat are the different ways they can be joined to get a quadrilateral?\n6 cm\n8 cm\n8 cm\n8 cm\n8 cm\n8 cm\n6 cm\n6 cm\n8 cm\n8 cm\nJoining them in this\nway you get\nJo\n\n[NCERT Grade8 Ch4 — Kite and Trapezium]\nKite\nOne of the ways the two triangles of sides 6 cm, 9 cm and 12 cm can be\njoined together is as follows —\nThis quadrilateral looks like a kite. Observe that\nthe adjacent sides are of the same length.\nKite: A kite is a quadrilateral that can be labelled\nABCD such that AB = BC, and CD = DA.\nProperty 1: In the kite, show that the diagonal BD\n(i)\t bisects ∠ABC and ∠ADC,\n(ii)\t \u0007bisects the diagonal AC, that is,\nAO = OC, and is perpendicular to it.\nHint: Is ∆AOB ≅ ∆COB?\n6 cm\n9 cm\n12 cm\n6 cm\n9 cm\nA\nB\nC\nD\nO\nGanita Prakash | Grade 8\nTrapezium\nParallelograms are quadrilaterals that have\nparallel opposite sides. We get a new type\nof quadrilateral if we relax this condition.\nTrapezium: A trapezium is a quadrilateral\nwith at least one pair of parallel opposite\nsides.\nConstruct a trapezium. Measure the base angles (marked in the figure).\nCan you find the remaining angles without measuring them?\nSince PQ||SR, we have\nProperty 1: ∠ S + ∠P = 180° and ∠R + ∠Q = 180°.\nUsing these facts, the remaining a",
+  "context_sources": [
+    "ncert:grade8/maths/ch4",
+    "ncert:grade8/maths/ch4",
+    "ncert:grade8/maths/ch4",
+    "ncert:grade8/maths/ch4",
+    "ncert:grade8/maths/ch4"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angle Sum Property of a Triangle",
+    "Types of Angles and Angle Pairs"
+  ],
+  "prerequisites_descriptions": {
+    "Angle Sum Property of a Triangle": "Sum of interior angles of a triangle equals 180°",
+    "Types of Angles and Angle Pairs": "Acute, right, obtuse, straight, reflex; complementary and supplementary"
+  },
+  "successors_to_link": [
+    "Properties of Parallelogram",
+    "Kite and Trapezium Properties",
+    "Visualising 3D Shapes",
+    "Cyclic Quadrilaterals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Angle Sum Property of a Triangle",
+    "Types of Angles and Angle Pairs",
+    "Properties of Parallelogram",
+    "Kite and Trapezium Properties",
+    "Visualising 3D Shapes",
+    "Cyclic Quadrilaterals",
+    "Properties of Rhombus, Rectangle and Square",
+    "Pythagorean Theorem",
+    "Converse of Pythagorean Theorem",
+    "Circles — Basic Properties",
+    "Perpendicular Bisector"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

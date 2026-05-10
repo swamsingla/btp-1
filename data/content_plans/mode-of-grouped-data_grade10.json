@@ -1,0 +1,41 @@
+{
+  "concept_slug": "mode-of-grouped-data",
+  "canonical_name": "Mode of Grouped Data",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Statistics",
+  "description": "Modal class and interpolation formula",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch13 — Mode of Grouped Data]\nRecall from Class IX, a mode is that value among the observations which occurs most\noften, that is, the value of the observation having the maximum frequency. Further, we\ndiscussed finding the mode of ungrouped data. Here, we shall discuss ways of obtaining\na mode of grouped data. It is possible that more than one value may have the same\nmaximum frequency. In such situations, the data is said to be multimodal.  Though\ngrouped data can also be multimodal, we shall restrict ourselves to problems having a\nsingle mode only.\nLet us first recall how we found the mode for ungrouped data through the following\nexample.\nExample 4 : The wickets taken by a bowler in 10 cricket matches are as follows:\nFind the mode of the data.\nSolution : Let us form the frequency distribution table of the given data as follows:\nNumber of\nwickets\nNumber of\nmatches\nReprint 2025-26\nClearly, 2 is the number of wickets taken by the bowler in the maximum number\n(i.e., 3) of matches. So, the mode of this data is 2.\nIn a \n\n[NCERT Grade10 Ch13 — Mean of Grouped Data]\nThe mean (or average) of observations, as we know, is the sum of the values of all the\nobservations divided by the total number of observations. From Class IX, recall that if\nx1, x2,. . ., xn are observations with respective frequencies f1, f2, . . ., fn, then this\nmeans observation x1 occurs f1 times, x2 occurs f2 times, and so on.\nNow, the sum of the values of all the observations = f1x1 + f2x2 + . . . + fnxn,  and\nthe number of observations = f1 + f2 + . . . + fn.\nSo, the mean x  of the data is given by\nx  =\n1 1\nn\nn\nn\nf x\nf x\nf x\nf\nf\nf\n\n\n\n\n\n\n\n\nRecall that we can write this in short form by using the Greek letter  (capital\nsigma) which means summation. That is,\nReprint 2025-26\nx  =\nn\ni\ni\ni\nn\ni\ni\nf x\nf\n\n\n\n\nwhich, more briefly, is written as x  = \n\ni\ni\ni\nf x\nf\n, if it is understood that i varies from\n1 to n.\nLet us apply this formula to find the mean in the following example.\nExample 1 : The marks obtained by 30 students of Class X of a certain school in a\nMathematics pa\n\n[NCERT Grade10 Ch13 — Median of Grouped Data]\nAs you have studied in Class IX, the median is a measure of central tendency which\ngives the value of the middle-most observation in the data. Recall that for finding the\nmedian of ungrouped data, we first arrange the data values of the observations in\nascending order. Then, if n is odd, the median is the\nn \n\n\n\n\n\nth observation. And, if n\nis even, then the median will be the average of the\nth\nn\nand the\n1 th\nn\n\n\n\n\n\n\n\nobservations.\nSuppose, we have to find the median of the following data, which gives the\nmarks, out of 50, obtained by 100 students in a test :\nMarks obtained\nNumber of students\nFirst, we arrange the marks in ascending order and prepare a frequency table as\nfollows :\nTable 13.9\nMarks obtained\nNumber of students\n(Frequency)\nTotal\nReprint 2025-26\nSTATISTICS\nHere n = 100, which is even. The median will be the average of the\nn th and the\nn\n\n\n\n\n\n\n\nth observations, i.e., the 50th and 51st observations. To find these\nobservations, we proceed as follows:\nTable",
+  "context_sources": [
+    "ncert:grade10/maths/ch13",
+    "ncert:grade10/maths/ch13",
+    "ncert:grade10/maths/ch13"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mean of Grouped Data"
+  ],
+  "prerequisites_descriptions": {
+    "Mean of Grouped Data": "Direct, assumed mean and step deviation methods"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Mean of Grouped Data",
+    "Ogive (Cumulative Frequency Curve)",
+    "Central Tendency for Grouped Data",
+    "Median of Grouped Data",
+    "Scatter Plot"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

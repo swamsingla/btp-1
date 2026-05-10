@@ -1,0 +1,55 @@
+{
+  "concept_slug": "decimals",
+  "canonical_name": "Decimals",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Systems",
+  "description": "Representing fractions with denominators as powers of 10",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Fractions",
+    "Place Value and Indian Numeration"
+  ],
+  "prerequisites_descriptions": {
+    "Fractions": "Numbers of the form a/b representing parts of a whole",
+    "Place Value and Indian Numeration": "Value of each digit determined by position; Indian and International systems up to crores"
+  },
+  "successors_to_link": [
+    "Conversion Between Fractions and Decimals",
+    "Percentage",
+    "Decimal Operations",
+    "Rational Numbers",
+    "Circumference of a Circle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Fractions",
+    "Place Value and Indian Numeration",
+    "Conversion Between Fractions and Decimals",
+    "Percentage",
+    "Decimal Operations",
+    "Rational Numbers",
+    "Circumference of a Circle",
+    "Natural Numbers",
+    "Whole Numbers",
+    "Number Line",
+    "Integers",
+    "Operations on Integers",
+    "Types of Fractions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,41 @@
+{
+  "concept_slug": "decimal-expansions-of-real-numbers",
+  "canonical_name": "Decimal Expansions of Real Numbers",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Number Systems",
+  "description": "Terminating, non-terminating repeating, and non-repeating decimals",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade9 Ch1 — Real Numbers and their Decimal Expansions]\nIn this section, we are going to study rational and irrational numbers from a different\npoint of view. We will look at the decimal expansions of real numbers and see if we\ncan use the expansions to distinguish between rationals and irrationals. We will also\nexplain how to visualise the representation of real numbers on the number line using\ntheir decimal expansions. Since rationals are more familiar to us, let us start with\nthem. Let us take three examples :\n,\n,\n7 .\nPay special attention to the remainders and see if you can find any pattern.\nReprint 2025-26\nNUMBER SYSTEMS\nExample 5 : Find the decimal expansions of 10\n3 , 7\n8  and 1\n7 .\nSolution :\n3.333...\n0.875\n0.142857...\n3 10\n8 7.0\n1.0\nRemainders : 1, 1, 1, 1, 1...\nRemainders : 6, 4, 0\nRemainders : 3, 2, 6, 4, 5, 1,\nDivisor : 3\nDivisor : 8\n3, 2, 6, 4, 5, 1,...\nDivisor : 7\nWhat have you noticed? You should have noticed at least three things:\n(i)\nThe remainders either become 0 after a certain stage, or start repeating themselves.\n(ii)\n\n\n[NCERT Grade9 Ch1 — Laws of Exponents for Real Numbers]\nDo you remember how to simplify the following?\n(i) 172 . 175 =\n(ii) (52)7 =\n(iii)\n23  =\n(iv) 73 . 93 =\nDid you get these answers? They are as follows:\n(i) 172 . 175 = 177\n(ii) (52)7 = 514\n(iii)\n=\n(iv) 73 . 93 = 633\nTo get these answers, you would have used the following laws of exponents,\nwhich you have learnt in your earlier classes. (Here a, n and m are natural numbers.\nRemember, a is called the base and m and n are the exponents.)\n(i)\nam . an = am + n\n(ii) (am)n = amn\n(iii)\nm\nm\nn\nn\na\na\n, m\nn\na\n−\n=\n>\n(iv) ambm = (ab)m\nReprint 2025-26\nWhat is (a)0? Yes, it is 1! So you have learnt that (a)0 = 1. So, using (iii), we can\nget 1\n.\nn\nn\na\na\n−\n=\nWe can now extend the laws to negative exponents too.\nSo, for example :\n(i)\n–5\n–3\n⋅\n=\n=\n(ii)\n–7\n–14\n(5 )\n=\n(iii)\n–10\n–17\n=\n(iv)\n–3\n–3\n–3\n(7)\n(9)\n(63)\n⋅\n=\nSuppose we want to do the following computations:\n(i)\n⋅\n(ii)\n\n\n\n\n\n\n(iii)\n(iv)\n⋅\nHow would we go about it? It turns out that we can extend the laws of exponents\nthat we have studied earlier, ev",
+  "context_sources": [
+    "ncert:grade9/maths/ch1",
+    "ncert:grade9/maths/ch1"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Real Numbers",
+    "Conversion Between Fractions and Decimals"
+  ],
+  "prerequisites_descriptions": {
+    "Real Numbers": "Union of rational and irrational numbers",
+    "Conversion Between Fractions and Decimals": "Converting fractions to decimals and vice versa"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Real Numbers",
+    "Conversion Between Fractions and Decimals",
+    "Irrational Numbers",
+    "Surds and Rationalisation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

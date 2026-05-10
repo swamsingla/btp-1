@@ -1,0 +1,52 @@
+{
+  "concept_slug": "circle-equation",
+  "canonical_name": "Equation of a Circle",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "(x−h)²+(y−k)²=r²; general form",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch10 — Degenerated conic sections]\nWhen the plane cuts at the vertex of the cone, we have  the following  different cases:\n(a)\nWhen α < β ≤ 90o, then the section is a point (Fig10.8).\n(b)\nWhen β = α, the plane contains a generator of the cone and the section is a\nstraight line  (Fig10.9).\nIt is the degenerated case of a parabola.\n(c)\nWhen 0 ≤ β < α, the section is a pair of intersecting straight lines (Fig10.10).\nIt is the degenerated case of a hyperbola.\nReprint 2025-26\nCONIC SECTIONS       179\nIn the following sections, we shall obtain the equations of each of  these conic\nsections in standard form  by defining them based on geometric properties.\nFig 10. 8\nFig 10. 9\nFig 10. 10\n10.3\nCircle\nDefinition 1 A circle is the set of all points in a plane that are equidistant from a fixed\npoint in the plane.\nThe fixed point is called the centre of the circle and the distance from the centre\nto a point on the circle is called the radius of the circle (Fig 10.11).\nReprint 2025-26\n180    MATHEMATICS\nThe equation of the circle is s\n\n[NCERT Grade11 Ch10 — Latus rectum]\nDefinition 9 Latus rectum of hyperbola is a line segment perpendicular to the transverse\naxis through any of the foci and whose end points lie on the hyperbola.\nAs in ellipse, it is easy to show that the length of the latus rectum in hyperbola is\n2b\na .\nExample 14 Find the coordinates of the foci and the vertices, the eccentricity,the\nlength of the latus rectum of the hyperbolas:\n(i)\nx\ny\n–\n= , (ii) y2 – 16x2 = 16\nSolution  (i) Comparing the equation\nx\ny\n–\n=  with the standard equation\nx\ny\n–\na\nb\n=\nHere, a = 3, b = 4 and c =\na\nb\n+\n=\n+\n=\nTherefore, the coordinates of the foci are (± 5, 0) and that of  vertices are (± 3, 0).Also,\nThe eccentricity e =\nc\na =\n. The latus rectum\nb\na\n=\n=\n(ii) Dividing the equation by 16 on both sides, we have\ny\nx\n–\n=\nComparing the equation with the standard equation\ny\nx\n–\na\nb\n= , we find that\na = 4,  b = 1 and\nc\na\nb\n=\n+\n=\n+\n=\n.\nReprint 2025-26\nCONIC SECTIONS       201\nTherefore, the coordinates of the foci are (0,  ± 17 ) and that of  the vertices are\n(0, ± 4).\n\n[NCERT Grade11 Ch10 — Standard equations of an ellipse]\ncentre of the ellipse is at the origin and the foci are on the x-axis or y-axis.  The two\nsuch possible orientations are shown in Fig 10.24.\nWe will derive the equation for the ellipse shown above in Fig 10.24 (a) with foci\non the x-axis.\nReprint 2025-26\nCONIC SECTIONS       189\nFig 10.24\n(a)\nLet F1 and F2 be the foci and O be the mid-point of the line segment F1F2. Let O\nbe the origin and the line from O through F2 be the positive\nx-axis and that through F1as the negative x-axis.\nLet, the line through O perpendicular to the\nx-axis be the y-axis. Let the coordinates of F1 be\n(– c, 0) and F2 be (c, 0) (Fig 10.25).\nLet P(x, y) be any point on the ellipse such\nthat the sum of the distances from P to the two\nfoci  be 2a so given\nPF1 + PF2 = 2a.\n... (1)\nUsing the distance formula, we have\n)\n(\n)\n(\ny\nc\nx\ny\nc\nx\n+\n−\n+\n+\n+\n=  2a\ni.e.,\n2)\n(\ny\nc\nx\n+\n+\n=  2a –\n2)\n(\ny\nc\nx\n+\n−\nSquaring both sides, we get\n(x + c)2 + y2 = 4a2 – 4a\n)\n(\n)\n(\ny\nc\nx\ny\nc\nx\n+\n−\n+\n+\n−\nFig 10.25\nx\ny\na\nb\n+\n=\nReprint 2025-26\n190",
+  "context_sources": [
+    "ncert:grade11/maths/ch10",
+    "ncert:grade11/maths/ch10",
+    "ncert:grade11/maths/ch10"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Distance Formula",
+    "Circles — Basic Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Distance Formula": "d = √[(x₂−x₁)² + (y₂−y₁)²]",
+    "Circles — Basic Properties": "Radius, diameter, chord, arc, sector, segment; basic properties"
+  },
+  "successors_to_link": [
+    "Conic Sections — Introduction"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Distance Formula",
+    "Circles — Basic Properties",
+    "Conic Sections — Introduction",
+    "Slope of a Line",
+    "Equation of a Straight Line",
+    "General Equation of a Line",
+    "Angle Between Two Lines",
+    "Distance of a Point from a Line",
+    "Family of Lines",
+    "Parabola"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

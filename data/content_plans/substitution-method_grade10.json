@@ -1,0 +1,42 @@
+{
+  "concept_slug": "substitution-method",
+  "canonical_name": "Substitution Method",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Algebra",
+  "description": "Solving simultaneous equations by expressing one variable in terms of the other",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch3 — Substitution Method :]\nsome examples.\nExample 4 : Solve the following pair of equations by substitution method:\n7x – 15y = 2\n(1)\nx + 2y = 3\n(2)\nSolution :\nStep 1 : We pick either of the equations and write one variable in terms of the other.\nLet us consider the Equation (2) :\nx + 2y = 3\nand write it as\nx = 3 – 2y\n(3)\nStep 2 : Substitute the value of x in Equation (1). We get\n7(3 – 2y) – 15y = 2\ni.e.,\n21 – 14y – 15y = 2\ni.e.,\n– 29y = –19\nTherefore,\ny = 19\nStep 3 : Substituting this value of y in Equation (3), we get\nx = 3 –\n2 29\n\n\n\n\n\n\n= 49\nTherefore, the solution is x = 49\n29 , y = 19\n29 .\nReprint 2025-26\nPAIR OF LINEAR EQUATIONS IN TWO VARIABLES\nVerification : Substituting x = 49\n29  and y = 19\n29 , you can verify that both the Equations\n(1) and (2) are satisfied.\nTo understand the substitution method more clearly, let us consider it stepwise:\nStep 1 : Find the value of one variable, say y in terms of the other variable, i.e., x from\neither equation, whichever is convenient.\nStep 2 : Substitute this va",
+  "context_sources": [
+    "ncert:grade10/maths/ch3"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pair of Linear Equations in Two Variables"
+  ],
+  "prerequisites_descriptions": {
+    "Pair of Linear Equations in Two Variables": "Solving systems graphically and algebraically"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Pair of Linear Equations in Two Variables",
+    "Zeroes of a Polynomial",
+    "Relationship Between Zeroes and Coefficients",
+    "Quadratic Equations",
+    "Quadratic Formula",
+    "Completing the Square",
+    "Nature of Roots — Discriminant",
+    "Elimination Method"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

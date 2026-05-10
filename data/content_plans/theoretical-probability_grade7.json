@@ -1,0 +1,39 @@
+{
+  "concept_slug": "theoretical-probability",
+  "canonical_name": "Theoretical Probability",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Probability",
+  "description": "P(E) = favourable outcomes / total outcomes",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Fractions"
+  ],
+  "prerequisites_descriptions": {
+    "Fractions": "Numbers of the form a/b representing parts of a whole"
+  },
+  "successors_to_link": [
+    "Experimental Probability",
+    "Probability — Basic Concepts"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Fractions",
+    "Experimental Probability",
+    "Probability — Basic Concepts"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

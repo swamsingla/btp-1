@@ -1,0 +1,55 @@
+{
+  "concept_slug": "square-numbers",
+  "canonical_name": "Square Numbers",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Number Theory",
+  "description": "Perfect squares; properties of square numbers",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade8 Ch1 — Square Numbers]\nWhy are the numbers, 1, 4, 9, 16, …, called squares? We know that the\nnumber of unit squares in a square (the area of a square) is the product\nof its sides. The table below gives the areas of squares with different\nsides.\nWe use the following notation for squares.\n1 × 1 = 12 = 1\n2 × 2 = 22 = 4\n3 × 3 = 32 = 9,\n4 × 4 = 42 = 16\n5 × 5 = 52 = 25.\n...\nIn general, for any number n, we write n × n = n2, which is read as ‛n squared’.\nCan we have a square of sidelength 3\n5 or 2.5 units?\nYes, there area in square units are ( 3\n5)\n2 = ( 3\n5) × ( 3\n5) = ( 9\n25),\nand (2.5)\n2 = (2.5) × (2.5) = 6.25.\nSidelength\n(in units)\nArea\n(in sq units)\n1 × 1 = 1 sq. unit\n2 × 2 = 4 sq. units\n3 × 3 = 9 sq. units\n4 × 4 = 16 sq. units\n5 × 5 = 25 sq. units\n10 × 10 = 100 sq. units\nGanita Prakash | Grade 8\nThe squares of natural numbers are called perfect squares. For\nexample, 1, 4, 9, 16, 25, … are all perfect squares.\nPatterns and Properties of Perfect Squares\nFind the squares of the first 30 natural numbers and fill \n\n[NCERT Grade8 Ch1 — Cubic Numbers]\nYou know the word cube from geometry. A cube\nis a solid figure all of whose all sides meet at right\nangles and are equal. How many cubes of side 1 cm\nmake a cube of side 2 cm?\nHow many cubes of side 1 cm will make a cube of side 3 cm?\nGanita Prakash | Grade 8\nConsider the numbers 1, 8, 27, ...\nThese numbers are called perfect cubes. Can you see why they are\nnamed so?\nEach of them is obtained by multiplying a number by itself three\ntimes. We note that\n1 = 1 × 1 × 1\n8 = 2 × 2 × 2\n27 = 3 × 3 × 3\nIs 9 a cube?\nWe see that 2 × 2 × 2 = 8 and 3 × 3 × 3 = 27. This shows that\n9 is not a perfect cube. Nor is any number from 10 to 26.\nCan you estimate the number of unit cubes in a cube with an\nedge length of 4 units?\nIt has 64 unit cubes! If you notice carefully, each layer\nof this cube has 4 × 4 unit cubes. Each square layer has\n16 unit cubes (4 × 4), and there are 4 such layers, so the\ntotal number of unit cubes is 4 × 4 × 4 = 64.\nSince 53 = 5 × 5 × 5 = 125, 125 is a cube.\nIn general, for any nu\n\n[NCERT Grade8 Ch1 — A Pinch of History]\nThe first known list of perfect squares and perfect\ncubes was compiled by the Babylonians as far\nback as 1700 BCE. These lists, found on clay tablets,\nwere used to quickly find square roots and cube\nGanita Prakash | Grade 8\nroots in problems involving land measurement, architectural design,\nand other areas where geometric calculations were necessary.\nIn ancient Sanskrit works the term varga was used both for the square\nfigure or its area, as well as the square power, and the term ghana was\nused both for the solid cube as well as the product of a number with\nitself three times. The fourth power was called varga-varga . These terms\nwere used in India at least from the third century BCE.\nAryabhata (499 CE) states\n“A square figure of four equal sides and the number representing its area\nare called varga. The product of two equal quantities is also called varga.”\nThus, the term varga for square power has its origin in the graphical\nrepresentation of a square figure.\nWhy is the word ‘root’ (\n\n[NCERT Grade8 Ch5 — Is This a Multiple Of?]\nSum of Consecutive Numbers\nAnshu is exploring sums of consecutive numbers. He has written the\nfollowing —\nNow, he is wondering —\n•\t \u0007“Can I write every natural number as a sum of consecutive\nnumbers?”\n•\t \u0007“Which numbers can I write as the sum of consecutive numbers in\nmore than one way?”\n•\t \u0007“Ohh, I know all odd numbers can be written as a sum of two\nconsecutive numbers. Can we write all even numbers as a sum of\nconsecutive numbers?”\n•\t \u0007“Can I write 0 as a sum of consecutive numbers? Maybe I should\nuse negative numbers.”\nExplore these questions and any others that may occur to you.\nDiscuss them with the class.\nTake any 4 consecutive numbers. For example, 3, 4, 5, and 6. Place ‘+’ and\n‘–’ signs in between the numbers. How many different possibilities exist?\nWrite all of them.\n7   = 3 + 4\n10 = 1 + 2 + 3 + 4\n12 = 3 + 4 + 5\n15 = 7 + 8\n= 4 + 5 + 6\n= 1 + 2 + 3 + 4 + 5\nMath\nTalk\n3 + 4 – 5 + 6\n3 – 4 – 5 – 6\nNumber Play\nEight such expressions are possible. You can use the diagram below to\nsyst\n\n[NCERT Grade8 Ch5 — Checking Divisibility Quickly]\nEarlier, you have learnt shortcuts to check whether a given number,\nwritten in the Indian number system is divisible by 2, 4, 5, 8, and 10. Let\nus revisit them.\nDivisibility by 10, 5, and 2: If the units digit of a number is ‘0’, then\nit is divisible by 10. Let us understand why this works through algebra.\nWe can write the general form of a number in the Indian system\nusing a set of letter-numbers. For example, a 5-digit number can be\nexpressed as, edcba denoting e × 10000 + d × 1000 + c × 100 + b × 10 + a. The\nletter-numbers e, d, c, b, and a denote each digit of a 5-digit number.\nAny number can be written in general as … dcba, where the letter-\nnumbers a, b, c and d represent the units, tens, hundreds and thousands\ndigit, respectively, and so on. As a sum of place values, this number is —\n… +1000d + 100c + 10b + a.\n(For example, in the number 4075, d = 4, c = 0, b = 7, and a = 5.)\nWe know that each place value, with the exception of the units place,\nis a multiple of 10. So, 10b, 100c\n\n[Wikipedia]\nIn mathematics, a square number or perfect square is an integer that is the square of an integer; in other words, it is the product of some integer with itself. For example, 9 is a square number, since it equals 32 and can be written as 3 × 3.",
+  "context_sources": [
+    "ncert:grade8/maths/ch1",
+    "ncert:grade8/maths/ch1",
+    "ncert:grade8/maths/ch1",
+    "ncert:grade8/maths/ch5",
+    "ncert:grade8/maths/ch5",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Prime Factorisation",
+    "Number Patterns and Sequences"
+  ],
+  "prerequisites_descriptions": {
+    "Prime Factorisation": "Expressing a number as a product of prime factors; factor trees",
+    "Number Patterns and Sequences": "Identifying, extending and describing rules for number sequences"
+  },
+  "successors_to_link": [
+    "Square Roots",
+    "Cube Numbers",
+    "Exponents and Powers"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Prime Factorisation",
+    "Number Patterns and Sequences",
+    "Square Roots",
+    "Cube Numbers",
+    "Exponents and Powers",
+    "Divisibility Rules",
+    "Cube Roots",
+    "Pythagorean Triples",
+    "Modular Arithmetic"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

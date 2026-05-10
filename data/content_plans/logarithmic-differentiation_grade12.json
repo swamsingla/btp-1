@@ -1,0 +1,47 @@
+{
+  "concept_slug": "logarithmic-differentiation",
+  "canonical_name": "Logarithmic Differentiation",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "Taking log before differentiating; y=xˣ type",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch5 — Exponential and Logarithmic Functions]\nTill now we have learnt some aspects of different classes of functions like polynomial\nfunctions, rational functions and trigonometric functions. In this section, we shall\nlearn about a new class of (related) functions called exponential functions and logarithmic\nfunctions. It needs to be emphasized that many statements made in this section are\nmotivational and precise proofs of these are well beyond the scope of this text.\nThe Fig 5.9 gives a sketch of y = f1(x) = x, y = f2(x) = x2, y = f3(x) = x3 and y = f4(x)\n= x4. Observe that the curves get steeper as the power of x increases. Steeper the\ncurve, faster is the rate of growth. What this means is that for a fixed increment in the\nvalue of x (> 1), the increment in the value of y = fn (x) increases as n increases for n\n= 1, 2, 3, 4. It is conceivable that such a statement is true for all positive values of n,\nReprint 2025-26\nwhere fn (x) = xn. Essentially, this means\nthat the graph of y = fn (x) leans more\ntowards the y-axis as n incr\n\n[NCERT Grade12 Ch5 — Second Order Derivative]\nLet\ny = f (x). Then\ndy\ndx  = f ′(x)\n... (1)\nIf f′(x) is differentiable, we may differentiate (1) again w.r.t. x. Then, the left hand\nside becomes d\ndy\ndx\ndx\n\n\n\n\n\n which is called the second order derivative of y w.r.t. x and\nis denoted by\nd y\ndx\n. The second order derivative of f(x) is denoted by f ″(x). It is also\ndenoted by D2 y or y″ or y2 if y = f(x). We remark that higher order derivatives may be\ndefined similarly.\nReprint 2025-26\nExample 35 Find\nd y\ndx\n, if  y = x3 + tan x.\nSolution Given that y = x3 + tan x. Then\ndy\ndx  = 3x2 + sec2 x\nTherefore\nd y\ndx\n=\n(\n)\nsec\nd\nx\nx\ndx\n+\n= 6x + 2 sec x . sec x tan x = 6x + 2 sec2 x tan x\nExample 36 If y = A sin x + B cos x, then prove that\nd y\ny\ndx\n+\n=\n.\nSolution We have\ndy\ndx  = A cos x – B sin x\nand\nd y\ndx\n= d\ndx  (A cos x – B sin x)\n= – A sin x – B cos x = – y\nHence\nd y\ndx\n+ y = 0\nExample 37 If  y = 3e2x + 2e3x, prove that\nd y\ndy\ny\ndx\ndx\n−\n+\n=\n.\nSolution Given that y = 3e2x + 2e3x. Then\ndy\ndx  = 6e2x + 6e3x = 6 (e2x + e3x)\nTherefore\nd \n\n[NCERT Grade12 Ch9 — Linear differential equations]\nA differential equation of the from\nP\ndy\ny\ndx +\n= Q\nwhere, P and Q are constants or functions of x only, is known as a first order linear\ndifferential equation. Some examples of the first order linear differential equation are\ndy\ny\ndx +\n= sin x\ndy\ny\ndx\nx\n\n\n+ \n\n\n\n= ex\nlog\ndy\ny\ndx\nx\nx\n\n\n+ \n\n\n\n= 1\nx\nAnother form of first order linear differential equation is\n1P\ndx\nx\ndy\n+\n= Q1\nwhere, P1 and Q1 are constants or functions of y only. Some examples of this type of\ndifferential equation are\ndx\nx\ndy +\n= cos y\ndx\nx\ndy\ny\n−\n+\n= y2e – y\nTo solve the first order linear differential equation of the type\nP\ndy\ny\ndx +\n= Q\n... (1)\nMultiply both sides of the equation by a function of x say g (x) to get\ng(x) dy\ndx  + P.(g(x)) y = Q . g (x)\n... (2)\nReprint 2025-26\nDIFFERENTIAL EQUATIONS\nChoose g (x) in such a way that R.H.S. becomes a derivative of y . g (x).\ni.e.\ng(x) dy\ndx  + P. g(x) y = d\ndx  [y .g (x)]\nor\ng(x) dy\ndx  + P. g(x) y = g(x) dy\ndx  + y g′ (x)\n⇒\nP. g(x) = g′ (x)\nor\nP =\n( )\n( )\ng\nx\ng",
+  "context_sources": [
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch9"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Chain Rule",
+    "Logarithms"
+  ],
+  "prerequisites_descriptions": {
+    "Chain Rule": "d/dx[f(g(x))] = f′(g(x))·g′(x)",
+    "Logarithms": "log_a(b); laws: product, quotient, power; change of base"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Chain Rule",
+    "Logarithms",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Exponential and Logarithmic Functions",
+    "Derivatives in Parametric Form"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

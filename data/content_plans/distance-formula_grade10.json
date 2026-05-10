@@ -1,0 +1,53 @@
+{
+  "concept_slug": "distance-formula",
+  "canonical_name": "Distance Formula",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Coordinate Geometry",
+  "description": "d = √[(x₂−x₁)² + (y₂−y₁)²]",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade10 Ch7 — Distance Formula]\nLet us consider the following situation:\nA town B is located 36 km east and 15\nkm north of the town A. How would you find\nthe distance from town A to town B without\nactually measuring it. Let us see. This situation\ncan be represented graphically as shown in\nFig. 7.1. You may use the Pythagoras Theorem\nto calculate this distance.\nNow, suppose two points lie on the x-axis.\nCan we find the distance between them? For\ninstance, consider two points A(4, 0) and B(6, 0)\nin Fig. 7.2. The points A and B lie on the x-axis.\nFrom the figure you can see that OA = 4\nunits and OB = 6 units.\nTherefore, the distance of B from A, i.e.,\nAB = OB – OA = 6 – 4 = 2 units.\nSo, if two points lie on the x-axis, we can\neasily find the distance between them.\nNow, suppose we take two points lying on\nthe y-axis. Can you find the distance between\nthem. If the points C(0, 3) and D(0, 8) lie on the\ny-axis, similarly we find that CD = 8 – 3 = 5 units\n(see Fig. 7.2).\nNext, can you find the distance of A from C (in Fig. 7",
+  "context_sources": [
+    "ncert:grade10/maths/ch7"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cartesian Coordinate System",
+    "Pythagorean Theorem"
+  ],
+  "prerequisites_descriptions": {
+    "Cartesian Coordinate System": "x-y plane; quadrants; plotting ordered pairs",
+    "Pythagorean Theorem": "In a right triangle: a² + b² = c²"
+  },
+  "successors_to_link": [
+    "Section Formula and Midpoint",
+    "Slope of a Line",
+    "Equation of a Circle",
+    "Introduction to 3D Geometry"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Cartesian Coordinate System",
+    "Pythagorean Theorem",
+    "Section Formula and Midpoint",
+    "Slope of a Line",
+    "Equation of a Circle",
+    "Introduction to 3D Geometry",
+    "Area of Triangle using Coordinates",
+    "Collinearity of Points"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

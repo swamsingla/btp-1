@@ -1,0 +1,44 @@
+{
+  "concept_slug": "negative-and-zero-exponents",
+  "canonical_name": "Negative and Zero Exponents",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Algebra",
+  "description": "a⁰ = 1; a⁻ⁿ = 1/aⁿ; standard form / scientific notation",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade8 Ch2 — Exponential Notation and Operations]\nThe initial thickness of the paper was 0.001 cm.\nUpon folding once, its thickness became 0.001 cm × 2 = 0.002 cm.\nFolding it twice, its thickness became —\n0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand).\nUpon folding it thrice, its thickness became —\n0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.\nWhen folded four times, its thickness became —\n0.001 cm × 2 × 2 × 2 × 2, or 0.001 cm × 24 = 0.016 cm.\nSimilarly, the expression for the thickness of the paper when folded 7\ntimes will be 0.001 cm × 2 × 2 × 2 × 2 × 2 × 2 × 2, or 0.001 cm × 27 = 0.128 cm.\nWe have seen that square numbers can be expressed as n2 and cube\nnumbers as n3.\nn × n = n2 (read as ‘n squared’ or ‘n raised to the power 2’)\nGanita Prakash | Grade 8\nn × n × n = n3 (read as ‘n cubed’ or ‘n raised to the power 3’)\nn × n × n × n = n4 (read as ‘n raised to the power 4’ or ‘the 4th power of n’)\nn × n × n × n × n × n × n = n7 (read as ‘n raised to the power 7’ or ‘the 7th\npower of n’) and so on.\nIn gener",
+  "context_sources": [
+    "ncert:grade8/maths/ch2"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Exponents and Powers"
+  ],
+  "prerequisites_descriptions": {
+    "Exponents and Powers": "aⁿ notation; laws of exponents for integer exponents"
+  },
+  "successors_to_link": [
+    "Laws of Exponents for Real Numbers"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Exponents and Powers",
+    "Laws of Exponents for Real Numbers",
+    "Algebraic Identities",
+    "Linear Equations in One Variable",
+    "Factorisation of Algebraic Expressions",
+    "Division of Algebraic Expressions",
+    "Linear Equations in Two Variables",
+    "Graphing Linear Equations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

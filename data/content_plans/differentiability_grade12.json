@@ -1,0 +1,57 @@
+{
+  "concept_slug": "differentiability",
+  "canonical_name": "Differentiability",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "Differentiable ⟹ continuous; non-differentiable points",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch5 — Introduction]\nThis chapter is essentially a continuation of our study of\ndifferentiation of functions in Class XI. We had learnt to\ndifferentiate certain functions like polynomial functions and\ntrigonometric functions. In this chapter, we introduce the\nvery important concepts of continuity, differentiability and\nrelations between them. We will also learn differentiation\nof inverse trigonometric functions. Further, we introduce a\nnew class of functions called exponential and logarithmic\nfunctions. These functions lead to powerful techniques of\ndifferentiation. We illustrate certain geometrically obvious\nconditions through differential calculus. In the process, we\nwill learn some fundamental theorems in this area.\n5.2  Continuity\nSir Issac Newton\n(1642-1727)\n\n[NCERT Grade12 Ch5 — Continuity]\nWe start the section with two informal examples to get a feel of continuity. Consider\nthe function\n1, if\n( )\n2, if\nx\nf x\nx\n≤\n\n= \n>\n\nThis function is of course defined at every\npoint of the real line. Graph of this function is\ngiven in the Fig 5.1. One can deduce from the\ngraph that the value of the function at nearby\npoints on x-axis remain close to each other\nexcept at x = 0. At the points near and to the\nleft of 0, i.e., at points like – 0.1, – 0.01, – 0.001,\nthe value of the function is 1. At the points near\nand to the right of 0, i.e., at points like 0.1, 0.01,\nFig 5.1\nReprint 2025-26\nCONTINUITY AND DIFFERENTIABILITY\n0.001, the value of the function is 2. Using the language of left and right hand limits, we\nmay say that the left (respectively right) hand limit of f at 0 is 1 (respectively 2). In\nparticular the left and right hand limits do not coincide. We also observe that the value\nof the function at x = 0 concides with the left hand limit. Note that when we try to draw\nthe gr\n\n[NCERT Grade12 Ch5 — Algebra of continuous functions]\nIn the previous class, after having understood the concept of limits, we learnt some\nalgebra of limits. Analogously, now we will study some algebra of continuous functions.\nSince continuity of a function at a point is entirely dictated by the limit of the function at\nthat point, it is reasonable to expect results analogous to the case of limits.\nTheorem 1 Suppose f and g be two real functions continuous at a real number c.\nThen\n(1)\nf + g is continuous at x = c.\n(2)\nf – g is continuous at x = c.\n(3)\nf . g is continuous at x = c.\n(4)\nf\ng\n\n\n\n\n\n\nis continuous at x = c, (provided g(c) ≠ 0).\nProof We are investigating continuity of (f + g) at x = c. Clearly it is defined at\nx = c. We have\nlim(\n)( )\nx\nc f\ng\nx\n→\n+\n= lim[ ( )\n( )]\nx\nc f x\ng x\n→\n+\n(by definition of f + g)\n= lim\n( )\nlim ( )\nx\nc\nx\nc\nf x\ng x\n→\n→\n+\n(by the theorem on limits)\n= f (c) + g(c)\n(as f and g are continuous)\n= (f + g) (c)\n(by definition of f + g)\nHence, f + g is continuous at x = c.\nProofs for the remaining parts are \n\n[NCERT Grade12 Ch5 — Derivatives of composite functions]\nTo study derivative of composite functions, we start with an illustrative example. Say,\nwe want to find the derivative of f, where\nf (x) = (2x + 1)3\nReprint 2025-26\nCONTINUITY AND DIFFERENTIABILITY\nOne way is to expand (2x + 1)3 using binomial theorem and find the derivative as\na polynomial function as illustrated below.\n( )\nd f x\ndx\n=\n(2\n1)\nd\nx\ndx\n\n\n+\n\n\n=\n(8\n1)\nd\nx\nx\nx\ndx\n+\n+\n+\n= 24x2 + 24x + 6\n= 6 (2x + 1)2\nNow, observe that\nf (x) = (h o g) (x)\nwhere g(x) = 2x + 1 and h(x) = x3. Put t = g(x) = 2x + 1. Then f(x) = h(t) = t3. Thus\ndf\ndx  =\n6 (2x + 1)2 = 3(2x + 1)2 . 2 = 3t2 . 2 = dh dt\ndt\ndx\n⋅\nThe advantage with such observation is that it simplifies the calculation in finding\nthe derivative of, say, (2x + 1)100. We may formalise this observation in the following\ntheorem called the chain rule.\nTheorem 4 (Chain Rule) Let f be a real valued function which is a composite of two\nfunctions u and v; i.e., f = v o u. Suppose t = u(x) and if both dt\ndx  and dv\ndt  exist, we have\ndf\ndv dt\nd\n\n[NCERT Grade12 Ch5 — Derivatives of implicit functions]\nUntil now we have been differentiating various functions given in the form y = f(x).\nBut it is not necessary that functions are always expressed in this form. For example,\nconsider one of the following relationships between x and y:\nx – y – π = 0\nx + sin xy – y = 0\nIn the first case, we can solve for y and rewrite the relationship as y = x – π. In\nthe second case, it does not seem that there is an easy way to solve for y. Nevertheless,\nthere is no doubt about the dependence of y on x in either of the cases. When a\nrelationship between x and y is expressed in a way that it is easy to solve for y and\nwrite y = f(x), we say that y is given as an explicit function of x. In the latter case it\nReprint 2025-26\nCONTINUITY AND DIFFERENTIABILITY\nis implicit that y is a function of x and we say that the relationship of the second type,\nabove, gives function implicitly. In this subsection, we learn to differentiate implicit\nfunctions.\nExample 22 Find dy\ndx  if x – y = π.\nSolution One way is to sol",
+  "context_sources": [
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch5"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Continuity of Functions",
+    "Basic Differentiation Rules"
+  ],
+  "prerequisites_descriptions": {
+    "Continuity of Functions": "f continuous at a iff lim f(x) = f(a); algebra of continuous functions",
+    "Basic Differentiation Rules": "Power rule, constant multiple, sum/difference rules"
+  },
+  "successors_to_link": [
+    "Chain Rule",
+    "Rolle's Theorem",
+    "L'Hôpital's Rule"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Continuity of Functions",
+    "Basic Differentiation Rules",
+    "Chain Rule",
+    "Rolle's Theorem",
+    "L'Hôpital's Rule",
+    "Types of Discontinuity",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions",
+    "Derivatives in Parametric Form"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

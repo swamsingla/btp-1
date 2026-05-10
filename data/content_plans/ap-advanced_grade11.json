@@ -1,0 +1,46 @@
+{
+  "concept_slug": "ap-advanced",
+  "canonical_name": "Arithmetic Series — Sum Formulas",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Sequences",
+  "description": "Sₙ formulae; arithmetic mean; n terms between two numbers",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Sum of First n Terms of an AP",
+    "Series — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Sum of First n Terms of an AP": "Sₙ = n/2 [2a + (n−1)d]",
+    "Series — Introduction": "Sum of terms of a sequence; sigma notation"
+  },
+  "successors_to_link": [
+    "Sum of Special Series",
+    "AM-GM Inequality"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Sum of First n Terms of an AP",
+    "Series — Introduction",
+    "Sum of Special Series",
+    "AM-GM Inequality",
+    "Geometric Progressions",
+    "Sequences — Introduction",
+    "Geometric Series and Sum"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

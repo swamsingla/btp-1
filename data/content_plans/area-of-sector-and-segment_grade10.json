@@ -1,0 +1,40 @@
+{
+  "concept_slug": "area-of-sector-and-segment",
+  "canonical_name": "Area of Sector and Segment of a Circle",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Mensuration",
+  "description": "Area of sector = (θ/360°)πr²; segment = sector − triangle",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch11 — Areas of Sector and Segment of a Circle]\nYou have already come across the terms sector and\nsegment of a circle in your earlier classes. Recall\nthat the portion (or part) of the circular region enclosed\nby two radii and the corresponding arc is called a\nsector of the circle and the portion (or part) of the\ncircular region enclosed between a chord and the\ncorresponding arc is called a segment of the circle.\nThus, in Fig. 11.1, shaded region OAPB is a sector\nof the circle with centre O. ∠ AOB is called the\nangle of the sector. Note that in this figure, unshaded region OAQB is also a sector of\nthe circle. For obvious reasons, OAPB is called the minor sector and\nOAQB is called the major sector. You can also see that angle of the major sector is\n360° – ∠ AOB.\nNow, look at Fig. 11.2 in which AB is a chord\nof the circle with centre O. So, shaded region APB is\na segment of the circle. You can also note that\nunshaded region AQB is another segment of the circle\nformed by the chord AB. For obvious reasons, APB\nis called the minor segment",
+  "context_sources": [
+    "ncert:grade10/maths/ch11"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Circumference and Area of Circle",
+    "Trigonometric Ratios"
+  ],
+  "prerequisites_descriptions": {
+    "Circumference and Area of Circle": "Advanced problems involving circles; sector and segment intro",
+    "Trigonometric Ratios": "sin, cos, tan, cosec, sec, cot in a right triangle"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Circumference and Area of Circle",
+    "Trigonometric Ratios",
+    "Surface Area and Volume of Combined Solids",
+    "Frustum of a Cone"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

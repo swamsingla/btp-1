@@ -10,30 +10,30 @@ export default function Footer() {
               <span className="text-xl">📚</span> NCERT Learn
             </Link>
             <p className="mt-3 text-sm leading-relaxed">
-              A free educational platform with structured, topic-wise learning material
-              aligned to the NCERT curriculum for Grades 6–12.
+              A knowledge-graph powered educational platform for NCERT Mathematics,
+              Grades 6–12. Every concept linked to its prerequisites.
             </p>
           </div>
           <div>
-            <h4 className="text-white font-semibold mb-3">Grades</h4>
+            <h4 className="text-white font-semibold mb-3">Explore by Grade</h4>
             <div className="grid grid-cols-2 gap-2 text-sm">
               {[6, 7, 8, 9, 10, 11, 12].map(g => (
-                <Link key={g} href={`/grade/${g}`} className="block hover:text-white transition-colors">Grade {g}</Link>
+                <Link key={g} href={`/maths/${g}`} className="block hover:text-white transition-colors">Grade {g}</Link>
               ))}
             </div>
           </div>
           <div>
-            <h4 className="text-white font-semibold mb-3">Resources</h4>
+            <h4 className="text-white font-semibold mb-3">About</h4>
             <div className="space-y-2 text-sm">
-              <span className="block">Topic-wise Explanations</span>
-              <span className="block">Practice Problems</span>
-              <span className="block">Key Formulas & Summaries</span>
-              <span className="block">Board Exam Preparation</span>
+              <span className="block">324 Mathematical Concepts</span>
+              <span className="block">497 Prerequisite Connections</span>
+              <span className="block">Wikipedia-Style Navigation</span>
+              <span className="block">Knowledge Graph Architecture</span>
             </div>
           </div>
         </div>
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} NCERT Learn. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} NCERT Learn — BTP Project, IIIT Hyderabad</p>
         </div>
       </div>
     </footer>

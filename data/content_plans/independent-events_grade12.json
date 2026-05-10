@@ -1,0 +1,44 @@
+{
+  "concept_slug": "independent-events",
+  "canonical_name": "Independent Events",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Probability",
+  "description": "P(A∩B) = P(A)·P(B); distinction from mutually exclusive",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch13 — Independent Events]\nConsider the experiment of drawing a card from a deck of 52 playing cards, in which\nthe elementary events are assumed to be equally likely. If E and F denote the events\n'the card drawn is a spade' and 'the card drawn is an ace' respectively, then\nP(E) = 13\nand P(F)\n=\n=\n=\nAlso E and F is the event ' the card drawn is the ace of spades' so that\nP(E ∩F) = 1\nHence\nP(E|F) =\nP(E\nF)\nP(F)\n∩\n=\n=\nSince P(E) = 1\n4 = P (E|F), we can say that the occurrence of event F has not\naffected the probability of occurrence of the event E.\nWe also have\nP(F|E) =\nP(E\nF)\nP(F)\nP(E)\n∩\n=\n=\n=\nAgain,  P(F) = 1\n13  = P(F|E) shows that occurrence of event E has not affected\nthe probability of occurrence of the event F.\nThus, E and F are two events such that the probability of occurrence of one of\nthem is not affected by occurrence of the other.\nSuch events are called independent events.\nReprint 2025-26\nDefinition 2 Two events E and F are said to be independent, if\nP(F|E) = P (F)  provided P (E)  ≠ 0\nand\nP (E|F) = P (E",
+  "context_sources": [
+    "ncert:grade12/maths/ch13"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Multiplication Theorem on Probability"
+  ],
+  "prerequisites_descriptions": {
+    "Multiplication Theorem on Probability": "P(A∩B) = P(A)·P(B|A)"
+  },
+  "successors_to_link": [
+    "Bernoulli Trials"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Multiplication Theorem on Probability",
+    "Bernoulli Trials",
+    "Conditional Probability",
+    "Theorem of Total Probability",
+    "Bayes' Theorem",
+    "Random Variables",
+    "Probability Distribution",
+    "Mean and Variance of a Random Variable"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

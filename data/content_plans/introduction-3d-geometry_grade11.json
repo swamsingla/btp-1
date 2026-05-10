@@ -1,0 +1,59 @@
+{
+  "concept_slug": "introduction-3d-geometry",
+  "canonical_name": "Introduction to 3D Geometry",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "3D coordinate system; octants; distance between two points in 3D",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch11 — Introduction]\nYou may recall that to locate the position of a point in a\nplane, we need two intersecting mutually perpendicular lines\nin the plane. These lines are called the coordinate axes\nand the two numbers are called the coordinates of the\npoint with respect to the axes. In actual life, we do not\nhave to deal with points lying in a plane only. For example,\nconsider the position of a ball thrown in space at different\npoints of time or the position of an aeroplane as it flies\nfrom one place to another at different times during its flight.\nSimilarly, if we were to locate the position of the\nlowest tip of an electric bulb hanging from the ceiling of a\nroom or the position of the central tip of the ceiling fan in a room, we will not only\nrequire the perpendicular distances of the point to be located from two perpendicular\nwalls of the room but also the height of the point from the floor of the room. Therefore,\nwe need not only two but three numbers representing the perpendicular distances of\nthe poi\n\n[NCERT Grade11 Ch11 — Coordinate Axes and Coordinate Planes in Three Dimensional Space]\nConsider three planes intersecting at a point O\nsuch that these three planes are mutually\nperpendicular to each other (Fig 11.1). These\nthree planes intersect along the lines X′OX, Y′OY\nand Z′OZ, called the x, y and z-axes, respectively.\nWe may note that these lines are mutually\nperpendicular to each other. These lines constitute\nthe rectangular coordinate system. The planes\nXOY, YOZ and ZOX, called, respectively the\nXY-plane, YZ-plane and the ZX-plane, are\nknown as the three coordinate planes. We take\nthe XOY plane as the plane of the paper and the\nline Z′OZ as perpendicular to the plane XOY. If the plane of the paper is considered\nas horizontal, then the line Z′OZ will be vertical. The distances measured from\nXY-plane upwards in the direction of OZ are taken as positive and those measured\ndownwards in the direction of OZ′ are taken as negative. Similarly, the distance\nmeasured to the right of ZX-plane along OY are taken as positive, to the left of\nZX-plane and along OY′ as negative, \n\n[NCERT Grade11 Ch11 — Coordinates of a Point in Space]\nHaving chosen a fixed coordinate system in the\nspace, consisting of coordinate axes, coordinate\nplanes and the origin, we now explain, as to how,\ngiven a point in the space, we associate with it three\ncoordinates (x,y,z) and conversely, given a triplet\nof three numbers (x, y, z), how, we locate a point in\nthe space.\nGiven a point P in space, we drop a\nperpendicular PM on the XY-plane with M as the\nfoot of this perpendicular (Fig 11.2). Then, from the point M, we draw a perpendicular\nML to the x-axis, meeting it at L. Let OL be x, LM be y and MP be z. Then x,y and z\nare called the x, y and z coordinates, respectively, of the point P in the space. In\nFig 11.2, we may note that the point P (x, y, z) lies in the octant XOYZ and so all x, y,\nz are positive. If P was in any other octant, the signs of x, y and z would change\nFig 11.2\nReprint 2025-26\n210  MATHEMATICS\naccordingly. Thus, to each point P in the space there corresponds an ordered triplet\n(x, y, z) of real numbers.\nConversely, give\n\n[NCERT Grade11 Ch11 — Distance between Two Points]\nWe have studied about the distance\nbetween two points in two-dimensional\ncoordinate system. Let us now extend this\nstudy to three-dimensional system.\nLet P(x1, y1, z1) and Q ( x2, y2, z2)\nbe two points referred to a system of\nrectangular axes OX, OY and OZ.\nThrough the points P and Q draw planes\nparallel to the coordinate planes so as to\nform a rectangular parallelopiped with one\ndiagonal PQ (Fig 11.4).\nNow, since ∠PAQ is a right\nangle, it follows that, in triangle PAQ,\nPQ2 = PA2 + AQ2\n... (1)\nAlso,  triangle ANQ is right angle triangle with ∠ANQ a right angle.\nFig 11.4\nReprint 2025-26\n212  MATHEMATICS\nTherefore\nAQ2 = AN2 + NQ2\n... (2)\nFrom\n(1) and (2), we have\nPQ2 = PA2 + AN2 + NQ2\nNow\nPA = y2 – y1, AN = x2 – x1 and NQ = z2 – z1\nHence\nPQ2 = (x2 – x1)2 + (y2 – y1)\n2 + (z2 – z1)2\nTherefore\nPQ =\n)\n(\n)\n(\n)\n(\nz\nz\ny\ny\nx\nx\n−\n+\n−\n+\n−\nThis gives us the distance between two points (x1, y1, z1) and (x2, y2, z2).\nIn particular, if x1 = y1 = z1 = 0, i.e., point P is origin O, then OQ =\nz\ny\nx\n+\n+\n,\n\n[NCERT Grade11 Ch1 — Introduction]\nGeorg Cantor\n(1845-1918)\nThe concept of set serves as a fundamental part of the\npresent day mathematics. Today this concept is being used\nin almost every branch of mathematics. Sets are used to\ndefine the concepts of relations and functions. The study of\ngeometry, sequences, probability, etc. requires the knowledge\nof sets.\nThe theory of sets was developed by German\nmathematician Georg Cantor (1845-1918). He first\nencountered sets while working on “problems on trigonometric\nseries”. In this Chapter, we discuss some basic definitions\nand operations involving sets.\n1.2  Sets and their Representations",
+  "context_sources": [
+    "ncert:grade11/maths/ch11",
+    "ncert:grade11/maths/ch11",
+    "ncert:grade11/maths/ch11",
+    "ncert:grade11/maths/ch11",
+    "ncert:grade11/maths/ch1"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cartesian Coordinate System",
+    "Distance Formula"
+  ],
+  "prerequisites_descriptions": {
+    "Cartesian Coordinate System": "x-y plane; quadrants; plotting ordered pairs",
+    "Distance Formula": "d = √[(x₂−x₁)² + (y₂−y₁)²]"
+  },
+  "successors_to_link": [
+    "Section Formula in 3D",
+    "Vectors — Introduction",
+    "Direction Cosines and Direction Ratios"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Cartesian Coordinate System",
+    "Distance Formula",
+    "Section Formula in 3D",
+    "Vectors — Introduction",
+    "Direction Cosines and Direction Ratios",
+    "Slope of a Line",
+    "Equation of a Straight Line",
+    "General Equation of a Line",
+    "Angle Between Two Lines",
+    "Distance of a Point from a Line",
+    "Family of Lines",
+    "Equation of a Circle",
+    "Conic Sections — Introduction"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

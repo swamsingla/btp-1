@@ -1,0 +1,61 @@
+{
+  "concept_slug": "algebraic-identities",
+  "canonical_name": "Algebraic Identities",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Algebra",
+  "description": "Standard identities: (a±b)², a²−b², (a+b+c)², (x+a)(x+b)",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade9 Ch2 — Algebraic Identities]\nFrom your earlier classes, you may recall that an algebraic identity is an algebraic\nequation that is true for all values of the variables occurring in it. You have studied the\nfollowing algebraic identities in earlier classes:\nIdentity I\n: (x + y)2 = x2 + 2xy + y2\nIdentity II\n: (x – y)2 = x2 – 2xy + y2\nIdentity III : x2 – y2 = (x + y) (x – y)\nIdentity IV : (x + a) (x + b) = x2 + (a + b)x + ab\nYou must have also used some of these algebraic identities to factorise the algebraic\nexpressions. You can also see their utility in computations.\nExample 11 : Find the following products using appropriate identities:\n(i) (x + 3) (x + 3)\n(ii) (x – 3) (x + 5)\nSolution : (i) Here we can use Identity I : (x + y)2 = x2 + 2xy + y2. Putting y = 3 in it,\nwe get\n(x + 3) (x + 3) = (x + 3)2 = x2 + 2(x)(3) + (3)2\n= x2 + 6x + 9\n(ii) Using Identity IV above, i.e., (x + a) (x + b) = x2 + (a + b)x + ab, we have\n(x – 3) (x + 5) = x2 + (–3 + 5)x + (–3)(5)\n= x2 + 2x – 15\nReprint 2025-26\nPOLYNOMIALS\nExample 12 : Ev",
+  "context_sources": [
+    "ncert:grade9/maths/ch2"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Simplification of Algebraic Expressions"
+  ],
+  "prerequisites_descriptions": {
+    "Simplification of Algebraic Expressions": "Collecting like terms; simplifying using properties"
+  },
+  "successors_to_link": [
+    "Factorisation of Algebraic Expressions",
+    "Surds and Rationalisation",
+    "Factorisation of Polynomials",
+    "Quadratic Equations",
+    "Completing the Square",
+    "Trigonometric Identities",
+    "Binomial Theorem"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Simplification of Algebraic Expressions",
+    "Factorisation of Algebraic Expressions",
+    "Surds and Rationalisation",
+    "Factorisation of Polynomials",
+    "Quadratic Equations",
+    "Completing the Square",
+    "Trigonometric Identities",
+    "Binomial Theorem",
+    "Linear Equations in Two Variables",
+    "Laws of Exponents for Real Numbers",
+    "Polynomials in One Variable",
+    "Remainder Theorem",
+    "Factor Theorem",
+    "Zeroes of a Polynomial",
+    "Logarithms"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

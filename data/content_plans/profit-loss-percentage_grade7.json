@@ -1,0 +1,38 @@
+{
+  "concept_slug": "profit-loss-percentage",
+  "canonical_name": "Profit, Loss and Discount",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Proportional Reasoning",
+  "description": "Computing profit/loss/discount as percentages of cost/selling price",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Percentage"
+  ],
+  "prerequisites_descriptions": {
+    "Percentage": "A ratio expressed per hundred"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Percentage",
+    "Ratios and Proportions",
+    "Percentage Increase and Decrease",
+    "Unitary Method and Direct Proportion",
+    "Simple Interest",
+    "Speed, Distance and Time"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

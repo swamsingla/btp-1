@@ -1,0 +1,436 @@
+=== FINAL GRAPH CONCEPTS ===
+Error loading final graph: string indices must be integers, not 'str'
+
+
+=== RAW TOPICS ===
+
+--- data/remote_sync/raw_topics\grade10_maths.json ---
+  * Introduction
+  * The Fundamental Theorem of Arithmetic
+  * Revisiting Irrational Numbers
+  * Summary
+  * Tangent to a Circle
+  * Number of Tangents from a Point on a Circle
+  * Areas of Sector and Segment of a Circle
+  * Surface Area of a Combination of Solids
+  * Volume of a Combination of Solids
+  * Mean of Grouped Data
+  * Probability — A Theoretical Approach
+  * Geometrical Meaning of the Zeroes of a Polynomial
+  * Relationship between Zeroes and Coefficients of a Polynomial
+  * Graphical Method of Solution of a Pair of Linear Equations
+  * Algebraic Methods of Solving a Pair of Linear Equations
+  * Quadratic Equations
+  * Nature of Roots
+  * Arithmetic Progressions
+  * nth Term of an AP
+  * Sum of First n Terms of an AP
+  * Similar Figures
+  * Similarity of Triangles
+  * Criteria for Similarity of Triangles
+  * Distance Formula
+  * Section Formula
+  * Trigonometric Ratios
+  * Trigonometric Ratios of Some Specific Angles
+  * Trigonometric Identities
+  * Heights and Distances
+  * Logarithmic Scales
+
+--- data/remote_sync/raw_topics\grade11_maths.json ---
+  * Introduction
+  * Sets and their Representations
+  * The Empty Set
+  * Finite and Infinite Sets
+  * Equal Sets
+  * Subsets
+  * Universal Set
+  * Venn Diagrams
+  * Operations on Sets
+  * Complement of a Set
+  * Circle, ellipse, parabola and hyperbola
+  * Degenerated conic sections
+  * Parabola
+  * Coordinate Axes and Coordinate Planes in Three Dimensional Space
+  * Coordinates of a Point in Space
+  * Distance between Two Points
+  * Intuitive Idea of Derivatives
+  * Limits
+  * Limits of Trigonometric Functions
+  * Derivatives
+  * Measures of Dispersion
+  * Event
+  * Axiomatic Approach to Probability
+  * Cartesian Products of Sets
+  * Relations
+  * Angles
+  * Trigonometric Functions
+  * Trigonometric Functions of Sum and Difference of Two Angles
+  * Complex Numbers
+  * Algebra of Complex Numbers
+  * The Modulus and the Conjugate of a Complex Number
+  * Argand Plane and Polar Representation
+  * Inequalities
+  * Algebraic Solutions of Linear Inequalities in One Variable and their
+  * Fundamental Principle of Counting
+  * Permutations
+  * Combinations
+  * Binomial Theorem for Positive Integral Indices
+  * Sequences
+  * Series
+  * Geometric Progression (G . P.)
+  * Relationship Between A.M. and G.M.
+  * Slope of a Line
+  * Various Forms
+  * Distance of a Point
+
+--- data/remote_sync/raw_topics\grade12_maths.json ---
+  * Introduction
+  * Types of Relations
+  * Types of Functions
+  * Composition of Functions and Invertible Function
+  * Basic Concepts
+  * Properties of Inverse Trigonometric Functions
+  * Matrix
+  * Types of Matrices
+  * Operations on Matrices
+  * Symmetric and Skew Symmetric Matrices
+  * Invertible Matrices
+  * Determinant
+  * Area of a Triangle
+  * Minors and Cofactors
+  * Adjoint and Inverse of a Matrix
+  * Applications of Determinants and Matrices
+  * Continuity
+  * Exponential and Logarithmic Functions
+  * Derivatives of Functions in Parametric Forms
+  * Second Order Derivative
+  * Rate of Change of Quantities
+  * Increasing and Decreasing Functions
+  * Maxima and Minima
+  * Integration as an Inverse Process of Differentiation
+  * Methods of Integration
+  * Integrals of Some Particular Functions
+  * Integration by Partial Fractions
+  * Integration by Parts
+  * Definite Integral
+  * Fundamental Theorem of Calculus
+  * Evaluation of Definite Integrals by Substitution
+  * Some Properties of Definite Integrals
+  * Area under Simple Curves
+  * Types of Vectors
+  * Addition of Vectors
+  * Multiplication of a Vector by a Scalar
+  * Product of Two Vectors
+  * Direction Cosines and Direction Ratios of a Line
+  * Equation of a Line in Space
+  * Angle between Two Lines
+  * Shortest Distance between Two Lines
+  * Linear Programming Problem and its Mathematical Formulation
+  * Conditional Probability
+  * Multiplication Theorem on Probability
+  * Independent Events
+  * Bayes' Theorem
+  * Differential Equations
+  * Numerical Methods
+  * Binomial Distribution
+  * Normal Distribution
+  * Hypothesis Testing
+  * Regression Analysis
+  * Three Dimensional Geometry
+  * Probability Distributions
+  * Random Variables
+  * Bernoulli Trials
+
+--- data/remote_sync/raw_topics\grade6_maths.json ---
+  * What is Mathematics?
+  * Patterns in Numbers
+  * Visualising Number Sequences
+  * Relations among Number Sequences
+  * Patterns in Shapes
+  * Relation to Number Sequences
+  * Bela’s Building of Fun
+  * The Token Model
+  * Integers in Other Places
+  * Explorations with Integers
+  * A Pinch of History
+  * Ray
+  * Angle
+  * Comparing Angles
+  * Making Rotating Arms
+  * Special Types of Angles
+  * Measuring Angles
+  * Drawing Angles
+  * Types of Angles and their Measures
+  * Numbers can Tell us Things
+  * Supercells
+  * Patterns of Numbers on the Number Line
+  * Playing with Digits
+  * Pretty Palindromic Patterns
+  * The Magic Number of Kaprekar
+  * Clock and Calendar Numbers
+  * Mental Math
+  * Playing with Number Patterns
+  * An Unsolved Mystery — the Collatz Conjecture!
+  * Simple Estimation
+  * Games and Winning Strategies
+  * Collecting and Organising Data
+  * Pictographs
+  * Bar Graphs
+  * Drawing a Bar Graph
+  * Artistic and Aesthetic Considerations
+  * Common Multiples and Common Factors
+  * Prime Numbers
+  * Co-prime numbers for safekeeping treasures
+  * Prime Factorisation
+  * Divisibility Tests
+  * Fun with numbers
+  * Perimeter
+  * Area
+  * Area of a Triangle
+  * Fractional Units and Equal Shares
+  * Fractional Units as Parts of a Whole
+  * Measuring Using Fractional Units
+  * Mixed Fractions
+  * Equivalent Fractions
+  * Comparing Fractions
+  * Addition and Subtraction of Fractions
+  * Artwork
+  * Squares and Rectangles
+  * Constructing Squares and Rectangles
+  * An Exploration in Rectangles
+  * Exploring Diagonals of Rectangles and Squares
+  * Points Equidistant from Two Given Points
+  * Line of Symmetry
+  * Rotational Symmetry
+  * Ratios and Proportional Relationships
+  * Percentage
+  * Percentage Increase and Decrease
+  * Decimals and Fractions
+  * Converting Fractions to Decimals
+  * Money and Currency
+  * Time and Speed
+  * Volume and Capacity
+  * Surface Area and Perimeter of 3D Shapes
+  * Area and Perimeter of Rectilinear Figures
+  * Area and Perimeter of Triangles
+  * Area and Perimeter of Quadrilaterals
+  * Area and Perimeter of Circles
+  * Area and Perimeter of Sectors and Segments
+  * Congruent and Similar Triangles
+  * Properties of a Circle
+  * Properties of a Sphere
+  * Properties of a Cylinder
+  * Properties of a Prism
+  * Properties of a Pyramid
+  * Properties of a Regular Polygon
+  * Properties of a Frustum
+  * Properties of a Torus
+  * Properties of a Hemisphere
+  * Properties of a Spherical Shell
+  * Properties of a Spherical Cap
+
+--- data/remote_sync/raw_topics\grade7_maths.json ---
+  * A Lakh Varieties!
+  * Land of Tens
+  * Of Crores and Crores!
+  * Exact and Approximate Values
+  * Patterns in Products
+  * Did You Ever Wonder…?
+  * Simple Expressions
+  * Reading and Evaluating Complex Expressions
+  * The Need for Smaller Units
+  * A Tenth Part
+  * A Hundredth Part
+  * Decimal Place Value
+  * Units of Measurement
+  * Locating and Comparing Decimals
+  * Addition and Subtraction of Decimals
+  * More on the Decimal System
+  * The Notion of Letter-Numbers
+  * Revisiting Arithmetic Expressions
+  * Simplification of Algebraic Expressions
+  * Pick Patterns and Reveal Relationships
+  * Across the Line
+  * Perpendicular Lines
+  * Between Lines
+  * Transversals
+  * Corresponding Angles
+  * Drawing Parallel Lines
+  * Alternate Angles
+  * Parallel Illusions
+  * Numbers Tell us Things
+  * Picking Parity
+  * Some Explorations in Grids
+  * Nature’s Favourite Sequence: The Virahāṅka–
+  * Digits in Disguise
+  * Constructions Related to Altitudes of Triangles
+  * Types of Triangles
+  * Multiplication of Fractions
+  * Division of Fractions
+  * Some Problems Involving Fractions
+  * Geometric Twins
+  * Congruence of Triangles
+  * Angles of Isosceles and Equilateral Triangles
+  * A Quick Recap of Integers
+  * Multiplication of Integers
+  * The Greatest of All
+  * Least, but not Last!
+  * Patterns, Properties, and a Pretty Procedure!
+  * A Quick Recap of Decimals
+  * Decimal Multiplication
+  * Decimal Division
+  * Look Before You Leap!
+  * Of Questions and Statements
+  * Representative Values
+  * Visualising Data
+  * Data Detective
+  * Geometric Constructions
+  * Tiling
+  * Find the Unknowns
+  * Solving Equations Systematically
+  * Mind the Mistake, Mend the Mistake
+  * A Pinch of History
+  * Similar Triangles
+  * Pythagoras' Theorem
+  * Area of Trapezium
+  * Volume of Cone
+  * Heron's Formula
+  * Circumference of Circle
+  * Area Under Curve by Integration
+  * Graphical Representation of Statistics
+  * Mean Deviation
+  * Median Class Mark
+  * Range and Interquartile Range
+  * Probability as a Measure of Uncertainty
+  * Theoretical Probability
+  * Experimental Probability
+  * Random Experiments
+  * Algebraic Identities
+
+--- data/remote_sync/raw_topics\grade8_maths.json ---
+  * Square Numbers
+  * Cubic Numbers
+  * A Pinch of History
+  * Experiencing the Power Play ...
+  * Exponential Notation and Operations
+  * The Other Side of Powers
+  * Powers of 10
+  * Did You Ever Wonder?
+  * Reema’s Curiosity
+  * Some Early Number Systems
+  * The Idea of a Base
+  * Rectangles and Squares
+  * Angles in a Quadrilateral
+  * Quadrilaterals with Equal Sidelengths
+  * Playing with Quadrilaterals
+  * Kite and Trapezium
+  * Is This a Multiple Of?
+  * Checking Divisibility Quickly
+  * Digits in Disguise
+  * Some Properties of Multiplication
+  * Special Cases of the Distributive Property
+  * Mind the Mistake, Mend the Mistake
+  * This Way or That Way, All Ways Lead to the Bay
+  * Observing Similarity in Change
+  * Ratios
+  * Ratios in their Simplest Form
+  * Problem Solving with Proportional Reasoning
+  * Sharing, but Not Equally!
+  * Unit Conversions
+  * Fractions as Percentages
+  * Percentage of Some Quantity
+  * Using Percentages
+  * Doubling a Square
+  * Halving a Square
+  * Hypotenuse of an Isosceles Right Triangle
+  * Combining Two Different Squares
+  * Right–Triangles Having Integer Sidelengths
+  * A Long-Standing Open Problem
+  * Further Applications of the Baudhāyana -
+  * Proportionality — A Quick Recap
+  * Ratios in Maps
+  * Ratios with More than 2 Terms
+  * Dividing a Whole in a Given Ratio
+  * A Slice of the Pie
+  * Inverse Proportions
+  * Fractals
+  * Visualising Solids
+  * The Balancing Act
+  * Visualising and Interpreting Data
+  * Algebra Play
+  * Thinking about ‘Think of a Number’ Tricks
+  * Number Pyramids
+  * Fun with Grids
+  * The Largest Product
+  * Decoding Divisibility Tricks
+  * Arithmetic Progressions
+  * Circles
+  * Tangents and Normals
+  * Three-Dimensional Geometry
+  * Sine Rule
+  * Cosine Rule
+  * Mensuration
+  * Area of Triangles
+  * Pythagoras' Theorem
+  * Altitudes of Triangles
+
+--- data/remote_sync/raw_topics\grade9_maths.json ---
+  * Introduction
+  * Irrational Numbers
+  * Real Numbers and their Decimal Expansions
+  * Operations on Real Numbers
+  * Laws of Exponents for Real Numbers
+  * Summary
+  * Area of a Triangle — by Heron’s Formula
+  * Surface Area of a Right Circular Cone
+  * Surface Area of a Sphere
+  * Volume of a Right Circular Cone
+  * Volume of a Sphere
+  * Graphical Representation of Data
+  * Polynomials in One Variable
+  * Zeroes of a Polynomial
+  * Factorisation of Polynomials
+  * Algebraic Identities
+  * Cartesian System
+  * Linear Equations
+  * Euclid’s Definitions, Axioms and Postulates
+  * Basic Terms and Definitions
+  * Intersecting Lines and Non-intersecting Lines
+  * Pairs of Angles
+  * Lines Parallel to the Same Line
+  * Congruence of Triangles
+  * Criteria for Congruence of Triangles
+  * Some Properties of a Triangle
+  * Properties of a Parallelogram
+  * The Mid-point Theorem
+  * Angle Subtended by a Chord at a Point
+  * Perpendicular from the Centre to a Chord
+  * Equal Chords and their Distances from the Centre
+  * Angle Subtended by an Arc of a Circle
+  * Cyclic Quadrilaterals
+  * Quadratic Equations
+  * Arithmetic Progressions
+  * Geometric Progressions
+  * Trigonometric Ratios
+  * Circles and Chords
+  * Three Dimensional Geometry
+  * Statistics and Graphs
+  * Probability
+  * Introduction to Graph Theory
+  * Introduction to Coordinate Geometry
+  * Introduction to Statistics
+  * Introduction to Probability
+  * Introduction to Trigonometry
+  * Introduction to Geometry
+  * Introduction to Mensuration
+  * Introduction to Statistics and Graphs
+  * Introduction to Probability and Statistics
+  * Introduction to Trigonometry and Geometry
+  * Introduction to Mensuration and Geometry
+  * Introduction to Coordinate Geometry and Statistics
+  * Introduction to Trigonometry and Geometry and Mensuration
+  * Introduction to Probability and Statistics and Geometry and Mensuration
+  * Introduction to Trigonometry and Geometry and Coordinate Geometry and Statistics
+  * Introduction to 3D Geometry and Mensuration and Coordinate Geometry and Statistics
+  * Introduction to Probability and Statistics and Geometry and Mensuration and Coordinate Geometry and Statistics
+  * Introduction to Probability and Statistics and Geometry and Mensuration and Coordinate Geometry and Statistics and Trigonometry and Geometry and Mensuration

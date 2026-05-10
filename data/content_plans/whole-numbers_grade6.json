@@ -1,0 +1,62 @@
+{
+  "concept_slug": "whole-numbers",
+  "canonical_name": "Whole Numbers",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Systems",
+  "description": "Natural numbers together with zero: 0, 1, 2, 3, …",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch5 — Prime Numbers]\nGuna and Anshu want to pack figs (anjeer) that grow in their farm.\nGuna wants to put 12 figs in each box and Anshu wants to put 7 figs\nin each box.\nHow many arrangements are possible?\nThink and find out the different ways how —\n1.  Guna can arrange 12 figs in a rectangular manner.\n2.  Anshu can arrange 7 figs in a rectangular manner.\nGuna has listed out these possibilities.\nObserve the number of rows and\ncolumns in each of the arrangements.\nHow are they related to 12?\nIn the second arrangement, for\nexample, 12 figs are arranged in two\ncolumns of 6 each or 12 = 2 × 6.\nAnshu could make only one\narrangement: 7 × 1 or 1 × 7. There are\nno other rectangular arrangements\npossible.\nIn each of Guna’s arrangements,\nmultiplying the number of rows by\nthe number of columns gives the\nnumber 12. So, the number of rows\nor columns are factors of 12.\nWe saw that the number 12 can be arranged in a rectangle in\nmore than one way as 12 has more than two factors. The number 7\ncan be arranged in only one way\n\n[NCERT Grade6 Ch3 — An Unsolved Mystery — the Collatz Conjecture!]\nLook at the sequences below—the same rule is applied in all the\nsequences:\na.\t 12, 6, 3, 10, 5, 16, 8, 4, 2, 1\nb.\t 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1\nc.\t 21, 64, 32, 16, 8, 4, 2, 1\nd.\t 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1\nDo you see how these sequences were formed?\nReprint 2025-26\nNumber Play\nThe rule is: one starts with any number; if the number is even,\ntake half of it; if the number is odd, multiply it by 3 and add 1;\nrepeat.\nNotice that all four sequences above eventually reached the\nnumber 1. In 1937, the German mathematician, Lothar Collatz\nconjectured that the sequence will always reach 1, regardless of\nthe whole number you start with. Even today — despite many\nmathematicians working on it — it remains an unsolved problem as\nto whether Collatz’s conjecture is true! Collatz’s conjecture is one of\nthe most famous unsolved problems in mathematics.\nMake some more Collatz sequences like those above, starting\nwith your favourite whole numbers. Do you al\n\n[NCERT Grade6 Ch3 — Games and Winning Strategies]\nNumbers can also be used to play games and develop winning\nstrategies.\nHere is a famous game called 21. Play it with a classmate. Then\ntry it at home with your family!\nRules for Game #1: The first player says 1, 2 or 3. Then the two\nplayers take turns adding 1, 2, or 3 to the previous number said. The\nfirst player to reach 21 wins!\nPlay this game several times with your classmate.  Are you starting\nto see the winning strategy?\nWhich player can always win if they play correctly? What is the\npattern of numbers that the winning player should say?\nThere are many variations of this game. Here is another common\nvariation:\nRules for Game #2: The first player says a number between 1 and\n10. Then the two players take turns adding a number between 1 and\n10 to the previous number said. The first player to reach 99 wins!\nPlay this game several times with your classmate. See if you can\nfigure out the corresponding winning strategy in this case! Which\nReprint 2025-26\nGanita Prakash | Grade 6\nplayer \n\n[NCERT Grade6 Ch1 — Patterns in Numbers]\nAmong the most basic patterns that occur in mathematics are\npatterns of numbers, particularly patterns of whole numbers:\n0, 1, 2, 3, 4, ...\nThe branch of Mathematics that studies patterns in whole\nnumbers is called number theory.\nNumber sequences are the most basic and among the most\nfascinating types of patterns that mathematicians study.\nTable 1 shows some key number sequences that are studied in\nMathematics.\nReprint 2025-26\nPatterns in Mathematics\nTable 1: Examples of number sequences\n1, 1, 1, 1, 1, 1, 1, ...\n(All 1’s)\n1, 2, 3, 4, 5, 6, 7, ...\n(Counting numbers)\n1, 3, 5, 7, 9, 11, 13, ...\n(Odd numbers)\n2, 4, 6, 8, 10, 12, 14, ...\n(Even numbers)\n1, 3, 6, 10, 15, 21, 28, ...\n(Triangular numbers)\n1, 4, 9, 16, 25, 36, 49, ...\n(Squares)\n1, 8, 27, 64, 125, 216, ...\n(Cubes)\n1, 2, 3, 5, 8, 13, 21, ...\n(Virahānka numbers)\n1, 2, 4, 8, 16, 32, 64, ...\n(Powers of 2)\n1, 3, 9, 27, 81, 243, 729, ...\n(Powers of 3)\nFigure it Out\n1. \t Can you recognise the pattern in each of the sequences in\nTable 1?\n\n[NCERT Grade6 Ch5 — Fun with numbers]\nSpecial numbers\nThere are four numbers in this box. Which number looks special to\nyou? Why do you say so?\nLook at the what Guna’s classmates have to share:\n•\nKarnawati says, “9 is special because it is a single-digit\nnumber whereas all the other numbers are 2-digit numbers”.\n•\nGurupreet says, “9 is special because it is the only number\nthat is a multiple of 3”.\n•\nMurugan says, “16 is special because it is the only even\nnumber and also the only multiple of 4”.\n•\nGopika says, “25 is special as it is the only multiple of 5”.\n•\nYadnyikee says, “43 is special because it is the only prime\nnumber”.\n•\nRadha says, “43 is special because it is the only number that\nis not a square”.\nReprint 2025-26\nPrime Time\nMath\nTalk\n\u0007Below are some boxes with four numbers in each box.\nWithin each box try to say how each number is special\ncompared to the rest. Share with your classmates and find\nout who else gave the same reasons as you did. Did anyone\ngive different reasons that may not have occurred to you?!\n\n[Wikipedia]\nAn integer is the number zero (0), a positive natural number, or the negation of a positive natural number. The negations or additive inverses of the positive natural numbers are referred to as negative integers. The set of all integers is often de\n[…truncated]",
+  "context_sources": [
+    "ncert:grade6/maths/ch5",
+    "ncert:grade6/maths/ch3",
+    "ncert:grade6/maths/ch3",
+    "ncert:grade6/maths/ch1",
+    "ncert:grade6/maths/ch5",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Natural Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Natural Numbers": "Counting numbers 1, 2, 3, … — the most basic number set"
+  },
+  "successors_to_link": [
+    "Place Value and Indian Numeration",
+    "Number Line",
+    "Integers",
+    "Fractions",
+    "Even and Odd Numbers",
+    "Factors and Multiples",
+    "Number Patterns and Sequences",
+    "Perimeter"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Natural Numbers",
+    "Place Value and Indian Numeration",
+    "Number Line",
+    "Integers",
+    "Fractions",
+    "Even and Odd Numbers",
+    "Factors and Multiples",
+    "Number Patterns and Sequences",
+    "Perimeter",
+    "Operations on Integers",
+    "Types of Fractions",
+    "Equivalent Fractions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,49 @@
+{
+  "concept_slug": "direction-cosines-ratios",
+  "canonical_name": "Direction Cosines and Direction Ratios",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Coordinate Geometry",
+  "description": "l,m,n; l²+m²+n²=1; direction ratios a,b,c",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch11 — Direction Cosines and Direction Ratios of a Line]\nFrom Chapter 10, recall that if a directed line L passing through the origin makes\nangles α, β and γ with x, y and z-axes, respectively, called direction angles, then cosine\nof these angles, namely, cos α, cos β and cos γ are called direction cosines of the\ndirected line L.\nIf we reverse the direction of L, then the direction angles are replaced by their supplements,\ni.e.,\n,\nand\n. Thus, the signs of the direction cosines are reversed.\n* For various activities in three dimensional geometry, one may refer to the Book\n“A Hand Book for designing Mathematics Laboratory in Schools”, NCERT, 2005\nReprint 2025-26\nNote that a given line in space can be extended in two opposite directions and so it\nhas two sets of direction cosines. In order to have a unique set of direction cosines for\na given line in space, we must take the given line as a directed line. These unique\ndirection cosines are denoted by l, m and n.\nRemark If the given line in space does not pass through the origin, then, in order t\n\n[NCERT Grade12 Ch11 — Direction cosines of a line passing through two points]\nSince one and only one line passes through two given points, we can determine the\ndirection cosines of a line passing through the given points P(x1, y1, z1) and Q(x2, y2, z2)\nas follows (Fig 11.2 (a)).\nFig 11.2\nLet l, m, n be the direction cosines of the line PQ and let it makes angles α, β and  γ\nwith the x, y and z-axis, respectively.\nDraw perpendiculars from P and Q to XY-plane to meet at R and S. Draw a\nperpendicular from P to QS to meet at N. Now, in right angle triangle PNQ, ∠PQN= γ\n(Fig 11.2 (b).\nTherefore,\ncosγ =\nNQ\nPQ\nPQ\nz\nz\n−\n=\nSimilarly\ncosα =\nand cos\nPQ\nPQ\nx\nx\ny\ny\n−\n−\nβ=\nHence, the direction cosines of the line segment joining the points P(x1, y1, z1) and\nQ(x2, y2, z2) are\nReprint 2025-26\nPQ\nx\nx\n−\n,\nPQ\ny\ny\n−\n,\nPQ\nz\nz\n−\nwhere\nPQ =\n(\n)\n(\n)\n(\n)\nx\nx\ny\ny\nz\nz\n−\n+\n−\n+\n−\nANote   The direction ratios of the line segment joining P(x1, y1, z1) and Q(x2, y2, z2)\nmay be taken as\nx2 – x1, y2 – y1, z2 – z1 or x1 – x2, y1 – y2, z1 – z2\nExample 1 If a line makes angle 90°, 60° and 30° with",
+  "context_sources": [
+    "ncert:grade12/maths/ch11",
+    "ncert:grade12/maths/ch11"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Introduction to 3D Geometry",
+    "Trigonometric Ratios"
+  ],
+  "prerequisites_descriptions": {
+    "Introduction to 3D Geometry": "3D coordinate system; octants; distance between two points in 3D",
+    "Trigonometric Ratios": "sin, cos, tan, cosec, sec, cot in a right triangle"
+  },
+  "successors_to_link": [
+    "Equation of a Line in 3D"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Introduction to 3D Geometry",
+    "Trigonometric Ratios",
+    "Equation of a Line in 3D",
+    "Angle Between Two Lines in 3D",
+    "Shortest Distance Between Two Lines",
+    "Equation of a Plane",
+    "Angle Between Two Planes",
+    "Distance of a Point from a Plane"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,44 @@
+{
+  "concept_slug": "trigonometric-ratios-specific-angles",
+  "canonical_name": "Trigonometric Ratios of Standard Angles",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Trigonometry",
+  "description": "Values at 0°, 30°, 45°, 60°, 90°",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade10 Ch8 — Trigonometric Ratios of Some Specific Angles]\nFrom geometry, you are already familiar with the construction of angles of 30°, 45°,\n60° and 90°. In this section, we will find the values of the trigonometric ratios for these\nangles and, of course, for 0°.\nReprint 2025-26\nTrigonometric Ratios of 45°\nIn  ABC, right-angled at B, if one angle is 45°, then\nthe other angle is also 45°, i.e.,  A =  C = 45°\n(see  Fig. 8.14).\nSo,\nBC = AB\n(Why?)\nNow, Suppose BC = AB = a.\nThen by Pythagoras Theorem, AC2 = AB2 + BC2 = a2 + a2 = 2a2,\nand, therefore,\nAC =\na\n\nUsing the definitions of the trigonometric ratios, we have :\nsin 45° = side opposite to angle 45°\nBC\nhypotenuse\nAC\na\na\n\n\n\ncos 45° = side adjacent toangle 45°\nAB\nhypotenuse\nAC\na\na\n\n\n\ntan 45° = side opposite to angle 45°\nBC\nside adjacent to angle 45°\nAB\na\na\n\n\n\nAlso, cosec 45° =\nsin 45 \n\n, sec 45° =\ncos 45 \n\n, cot 45° =\ntan 45 \n\n.\nTrigonometric Ratios of 30° and 60°\nLet us now calculate the trigonometric ratios of 30°\nand 60°. Consider an equilateral triangle ABC. Since\neach a\n\n[NCERT Grade10 Ch8 — Trigonometric Ratios]\nIn Section 8.1, you have seen some right triangles\nimagined to be formed in different situations.\nLet us take a right triangle ABC as shown\nin Fig. 8.4.\nHere,  CAB (or, in brief, angle A) is an\nacute angle. Note the position of the side BC\nwith respect to angle A. It faces  A. We call it\nthe side opposite to angle A. AC is the\nhypotenuse of the right triangle and the side AB\nis a part of  A. So, we call it the side\nadjacent to angle A.\nFig. 8.4\nReprint 2025-26\nINTRODUCTION TO TRIGONOMETRY\nNote that the position of sides change\nwhen you consider angle C in place of A\n(see Fig. 8.5).\nYou have studied the concept of ‘ratio’ in\nyour earlier classes. We now define certain ratios\ninvolving the sides of a right triangle, and call\nthem trigonometric ratios.\nThe trigonometric ratios of the angle A\nin right triangle ABC (see Fig. 8.4) are defined\nas follows :\nsine of  A = side opposite to angle A\nBC\nhypotenuse\nAC\n\ncosine of  A = side adjacent to angle A\nAB\nhypotenuse\nAC\n\ntangent of  A =",
+  "context_sources": [
+    "ncert:grade10/maths/ch8",
+    "ncert:grade10/maths/ch8"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Trigonometric Ratios"
+  ],
+  "prerequisites_descriptions": {
+    "Trigonometric Ratios": "sin, cos, tan, cosec, sec, cot in a right triangle"
+  },
+  "successors_to_link": [
+    "Complementary Angle Identities",
+    "Heights and Distances"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Trigonometric Ratios",
+    "Complementary Angle Identities",
+    "Heights and Distances",
+    "Trigonometric Identities"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

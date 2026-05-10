@@ -1,0 +1,41 @@
+{
+  "concept_slug": "scalar-triple-product",
+  "canonical_name": "Scalar Triple Product",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Vectors",
+  "description": "[a⃗ b⃗ c⃗] = a⃗·(b⃗×c⃗); volume of parallelepiped; coplanarity test",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cross (Vector) Product",
+    "Determinants"
+  ],
+  "prerequisites_descriptions": {
+    "Cross (Vector) Product": "a⃗×b⃗ = |a||b|sinθ n̂; properties; area of parallelogram/triangle",
+    "Determinants": "det(A) for 2×2 and 3×3; Sarrus' rule; cofactor expansion"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Cross (Vector) Product",
+    "Determinants",
+    "Vectors — Introduction",
+    "Types of Vectors",
+    "Addition of Vectors",
+    "Scalar Multiplication of Vectors",
+    "Dot (Scalar) Product"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

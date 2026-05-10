@@ -1,0 +1,64 @@
+{
+  "concept_slug": "functions",
+  "canonical_name": "Functions",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "A relation where each input has exactly one output",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade11 Ch1 — Introduction]\nGeorg Cantor\n(1845-1918)\nThe concept of set serves as a fundamental part of the\npresent day mathematics. Today this concept is being used\nin almost every branch of mathematics. Sets are used to\ndefine the concepts of relations and functions. The study of\ngeometry, sequences, probability, etc. requires the knowledge\nof sets.\nThe theory of sets was developed by German\nmathematician Georg Cantor (1845-1918). He first\nencountered sets while working on “problems on trigonometric\nseries”. In this Chapter, we discuss some basic definitions\nand operations involving sets.\n1.2  Sets and their Representations\n\n[NCERT Grade11 Ch12 — Introduction]\nThis chapter is an introduction to Calculus. Calculus is that\nbranch of mathematics which mainly deals with the study\nof change in the value of a function as the points in the\ndomain change. First, we give an intuitive idea of derivative\n(without actually defining it). Then we give a naive definition\nof limit and study some algebra of limits. Then we come\nback to a definition of derivative and study some algebra\nof derivatives. We also obtain derivatives of certain\nstandard functions.\n12.2  Intuitive Idea of Derivatives\nSir Issac Newton\n\n[NCERT Grade11 Ch2 — Introduction]\nMuch of mathematics is about finding a pattern – a\nrecognisable link between quantities that change. In our\ndaily life, we come across many patterns that characterise\nrelations such as brother and sister, father and son, teacher\nand student. In mathematics also, we come across many\nrelations such as number m is less than number n, line l is\nparallel to line m, set A is a subset of set B. In all these, we\nnotice that a relation involves pairs of objects in certain\norder. In this Chapter, we will learn how to link pairs of\nobjects from two sets and then introduce relations between\nthe two objects in the pair. Finally, we will learn about\nspecial relations which will qualify to be functions. The\nconcept of function is very important in mathematics since it captures the idea of a\nmathematically precise correspondence between one quantity with the other.\n2.2  Cartesian Products of Sets\nG . W.  Leibnitz\n(1646–1716)\n\n[NCERT Grade11 Ch3 — Introduction]\nThe word ‘trigonometry’ is derived from the Greek words\n‘trigon’ and ‘metron’ and it means ‘measuring the sides of\na triangle’. The subject was originally developed to solve\ngeometric problems involving triangles. It was studied by\nsea captains for navigation, surveyor to map out the new\nlands, by engineers and others. Currently, trigonometry is\nused in many areas such as the science of seismology,\ndesigning electric circuits, describing the state of an atom,\npredicting the heights of tides in the ocean, analysing a\nmusical tone and in many other areas.\nIn earlier classes, we have studied the trigonometric\nratios of acute angles as the ratio of the sides of a right\nangled triangle. We have also studied the trigonometric identities and application of\ntrigonometric ratios in solving the problems related to heights and distances. In this\nChapter, we will generalise the concept of trigonometric ratios to trigonometric functions\nand study their properties.\n3.2  Angles\nArya Bhatt\n(476-550)\n\n[NCERT Grade11 Ch2 — Cartesian Products of Sets]\nSuppose A is a set of 2 colours and B is a set of  3 objects, i.e.,\nA = {red, blue}and B = {b, c, s},\nwhere b, c and s represent a particular bag, coat and shirt, respectively.\nHow many pairs of coloured objects can be made from these two sets?\nProceeding in a very orderly manner, we can see that there will be 6\ndistinct pairs as given below:\n(red, b), (red, c), (red, s), (blue, b), (blue, c), (blue, s).\nThus, we get 6 distinct objects (Fig 2.1).\nLet us recall from our earlier classes that an ordered pair of elements\ntaken from any two sets P and Q is a pair of elements written in small\nFig 2.1\nReprint 2025-26\nRELATIONS AND FUNCTIONS          25\nbrackets and grouped together in a particular order, i.e., (p,q), p ∈ P and  q ∈ Q . This\nleads to the following definition:\nDefinition 1 Given two non-empty sets P and Q. The cartesian product P × Q is the\nset of all ordered pairs of elements from P and Q, i.e.,\nP × Q = { (p,q) : p  ∈ P, q  ∈ Q }\nIf either P or Q is the null set, then P × Q wi",
+  "context_sources": [
+    "ncert:grade11/maths/ch1",
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch2",
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch2"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Relations",
+    "Domain, Range and Co-domain"
+  ],
+  "prerequisites_descriptions": {
+    "Relations": "A relation R from A to B is a subset of A × B",
+    "Domain, Range and Co-domain": "Identifying domain, range and co-domain of a relation"
+  },
+  "successors_to_link": [
+    "Types of Functions",
+    "Trigonometric Functions",
+    "Sequences — Introduction",
+    "Limits — Intuitive Idea",
+    "Continuity of Functions",
+    "Random Variables"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Types of Functions",
+    "Trigonometric Functions",
+    "Sequences — Introduction",
+    "Limits — Intuitive Idea",
+    "Continuity of Functions",
+    "Random Variables",
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Complex Numbers",
+    "Algebra of Complex Numbers",
+    "Modulus and Argument of a Complex Number"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

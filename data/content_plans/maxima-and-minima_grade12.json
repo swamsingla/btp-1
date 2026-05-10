@@ -1,0 +1,52 @@
+{
+  "concept_slug": "maxima-and-minima",
+  "canonical_name": "Maxima and Minima",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "First and second derivative tests; absolute max/min on closed interval",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch6 — Maxima and Minima]\nIn this section, we will use the concept of derivatives to calculate the maximum or\nminimum values of  various functions. In fact, we will find the ‘turning points’ of the\ngraph of a function and thus find points at which the graph reaches its highest (or\nReprint 2025-26\nlowest) locally. The knowledge of such points is very useful in sketching the graph of\na given function. Further, we will also find the absolute maximum and absolute minimum\nof a function that are necessary for the solution of many applied problems.\nLet us consider the following problems that arise in day to day life.\n(i)\nThe profit from a grove of orange trees is given by P(x) = ax + bx2, where a,b\nare constants and x is the number of orange trees per acre. How many trees per\nacre will maximise the profit?\n(ii)\nA ball, thrown into the air from a building 60 metres high, travels along a path\ngiven by\n( )\nx\nh x\nx\n=\n+\n−\n, where x is the horizontal distance from the building\nand h(x) is the height of the ball . What is th\n\n[NCERT Grade12 Ch6 — Increasing and Decreasing Functions]\nIn this section, we will use differentiation to find out whether a function is increasing or\ndecreasing or none.\nConsider the function f given by f (x) = x2, x Î R. The graph of this function is a\nparabola  as given in Fig 6.1.\nFig 6.1\nFirst consider the graph (Fig 6.1) to the right of the origin. Observe that as we\nmove from left to right along the graph, the height of the graph continuously increases.\nFor this reason, the function is said to be increasing for the real numbers x > 0.\nNow consider the graph to the left of the origin and observe here that as we move\nfrom left to right along the graph, the height of the graph continuously decreases.\nConsequently, the function is said to be decreasing for the real numbers  x < 0.\nWe shall now give the following analytical definitions for a function which is\nincreasing or decreasing on an interval.\nDefinition 1 Let I be an interval contained in the domain of a real valued function f.\nThen f is said to be\n(i)\nincreasing on I if x1 < x2 in I",
+  "context_sources": [
+    "ncert:grade12/maths/ch6",
+    "ncert:grade12/maths/ch6"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Second Order Derivative",
+    "Increasing and Decreasing Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Second Order Derivative": "d²y/dx²; physical interpretation as acceleration/concavity",
+    "Increasing and Decreasing Functions": "f′(x)>0 ⟹ increasing; f′(x)<0 ⟹ decreasing"
+  },
+  "successors_to_link": [
+    "Applications of Derivatives — Word Problems"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Second Order Derivative",
+    "Increasing and Decreasing Functions",
+    "Applications of Derivatives — Word Problems",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

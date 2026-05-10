@@ -1,0 +1,54 @@
+{
+  "concept_slug": "prime-factorisation",
+  "canonical_name": "Prime Factorisation",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Theory",
+  "description": "Expressing a number as a product of prime factors; factor trees",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch5 — Prime Factorisation]\nChecking if two numbers are co-prime\nTeacher:\n\u0007Are 56 and 63 co-prime?\nAnshu and Guna:\t \u0007If they have a common factor other than 1, then\nthey are not co-prime. Let us check.\nAnshu:\n\u0007I can write 56 = 14 × 4 and 63 = 21 × 3. So, 14 and 4\nare factors, of 56. Further, 21 and 3 are factors of\n63. So, there are no common factors. The numbers\nare co-prime.\nGuna:\n\u0007Hold on. I can also write 56 = 7 × 8 and 63 = 9 × 7.\nWe see that 7 is a factor of both numbers, so, they\nare not co-prime.\nClearly Guna is right, as 7 is a common factor.\nBut where did Anshu go wrong?\nWriting 56 = 14 × 4 tells us that 14 and 4 are both factors of 56, but it\ndoes not tell all the factors of 56. The same holds for the factors of 63.\nTry another example: 80 and 63. There are many ways to factorise\nboth numbers.\n80 = 40 × 2 = 20 × 4 = 10 × 8 = 16 × 5 = ???\n63 = 9 × 7 = 3 × 21 = ???\nWe have written ‘???’ to say that there may be more ways to\nfactorise these numbers. But if we take any of the given factorisations,\nfor exam",
+  "context_sources": [
+    "ncert:grade6/maths/ch5"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Prime Numbers",
+    "Divisibility Rules"
+  ],
+  "prerequisites_descriptions": {
+    "Prime Numbers": "Numbers greater than 1 with exactly two distinct factors",
+    "Divisibility Rules": "Quick tests for divisibility by 2, 3, 4, 5, 6, 8, 9, 10, 11"
+  },
+  "successors_to_link": [
+    "LCM and GCD (HCF)",
+    "Square Numbers",
+    "Cube Roots",
+    "Fundamental Theorem of Arithmetic"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Prime Numbers",
+    "Divisibility Rules",
+    "LCM and GCD (HCF)",
+    "Square Numbers",
+    "Cube Roots",
+    "Fundamental Theorem of Arithmetic",
+    "Even and Odd Numbers",
+    "Factors and Multiples",
+    "Composite Numbers",
+    "Co-prime Numbers",
+    "Euclidean Algorithm"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

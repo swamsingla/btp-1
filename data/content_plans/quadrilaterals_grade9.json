@@ -1,0 +1,60 @@
+{
+  "concept_slug": "quadrilaterals",
+  "canonical_name": "Quadrilaterals",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Geometry",
+  "description": "Four-sided polygons; angle sum = 360°; types of quadrilaterals",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade9 Ch8 — Properties of a Parallelogram]\nYou have already studied quadrilaterals and their types in Class VIII. A quadrilateral\nhas four sides, four angles and four vertices. A parallelogram is a quadrilateral in\nwhich both pairs of opposite sides are parallel.\nLet us perform an activity.\nCut out a parallelogram from a sheet of paper\nand cut it along a diagonal (see Fig. 8.1). You obtain\ntwo triangles. What can you say about these\ntriangles?\nPlace one triangle over the other. Turn one around,\nif necessary. What do you observe?\nObserve that the two triangles are congruent to\neach other.\nRepeat this activity with some more parallelograms. Each time you will observe\nthat each diagonal divides the parallelogram into two congruent triangles.\nLet us now prove this result.\nTheorem 8.1 : A diagonal of a parallelogram divides it into two congruent\ntriangles.\nProof : Let ABCD be a parallelogram and AC be a diagonal (see Fig. 8.2). Observe\nthat the diagonal AC divides parallelogram ABCD into two triangles, namely, ∆ ABC\nand ∆ CDA. We ne\n\n[NCERT Grade9 Ch8 — The Mid-point Theorem]\nYou have studied many properties of a triangle as well as a quadrilateral. Now let us\nstudy yet another result which is related to the mid-point of sides of a triangle. Perform\nthe following activity.\nDraw a triangle and mark the mid-points E and F of two sides of the triangle. Join\nthe points E and F (see Fig. 8.15).\nMeasure EF and BC. Measure ∠ AEF and ∠ ABC.\nWhat do you observe? You will find that :\nEF = 1\n2  BC and ∠ AEF = ∠ ABC\nso,\nEF || BC\nRepeat this activity with some more triangles.\nSo, you arrive at the following theorem:\nFig. 8.15\nReprint 2025-26\nTheorem 8.8 : The line segment joining the mid-points of two sides of a triangle\nis parallel to the third side.\nYou can prove this theorem using the following\nclue:\nObserve Fig 8.16 in which E and F are mid-points\nof AB and AC respectively and CD || BA.\n∆ AEF ≅∆ CDF\n(ASA Rule)\nSo,\nEF = DF and BE = AE = DC\n(Why?)\nTherefore, BCDE is a parallelogram.\n(Why?)\nThis gives EF || BC.\nIn this case, also note that EF = 1\n2  ED = 1\n2 BC.\nCan yo\n\n[NCERT Grade9 Ch9 — Cyclic Quadrilaterals]\nA quadrilateral ABCD is called cyclic if all the four vertices\nof it lie on a circle (see Fig 9.18). You will find a peculiar\nproperty in such quadrilaterals. Draw several cyclic\nquadrilaterals of different sides and name each of these\nas ABCD. (This can be done by drawing several circles\nof different radii and taking four points on each of them.)\nMeasure the opposite angles and write your observations\nin the following table.\nS.No. of Quadrilateral\n∠ A\n∠ B\n∠ C\n∠ D\n∠ A +∠ C\n∠ B +∠ D\n1.\n2.\n3.\n4.\n5.\n6.\nWhat do you infer from the table?\nFig. 9.18\nReprint 2025-26\nYou find that ∠A + ∠C = 180° and ∠B + ∠D = 180°, neglecting the error in\nmeasurements. This verifies the following:\nTheorem 9.10 : The sum of either pair of opposite angles of a cyclic quadrilateral\nis 180º.\nIn fact, the converse of this theorem, which is stated below is also true.\nTheorem 9.11 : If the sum of a pair of opposite angles of a quadrilateral is 180º,\nthe quadrilateral is cyclic.\nYou can see the truth of this theorem by",
+  "context_sources": [
+    "ncert:grade9/maths/ch8",
+    "ncert:grade9/maths/ch8",
+    "ncert:grade9/maths/ch9"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angle Sum Property of a Triangle",
+    "Types of Angles and Angle Pairs"
+  ],
+  "prerequisites_descriptions": {
+    "Angle Sum Property of a Triangle": "Sum of interior angles of a triangle equals 180°",
+    "Types of Angles and Angle Pairs": "Acute, right, obtuse, straight, reflex; complementary and supplementary"
+  },
+  "successors_to_link": [
+    "Properties of Parallelogram",
+    "Kite and Trapezium Properties",
+    "Visualising 3D Shapes",
+    "Cyclic Quadrilaterals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Angle Sum Property of a Triangle",
+    "Types of Angles and Angle Pairs",
+    "Properties of Parallelogram",
+    "Kite and Trapezium Properties",
+    "Visualising 3D Shapes",
+    "Cyclic Quadrilaterals",
+    "Parallel Lines and Transversals",
+    "Properties of Triangles",
+    "Congruence of Triangles",
+    "Similar Triangles",
+    "Constructions of Triangles",
+    "Pythagorean Theorem",
+    "Circles — Basic Properties"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

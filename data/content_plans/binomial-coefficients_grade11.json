@@ -1,0 +1,43 @@
+{
+  "concept_slug": "binomial-coefficients",
+  "canonical_name": "Properties of Binomial Coefficients",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "Pascal's triangle; symmetry; sum of coefficients",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nIn mathematics, the binomial coefficients are the positive integers that occur as coefficients in the binomial theorem. Commonly, a binomial coefficient is indexed by a pair of integers n ≥ k ≥ 0 and is written  or ⁠⁠. It is the coefficient of the xk term in the polynomial expansion of the binomial power (1 + x)n; this coefficient can be computed by the multiplicative formula",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Binomial Theorem"
+  ],
+  "prerequisites_descriptions": {
+    "Binomial Theorem": "(a+b)ⁿ expansion; general term; middle term"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Binomial Theorem",
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Functions",
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Complex Numbers",
+    "Algebra of Complex Numbers"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

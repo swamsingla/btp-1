@@ -1,0 +1,46 @@
+{
+  "concept_slug": "constructions-triangles",
+  "canonical_name": "Constructions of Triangles",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Geometry",
+  "description": "Constructing triangles given SSS, SAS, ASA conditions",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade9 Ch7 — Congruence of Triangles]\nYou must have observed that two copies of your photographs of the same size are\nidentical. Similarly, two bangles of the same size, two ATM cards issued by the same\nbank are identical. You may recall that on placing a one rupee coin on another minted\nin the same year, they cover each other completely.\nDo you remember what such figures are called? Indeed they are called congruent\nfigures (‘congruent’ means equal in all respects or figures whose shapes and sizes\nare both the same).\nNow, draw two circles of the same radius and place one on the other. What do\nyou observe? They cover each other completely and we call them as congruent circles.\nReprint 2025-26\nRepeat this activity by placing one\nsquare on the other with sides of the same\nmeasure (see Fig. 7.2) or by placing two\nequilateral triangles of equal sides on each\nother. You will observe that the squares are\ncongruent to each other and so are the\nequilateral triangles.\nYou may wonder why we are studying congruence. You all must have \n\n[NCERT Grade9 Ch7 — Criteria for Congruence of Triangles]\nIn earlier classes, you have learnt four criteria for congruence of triangles. Let us\nrecall them.\nDraw two triangles with one side 3 cm. Are these triangles congruent? Observe\nthat they are not congruent (see Fig. 7.5).\nFig. 7.5\nNow, draw two triangles with one side 4 cm and one angle 50° (see Fig. 7.6). Are\nthey congruent?\nFig. 7.6\nReprint 2025-26\nTRIANGLES\nSee that these two triangles are not congruent.\nRepeat this activity with some more pairs of triangles.\nSo, equality of one pair of sides or one pair of sides and one pair of angles is not\nsufficient to give us congruent triangles.\nWhat would happen if the other pair of arms (sides) of the equal angles are also\nequal?\nIn Fig 7.7, BC = QR, ∠ B = ∠ Q and also, AB = PQ. Now, what can you say\nabout congruence of ∆ABC and ∆PQR?\nRecall from your earlier classes that, in this case, the two triangles are congruent.\nVerify this for ∆ ABC and ∆ PQR in Fig. 7.7.\nRepeat this activity with other pairs of triangles. Do you observe that the equa",
+  "context_sources": [
+    "ncert:grade9/maths/ch7",
+    "ncert:grade9/maths/ch7"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Basic Geometric Constructions",
+    "Congruence of Triangles"
+  ],
+  "prerequisites_descriptions": {
+    "Basic Geometric Constructions": "Using compass and straightedge to construct angles, bisectors and perpendiculars",
+    "Congruence of Triangles": "SSS, SAS, ASA, AAS, RHS criteria for triangle congruence"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Basic Geometric Constructions",
+    "Congruence of Triangles",
+    "Parallel Lines and Transversals",
+    "Properties of Triangles",
+    "Similar Triangles",
+    "Quadrilaterals",
+    "Properties of Parallelogram",
+    "Pythagorean Theorem",
+    "Circles — Basic Properties"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

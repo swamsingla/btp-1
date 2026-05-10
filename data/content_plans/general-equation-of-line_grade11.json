@@ -1,0 +1,42 @@
+{
+  "concept_slug": "general-equation-of-line",
+  "canonical_name": "General Equation of a Line",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "ax+by+c=0; converting between forms",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Equation of a Straight Line"
+  ],
+  "prerequisites_descriptions": {
+    "Equation of a Straight Line": "Point-slope, slope-intercept, two-point, intercept forms"
+  },
+  "successors_to_link": [
+    "Distance of a Point from a Line"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Equation of a Straight Line",
+    "Distance of a Point from a Line",
+    "Slope of a Line",
+    "Angle Between Two Lines",
+    "Family of Lines",
+    "Equation of a Circle",
+    "Conic Sections — Introduction",
+    "Parabola"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,5357 @@
+{
+  "subject": "maths",
+  "total_concepts": 144,
+  "total_edges": 145,
+  "concepts": {
+    "mathematics-as-a-problem-solving-tool": {
+      "canonical_name": "Mathematics as a Problem-Solving Tool",
+      "slug": "mathematics-as-a-problem-solving-tool",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "relations-among-number-sequences": {
+      "canonical_name": "Relations Among Number Sequences",
+      "slug": "relations-among-number-sequences",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Number Systems",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "number-patterns",
+        "patterns-in-numbers",
+        "patterns-of-numbers-on-number-line",
+        "perimeter",
+        "reading-and-evaluating-algebraic-expressions",
+        "types-of-triangles"
+      ],
+      "leads_to": [],
+      "related": [
+        "properties-of-a-circle",
+        "surface-area-of-a-prism",
+        "three-dimensional-geometry"
+      ],
+      "see_also": []
+    },
+    "perimeter-and-area-of-rectangles": {
+      "canonical_name": "Perimeter and Area of Rectangles",
+      "slug": "perimeter-and-area-of-rectangles",
+      "_aliases": [
+        "Bela's Building of Fun"
+      ],
+      "domain": "Geometry",
+      "area": "Properties of Rectangles ",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance-by-grade": {
+        "6": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "bar-graphs",
+        "between-lines",
+        "decimals",
+        "equal-sets",
+        "fun-with-grids",
+        "three-dimensional-geometry",
+        "visualising-data"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "explorations-with-integer-properties": {
+      "canonical_name": "Explorations with Integer Properties",
+      "slug": "explorations-with-integer-properties",
+      "aliases": [],
+      "domain": "Number Systems",
+      "area": "Integer Properties",
+      "_parent": "number-systems",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "angle": {
+      "canonical_name": "Angle",
+      "slug": "angle",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "numbers-tell-us-things",
+        "special-types-of-angle"
+      ],
+      "leads_to": [
+        "angle-between-two-lines",
+        "bar-graphs",
+        "between-lines",
+        "decimals",
+        "drawing-parallel-lines",
+        "equal-sets",
+        "patterns-in-numbers",
+        "prime-factorisation",
+        "tiling",
+        "types-of-angles",
+        "visualising-data"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "special-types-of-angle": {
+      "canonical_name": "Special Types of Angl",
+      "slug": "special-types-of-angle",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Angles",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance-by-grade": {
+        "6": 5
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angles-of-isoselestriangle"
+      ],
+      "leads_to": [
+        "angle",
+        "equal-sets",
+        "fun-with-grids",
+        "mensuration",
+        "prime-factorisation",
+        "properties-of-a-circle",
+        "real-numbers",
+        "three-dimensional-geometry",
+        "time-and-speed"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "types-of-angles": {
+      "canonical_name": "Types of Angles",
+      "slug": "types-of-angles",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Angles",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle",
+        "numbers-tell-us-things",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "patterns-of-numbers-on-number-line": {
+      "canonical_name": "Patterns of Numbers on Number Line",
+      "slug": "patterns-of-numbers-on-number-line",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "Understanding Place Value and Relationships",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "algebraic-expressions",
+        "arithmetic-progressions",
+        "geometric-progressions",
+        "polynomial-in-one-variable",
+        "real-numbers",
+        "relations-among-number-sequences",
+        "statistics-and-graphs",
+        "the-empty-set"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "the-magic-number-of-gaurav-bhatnagar": {
+      "canonical_name": "The Magic Number of Gaurav Bhatnagar",
+      "slug": "the-magic-number-of-gaurav-bhatnagar",
+      "aliases": [
+        "Kaprekar number",
+        "The magic number"
+      ],
+      "domain": "Number Theory",
+      "area": "Divisibility Rules",
+      "parent": "",
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "number-patterns": {
+      "canonical_name": "Number Patterns",
+      "slug": "number-patterns",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Patterns and Relationships",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "patterns-in-numbers"
+      ],
+      "leads_to": [
+        "arithmetic-progressions",
+        "geometric-progressions",
+        "real-numbers",
+        "relations-among-number-sequences",
+        "statistics-and-graphs"
+      ],
+      "related": [
+        "ratios-and-proportionate-relationships",
+        "reading-and-evaluating-algebraic-expressions"
+      ],
+      "see_also": []
+    },
+    "probability-through-coin-tossing": {
+      "canonical_name": "Probability Through Coin Tossing",
+      "slug": "probability-through-coin-tossing",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Statistics and Probability",
+      "parent": "statistics-and-probability",
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "conditional-probability"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "bar-graphs": {
+      "canonical_name": "Bar Graphs",
+      "slug": "bar-graphs",
+      "_aliases": [
+        "Comparative Bar Graphs",
+        "Vertical Bar Graphs"
+      ],
+      "domain": "Mathematics",
+      "area": "Data Representation",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 5,
+        "9": 5,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle",
+        "area-and-perimeter-formulae-for-circles",
+        "patterns-in-numbers",
+        "perimeter-and-area-of-rectangles",
+        "properties-of-a-circle",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "common-multiples-and-factors": {
+      "canonical_name": "Common Multiples and Factors",
+      "slug": "common-multiples-and-factors",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "Multiples and Factors ",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "prime-factorisation": {
+      "canonical_name": "Prime Factorisation",
+      "slug": "prime-factorisation",
+      "_aliases": [
+        "Factorisation",
+        "Factors"
+      ],
+      "domain": "Number Systems",
+      "area": "Algebraic Expressions",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle",
+        "area-and-perimeter-formulae-for-circles",
+        "patterns-in-numbers",
+        "properties-of-a-circle",
+        "special-types-of-angle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "perimeter": {
+      "canonical_name": "Perimeter",
+      "slug": "perimeter",
+      "_aliases": [
+        "boundary length",
+        "outer distance"
+      ],
+      "domain": "Geometry",
+      "area": "Properties of Polygons",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 4,
+        "8": 3
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "numbers-tell-us-things"
+      ],
+      "leads_to": [
+        "land-of-tens",
+        "relations-among-number-sequences",
+        "statistics-and-graphs"
+      ],
+      "related": [
+        "special-types-of-angle"
+      ],
+      "see_also": []
+    },
+    "fractional-units-and-equality": {
+      "canonical_name": "Fractional Units and Equality",
+      "slug": "fractional-units-and-equality",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Fractions",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mixed-fractions": {
+      "canonical_name": "Mixed Fractions",
+      "slug": "mixed-fractions",
+      "_aliases": [
+        "Understanding Mixed Numbers",
+        "Adding and subtracting mixed numbers"
+      ],
+      "domain": "Number Systems",
+      "area": "Fractions and Decimals",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "some-problems-involving-fractions"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "addition-and-subtraction-of-fractions": {
+      "canonical_name": "Addition and Subtraction Of Fractions",
+      "slug": "addition-and-subtraction-of-fractions",
+      "_aliases": [
+        "Adding fractions",
+        "Subtracting fractions"
+      ],
+      "domain": "Number Systems",
+      "area": "Fractions",
+      "__parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "real-numbers"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "constructing-squares-and-rectangles": {
+      "canonical_name": "Constructing Squares And Rectangles",
+      "slug": "constructing-squares-and-rectangles",
+      "_aliases": [
+        "Square Construction",
+        "Rectangle Formation"
+      ],
+      "domain": "Geometry",
+      "area": "Plane Geometry",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "points-equidistant-from-two-given-points": {
+      "canonical_name": "Points Equidistant From Two Given Points",
+      "slug": "points-equidistant-from-two-given-points",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ratios-and-proportionate-relationships": {
+      "canonical_name": "Ratios and Proportionate Relationships",
+      "slug": "ratios-and-proportionate-relationships",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Number Systems and Algebra",
+      "parent": "",
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "real-numbers"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "decimals-and-fraactions": {
+      "canonical_name": "Decimals and Fraactions",
+      "slug": "decimals-and-fraactions",
+      "_aliases": [
+        "Fractions and Decimals",
+        "Comparing Decimals and Fracions"
+      ],
+      "domain": "Maths",
+      "area": "Number Systems",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_b_y_gra_de": {
+        "6": 5,
+        "7": 4,
+        "8": 5,
+        "9": 4,
+        "10": 5,
+        "11": 4,
+        "12": 5
+      },
+      "source_board_s": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "time-and-speed": {
+      "canonical_name": "Time and Speed",
+      "slug": "time-and-speed",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Speed and Distance",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "circumference-of-a-circle",
+        "numbers-tell-us-things",
+        "properties-of-a-circle",
+        "special-types-of-angle"
+      ],
+      "leads_to": [],
+      "related": [
+        "patterns-of-numbers-on-number-line",
+        "ratios-and-proportionate-relationships"
+      ],
+      "see_also": []
+    },
+    "area-and-perimeter-in-rectilinear-figures": {
+      "canonical_name": "Area and Perimeter in Rectilinear Figures",
+      "slug": "area-and-perimeter-in-rectilinear-figures",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "area-and-perimeter-formulae-for-circles": {
+      "canonical_name": "Area and Perimeter Formulae for Circles",
+      "slug": "area-and-perimeter-formulae-for-circles",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Geometry",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "arithmetic-progressions",
+        "bar-graphs",
+        "cartesian-plane",
+        "circumference-of-a-circle",
+        "complex-numbers",
+        "decimals",
+        "distance-formula",
+        "land-of-tens",
+        "mensuration",
+        "methods-of-integration",
+        "nature-of-roots",
+        "prime-factorisation",
+        "probability-of-an-event",
+        "real-numbers",
+        "similar-figures",
+        "statistics-and-graphs",
+        "three-dimensional-geometry",
+        "time-and-speed",
+        "trigonometry",
+        "various-forms"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "properties-of-a-circle": {
+      "canonical_name": "Properties of a Circle",
+      "slug": "properties-of-a-circle",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Circles",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-of-trapezimum",
+        "circumference-of-a-circle",
+        "special-types-of-angle"
+      ],
+      "leads_to": [
+        "algebraic-expressions",
+        "angles",
+        "bar-graphs",
+        "cartesian-plane",
+        "complex-numbers",
+        "decimals",
+        "distance-formula",
+        "drawing-parallel-lines",
+        "integration-by-parts",
+        "mensuration",
+        "methods-of-integration",
+        "nature-of-roots",
+        "polynomial-in-one-variable",
+        "prime-factorisation",
+        "probability-of-an-event",
+        "quadrilateral",
+        "real-numbers",
+        "similar-figures",
+        "statistics-and-graphs",
+        "time-and-speed",
+        "trigonometry",
+        "types-of-angles",
+        "types-of-vectors",
+        "venn-diagrams"
+      ],
+      "related": [
+        "types-of-triangles"
+      ],
+      "see_also": []
+    },
+    "surface-area-of-a-prism": {
+      "canonical_name": "Surface Area of a Prism",
+      "slug": "surface-area-of-a-prism",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Properties of Prisms",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "mensuration",
+        "random-experiments",
+        "real-numbers",
+        "statistics-and-graphs",
+        "types-of-vectors"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "properties-of-a-frustom": {
+      "canonical_name": "Properties of a Frustom",
+      "slug": "properties-of-a-frustom",
+      "_aliases": [
+        "Frustom properties"
+      ],
+      "domain": "Geometry",
+      "area": "Surface Areas and Volumes of Solids",
+      "parent": "surface-areas-and-volumes-of-solids",
+      "_grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "_importance_by_grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "_source_boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "properties-of-a-spherically-shaped-solid": {
+      "canonical_name": "Properties of a Spherically Shaped Solid",
+      "slug": "properties-of-a-spherically-shaped-solid",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Surface Areas and Volumes of Solids",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "land-of-tens": {
+      "canonical_name": "Land of Tens",
+      "slug": "land-of-tens",
+      "_aliases": [],
+      "domain": "Number System",
+      "area": "Decimals and Fractions",
+      "parent": "number-system",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "perimeter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "patterns-in-numbers": {
+      "canonical_name": "Patterns in Numbers",
+      "slug": "patterns-in-numbers",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance_BY_GRADE": {
+        "7": 1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle"
+      ],
+      "leads_to": [
+        "arithmetic-progressions",
+        "bar-graphs",
+        "decimals",
+        "number-patterns",
+        "prime-factorisation",
+        "relations-among-number-sequences",
+        "statistics-and-graphs"
+      ],
+      "related": [
+        "number-patterns",
+        "patterns-of-numbers-on-number-line"
+      ],
+      "see_also": []
+    },
+    "reading-and-evaluating-algebraic-expressions": {
+      "canonical_name": "Reading and Evaluating Algebraic Expressions",
+      "slug": "reading-and-evaluating-algebraic-expressions",
+      "aliases": [],
+      "domain": "Algebra",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7,
+        9
+      ],
+      "importance_BY_GRADE": {
+        "7": 4,
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "algebraic-expressions",
+        "arithmetic-progressions",
+        "relations-among-number-sequences",
+        "statistics-and-graphs"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "a-hundredth-part": {
+      "canonical_name": "A Hundredth Part",
+      "slug": "a-hundredth-part",
+      "aliases": [],
+      "domain": "Fractions",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance_BY_GRADE": {
+        "7": 1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "decimals"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "decimal-place-value": {
+      "canonical_name": "Decimal Place Value",
+      "slug": "decimal-place-value",
+      "dOmain": "Decimals",
+      "aRea": "",
+      "pArent": "",
+      "gRaDes": [
+        7
+      ],
+      "imPoRtAnCe_By_grAdE": {
+        "7": 5
+      },
+      "sOurCe_bOrDs": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "locating-and-comparing-decimals": {
+      "canonical_name": "Locating and Comparng Decimals",
+      "slug": "locating-and-comparing-decimals",
+      "_aliases": [
+        "Decimals Comparison",
+        "Decimal Placement"
+      ],
+      "domain": "Number Systems",
+      "area": "Decimals",
+      "__parent__": "number-systems",
+      "grades": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "the-notion-of-number-line": {
+      "canonical_name": "The Notion of Number-Line",
+      "slug": "the-notion-of-number-line",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "Representation of Numbers on a Line",
+      "parent": "number-system",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "pick-patterns-and-reconstruct-relationships": {
+      "canonical_name": "Pick Patterns and Reconstruct Relationships",
+      "slug": "pick-patterns-and-reconstruct-relationships",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance_BY_GRADE": {
+        "7": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "between-lines": {
+      "canonical_name": "Between Lines",
+      "slug": "between-lines",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Coordinate Geometry",
+      "parent": "coordinate-geometry",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle",
+        "perimeter-and-area-of-rectangles"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "drawing-parallel-lines": {
+      "canonical_name": "Drawing Parallel Lines",
+      "slug": "drawing-parallel-lines",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Lines and Angles",
+      "parent": "lines-and-angles",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "numbers-tell-us-things": {
+      "canonical_name": "Numbers Tell Us Things",
+      "slug": "numbers-tell-us-things",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "Basic Concepts",
+      "parent": "number-system",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "angle",
+        "perimeter",
+        "real-numbers",
+        "time-and-speed",
+        "types-of-angles"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "natures-favourite-sequence": {
+      "canonical_name": "Nature's Favourite Sequence",
+      "slug": "natures-favourite-sequence",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance_By_Grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "types-of-triangles": {
+      "canonical_name": "Types of Triangles",
+      "slug": "types-of-triangles",
+      "_aliases": [
+        "Triangle Types"
+      ],
+      "domain": "Geometry",
+      "area": "Properties of Triangles ",
+      "parent": "properties-of-trianges",
+      "grades": [
+        7,
+        9,
+        10,
+        12
+      ],
+      "importance by grade": {
+        "7": 5,
+        "9": 4,
+        "10": 3,
+        "12": 2
+      },
+      "source boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "arithmetic-progressions",
+        "binomial-theorem",
+        "quadrilateral",
+        "relations-among-number-sequences",
+        "three-dimensional-geometry"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "some-problems-involving-fractions": {
+      "canonical_name": "Some Problems Involvings Fractions",
+      "slug": "some-problems-involving-fractions",
+      "_aliases": [],
+      "domain": "Number Systems",
+      "area": "Fractions",
+      "__parent": "number-systems",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source-boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "mixed-fractions"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "angles-of-isoselestriangle": {
+      "canonical_name": "Angles of Isoscelestright triangles",
+      "slug": "angles-of-isoselestriangle",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance_By_Grade": {
+        "7": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "special-types-of-angle"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "the-greatest-of-all": {
+      "canonical_name": "The Greatest of All",
+      "slug": "the-greatest-of-all",
+      "aliases": [],
+      "domain": "Number Systems",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance_BY_GRADE": {
+        "7": 1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "decimals": {
+      "canonical_name": "Decimals",
+      "slug": "decimals",
+      "_aliases": [
+        "Quotients",
+        "Fractions"
+      ],
+      "domain": "Number System",
+      "area": "Decimal Operations",
+      "parent": "number-system",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "a-hundredth-part",
+        "angle",
+        "area-and-perimeter-formulae-for-circles",
+        "patterns-in-numbers",
+        "perimeter-and-area-of-rectangles",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "look-before-you-leap": {
+      "canonical_name": "Look Before You Leap!",
+      "slug": "look-before-you-leap",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance_BY_GRADE": {
+        "7": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "visualising-data": {
+      "canonical_name": "Visualising Data",
+      "slug": "visualising-data",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Statistics and Probability",
+      "parent": "statistics-and-probability",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle",
+        "perimeter-and-area-of-rectangles"
+      ],
+      "leads_to": [],
+      "related": [
+        "area-and-perimeter-formulae-for-circles",
+        "patterns-of-numbers-on-number-line"
+      ],
+      "see_also": []
+    },
+    "tiling": {
+      "canonical_name": "Tiling",
+      "slug": "tiling",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Plane Geometry",
+      "parent": "plane-geometry",
+      "grades": [
+        7
+      ],
+      "importance_BY_GRADE": {
+        "7": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mind-the-mistake-mend-the-mistakes": {
+      "canonical_name": "Mind the Mistake Mend the Mistakes",
+      "slug": "mind-the-mistake-mend-the-mistakes",
+      "_aliases": [],
+      "domain": "Mathematics",
+      "area": "Reasoning Skills",
+      "parent": null,
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "area-of-trapezimum": {
+      "canonical_name": "Area of Trapezimum",
+      "slug": "area-of-trapezimum",
+      "_aliases": [
+        "Trapezium Area",
+        "Area of Trapeizum"
+      ],
+      "domain": "Geometry",
+      "area": "Quadrilaterals",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5,
+        "8": "",
+        "9": "",
+        "10": "",
+        "11": "",
+        "12": ""
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "properties-of-a-circle"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "circumference-of-a-circle": {
+      "canonical_name": "Circumference of a Circle",
+      "slug": "circumference-of-a-circle",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Circle Properties",
+      "parent": "circle-properties",
+      "grades": [
+        7,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "7": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles"
+      ],
+      "leads_to": [
+        "methods-of-integration",
+        "properties-of-a-circle",
+        "statistics-and-graphs",
+        "time-and-speed"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "area-under-curve-by-integration": {
+      "canonical_name": "Area Under Curve by integration",
+      "slug": "area-under-curve-by-integration",
+      "domeIN": "Calculus",
+      "aREa": "Integration Applications",
+      "PARENT": "integration-applications",
+      "gRADES": [
+        8,
+        11
+      ],
+      "ImpoRtANCE_BY_GRADE": {
+        "8": 3,
+        "11": 2
+      },
+      "sOuRCe_BOARds": [
+        "icse"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mean-deviation": {
+      "canonical_name": "Mean Deviation",
+      "slug": "mean-deviation",
+      "_aliases": [
+        "Absolute Deviation"
+      ],
+      "domain": "Statistics",
+      "area": "Measures of Dispersion",
+      "parent": "measures-of-dispersion",
+      "_grades": [
+        7,
+        10
+      ],
+      "_importance_byGrade": {
+        "7": 5,
+        "10": 4
+      },
+      "_sourceBoards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "probability-as-a-measure": {
+      "canonical_name": "Probability as a Measure",
+      "slug": "probability-as-a-measure",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "random-experiments": {
+      "canonical_name": "Random Experiments",
+      "slug": "random-experiments",
+      "_aliases": [],
+      "domain": "Statistics",
+      "area": "Probability and Statistics",
+      "parent": "probability-and-statistics",
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "surface-area-of-a-prism"
+      ],
+      "leads_to": [
+        "probability-of-an-event"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "cubic-numbers": {
+      "canonical_name": "Cubic Numbers",
+      "slug": "cubic-numbers",
+      "aliases": [],
+      "domain": "Number Systems",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "integration-by-parts",
+        "quadrilateral",
+        "real-numbers"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "the-other-side-of-numbers": {
+      "canonical_name": "The Other Side of Numbers",
+      "slug": "the-other-side-of-numbers",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "Real Numbers",
+      "_parent": "real-numbers",
+      "grd": [
+        8
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "reemas-curiosity": {
+      "canonical_name": "Reema's Curiosity",
+      "slug": "reemas-curiosity",
+      "_aliases": [],
+      "domain": "",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_By_Grade": {
+        "8": 0
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "rectangles-and-squeres": {
+      "canonical_name": "Rectangles and Squeres",
+      "slug": "rectangles-and-squeres",
+      "_aliases": [
+        "Rectangle-Square",
+        "R+S"
+      ],
+      "domain": "Geometry",
+      "area": "Quadrilaterals",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "quadrilateral": {
+      "canonical_name": "Quadrilateral",
+      "slug": "quadrilateral",
+      "aliases": [
+        "Kite",
+        "Trapezium",
+        "Parallelogram",
+        "Rhombus",
+        "Square",
+        "Rectangle"
+      ],
+      "domain": "Geometry",
+      "area": "Properties of Quadrilaterals",
+      "parent": "geometry",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 2,
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 0,
+        "12": 6
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "cubic-numbers",
+        "properties-of-a-circle",
+        "properties-of-a-parallelogram",
+        "types-of-triangles",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "checking-divisibility": {
+      "canonical_name": "Checking Divisibility",
+      "slug": "checking-divisibility",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_By_Grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "properties-of-multiplication": {
+      "canonical_name": "Properties of Multiplication",
+      "aliasing": "properties-of-multiplication",
+      "Aliases": [],
+      "Domain": "Arithmetic Operations",
+      "Area": "",
+      "Parent": "",
+      "Graes": [
+        8
+      ],
+      "Importance_By_GradE": {
+        "8": 4
+      },
+      "Source_BoardS": [
+        "NCERT"
+      ],
+      "slug": "properties-of-multiplication",
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "this-way-or-that-way-all-ways-lead-to-the-bay": {
+      "canonical_name": "This Way or That way, All ways lead to the bay",
+      "slug": "this-way-or-that-way-all-ways-lead-to-the-bay",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Similar Triangles",
+      "parent": "similar-triangles",
+      "_id": "similarity-in-change",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ratios-in-their-simplest-form": {
+      "canonical_name": "Ratios in Their Simplest Form",
+      "slug": "ratios-in-their-simplest-form",
+      "aliases": [],
+      "domain": "Number Systems",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "unit-conversions": {
+      "canonical_name": "Unit Conversions",
+      "slug": "unit-conversions",
+      "_aliases": [
+        "Conversion Factors",
+        "Dimensional Analysis"
+      ],
+      "domain": "Maths",
+      "area": "Measurement and Conversion",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "percentages": {
+      "canonical_name": "Percentages",
+      "slug": "percentages",
+      "_aliases": [
+        "Percentage"
+      ],
+      "domain": "Maths",
+      "area": "Fractions and Decimals",
+      "parent": "fractions-and-decimals",
+      "_grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "_importance_by-grade": {
+        "8": 4,
+        "9": 5,
+        "10": 4,
+        "11": 3,
+        "12": 2
+      },
+      "_source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "hypotenuse-of-a-right-triangle": {
+      "canonical_name": "Hypotenuse of a Right Triangle",
+      "slug": "hypotenuse-of-a-right-triangle",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Right Triangles",
+      "parent": "right-triangles",
+      "_id": "rt-hypotenuse",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "baudhayana-sulva-sutra": {
+      "canonical_name": "Baudhayana Sulva Sutra",
+      "slug": "baudhayana-sulva-sutra",
+      "_aliases": [
+        "Baudhaayana Sulva sutra",
+        "Ancient Indian Mathematics"
+      ],
+      "domain": "Number Systems",
+      "area": "History of Mathematics",
+      "parent": "",
+      "grades": [
+        8,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "12": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ratios-in-maps": {
+      "canonical_name": "Ratios in Maps",
+      "slug": "ratios-in-maps",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Similar Triangles",
+      "parent": "similar-triangles",
+      "_id": null,
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "a-slice-of-the-pizza": {
+      "canonical_name": "A Slice of the Pizza",
+      "slug": "a-slice-of-the-pizza",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_By_Grade": {
+        "8": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "visualising-solids": {
+      "canonical_name": "Visualising Solids",
+      "slug": "visualising-solids",
+      "_aliases": [
+        "Solid Shapes",
+        "Solids"
+      ],
+      "domain": "Geometry",
+      "area": "Three Dimensional Geometry",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "algebraic-expressions": {
+      "canonical_name": "Algebraic Expressions",
+      "slug": "algebraic-expressions",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Number Systems",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "8": 1,
+        "9": 2,
+        "10": 3,
+        "11": 4,
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "lines-parallel-to-the-same-line",
+        "patterns-of-numbers-on-number-line",
+        "properties-of-a-circle",
+        "properties-of-a-parallelogram",
+        "reading-and-evaluating-algebraic-expressions"
+      ],
+      "leads_to": [],
+      "related": [
+        "number-patterns",
+        "patterns-of-numbers-on-number-line"
+      ],
+      "see_also": []
+    },
+    "fun-with-grids": {
+      "canonical_name": "Fun with Grids",
+      "slug": "fun-with-grids",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Visualising Shapes",
+      "parent": "visualising-shapes",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "perimeter-and-area-of-rectangles",
+        "special-types-of-angle"
+      ],
+      "leads_to": [],
+      "related": [
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "see_also": []
+    },
+    "arithmetic-progressions": {
+      "canonical_name": "Arithmetic Progressions",
+      "slug": "arithmetic-progressions",
+      "_aliases": [],
+      "domain": "Algebra",
+      "area": "Sequences and Series",
+      "parent": "sequences-and-series",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "number-patterns",
+        "patterns-in-numbers",
+        "patterns-of-numbers-on-number-line",
+        "reading-and-evaluating-algebraic-expressions",
+        "types-of-triangles"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "three-dimensional-geometry": {
+      "canonical_name": "Three Dimensional Geometry",
+      "slug": "three-dimensional-geometry",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Coordinate Geometry",
+      "_parent": "coordinate-geometry",
+      "grades": [
+        8,
+        10,
+        12
+      ],
+      "importance by grade": {
+        "8": 5,
+        "10": 4,
+        "12": 3
+      },
+      "source boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "perimeter-and-area-of-rectangles",
+        "special-types-of-angle",
+        "types-of-triangles"
+      ],
+      "leads_to": [
+        "complex-numbers",
+        "statistics-and-graphs"
+      ],
+      "related": [
+        "coordinate-axes-and-coordinate-plans-in-three-dimension-space",
+        "introduction-to-coordinate-geometry"
+      ],
+      "see_also": []
+    },
+    "mensuration": {
+      "canonical_name": "Mensuration",
+      "slug": "mensuration",
+      "_aliases": [],
+      "domain": "Geometry",
+      "area": "Plane Geometry",
+      "parent": "plane-geometry",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle",
+        "special-types-of-angle",
+        "surface-area-of-a-prism",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "leads_to": [],
+      "related": [
+        "properties-of-a-spherically-shaped-solid",
+        "surface-area-of-a-prism",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "see_also": []
+    },
+    "real-numbers": {
+      "canonical_name": "Real Numbers",
+      "slug": "real-numbers",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "Introduction to Real Numbers",
+      "_parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 5,
+        "10": 4,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "addition-and-subtraction-of-fractions",
+        "area-and-perimeter-formulae-for-circles",
+        "cubic-numbers",
+        "number-patterns",
+        "numbers-tell-us-things",
+        "patterns-of-numbers-on-number-line",
+        "properties-of-a-circle",
+        "ratios-and-proportionate-relationships",
+        "special-types-of-angle",
+        "surface-area-of-a-prism"
+      ],
+      "leads_to": [],
+      "related": [
+        "probability-through-coin-tossing",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "see_also": []
+    },
+    "addition-and-subtraction-of-real-numbers": {
+      "canonical_name": "Addition and Subtraction Of Real Numbers",
+      "slug": "addition-and-subtraction-of-real-numbers",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Real Numbers",
+      "_parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "area-of-a-triangle-by-herons-formula": {
+      "canonical_name": "Area of a Triangle -- by Heron's Formula",
+      "slug": "area-of-a-triangle-by-herons-formula",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Properties of Triangles",
+      "parent": "geometry",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "volume-of-a-right-circular-cone": {
+      "canonical_name": "Volume of a RightCircularCone",
+      "slug": "volume-of-a-right-circular-cone",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Volumes of Cones and Spheres",
+      "parent": "volumes-of-cones-and-spheres",
+      "_id": "vol_of_cone",
+      "_type": "concept",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "polynomial-in-one-variable": {
+      "canonical_name": "Polynomial in One Variable",
+      "slug": "polynomial-in-one-variable",
+      "aliases": [],
+      "domain": "Algebra",
+      "area": "Quadratic Equations and Polynomials",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "patterns-of-numbers-on-number-line",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [
+        "cubic-numbers",
+        "three-dimensional-geometry"
+      ],
+      "see_also": []
+    },
+    "cartesian-plane": {
+      "canonical_name": "Cartesian Plane",
+      "slug": "cartesian-plane",
+      "aliases": [],
+      "domain": "Coordinate Geometry",
+      "area": "The Cartesian Coordinate System",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "definition-of-point-line-plane": {
+      "canonical_name": "Definition of Point Line Plane",
+      "slug": "definition-of-point-line-plane",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Basic Concepts",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "lines-parallel-to-the-same-line": {
+      "canonical_name": "Lines Parallel to the same line",
+      "slug": "lines-parallel-to-the-same-line",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Parallel Lines",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "algebraic-expressions"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "properties-of-a-parallelogram": {
+      "canonical_name": "Properties of a Parallelegram",
+      "slug": "properties-of-a-parallelogram",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Parallelograms",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "algebraic-expressions",
+        "bayes-theorum",
+        "binomial-distribution",
+        "quadrilateral"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "perpendicular-from-the-center-to-a-chord": {
+      "canonical_name": "Perpendicular from the Center to a ChORD",
+      "slug": "perpendicular-from-the-center-to-a-chord",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Circles",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "cyclic-quadrilaterats": {
+      "canonical_name": "Cyclic Quadrilaterats",
+      "slug": "cyclic-quadrilaterats",
+      "aliases": [
+        "Cyclic Quadrilateral Theorem"
+      ],
+      "domain": "Geometry",
+      "area": "Quadrilaterals",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "definition-and-properties-of-cyclic-quadrilateral": {
+      "canonical_name": "Definition and properties of Cyclic Quadrilateral",
+      "alias": "Properties of Cyclic Quadriateral",
+      "domain": "",
+      "area": "",
+      "parent": "cyclic_quadrilaterats ",
+      "grades": "[9]",
+      "importANCE_BY_GRADE": "{ \"9\": 4 }",
+      "SOURCE_BOARDS": "['NCERT','ICSE']",
+      "slug": "definition-and-properties-of-cyclic-quadrilateral",
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "trigonometric-ratios": {
+      "canonical_name": "Trigonometric RatIOS",
+      "slug": "trigonometric-ratios",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Coordinate Geometry",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "statistics-and-graphs": {
+      "canonical_name": "Statistics and Graphs",
+      "slug": "statistics-and-graphs",
+      "_aliases": [
+        "Graphical Representation of Data"
+      ],
+      "domain": "Mathematics",
+      "area": "Probability and Statistics",
+      "parent": "probability-and-statistics",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 5,
+        "10": 4,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "circumference-of-a-circle",
+        "introduction-to-statistics-and-data-analysis",
+        "number-patterns",
+        "patterns-in-numbers",
+        "patterns-of-numbers-on-number-line",
+        "perimeter",
+        "properties-of-a-circle",
+        "reading-and-evaluating-algebraic-expressions",
+        "surface-area-of-a-prism",
+        "three-dimensional-geometry",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "leads_to": [],
+      "related": [
+        "mean-of-grouped-frequency-distribution",
+        "nature-of-roots",
+        "relationship-between-zeroes-and-coefficients-of-a-polynomial"
+      ],
+      "see_also": []
+    },
+    "introduction-to-coordinate-geometry": {
+      "canonical_name": "Introduction to Coordinate Geometry",
+      "slug": "introduction-to-coordinate-geometry",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Coordinate Geometry",
+      "_parent": "",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5,
+        "10": 0,
+        "11": 0,
+        "12": 0
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "understanding-the-cartesian-coordinate-system": {
+      "_parent": "coordinate-geometry",
+      "canonical_name": "Understanding the Cartesian coordinate System",
+      "slug": "understanding-the-cartesian-coordinate-system",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Cartesian Coordinates",
+      "parent": "coordinate geometry",
+      "grades": [],
+      "importance by Grade": {
+        "9": 0,
+        "10": 4,
+        "11": 5,
+        "12": 3
+      },
+      "source Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "introduction-to-trigonometric-functions": {
+      "canonical_name": "Introduction to Trigonometric Functions",
+      "slug": "introduction-to-trigonometric-functions",
+      "aliases": [
+        "Trigonometry Basics",
+        "Unit Circle"
+      ],
+      "domain": "Mathematics",
+      "area": "Algebra and Trigonometry",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "trigonometry"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "introduction-to-statistics-and-data-analysis": {
+      "canonical_name": "Introduction to Statistics and Data Analysis",
+      "slug": "introduction-to-statistics-and-data-analysis",
+      "aliases": [
+        "Statistics and Graphs"
+      ],
+      "domain": "Mathematics",
+      "area": "Statistics and Probability",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "statistics-and-graphs"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "introduction-to-mensuration": {
+      "canonical_name": "Introduction to Mensuration",
+      "slug": "introduction-to-mensuration",
+      "_aliases": [
+        "Mensuration Basics"
+      ],
+      "domain": "Maths",
+      "area": "Geometry",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "understanding-perimeter-and-area-of-various-shapes": {
+      "canonical_name": "Understanding Perimeter and Area of Various Shapes",
+      "slug": "understanding-perimeter-and-area-of-various-shapes",
+      "_aliases": [
+        "Perimeter and Area Basics"
+      ],
+      "domain": "Maths",
+      "area": "Geometry",
+      "parent": "introduction-to-Mensuration",
+      "grades": [
+        6,
+        7
+      ],
+      "importanceByGrade": {
+        "6": 1,
+        "7": 2
+      },
+      "sourceBoards": [
+        "NCERT",
+        "state Boards"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "bar-graphs",
+        "mensuration",
+        "quadrilateral",
+        "ratios-in-maps",
+        "statistics-and-graphs"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "introduction-to-probability-mean-median-mode-standard-deviation-variance-normal-distribution-curve": {
+      "canonical_name": "Introduction to Probability and Mean Median Mode Standard Deviation Variance Normal Distribution Curve",
+      "slug": "introduction-to-probability-mean-median-mode-standard-deviation-variance-normal-distribution-curve",
+      "aliases": [],
+      "domain": "Statistics",
+      "area": "Probability and Statistics",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "introduction-to-probability-and-statistical-correlation-and-regression": {
+      "canonical_name": "Introduction to Probability and Statistical Correlation and Regression",
+      "slug": "introduction-to-probability-and-statistical-correlation-and-regression",
+      "aliases": [
+        "Probability and Statistics",
+        "Correlation and Regression"
+      ],
+      "domain": "Mathematics",
+      "area": "Probability and Statistics",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "bayes-theorum",
+        "binomial-distribution"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "irrational-numbers": {
+      "canonical_name": "Irrational Numbers",
+      "slug": "irrational-numbers",
+      "aliases": [],
+      "domain": "Number Systems",
+      "area": "Real Numbers",
+      "_parent": "real-numbers",
+      "grdades": [
+        10
+      ],
+      "imporrance_by_grde": {
+        "10": 5
+      },
+      "sorce_boardds": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "areas-of-sector-and-trigonometry": {
+      "canonical_name": "Areas of Sector and Trigonometry",
+      "slug": "areas-of-sector-and-trigonometry",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Circles",
+      "parent": null,
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mean-of-grouped-frequency-distribution": {
+      "canonical_name": "Mean of Grouped Frequency Distribution",
+      "slug": "mean-of-grouped-frequency-distribution",
+      "aliases": [],
+      "domain": "Statistics and Probability",
+      "area": "Descriptive Statistics",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5,
+        "11": 1,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "relationship-between-zeroes-and-coefficients-of-a-polynomial": {
+      "canonical_name": "Relationship Between Zeroes And Coefficients Of A Polynomial",
+      "slug": "relationship-between-zeroes-and-coefficients-of-a-polynomial",
+      "aliases": [],
+      "domain": "Algebra",
+      "area": "Polynomials",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [
+        "binomial-theorem"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "nature-of-roots": {
+      "canonical_name": "Nature of Roots",
+      "slug": "nature-of-roots",
+      "aliases": [],
+      "domain": "Algebra",
+      "area": "Quadratic Equations",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "similar-figures": {
+      "canonical_name": "Similar Figures",
+      "slug": "similar-figures",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "distance-formula": {
+      "canonical_name": "Distance Formula",
+      "slug": "distance-formula",
+      "aliases": [],
+      "domain": "Coordinate Geometry",
+      "area": "Circles",
+      "parent": "coordinate-geometry",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "trigonometry": {
+      "canonical_name": "Trigonometry",
+      "slug": "trigonometry",
+      "aliases": [
+        "Trig"
+      ],
+      "domain": "Maths",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "introduction-to-trigonometric-functions",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "sets-and-their-representaions": {
+      "canonical_name": "Sets and their Representaions",
+      "slug": "sets-and-their-representaions",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Set Theory",
+      "parent": null,
+      "grades": [
+        11
+      ],
+      "importance-by-grade": {
+        "11": 5
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "the-empty-set": {
+      "canonical_name": "The Empty Set",
+      "slug": "the-empty-set",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Set Theory",
+      "parent": null,
+      "grades": [
+        11
+      ],
+      "importance.by.grade": {
+        "11": 4
+      },
+      "source-Boards": [
+        "NCERT",
+        "icse"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "patterns-of-numbers-on-number-line"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "finite-and-infinite-sets": {
+      "canonical_name": "Finite and Infinite Sets",
+      "Slug": "finite-and-infinite-sets",
+      "Aliases": [],
+      "Domain": "Maths",
+      "Area": "Set Theory",
+      "Parent": null,
+      "Grades": [
+        11
+      ],
+      "Importance.By.Grade": {
+        "11": 3
+      },
+      "Source Boards": [
+        "ncert",
+        "icse"
+      ],
+      "slug": "finite-and-infinite-sets",
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "equal-sets": {
+      "canonical_name": "Equal Sets",
+      "slug": "equal-sets",
+      "aliases": [],
+      "domain": "Set Theory",
+      "area": "Basic Concepts",
+      "parent": null,
+      "grades": [
+        11
+      ],
+      "importance_BY_Grade": {
+        "11": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle",
+        "perimeter-and-area-of-rectangles",
+        "special-types-of-angle"
+      ],
+      "leads_to": [],
+      "related": [
+        "patterns-of-numbers-on-number-line",
+        "properties-of-a-circle"
+      ],
+      "see_also": []
+    },
+    "venn-diagrams": {
+      "canonical_name": "Venn Diagrams",
+      "slug": "venn-diagrams",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Set Theory",
+      "parent": null,
+      "grades": [
+        11
+      ],
+      "importance_BY_GRADE": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "circle": {
+      "canonical_name": "Circle",
+      "slug": "circle",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_GRADE": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "coordinate-axes-and-coordinate-plans-in-three-dimension-space": {
+      "canonical_name": "Coordinate Axes and Coordinate Plans in Three Dimension Space",
+      "slug": "coordinate-axes-and-coordinate-plans-in-three-dimension-space",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Three Dimensional Geometry",
+      "parent": "three-dimensional-geometry",
+      "grades": [
+        11
+      ],
+      "importance-by-grade": {
+        "11": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "intuitive-idea-of-derivatives": {
+      "canonical_name": "Intuitive Idea of derivatives",
+      "slug": "intuitive-idea-of-derivatives",
+      "aliases": [],
+      "domain": "Calculus",
+      "area": "",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_GRADE": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "derivatives": {
+      "canonical_name": "Derivatives",
+      "slug": "derivatives",
+      "_aliases": [
+        "Algebra of derivative of Functions",
+        "Derivative of Polynomials and Trigonometric Functions"
+      ],
+      "domain": "Calculus",
+      "area": "Differential Calculus",
+      "parent": "calculus",
+      "_grades": [
+        11
+      ],
+      "_importance_by_grade": {
+        "11": 5
+      },
+      "_source_boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "probability-of-an-event": {
+      "canonical_name": "Probability of an event",
+      "slug": "probability-of-an-event",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Probability Theory",
+      "parent": "axiomatic-probability",
+      "grades": [
+        11
+      ],
+      "importance_BY_Grade": {
+        "11": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle",
+        "random-experiments"
+      ],
+      "leads_to": [],
+      "related": [
+        "probability-through-coin-tossing",
+        "visualising-data"
+      ],
+      "see_also": []
+    },
+    "angles": {
+      "canonical_name": "Angles",
+      "slug": "angles",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance-by-grade": {
+        "11": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "complex-numbers": {
+      "canonical_name": "Complex Numbers",
+      "slug": "complex-numbers",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_Grade": {
+        "11": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle",
+        "three-dimensional-geometry"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "argand-plane-and-complex-numbers": {
+      "canonical_name": "Argand Plane and Complex Numbers",
+      "slug": "argand-plane-and-complex-numbers",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_GRADE": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "fundamental-principle-of-counting": {
+      "canonical_name": "Fundamental Principle of CountING",
+      "slug": "fundamental-principle-of-counting",
+      "aliases": [],
+      "domain": "Number System",
+      "area": "",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance-by-grade": {
+        "11": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "permutations": {
+      "canonical_name": "Permutations",
+      "slug": "permutations",
+      "_aliases": [],
+      "domain": "Combinatorics",
+      "_area": "",
+      "parent": "",
+      "_grades": [
+        11
+      ],
+      "_importance-by-GRADE": {
+        "11": 4
+      },
+      "Source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "binomial-theorem": {
+      "canonical_name": "Binomial Theorem",
+      "slug": "binomial-theorem",
+      "_aliases": [
+        "Binomial Expansion",
+        "Theorem of Binomial Coefficients"
+      ],
+      "domain": "Algebra",
+      "area": "Polynomials",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_GRADE": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "relationship-between-zeroes-and-coefficients-of-a-polynomial",
+        "types-of-triangles"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "geometric-progressions": {
+      "canonical_name": "Geometric Progression",
+      "slug": "geometric-progressions",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Algebra",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_Grade": {
+        "11": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "number-patterns",
+        "patterns-of-numbers-on-number-line"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "various-forms": {
+      "canonical_name": "Various Forms",
+      "slug": "various-forms",
+      "aliases": [],
+      "domain": "Coordinate Geometry",
+      "area": "Equations of Lines",
+      "parent": null,
+      "grades": [
+        11
+      ],
+      "importance_BY_GRADE": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles"
+      ],
+      "leads_to": [],
+      "related": [
+        "properties-of-a-circle",
+        "properties-of-a-spherically-shaped-solid",
+        "surface-area-of-a-prism"
+      ],
+      "see_also": []
+    },
+    "types-of-functions": {
+      "canonical_name": "Types of Functions",
+      "slug": "types-of-functions",
+      "aliases": [],
+      "domain": "Algebra",
+      "area": "Functions",
+      "parent": null,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "inverse-trigonometric-function": {
+      "canonical_name": "Inverse Trigonometric Function",
+      "slug": "inverse-trigonometric-function",
+      "aliases": [],
+      "domain": "Maths",
+      "area": "Functions",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance_BY_GRADE": {
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "operations-on-matrices": {
+      "canonical_name": "Operations on Matrices",
+      "slug": "operations-on-matrices",
+      "_aliases": [
+        "Matrix Algebra"
+      ],
+      "domain": "Maths",
+      "area": "Linear Algebra",
+      "parent": "linear-algebra",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "determinant-of-a-matrix": {
+      "canonical_name": "Determinant of a Matrix",
+      "slug": "determinant-of-a-matrix",
+      "aliases": [],
+      "domain": "Linear Algebra",
+      "area": "Matrices",
+      "parent": null,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "applications-of-determinants": {
+      "canonical_name": "Applications of Determinants",
+      "slug": "applications-of-determinants",
+      "_aliases": [],
+      "domain": "Maths",
+      "area": "Determinants",
+      "__parent": null,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "derivatives-of-functions-in-parametric-forms": {
+      "canonical_name": "Derivatives of functions in parametric forms",
+      "slug": "derivatives-of-functions-in-parametric-forms",
+      "aliases": [],
+      "domain": "Calculus",
+      "area": "Differentiation",
+      "parent": "calculus",
+      "_id": "differentiation-calculus",
+      "__v": 0,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "increasing-and-decreasing-functions": {
+      "canonical_name": "Increasing and Decreasing functions",
+      "slug": "increasing-and-decreasing-functions",
+      "aliases": [],
+      "domain": "Calculus",
+      "area": "Functions",
+      "parent": null,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "methods-of-integration": {
+      "canonical_name": "Methods of Integration",
+      "slug": "methods-of-integration",
+      "aliases": [],
+      "domain": "Calculus",
+      "area": "Integration Techniques",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "area-and-perimeter-formulae-for-circles",
+        "circumference-of-a-circle",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "integration-by-parts": {
+      "canonical_name": "Integration by Parts",
+      "slug": "integration-by-parts",
+      "aliases": [],
+      "domain": "Calculus",
+      "area": "Definite Integral",
+      "parent": "definite-integral",
+      "grades": [
+        12
+      ],
+      "importance_BY_GRADE": {
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "cubic-numbers",
+        "properties-of-a-circle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "evaluation-of-definite-integral-by-substitution": {
+      "canonical_name": "Evaluation of Definite Integral by Substitution",
+      "slug": "evaluation-of-definite-integral-by-substitution",
+      "_aliases": [
+        "Substitution Method"
+      ],
+      "domain": "Calculus",
+      "area": "Definite Integrals",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance_BY_GRADE": {
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "types-of-vectors": {
+      "canonical_name": "Types of Vectors",
+      "slug": "types-of-vectors",
+      "_aliases": [],
+      "domain": "Mathematics",
+      "area": "Vectors",
+      "parent": null,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "properties-of-a-circle",
+        "surface-area-of-a-prism"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "product-of-two-vectors": {
+      "canonical_name": "Product of Two Vctors",
+      "slug": "product-of-two-vectors",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Vector Algebra",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "equation-of-a-line-in-space": {
+      "canonical_name": "Equation of a L ne in Spce",
+      "slug": "equation-of-a-line-in-space",
+      "aliases": [],
+      "domain": "Mathematics",
+      "area": "Coordinate Geometry",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance by grade": {
+        "12": 5
+      },
+      "source Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "angle-between-two-lines": {
+      "canonical_name": "Angle Between Two Lines",
+      "slug": "angle-between-two-lines",
+      "aliases": [],
+      "domain": "Geometry",
+      "area": "Lines and Angles",
+      "parent": "lines-and-angles",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "angle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "conditional-probability": {
+      "canonical_name": "Conditional Probability",
+      "slug": "conditional-probability",
+      "aliases": [],
+      "domain": "Probability",
+      "area": "Properties of Conditional Probability",
+      "_parent": null,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "probability-through-coin-tossing"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "bayes-theorum": {
+      "canonical_name": "Bayes' Theorum",
+      "slug": "bayes-theorum",
+      "_aliases": [
+        "Theorum of Total Probability",
+        "Partition of Sample Space"
+      ],
+      "domain": "Probability Theory",
+      "area": "Mathematical Statistics",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "introduction-to-probability-and-statistical-correlation-and-regression",
+        "properties-of-a-parallelogram"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "binomial-distribution": {
+      "canonical_name": "Binomial Distribution",
+      "slug": "binomial-distribution",
+      "aliases": [],
+      "domain": "Probability and Statistics",
+      "area": "Discrete Random Variables",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance_BY_GRADE": {
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [
+        "introduction-to-probability-and-statistical-correlation-and-regression",
+        "properties-of-a-parallelogram"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "linear-regression-equation-derivations": {
+      "canonical_name": "Linear Regression Equation Derivations",
+      "slug": "linear-regression-equation-derivations",
+      "_aliases": [],
+      "domain": "Statistics",
+      "area": "Regression Analysis",
+      "parent": "regression-analysis",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "bernoulli-trials": {
+      "canonical_name": "Bernoulli Trials",
+      "slug": "bernoulli-trials",
+      "aliases": [],
+      "domain": "Probability",
+      "area": "",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance_BY_Grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "maths",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    }
+  },
+  "edges": [
+    {
+      "from": "perimeter-and-area-of-rectangles",
+      "to": "bar-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter-and-area-of-rectangles",
+      "to": "between-lines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter-and-area-of-rectangles",
+      "to": "decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter-and-area-of-rectangles",
+      "to": "visualising-data",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter-and-area-of-rectangles",
+      "to": "fun-with-grids",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter-and-area-of-rectangles",
+      "to": "three-dimensional-geometry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter-and-area-of-rectangles",
+      "to": "equal-sets",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "types-of-angles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "bar-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "prime-factorisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "patterns-in-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "between-lines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "drawing-parallel-lines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "visualising-data",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "tiling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "equal-sets",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle",
+      "to": "angle-between-two-lines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "special-types-of-angle",
+      "to": "angle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "special-types-of-angle",
+      "to": "prime-factorisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "special-types-of-angle",
+      "to": "time-and-speed",
+      "type": "prerequisite"
+    },
+    {
+      "from": "special-types-of-angle",
+      "to": "properties-of-a-circle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "special-types-of-angle",
+      "to": "fun-with-grids",
+      "type": "prerequisite"
+    },
+    {
+      "from": "special-types-of-angle",
+      "to": "three-dimensional-geometry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "special-types-of-angle",
+      "to": "mensuration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "special-types-of-angle",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "special-types-of-angle",
+      "to": "equal-sets",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-of-numbers-on-number-line",
+      "to": "relations-among-number-sequences",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-of-numbers-on-number-line",
+      "to": "algebraic-expressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-of-numbers-on-number-line",
+      "to": "arithmetic-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-of-numbers-on-number-line",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-of-numbers-on-number-line",
+      "to": "polynomial-in-one-variable",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-of-numbers-on-number-line",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-of-numbers-on-number-line",
+      "to": "the-empty-set",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-of-numbers-on-number-line",
+      "to": "geometric-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-patterns",
+      "to": "relations-among-number-sequences",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-patterns",
+      "to": "arithmetic-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-patterns",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-patterns",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-patterns",
+      "to": "geometric-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "probability-through-coin-tossing",
+      "to": "conditional-probability",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter",
+      "to": "relations-among-number-sequences",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter",
+      "to": "land-of-tens",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "addition-and-subtraction-of-fractions",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ratios-and-proportionate-relationships",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "bar-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "prime-factorisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "time-and-speed",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "land-of-tens",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "circumference-of-a-circle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "arithmetic-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "three-dimensional-geometry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "mensuration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "cartesian-plane",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "nature-of-roots",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "similar-figures",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "distance-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "trigonometry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "probability-of-an-event",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "complex-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "various-forms",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-and-perimeter-formulae-for-circles",
+      "to": "methods-of-integration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "types-of-angles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "bar-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "prime-factorisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "time-and-speed",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "drawing-parallel-lines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "quadrilateral",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "algebraic-expressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "mensuration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "polynomial-in-one-variable",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "cartesian-plane",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "nature-of-roots",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "similar-figures",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "distance-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "trigonometry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "venn-diagrams",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "probability-of-an-event",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "angles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "complex-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "methods-of-integration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "integration-by-parts",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-circle",
+      "to": "types-of-vectors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "surface-area-of-a-prism",
+      "to": "random-experiments",
+      "type": "prerequisite"
+    },
+    {
+      "from": "surface-area-of-a-prism",
+      "to": "mensuration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "surface-area-of-a-prism",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "surface-area-of-a-prism",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "surface-area-of-a-prism",
+      "to": "types-of-vectors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-in-numbers",
+      "to": "relations-among-number-sequences",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-in-numbers",
+      "to": "number-patterns",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-in-numbers",
+      "to": "bar-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-in-numbers",
+      "to": "prime-factorisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-in-numbers",
+      "to": "decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-in-numbers",
+      "to": "arithmetic-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "patterns-in-numbers",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reading-and-evaluating-algebraic-expressions",
+      "to": "relations-among-number-sequences",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reading-and-evaluating-algebraic-expressions",
+      "to": "algebraic-expressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reading-and-evaluating-algebraic-expressions",
+      "to": "arithmetic-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reading-and-evaluating-algebraic-expressions",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "a-hundredth-part",
+      "to": "decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "numbers-tell-us-things",
+      "to": "angle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "numbers-tell-us-things",
+      "to": "types-of-angles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "numbers-tell-us-things",
+      "to": "perimeter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "numbers-tell-us-things",
+      "to": "time-and-speed",
+      "type": "prerequisite"
+    },
+    {
+      "from": "numbers-tell-us-things",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-triangles",
+      "to": "relations-among-number-sequences",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-triangles",
+      "to": "quadrilateral",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-triangles",
+      "to": "arithmetic-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-triangles",
+      "to": "three-dimensional-geometry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-triangles",
+      "to": "binomial-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "some-problems-involving-fractions",
+      "to": "mixed-fractions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angles-of-isoselestriangle",
+      "to": "special-types-of-angle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-of-trapezimum",
+      "to": "properties-of-a-circle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circumference-of-a-circle",
+      "to": "time-and-speed",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circumference-of-a-circle",
+      "to": "properties-of-a-circle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circumference-of-a-circle",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circumference-of-a-circle",
+      "to": "methods-of-integration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "random-experiments",
+      "to": "probability-of-an-event",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cubic-numbers",
+      "to": "quadrilateral",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cubic-numbers",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cubic-numbers",
+      "to": "integration-by-parts",
+      "type": "prerequisite"
+    },
+    {
+      "from": "three-dimensional-geometry",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "three-dimensional-geometry",
+      "to": "complex-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "lines-parallel-to-the-same-line",
+      "to": "algebraic-expressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-parallelogram",
+      "to": "quadrilateral",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-parallelogram",
+      "to": "algebraic-expressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-parallelogram",
+      "to": "bayes-theorum",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-a-parallelogram",
+      "to": "binomial-distribution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "introduction-to-trigonometric-functions",
+      "to": "trigonometry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "introduction-to-statistics-and-data-analysis",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "understanding-perimeter-and-area-of-various-shapes",
+      "to": "bar-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "understanding-perimeter-and-area-of-various-shapes",
+      "to": "quadrilateral",
+      "type": "prerequisite"
+    },
+    {
+      "from": "understanding-perimeter-and-area-of-various-shapes",
+      "to": "ratios-in-maps",
+      "type": "prerequisite"
+    },
+    {
+      "from": "understanding-perimeter-and-area-of-various-shapes",
+      "to": "mensuration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "understanding-perimeter-and-area-of-various-shapes",
+      "to": "statistics-and-graphs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "introduction-to-probability-and-statistical-correlation-and-regression",
+      "to": "bayes-theorum",
+      "type": "prerequisite"
+    },
+    {
+      "from": "introduction-to-probability-and-statistical-correlation-and-regression",
+      "to": "binomial-distribution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relationship-between-zeroes-and-coefficients-of-a-polynomial",
+      "to": "binomial-theorem",
+      "type": "prerequisite"
+    }
+  ],
+  "grade_views": {
+    "6": {
+      "concepts": [
+        "mathematics-as-a-problem-solving-tool",
+        "relations-among-number-sequences",
+        "perimeter-and-area-of-rectangles",
+        "explorations-with-integer-properties",
+        "angle",
+        "special-types-of-angle",
+        "types-of-angles",
+        "patterns-of-numbers-on-number-line",
+        "the-magic-number-of-gaurav-bhatnagar",
+        "number-patterns",
+        "probability-through-coin-tossing",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "perimeter",
+        "fractional-units-and-equality",
+        "mixed-fractions",
+        "addition-and-subtraction-of-fractions",
+        "constructing-squares-and-rectangles",
+        "points-equidistant-from-two-given-points",
+        "ratios-and-proportionate-relationships",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "area-and-perimeter-in-rectilinear-figures",
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle",
+        "surface-area-of-a-prism",
+        "properties-of-a-spherically-shaped-solid",
+        "decimals",
+        "quadrilateral",
+        "real-numbers",
+        "statistics-and-graphs",
+        "introduction-to-mensuration",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "entry_points": [
+        "mathematics-as-a-problem-solving-tool",
+        "perimeter-and-area-of-rectangles",
+        "explorations-with-integer-properties",
+        "special-types-of-angle",
+        "patterns-of-numbers-on-number-line",
+        "the-magic-number-of-gaurav-bhatnagar",
+        "number-patterns",
+        "probability-through-coin-tossing",
+        "common-multiples-and-factors",
+        "perimeter",
+        "fractional-units-and-equality",
+        "mixed-fractions",
+        "addition-and-subtraction-of-fractions",
+        "constructing-squares-and-rectangles",
+        "points-equidistant-from-two-given-points",
+        "ratios-and-proportionate-relationships",
+        "decimals-and-fraactions",
+        "area-and-perimeter-in-rectilinear-figures",
+        "area-and-perimeter-formulae-for-circles",
+        "surface-area-of-a-prism",
+        "properties-of-a-spherically-shaped-solid",
+        "introduction-to-mensuration",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "count": 34
+    },
+    "7": {
+      "concepts": [
+        "relations-among-number-sequences",
+        "explorations-with-integer-properties",
+        "types-of-angles",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "land-of-tens",
+        "patterns-in-numbers",
+        "reading-and-evaluating-algebraic-expressions",
+        "a-hundredth-part",
+        "locating-and-comparing-decimals",
+        "the-notion-of-number-line",
+        "pick-patterns-and-reconstruct-relationships",
+        "between-lines",
+        "drawing-parallel-lines",
+        "numbers-tell-us-things",
+        "natures-favourite-sequence",
+        "types-of-triangles",
+        "some-problems-involving-fractions",
+        "angles-of-isoselestriangle",
+        "the-greatest-of-all",
+        "decimals",
+        "look-before-you-leap",
+        "visualising-data",
+        "tiling",
+        "mind-the-mistake-mend-the-mistakes",
+        "area-of-trapezimum",
+        "circumference-of-a-circle",
+        "probability-as-a-measure",
+        "random-experiments",
+        "quadrilateral",
+        "real-numbers",
+        "statistics-and-graphs",
+        "introduction-to-mensuration",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "entry_points": [
+        "explorations-with-integer-properties",
+        "common-multiples-and-factors",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "land-of-tens",
+        "patterns-in-numbers",
+        "reading-and-evaluating-algebraic-expressions",
+        "a-hundredth-part",
+        "locating-and-comparing-decimals",
+        "the-notion-of-number-line",
+        "pick-patterns-and-reconstruct-relationships",
+        "between-lines",
+        "drawing-parallel-lines",
+        "numbers-tell-us-things",
+        "natures-favourite-sequence",
+        "types-of-triangles",
+        "some-problems-involving-fractions",
+        "angles-of-isoselestriangle",
+        "the-greatest-of-all",
+        "look-before-you-leap",
+        "visualising-data",
+        "tiling",
+        "mind-the-mistake-mend-the-mistakes",
+        "area-of-trapezimum",
+        "circumference-of-a-circle",
+        "probability-as-a-measure",
+        "random-experiments",
+        "introduction-to-mensuration",
+        "understanding-perimeter-and-area-of-various-shapes"
+      ],
+      "count": 38
+    },
+    "8": {
+      "concepts": [
+        "relations-among-number-sequences",
+        "explorations-with-integer-properties",
+        "angle",
+        "types-of-angles",
+        "patterns-of-numbers-on-number-line",
+        "number-patterns",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "perimeter",
+        "fractional-units-and-equality",
+        "mixed-fractions",
+        "addition-and-subtraction-of-fractions",
+        "constructing-squares-and-rectangles",
+        "points-equidistant-from-two-given-points",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "area-and-perimeter-in-rectilinear-figures",
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle",
+        "surface-area-of-a-prism",
+        "properties-of-a-spherically-shaped-solid",
+        "locating-and-comparing-decimals",
+        "decimals",
+        "cubic-numbers",
+        "reemas-curiosity",
+        "rectangles-and-squeres",
+        "quadrilateral",
+        "checking-divisibility",
+        "this-way-or-that-way-all-ways-lead-to-the-bay",
+        "ratios-in-their-simplest-form",
+        "unit-conversions",
+        "hypotenuse-of-a-right-triangle",
+        "baudhayana-sulva-sutra",
+        "ratios-in-maps",
+        "a-slice-of-the-pizza",
+        "visualising-solids",
+        "algebraic-expressions",
+        "fun-with-grids",
+        "arithmetic-progressions",
+        "three-dimensional-geometry",
+        "mensuration",
+        "real-numbers",
+        "volume-of-a-right-circular-cone",
+        "statistics-and-graphs",
+        "introduction-to-mensuration"
+      ],
+      "entry_points": [
+        "explorations-with-integer-properties",
+        "angle",
+        "patterns-of-numbers-on-number-line",
+        "number-patterns",
+        "common-multiples-and-factors",
+        "perimeter",
+        "fractional-units-and-equality",
+        "mixed-fractions",
+        "addition-and-subtraction-of-fractions",
+        "constructing-squares-and-rectangles",
+        "points-equidistant-from-two-given-points",
+        "decimals-and-fraactions",
+        "area-and-perimeter-in-rectilinear-figures",
+        "area-and-perimeter-formulae-for-circles",
+        "properties-of-a-circle",
+        "surface-area-of-a-prism",
+        "properties-of-a-spherically-shaped-solid",
+        "locating-and-comparing-decimals",
+        "cubic-numbers",
+        "reemas-curiosity",
+        "rectangles-and-squeres",
+        "checking-divisibility",
+        "this-way-or-that-way-all-ways-lead-to-the-bay",
+        "ratios-in-their-simplest-form",
+        "unit-conversions",
+        "hypotenuse-of-a-right-triangle",
+        "baudhayana-sulva-sutra",
+        "ratios-in-maps",
+        "a-slice-of-the-pizza",
+        "visualising-solids",
+        "fun-with-grids",
+        "volume-of-a-right-circular-cone",
+        "introduction-to-mensuration"
+      ],
+      "count": 46
+    },
+    "9": {
+      "concepts": [
+        "relations-among-number-sequences",
+        "explorations-with-integer-properties",
+        "types-of-angles",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "reading-and-evaluating-algebraic-expressions",
+        "locating-and-comparing-decimals",
+        "types-of-triangles",
+        "decimals",
+        "quadrilateral",
+        "hypotenuse-of-a-right-triangle",
+        "algebraic-expressions",
+        "arithmetic-progressions",
+        "mensuration",
+        "real-numbers",
+        "addition-and-subtraction-of-real-numbers",
+        "area-of-a-triangle-by-herons-formula",
+        "volume-of-a-right-circular-cone",
+        "polynomial-in-one-variable",
+        "cartesian-plane",
+        "definition-of-point-line-plane",
+        "lines-parallel-to-the-same-line",
+        "properties-of-a-parallelogram",
+        "perpendicular-from-the-center-to-a-chord",
+        "cyclic-quadrilaterats",
+        "definition-and-properties-of-cyclic-quadrilateral",
+        "trigonometric-ratios",
+        "statistics-and-graphs",
+        "introduction-to-coordinate-geometry",
+        "introduction-to-trigonometric-functions",
+        "introduction-to-statistics-and-data-analysis",
+        "introduction-to-mensuration",
+        "introduction-to-probability-mean-median-mode-standard-deviation-variance-normal-distribution-curve",
+        "introduction-to-probability-and-statistical-correlation-and-regression"
+      ],
+      "entry_points": [
+        "explorations-with-integer-properties",
+        "types-of-angles",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "reading-and-evaluating-algebraic-expressions",
+        "locating-and-comparing-decimals",
+        "types-of-triangles",
+        "decimals",
+        "hypotenuse-of-a-right-triangle",
+        "mensuration",
+        "real-numbers",
+        "addition-and-subtraction-of-real-numbers",
+        "area-of-a-triangle-by-herons-formula",
+        "volume-of-a-right-circular-cone",
+        "polynomial-in-one-variable",
+        "cartesian-plane",
+        "definition-of-point-line-plane",
+        "lines-parallel-to-the-same-line",
+        "properties-of-a-parallelogram",
+        "perpendicular-from-the-center-to-a-chord",
+        "cyclic-quadrilaterats",
+        "definition-and-properties-of-cyclic-quadrilateral",
+        "trigonometric-ratios",
+        "introduction-to-coordinate-geometry",
+        "introduction-to-trigonometric-functions",
+        "introduction-to-statistics-and-data-analysis",
+        "introduction-to-mensuration",
+        "introduction-to-probability-mean-median-mode-standard-deviation-variance-normal-distribution-curve",
+        "introduction-to-probability-and-statistical-correlation-and-regression"
+      ],
+      "count": 38
+    },
+    "10": {
+      "concepts": [
+        "relations-among-number-sequences",
+        "explorations-with-integer-properties",
+        "types-of-angles",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "locating-and-comparing-decimals",
+        "types-of-triangles",
+        "decimals",
+        "circumference-of-a-circle",
+        "quadrilateral",
+        "hypotenuse-of-a-right-triangle",
+        "algebraic-expressions",
+        "arithmetic-progressions",
+        "three-dimensional-geometry",
+        "mensuration",
+        "real-numbers",
+        "volume-of-a-right-circular-cone",
+        "statistics-and-graphs",
+        "introduction-to-mensuration",
+        "areas-of-sector-and-trigonometry",
+        "mean-of-grouped-frequency-distribution",
+        "relationship-between-zeroes-and-coefficients-of-a-polynomial",
+        "nature-of-roots",
+        "similar-figures",
+        "distance-formula",
+        "trigonometry"
+      ],
+      "entry_points": [
+        "explorations-with-integer-properties",
+        "types-of-angles",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "locating-and-comparing-decimals",
+        "types-of-triangles",
+        "decimals",
+        "circumference-of-a-circle",
+        "hypotenuse-of-a-right-triangle",
+        "algebraic-expressions",
+        "mensuration",
+        "real-numbers",
+        "volume-of-a-right-circular-cone",
+        "introduction-to-mensuration",
+        "areas-of-sector-and-trigonometry",
+        "mean-of-grouped-frequency-distribution",
+        "relationship-between-zeroes-and-coefficients-of-a-polynomial",
+        "nature-of-roots",
+        "similar-figures",
+        "distance-formula",
+        "trigonometry"
+      ],
+      "count": 30
+    },
+    "11": {
+      "concepts": [
+        "relations-among-number-sequences",
+        "explorations-with-integer-properties",
+        "types-of-angles",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "locating-and-comparing-decimals",
+        "decimals",
+        "quadrilateral",
+        "hypotenuse-of-a-right-triangle",
+        "algebraic-expressions",
+        "arithmetic-progressions",
+        "mensuration",
+        "real-numbers",
+        "volume-of-a-right-circular-cone",
+        "statistics-and-graphs",
+        "introduction-to-mensuration",
+        "sets-and-their-representaions",
+        "the-empty-set",
+        "equal-sets",
+        "venn-diagrams",
+        "circle",
+        "coordinate-axes-and-coordinate-plans-in-three-dimension-space",
+        "intuitive-idea-of-derivatives",
+        "probability-of-an-event",
+        "angles",
+        "complex-numbers",
+        "argand-plane-and-complex-numbers",
+        "fundamental-principle-of-counting",
+        "binomial-theorem",
+        "geometric-progressions",
+        "various-forms"
+      ],
+      "entry_points": [
+        "relations-among-number-sequences",
+        "explorations-with-integer-properties",
+        "types-of-angles",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "locating-and-comparing-decimals",
+        "decimals",
+        "quadrilateral",
+        "hypotenuse-of-a-right-triangle",
+        "algebraic-expressions",
+        "arithmetic-progressions",
+        "mensuration",
+        "real-numbers",
+        "volume-of-a-right-circular-cone",
+        "statistics-and-graphs",
+        "introduction-to-mensuration",
+        "sets-and-their-representaions",
+        "the-empty-set",
+        "equal-sets",
+        "venn-diagrams",
+        "circle",
+        "coordinate-axes-and-coordinate-plans-in-three-dimension-space",
+        "intuitive-idea-of-derivatives",
+        "probability-of-an-event",
+        "angles",
+        "complex-numbers",
+        "argand-plane-and-complex-numbers",
+        "fundamental-principle-of-counting",
+        "binomial-theorem",
+        "geometric-progressions",
+        "various-forms"
+      ],
+      "count": 35
+    },
+    "12": {
+      "concepts": [
+        "relations-among-number-sequences",
+        "explorations-with-integer-properties",
+        "types-of-angles",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "locating-and-comparing-decimals",
+        "types-of-triangles",
+        "decimals",
+        "quadrilateral",
+        "hypotenuse-of-a-right-triangle",
+        "baudhayana-sulva-sutra",
+        "algebraic-expressions",
+        "arithmetic-progressions",
+        "three-dimensional-geometry",
+        "mensuration",
+        "real-numbers",
+        "volume-of-a-right-circular-cone",
+        "statistics-and-graphs",
+        "introduction-to-mensuration",
+        "types-of-functions",
+        "inverse-trigonometric-function",
+        "operations-on-matrices",
+        "determinant-of-a-matrix",
+        "applications-of-determinants",
+        "derivatives-of-functions-in-parametric-forms",
+        "increasing-and-decreasing-functions",
+        "methods-of-integration",
+        "integration-by-parts",
+        "evaluation-of-definite-integral-by-substitution",
+        "types-of-vectors",
+        "product-of-two-vectors",
+        "equation-of-a-line-in-space",
+        "angle-between-two-lines",
+        "conditional-probability",
+        "bayes-theorum",
+        "binomial-distribution",
+        "linear-regression-equation-derivations",
+        "bernoulli-trials"
+      ],
+      "entry_points": [
+        "explorations-with-integer-properties",
+        "types-of-angles",
+        "bar-graphs",
+        "common-multiples-and-factors",
+        "prime-factorisation",
+        "fractional-units-and-equality",
+        "decimals-and-fraactions",
+        "time-and-speed",
+        "locating-and-comparing-decimals",
+        "types-of-triangles",
+        "decimals",
+        "hypotenuse-of-a-right-triangle",
+        "baudhayana-sulva-sutra",
+        "algebraic-expressions",
+        "mensuration",
+        "real-numbers",
+        "volume-of-a-right-circular-cone",
+        "introduction-to-mensuration",
+        "types-of-functions",
+        "inverse-trigonometric-function",
+        "operations-on-matrices",
+        "determinant-of-a-matrix",
+        "applications-of-determinants",
+        "derivatives-of-functions-in-parametric-forms",
+        "increasing-and-decreasing-functions",
+        "methods-of-integration",
+        "integration-by-parts",
+        "evaluation-of-definite-integral-by-substitution",
+        "types-of-vectors",
+        "product-of-two-vectors",
+        "equation-of-a-line-in-space",
+        "angle-between-two-lines",
+        "conditional-probability",
+        "bayes-theorum",
+        "binomial-distribution",
+        "linear-regression-equation-derivations",
+        "bernoulli-trials"
+      ],
+      "count": 42
+    }
+  }
+}

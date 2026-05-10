@@ -1,0 +1,42 @@
+{
+  "concept_slug": "vieta-s-formulas",
+  "canonical_name": "Vieta's Formulas",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Algebra",
+  "description": "Relations between roots and coefficients for general polynomials",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch7 — Section Formula]\nLet us recall the situation in Section 7.2.\nSuppose a telephone company wants to\nposition a relay tower at P between A and B\nis such a way that the distance of the tower\nfrom B is twice its distance from A. If P lies\non AB, it will divide AB in the ratio 1 : 2\n(see Fig. 7.9). If we take A as the origin O,\nand 1 km as one unit on both the axis, the\ncoordinates of B will be (36, 15). In order to\nknow the position of the tower, we must know\nthe coordinates of P. How do we find these\ncoordinates?\nLet the coordinates of P be (x, y). Draw perpendiculars from P and B to the\nx-axis, meeting it in D and E, respectively. Draw PC perpendicular to BE. Then, by\nthe AA similarity criterion, studied in Chapter 6,  POD and  BPC are similar.\nTherefore ,\nOD\nOP\nPC\nPB\n\n\n, and PD\nOP\nBC\nPB\n\n\nSo,\nx\nx \n\nand\ny\ny \n\n\nThese equations give x = 12 and y = 5.\nYou can check that P(12, 5) meets the\ncondition that OP : PB = 1 : 2.\nNow let us use the understanding that\nyou may have developed through this\nexam",
+  "context_sources": [
+    "ncert:grade10/maths/ch7"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Relationship Between Zeroes and Coefficients"
+  ],
+  "prerequisites_descriptions": {
+    "Relationship Between Zeroes and Coefficients": "Sum and product of zeroes related to coefficients (Vieta's formulas for quadratics/cubics)"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Relationship Between Zeroes and Coefficients",
+    "Zeroes of a Polynomial",
+    "Quadratic Equations",
+    "Quadratic Formula",
+    "Completing the Square",
+    "Nature of Roots — Discriminant",
+    "Pair of Linear Equations in Two Variables",
+    "Substitution Method"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,54 @@
+{
+  "concept_slug": "angles",
+  "canonical_name": "Angles",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Geometry",
+  "description": "Amount of rotation between two rays sharing a common endpoint",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch2 — Angle]\nAn angle is formed by two rays having a\ncommon starting point. Here is an angle\nformed by rays BD  and BE  where B is\nthe common starting point (Fig. 2.8).\nThe point B is called the vertex of the\nangle, and the rays BD  and BE  are called\nthe arms of the angle. How can we name\nthis angle? We can simply use the vertex and say that it is the Angle B.\nTo be clearer, we use a point on each of the arms together with the\nvertex to name the angle. In this case, we name the angle as Angle DBE\nor Angle EBD. The word angle can be replaced by the symbol ‘∠’, i.e.,\n∠DBE or ∠EBD. Note that in specifying the angle, the vertex is always\nwritten as the middle letter.\nTo indicate an angle, we use a small curve at the vertex (refer\nto Fig. 2.9).\nVidya has just opened her book. Let us observe her opening the\ncover of the book in different scenarios.\nCase 1\nCase 2\nCase 3\nCase 4\nCase 5\nCase 6\nFig. 2.8\nB\nE\nvertex\narm\narm\nReprint 2025-26\nGanita Prakash | Grade 6\nDo you see angles being made in each of these \n\n[NCERT Grade6 Ch2 — Drawing Angles]\nVidya wants to draw a 30° angle and name it ∠TIN using a protractor.\nIn will be the vertex, IT and IN will be the arms of the angle.\nKeeping one arm, say IN, as the reference (base), the other arm IT should\ntake a turn of 30°.\nReprint 2025-26\nLines and Angles\nStep 1: We begin with the base and draw 𝐼𝑁:\nI\nN\nStep 2: We will place the centre point of the protractor on I and align\nIN to the 0 line.\nI\nN\nStep 3: \u0007Now, starting from 0, count your degrees (0, 10, 30) up to 30\non the protractor. Mark point T at the label 30°.\nI\nN\nT\nStep 4: Using a ruler join the point I and T.\n∠TIN = 30° is the required angle.\nReprint 2025-26\nGanita Prakash | Grade 6\nI\nN\n30º\nT\nLet’s Play a Game #1\nThis is an angle guessing game! Play this game with your classmates\nby making two teams, Team 1 and Team 2. Here are the instructions\nand rules for the game:\n•\t Team 1 secretly choose an angle measure, for example, 49° and\nmakes an angle with that measure using a protractor without\nTeam 2 being able to see it.\n\n[NCERT Grade6 Ch2 — Ray]\nA ray is a portion of a line that starts at one point (called the starting\npoint or initial point of the ray) and goes on endlessly in a direction.\nThe following are some models for a ray:\nBeam of light from a\nlighthouse\nRay of light from a torch\nSun rays\nLook at the diagram (Fig. 2.3) of a ray. Two points are\nmarked on it. One is the starting point A and the other\nis a point P on the path of the ray. We then denote the\nray by AP.\nFigure it Out\n1.\nCan you help Rihan and Sheetal find their answers?\nA\nP\nFig. 2.3\nRihan marked a point\non a piece of paper.\nHow many lines can he\ndraw that pass through\nthe point?\nSheetal marked two points\non a piece of paper. How\nmany different lines can\nshe draw that pass through\nboth of the points?\nReprint 2025-26\nGanita Prakash | Grade 6\n2.\t Name the line segments in Fig. 2.4. Which of the five marked\npoints are on exactly one of the line segments?  Which are on two\nof the line segments?\nL\nM\nP\nQ\nR\nFig. 2.4\n3.\t \u0007Name the rays shown in Fig. 2.5. Is T the sta\n\n[NCERT Grade6 Ch2 — Comparing Angles]\nLook at these animals opening their mouths. Do you see any angles\nhere? If yes, mark the arms and vertex of each one. Some mouths are\nopen wider than others; the more the turning of the jaws, the larger\nthe angle! Can you arrange the angles in this picture from smallest to\nlargest?\nIs it always easy to compare two angles?\nHere are some angles. Label each of the angles. How will you\ncompare them?\nDraw a few more angles; label them and compare.\nMath\nTalk\nReprint 2025-26\nGanita Prakash | Grade 6\nComparing angles by superimposition\nAny two angles can be compared by placing them one over the other,\ni.e., by superimposition. While superimposing, the vertices of the\nangles must overlap.\nAfter superimposition, it becomes clear which angle is smaller\nand which is larger.\nB\nA\nC\nQ\nP\nR\nQ (B)\nP\nA\nC\nR\nThe picture shows the two angles superimposed. It is now clear\nthat ∠PQR is larger than ∠ABC.\nEqual angles. Now consider ∠AOB and ∠XOY in the figure. Which\nis greater?\nY\nO\nX\nO\nB\nY\nX\nA\nO\nB\nA\nThe corners\n\n[NCERT Grade6 Ch2 — Making Rotating Arms]\nLet us make ‘rotating arms’ using two paper straws and a paper clip\nby following these steps:\n1.\t Take two paper straws and a paper clip. \b\n2.\t Insert the straws into the arms of the paper\nclip.\n3.\t Your rotating arm is ready!\nMake several ‘rotating arms’ with different angles between the\narms. Arrange the angles you have made from smallest to largest by\ncomparing and using superimposition.\nPassing through a slit: Collect a number of rotating arms with different\nangles; do not rotate any of the rotating arms during this activity.\nReprint 2025-26\nGanita Prakash | Grade 6\nTake a cardboard and make an angle-shaped slit as shown below\nby tracing and cutting out the shape of one of the rotating arms.\nNow, shuffle and mix up all the rotating arms. Can you identify\nwhich of the rotating arms will pass through the slit?\nThe correct one can be found by placing each of the rotating arms\nover the slit. Let us do this for some of the rotating arms:\nSlit angle is greater than\nthe arms’ angle. The a",
+  "context_sources": [
+    "ncert:grade6/maths/ch2",
+    "ncert:grade6/maths/ch2",
+    "ncert:grade6/maths/ch2",
+    "ncert:grade6/maths/ch2",
+    "ncert:grade6/maths/ch2"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Points, Lines and Planes"
+  ],
+  "prerequisites_descriptions": {
+    "Points, Lines and Planes": "Fundamental undefined terms: point, line, ray, line segment, plane"
+  },
+  "successors_to_link": [
+    "Measuring Angles with Protractor",
+    "Rotational Symmetry",
+    "Basic Geometric Constructions",
+    "Parallel Lines and Transversals",
+    "Types of Triangles"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Points, Lines and Planes",
+    "Measuring Angles with Protractor",
+    "Rotational Symmetry",
+    "Basic Geometric Constructions",
+    "Parallel Lines and Transversals",
+    "Types of Triangles",
+    "Types of Angles and Angle Pairs",
+    "Line Symmetry and Reflection"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

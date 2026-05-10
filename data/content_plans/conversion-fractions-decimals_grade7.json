@@ -1,0 +1,50 @@
+{
+  "concept_slug": "conversion-fractions-decimals",
+  "canonical_name": "Conversion Between Fractions and Decimals",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Number Systems",
+  "description": "Converting fractions to decimals and vice versa",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch3 — Locating and Comparing Decimals]\nLet us consider the decimal number 1.4. It is equal to 1 unit and 4\ntenths. This means that the unit between 1 and 2 is divided into 10\nGanita Prakash | Grade 7\nequal parts, and 4 such parts are taken. Hence, 1.4 lies between 1 and\n2. Draw the number line and divide the unit between 1 and 2 into 10\nequal parts. Take the fourth part, and we have 1.4 on the number line.\n1.1\n1.2\n1.3\n1.4\n1.5\n1.6\n1.7\n1.8\n1.9\nName all the divisions between 1 and 1.1 on the number line.\n1.04\n1.1\n1.2\n1.3\nIdentify and write the decimal numbers against the letters.\nA\n5.1\n5.3\n5.4\nB\nC\nD\nThere is Zero Dilemma!\nSonu says that 0.2 can also be written as 0.20, 0.200; Zara thinks that\nputting zeros on the right side may alter the value of the decimal\nnumber. What do you think?\nWe can figure this out by looking at the quantities these numbers\nrepresent using place value.\nDecimal\nnumber\nUnits\nTenths\nHundredths\nThousandths\n0.2\n0.20\n0.200\n0.02\n0.002\nWe can see that 0.2, 0.20, and 0.200 are all equal as they represent\nthe s\n\n[NCERT Grade7 Ch3 — Addition and Subtraction of Decimals]\nPriya requires 2.7 m of cloth for her skirt, and Shylaja requires 3.5m\nfor her kurti. What is the total quantity of cloth needed?\nWe have to find the sum of 2.7m + 3.5m.\nEarlier, we saw how to add 2 7\n10 + 3 5\n10 (also shown below). Can you\ncarry out the same addition using decimal notation? It is shown below.\nShare your observations.\nThe total quantity of cloth needed is 6.2 m.\nHow much longer is Shylaja’s cloth compared to Priya’s?\nWe have to find the difference of 3.5m – 2.7m. Again, observe how\nthe differences 3 5\n10 – 2 7\n10 and 3.5m – 2.7m are computed.\nAs you can see, the standard procedure for adding and subtracting\nwhole numbers can be used to add and subtract decimals.\nA detailed view of the underlying place value calculation is shown\nbelow for the sum 75.345 + 86.691. Its compact form is shown next to it.\n2   7\n+ 3   5\n=   5   12\n=   6   2\n2.7\n+ 3.5\n=  6.2\n3   5\n– 2   7\n2   15\n– 2   7\n3.5\n– 2.7\n3.5\n– 2.7\n=  0   8\n=  0.8\n2  1\nA Peek Beyond the Point\nWrite the detailed place v",
+  "context_sources": [
+    "ncert:grade7/maths/ch3",
+    "ncert:grade7/maths/ch3"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Decimals",
+    "Fractions"
+  ],
+  "prerequisites_descriptions": {
+    "Decimals": "Representing fractions with denominators as powers of 10",
+    "Fractions": "Numbers of the form a/b representing parts of a whole"
+  },
+  "successors_to_link": [
+    "Decimal Expansions of Real Numbers"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Decimals",
+    "Fractions",
+    "Decimal Expansions of Real Numbers",
+    "Integers",
+    "Operations on Integers",
+    "Decimal Operations",
+    "Multiplication and Division of Fractions",
+    "Rational Numbers",
+    "Operations on Rational Numbers",
+    "Rational Numbers on the Number Line"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

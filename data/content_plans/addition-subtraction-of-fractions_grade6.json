@@ -1,0 +1,51 @@
+{
+  "concept_slug": "addition-subtraction-of-fractions",
+  "canonical_name": "Addition and Subtraction of Fractions",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Systems",
+  "description": "Adding/subtracting fractions with like and unlike denominators",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch7 — Addition and Subtraction of Fractions]\nMeena’s father made some chikki. Meena ate 1\nof it and her younger brother ate 1\n4 of it. How\nmuch of the total chikki did Meena and her\nbrother eat together?\nWe can arrive at the answer by visualising it. Let us take a piece\nof chikki and divide it into two halves first like this.\nMeena ate 1\n2 of it as\nshown in the picture.\nLet us now divide the\nremaining half into two further halves as shown. Each of these\npieces is 1\n4 of the whole chikki.\nMeena’s brother ate 1\nof the whole chikki, as is\nshown in the picture.\nThe total chikki eaten\nis 1\n2 (by Meena) and 1\n4 (by her\nbrother)\n\u0007The total chikki eaten\n= 1\n2 + 1\n= 1\n4 + 1\n4 + 1\n= 3 × 1\n4 = 3\n4.\nHow much of the total chikki is remaining?\nMeena ate\nMeena ate\nBrother ate\nTotal chikki eaten\nReprint 2025-26\nGanita Prakash | Grade 6\nAdding fractions with the same fractional unit or\ndenominator\nExample: Find the sum of 2\n5 and 1\n5.\nLet us represent both using the rectangular strips. In both fractions,\nthe fractional unit is the same 1\n5 , so, \n\n[NCERT Grade6 Ch7 — Comparing Fractions]\nWhich is greater, 4\n5 or 7\n9? It can be difficult to compare two such\nfractions directly.  However, we know how to find fractions equivalent\nto two fractions with the same denominator. Let us see how we can\nuse it:\n5  =  4×9\n5×9 = 36\n9  =  7×5\n9×5  = 35\n45.\n45 is a common multiple\nof 5 and 9, so we can\nuse 45 as a common\ndenominator.\nReprint 2025-26\nGanita Prakash | Grade 6\nClearly,  36\n45 > 35\nSo, 4\n5 > 7\n9 !\nLet us try this for another pair: 7\n9 and 17\n21.\n63 is a common multiple of 9 and 21. We can then write:\n9 = 7×7\n9×7 =  49\n63 ,  17\n21 = 17×3\n21×3 = 51\n63.\nClearly,  49\n63 < 51\n63 . So, 7\n9 < 17\n21!\nLet’s Summarise!\nSteps to compare the sizes of two or more given fractions:\nStep 1: \u0007Change the given fractions to equivalent fractions so that\nthey all are expressed with the same denominator or same\nfractional unit.\nStep 2: \u0007Now, compare the equivalent fractions by simply comparing\nthe numerators, i.e., the number of fractional units each has.\nFigure it Out\n\u00071. \u0007Compare the followin",
+  "context_sources": [
+    "ncert:grade6/maths/ch7",
+    "ncert:grade6/maths/ch7"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Comparing and Ordering Fractions",
+    "LCM and GCD (HCF)"
+  ],
+  "prerequisites_descriptions": {
+    "Comparing and Ordering Fractions": "Using common denominators or cross-multiplication to compare fractions",
+    "LCM and GCD (HCF)": "Least Common Multiple and Greatest Common Divisor using prime factorisation"
+  },
+  "successors_to_link": [
+    "Multiplication and Division of Fractions"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Comparing and Ordering Fractions",
+    "LCM and GCD (HCF)",
+    "Multiplication and Division of Fractions",
+    "Natural Numbers",
+    "Whole Numbers",
+    "Place Value and Indian Numeration",
+    "Number Line",
+    "Integers",
+    "Operations on Integers",
+    "Fractions",
+    "Types of Fractions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

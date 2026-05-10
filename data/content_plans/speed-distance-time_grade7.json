@@ -1,0 +1,41 @@
+{
+  "concept_slug": "speed-distance-time",
+  "canonical_name": "Speed, Distance and Time",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Proportional Reasoning",
+  "description": "speed = distance/time; unit conversions",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Unitary Method and Direct Proportion",
+    "Decimal Operations"
+  ],
+  "prerequisites_descriptions": {
+    "Unitary Method and Direct Proportion": "Finding value of one unit; y = kx",
+    "Decimal Operations": "Addition, subtraction, multiplication and division of decimals"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Unitary Method and Direct Proportion",
+    "Decimal Operations",
+    "Ratios and Proportions",
+    "Percentage",
+    "Percentage Increase and Decrease",
+    "Profit, Loss and Discount",
+    "Simple Interest"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

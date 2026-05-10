@@ -1,0 +1,46 @@
+{
+  "concept_slug": "cross-product",
+  "canonical_name": "Cross (Vector) Product",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Vectors",
+  "description": "a⃗×b⃗ = |a||b|sinθ n̂; properties; area of parallelogram/triangle",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch10 — Product of Two Vectors]\nSo far we have studied about addition and subtraction of vectors. An other algebraic\noperation which we intend to discuss regarding vectors is their product. We may\nrecall that product of two numbers is a number, product of two matrices is again a\nmatrix. But in case of functions, we may multiply them in two ways, namely,\nmultiplication of two functions pointwise and composition of two functions. Similarly,\nmultiplication of two vectors is also defined in two ways, namely, scalar (or dot)\nproduct where the result is a scalar, and vector (or cross) product where the\nresult is a vector. Based upon these two types of products for vectors, they have\nfound various applications in geometry, mechanics and engineering. In this section,\nwe will discuss these two types of products.\n10.6.1  Scalar (or dot) product of two vectors",
+  "context_sources": [
+    "ncert:grade12/maths/ch10"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Dot (Scalar) Product"
+  ],
+  "prerequisites_descriptions": {
+    "Dot (Scalar) Product": "a⃗·b⃗ = |a||b|cosθ; properties; projection"
+  },
+  "successors_to_link": [
+    "Scalar Triple Product",
+    "Shortest Distance Between Two Lines"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Dot (Scalar) Product",
+    "Scalar Triple Product",
+    "Shortest Distance Between Two Lines",
+    "Vectors — Introduction",
+    "Types of Vectors",
+    "Addition of Vectors",
+    "Scalar Multiplication of Vectors"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,47 @@
+{
+  "concept_slug": "conversion-fractions-decimals",
+  "canonical_name": "Conversion Between Fractions and Decimals",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Systems",
+  "description": "Converting fractions to decimals and vice versa",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Decimals",
+    "Fractions"
+  ],
+  "prerequisites_descriptions": {
+    "Decimals": "Representing fractions with denominators as powers of 10",
+    "Fractions": "Numbers of the form a/b representing parts of a whole"
+  },
+  "successors_to_link": [
+    "Decimal Expansions of Real Numbers"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Decimals",
+    "Fractions",
+    "Decimal Expansions of Real Numbers",
+    "Natural Numbers",
+    "Whole Numbers",
+    "Place Value and Indian Numeration",
+    "Number Line",
+    "Integers",
+    "Operations on Integers",
+    "Types of Fractions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

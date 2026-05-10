@@ -1,0 +1,42 @@
+{
+  "concept_slug": "symmetric-skew-symmetric",
+  "canonical_name": "Symmetric and Skew-Symmetric Matrices",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Linear Algebra",
+  "description": "A=Aᵀ or A=−Aᵀ; every square matrix = symmetric + skew-symmetric",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch3 — Symmetric and Skew Symmetric Matrices]\nDefinition 4 A square matrix A = [aij] is said to be symmetric if A′ = A, that is,\n[aij] = [aji] for all possible values of i and j.\nFor example\nA\n1.5\n\n\n\n\n=\n−\n−\n\n\n\n\n−\n\n\nis a symmetric matrix as A′ = A\nDefinition 5 A square matrix A = [aij] is said to be skew symmetric matrix if\nA′ = – A, that is aji = – aij for all possible values of i  and j. Now, if we put i = j, we\nhave aii = – aii. Therefore 2aii = 0 or aii = 0 for all i’s.\nThis means that all the diagonal elements of a skew symmetric matrix are zero.\nReprint 2025-26\nFor example, the matrix\nB\ne\nf\ne\ng\nf\ng\n\n\n\n\n= −\n\n\n\n\n−\n−\n\n\nis a skew symmetric matrix as B′= –B\nNow, we are going to prove some results of symmetric and skew-symmetric\nmatrices.\nTheorem 1 For any square matrix A with real number entries, A + A′ is a symmetric\nmatrix and A – A′ is a skew symmetric matrix.\nProof Let B = A + A′, then\nB′ = (A + A′)′\n= A′ + (A′)′ (as (A + B)′ = A′ + B′)\n= A′ + A (as (A′)′ = A)\n= A + A′ (as A + B = B + A)\n= B\nTherefore\nB = A",
+  "context_sources": [
+    "ncert:grade12/maths/ch3"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Transpose of a Matrix"
+  ],
+  "prerequisites_descriptions": {
+    "Transpose of a Matrix": "(Aᵀ)ᵢⱼ = Aⱼᵢ; properties of transpose"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Transpose of a Matrix",
+    "Matrices",
+    "Types of Matrices",
+    "Operations on Matrices",
+    "Determinants",
+    "Properties of Determinants",
+    "Minors and Cofactors",
+    "Adjoint and Inverse of a Matrix"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

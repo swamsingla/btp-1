@@ -1,0 +1,642 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "total_topics": 56,
+  "topics": [
+    {
+      "raw_name": "Introduction",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Definition of Sets and Set Notations",
+        "Empty Set and Universal Set",
+        "Subsets and Supersets",
+        "Operations on Sets - Union, Intersection, Difference",
+        "Complement of a Set"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT RELATIONS AND FUNCTIONS"
+    },
+    {
+      "raw_name": "Types of Relations",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT RELATIONS AND FUNCTIONS"
+    },
+    {
+      "raw_name": "Types of Functions",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT RELATIONS AND FUNCTIONS"
+    },
+    {
+      "raw_name": "Composition of Functions and Invertible Function",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT RELATIONS AND FUNCTIONS"
+    },
+    {
+      "raw_name": "Basic Concepts",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INVERSE TRIGONOMETRIC FUNCTIONS"
+    },
+    {
+      "raw_name": "Properties of Inverse Trigonometric Functions",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INVERSE TRIGONOMETRIC FUNCTIONS"
+    },
+    {
+      "raw_name": "Matrix",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Order of a matrix"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATRICES"
+    },
+    {
+      "raw_name": "Types of Matrices",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Equality of matrices"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATRICES"
+    },
+    {
+      "raw_name": "Operations on Matrices",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Addition of matrices",
+        "Multiplication of a matrix by a scalar",
+        "Properties of matrix addition",
+        "Properties of scalar multiplication of a matrix",
+        "Multiplication of matrices",
+        "Properties of multiplication of matrices",
+        "Properties of transpose of the matrices"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATRICES"
+    },
+    {
+      "raw_name": "Symmetric and Skew Symmetric Matrices",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATRICES"
+    },
+    {
+      "raw_name": "Invertible Matrices",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATRICES"
+    },
+    {
+      "raw_name": "Determinant",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Determinant of a matrix of order one",
+        "Determinant of a matrix of order two",
+        "Determinant of a matrix of order 3 × 3"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT DETERMINANTS"
+    },
+    {
+      "raw_name": "Area of a Triangle",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT DETERMINANTS"
+    },
+    {
+      "raw_name": "Minors and Cofactors",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT DETERMINANTS"
+    },
+    {
+      "raw_name": "Adjoint and Inverse of a Matrix",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Adjoint of a matrix"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT DETERMINANTS"
+    },
+    {
+      "raw_name": "Applications of Determinants and Matrices",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT DETERMINANTS"
+    },
+    {
+      "raw_name": "Continuity",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Algebra of continuous functions",
+        "Derivatives of composite functions",
+        "Derivatives of implicit functions",
+        "Derivatives of inverse trigonometric functions"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONTINUITY AND DIFFERENTIABILITY"
+    },
+    {
+      "raw_name": "Exponential and Logarithmic Functions",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONTINUITY AND DIFFERENTIABILITY"
+    },
+    {
+      "raw_name": "Derivatives of Functions in Parametric Forms",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONTINUITY AND DIFFERENTIABILITY"
+    },
+    {
+      "raw_name": "Second Order Derivative",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONTINUITY AND DIFFERENTIABILITY"
+    },
+    {
+      "raw_name": "Rate of Change of Quantities",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT APPLICATION OF DERIVATIVES"
+    },
+    {
+      "raw_name": "Increasing and Decreasing Functions",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT APPLICATION OF DERIVATIVES"
+    },
+    {
+      "raw_name": "Maxima and Minima",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Maximum and Minimum Values of a Function in a Closed Interval"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT APPLICATION OF DERIVATIVES"
+    },
+    {
+      "raw_name": "Integration as an Inverse Process of Differentiation",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Some properties of indefinite integral"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTEGRALS"
+    },
+    {
+      "raw_name": "Methods of Integration",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Integration by substitution",
+        "Integration using trigonometric identities"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTEGRALS"
+    },
+    {
+      "raw_name": "Integrals of Some Particular Functions",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTEGRALS"
+    },
+    {
+      "raw_name": "Integration by Partial Fractions",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTEGRALS"
+    },
+    {
+      "raw_name": "Integration by Parts",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Integral of the type",
+        "Integrals of some more types"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTEGRALS"
+    },
+    {
+      "raw_name": "Definite Integral",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTEGRALS"
+    },
+    {
+      "raw_name": "Fundamental Theorem of Calculus",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Area function",
+        "First fundamental theorem of integral calculus",
+        "Second fundamental theorem of integral calculus"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTEGRALS"
+    },
+    {
+      "raw_name": "Evaluation of Definite Integrals by Substitution",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTEGRALS"
+    },
+    {
+      "raw_name": "Some Properties of Definite Integrals",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTEGRALS"
+    },
+    {
+      "raw_name": "Area under Simple Curves",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT APPLICATION OF INTEGRALS"
+    },
+    {
+      "raw_name": "Types of Vectors",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT VECTOR ALGEBRA"
+    },
+    {
+      "raw_name": "Addition of Vectors",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT VECTOR ALGEBRA"
+    },
+    {
+      "raw_name": "Multiplication of a Vector by a Scalar",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Components of a vector",
+        "Vector joining two points",
+        "Section formula"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT VECTOR ALGEBRA"
+    },
+    {
+      "raw_name": "Product of Two Vectors",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Scalar (or dot) product of two vectors",
+        "Projection of a vector on a line"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT VECTOR ALGEBRA"
+    },
+    {
+      "raw_name": "Direction Cosines and Direction Ratios of a Line",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Direction cosines of a line passing through two points"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THREE DIMENSIONAL GEOMETRY"
+    },
+    {
+      "raw_name": "Equation of a Line in Space",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THREE DIMENSIONAL GEOMETRY"
+    },
+    {
+      "raw_name": "Angle between Two Lines",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THREE DIMENSIONAL GEOMETRY"
+    },
+    {
+      "raw_name": "Shortest Distance between Two Lines",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Distance between two skew lines",
+        "Distance between parallel lines"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THREE DIMENSIONAL GEOMETRY"
+    },
+    {
+      "raw_name": "Linear Programming Problem and its Mathematical Formulation",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Mathematical formulation of the problem",
+        "Graphical method of solving linear programming problems"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LINEAR PROGRAMMING"
+    },
+    {
+      "raw_name": "Conditional Probability",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Properties of conditional probability"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROBABILITY"
+    },
+    {
+      "raw_name": "Multiplication Theorem on Probability",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROBABILITY"
+    },
+    {
+      "raw_name": "Independent Events",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROBABILITY"
+    },
+    {
+      "raw_name": "Bayes' Theorem",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Partition of a sample space",
+        "Theorem of total probability"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROBABILITY"
+    },
+    {
+      "raw_name": "Differential Equations",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Numerical Methods",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Binomial Distribution",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Normal Distribution",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Hypothesis Testing",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Regression Analysis",
+      "source_boards": [],
+      "note": "",
+      "subtopics": [
+        "Linear Regression Equation Derivation",
+        "Coefficient of Determination Calculation",
+        "Multiple Linear Regression Model Fitting",
+        "Hypothesis Testing in Simple Linear Regression",
+        "Residual Plots Interpretation"
+      ]
+    },
+    {
+      "raw_name": "Three Dimensional Geometry",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Probability Distributions",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Random Variables",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Bernoulli Trials",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "concept_slug": "circumference-and-area-of-circle",
+  "canonical_name": "Circumference and Area of Circle",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Mensuration",
+  "description": "Advanced problems involving circles; sector and segment intro",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Area of a Circle",
+    "Circumference of a Circle"
+  ],
+  "prerequisites_descriptions": {
+    "Area of a Circle": "A = πr²",
+    "Circumference of a Circle": "C = 2πr or πd; introduction of π"
+  },
+  "successors_to_link": [
+    "Surface Area of Cylinder",
+    "Surface Area of Cone",
+    "Surface Area of Sphere",
+    "Area of Sector and Segment of a Circle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Area of a Circle",
+    "Circumference of a Circle",
+    "Surface Area of Cylinder",
+    "Surface Area of Cone",
+    "Surface Area of Sphere",
+    "Area of Sector and Segment of a Circle",
+    "Area of Triangles",
+    "Heron's Formula",
+    "Visualising 3D Shapes",
+    "Surface Area of Cuboid and Cube",
+    "Volume of Cuboid and Cube"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

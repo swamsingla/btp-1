@@ -1,0 +1,44 @@
+{
+  "concept_slug": "partial-fractions",
+  "canonical_name": "Partial Fractions",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "Decomposing p(x)/q(x) into simpler fractions",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Factorisation of Polynomials",
+    "Operations on Rational Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Factorisation of Polynomials": "Factorising using splitting middle term, identities, factor theorem",
+    "Operations on Rational Numbers": "Addition, subtraction, multiplication, division; properties"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Factorisation of Polynomials",
+    "Operations on Rational Numbers",
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Functions",
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Complex Numbers",
+    "Algebra of Complex Numbers"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

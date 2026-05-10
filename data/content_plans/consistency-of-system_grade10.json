@@ -1,0 +1,40 @@
+{
+  "concept_slug": "consistency-of-system",
+  "canonical_name": "Consistency of a System of Equations",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Algebra",
+  "description": "Consistent, inconsistent and dependent systems; graphical interpretation",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pair of Linear Equations in Two Variables"
+  ],
+  "prerequisites_descriptions": {
+    "Pair of Linear Equations in Two Variables": "Solving systems graphically and algebraically"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Pair of Linear Equations in Two Variables",
+    "Zeroes of a Polynomial",
+    "Relationship Between Zeroes and Coefficients",
+    "Quadratic Equations",
+    "Quadratic Formula",
+    "Completing the Square",
+    "Nature of Roots — Discriminant",
+    "Substitution Method"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

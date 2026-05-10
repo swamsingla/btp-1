@@ -1,0 +1,51 @@
+{
+  "concept_slug": "modulus-and-argument",
+  "canonical_name": "Modulus and Argument of a Complex Number",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "|z|=√(a²+b²); arg(z)=tan⁻¹(b/a); polar form",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch4 — The Modulus and the Conjugate of a Complex Number]\nLet z = a + ib be a complex number. Then, the modulus of z, denoted by | z |, is defined\nto be the  non-negative real number\na\nb\n+\n, i.e., | z | =\na\nb\n+\nand the conjugate\nof z, denoted as z , is the complex number a –  ib, i.e.,  z  = a –  ib.\nFor example,\ni\n+\n=\n+\n=\n,\n(\n5)\ni\n−\n=\n+ −\n=\n,\nand\ni\ni\n+ =\n−,  2\ni\ni\n−\n=\n+\n, 3\ni\n−\n−\n= 3i – 5\nObserve that the multiplicative inverse of the non-zero complex number z is\ngiven by\nz–1 =\na\nib\n+\n=\na\nb\ni\na\nb\na\nb\n−\n+\n+\n+\n=\na\nib\na\nb\n−\n+\n=\nz\nz\nor\nz\nz\nz\n=\nFurthermore, the following results can easily be derived.\nFor any two compex numbers z1 and z2 , we have\n(i)\nz z\nz\nz\n=\n(ii)\nz\nz\nz\nz\n=\nprovided\nz\n≠\n(iii)\n1 2\nz z\nz z\n=\n(iv)\nz\nz\nz\nz\n±\n=\n±\n(v)\nz\nz\nz\nz\n\n=\n\n\n\n\nprovided z2 ≠ 0.\nReprint 2025-26\n82       MATHEMATICS\nExample 5 Find the multiplicative inverse of 2 –  3i.\nSolution\nLet z = 2 –  3i\nThen\nz  = 2 + 3i and\n(\n3)\nz\n=\n+ −\n=\nTherefore,   the multiplicative inverse of 2\n3i\n−\nis given by\nz–1\nz\ni\ni\nz\n+\n=\n=\n=\n+\nThe above working can be reproduced in the foll\n\n[NCERT Grade11 Ch4 — Algebra of Complex Numbers]\nIn this Section, we shall develop the algebra of complex numbers.\n4.3.1   Addition of two complex numbers Let z1 = a + ib and z2 = c + id be any two",
+  "context_sources": [
+    "ncert:grade11/maths/ch4",
+    "ncert:grade11/maths/ch4"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Algebra of Complex Numbers",
+    "Trigonometric Ratios"
+  ],
+  "prerequisites_descriptions": {
+    "Algebra of Complex Numbers": "Addition, subtraction, multiplication, division; conjugate",
+    "Trigonometric Ratios": "sin, cos, tan, cosec, sec, cot in a right triangle"
+  },
+  "successors_to_link": [
+    "Argand Plane and Polar Representation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Algebra of Complex Numbers",
+    "Trigonometric Ratios",
+    "Argand Plane and Polar Representation",
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Functions",
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Complex Numbers"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,59 @@
+{
+  "concept_slug": "continuity-of-functions",
+  "canonical_name": "Continuity of Functions",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "f continuous at a iff lim f(x) = f(a); algebra of continuous functions",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade12 Ch5 — Algebra of continuous functions]\nIn the previous class, after having understood the concept of limits, we learnt some\nalgebra of limits. Analogously, now we will study some algebra of continuous functions.\nSince continuity of a function at a point is entirely dictated by the limit of the function at\nthat point, it is reasonable to expect results analogous to the case of limits.\nTheorem 1 Suppose f and g be two real functions continuous at a real number c.\nThen\n(1)\nf + g is continuous at x = c.\n(2)\nf – g is continuous at x = c.\n(3)\nf . g is continuous at x = c.\n(4)\nf\ng\n\n\n\n\n\n\nis continuous at x = c, (provided g(c) ≠ 0).\nProof We are investigating continuity of (f + g) at x = c. Clearly it is defined at\nx = c. We have\nlim(\n)( )\nx\nc f\ng\nx\n→\n+\n= lim[ ( )\n( )]\nx\nc f x\ng x\n→\n+\n(by definition of f + g)\n= lim\n( )\nlim ( )\nx\nc\nx\nc\nf x\ng x\n→\n→\n+\n(by the theorem on limits)\n= f (c) + g(c)\n(as f and g are continuous)\n= (f + g) (c)\n(by definition of f + g)\nHence, f + g is continuous at x = c.\nProofs for the remaining parts are \n\n[NCERT Grade12 Ch5 — Derivatives of composite functions]\nTo study derivative of composite functions, we start with an illustrative example. Say,\nwe want to find the derivative of f, where\nf (x) = (2x + 1)3\nReprint 2025-26\nCONTINUITY AND DIFFERENTIABILITY\nOne way is to expand (2x + 1)3 using binomial theorem and find the derivative as\na polynomial function as illustrated below.\n( )\nd f x\ndx\n=\n(2\n1)\nd\nx\ndx\n\n\n+\n\n\n=\n(8\n1)\nd\nx\nx\nx\ndx\n+\n+\n+\n= 24x2 + 24x + 6\n= 6 (2x + 1)2\nNow, observe that\nf (x) = (h o g) (x)\nwhere g(x) = 2x + 1 and h(x) = x3. Put t = g(x) = 2x + 1. Then f(x) = h(t) = t3. Thus\ndf\ndx  =\n6 (2x + 1)2 = 3(2x + 1)2 . 2 = 3t2 . 2 = dh dt\ndt\ndx\n⋅\nThe advantage with such observation is that it simplifies the calculation in finding\nthe derivative of, say, (2x + 1)100. We may formalise this observation in the following\ntheorem called the chain rule.\nTheorem 4 (Chain Rule) Let f be a real valued function which is a composite of two\nfunctions u and v; i.e., f = v o u. Suppose t = u(x) and if both dt\ndx  and dv\ndt  exist, we have\ndf\ndv dt\nd",
+  "context_sources": [
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch5"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Algebra of Limits",
+    "Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Algebra of Limits": "Limit laws: sum, product, quotient; squeeze theorem",
+    "Functions": "A relation where each input has exactly one output"
+  },
+  "successors_to_link": [
+    "Types of Discontinuity",
+    "Differentiability",
+    "Exponential and Logarithmic Functions",
+    "Rolle's Theorem",
+    "Fundamental Theorem of Calculus"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Algebra of Limits",
+    "Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Exponential and Logarithmic Functions",
+    "Rolle's Theorem",
+    "Fundamental Theorem of Calculus",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Derivatives in Parametric Form"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

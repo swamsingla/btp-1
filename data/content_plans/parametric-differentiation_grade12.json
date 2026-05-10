@@ -1,0 +1,43 @@
+{
+  "concept_slug": "parametric-differentiation",
+  "canonical_name": "Derivatives in Parametric Form",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "dy/dx = (dy/dt)/(dx/dt)",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch5 — Derivatives of Functions in Parametric Forms]\nSometimes the relation between two variables is neither explicit nor implicit, but some\nlink of a third variable with each of the two variables, separately, establishes a relation\nbetween the first two variables. In such a situation, we say that the relation between\nReprint 2025-26\nCONTINUITY AND DIFFERENTIABILITY\nthem is expressed via a third variable. The third variable is called the parameter. More\nprecisely, a relation expressed between two variables x and y in the form\nx = f(t), y = g (t) is said to be parametric form with t as a parameter.\nIn order to find derivative of function in such form, we have by chain rule.\ndy\ndt  = dy dx\ndx dt\n⋅\nor\ndy\ndx  =\nwhenever\ndy\ndx\ndt\ndx\ndt\ndt\n\n\n≠\n\n\n\n\nThus\ndy\ndx  =\n( )\nas\n( ) and\n( )\n( )\ng t\ndy\ndx\ng t\nf t\nf t\ndt\ndt\n′\n\n\n=\n′\n=\n′\n\n\n′\n\n [provided f′(t) ≠ 0]\nExample 31 Find dy\ndx , if x = a cos θ, y = a sin θ.\nSolution Given that\nx = a cos θ, y = a sin θ\nTherefore\ndx\ndθ  = – a sin θ, dy\ndθ  = a cos θ\nHence\ndy\ndx  =\ncos\ncot\nsin\ndy\na\nd\ndx\na\nd\n\n[NCERT Grade12 Ch5 — Derivatives of inverse trigonometric functions]\nWe remark that inverse trigonometric functions are continuous functions, but we will\nnot prove this. Now we use chain rule to find derivatives of these functions.\nExample 24 Find the derivative of f given by f(x) = sin–1 x assuming it exists.\nSolution Let y = sin–1 x. Then, x = sin y.\nDifferentiating both sides w.r.t. x, we get\n1 = cos y dy\ndx\nwhich implies that\ndy\ndx  =\ncos\ncos(sin\n)\ny\nx\n−\n=\nObserve that this is defined only for cos y ≠ 0, i.e., sin–1 x ≠\n,\n2 2\nπ π\n−\n, i.e., x ≠ – 1, 1,\ni.e., x ∈ (– 1, 1).\nTo make this result a bit more attractive, we carry out the following manipulation.\nRecall that for x ∈ (– 1, 1), sin (sin–1 x) = x and hence\ncos2 y = 1 – (sin y)2 = 1 – (sin (sin–1 x))2 = 1 – x2\nAlso, since y ∈\n,\n2 2\nπ π\n\n\n−\n\n\n\n, cos y is positive and hence cos y =\nx\n−\nThus, for x ∈ (– 1, 1),\ncos\ndy\ndx\ny\nx\n=\n=\n−\nx\n−\nx\n−\n−\nx\n+\nf(x)                    sin–1 x                      cos-1 x                   tan-1x\nDomain off               (-1, 1)                     (-1, 1)",
+  "context_sources": [
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch5"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Chain Rule"
+  ],
+  "prerequisites_descriptions": {
+    "Chain Rule": "d/dx[f(g(x))] = f′(g(x))·g′(x)"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Chain Rule",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

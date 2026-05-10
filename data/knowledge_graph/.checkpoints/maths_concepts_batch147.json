@@ -1,0 +1,29 @@
+[
+  {
+    "canonical_name": "Area of Trapezimum",
+    "slug": "area-of-trapezimum",
+    "_aliases": [
+      "Trapezium Area",
+      "Area of Trapeizum"
+    ],
+    "domain": "Geometry",
+    "area": "Quadrilaterals",
+    "parent": "",
+    "grades": [
+      7
+    ],
+    "importance-by-grade": {
+      "7": 5,
+      "8": "",
+      "9": "",
+      "10": "",
+      "11": "",
+      "12": ""
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

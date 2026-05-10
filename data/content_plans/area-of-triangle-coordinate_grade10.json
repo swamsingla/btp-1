@@ -1,0 +1,41 @@
+{
+  "concept_slug": "area-of-triangle-coordinate",
+  "canonical_name": "Area of Triangle using Coordinates",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Coordinate Geometry",
+  "description": "½|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Section Formula and Midpoint"
+  ],
+  "prerequisites_descriptions": {
+    "Section Formula and Midpoint": "Internal and external division of a line segment in a given ratio"
+  },
+  "successors_to_link": [
+    "Collinearity of Points",
+    "Area of Triangle Using Determinants"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Section Formula and Midpoint",
+    "Collinearity of Points",
+    "Area of Triangle Using Determinants",
+    "Distance Formula"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

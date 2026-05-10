@@ -1,0 +1,39 @@
+{
+  "concept_slug": "area-of-parallelogram",
+  "canonical_name": "Area of Parallelogram",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Mensuration",
+  "description": "Area = base × height",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Area of Triangles"
+  ],
+  "prerequisites_descriptions": {
+    "Area of Triangles": "Area = ½ × base × height for any triangle"
+  },
+  "successors_to_link": [
+    "Area of Trapezium"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Area of Triangles",
+    "Area of Trapezium",
+    "Area of 2D Figures",
+    "Circumference of a Circle",
+    "Area of a Circle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,42 @@
+{
+  "concept_slug": "compound-interest",
+  "canonical_name": "Compound Interest",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Proportional Reasoning",
+  "description": "A = P(1 + R/100)ⁿ",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Exponents and Powers",
+    "Simple Interest"
+  ],
+  "prerequisites_descriptions": {
+    "Exponents and Powers": "aⁿ notation; laws of exponents for integer exponents",
+    "Simple Interest": "I = PRT/100"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Exponents and Powers",
+    "Simple Interest",
+    "Percentage",
+    "Unitary Method and Direct Proportion",
+    "Profit, Loss and Discount",
+    "Inverse Proportion",
+    "Tax, VAT and GST",
+    "Direct and Inverse Variation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

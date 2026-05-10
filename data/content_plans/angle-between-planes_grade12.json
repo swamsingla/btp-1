@@ -1,0 +1,40 @@
+{
+  "concept_slug": "angle-between-planes",
+  "canonical_name": "Angle Between Two Planes",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Coordinate Geometry",
+  "description": "Using normal vectors",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch11 — Angle between Two Lines]\nLet L1 and L2 be two lines passing through the origin\nand with direction ratios a1, b1, c1 and a2, b2, c2,\nrespectively. Let P be a point on L1 and Q be a point\non L2. Consider the directed lines OP and OQ as\ngiven in Fig 11.6. Let θ be the acute angle between\nOP and OQ. Now recall that the directed line\nsegments OP and OQ are vectors with components\na1, b1, c1 and a2, b2, c2, respectively. Therefore, the\nangle θ between them is given by\ncosθ =\n1 2\n1 2\n1 2\na a\nb b\nc c\na\nb\nc\na\nb\nc\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n... (1)\nThe angle between the lines in terms of sin θ is given by\nsin θ =\ncos\n−\nθ\n=\n(\n)(\n)\n1 2\n1 2\n1 2\n(\n)\na a\nb b\nc c\na\nb\nc\na\nb\nc\n+\n+\n−\n+\n+\n+\n+\n=\n(\n)(\n) (\n)\n(\n) (\n)\n1 2\n1 2\n1 2\na\nb\nc\na\nb\nc\na a\nb b\nc c\na\nb\nc\na\nb\nc\n+\n+\n+\n+\n−\n+\n+\n+\n+\n+\n+\n=\n(\n)\n(\n)\n(\n)\n−\n+\n−\n+\n−\n+\n+\n+\n+\na b\na b\nb c\nb c\nc a\nc a\na\nb\nc\na\nb\nc\n... (2)\nFig 11.4\nReprint 2025-26\nANote   In case the lines L1 and L2 do not pass through the origin, we may take\nlines\nL andL\n′\n′ which are parallel to L1 and L2 r",
+  "context_sources": [
+    "ncert:grade12/maths/ch11"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Equation of a Plane"
+  ],
+  "prerequisites_descriptions": {
+    "Equation of a Plane": "Normal form; intercept form; passing through three points"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Equation of a Plane",
+    "Direction Cosines and Direction Ratios",
+    "Equation of a Line in 3D",
+    "Angle Between Two Lines in 3D",
+    "Shortest Distance Between Two Lines",
+    "Distance of a Point from a Plane"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

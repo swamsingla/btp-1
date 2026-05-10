@@ -1,0 +1,39 @@
+{
+  "concept_slug": "percentage-change",
+  "canonical_name": "Percentage Increase and Decrease",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Proportional Reasoning",
+  "description": "Computing and interpreting percentage change",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nIn mathematics, a percentage, percent, or per cent is a number or ratio expressed as a fraction of 100. It is often denoted using the percent sign (%), although the abbreviations pct., pct, and sometimes pc are also used. A percentage is a dimensionless number, primarily used for expressing proportions, but percent is nonetheless a unit of measurement in its orthography and usage.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Percentage"
+  ],
+  "prerequisites_descriptions": {
+    "Percentage": "A ratio expressed per hundred"
+  },
+  "successors_to_link": [
+    "Tax, VAT and GST"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Percentage",
+    "Tax, VAT and GST",
+    "Ratios and Proportions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

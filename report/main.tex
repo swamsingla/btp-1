@@ -1,0 +1,430 @@
+\documentclass[12pt,a4paper]{article}
+
+% ── Packages ──
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric,fit,calc}
+\usepackage{setspace}
+\usepackage[style=ieee,backend=biber]{biblatex}
+\addbibresource{references.bib}
+
+\onehalfspacing
+
+% ── Code listing style ──
+\lstset{
+  basicstyle=\ttfamily\small,
+  breaklines=true,
+  frame=single,
+  backgroundcolor=\color{gray!5},
+  keywordstyle=\color{blue!70},
+  commentstyle=\color{green!50!black},
+  stringstyle=\color{red!60},
+  numbers=left,
+  numberstyle=\tiny\color{gray},
+  numbersep=5pt,
+}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue!60!black,
+  citecolor=blue!60!black,
+  urlcolor=blue!50!black,
+}
+
+% ══════════════════════════════════════════════════════════
+\begin{document}
+
+% ── Title Page ──
+\begin{titlepage}
+\centering
+\vspace*{2cm}
+{\Large\bfseries International Institute of Information Technology, Hyderabad\\[0.3cm]}
+\vspace{1cm}
+\rule{\textwidth}{1pt}\\[0.5cm]
+{\LARGE\bfseries NCERT Multilingual Smart Wiki:\\[0.3cm]
+A Knowledge-Graph-Driven Educational\\Content Platform}\\[0.5cm]
+\rule{\textwidth}{1pt}\\[1.5cm]
+{\large B.Tech Project Report}\\[0.5cm]
+{\large Spring 2026}\\[2cm]
+{\large\bfseries Author}\\[0.2cm]
+{\large Saksh Singla}\\[0.5cm]
+{\large\bfseries Advisor}\\[0.2cm]
+{\large Prof.\ [Advisor Name]}\\[0.2cm]
+{\large IIIT Hyderabad}\\
+\vfill
+{\large May 2026}
+\end{titlepage}
+
+% ── Abstract ──
+\begin{abstract}
+This report documents the design, implementation, and evolution of an educational platform that transforms NCERT Mathematics textbooks (Grades 6--12) into an interconnected, navigable knowledge graph. The project progressed through two major phases: (1)~a generate-then-translate pipeline using LLaMA~3.2~3B for content generation and three translation models (IndicTrans2, TranslateGemma, Sarvam Translate) for multilingual support, and (2)~a knowledge-graph-driven architecture where 324 canonical concepts are connected through 497 prerequisite edges, enabling Wikipedia-style navigation. The knowledge graph is constructed using an automated four-stage pipeline powered by local LLaMA~8B inference: topic ingestion from multiple curriculum boards, canonical concept extraction, prerequisite edge generation with DAG validation, and grade-specific view computation. The web application, built with Next.js, serves as a concept browser where students can trace learning paths, explore prerequisites, and discover related topics across grades. We document the limitations of the initial translation-heavy approach and demonstrate how the graph-centric architecture provides superior curriculum coherence and navigability.
+\end{abstract}
+
+\tableofcontents
+\newpage
+
+% ══════════════════════════════════════════════════════════
+\section{Introduction}
+\label{sec:intro}
+
+India's national curriculum framework, administered through the National Council of Educational Research and Training (NCERT), provides textbooks for over 250 million students across Grades 1--12. While these textbooks are comprehensive, they present knowledge in a linear, chapter-wise format that obscures the deep interconnections between mathematical concepts. A student studying \textit{Quadratic Equations} in Grade 10, for instance, may not readily see its dependence on \textit{Algebraic Expressions} from Grade 7 or its connection to \textit{Polynomial Factorisation} from Grade 9.
+
+This project addresses three key challenges:
+\begin{enumerate}[leftmargin=*]
+  \item \textbf{Structural Fragmentation:} NCERT content is organized by grade and chapter, making it difficult to trace concept dependencies across years.
+  \item \textbf{Language Accessibility:} While NCERT publishes in English and Hindi, students in states like Odisha and Andhra Pradesh require content in regional languages.
+  \item \textbf{Navigability:} Students lack a tool to discover what prerequisites they need or what advanced topics a given concept unlocks.
+\end{enumerate}
+
+Our solution is a \textit{knowledge-graph-driven educational platform} that:
+\begin{itemize}[leftmargin=*]
+  \item Represents the entire Grades 6--12 mathematics curriculum as a directed acyclic graph (DAG) of 324 concepts connected by 497 prerequisite edges.
+  \item Provides Wikipedia-style concept pages with linked prerequisites, successor topics, and related concepts.
+  \item Supports automated content generation using local LLM inference.
+  \item Includes a multilingual translation pipeline supporting Hindi, Telugu, and Odia.
+\end{itemize}
+
+% ══════════════════════════════════════════════════════════
+\section{Related Work}
+\label{sec:related}
+
+\textbf{Educational Knowledge Graphs.} Knowledge graphs have been used in education for curriculum mapping and learning path recommendation. Khan Academy's exercise graph~\cite{khanacademy} maps exercises to prerequisite skills. ALEKS~\cite{aleks2003} uses a knowledge space theory approach. Our work focuses specifically on the Indian NCERT curriculum and automates graph construction using LLMs rather than manual curation.
+
+\textbf{LLM-Based Content Generation.} Recent work has explored using large language models for educational content creation. EduChat~\cite{educhat2023} and MathGPT demonstrate domain-specific educational generation. We use LLaMA~3.2~3B~\cite{llama3} for content generation and LLaMA~8B for knowledge graph construction, both running locally with 4-bit quantization.
+
+\textbf{Multilingual NLP for Indian Languages.} AI4Bharat's IndicTrans2~\cite{indictrans2} provides state-of-the-art translation for Indian languages. Sarvam AI's translation models~\cite{sarvam} offer Gemma-based alternatives. TranslateGemma~\cite{translategemma} provides Google's multilingual translation. We compare all three approaches in Section~\ref{sec:translation}.
+
+% ══════════════════════════════════════════════════════════
+\section{System Architecture}
+\label{sec:architecture}
+
+The system consists of four major components connected in a pipeline architecture (Figure~\ref{fig:pipeline}).
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+  node distance=0.8cm,
+  stage/.style={rectangle, draw=blue!60, fill=blue!8, rounded corners=4pt,
+                text width=5cm, minimum height=1.2cm, align=center,
+                font=\small\bfseries},
+  output/.style={rectangle, draw=gray!60, fill=gray!5, rounded corners=2pt,
+                 text width=4cm, minimum height=0.7cm, align=center,
+                 font=\scriptsize},
+  arr/.style={-{Stealth[length=5pt]}, thick, blue!50},
+]
+  \node[stage] (s1) {Stage 1: Topic Ingestion\\[-2pt]\scriptsize\normalfont NCERT headings + LLM discovery};
+  \node[stage, below=of s1] (s2) {Stage 2: Concept Extraction\\[-2pt]\scriptsize\normalfont Canonical hierarchy via LLM};
+  \node[stage, below=of s2] (s3) {Stage 3: Edge Generation\\[-2pt]\scriptsize\normalfont Prerequisite edges + DAG validation};
+  \node[stage, below=of s3] (s4) {Stage 4: Content Generation\\[-2pt]\scriptsize\normalfont Structured Markdown via LLaMA 3B};
+
+  \node[output, right=1.2cm of s1] (o1) {raw\_topics/\\grade\{N\}\_maths.json};
+  \node[output, right=1.2cm of s2] (o2) {knowledge\_graph/\\concepts.json};
+  \node[output, right=1.2cm of s3] (o3) {knowledge\_graph/\\graph.json (DAG)};
+  \node[output, right=1.2cm of s4] (o4) {content/\\topic\_slug.md};
+
+  \draw[arr] (s1) -- (s2);
+  \draw[arr] (s2) -- (s3);
+  \draw[arr] (s3) -- (s4);
+  \draw[arr] (s1) -- (o1);
+  \draw[arr] (s2) -- (o2);
+  \draw[arr] (s3) -- (o3);
+  \draw[arr] (s4) -- (o4);
+\end{tikzpicture}
+\caption{Four-stage knowledge graph construction and content generation pipeline.}
+\label{fig:pipeline}
+\end{figure}
+
+\subsection{Infrastructure}
+All LLM inference runs locally on a compute cluster node with an NVIDIA GPU. We use two models:
+\begin{itemize}[leftmargin=*]
+  \item \textbf{LLaMA 8B} (Stages 1--3): For topic discovery, concept extraction, and prerequisite reasoning. Loaded via \texttt{llm\_local.py} with configurable temperature and token limits.
+  \item \textbf{LLaMA 3.2 3B Instruct} (Stage 4): For content generation. Loaded with 4-bit NF4 quantization via BitsAndBytes, fitting within 4\,GB VRAM.
+\end{itemize}
+
+% ══════════════════════════════════════════════════════════
+\section{Phase 1: Generate-and-Translate Pipeline}
+\label{sec:phase1}
+
+The initial approach followed a straightforward pipeline: extract structure from NCERT PDFs, generate English content using an LLM, then translate to Indian languages.
+
+\subsection{PDF Parsing and Chunking}
+We developed \texttt{chunker.py} to extract text from NCERT PDF textbooks using PyMuPDF. The chunker:
+\begin{enumerate}[leftmargin=*]
+  \item Detects chapter boundaries from table-of-contents patterns.
+  \item Splits each chapter into topic-level chunks using heading detection.
+  \item Preserves mathematical expressions and formatting metadata.
+  \item Outputs structured JSON with chunk text, page ranges, and hierarchy.
+\end{enumerate}
+
+For science textbooks, a separate \texttt{science\_chunker.py} uses manually provided heading files (\texttt{topics.txt}) to handle the less structured layout of science PDFs.
+
+\subsection{Content Generation with LLaMA 3.2 3B}
+\texttt{content\_gen.py} generates structured educational content for each topic using the extracted chunks as context. Each topic page includes:
+\begin{itemize}[leftmargin=*]
+  \item Introduction and learning objectives
+  \item Key concepts with LaTeX-formatted formulas ($\ldots$, \$\$\ldots\$\$)
+  \item Worked examples with step-by-step solutions
+  \item Common mistakes and misconceptions
+  \item Practice tips and difficulty-graded exercises
+  \item Summary and key formulas table
+\end{itemize}
+
+The model is prompted with the relevant textbook chunk, topic title, grade level, and a detailed system prompt specifying the output structure. Temperature is set to 0.3 for factual consistency.
+
+\subsection{Translation Pipeline}
+\label{sec:translation}
+
+We implemented and compared three translation model families for translating generated content to Hindi, Telugu, and Odia.
+
+\subsubsection{LaTeX-Safe Translation Strategy}
+A critical design decision was to \textbf{never send LaTeX expressions to the translation model}. Our \texttt{translator.py} implements a segment-and-reassemble strategy:
+\begin{enumerate}[leftmargin=*]
+  \item Split each line into segments: \texttt{[text, latex, text, latex, text]}.
+  \item Only translate the text segments---LaTeX is never touched.
+  \item Reassemble with proper spacing around mathematical expressions.
+  \item Preserve markdown formatting (headers, bullets, code fences).
+\end{enumerate}
+
+\subsubsection{Model Comparison}
+
+\begin{table}[H]
+\centering
+\caption{Translation model comparison across three target languages.}
+\label{tab:translation}
+\begin{tabular}{@{}lcccc@{}}
+\toprule
+\textbf{Model} & \textbf{Size} & \textbf{Hindi} & \textbf{Telugu} & \textbf{Odia} \\
+\midrule
+IndicTrans2 1B    & 2\,GB (fp16)  & Good     & Good     & Good \\
+Sarvam Translate  & 2.5\,GB (4-bit) & Very Good & Good   & Fair \\
+TranslateGemma 4B & 2.5\,GB (4-bit) & Good     & Fair     & Fair \\
+Sarvam API (v1)   & Cloud         & Excellent & Very Good & Good \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Key findings:}
+\begin{itemize}[leftmargin=*]
+  \item IndicTrans2 requires \texttt{transformers $\leq$ 4.45.x}; it produces garbage output on version 5.x due to architecture cache format changes.
+  \item Sarvam Translate (Gemma3-based) requires \texttt{transformers $\geq$ 4.50} for Gemma3 architecture support, creating a version conflict with IndicTrans2.
+  \item All local models occasionally corrupt LaTeX despite our segmentation, particularly with inline math adjacent to Hindi/Telugu script.
+  \item The Sarvam cloud API produced the most consistent results but introduces API rate limits and costs.
+\end{itemize}
+
+\subsection{Limitations of Phase 1}
+\label{sec:phase1-limitations}
+
+While the generate-and-translate approach produced readable content, several fundamental limitations emerged:
+\begin{enumerate}[leftmargin=*]
+  \item \textbf{No Prerequisite Awareness:} Generated content for ``Quadratic Equations'' had no knowledge of whether the student had studied ``Linear Equations'' first.
+  \item \textbf{Isolated Topics:} Each topic was generated independently, leading to inconsistent terminology and notation across related concepts.
+  \item \textbf{Flat Structure:} The chapter-wise organization mirrors the textbook but obscures cross-grade concept dependencies.
+  \item \textbf{Translation Quality Variance:} Mathematical content with mixed English-Indic script produced inconsistent results across models.
+\end{enumerate}
+
+These limitations motivated the pivot to a knowledge-graph-centric architecture in Phase~2.
+
+% ══════════════════════════════════════════════════════════
+\section{Phase 2: Knowledge Graph Construction}
+\label{sec:phase2}
+
+\subsection{Motivation}
+The core insight was that the NCERT curriculum is inherently a \textit{graph}, not a list. Concepts like ``Fractions'' in Grade 6 are prerequisites for ``Rational Numbers'' in Grade 7, which in turn enable ``Real Numbers'' in Grade 9. Capturing these edges enables:
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Learning path discovery:} Students can trace exactly what they need to know before tackling a new topic.
+  \item \textbf{Gap identification:} If a student struggles with ``Polynomial Division,'' the system can identify missing prerequisite knowledge.
+  \item \textbf{Context-aware generation:} Content generation can include prerequisite summaries in the prompt (Graph RAG).
+\end{itemize}
+
+\subsection{Stage 1: Multi-Source Topic Ingestion}
+\texttt{topic\_ingestion.py} discovers the complete set of topics per grade and subject by combining:
+\begin{itemize}[leftmargin=*]
+  \item \textbf{NCERT headings} extracted from PDF table-of-contents (ground truth).
+  \item \textbf{LLM-discovered topics} from ICSE, CBSE, and state board syllabi (Maharashtra, Tamil Nadu, Karnataka, AP/Telangana).
+\end{itemize}
+
+Topics are merged using fuzzy string matching (threshold: 85/100 on \texttt{token\_sort\_ratio}) to deduplicate across sources. NCERT subtopics are preserved as ground truth; LLM-discovered topics that don't match any NCERT entry are added as new concepts.
+
+\subsection{Stage 2: Canonical Concept Extraction}
+\texttt{graph\_builder.py} converts raw topic lists into a structured hierarchy:
+
+$$\text{Domain} \rightarrow \text{Area} \rightarrow \text{Concept} \rightarrow \text{Sub-concept}$$
+
+The LLM is prompted to assign each topic a canonical name, domain, mathematical area, and grade-appropriate importance score (1--5). Critical design decisions:
+
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Single-concept prompting:} Initially, we batched multiple concepts per LLM call. This caused context window truncation and degraded output quality. Switching to one concept per call resolved this at the cost of more API calls.
+  \item \textbf{Canonical names over slugs:} Edge extraction initially used machine-generated slugs (e.g., \texttt{quad-eq-grade10}), which the LLM frequently hallucinated. Switching to human-readable canonical names (e.g., ``Quadratic Equations'') with a fuzzy resolution layer dramatically improved edge accuracy.
+\end{itemize}
+
+\subsection{Stage 3: Prerequisite Edge Generation}
+For each concept, the LLM identifies which other concepts are prerequisites. The pipeline:
+\begin{enumerate}[leftmargin=*]
+  \item Prompts the LLM with a concept and the full list of candidate concepts.
+  \item The LLM returns canonical names of prerequisites.
+  \item A resolution layer maps canonical names back to slugs using fuzzy matching.
+  \item The resulting graph is validated as a DAG using NetworkX; cycles are broken by removing the lowest-confidence edge.
+\end{enumerate}
+
+A critical bug discovered during development: cross-grade prerequisite edges were being filtered out by a grade-boundary check. Removing this filter and allowing the LLM to reason freely about prerequisites across grades significantly improved graph quality.
+
+\subsection{Graph Statistics}
+
+\begin{table}[H]
+\centering
+\caption{Knowledge graph statistics for NCERT Mathematics, Grades 6--12.}
+\label{tab:graph-stats}
+\begin{tabular}{@{}lr@{}}
+\toprule
+\textbf{Metric} & \textbf{Value} \\
+\midrule
+Total concepts         & 324 \\
+Total prerequisite edges & 497 \\
+Mathematical areas     & 18 \\
+Grades covered         & 7 (6--12) \\
+Multi-grade concepts   & 87 (26.9\%) \\
+Entry points (no prerequisites) & 42 \\
+Maximum path length    & 11 \\
+Average prerequisites per concept & 1.53 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+  node distance=1.2cm and 1.5cm,
+  concept/.style={rectangle, draw=blue!60, fill=blue!8, rounded corners=3pt,
+                  text width=2.8cm, minimum height=0.7cm, align=center,
+                  font=\scriptsize\bfseries},
+  arr/.style={-{Stealth[length=4pt]}, thick, gray!70},
+]
+  \node[concept] (nat) {Natural Numbers\\[-1pt]\tiny Grade 6};
+  \node[concept, right=of nat] (whole) {Whole Numbers\\[-1pt]\tiny Grade 6};
+  \node[concept, right=of whole] (int) {Integers\\[-1pt]\tiny Grade 6,7};
+  \node[concept, below=of whole] (frac) {Fractions\\[-1pt]\tiny Grade 6};
+  \node[concept, right=of int] (rat) {Rational Numbers\\[-1pt]\tiny Grade 7,8};
+  \node[concept, below=of rat] (dec) {Decimals\\[-1pt]\tiny Grade 6,7};
+  \node[concept, right=of rat] (real) {Real Numbers\\[-1pt]\tiny Grade 9,10};
+
+  \draw[arr] (nat) -- (whole);
+  \draw[arr] (whole) -- (int);
+  \draw[arr] (int) -- (rat);
+  \draw[arr] (whole) -- (frac);
+  \draw[arr] (frac) -- (rat);
+  \draw[arr] (frac) -- (dec);
+  \draw[arr] (dec) -- (rat);
+  \draw[arr] (rat) -- (real);
+\end{tikzpicture}
+\caption{Subgraph showing the Number Systems progression from Grade 6 to Grade 10.}
+\label{fig:subgraph}
+\end{figure}
+
+% ══════════════════════════════════════════════════════════
+\section{Web Application}
+\label{sec:webapp}
+
+\subsection{Technology Stack}
+The web application is built with:
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Next.js 16} with React 19 and the App Router for server-side rendering.
+  \item \textbf{Tailwind CSS 4} for responsive, utility-first styling with dark mode support.
+  \item \textbf{Static JSON} (\texttt{maths\_v2.json}) as the data source---no database required.
+  \item \textbf{KaTeX} for client-side LaTeX rendering of mathematical expressions.
+\end{itemize}
+
+\subsection{Wikipedia-Style Concept Pages}
+Each concept has a dedicated page at \texttt{/maths/\{grade\}/\{slug\}} featuring:
+\begin{enumerate}[leftmargin=*]
+  \item \textbf{Breadcrumb navigation:} Home $\rightarrow$ Mathematics $\rightarrow$ Grade $\rightarrow$ Concept.
+  \item \textbf{Prerequisite links:} Cards linking to concepts that should be studied first, with area colour coding and grade indicators.
+  \item \textbf{``What this unlocks'' section:} Concepts that become accessible after mastering the current one.
+  \item \textbf{``See Also'' section:} Related concepts for lateral exploration.
+  \item \textbf{Multi-grade navigation:} For concepts spanning multiple grades, tabs link to the same concept at different difficulty levels.
+  \item \textbf{Sidebar:} Displays concept metadata (area, grades, prerequisite/successor counts) and lists other concepts in the same mathematical area.
+\end{enumerate}
+
+\subsection{Navigation Design}
+The application provides three entry strategies:
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Grade-first:} Homepage $\rightarrow$ Grade card $\rightarrow$ Area-grouped concept list $\rightarrow$ Concept page.
+  \item \textbf{Search:} Global search (Ctrl+K) with fuzzy matching across concept names, descriptions, and areas.
+  \item \textbf{Graph traversal:} From any concept page, follow prerequisite or successor links to navigate the knowledge graph.
+\end{itemize}
+
+Entry-point concepts (those with no prerequisites in a grade) are highlighted with ``Start Here'' badges to guide new students.
+
+% ══════════════════════════════════════════════════════════
+\section{Planned: Graph-RAG Content Generation}
+\label{sec:graphrag}
+
+The knowledge graph enables a Graph Retrieval-Augmented Generation (Graph-RAG) approach for content generation. For each concept, the generation prompt will include:
+\begin{enumerate}[leftmargin=*]
+  \item \textbf{Prerequisite summaries:} Brief descriptions of all prerequisite concepts, ensuring generated content can reference prior knowledge appropriately.
+  \item \textbf{Grade context:} The concept's importance score and which areas it belongs to, calibrating the depth and complexity of generated content.
+  \item \textbf{Successor awareness:} What concepts this topic enables, allowing the content to foreshadow upcoming material.
+  \item \textbf{NCERT textbook chunks:} Relevant extracted text from the original textbook for factual grounding.
+\end{enumerate}
+
+This approach will use Sarvam AI models for generation in Indian languages, eliminating the translation step entirely by generating content directly in the target language.
+
+% ══════════════════════════════════════════════════════════
+\section{Results and Discussion}
+\label{sec:results}
+
+\subsection{Knowledge Graph Quality}
+The constructed graph covers the complete NCERT mathematics curriculum with 324 concepts across 18 mathematical areas. Key quality indicators:
+\begin{itemize}[leftmargin=*]
+  \item The graph is a valid DAG (no cycles), confirmed by NetworkX validation.
+  \item 87 concepts (26.9\%) span multiple grades, correctly modelling how foundational topics like ``Fractions'' are revisited with increasing depth.
+  \item The maximum path length of 11 edges represents the longest prerequisite chain (e.g., Natural Numbers $\rightarrow$ Whole Numbers $\rightarrow$ \ldots $\rightarrow$ Definite Integrals).
+  \item 42 entry points with no prerequisites serve as natural starting points.
+\end{itemize}
+
+\subsection{Web Application}
+The Next.js application successfully pre-renders 406 static pages (7 grade pages + 393 concept pages + overview pages), providing fast, SEO-friendly navigation. The search functionality matches concepts across names, descriptions, and areas with sub-250ms response times.
+
+\subsection{Translation Pipeline}
+Among the four translation approaches tested:
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Sarvam API} achieved the best quality but requires internet access and API costs.
+  \item \textbf{IndicTrans2 1B} provided the best balance of quality and efficiency for offline use but has strict \texttt{transformers} version requirements.
+  \item \textbf{LaTeX preservation} via the segment-and-reassemble strategy successfully prevented mathematical expression corruption in all models.
+\end{itemize}
+
+% ══════════════════════════════════════════════════════════
+\section{Conclusion and Future Work}
+\label{sec:conclusion}
+
+This project demonstrates that representing a national curriculum as a knowledge graph provides significant advantages over traditional chapter-wise organization. The automated graph construction pipeline, powered by local LLM inference, successfully extracted 324 concepts and 497 prerequisite edges from the NCERT Mathematics curriculum.
+
+The key technical contribution is the complete pipeline from PDF textbooks to a navigable knowledge graph, including:
+\begin{enumerate}[leftmargin=*]
+  \item A multi-source topic ingestion system combining textbook headings with LLM-discovered curriculum content.
+  \item A canonical concept extraction and edge generation pipeline with fuzzy matching and DAG validation.
+  \item A Wikipedia-style web application that makes the knowledge graph accessible to students.
+  \item A comparative evaluation of three translation model families for Indian languages.
+\end{enumerate}
+
+\textbf{Future work} includes:
+\begin{itemize}[leftmargin=*]
+  \item Implementing Graph-RAG content generation using Sarvam models for direct multilingual generation.
+  \item Extending the knowledge graph to Science, Physics, Chemistry, and Biology.
+  \item Adding adaptive learning paths that recommend concepts based on student performance.
+  \item Integrating interactive visualizations of the knowledge graph for curriculum exploration.
+\end{itemize}
+
+% ── References ──
+\newpage
+\printbibliography
+
+\end{document}

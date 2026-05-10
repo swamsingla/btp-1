@@ -1,0 +1,45 @@
+{
+  "concept_slug": "trigonometric-equations",
+  "canonical_name": "Trigonometric Equations",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Trigonometry",
+  "description": "General solutions of sinθ=k, cosθ=k, tanθ=k",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch3 — Introduction]\nThe word ‘trigonometry’ is derived from the Greek words\n‘trigon’ and ‘metron’ and it means ‘measuring the sides of\na triangle’. The subject was originally developed to solve\ngeometric problems involving triangles. It was studied by\nsea captains for navigation, surveyor to map out the new\nlands, by engineers and others. Currently, trigonometry is\nused in many areas such as the science of seismology,\ndesigning electric circuits, describing the state of an atom,\npredicting the heights of tides in the ocean, analysing a\nmusical tone and in many other areas.\nIn earlier classes, we have studied the trigonometric\nratios of acute angles as the ratio of the sides of a right\nangled triangle. We have also studied the trigonometric identities and application of\ntrigonometric ratios in solving the problems related to heights and distances. In this\nChapter, we will generalise the concept of trigonometric ratios to trigonometric functions\nand study their properties.\n3.2  Angles\nArya Bhatt\n(476-550)\n\n[NCERT Grade11 Ch3 — Angles]\nAngle is a measure of rotation of a given ray about its initial point. The original ray is\nFig  3.1\nVertex\nReprint 2025-26\ncalled the initial side and the final position of the ray after rotation is called the\nterminal side of the angle. The point of rotation is called the vertex. If the direction of\nrotation is anticlockwise, the angle is said to be positive and if the direction of rotation\nis clockwise, then the angle is negative (Fig 3.1).\nThe measure of an angle is the amount of\nrotation performed to get the terminal side from\nthe initial side. There are several units for\nmeasuring angles. The definition of an angle\nsuggests a unit, viz. one complete revolution from the position of the initial side as\nindicated in Fig 3.2.\nThis is often convenient for large angles. For example, we can say that a rapidly\nspinning wheel is making an angle of say 15 revolution per second. We shall  describe\ntwo other units of measurement of an angle which are most commonly used, viz.\ndegree measure an\n\n[NCERT Grade11 Ch3 — Degree measure]\n\na revolution, the angle is said to have a measure of one degree, written as 1°.  A degree is\ndivided into 60 minutes, and a minute is divided into 60 seconds . One sixtieth of a degree is\ncalled a minute, written as 1′, and one sixtieth of a minute is called a second, written as 1″.\nThus,\n1° = 60′,\n1′ = 60″\nSome of the angles whose measures are 360°,180°, 270°, 420°, – 30°, – 420° are\nshown in Fig 3.3.\nFig  3.3\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS     45\n3.2.2  Radian measure  There is another unit for measurement of an angle, called\n\n[NCERT Grade11 Ch3 — Radian measure]\nthe radian measure. Angle subtended at the centre by an arc of length 1 unit in a\nunit circle (circle of radius 1 unit) is said to have a measure of 1 radian. In the Fig\n3.4(i) to (iv), OA is the initial side and OB is the terminal side. The figures show the\nangles whose measures are 1 radian, –1 radian, 1 1\n2  radian and –1 1\n2  radian.\n(i)\n(ii)\n(iii)\nFig  3.4 (i) to (iv)\n(iv)\nWe know that the circumference of a circle of radius 1 unit is 2π. Thus, one\ncomplete revolution of the initial side subtends an angle of  2π radian.\nMore generally, in a circle of radius r, an arc of length r will subtend an angle of\n1 radian. It is well-known that equal arcs of a circle subtend equal angle at the centre.\nSince in a circle of radius r, an arc of length r subtends an angle whose measure is 1\nradian, an arc of length l will subtend an angle whose measure is l\nr  radian. Thus, if in\na circle of radius r, an arc of length l subtends an angle θ radian at the centre, we have\nθ  = l\nr   or  l  = r θ.\n\n\n[NCERT Grade11 Ch3 — Relation between radian and real numbers]\nConsider the unit circle with centre O. Let A be any point\non the circle. Consider OA as initial side of an angle.\nThen the length  of an arc of the circle will give the radian\nmeasure of the angle which the arc will subtend at the\ncentre of the circle. Consider the line PAQ which is\ntangent to the circle at A. Let the point A represent the\nreal number zero, AP represents positive real number and\nAQ represents negative real numbers (Fig 3.5). If we\nrope the line AP in the anticlockwise direction along the\ncircle, and AQ in the clockwise direction, then every real\nnumber will correspond to a radian measure and\nconversely. Thus, radian measures and real numbers can\nbe considered as one and the same.\n3.2.4   Relation between degree and radian   Since a circle subtends at the centre\nA\nO\n−1\n−2\nQ\nFig  3.5",
+  "context_sources": [
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Trigonometric Functions",
+    "Sum and Difference Formulas"
+  ],
+  "prerequisites_descriptions": {
+    "Trigonometric Functions": "Domain, range, period and graphs of sin, cos, tan etc.",
+    "Sum and Difference Formulas": "sin(A±B), cos(A±B), tan(A±B)"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Trigonometric Functions",
+    "Sum and Difference Formulas",
+    "Radian Measure",
+    "Multiple and Sub-multiple Angle Formulas",
+    "Product-to-Sum and Sum-to-Product Formulas"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

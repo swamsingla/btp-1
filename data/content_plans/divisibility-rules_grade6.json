@@ -1,0 +1,47 @@
+{
+  "concept_slug": "divisibility-rules",
+  "canonical_name": "Divisibility Rules",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Theory",
+  "description": "Quick tests for divisibility by 2, 3, 4, 5, 6, 8, 9, 10, 11",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch5 — Divisibility Tests]\nSo far, we have been finding factors of numbers in different contexts,\nincluding to determine if a number is prime or not, or if a given pair\nof numbers is co-prime or not.\nReprint 2025-26\nPrime Time\nIt is easy to find factors of small numbers. How do we find factors\nof a large number?\nLet us take 8560. Does it have any factors from 2 to 10 (2, 3, 4,\n5, ..., 9, 10)?\nIt is easy to check if some of these numbers are factors or not\nwithout doing long division. Can you find them?\nDivisibility by 10\nLet us take 10. Is 8560 divisible by 10? This is another way of\nasking if 10 is a factor of 8560.\nFor this, we can look at the pattern in the multiples of 10.\nThe first few multiples of 10 are: 10, 20, 30, 40, … Continue this\nsequence and observe the pattern.\nIs 125 a multiple of 10? Will this number appear in the previous\nsequence? Why or why not?\nCan you now answer if 8560 is divisible by 10?\nConsider this statement:\nNumbers that are divisible by 10 are those that end with\n‘0’. Do you agree?\nD",
+  "context_sources": [
+    "ncert:grade6/maths/ch5"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Factors and Multiples"
+  ],
+  "prerequisites_descriptions": {
+    "Factors and Multiples": "Factor as a divisor; multiple as a product; factor pairs"
+  },
+  "successors_to_link": [
+    "Prime Factorisation",
+    "Modular Arithmetic"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Factors and Multiples",
+    "Prime Factorisation",
+    "Modular Arithmetic",
+    "Even and Odd Numbers",
+    "Prime Numbers",
+    "Composite Numbers",
+    "Co-prime Numbers",
+    "LCM and GCD (HCF)",
+    "Euclidean Algorithm"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,54 @@
+{
+  "concept_slug": "section-formula",
+  "canonical_name": "Section Formula and Midpoint",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Coordinate Geometry",
+  "description": "Internal and external division of a line segment in a given ratio",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade10 Ch7 — Section Formula]\nLet us recall the situation in Section 7.2.\nSuppose a telephone company wants to\nposition a relay tower at P between A and B\nis such a way that the distance of the tower\nfrom B is twice its distance from A. If P lies\non AB, it will divide AB in the ratio 1 : 2\n(see Fig. 7.9). If we take A as the origin O,\nand 1 km as one unit on both the axis, the\ncoordinates of B will be (36, 15). In order to\nknow the position of the tower, we must know\nthe coordinates of P. How do we find these\ncoordinates?\nLet the coordinates of P be (x, y). Draw perpendiculars from P and B to the\nx-axis, meeting it in D and E, respectively. Draw PC perpendicular to BE. Then, by\nthe AA similarity criterion, studied in Chapter 6,  POD and  BPC are similar.\nTherefore ,\nOD\nOP\nPC\nPB\n\n\n, and PD\nOP\nBC\nPB\n\n\nSo,\nx\nx \n\nand\ny\ny \n\n\nThese equations give x = 12 and y = 5.\nYou can check that P(12, 5) meets the\ncondition that OP : PB = 1 : 2.\nNow let us use the understanding that\nyou may have developed through this\nexam",
+  "context_sources": [
+    "ncert:grade10/maths/ch7"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Distance Formula",
+    "Ratios and Proportions"
+  ],
+  "prerequisites_descriptions": {
+    "Distance Formula": "d = √[(x₂−x₁)² + (y₂−y₁)²]",
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios"
+  },
+  "successors_to_link": [
+    "Area of Triangle using Coordinates",
+    "Equation of a Straight Line",
+    "Section Formula in 3D",
+    "Medians of a Triangle",
+    "Centroid of a Triangle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Distance Formula",
+    "Ratios and Proportions",
+    "Area of Triangle using Coordinates",
+    "Equation of a Straight Line",
+    "Section Formula in 3D",
+    "Medians of a Triangle",
+    "Centroid of a Triangle",
+    "Collinearity of Points"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

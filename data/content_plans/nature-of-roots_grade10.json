@@ -1,0 +1,42 @@
+{
+  "concept_slug": "nature-of-roots",
+  "canonical_name": "Nature of Roots — Discriminant",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Algebra",
+  "description": "D=b²−4ac; real/equal/imaginary roots based on sign of D",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch4 — Nature of Roots]\nThe equation ax2 + bx + c = 0 are given by\nx =\n–\nb\nb\nac\na\n\n\nIf b2 – 4ac > 0, we get two distinct real roots\nb\nac\nb\na\na\n\n\n\nand\n–\nb\nac\nb\na\na\n\n\n.\nReprint 2025-26\nQUADRATIC EQUATIONS\nIf b2 – 4ac = 0, then x =\nb\na\n\n\n, i.e.,\nor –\nb\nb\nx\na\na\n\n\nSo, the roots of the equation ax2 + bx + c = 0 are both 2\nb\na\n\nTherefore, we say that the quadratic equation ax2 + bx + c = 0 has two equal\nreal roots in this case.\nIf b2 – 4ac < 0, then there is no real number whose square is b2 – 4ac. Therefore,\nthere are no real roots for the given quadratic equation in this case.\nSince b2 – 4ac determines whether the quadratic equation ax2 + bx + c = 0 has\nreal roots or not, b2 – 4ac is called the discriminant of this quadratic equation.\nSo, a quadratic equation ax2 + bx + c = 0 has\n(i) two distinct real roots, if b2 – 4ac > 0,\n(ii) two equal real roots, if b2 – 4ac = 0,\n(iii)  no real roots, if b2 – 4ac < 0.\nLet us consider some examples.\nExample 7: Find the discriminant of the quadratic equation 2x2 –",
+  "context_sources": [
+    "ncert:grade10/maths/ch4"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Quadratic Formula"
+  ],
+  "prerequisites_descriptions": {
+    "Quadratic Formula": "x = (−b ± √(b²−4ac)) / 2a"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Quadratic Formula",
+    "Zeroes of a Polynomial",
+    "Relationship Between Zeroes and Coefficients",
+    "Quadratic Equations",
+    "Completing the Square",
+    "Pair of Linear Equations in Two Variables",
+    "Substitution Method",
+    "Elimination Method"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

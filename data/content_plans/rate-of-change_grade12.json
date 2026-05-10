@@ -1,0 +1,45 @@
+{
+  "concept_slug": "rate-of-change",
+  "canonical_name": "Rate of Change of Quantities",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "dy/dx as rate; related rates problems",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch6 — Rate of Change of Quantities]\nRecall that by the derivative ds\ndt , we mean the rate of change of distance s with\nrespect to the time t. In a similar fashion, whenever one quantity y varies with another\nquantity x, satisfying some rule\n( )\ny\nf x\n=\n, then dy\ndx  (or f′(x)) represents the rate of\nchange of y with respect to x and\ndy\ndx\nx x\n\n\n= 0\n(or f′(x0)) represents the  rate of change\nof y with respect to x at\nx\nx\n=\n.\nFurther, if two variables x and y are varying with respect to another variable t, i.e.,\nif\n( )\nx\nf t\n=\nand\n( )\ny\ng t\n=\n, then by Chain Rule\ndy\ndx  = dy\ndx\ndt\ndt ,  if\ndx\ndt ≠\nReprint 2025-26\nThus, the rate of change of y with respect to x can be calculated using the rate of\nchange of y and that of x both with respect to t.\nLet us consider some examples.\nExample 1 Find the rate of change of the area of a circle per second with respect to\nits radius r when r = 5 cm.\nSolution The area A of a circle with radius r is given by A = πr2. Therefore, the rate\nof change of the area A with respect to its radi",
+  "context_sources": [
+    "ncert:grade12/maths/ch6"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Chain Rule"
+  ],
+  "prerequisites_descriptions": {
+    "Chain Rule": "d/dx[f(g(x))] = f′(g(x))·g′(x)"
+  },
+  "successors_to_link": [
+    "Applications of Derivatives — Word Problems"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Chain Rule",
+    "Applications of Derivatives — Word Problems",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

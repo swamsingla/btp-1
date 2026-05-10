@@ -1,0 +1,58 @@
+{
+  "concept_slug": "rational-numbers",
+  "canonical_name": "Rational Numbers",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Number Systems",
+  "description": "Numbers expressible as p/q where p, q are integers and q ≠ 0",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Fractions",
+    "Integers",
+    "Decimals"
+  ],
+  "prerequisites_descriptions": {
+    "Fractions": "Numbers of the form a/b representing parts of a whole",
+    "Integers": "Positive and negative whole numbers including zero",
+    "Decimals": "Representing fractions with denominators as powers of 10"
+  },
+  "successors_to_link": [
+    "Operations on Rational Numbers",
+    "Rational Numbers on the Number Line",
+    "Algebraic Expressions",
+    "Exponents and Powers",
+    "Irrational Numbers",
+    "Real Numbers"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Fractions",
+    "Integers",
+    "Decimals",
+    "Operations on Rational Numbers",
+    "Rational Numbers on the Number Line",
+    "Algebraic Expressions",
+    "Exponents and Powers",
+    "Irrational Numbers",
+    "Real Numbers",
+    "Operations on Integers",
+    "Conversion Between Fractions and Decimals",
+    "Decimal Operations",
+    "Multiplication and Division of Fractions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,51 @@
+{
+  "concept_slug": "dot-product",
+  "canonical_name": "Dot (Scalar) Product",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Vectors",
+  "description": "a⃗·b⃗ = |a||b|cosθ; properties; projection",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch10 — Scalar (or dot) product of two vectors]\nDefinition 2 The scalar product of two nonzero vectors\n, denoted by\n, is\nReprint 2025-26\ndefined as\n=\nwhere, θ is the angle between\n(Fig 10.19).\nIf either\nthen θ is not defined, and in this case, we\ndefine\nObservations\n1.\nis a real number.\n2.\nLet\nbe two nonzero vectors, then\nif and only if\nare\nperpendicular to each other. i.e.\n3.\nIf θ = 0, then\nIn particular,\nas θ in this case is 0.\n4.\nIf θ = π, then\n|\n| |\n|\n⋅\n= −\nr\nr\nr\nr\na b\na\nb\nIn particular,\n, as θ in this case is π.\n5.\nIn view of the Observations 2 and 3, for mutually perpendicular unit vectors\nˆ\nˆ ˆ\n,\nand\n,\ni\nj\nk  we have\nˆ ˆ\nˆ ˆ\ni i\nj j\n⋅=\n⋅\n= ˆ ˆ\n1,\nk k\n⋅\n=\nˆ\nˆ ˆ\nˆ\ni\nj\nj k\n⋅\n=\n⋅\n= ˆ ˆ\nk i⋅=\n6.\nThe angle between two nonzero vectors\nis given by\nor\n7.\nThe scalar product is commutative. i.e.\n(Why?)\nTwo important properties of scalar product\nProperty 1 (Distributivity of scalar product over addition) Let\nbe\nany three vectors, then\nFig 10.19\nReprint 2025-26\nVECTOR ALGEBRA\nProperty 2 Let\nbe any two vectors, and l be any scalar. Then\nIf",
+  "context_sources": [
+    "ncert:grade12/maths/ch10"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Scalar Multiplication of Vectors",
+    "Trigonometric Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Scalar Multiplication of Vectors": "λa⃗; components; section formula using position vectors",
+    "Trigonometric Functions": "Domain, range, period and graphs of sin, cos, tan etc."
+  },
+  "successors_to_link": [
+    "Cross (Vector) Product",
+    "Angle Between Two Lines in 3D",
+    "Equation of a Plane"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Scalar Multiplication of Vectors",
+    "Trigonometric Functions",
+    "Cross (Vector) Product",
+    "Angle Between Two Lines in 3D",
+    "Equation of a Plane",
+    "Vectors — Introduction",
+    "Types of Vectors",
+    "Addition of Vectors",
+    "Scalar Triple Product"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

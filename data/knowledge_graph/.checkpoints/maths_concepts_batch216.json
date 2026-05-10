@@ -1,0 +1,25 @@
+[
+  {
+    "canonical_name": "Three Dimensional Geometry",
+    "slug": "three-dimensional-geometry",
+    "aliases": [],
+    "domain": "Geometry",
+    "area": "Coordinate Geometry",
+    "_parent": "coordinate-geometry",
+    "grades": [
+      8,
+      10,
+      12
+    ],
+    "importance by grade": {
+      "8": 5,
+      "10": 4,
+      "12": 3
+    },
+    "source boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

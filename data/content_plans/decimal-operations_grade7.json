@@ -1,0 +1,51 @@
+{
+  "concept_slug": "decimal-operations",
+  "canonical_name": "Decimal Operations",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Number Systems",
+  "description": "Addition, subtraction, multiplication and division of decimals",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch4 — Decimal Multiplication]\nExample 1: Arshad goes to a stationery shop and purchases 5 pens. If\none pen costs ₹9.5 (9 rupees and 50 paisa), how much should he pay the\nshopkeeper?\nWhat operation must we use here?\nWe have to multiply 9.5 by 5, which is the same as adding 9.5, 5 times.\nThat is 9.5 × 5 = 9.5 + 9.5 + 9.5 + 9.5 + 9.5 = 47.5.\nWe can also directly multiply the numbers by converting them into\nfractions.\n9.5 is 95\n10 and 5 is 5\n1 as a fraction.\nThe cost of 5 pens =  5\n1 × 95\n10 .\nRecall that, to find the product of two fractions, we multiply the\nnumerators and multiply the denominators.\n1 × 95\n10 = 5 × 95\n1 × 10\n= 475\n= 47.5.\nThe cost of 5 pens is ₹47.5.\nExample 2: A car travels 12.5 km per litre of petrol. What is the distance\ncovered with 7.5 litres of petrol?\nWe have to multiply 12.5 by 7.5.\nThe distance covered = 12.5 × 7.5\n= 125\n10  × 75\n10 = 125×75\n10×10  = 9375\n100  = 93.75\nThe distance covered is 93.75 km.\nGanita Prakash | Grade 7 | Part-II\nCan the product of two decimals be a natural number?\nCan \n\n[NCERT Grade7 Ch4 — Decimal Division]\nExample 6: Anuja has a 3.9 m length\nof ribbon and she wants to cut it into\n10 equal pieces. What is the length of\neach piece in decimal?\nSince there are 10 pieces, we\ncan find the length of each piece by\ndividing 3.9 by 10.\nSo, what is 3.9 ÷ 10?\nLet’s convert 3.9 into fraction 3.9 = 39\n10.\nHence, 3.9 ÷ 10 is the same as\ndividing 39\n10 by 10.\nRecall that, dividing a fraction by\na divisor is the same as multiplying\nthe fraction by the reciprocal of the\ndivisor. The reciprocal of 10 is 1\n.\nSo, 39\n10 ÷ 10 = 39\n10 × 1\n10 = 39\n100 = 0.39.\nThus, the length of each piece of\nribbon is 0.39 m.\nWhat is the length of each piece if the ribbon is cut into 100 equal pieces?\n3.9 ÷ 100 = 39\n10 × 1\n100 = 39\n1000 = 0.039.\nWhen the ribbon is cut into 100 equal pieces, the length of each piece\nis 0.039 m.\nWhat is the length of\neach piece in decimal?\nAnother Peek Beyond the Point\nWhat is 0.039 m in centimetres and millimetres?\nBy looking at these divisions, we can frame a simple rule for dividing\ndecimals b",
+  "context_sources": [
+    "ncert:grade7/maths/ch4",
+    "ncert:grade7/maths/ch4"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Decimals",
+    "Operations on Integers"
+  ],
+  "prerequisites_descriptions": {
+    "Decimals": "Representing fractions with denominators as powers of 10",
+    "Operations on Integers": "Addition, subtraction, multiplication and division of integers; sign rules"
+  },
+  "successors_to_link": [
+    "Experimental Probability",
+    "Speed, Distance and Time"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Decimals",
+    "Operations on Integers",
+    "Experimental Probability",
+    "Speed, Distance and Time",
+    "Integers",
+    "Conversion Between Fractions and Decimals",
+    "Multiplication and Division of Fractions",
+    "Rational Numbers",
+    "Operations on Rational Numbers",
+    "Rational Numbers on the Number Line"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

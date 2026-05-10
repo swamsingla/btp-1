@@ -1,0 +1,43 @@
+{
+  "concept_slug": "rotational-symmetry",
+  "canonical_name": "Rotational Symmetry",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Geometry",
+  "description": "Symmetry under rotation; order of rotational symmetry",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade6 Ch9 — Rotational Symmetry]\nThe paper windmill in the picture looks\nsymmetrical but there is no line of symmetry!\nHowever, if you fold it, the two halves will not\nexactly overlap. On the other hand, if you rotate\nit by 90° about the red point at the centre, the\nwindmill looks exactly the same.\nWe say that the windmill has rotational\nsymmetry.\nWhen talking of rotational symmetry, there is always a fixed\npoint about which the object is rotated. This fixed point is called the\ncentre of rotation.\nWill the windmill above look exactly the same when rotated\nthrough an angle of less than 90°?\nNo!\nAn angle through which a figure can be rotated to look exactly the\nsame is called an angle of rotational symmetry, or just an angle of\nsymmetry, for short.\nReprint 2025-26\nSymmetry\nFor the windmill, the angles of symmetry are 90° (quarter turn),\n180° (half turn), 270° (three-quarter turn) and 360° (full turn).\nObserve that when any figure is rotated by 360°, it comes back to its\noriginal position, so 360° is always an angle of s\n\n[NCERT Grade6 Ch9 — Line of Symmetry]\nFigure (a) shows the picture of a blue triangle with a dotted line.\nWhat if you fold the triangle along the dotted line? Yes, one half\nof the triangle covers the other half completely. These are called\nmirror halves!\n(a)\n(b)\nWhat about Figure (b) with the four puzzle pieces and a dotted line\npassing through the middle? Are they mirror halves? No, when we fold\nalong the line, the left half does not exactly fit over the right half.\nA line that cuts a figure into two \tparts that exactly overlap when\nfolded along that line is called a line of symmetry of the figure.\nFigure it Out\n1.\t Do you see any line of symmetry in the figures at the start of the\nchapter? What about in the picture of the cloud?\n2.\t For each of the following figures, identify the line(s) of symmetry\nif it exists.\nReprint 2025-26\nGanita Prakash | Grade 6\nFigures with more than one line of symmetry\nDoes a square have only one line of symmetry?\nTake a square piece of paper. By folding, find all its lines of symmetry.\nFold 1",
+  "context_sources": [
+    "ncert:grade6/maths/ch9",
+    "ncert:grade6/maths/ch9"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Line Symmetry and Reflection",
+    "Angles"
+  ],
+  "prerequisites_descriptions": {
+    "Line Symmetry and Reflection": "A line dividing a figure into two congruent halves that are mirror images",
+    "Angles": "Amount of rotation between two rays sharing a common endpoint"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Line Symmetry and Reflection",
+    "Angles",
+    "Points, Lines and Planes",
+    "Measuring Angles with Protractor",
+    "Types of Angles and Angle Pairs",
+    "Basic Geometric Constructions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

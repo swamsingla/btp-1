@@ -1,0 +1,21 @@
+[
+  {
+    "canonical_name": "Polynomial in One Variable",
+    "slug": "polynomial-in-one-variable",
+    "aliases": [],
+    "domain": "Algebra",
+    "area": "Quadratic Equations and Polynomials",
+    "parent": null,
+    "grades": [
+      9
+    ],
+    "importance-by-grade": {
+      "9": 5
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

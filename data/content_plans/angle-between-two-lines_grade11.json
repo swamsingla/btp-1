@@ -1,0 +1,47 @@
+{
+  "concept_slug": "angle-between-two-lines",
+  "canonical_name": "Angle Between Two Lines",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "tanθ = |m₁−m₂|/(1+m₁m₂)",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch9 — Angle between two lines]\nthen we find that these lines are either intersecting or parallel. Here we will discuss the\nangle between two lines in terms of their slopes.\nLet L1 and L2 be two non-vertical lines with slopes m1 and m2, respectively. If α1\nand α2 are the inclinations of lines L1 and L2, respectively. Then\nα\ntan\nand\nα\ntan\n=\n=\nm\nm\n.\nWe know that when two lines intersect each other, they make two pairs of\nvertically opposite angles such that sum of any two adjacent angles is 180°. Let θ and\nφ be the adjacent angles between the lines L1 and L2 (Fig 9.6). Then\nθ = α2 – α1 and α1, α2  ≠ 90°.\nTherefore  tan θ = tan (α2 – α1)\ntan\ntan\n1 tan\ntan\nm\nm\nm m\nα\nα\nα\nα\n−\n−\n=\n=\n+\n+\n(as 1 + m1m2 ≠ 0)\nand φ = 180° – θ so that\ntan φ = tan (180° – θ ) = – tan θ =\n–\nm\nm\nm m\n−\n+\n, as 1 + m1m2 ≠ 0\nFig 9. 6\nNow, there arise two cases:\nReprint 2025-26\nSTRAIGHT LINES       157\nCase I  If\n–\nm\nm\nm m\n+\nis positive, then tan θ will be positive and tan φ will be negative,\nwhich means θ will be acute and φ will be obtuse.\nCase II  If\n\n\n[NCERT Grade11 Ch9 — Distance between two]\nparallel lines We know that slopes of\ntwo parallel lines are equal.\nTherefore, two parallel lines can be\ntaken in the form\ny = mx + c1\n... (1)\nand\ny = mx + c2\n... (2)\nLine (1) will intersect x-axis at the point\nA\nc ,\nm\n\n\n−\n\n\n\nas shown in Fig 9.15.\nDistance between two lines is equal to the length of the perpendicular from point\nA to line (2). Therefore, distance between the lines (1) and (2) is\n(\n)\n(\n)\nor  =\nc\nm\nc\nc\nc\nm\nd\nm\nm\n\n\n−\n−\n+ −\n\n\n−\n\n\n+\n+\n.\nThus, the distance d between two parallel lines\ny\nmx\nc\n=\n+\nand\ny\nmx\nc\n=\n+\nis given by\n=\nc\nc\nd\nm\n−\n+\n.\nIf lines are given in general form, i.e.,  Ax + By + C1 = 0 and Ax + By + C2 = 0,\nthen above formula will take the form\nC\nC\nA\nB\nd\n−\n=\n+\nStudents can derive it themselves.\nFig 9.15\nReprint 2025-26\nSTRAIGHT LINES       167\nExample 9 Find the distance of the point (3, – 5) from the line 3x – 4y –26 = 0.\nSolution Given line is\n3x – 4y –26 = 0\n... (1)\nComparing (1) with general equation of line Ax + By + C = 0, we get\nA = 3, B = – 4 an\n\n[NCERT Grade11 Ch11 — Distance between Two Points]\nWe have studied about the distance\nbetween two points in two-dimensional\ncoordinate system. Let us now extend this\nstudy to three-dimensional system.\nLet P(x1, y1, z1) and Q ( x2, y2, z2)\nbe two points referred to a system of\nrectangular axes OX, OY and OZ.\nThrough the points P and Q draw planes\nparallel to the coordinate planes so as to\nform a rectangular parallelopiped with one\ndiagonal PQ (Fig 11.4).\nNow, since ∠PAQ is a right\nangle, it follows that, in triangle PAQ,\nPQ2 = PA2 + AQ2\n... (1)\nAlso,  triangle ANQ is right angle triangle with ∠ANQ a right angle.\nFig 11.4\nReprint 2025-26\n212  MATHEMATICS\nTherefore\nAQ2 = AN2 + NQ2\n... (2)\nFrom\n(1) and (2), we have\nPQ2 = PA2 + AN2 + NQ2\nNow\nPA = y2 – y1, AN = x2 – x1 and NQ = z2 – z1\nHence\nPQ2 = (x2 – x1)2 + (y2 – y1)\n2 + (z2 – z1)2\nTherefore\nPQ =\n)\n(\n)\n(\n)\n(\nz\nz\ny\ny\nx\nx\n−\n+\n−\n+\n−\nThis gives us the distance between two points (x1, y1, z1) and (x2, y2, z2).\nIn particular, if x1 = y1 = z1 = 0, i.e., point P is origin O, then OQ =\nz\ny\nx\n+\n+\n,",
+  "context_sources": [
+    "ncert:grade11/maths/ch9",
+    "ncert:grade11/maths/ch9",
+    "ncert:grade11/maths/ch11"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Equation of a Straight Line",
+    "Sum and Difference Formulas"
+  ],
+  "prerequisites_descriptions": {
+    "Equation of a Straight Line": "Point-slope, slope-intercept, two-point, intercept forms",
+    "Sum and Difference Formulas": "sin(A±B), cos(A±B), tan(A±B)"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Equation of a Straight Line",
+    "Sum and Difference Formulas",
+    "Slope of a Line",
+    "General Equation of a Line",
+    "Distance of a Point from a Line",
+    "Family of Lines",
+    "Equation of a Circle",
+    "Conic Sections — Introduction",
+    "Parabola"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

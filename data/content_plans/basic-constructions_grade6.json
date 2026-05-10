@@ -1,0 +1,51 @@
+{
+  "concept_slug": "basic-constructions",
+  "canonical_name": "Basic Geometric Constructions",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Geometry",
+  "description": "Using compass and straightedge to construct angles, bisectors and perpendiculars",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angles",
+    "Points, Lines and Planes"
+  ],
+  "prerequisites_descriptions": {
+    "Angles": "Amount of rotation between two rays sharing a common endpoint",
+    "Points, Lines and Planes": "Fundamental undefined terms: point, line, ray, line segment, plane"
+  },
+  "successors_to_link": [
+    "Constructions of Triangles",
+    "Perpendicular Bisector",
+    "Constructions — Division of Line Segment",
+    "Construction of Tangents to a Circle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Angles",
+    "Points, Lines and Planes",
+    "Constructions of Triangles",
+    "Perpendicular Bisector",
+    "Constructions — Division of Line Segment",
+    "Construction of Tangents to a Circle",
+    "Measuring Angles with Protractor",
+    "Types of Angles and Angle Pairs",
+    "Line Symmetry and Reflection",
+    "Rotational Symmetry"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

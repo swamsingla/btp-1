@@ -1,0 +1,39 @@
+{
+  "concept_slug": "histogram",
+  "canonical_name": "Histogram",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Statistics",
+  "description": "Bar chart for continuous grouped data; class intervals",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nA histogram is a visual representation of the distribution of quantitative data. To construct a histogram, the first step is to \"bin\" the range of values— divide the entire range of values into a series of intervals—and then count how many values fall into each interval. The bins are usually specified as consecutive, non-overlapping intervals of a variable. The bins (intervals) are adjacent and are typically of equal size.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Data Representation — Grouped Data"
+  ],
+  "prerequisites_descriptions": {
+    "Data Representation — Grouped Data": "Histograms, frequency polygons for grouped data"
+  },
+  "successors_to_link": [
+    "Frequency Polygon"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Data Representation — Grouped Data",
+    "Frequency Polygon",
+    "Central Tendency for Grouped Data"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

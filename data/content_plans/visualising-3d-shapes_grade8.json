@@ -1,0 +1,44 @@
+{
+  "concept_slug": "visualising-3d-shapes",
+  "canonical_name": "Visualising 3D Shapes",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Mensuration",
+  "description": "Faces, edges, vertices of polyhedra; Euler's formula F+V−E=2",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade8 Ch4 — Visualising Solids]\nBuild it in Your Imagination\nWe will start this section by practising visualisation. For each prompt,\nfeel free to talk to your partner, gesture, draw it in the air — but do not\nactually draw on paper!\nMy method is different. I do not rush into\nactual work. When I get an idea I start at once\nbuilding it up in my imagination. I change the\nconstruction, make improvements, and operate\nthe device entirely in my mind.\n— Nikolas Tesla (1856 – 1943), the great\nSerbian-American engineer and inventor, who\nmade fundamental contributions to electrical\nengineering and other fields.\n1.\t Picture your name, then read off the letters backwards. Make sure\nto do this by sight, not by sound — really see your name! Now try\nwith your friend’s name.\nGanita Prakash | Grade 8 | Part-II\n2.\t Cut off the four corners of an imaginary square, with each cut going\nbetween midpoints of adjacent edges. What shape is left over? How\ncan you reassemble the four corners to make another square?\n3.\t Mark the sides of an equ\n\n[NCERT Grade8 Ch5 — Visualising and Interpreting Data]\nSo far we have learnt how to read and make pictographs, bar graphs,\nclustered-bar graphs, and dot plots. We now examine some more ways\nof visualising data.\nLine Graphs\nTemperature\nThe following figure is a clustered-column graph that shows the monthly\nmaximum temperature in Kerala and Punjab in 2023.\nNow, observe the following graph. Do both these graphs represent the\nsame information?\nTales by Dots and Lines\nWe call such a graph made up of lines a line graph. Line graphs are\ngenerally used to visualise data across time.\nHow do we get the maximum temperature over a month in a state?\nThere could be a few weather stations across the state that regularly\ntrack the local temperature. We can get the monthly maximum\ntemperature by looking at the maximum value among all the values\nrecorded across the state.\nTo identify and interpret the information presented, let us follow a\ntwo-step process.\nStep 1: Identify what is given\nNotice how the graph is organised, what scale is used, and what patter",
+  "context_sources": [
+    "ncert:grade8/maths/ch4",
+    "ncert:grade8/maths/ch5"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Quadrilaterals"
+  ],
+  "prerequisites_descriptions": {
+    "Quadrilaterals": "Four-sided polygons; angle sum = 360°; types of quadrilaterals"
+  },
+  "successors_to_link": [
+    "Surface Area of Cuboid and Cube"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Quadrilaterals",
+    "Surface Area of Cuboid and Cube",
+    "Area of Triangles",
+    "Area of a Circle",
+    "Heron's Formula",
+    "Circumference and Area of Circle",
+    "Volume of Cuboid and Cube"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

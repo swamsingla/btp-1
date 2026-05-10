@@ -1,0 +1,35 @@
+{
+  "concept_slug": "range",
+  "canonical_name": "Range",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Statistics",
+  "description": "Difference between maximum and minimum values in a dataset",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mean, Median and Mode"
+  ],
+  "prerequisites_descriptions": {
+    "Mean, Median and Mode": "Three measures of central tendency for ungrouped data"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Mean, Median and Mode",
+    "Bar Graphs, Pictographs and Pie Charts",
+    "Frequency Distribution Table"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

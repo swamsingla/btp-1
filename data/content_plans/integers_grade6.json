@@ -1,0 +1,51 @@
+{
+  "concept_slug": "integers",
+  "canonical_name": "Integers",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Systems",
+  "description": "Positive and negative whole numbers including zero",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch10 — Integers in Other Places]\nCredits and debits\nSuppose you open a bank account at your local bank with the `100\nthat you had been saving over the last month. Your bank balance\ntherefore, starts at `100.\nThen you make `60 at your job the next day and you deposit it in\nyour account. This is shown in your bank passbook as a ‘credit’.\nYour new bank balance is _______.\n\u0007The next day you pay your electric bill of `30 using your bank\naccount. This is shown in your bank passbook as a ‘debit’.\nYour bank balance is now ______.\n\u0007The next day you make a major purchase for your business of\n`150. Again this is shown as a debit.\nWhat is your bank balance now? ______\nIs this possible?\nYes, some banks do allow your account balance to become negative,\ntemporarily! Some banks also charge you an additional amount if\nyour balance becomes negative, in the form of ‘interest’ or a ‘fee’.\nYour strategic large purchase the previous day allows you to\nmake, `200 at your business the next day.\nReprint 2025-26\nGanita Prakash | Grade 6\nWhat is\n\n[NCERT Grade6 Ch10 — Explorations with Integers]\nA hollow integer grid\n– 1\n– 3\n– 3\n– 1\n– 1\n– 3\n– 5\n– 5\n– 8\n– 2\nThere is something special about the numbers in these two grids.\nLet us explore what that is.\nTop row:\nBottom row:\nLeft column:\nRight column:\n4 + (– 1) + (– 3)  = 0\n(– 1) + (– 1) +   2     = 0\n4 + (– 3) + (– 1)  = 0\n(– 3) +   1\t    +   2    = 0\n5 + (– 3) + (– 5)  = ____\n(– 8) + (– 2) +   7     = ____\n5 +    0    + (– 8)  = ____\n(– 5) + (– 5)  +   7     = ____\nIn each grid, the numbers in each of the two rows (the top row\nand the bottom row) and the numbers in each of the two columns\n(the leftmost column and the rightmost column) add up to give the\nsame number. We shall call this sum as the ‘border sum’. The border\nsum of the first grid is ‘0’.\nFigure it Out\n1.\nDo the calculations for the second grid above and find the\nborder sum.\nReprint 2025-26\nGanita Prakash | Grade 6\n2.\t Complete the grids to make the required border sum:\n– 10\n– 5\n– 5\n– 2\n– 5\nBorder sum is +4\nBorder sum is – 2\nBorder sum is – 4\n3.\t For the last grid above\n\n[Wikipedia]\nAn integer is the number zero (0), a positive natural number, or the negation of a positive natural number. The negations or additive inverses of the positive natural numbers are referred to as negative integers. The set of all integers is often denoted by the boldface Z or blackboard bold ⁠⁠.",
+  "context_sources": [
+    "ncert:grade6/maths/ch10",
+    "ncert:grade6/maths/ch10",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Whole Numbers",
+    "Number Line"
+  ],
+  "prerequisites_descriptions": {
+    "Whole Numbers": "Natural numbers together with zero: 0, 1, 2, 3, …",
+    "Number Line": "Representation of numbers as points on a straight line; ordering and spacing"
+  },
+  "successors_to_link": [
+    "Operations on Integers",
+    "Rational Numbers"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Whole Numbers",
+    "Number Line",
+    "Operations on Integers",
+    "Rational Numbers",
+    "Natural Numbers",
+    "Place Value and Indian Numeration",
+    "Fractions",
+    "Types of Fractions",
+    "Equivalent Fractions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

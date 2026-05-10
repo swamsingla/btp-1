@@ -1,0 +1,67 @@
+{
+  "concept_slug": "pair-of-linear-equations",
+  "canonical_name": "Pair of Linear Equations in Two Variables",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Algebra",
+  "description": "Solving systems graphically and algebraically",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade10 Ch3 — Introduction]\nYou must have come across situations like the one given below :\nAkhila went to a fair in her village. She wanted to enjoy rides on the Giant Wheel\nand play Hoopla (a game in which you throw a ring on the items kept in a stall, and if\nthe ring covers any object completely, you get it). The number of times she played\nHoopla is half the number of rides she had on the Giant Wheel. If each ride costs\n` 3, and a game of Hoopla costs ` 4, how would you find out the number of rides she\nhad and how many times she played Hoopla, provided she spent ` 20.\nMay be you will try it by considering different cases. If she has one ride, is it\npossible? Is it possible to have two rides? And so on. Or you may use the knowledge\nof Class IX, to represent such situations as linear equations in two variables.\nReprint 2025-26\nPAIR OF LINEAR EQUATIONS IN TWO VARIABLES\nLet us try this approach.\nDenote the number of rides that Akhila had by x, and the number of times she\nplayed Hoopla by y. Now the situation can b\n\n[NCERT Grade10 Ch3 — Graphical Method of Solution of a Pair of Linear Equations]\nA pair of linear equations which has no solution, is called an inconsistent pair of linear\nequations. A pair of linear equations in two variables, which has a solution, is called a\nconsistent pair of linear equations. A pair of linear equations which are equivalent has\ninfinitely many distinct common solutions. Such a pair is called a dependent pair of\nlinear equations in two variables. Note that a dependent pair of linear equations is\nalways consistent.\nWe can now summarise the behaviour of lines representing a pair of linear equations\nin two variables and the existence of solutions as follows:\n(i) the lines may intersect in a single point. In this case, the pair of equations\nhas a unique solution (consistent pair of equations).\n(ii) the lines may be parallel. In this case, the equations have no solution\n(inconsistent pair of equations).\n(iii) the lines may be coincident. In this case, the equations have infinitely many\nsolutions [dependent (consistent) pair of equations].\nConsider th\n\n[NCERT Grade10 Ch3 — Substitution Method :]\nsome examples.\nExample 4 : Solve the following pair of equations by substitution method:\n7x – 15y = 2\n(1)\nx + 2y = 3\n(2)\nSolution :\nStep 1 : We pick either of the equations and write one variable in terms of the other.\nLet us consider the Equation (2) :\nx + 2y = 3\nand write it as\nx = 3 – 2y\n(3)\nStep 2 : Substitute the value of x in Equation (1). We get\n7(3 – 2y) – 15y = 2\ni.e.,\n21 – 14y – 15y = 2\ni.e.,\n– 29y = –19\nTherefore,\ny = 19\nStep 3 : Substituting this value of y in Equation (3), we get\nx = 3 –\n2 29\n\n\n\n\n\n\n= 49\nTherefore, the solution is x = 49\n29 , y = 19\n29 .\nReprint 2025-26\nPAIR OF LINEAR EQUATIONS IN TWO VARIABLES\nVerification : Substituting x = 49\n29  and y = 19\n29 , you can verify that both the Equations\n(1) and (2) are satisfied.\nTo understand the substitution method more clearly, let us consider it stepwise:\nStep 1 : Find the value of one variable, say y in terms of the other variable, i.e., x from\neither equation, whichever is convenient.\nStep 2 : Substitute this va\n\n[NCERT Grade10 Ch3 — Elimination Method]\nNow let us consider another method of eliminating (i.e., removing) one variable. This\nis sometimes more convenient than the substitution method. Let us see how this method\nworks.\nExample 8 : The ratio of incomes of two persons is 9 : 7 and the ratio of their\nexpenditures is 4 : 3. If each of them manages to save ` 2000 per month, find their\nmonthly incomes.\nSolution : Let us denote the incomes of the two person by ` 9x and ` 7x and their\nexpenditures by ` 4y and ` 3y respectively. Then the equations formed in the situation\nis given by :\n9x – 4y = 2000\n(1)\nand\n7x – 3y = 2000\n(2)\nStep 1 : Multiply Equation (1) by 3 and Equation (2) by 4 to make the coefficients of\ny equal. Then we get the equations:\n27x – 12y = 6000\n(3)\n28x – 12y = 8000\n(4)\nStep 2 : Subtract Equation (3) from Equation (4) to eliminate y, because the coefficients\nof y are the same. So, we get\n(28x – 27x) – (12y – 12y) = 8000 – 6000\ni.e.,\nx = 2000\nStep 3 : Substituting this value of x in (1), we get\n9(2000) – 4y = 2000\ni.e\n\n[NCERT Grade10 Ch3 — Algebraic Methods of Solving a Pair of Linear Equations]\nIn the previous section, we discussed how to solve a pair of linear equations graphically.\nThe graphical method is not convenient in cases when the point representing the\nsolution of the linear equations has non-integral coordinates like (\n)\n3, 2 7 ,\n(–1.75, 3.3),\n,\n13 19\n\n\n\n\n\n, etc. There is every possibility of making mistakes while reading\nsuch coordinates. Is there any alternative method of finding the solution? There are\nseveral algebraic methods, which we shall now discuss.\n3.3.1 Substitution Method : We shall explain the method of substitution by taking",
+  "context_sources": [
+    "ncert:grade10/maths/ch3",
+    "ncert:grade10/maths/ch3",
+    "ncert:grade10/maths/ch3",
+    "ncert:grade10/maths/ch3",
+    "ncert:grade10/maths/ch3"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Linear Equations in Two Variables",
+    "Cartesian Coordinate System"
+  ],
+  "prerequisites_descriptions": {
+    "Linear Equations in Two Variables": "ax + by + c = 0; graphing; solution as ordered pair",
+    "Cartesian Coordinate System": "x-y plane; quadrants; plotting ordered pairs"
+  },
+  "successors_to_link": [
+    "Substitution Method",
+    "Elimination Method",
+    "Cross-Multiplication Method",
+    "Consistency of a System of Equations",
+    "Family of Lines",
+    "Matrices",
+    "Cramer's Rule"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Linear Equations in Two Variables",
+    "Cartesian Coordinate System",
+    "Substitution Method",
+    "Elimination Method",
+    "Cross-Multiplication Method",
+    "Consistency of a System of Equations",
+    "Family of Lines",
+    "Matrices",
+    "Cramer's Rule",
+    "Zeroes of a Polynomial",
+    "Relationship Between Zeroes and Coefficients",
+    "Quadratic Equations",
+    "Quadratic Formula",
+    "Completing the Square",
+    "Nature of Roots — Discriminant"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

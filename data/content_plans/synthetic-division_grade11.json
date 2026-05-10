@@ -1,0 +1,44 @@
+{
+  "concept_slug": "synthetic-division",
+  "canonical_name": "Synthetic Division",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "Quick algorithm for dividing a polynomial by (x−c)",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Division of Algebraic Expressions",
+    "Remainder Theorem"
+  ],
+  "prerequisites_descriptions": {
+    "Division of Algebraic Expressions": "Dividing a polynomial by a monomial or polynomial",
+    "Remainder Theorem": "When p(x) is divided by (x−a), remainder = p(a)"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Division of Algebraic Expressions",
+    "Remainder Theorem",
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Functions",
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Complex Numbers",
+    "Algebra of Complex Numbers"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

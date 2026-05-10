@@ -1,0 +1,49 @@
+{
+  "concept_slug": "equation-of-line-3d",
+  "canonical_name": "Equation of a Line in 3D",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Coordinate Geometry",
+  "description": "Vector and Cartesian forms; parametric equations",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch11 — Equation of a Line in Space]\nWe have studied equation of  lines in two dimensions in Class XI, we shall now study\nthe vector and cartesian equations of a line in space.\nA line is uniquely determined if\n(i)\nit passes through a given point and has given direction, or\n(ii)\nit passes through two given points.\n11.3.1\nEquation of a line through a given point and parallel to  given vector\nLet  be the position vector of the given point A with respect to the origin O of the\nrectangular coordinate system. Let l be the line which passes through the point A and\nis parallel to a given vector . Let   be the position vector of an arbitrary point P on the\nline (Fig 11.3).\nReprint 2025-26\nThen AP\nuuur\nis parallel to the vector ,  i.e.,\nAP\nuuur\n= λ ,  where λ is some real number.\nBut\nAP\nuuur\n= OP – OA\nuuur\nuuur\ni.e.\nλ  =\n−\nr\nr\nr\na\nConversely, for each value of the\nparameter λ, this equation gives the position\nvector of a point P on the line.  Hence, the\nvector equation of the line is given by\n=\n»\nr\nra +\nb\n... (1)\nRemark If\nˆ\nˆ\nˆ\n=",
+  "context_sources": [
+    "ncert:grade12/maths/ch11"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Direction Cosines and Direction Ratios",
+    "Vectors — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Direction Cosines and Direction Ratios": "l,m,n; l²+m²+n²=1; direction ratios a,b,c",
+    "Vectors — Introduction": "Directed line segment; magnitude and direction; position vectors"
+  },
+  "successors_to_link": [
+    "Angle Between Two Lines in 3D",
+    "Shortest Distance Between Two Lines",
+    "Equation of a Plane"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Direction Cosines and Direction Ratios",
+    "Vectors — Introduction",
+    "Angle Between Two Lines in 3D",
+    "Shortest Distance Between Two Lines",
+    "Equation of a Plane",
+    "Angle Between Two Planes",
+    "Distance of a Point from a Plane"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,977 @@
+{
+  "grade": 9,
+  "subject": "maths",
+  "total_topics": 59,
+  "topics": [
+    {
+      "raw_name": "Introduction",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Definition of Real Numbers",
+        "Importance of Real Numbers in Real-life",
+        "Historical Background of Real Numbers",
+        "Real Numbers as a Set of Rational and Irrational Numbers",
+        "Real Numbers as a Set of all Rational and Irrational Numbers"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER SYSTEMS"
+    },
+    {
+      "raw_name": "Irrational Numbers",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Definition of Irrational Numbers",
+        "Examples of Irrational Numbers",
+        "Properties of Irrational Numbers",
+        "Square Root of Negative Numbers is not an Irrational Number",
+        "Irrational Numbers are not Terminating or Repeating Decimals"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER SYSTEMS"
+    },
+    {
+      "raw_name": "Real Numbers and their Decimal Expansions",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Definition of Decimal Expansion",
+        "Terminating and Non-Terminating Decimal Expansions",
+        "Repeating and Non-Repeating Decimal Expansions",
+        "Converting Repeating Decimal to Fraction",
+        "Converting Non-Repeating Decimal to Fraction"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER SYSTEMS"
+    },
+    {
+      "raw_name": "Operations on Real Numbers",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Addition and Subtraction of Real Numbers",
+        "Multiplication and Division of Real Numbers",
+        "Order of Operations in Real Numbers",
+        "Rounding Off Real Numbers to Nearest Whole Number",
+        "Rounding Off Real Numbers to Nearest Tenths"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER SYSTEMS"
+    },
+    {
+      "raw_name": "Laws of Exponents for Real Numbers",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Product Rule of Exponents",
+        "Quotient Rule of Exponents",
+        "Power Rule of Exponents",
+        "Product of Powers Rule of Exponents",
+        "Power of a Power Rule of Exponents"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER SYSTEMS"
+    },
+    {
+      "raw_name": "Summary",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Key Concepts of Real Numbers",
+        "Key Concepts of Irrational Numbers",
+        "Key Concepts of Decimal Expansions",
+        "Key Concepts of Operations on Real Numbers",
+        "Key Concepts of Laws of Exponents for Real Numbers"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER SYSTEMS"
+    },
+    {
+      "raw_name": "Area of a Triangle — by Heron’s Formula",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Heron’s Formula for Area of Triangle",
+        "Semiperimeter of Triangle",
+        "Area of Triangle using Heron’s Formula",
+        "Conditions for Triangle to be Valid",
+        "Area of Triangle when all sides are given"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT HERON’S FORMULA"
+    },
+    {
+      "raw_name": "Surface Area of a Right Circular Cone",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Slant Height of a Cone",
+        "Curved Surface Area of a Cone",
+        "Total Surface Area of a Cone",
+        "Surface Area of a Cone when radius and slant height are given",
+        "Surface Area of a Cone when radius and height are given"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SURFACE AREAS AND VOLUMES"
+    },
+    {
+      "raw_name": "Surface Area of a Sphere",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Curved Surface Area of a Sphere",
+        "Total Surface Area of a Sphere",
+        "Surface Area of a Sphere when radius is given",
+        "Surface Area of a Sphere when diameter is given",
+        "Surface Area of a Sphere when circumference is given"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SURFACE AREAS AND VOLUMES"
+    },
+    {
+      "raw_name": "Volume of a Right Circular Cone",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Volume of a Cone using Formula",
+        "Volume of a Cone when radius and height are given",
+        "Volume of a Cone when radius and slant height are given",
+        "Volume of a Cone when radius, height and slant height are given",
+        "Volume of a Cone when diameter and height are given"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SURFACE AREAS AND VOLUMES"
+    },
+    {
+      "raw_name": "Volume of a Sphere",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Formula for the volume of a sphere (V = 4/3 πr³)",
+        "Derivation of the formula for the volume of a sphere",
+        "Relationship between the volume and the radius of a sphere",
+        "Numerical problems involving the volume of a sphere",
+        "Real-life applications of the volume of a sphere"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SURFACE AREAS AND VOLUMES"
+    },
+    {
+      "raw_name": "Graphical Representation of Data",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Construction of a bar graph",
+        "Construction of a histogram",
+        "Construction of a pie chart",
+        "Interpretation of a line graph",
+        "Comparison of different graphical representations"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT STATISTICS"
+    },
+    {
+      "raw_name": "Polynomials in One Variable",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Definition of a polynomial in one variable",
+        "Types of polynomials (monomial, binomial, trinomial)",
+        "Degree of a polynomial",
+        "Coefficients of a polynomial",
+        "Standard form of a polynomial"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT POLYNOMIALS"
+    },
+    {
+      "raw_name": "Zeroes of a Polynomial",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Real and imaginary zeroes of a polynomial",
+        "Relationship between zeroes and coefficients of a polynomial",
+        "Finding zeroes of a polynomial using the factor theorem",
+        "Numerical problems involving zeroes of a polynomial",
+        "Graphical representation of zeroes of a polynomial"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT POLYNOMIALS"
+    },
+    {
+      "raw_name": "Factorisation of Polynomials",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Factorisation by regrouping",
+        "Factorisation by splitting the middle term",
+        "Factorisation by using the difference of squares",
+        "Factorisation by using the perfect square trinomial",
+        "Factorisation by using the sum and difference of cubes"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT POLYNOMIALS"
+    },
+    {
+      "raw_name": "Algebraic Identities",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Identity for the sum of squares (a² + b²)",
+        "Identity for the difference of squares (a² - b²)",
+        "Identity for the product of sums (a² + b²)(c² + d²)",
+        "Identity for the product of differences (a² - b²)(c² - d²)",
+        "Identity for the square of a sum (a + b)²"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT POLYNOMIALS"
+    },
+    {
+      "raw_name": "Cartesian System",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Definition of the Cartesian plane",
+        "Coordinates of a point in the Cartesian plane",
+        "Midpoint formula",
+        "Distance formula",
+        "Slope of a line in the Cartesian plane"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT COORDINATE GEOMETRY"
+    },
+    {
+      "raw_name": "Linear Equations",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Definition of a linear equation in one variable",
+        "Graphical representation of a linear equation",
+        "Slope-intercept form of a linear equation (y = mx + c)",
+        "Standard form of a linear equation (ax + by = c)",
+        "Numerical problems involving linear equations"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LINEAR EQUATIONS IN TWO VARIABLES"
+    },
+    {
+      "raw_name": "Euclid’s Definitions, Axioms and Postulates",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Euclid's five postulates",
+        "Euclid's five axioms",
+        "Definition of a point, line, and plane",
+        "Definition of collinear and coplanar points",
+        "Definition of congruent and similar figures"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT INTRODUCTION TO EUCLID’S GEOMETRY"
+    },
+    {
+      "raw_name": "Basic Terms and Definitions",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Definition of a point, line, and plane",
+        "Definition of collinear and coplanar points",
+        "Definition of congruent and similar figures",
+        "Definition of midpoint and distance between two points",
+        "Definition of angle and its measurement"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LINES AND ANGLES"
+    },
+    {
+      "raw_name": "Intersecting Lines and Non-intersecting Lines",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Definition of intersecting and non-intersecting lines",
+        "Construction of intersecting and non-intersecting lines",
+        "Properties of intersecting and non-intersecting lines",
+        "Identifying intersecting and non-intersecting lines in a diagram",
+        "Drawing intersecting and non-intersecting lines in a diagram"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LINES AND ANGLES"
+    },
+    {
+      "raw_name": "Pairs of Angles",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Definition of complementary and supplementary angles",
+        "Properties of complementary and supplementary angles",
+        "Identifying complementary and supplementary angles in a diagram",
+        "Formation of complementary and supplementary angles",
+        "Relationship between angles in a straight line"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LINES AND ANGLES"
+    },
+    {
+      "raw_name": "Lines Parallel to the Same Line",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Definition of parallel lines",
+        "Properties of parallel lines",
+        "Identifying parallel lines in a diagram",
+        "Formation of parallel lines",
+        "Relationship between parallel lines and transversals"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LINES AND ANGLES"
+    },
+    {
+      "raw_name": "Congruence of Triangles",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Definition of congruent triangles",
+        "Properties of congruent triangles",
+        "SSS, SAS, ASA, AAS, and SAA congruence criteria",
+        "Identifying congruent triangles in a diagram",
+        "Formation of congruent triangles"
+      ],
+      "source_boards": [
+        "NCERT",
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "From NCERT TRIANGLES"
+    },
+    {
+      "raw_name": "Criteria for Congruence of Triangles",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "SSS congruence criterion",
+        "SAS congruence criterion",
+        "ASA congruence criterion",
+        "AAS congruence criterion",
+        "SAA congruence criterion"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT TRIANGLES"
+    },
+    {
+      "raw_name": "Some Properties of a Triangle",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Properties of acute, obtuse, and right-angled triangles",
+        "Properties of isosceles and equilateral triangles",
+        "Properties of scalene triangles",
+        "Relationship between angles and sides of a triangle",
+        "Relationship between the median and the side of a triangle"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT TRIANGLES"
+    },
+    {
+      "raw_name": "Properties of a Parallelogram",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Properties of opposite sides of a parallelogram",
+        "Properties of opposite angles of a parallelogram",
+        "Properties of diagonals of a parallelogram",
+        "Relationship between the sides and angles of a parallelogram",
+        "Formation of a parallelogram"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT QUADRILATERALS"
+    },
+    {
+      "raw_name": "The Mid-point Theorem",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Statement of the mid-point theorem",
+        "Proof of the mid-point theorem",
+        "Properties of the mid-point of a line segment",
+        "Relationship between the mid-point and the line segment",
+        "Application of the mid-point theorem"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT QUADRILATERALS"
+    },
+    {
+      "raw_name": "Angle Subtended by a Chord at a Point",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Definition of the angle subtended by a chord",
+        "Properties of the angle subtended by a chord",
+        "Relationship between the angle subtended by a chord and the radius",
+        "Formation of the angle subtended by a chord",
+        "Relationship between the angle subtended by a chord and the central angle"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CIRCLES"
+    },
+    {
+      "raw_name": "Perpendicular from the Centre to a Chord",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Properties of the perpendicular from the centre to a chord",
+        "Relationship between the perpendicular from the centre to a chord and the radius",
+        "Formation of the perpendicular from the centre to a chord",
+        "Relationship between the perpendicular from the centre to a chord and the chord",
+        "Application of the perpendicular from the centre to a chord"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CIRCLES"
+    },
+    {
+      "raw_name": "Equal Chords and their Distances from the Centre",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Definition and properties of equal chords",
+        "Equal chords theorem and its applications",
+        "Distance of equal chords from the centre of a circle",
+        "Relationship between chord length and distance from centre"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CIRCLES"
+    },
+    {
+      "raw_name": "Angle Subtended by an Arc of a Circle",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Definition of angle subtended by an arc",
+        "Relationship between arc length and angle subtended",
+        "Properties of angles subtended by arcs in different quadrants",
+        "Calculating angles using arc length and radius"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CIRCLES"
+    },
+    {
+      "raw_name": "Cyclic Quadrilaterals",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Definition and properties of cyclic quadrilaterals",
+        "Opposite angles of a cyclic quadrilateral",
+        "Relationship between opposite angles and arc lengths",
+        "Properties of tangents to a cyclic quadrilateral"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CIRCLES"
+    },
+    {
+      "raw_name": "Quadratic Equations",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes solving quadratic equations by factorisation, quadratic formula, and other methods",
+      "subtopics": [
+        "Standard form of a quadratic equation",
+        "Solving quadratic equations by factorization",
+        "Quadratic formula and its applications",
+        "Nature of roots of quadratic equations"
+      ]
+    },
+    {
+      "raw_name": "Arithmetic Progressions",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes properties, types, and applications of arithmetic progressions",
+      "subtopics": [
+        "Definition and properties of arithmetic progressions",
+        "Common difference and its applications",
+        "Sum and product of terms in an arithmetic progression",
+        "Relationship between arithmetic and geometric progressions"
+      ]
+    },
+    {
+      "raw_name": "Geometric Progressions",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes properties, types, and applications of geometric progressions",
+      "subtopics": [
+        "Definition and properties of geometric progressions",
+        "Common ratio and its applications",
+        "Sum and product of terms in a geometric progression",
+        "Relationship between arithmetic and geometric progressions"
+      ]
+    },
+    {
+      "raw_name": "Trigonometric Ratios",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes definitions, properties, and applications of trigonometric ratios",
+      "subtopics": [
+        "Definition of trigonometric ratios in a right-angled triangle",
+        "Relationship between trigonometric ratios and angles",
+        "Pythagorean identities and their applications",
+        "Trigonometric ratios in different quadrants"
+      ]
+    },
+    {
+      "raw_name": "Circles and Chords",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes properties, types, and applications of circles and chords",
+      "subtopics": [
+        "Definition and properties of circles and chords",
+        "Relationship between chord length and radius",
+        "Properties of tangents to a circle",
+        "Calculating arc lengths and angles using chord length"
+      ]
+    },
+    {
+      "raw_name": "Three Dimensional Geometry",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes properties, types, and applications of three dimensional geometry",
+      "subtopics": [
+        "Definition and properties of 3D geometry",
+        "Distance formula in 3D space",
+        "Equation of a plane in 3D space",
+        "Relationship between planes and lines in 3D space"
+      ]
+    },
+    {
+      "raw_name": "Statistics and Graphs",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes types, properties, and applications of statistics and graphs",
+      "subtopics": [
+        "Definition and types of graphs",
+        "Interpreting and creating bar graphs",
+        "Interpreting and creating histograms",
+        "Calculating mean, median, and mode from a frequency distribution"
+      ]
+    },
+    {
+      "raw_name": "Probability",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of probability",
+      "subtopics": [
+        "Understanding the concept of experimental and theoretical probability",
+        "Calculating probabilities using the formula P(E) = Number of favorable outcomes / Total number of outcomes",
+        "Determining the probability of independent events",
+        "Understanding the concept of mutually exclusive events",
+        "Calculating the probability of the union and intersection of two events"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Graph Theory",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of graph theory",
+      "subtopics": [
+        "Understanding the concept of a graph as a set of vertices and edges",
+        "Defining and drawing simple graphs, such as trees and cycles",
+        "Understanding the concept of a subgraph and its properties",
+        "Calculating the degree and order of a graph",
+        "Understanding the concept of a walk, trail, and path in a graph"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Coordinate Geometry",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of coordinate geometry",
+      "subtopics": [
+        "Understanding the Cartesian coordinate system",
+        "Plotting points on the Cartesian plane",
+        "Calculating the distance between two points",
+        "Determining the midpoint of a line segment",
+        "Understanding the concept of the slope of a line"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Statistics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of statistics",
+      "subtopics": [
+        "Understanding the concept of population and sample",
+        "Defining and calculating the mean, median, and mode of a dataset",
+        "Understanding the concept of range and interquartile range",
+        "Calculating the standard deviation and variance of a dataset",
+        "Understanding the concept of skewness and kurtosis"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Probability",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of probability",
+      "subtopics": [
+        "Understanding the concept of probability as a measure of uncertainty",
+        "Defining and calculating the probability of an event",
+        "Understanding the concept of independent and dependent events",
+        "Calculating the probability of the union and intersection of two events",
+        "Understanding the concept of conditional probability"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Trigonometry",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of trigonometry",
+      "subtopics": [
+        "Understanding the unit circle and its relationship to trigonometric functions",
+        "Defining and calculating the sine, cosine, and tangent of an angle",
+        "Understanding the concept of the Pythagorean identity",
+        "Calculating the values of trigonometric functions for common angles",
+        "Understanding the concept of the inverse trigonometric functions"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Geometry",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of geometry",
+      "subtopics": [
+        "Understanding the concepts of points, lines, and planes",
+        "Defining and calculating the perimeter and area of basic shapes",
+        "Understanding the concept of congruent and similar figures",
+        "Calculating the volume and surface area of 3D shapes",
+        "Understanding the concept of symmetry and tessellations"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Mensuration",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of mensuration",
+      "subtopics": [
+        "Understanding the concept of perimeter and area of basic shapes",
+        "Calculating the volume and surface area of 3D shapes",
+        "Understanding the concept of the formula for the area and circumference of a circle",
+        "Calculating the volume and surface area of composite shapes",
+        "Understanding the concept of the formula for the volume and surface area of a sphere"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Statistics and Graphs",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of statistics and graphs",
+      "subtopics": [
+        "Understanding the concept of population and sample",
+        "Defining and calculating the mean, median, and mode of a dataset",
+        "Understanding the concept of range and interquartile range",
+        "Calculating the standard deviation and variance of a dataset",
+        "Understanding the concept of skewness and kurtosis"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Probability and Statistics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of probability and statistics",
+      "subtopics": [
+        "Understanding the concept of probability as a measure of uncertainty",
+        "Defining and calculating the probability of an event",
+        "Understanding the concept of independent and dependent events",
+        "Calculating the probability of the union and intersection of two events",
+        "Understanding the concept of conditional probability"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Trigonometry and Geometry",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of trigonometry and geometry",
+      "subtopics": [
+        "Definition and types of angles",
+        "Basic properties of triangles",
+        "Introduction to trigonometric ratios",
+        "Understanding basic trigonometric identities",
+        "Basic properties of circles"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Mensuration and Geometry",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of mensuration and geometry",
+      "subtopics": [
+        "Understanding perimeter and area of various shapes",
+        "Introduction to surface area and volume of 3D shapes",
+        "Calculating volumes and surface areas of prisms",
+        "Understanding the concept of similarity in triangles",
+        "Introduction to the concept of congruent triangles"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Coordinate Geometry and Statistics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of coordinate geometry and statistics",
+      "subtopics": [
+        "Understanding the Cartesian plane and coordinates",
+        "Introduction to plotting points on a coordinate plane",
+        "Calculating distances and midpoints between points",
+        "Introduction to the concept of slope and y-intercept",
+        "Understanding the equation of a line in slope-intercept form"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Trigonometry and Geometry and Mensuration",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of trigonometry, geometry, and mensuration",
+      "subtopics": [
+        "Introduction to trigonometric ratios in right-angled triangles",
+        "Understanding the relationship between trigonometric ratios and side lengths",
+        "Calculating areas and perimeters of triangles using trigonometry",
+        "Introduction to the concept of sine rule in triangles",
+        "Understanding the concept of cosine rule in triangles"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Probability and Statistics and Geometry and Mensuration",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of probability, statistics, geometry, and mensuration",
+      "subtopics": [
+        "Understanding the basics of probability and statistics",
+        "Introduction to the concept of mean, median, and mode",
+        "Calculating probabilities using geometric shapes",
+        "Understanding the concept of standard deviation and variance",
+        "Introduction to the normal distribution curve"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Trigonometry and Geometry and Coordinate Geometry and Statistics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of trigonometry, geometry, coordinate geometry, and statistics",
+      "subtopics": [
+        "Introduction to trigonometric identities and equations",
+        "Understanding the relationship between trigonometric ratios and coordinates",
+        "Calculating distances and angles using trigonometry and coordinates",
+        "Introduction to the concept of polar coordinates",
+        "Understanding the equation of a circle in polar form"
+      ]
+    },
+    {
+      "raw_name": "Introduction to 3D Geometry and Mensuration and Coordinate Geometry and Statistics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of 3D geometry, mensuration, coordinate geometry, and statistics",
+      "subtopics": [
+        "Understanding the basics of 3D geometry and mensuration",
+        "Introduction to surface areas and volumes of 3D shapes",
+        "Calculating volumes and surface areas of 3D shapes using coordinates",
+        "Understanding the concept of symmetry in 3D shapes",
+        "Introduction to the concept of Euler's formula for polyhedra"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Probability and Statistics and Geometry and Mensuration and Coordinate Geometry and Statistics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of probability, statistics, geometry, mensuration, coordinate geometry, and statistics",
+      "subtopics": [
+        "Introduction to the concept of correlation and regression",
+        "Understanding the relationship between probability and statistics and geometry",
+        "Calculating probabilities using geometric shapes and coordinates",
+        "Introduction to the concept of statistical inference",
+        "Understanding the concept of hypothesis testing and confidence intervals"
+      ]
+    },
+    {
+      "raw_name": "Introduction to Probability and Statistics and Geometry and Mensuration and Coordinate Geometry and Statistics and Trigonometry and Geometry and Mensuration",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes basic concepts, types, and applications of probability, statistics, geometry, mensuration, coordinate geometry, statistics, trigonometry, geometry, and mensuration",
+      "subtopics": [
+        "Introduction to the concept of Bayesian inference",
+        "Understanding the relationship between probability, statistics, and trigonometry",
+        "Calculating probabilities using geometric shapes, coordinates, and trigonometry",
+        "Introduction to the concept of statistical modeling and simulation",
+        "Understanding the concept of data analysis and visualization"
+      ]
+    }
+  ]
+}

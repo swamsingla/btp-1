@@ -1,0 +1,40 @@
+{
+  "concept_slug": "heights-and-distances",
+  "canonical_name": "Heights and Distances",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Trigonometry",
+  "description": "Applying trig ratios to find heights and distances; angles of elevation and depression",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch9 — Heights and Distances]\nIn the previous chapter, you have studied about trigonometric ratios. In this chapter,\nyou will be studying about some ways in which trigonometry is used in the life around\nyou.\nLet us consider Fig. 8.1 of prvious chapter, which is redrawn below in Fig. 9.1.\nFig. 9.1\nIn this figure, the line AC drawn from the eye of the student to the top of the\nminar is called the line of sight. The student is looking at the top of the minar. The\nangle BAC, so formed by the line of sight with the horizontal, is called the angle of\nelevation of the top of the minar from the eye of the student.\nThus, the line of sight is the line drawn from the eye of an observer to the point\nin the object viewed by the observer. The angle of elevation of the point viewed is\nReprint 2025-26\nthe angle formed by the line of sight with the horizontal when the point being viewed is\nabove the horizontal level, i.e., the case when we raise our head to look at the object\n(see Fig. 9.2).\nFig. 9.2\nNow, consider the situation giv",
+  "context_sources": [
+    "ncert:grade10/maths/ch9"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Trigonometric Identities",
+    "Trigonometric Ratios of Standard Angles"
+  ],
+  "prerequisites_descriptions": {
+    "Trigonometric Identities": "sin²θ+cos²θ=1; 1+tan²θ=sec²θ; 1+cot²θ=cosec²θ",
+    "Trigonometric Ratios of Standard Angles": "Values at 0°, 30°, 45°, 60°, 90°"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Trigonometric Identities",
+    "Trigonometric Ratios of Standard Angles",
+    "Trigonometric Ratios",
+    "Complementary Angle Identities"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

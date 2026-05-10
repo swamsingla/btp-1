@@ -1,0 +1,58 @@
+{
+  "concept_slug": "properties-of-triangles",
+  "canonical_name": "Properties of Triangles",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Geometry",
+  "description": "Triangle inequality; angle-side relationships",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade9 Ch7 — Some Properties of a Triangle]\nIn the above section you have studied two criteria for congruence of triangles. Let us\nnow apply these results to study some properties related to a triangle whose two sides\nare equal.\nReprint 2025-26\nTRIANGLES\nPerform the activity given below:\nConstruct a triangle in which two sides are\nequal, say each equal to 3.5 cm and the third side\nequal to 5 cm (see Fig. 7.24). You have done such\nconstructions in earlier classes.\nDo you remember what is such a triangle\ncalled?\nA triangle in which two sides are equal is called\nan isosceles triangle. So, ∆ ABC of Fig. 7.24 is\nan isosceles triangle with AB = AC.\nNow, measure ∠ B and ∠ C. What do you observe?\nRepeat this activity with other isosceles triangles with different sides.\nYou may observe that in each such triangle, the angles opposite to the equal sides\nare equal.\nThis is a very important result and is indeed true for any isosceles triangle. It can\nbe proved as shown below.\nTheorem 7.2 : Angles opposite to equal sides of an isosceles trian\n\n[NCERT Grade9 Ch7 — Introduction]\nYou have studied about triangles and their various properties in your earlier classes.\nYou know that a closed figure formed by three intersecting lines is called a triangle.\n(‘Tri’ means ‘three’). A triangle has three sides, three angles and three vertices. For\nexample, in triangle ABC, denoted as ∆ ABC (see Fig. 7.1); AB, BC, CA are the three\nsides, ∠ A, ∠ B, ∠ C are the three angles and A, B, C are three vertices.\nIn Chapter 6, you have also studied some properties\nof triangles. In this chapter, you will study in details\nabout the congruence of triangles, rules of congruence,\nsome more properties of triangles and inequalities in\na triangle. You have already verified most of these\nproperties in earlier classes. We will now prove some\nof them.\n7.2 Congruence of Triangles\nFig. 7.1",
+  "context_sources": [
+    "ncert:grade9/maths/ch7",
+    "ncert:grade9/maths/ch7"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angle Sum Property of a Triangle",
+    "Parallel Lines and Transversals"
+  ],
+  "prerequisites_descriptions": {
+    "Angle Sum Property of a Triangle": "Sum of interior angles of a triangle equals 180°",
+    "Parallel Lines and Transversals": "Angle relationships when a transversal cuts parallel lines"
+  },
+  "successors_to_link": [
+    "Congruence of Triangles",
+    "Triangle Theorems",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Angle Sum Property of a Triangle",
+    "Parallel Lines and Transversals",
+    "Congruence of Triangles",
+    "Triangle Theorems",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle",
+    "Similar Triangles",
+    "Constructions of Triangles",
+    "Quadrilaterals",
+    "Properties of Parallelogram",
+    "Pythagorean Theorem",
+    "Circles — Basic Properties"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

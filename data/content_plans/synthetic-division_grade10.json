@@ -1,0 +1,44 @@
+{
+  "concept_slug": "synthetic-division",
+  "canonical_name": "Synthetic Division",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Algebra",
+  "description": "Quick algorithm for dividing a polynomial by (x−c)",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Division of Algebraic Expressions",
+    "Remainder Theorem"
+  ],
+  "prerequisites_descriptions": {
+    "Division of Algebraic Expressions": "Dividing a polynomial by a monomial or polynomial",
+    "Remainder Theorem": "When p(x) is divided by (x−a), remainder = p(a)"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Division of Algebraic Expressions",
+    "Remainder Theorem",
+    "Zeroes of a Polynomial",
+    "Relationship Between Zeroes and Coefficients",
+    "Quadratic Equations",
+    "Quadratic Formula",
+    "Completing the Square",
+    "Nature of Roots — Discriminant",
+    "Pair of Linear Equations in Two Variables",
+    "Substitution Method"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,37 @@
+{
+  "concept_slug": "product-to-sum-formulas",
+  "canonical_name": "Product-to-Sum and Sum-to-Product Formulas",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Trigonometry",
+  "description": "sinA+sinB, cosA−cosB etc. as products",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Sum and Difference Formulas"
+  ],
+  "prerequisites_descriptions": {
+    "Sum and Difference Formulas": "sin(A±B), cos(A±B), tan(A±B)"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Sum and Difference Formulas",
+    "Radian Measure",
+    "Trigonometric Functions",
+    "Multiple and Sub-multiple Angle Formulas",
+    "Trigonometric Equations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

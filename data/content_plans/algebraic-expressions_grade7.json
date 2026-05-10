@@ -1,0 +1,56 @@
+{
+  "concept_slug": "algebraic-expressions",
+  "canonical_name": "Algebraic Expressions",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Algebra",
+  "description": "Expressions built from variables and constants using arithmetic operations",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch4 — Simplification of Algebraic Expressions]\nEarlier we found expressions to find perimeters of different regular\nfigures in terms of their sides. Let us now find an expression to find the\nperimeter of a rectangle.\nGanita Prakash | Grade 7\nAs in the previous cases, we will first describe how to get the perimeter\nwhen the length and the breadth of the rectangle are known:\nFind the sum of length + breadth + length + breadth.\nLet us use the letter-numbers l and b in place of length and breadth\nrespectively. Let p denote the perimeter of the rectangle. Then we have\np = l + b + l + b\nAs we know, these represent numbers, and so the terms of an\nexpression can be added in any order. Hence the above expression can\nbe written as:\n= l + l + b + b\nAs l + l = 2 × l = 2l, and b + b = 2 × b = 2b, we have\np = 2l + 2b.\nNotice that the initial expression (l + b + l + b) and the final expression\n(2l + 2b) that we got for the perimeter look different. However, they\nare equal since the expression was obtained from the initial one by\napplying the same\n\n[NCERT Grade7 Ch4 — Revisiting Arithmetic Expressions]\nWe learnt to write expressions as sums of terms and it became easy\nfor us to read arithmetic expressions. Many times they could have\nbeen read in multiple ways and it was confusing. We used swapping\n(adding two numbers in any order) and grouping (adding numbers\nby grouping them conveniently) to find easy ways of evaluating\nexpressions. Swapping and grouping terms does not change the value of\nthe expression. We also learnt to use brackets in expressions, including\nbrackets with a negative sign outside. We learnt the distributive\nproperty (multiple of a sum is the same as sum of multiples).\nLet us revise these concepts and find the values of the following\nexpressions:\n1.\n23 – 10 × 2\n2.\n83 + 28 – 13 + 32\n3.\n34 – 14 + 20\n4.\n42 + 15 – (8 – 7)\n5.\n68 – (18 + 13)\n6.\n7 × 4 + 9 × 6\n7.\n20 + 8 × (16 – 6)\nLet us evaluate the first expression, 23 – 10 × 2. First we shall write\nthe terms of the expression. Notice that one of the terms is a number,\nwhile the other one has to be converted to a number b\n\n[NCERT Grade7 Ch2 — Simple Expressions]\nYou may have seen mathematical phrases like 13 + 2, 20 – 4, 12 × 5, and\n18 ÷ 3. Such phrases are called arithmetic expressions.\nEvery arithmetic expression has a value which is the number it\nevaluates to. For example, the value of the expression 13 + 2 is 15. This\nexpression can be read as ‘13 plus 2’ or ‘the sum of 13 and 2’.\nWe use the equality sign ‘=’ to denote the relationship between an\narithmetic expression and its value. For example:\n13 + 2 = 15.\nExample 1: Mallika spends ₹25 every day for lunch at school. Write\nthe expression for the total amount she spends on lunch in a week\nfrom Monday to Friday.\nThe expression for the total amount is 5 × 25.\n5 × 25 is  “5 times 25” or “the product of 5 and 25”.\nDifferent expressions can have the same value. Here are multiple\nways to express the number 12, using two numbers and any of the four\noperations +, – ,  × and ÷:\n10 + 2, 15 – 3, 3 × 4, 24 ÷ 2.\nChoose your favourite number and write as many expressions as you\ncan having that value.\nCo\n\n[NCERT Grade7 Ch2 — Reading and Evaluating Complex Expressions]\nSometimes, when an expression is not accompanied by a context, there\ncan be more than one way of evaluating its value. In such cases, we\nneed some tools and rules to specify how exactly the expression has to\nbe evaluated.\nTo give an example with language, look\nat the following sentences:\n(a)\t Sentence: “Shalini sat next to a\nfriend with toys”.\n\u0007Meaning: The friend has toys and\nShalini sat next to her.\n(b)   \u0007Sentence:   “Shalini sat next to a\nfriend, with toys”.\nMeaning: Shalini has the toys\nand she sat with them next to her\nfriend.\nThis sentence without the punctuation could have been interpreted\nin two different ways. The appropriate use of a comma specifies how\nthe sentence has to be understood.\nLet us see an expression that can be evaluated in more than one way.\nExample 4: Mallesh brought 30 marbles to the playground. Arun\nbrought 5 bags of marbles with 4 marbles in each bag. How many\nmarbles did Mallesh and Arun bring to the playground?\nMallesh summarized this by writing the mathe\n\n[NCERT Grade7 Ch6 — Some Explorations in Grids]\nObserve this 3 × 3 grid. It is filled following a simple\nrule — use numbers from 1 – 9 without repeating\nany of them. There are circled numbers outside the\ngrid.\nAre you able to see what the circled numbers\nrepresent?\nThe numbers in the yellow circles are the sums of the corresponding\nrows and columns.\nFill the grids below based on the rule mentioned above:\nGanita Prakash | Grade 7\nMake a couple of questions like this on your own and challenge your\npeers.\nTry solving the problem below.\nYou might have realised that it is not possible to\nfind a solution for this grid. Why is this the case?\nThe smallest sum possible is 6 = 1 + 2 + 3. The\nlargest sum possible is 24 = 9 + 8 + 7. Clearly, any\nnumber in a circle cannot be less than 6 or\ngreater than 24. The grid has sums 5 and 26.\nTherefore, this is impossible!\nIn the earlier grids which we solved,\nKishor noticed that the sum of all the\nnumbers in the circles was always 90. Also,\nVidya observed that the sum of the circled\nnumbers for all thre",
+  "context_sources": [
+    "ncert:grade7/maths/ch4",
+    "ncert:grade7/maths/ch4",
+    "ncert:grade7/maths/ch2",
+    "ncert:grade7/maths/ch2",
+    "ncert:grade7/maths/ch6"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Operations on Integers",
+    "Rational Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Operations on Integers": "Addition, subtraction, multiplication and division of integers; sign rules",
+    "Rational Numbers": "Numbers expressible as p/q where p, q are integers and q ≠ 0"
+  },
+  "successors_to_link": [
+    "Terms, Coefficients and Degree",
+    "Simple Equations in One Variable",
+    "Polynomials in One Variable",
+    "Arithmetic Progressions"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Operations on Integers",
+    "Rational Numbers",
+    "Terms, Coefficients and Degree",
+    "Simple Equations in One Variable",
+    "Polynomials in One Variable",
+    "Arithmetic Progressions",
+    "Simplification of Algebraic Expressions",
+    "Algebraic Identities",
+    "Linear Equations in One Variable"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

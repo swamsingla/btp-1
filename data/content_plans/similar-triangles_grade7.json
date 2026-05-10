@@ -1,0 +1,54 @@
+{
+  "concept_slug": "similar-triangles",
+  "canonical_name": "Similar Triangles",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Geometry",
+  "description": "AA, SAS, SSS similarity criteria; corresponding sides proportional",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Ratios and Proportions",
+    "Types of Triangles"
+  ],
+  "prerequisites_descriptions": {
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios",
+    "Types of Triangles": "Classification by sides (scalene, isosceles, equilateral) and angles"
+  },
+  "successors_to_link": [
+    "Mid-Point Theorem",
+    "Trigonometric Ratios",
+    "Similarity of Triangles — Theorems",
+    "Constructions — Division of Line Segment"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Ratios and Proportions",
+    "Types of Triangles",
+    "Mid-Point Theorem",
+    "Trigonometric Ratios",
+    "Similarity of Triangles — Theorems",
+    "Constructions — Division of Line Segment",
+    "Angles",
+    "Types of Angles and Angle Pairs",
+    "Basic Geometric Constructions",
+    "Parallel Lines and Transversals",
+    "Angle Sum Property of a Triangle",
+    "Exterior Angle Theorem",
+    "Properties of Triangles"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,39 @@
+{
+  "concept_slug": "proof-irrationality",
+  "canonical_name": "Proof of Irrationality",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Number Theory",
+  "description": "Proving √2, √3 etc. are irrational using contradiction",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Fundamental Theorem of Arithmetic",
+    "Irrational Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Fundamental Theorem of Arithmetic": "Every integer > 1 is uniquely expressible as a product of primes",
+    "Irrational Numbers": "Numbers that cannot be expressed as p/q; non-terminating non-repeating decimals"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Fundamental Theorem of Arithmetic",
+    "Irrational Numbers",
+    "Euclidean Algorithm",
+    "Euclid's Division Lemma",
+    "Modular Arithmetic"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

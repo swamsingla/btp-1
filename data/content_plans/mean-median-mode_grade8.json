@@ -1,0 +1,45 @@
+{
+  "concept_slug": "mean-median-mode",
+  "canonical_name": "Mean, Median and Mode",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Statistics",
+  "description": "Three measures of central tendency for ungrouped data",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Data Collection and Organisation",
+    "Fractions"
+  ],
+  "prerequisites_descriptions": {
+    "Data Collection and Organisation": "Gathering, recording and organising raw data; tally marks",
+    "Fractions": "Numbers of the form a/b representing parts of a whole"
+  },
+  "successors_to_link": [
+    "Range",
+    "Central Tendency for Grouped Data"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Data Collection and Organisation",
+    "Fractions",
+    "Range",
+    "Central Tendency for Grouped Data",
+    "Data Representation — Grouped Data",
+    "Histogram",
+    "Frequency Polygon"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

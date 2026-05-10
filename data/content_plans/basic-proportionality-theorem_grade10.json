@@ -1,0 +1,40 @@
+{
+  "concept_slug": "basic-proportionality-theorem",
+  "canonical_name": "Basic Proportionality Theorem (Thales)",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Geometry",
+  "description": "A line parallel to one side divides the other two proportionally",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Similarity of Triangles — Theorems"
+  ],
+  "prerequisites_descriptions": {
+    "Similarity of Triangles — Theorems": "BPT (Basic Proportionality Theorem); converse; area ratio theorem"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Similarity of Triangles — Theorems",
+    "Similar Triangles",
+    "Tangent to a Circle",
+    "Properties of Tangents from External Point",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle",
+    "Centroid of a Triangle",
+    "Circumcentre of a Triangle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

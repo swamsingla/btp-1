@@ -1,0 +1,46 @@
+{
+  "concept_slug": "construction-of-tangents",
+  "canonical_name": "Construction of Tangents to a Circle",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Geometry",
+  "description": "Constructing tangents from an external point",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch10 — Tangent to a Circle]\nIn the previous section, you have seen that a tangent* to a circle is a line that\nintersects the circle at only one point.\nTo understand the existence of the tangent to a circle at a point, let us perform\nthe following activities:\nActivity 1 : Take a circular wire and attach a straight wire AB at a point P of the\ncircular wire so that it can rotate about the point P in a plane. Put the system on a table\nand gently rotate the wire AB about the point P to get different positions of the straight\nwire [see Fig. 10.3(i)].\nIn various positions, the wire intersects the\ncircular wire at P and at another point Q1 or Q2 or\nQ3, etc. In one position, you will see that it will\nintersect the circle at the point P only (see position\nAB of AB). This shows that a tangent exists at\nthe point P of the circle. On rotating further, you\ncan observe that in all other positions of AB, it will\nintersect the circle at P and at another point, say R1\nor R2 or R3, etc. So, you can observe that there is\nonly one \n\n[NCERT Grade10 Ch10 — Number of Tangents from a Point on a Circle]\nTo get an idea of the number of tangents from a point on a circle, let us perform the\nfollowing activity:\nReprint 2025-26\nActivity 3 : Draw a circle on a paper. Take a\npoint P inside it. Can you draw a tangent to the\ncircle through this point? You will find that all\nthe lines through this point intersect the circle in\ntwo points. So, it is not possible to draw any\ntangent to a circle through a point inside it\n[see Fig. 10.6 (i)].\nNext take a point P on the circle and draw\ntangents through this point. You have already\nobserved that there is only one tangent to the\ncircle at such a point [see Fig. 10.6 (ii)].\nFinally, take a point P outside the circle and\ntry to draw tangents to the circle from this point.\nWhat do you observe? You will find that you\ncan draw exactly two tangents to the circle\nthrough this point [see Fig. 10.6 (iii)].\nWe can summarise these facts as follows:\nCase 1 : There is no tangent to a circle passing\nthrough a point lying inside the circle.\nCase 2 : There is one and",
+  "context_sources": [
+    "ncert:grade10/maths/ch10",
+    "ncert:grade10/maths/ch10"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Tangent to a Circle",
+    "Basic Geometric Constructions"
+  ],
+  "prerequisites_descriptions": {
+    "Tangent to a Circle": "Tangent is perpendicular to radius at point of contact",
+    "Basic Geometric Constructions": "Using compass and straightedge to construct angles, bisectors and perpendiculars"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Tangent to a Circle",
+    "Basic Geometric Constructions",
+    "Similar Triangles",
+    "Similarity of Triangles — Theorems",
+    "Basic Proportionality Theorem (Thales)",
+    "Properties of Tangents from External Point",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle",
+    "Centroid of a Triangle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,52 @@
+{
+  "concept_slug": "prime-numbers",
+  "canonical_name": "Prime Numbers",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Theory",
+  "description": "Numbers greater than 1 with exactly two distinct factors",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch5 — Prime Numbers]\nGuna and Anshu want to pack figs (anjeer) that grow in their farm.\nGuna wants to put 12 figs in each box and Anshu wants to put 7 figs\nin each box.\nHow many arrangements are possible?\nThink and find out the different ways how —\n1.  Guna can arrange 12 figs in a rectangular manner.\n2.  Anshu can arrange 7 figs in a rectangular manner.\nGuna has listed out these possibilities.\nObserve the number of rows and\ncolumns in each of the arrangements.\nHow are they related to 12?\nIn the second arrangement, for\nexample, 12 figs are arranged in two\ncolumns of 6 each or 12 = 2 × 6.\nAnshu could make only one\narrangement: 7 × 1 or 1 × 7. There are\nno other rectangular arrangements\npossible.\nIn each of Guna’s arrangements,\nmultiplying the number of rows by\nthe number of columns gives the\nnumber 12. So, the number of rows\nor columns are factors of 12.\nWe saw that the number 12 can be arranged in a rectangle in\nmore than one way as 12 has more than two factors. The number 7\ncan be arranged in only one way\n\n[NCERT Grade6 Ch5 — Fun with numbers]\nSpecial numbers\nThere are four numbers in this box. Which number looks special to\nyou? Why do you say so?\nLook at the what Guna’s classmates have to share:\n•\nKarnawati says, “9 is special because it is a single-digit\nnumber whereas all the other numbers are 2-digit numbers”.\n•\nGurupreet says, “9 is special because it is the only number\nthat is a multiple of 3”.\n•\nMurugan says, “16 is special because it is the only even\nnumber and also the only multiple of 4”.\n•\nGopika says, “25 is special as it is the only multiple of 5”.\n•\nYadnyikee says, “43 is special because it is the only prime\nnumber”.\n•\nRadha says, “43 is special because it is the only number that\nis not a square”.\nReprint 2025-26\nPrime Time\nMath\nTalk\n\u0007Below are some boxes with four numbers in each box.\nWithin each box try to say how each number is special\ncompared to the rest. Share with your classmates and find\nout who else gave the same reasons as you did. Did anyone\ngive different reasons that may not have occurred to you?!\n\n\n[NCERT Grade6 Ch5 — Common Multiples and Common Factors]\nChildren sit in a circle and play a game of numbers.\nOne of the children starts by saying ‘1’. The second\nplayer says ‘2’, and so on. But when it is the turn of 3, 6,\n9, … (multiples of 3), the player should say ‘idli’ instead\nof the number. When it is the turn of 5, 10, … (multiples\nof 5), the player should say ‘vada’ instead of the number.\nWhen a number is both a multiple of 3 and a multiple\nof 5, the player should say ‘idli-vada’! If a player makes\nany mistake, they are out.\nThe game continues in rounds till only one person\nremains.\nFor which numbers should the players say ‘idli’\ninstead of saying the number? These would be 3, 6, 9,\n12, 18, … and so on.\nFor which numbers should the players say ‘vada’?\nThese would be 5, 10, 15, 20, … and so on.\nWhich is the first number for which the players\nshould say, ‘idli-vada’? It is 15, which is a multiple of 3,\nand also a multiple of 5. Find out other such numbers\nthat are multiples of both 3 and 5. These numbers are\ncalled ___________________\n\n[NCERT Grade6 Ch5 — Prime Factorisation]\nChecking if two numbers are co-prime\nTeacher:\n\u0007Are 56 and 63 co-prime?\nAnshu and Guna:\t \u0007If they have a common factor other than 1, then\nthey are not co-prime. Let us check.\nAnshu:\n\u0007I can write 56 = 14 × 4 and 63 = 21 × 3. So, 14 and 4\nare factors, of 56. Further, 21 and 3 are factors of\n63. So, there are no common factors. The numbers\nare co-prime.\nGuna:\n\u0007Hold on. I can also write 56 = 7 × 8 and 63 = 9 × 7.\nWe see that 7 is a factor of both numbers, so, they\nare not co-prime.\nClearly Guna is right, as 7 is a common factor.\nBut where did Anshu go wrong?\nWriting 56 = 14 × 4 tells us that 14 and 4 are both factors of 56, but it\ndoes not tell all the factors of 56. The same holds for the factors of 63.\nTry another example: 80 and 63. There are many ways to factorise\nboth numbers.\n80 = 40 × 2 = 20 × 4 = 10 × 8 = 16 × 5 = ???\n63 = 9 × 7 = 3 × 21 = ???\nWe have written ‘???’ to say that there may be more ways to\nfactorise these numbers. But if we take any of the given factorisations,\nfor exam\n\n[NCERT Grade6 Ch3 — Numbers can Tell us Things]\nWhat are these numbers telling us?\nSome children in a park are standing in a line. Each one says a number.\nWhat do you think these numbers mean?\nThe children now rearrange themselves, and again each one\nsays a number based on the arrangement.\nReprint 2025-26\nGanita Prakash | Grade 6\nDid you figure out what these numbers represent?\nHint: \u0007Could their heights be playing a role?\nA child says ‘1’ if there is only one taller child standing next to them.\nA child says ‘2’ if both the children standing next to them are taller.\nA child says ‘0’, if neither of the children standing next to them are taller.\nThat is each person says the number of taller neighbours they have.\nTry answering the questions below and share your reasoning.\n1.\t\u0007Can the children rearrange themselves so that the children\nstanding at the ends say ‘2’?\n2.\t\u0007Can we arrange the children in a line so that all would say\nonly 0s?\n3.\t\u0007Can two children standing next to each other say the same\nnumber?\n4.\t\u0007There are 5 children in a gr\n\n[Wikipedia]\nA prime number is a natural number greater than 1 that is not a product of two smaller natural numbers. A natural number greater than 1 that is not prime is called a composite number. For example, 5 is prime because the only ways of writing it as a product, 1\n[…truncated]",
+  "context_sources": [
+    "ncert:grade6/maths/ch5",
+    "ncert:grade6/maths/ch5",
+    "ncert:grade6/maths/ch5",
+    "ncert:grade6/maths/ch5",
+    "ncert:grade6/maths/ch3",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Factors and Multiples"
+  ],
+  "prerequisites_descriptions": {
+    "Factors and Multiples": "Factor as a divisor; multiple as a product; factor pairs"
+  },
+  "successors_to_link": [
+    "Composite Numbers",
+    "Co-prime Numbers",
+    "Prime Factorisation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Factors and Multiples",
+    "Composite Numbers",
+    "Co-prime Numbers",
+    "Prime Factorisation",
+    "Even and Odd Numbers",
+    "Divisibility Rules",
+    "LCM and GCD (HCF)",
+    "Euclidean Algorithm"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

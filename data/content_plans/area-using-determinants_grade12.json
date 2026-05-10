@@ -1,0 +1,43 @@
+{
+  "concept_slug": "area-using-determinants",
+  "canonical_name": "Area of Triangle Using Determinants",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Linear Algebra",
+  "description": "½|det([x₁ y₁ 1; x₂ y₂ 1; x₃ y₃ 1])|",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Determinants",
+    "Area of Triangle using Coordinates"
+  ],
+  "prerequisites_descriptions": {
+    "Determinants": "det(A) for 2×2 and 3×3; Sarrus' rule; cofactor expansion",
+    "Area of Triangle using Coordinates": "½|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Determinants",
+    "Area of Triangle using Coordinates",
+    "Matrices",
+    "Types of Matrices",
+    "Operations on Matrices",
+    "Transpose of a Matrix",
+    "Symmetric and Skew-Symmetric Matrices",
+    "Properties of Determinants",
+    "Minors and Cofactors"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

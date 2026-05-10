@@ -1,0 +1,30 @@
+[
+  {
+    "canonical_name": "Hypotenuse of a Right Triangle",
+    "slug": "hypotenuse-of-a-right-triangle",
+    "aliases": [],
+    "domain": "Geometry",
+    "area": "Right Triangles",
+    "parent": "right-triangles",
+    "_id": "rt-hypotenuse",
+    "grades": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "importance-by-grade": {
+      "8": 5,
+      "9": 4,
+      "10": 3,
+      "11": 2,
+      "12": 1
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

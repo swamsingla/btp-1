@@ -139,7 +139,7 @@ def load_ncert_headings(grade: int, subject: str) -> list[dict]:
         return []
 
     topics: list[dict] = []
-    for chapter_file in sorted(grade_dir.glob("chapter*.json")):
+    for chapter_file in sorted(grade_dir.glob("**/chapter*.json")):
         try:
             data = json.loads(chapter_file.read_text())
         except Exception as exc:
@@ -172,13 +172,11 @@ def load_ncert_headings(grade: int, subject: str) -> list[dict]:
 SYSTEM_TOPIC_DISCOVERY = """You are an expert Indian curriculum designer with deep knowledge of
 NCERT, ICSE, CBSE, and all major state board syllabi (Maharashtra, Tamil Nadu, Karnataka, etc.).
 
-You MUST respond with a valid JSON array only — no prose, no markdown fences, no explanation.
-Each element must follow exactly this schema:
-{
-  "raw_name": "<topic name — proper Wikipedia-style title>",
-  "source_boards": ["NCERT", "ICSE", "State Boards"],
-  "note": "<optional: which boards include this>"
-}"""
+You MUST respond with a valid JSON array of strings only — no objects, no keys, no markdown fences, no explanation.
+Example of the ONLY acceptable format:
+["Quadratic Equations", "Trigonometric Ratios", "Surface Areas and Volumes"]
+
+Do NOT use objects. Do NOT use keys like raw_name or source_boards. Just a flat list of topic name strings."""
 
 SYSTEM_SUBTOPIC_ENRICHMENT = """You are an expert Indian curriculum designer.
 Given a list of educational topics for a specific grade and subject, generate precise,
@@ -208,35 +206,85 @@ def discover_topics_via_llm(
     """
     ncert_preview = "\n".join(f"- {t}" for t in ncert_topic_names[:60])
 
-    user_prompt = f"""Grade: {grade}
-Subject: {subject.title()}
+    if ncert_topic_names:
+        ncert_section = f"Topics already in NCERT (do NOT repeat these):\n{ncert_preview}\n\nList ONLY additional topics from ICSE or major state boards not in the list above."
+    else:
+        ncert_section = f"There are no NCERT topics for this grade/subject. List ALL important {subject.title()} topics taught at Grade {grade} across NCERT, ICSE, CBSE and major state boards (Maharashtra, Tamil Nadu, Karnataka, AP/Telangana)."
 
-The following topics are already confirmed from NCERT for Grade {grade} {subject.title()}:
-{ncert_preview}
+    user_prompt = f"""Grade {grade} {subject.title()}
 
-List ONLY the additional important topics that appear in ICSE or major state board syllabi
-(Maharashtra, Tamil Nadu, Karnataka, AP/Telangana) but are NOT already in the NCERT list above.
-Also include any universally important concepts taught globally at this grade level that are missing.
+{ncert_section}
 
-Requirements:
-- Use proper Wikipedia-style names (e.g., "Quadratic Equations" not "2.3 Solving Equations")
-- Each topic must be a distinct, self-contained concept — not a chapter name
-- Do NOT repeat any NCERT topics already listed above
-- Aim for 15-30 additional topics
+Rules:
+- Proper Wikipedia-style topic names only (e.g. "Quadratic Equations", not "2.3 Solving Equations")
+- Distinct self-contained concepts, not chapter headings
+- Aim for 15-25 topics
 
-Return a JSON array directly (no markdown, no preamble)."""
+Return ONLY a JSON array of strings. Example: ["Topic A", "Topic B", "Topic C"]
+No objects, no keys, no markdown, no explanation."""
 
     raw = llm_call(system=SYSTEM_TOPIC_DISCOVERY, user=user_prompt, temperature=0.2, max_new_tokens=3000)
     try:
         result = extract_json(raw)
-        if isinstance(result, list):
-            return result
         if isinstance(result, dict) and "topics" in result:
-            return result["topics"]
-        log.warning("Unexpected LLM JSON shape; got type %s", type(result).__name__)
-        return []
+            result = result["topics"]
+        if not isinstance(result, list):
+            log.warning("Unexpected LLM JSON shape; got type %s", type(result).__name__)
+            return []
+        # LLM returns either plain strings ["Topic", ...] or objects [{"raw_name":...}, ...]
+        cleaned = []
+        for item in result:
+            if isinstance(item, str):
+                name = item.strip()
+            elif isinstance(item, dict):
+                name = (item.get("raw_name") or item.get("name") or item.get("topic") or "").strip()
+            else:
+                continue
+            if not name:
+                continue
+            cleaned.append({
+                "raw_name": name,
+                "source_boards": [],
+                "note": "",
+                "subtopics": [],
+            })
+        return cleaned
     except ValueError as exc:
-        log.error("JSON extraction failed for grade%d/%s: %s", grade, subject, exc)
+        # Attempt 2: normalize mixed escaping (LLM sometimes produces \" inside "..." strings)
+        normalized = raw.replace('\\"', '"')
+        if normalized != raw:
+            try:
+                result2 = extract_json(normalized)
+                if isinstance(result2, dict) and "topics" in result2:
+                    result2 = result2["topics"]
+                if isinstance(result2, list):
+                    cleaned = []
+                    for item in result2:
+                        if not isinstance(item, dict):
+                            continue
+                        name = (item.get("raw_name") or item.get("name") or item.get("topic") or "").strip()
+                        if not name:
+                            continue
+                        cleaned.append({
+                            "raw_name": name,
+                            "source_boards": item.get("source_boards") or item.get("boards") or [],
+                            "note": item.get("note", ""),
+                            "subtopics": item.get("subtopics", []),
+                        })
+                    if cleaned:
+                        log.info("Mixed-escaping normalization rescued %d topics", len(cleaned))
+                        return cleaned
+            except ValueError:
+                pass
+        # Attempt 3: regex fallback — extract raw_name values from utterly broken JSON
+        names = re.findall(r'["\']?(?:\\?"?)raw_name["\']?\s*:\s*["\']?\\?"?([A-Za-z][^"\\,\n\]{]+)', normalized, re.IGNORECASE)
+        if names:
+            cleaned = [{"raw_name": n.strip().rstrip('",\\'), "source_boards": [], "note": "", "subtopics": []} for n in names if n.strip()]
+            cleaned = [c for c in cleaned if c["raw_name"]]
+            if cleaned:
+                log.warning("Regex fallback extracted %d topic names for grade%d/%s", len(cleaned), grade, subject)
+                return cleaned
+        log.error("All JSON extraction methods failed for grade%d/%s: %s", grade, subject, exc)
         return []
 
 
@@ -331,7 +379,9 @@ def fuzzy_merge(
     seen_names: list[str] = []
 
     def _add(topic: dict) -> None:
-        name_key = topic["raw_name"].lower().strip()
+        name_key = (topic.get("raw_name") or "").lower().strip()
+        if not name_key:
+            return  # skip malformed LLM topics without raw_name
         for idx, existing in enumerate(seen_names):
             if fuzz.token_sort_ratio(name_key, existing) >= FUZZY_THRESHOLD:
                 # Merge source_boards only — never clobber NCERT subtopics with LLM ones

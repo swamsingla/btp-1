@@ -1,0 +1,49 @@
+{
+  "concept_slug": "ratios-and-proportions",
+  "canonical_name": "Ratios and Proportions",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Proportional Reasoning",
+  "description": "Comparing quantities; equivalent ratios; proportion as equality of ratios",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Fractions"
+  ],
+  "prerequisites_descriptions": {
+    "Fractions": "Numbers of the form a/b representing parts of a whole"
+  },
+  "successors_to_link": [
+    "Percentage",
+    "Similar Triangles",
+    "Circumference of a Circle",
+    "Unitary Method and Direct Proportion",
+    "Trigonometric Ratios",
+    "Section Formula and Midpoint"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Fractions",
+    "Percentage",
+    "Similar Triangles",
+    "Circumference of a Circle",
+    "Unitary Method and Direct Proportion",
+    "Trigonometric Ratios",
+    "Section Formula and Midpoint",
+    "Percentage Increase and Decrease"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "canonical_name": "Quadrilateral",
+    "slug": "quadrilateral",
+    "aliases": [
+      "Kite",
+      "Trapezium",
+      "Parallelogram",
+      "Rhombus",
+      "Square",
+      "Rectangle"
+    ],
+    "domain": "Geometry",
+    "area": "Properties of Quadrilaterals",
+    "parent": "geometry",
+    "grades": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "importance_BY_GRADE": {
+      "6": 1,
+      "7": 2,
+      "8": 4,
+      "9": 5,
+      "10": 3,
+      "11": 0,
+      "12": 6
+    },
+    "source_BOARDS": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

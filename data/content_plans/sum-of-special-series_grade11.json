@@ -1,0 +1,45 @@
+{
+  "concept_slug": "sum-of-special-series",
+  "canonical_name": "Sum of Special Series",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Sequences",
+  "description": "Σn, Σn², Σn³; telescoping series",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Arithmetic Series — Sum Formulas",
+    "Geometric Series and Sum",
+    "Binomial Theorem"
+  ],
+  "prerequisites_descriptions": {
+    "Arithmetic Series — Sum Formulas": "Sₙ formulae; arithmetic mean; n terms between two numbers",
+    "Geometric Series and Sum": "Sum of n terms; sum to infinity for |r|<1; geometric mean",
+    "Binomial Theorem": "(a+b)ⁿ expansion; general term; middle term"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Arithmetic Series — Sum Formulas",
+    "Geometric Series and Sum",
+    "Binomial Theorem",
+    "Geometric Progressions",
+    "Sequences — Introduction",
+    "Series — Introduction",
+    "AM-GM Inequality"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

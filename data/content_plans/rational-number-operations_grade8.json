@@ -1,0 +1,43 @@
+{
+  "concept_slug": "rational-number-operations",
+  "canonical_name": "Operations on Rational Numbers",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Number Systems",
+  "description": "Addition, subtraction, multiplication, division; properties",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Rational Numbers",
+    "Operations on Integers"
+  ],
+  "prerequisites_descriptions": {
+    "Rational Numbers": "Numbers expressible as p/q where p, q are integers and q ≠ 0",
+    "Operations on Integers": "Addition, subtraction, multiplication and division of integers; sign rules"
+  },
+  "successors_to_link": [
+    "Linear Equations in One Variable",
+    "Partial Fractions"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Rational Numbers",
+    "Operations on Integers",
+    "Linear Equations in One Variable",
+    "Partial Fractions",
+    "Rational Numbers on the Number Line"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

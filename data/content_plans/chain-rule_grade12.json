@@ -1,0 +1,59 @@
+{
+  "concept_slug": "chain-rule",
+  "canonical_name": "Chain Rule",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "d/dx[f(g(x))] = f′(g(x))·g′(x)",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[Wikipedia]\nIn calculus, the chain rule is a formula that expresses the derivative of the composition of two differentiable functions z and y in terms of the derivatives of z and y. More precisely, if  is the composition such that  for every x, then the chain rule is, in Lagrange's notation,\n\nor, equivalently,",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Differentiability"
+  ],
+  "prerequisites_descriptions": {
+    "Differentiability": "Differentiable ⟹ continuous; non-differentiable points"
+  },
+  "successors_to_link": [
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Derivatives in Parametric Form",
+    "Second Order Derivative",
+    "Rate of Change of Quantities",
+    "Integration by Substitution",
+    "Integration by Parts"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Differentiability",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Derivatives in Parametric Form",
+    "Second Order Derivative",
+    "Rate of Change of Quantities",
+    "Integration by Substitution",
+    "Integration by Parts",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

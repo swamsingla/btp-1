@@ -1,0 +1,50 @@
+{
+  "concept_slug": "circumference-of-circle",
+  "canonical_name": "Circumference of a Circle",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Mensuration",
+  "description": "C = 2πr or πd; introduction of π",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[Wikipedia]\nIn geometry, the circumference is the perimeter of a circle or ellipse. The circumference is the arc length of the circle, as if it were opened up and straightened out to a line segment. More generally, the perimeter is the curve length around any closed figure. \nCircumference may also refer to the circle itself, that is, the locus corresponding to the edge of a disk. \nThe circumference of a sphere is the circumference, or length, of any one of its great circles.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Ratios and Proportions",
+    "Decimals"
+  ],
+  "prerequisites_descriptions": {
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios",
+    "Decimals": "Representing fractions with denominators as powers of 10"
+  },
+  "successors_to_link": [
+    "Area of a Circle",
+    "Circumference and Area of Circle",
+    "Radian Measure"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Ratios and Proportions",
+    "Decimals",
+    "Area of a Circle",
+    "Circumference and Area of Circle",
+    "Radian Measure",
+    "Area of 2D Figures",
+    "Area of Triangles",
+    "Area of Parallelogram",
+    "Area of Trapezium"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

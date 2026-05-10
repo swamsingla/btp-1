@@ -1,0 +1,44 @@
+{
+  "concept_slug": "variable-separable",
+  "canonical_name": "Variable Separable Method",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "Separating variables and integrating both sides",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Differential Equations — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Differential Equations — Introduction": "Order and degree; formation of DE from general solution"
+  },
+  "successors_to_link": [
+    "Homogeneous Differential Equations"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Differential Equations — Introduction",
+    "Homogeneous Differential Equations",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

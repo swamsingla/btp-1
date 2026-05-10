@@ -166,8 +166,9 @@ Rules:
 1. Every node that a student might search for should be a separate entry.
 2. Use proper Wikipedia-style names ("Newton's First Law of Motion", not "1.1 Laws").
 3. Include aliases (alternative names or regional terminology).
-4. Assign grades: the list of grade levels (6-12) where this concept is taught.
+4. Assign grades: ONLY the exact grade numbers that appear in the input (e.g. if input says "(grade 6)" and "(grade 7)", use only [6, 7]). Do NOT invent or extend to other grades.
 5. Assign importance per grade (1=minor, 5=central).
+6. Only extract concepts that belong to the stated subject. Skip any topic that is clearly from another subject.
 
 Respond with a JSON array of concept objects ONLY (no prose):
 [
@@ -190,7 +191,7 @@ Respond with a JSON array of concept objects ONLY (no prose):
 def extract_canonical_concepts(
     subject: str,
     grade_topics: dict[int, list[dict]],
-    batch_size: int = 20,
+    batch_size: int = 3,
 ) -> list[dict]:
     """
     Calls the LLM in batches to extract canonical concepts from raw topics.
@@ -238,18 +239,22 @@ def extract_canonical_concepts(
         batch = raw_entries[batch_start : batch_start + batch_size]
         batch_str = "\n".join(batch)
 
-        user_prompt = f"""Subject: {subject.title()}
-Grade range of these topics: 6–12
+        available_grades = sorted(grade_topics.keys())
+        user_prompt = f"""Subject: {subject.title()} ONLY
+Grades in this dataset: {available_grades} — use ONLY these grade numbers, no others.
 
 Raw topics (from NCERT + ICSE + state boards):
 {batch_str}
 
-Extract the canonical concept hierarchy for these topics.
-Each raw topic may produce 1 high-level concept OR multiple sub-concepts.
-IMPORTANT: Populate the "slug" field using lowercase-hyphenated form of canonical_name.
+STRICT RULES:
+1. Extract ONLY {subject.title()} concepts. If a raw topic belongs to another subject, SKIP it entirely.
+2. grades[] must contain ONLY values from {available_grades}. Never add grades outside this list.
+3. Each concept = one JSON object with ALL required fields: canonical_name, slug, aliases, domain, area, parent, grades, importance_by_grade, source_boards.
+4. slug = lowercase-hyphenated canonical_name.
+5. Output compact JSON only — no prose, no markdown.
 Return JSON array only."""
 
-        raw_resp = llm_call(system=SYSTEM_HIERARCHY, user=user_prompt, max_new_tokens=2500)
+        raw_resp = llm_call(system=SYSTEM_HIERARCHY, user=user_prompt, max_new_tokens=4096)
 
         try:
             concepts = extract_json(raw_resp)
@@ -294,40 +299,64 @@ Return JSON array only."""
 
 # ─── Step 2b: Prerequisite edge extraction ───────────────────────────────────
 
-SYSTEM_PREREQS = """You are an expert curriculum sequencer.
-Given a list of educational concepts, determine the prerequisite relationships between them.
+SYSTEM_PREREQS = """You are an expert curriculum sequencer for NCERT/CBSE mathematics.
+Given a list of educational concepts with their canonical names, determine prerequisite relationships.
 
 Rules:
 1. A prerequisite means: a student MUST understand concept A before studying concept B.
 2. Only list DIRECT prerequisites — skip transitively implied ones.
-3. related: concepts useful to read alongside (no strict order required).
-4. see_also: interesting connections, possibly in other domains.
-5. Only use slugs from the provided concept list — do NOT invent new slugs.
+3. related: concepts useful to know alongside (no strict ordering required).
+4. For "prerequisites", "related", and "see_also": use the CANONICAL NAME (not slug) — copy it exactly from the lists provided.
+5. Every target concept should have at least 1-3 prerequisites if they logically exist.
 
-Return a JSON array ONLY:
+Return a JSON array ONLY — no prose:
 [
   {
-    "slug": "newtons-second-law-of-motion",
-    "prerequisites": ["newtons-first-law-of-motion", "force-and-motion"],
-    "related": ["friction", "mass-and-weight"],
-    "see_also": ["momentum"]
+    "slug": "<slug of the target concept, copy exactly>",
+    "prerequisites": ["Canonical Name of Prereq 1", "Canonical Name of Prereq 2"],
+    "related": ["Canonical Name of Related 1"],
+    "see_also": []
   },
   ...
 ]"""
+
+
+def _resolve_name_to_slug(raw_name: str, name_to_slug: dict[str, str]) -> str | None:
+    """Try to match a generated canonical name to a valid slug."""
+    # Exact match on name
+    for name, slug in name_to_slug.items():
+        if raw_name.strip().lower() == name.strip().lower():
+            return slug
+    
+    # Fuzzy match on name
+    best_score, best_match_slug = 0, None
+    for name, slug in name_to_slug.items():
+        score = fuzz.ratio(raw_name.lower(), name.lower())
+        if score > best_score:
+            best_score, best_match_slug = score, slug
+    if best_score >= 85:
+        log.debug("  Resolved name '%s' → slug '%s' (score=%d)", raw_name, best_match_slug, best_score)
+        return best_match_slug
+    return None
 
 
 def extract_prerequisite_edges(
     concepts: list[dict],
     grade: int,
     subject: str = "",
-    batch_size: int = 40,
+    batch_size: int = 1,
 ) -> list[dict]:
     """
     For the concepts relevant to a given grade, ask the LLM for prerequisite edges.
+    Includes ALL concepts (across grades) as reference so cross-grade prerequisites work.
     Saves per-grade checkpoints so the run can be resumed after interruption.
     Returns a list of {slug, prerequisites, related, see_also} dicts.
     """
-    grade_concepts = [c for c in concepts if grade in c.get("grades", [])]
+    # Grades may be stored as int or str in LLM-generated checkpoints — normalise to str
+    grade_concepts = [
+        c for c in concepts
+        if str(grade) in [str(g) for g in (c.get("grades", []) if isinstance(c.get("grades", []), list) else [])]
+    ]
     if not grade_concepts:
         return []
 
@@ -339,49 +368,98 @@ def extract_prerequisite_edges(
         return cached
 
     all_edges: list[dict] = []
-    slug_set = {c["slug"] for c in grade_concepts}
+    # Build mapping from canonical name to slug for resolving LLM output
+    all_name_to_slug = {c["canonical_name"]: c["slug"] for c in concepts}
+    grade_slug_set = {c["slug"] for c in grade_concepts}
+
+    # Track rejected names
+    rejected_names: list[str] = []
+
+    # Prepare reference lists
+    other_concepts = [c for c in concepts if c["slug"] not in grade_slug_set]
+    
+    # If other_concepts is too large, it blows up the context window. 
+    # Just list canonical names, grouped by grade to be compact.
+    grade_to_names = {}
+    for c in other_concepts:
+        for g in c.get("grades", []):
+            grade_to_names.setdefault(g, []).append(c["canonical_name"])
+            
+    other_list_parts = []
+    for g in sorted(grade_to_names.keys(), key=lambda x: int(x) if str(x).isdigit() else 99):
+        names = ", ".join(grade_to_names[g])
+        other_list_parts.append(f"Grade {g}: {names}")
+    other_list = "\n".join(other_list_parts)
 
     for batch_start in range(0, len(grade_concepts), batch_size):
         batch = grade_concepts[batch_start : batch_start + batch_size]
-        concept_list = "\n".join(f"- {c['slug']}: {c['canonical_name']}" for c in batch)
+        concept_list = "\n".join(f"- slug: {c['slug']}, name: {c['canonical_name']}" for c in batch)
         subj = batch[0].get("subject", subject)
 
         user_prompt = f"""Grade: {grade}
 Subject: {subj}
 
-Concepts for this grade:
+TARGET concept (determine prerequisites for this concept):
 {concept_list}
 
-For each concept in this list, specify prerequisite relationships.
-IMPORTANT: Only use slugs from the list above — do NOT reference external slugs.
-Return JSON array only."""
+REFERENCE concepts from other grades (use their exact Canonical Names as prerequisites where appropriate):
+{other_list}
 
-        raw_resp = llm_call(system=SYSTEM_PREREQS, user=user_prompt, max_new_tokens=4000)
+Output the prerequisite relationships for the TARGET concept.
+You MUST use EXACT canonical names from the lists above for prerequisites.
+Prerequisites can come from EITHER list (same grade or other grades).
+Return a JSON array containing exactly ONE object for the target concept."""
+
+        raw_resp = llm_call(system=SYSTEM_PREREQS, user=user_prompt, max_new_tokens=2000)
         try:
             edges = extract_json(raw_resp)
             if not isinstance(edges, list):
+                log.warning("  Grade %d batch %d: LLM returned %s instead of list", grade, batch_start, type(edges).__name__)
                 continue
-        except ValueError:
+        except ValueError as exc:
+            log.error("  Grade %d batch %d: JSON parse failed: %s", grade, batch_start, exc)
             continue
 
-        # Filter edges: only keep slugs that actually exist in our concept set
+        # Filter edges: resolve names to slugs
+        batch_edge_count = 0
         for e in edges:
-            slug = e.get("slug", "")
-            if slug not in slug_set:
+            raw_slug = e.get("slug", "")
+            if raw_slug not in grade_slug_set:
                 continue
+
+            def _resolve_list(key: str) -> list[str]:
+                resolved = []
+                for s in e.get(key, []):
+                    repaired_slug = _resolve_name_to_slug(s, all_name_to_slug)
+                    if repaired_slug:
+                        resolved.append(repaired_slug)
+                    else:
+                        rejected_names.append(s)
+                return resolved
+
             filtered = {
-                "slug": slug,
-                "prerequisites": [s for s in e.get("prerequisites", []) if s in slug_set],
-                "related": [s for s in e.get("related", []) if s in slug_set],
-                "see_also": [s for s in e.get("see_also", []) if s in slug_set],
+                "slug": raw_slug,
+                "prerequisites": _resolve_list("prerequisites"),
+                "related": _resolve_list("related"),
+                "see_also": _resolve_list("see_also"),
             }
+            if filtered["prerequisites"]:
+                batch_edge_count += len(filtered["prerequisites"])
             all_edges.append(filtered)
 
+        log.info("  Grade %d batch %d: %d edge records, %d prereq links",
+                 grade, batch_start, len(edges), batch_edge_count)
         time.sleep(1)
 
+    if rejected_names:
+        unique_rejected = sorted(set(rejected_names))
+        log.warning("  Grade %d: %d name references rejected (no match): %s",
+                    grade, len(rejected_names), unique_rejected[:10])
+
     # ── Save full-grade checkpoint ────────────────────────────────────────────
+    total_prereqs = sum(len(e.get("prerequisites", [])) for e in all_edges)
     _ckpt_save(grade_ckpt, all_edges)
-    log.info("  [ckpt] Saved grade %d edges checkpoint (%d records)", grade, len(all_edges))
+    log.info("  [ckpt] Saved grade %d edges: %d records, %d total prereq links", grade, len(all_edges), total_prereqs)
 
     return all_edges
 
@@ -466,12 +544,12 @@ def compute_grade_views(
     Entry points = concepts with no prerequisites within that grade's subgraph.
     """
     all_grades = sorted(
-        {g for c in concept_map.values() for g in c.get("grades", [])}
+        {int(g) for c in concept_map.values() for g in c.get("grades", []) if str(g).isdigit()}
     )
     views: dict[str, dict] = {}
 
     for grade in all_grades:
-        grade_slugs = [s for s, c in concept_map.items() if grade in c.get("grades", [])]
+        grade_slugs = [s for s, c in concept_map.items() if str(grade) in [str(g) for g in c.get("grades", [])]]
         grade_slug_set = set(grade_slugs)
 
         # Entry points: no prerequisites within this grade

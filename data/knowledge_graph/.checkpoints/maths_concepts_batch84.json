@@ -1,0 +1,23 @@
+[
+  {
+    "canonical_name": "Properties of a Spherically Shaped Solid",
+    "slug": "properties-of-a-spherically-shaped-solid",
+    "aliases": [],
+    "domain": "Geometry",
+    "area": "Surface Areas and Volumes of Solids",
+    "parent": "",
+    "grades": [
+      6,
+      8
+    ],
+    "importance_BY_GRADE": {
+      "6": 5,
+      "8": 4
+    },
+    "source_BOARDS": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

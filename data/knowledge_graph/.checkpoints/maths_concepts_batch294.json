@@ -1,0 +1,21 @@
+[
+  {
+    "canonical_name": "Similar Figures",
+    "slug": "similar-figures",
+    "aliases": [],
+    "domain": "Geometry",
+    "area": "",
+    "parent": "",
+    "grades": [
+      10
+    ],
+    "importance-by-grade": {
+      "10": 5
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

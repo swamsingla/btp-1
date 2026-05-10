@@ -1,0 +1,50 @@
+{
+  "concept_slug": "similar-triangles-advanced",
+  "canonical_name": "Similarity of Triangles — Theorems",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Geometry",
+  "description": "BPT (Basic Proportionality Theorem); converse; area ratio theorem",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade10 Ch6 — Similarity of Triangles]\nWhat can you say about the similarity of two triangles?\nYou may recall that triangle is also a polygon. So, we can state the same conditions\nfor the similarity of two triangles. That is:\nTwo triangles are similiar, if\n(i) their corresponding angles are equal and\n(ii) their corresponding sides are in the same ratio (or proportion).\nNote that if corresponding angles of two\ntriangles are equal, then they are known as\nequiangular triangles. A famous Greek\nmathematician Thales gave an important truth relating\nto two equiangular triangles which is as follows:\nThe ratio of any two corresponding sides in\ntwo equiangular triangles is always the same.\nIt is believed that he had used a result called\nthe Basic Proportionality Theorem (now known as\nthe Thales Theorem) for the same.\nTo understand the Basic Proportionality\nTheorem, let us perform the following activity:\nActivity 2 : Draw any angle XAY and on its one\narm AX, mark points (say five points) P, Q, D, R and\nB such that AP = PQ = QD = DR = \n\n[NCERT Grade10 Ch6 — Criteria for Similarity of Triangles]\nIn the previous section, we stated that two triangles are similar, if (i) their corresponding\nangles are equal and (ii) their corresponding sides are in the same ratio (or proportion).\nThat is, in  ABC and  DEF, if\n(i)  A =  D,  B =  E,  C =  F and\n(ii) AB\nBC\nCA ,\nDE\nEF\nFD\n\n\nthen the two triangles are similar (see Fig. 6.22).\nFig. 6.22\nReprint 2025-26\nHere, you can see that A corresponds to D, B corresponds to E and C\ncorresponds to F. Symbolically, we write the similarity of these two triangles as\n‘ ABC ~  DEF’ and read it as ‘triangle ABC is similar to triangle DEF’. The\nsymbol ‘~’ stands for ‘is similar to’. Recall that you have used the symbol ‘’ for\n‘is congruent to’ in Class IX.\nIt must be noted that as done in the case of congruency of two triangles, the\nsimilarity of two triangles should also be expressed symbolically, using correct\ncorrespondence of their vertices. For example, for the triangles ABC and DEF of\nFig. 6.22, we cannot write  ABC ~  EDF or  ABC ~ ",
+  "context_sources": [
+    "ncert:grade10/maths/ch6",
+    "ncert:grade10/maths/ch6"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Similar Triangles",
+    "Properties of Parallelogram"
+  ],
+  "prerequisites_descriptions": {
+    "Similar Triangles": "AA, SAS, SSS similarity criteria; corresponding sides proportional",
+    "Properties of Parallelogram": "Opposite sides/angles equal; diagonals bisect each other"
+  },
+  "successors_to_link": [
+    "Basic Proportionality Theorem (Thales)"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Similar Triangles",
+    "Properties of Parallelogram",
+    "Basic Proportionality Theorem (Thales)",
+    "Tangent to a Circle",
+    "Properties of Tangents from External Point",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle",
+    "Centroid of a Triangle",
+    "Circumcentre of a Triangle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "canonical_name": "Mensuration",
+    "slug": "mensuration",
+    "_aliases": [],
+    "domain": "Geometry",
+    "area": "Plane Geometry",
+    "parent": "plane-geometry",
+    "grades": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "importance-by-grade": {
+      "8": 5,
+      "9": 4,
+      "10": 3,
+      "11": 2,
+      "12": 1
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

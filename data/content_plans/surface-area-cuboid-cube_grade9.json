@@ -1,0 +1,52 @@
+{
+  "concept_slug": "surface-area-cuboid-cube",
+  "canonical_name": "Surface Area of Cuboid and Cube",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Mensuration",
+  "description": "Total surface area and lateral surface area",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade9 Ch11 — Surface Area of a Right Circular Cone]\nWe have already studied the surface areas of cube, cuboid and cylinder. We will now\nstudy the surface area of cone.\nSo far, we have been generating solids by stacking up congruent figures. Incidentally,\nsuch figures are called prisms. Now let us look at another kind of solid which is not a\nprism (These kinds of solids are called pyramids.). Let us see how we can generate\nthem.\nActivity : Cut out a right-angled triangle ABC right angled at B. Paste a long thick\nstring along one of the perpendicular sides say AB of the triangle [see Fig. 11.1(a)].\nHold the string with your hands on either sides of the triangle and rotate the triangle\nabout the string a number of times. What happens? Do you recognize the shape that\nthe triangle is forming as it rotates around the string [see Fig. 11.1(b)]? Does it remind\nyou of the time you had eaten an ice-cream heaped into a container of that shape [see\nFig. 11.1 (c) and (d)]?\nFig. 11.1\nReprint 2025-26\nThis is called a right circular cone. In Fig. 11.1(\n\n[NCERT Grade9 Ch11 — Surface Area of a Sphere]\nWhat is a sphere? Is it the same as a circle? Can you draw a circle on a paper? Yes,\nyou can, because a circle is a plane closed figure whose every point lies at a constant\ndistance (called radius) from a fixed point, which is called the centre of the circle.\nNow if you paste a string along a diameter of a circular disc and rotate it as you had\nrotated the triangle in the previous section, you see a new solid (see Fig 11.6). What\ndoes it resemble? A ball? Yes. It is called a sphere.\nFig. 11.6\nReprint 2025-26\nCan you guess what happens to the centre of the circle, when it forms a sphere on\nrotation? Of course, it becomes the centre of the sphere. So, a sphere is a three\ndimensional figure (solid figure), which is made up of all points in the space,\nwhich lie at a constant distance called the radius, from a fixed point called the\ncentre of the sphere.\nNote : A sphere is like the surface of a ball. The word solid sphere is used for the\nsolid whose surface is a sphere.\nActivity : Have you",
+  "context_sources": [
+    "ncert:grade9/maths/ch11",
+    "ncert:grade9/maths/ch11"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Area of Rectangle and Square",
+    "Visualising 3D Shapes"
+  ],
+  "prerequisites_descriptions": {
+    "Area of Rectangle and Square": "Length × width for rectangle; side² for square",
+    "Visualising 3D Shapes": "Faces, edges, vertices of polyhedra; Euler's formula F+V−E=2"
+  },
+  "successors_to_link": [
+    "Volume of Cuboid and Cube",
+    "Surface Area of Cylinder"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Area of Rectangle and Square",
+    "Visualising 3D Shapes",
+    "Volume of Cuboid and Cube",
+    "Surface Area of Cylinder",
+    "Heron's Formula",
+    "Volume of Cylinder",
+    "Surface Area of Cone",
+    "Volume of Cone",
+    "Surface Area of Sphere",
+    "Volume of Sphere"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

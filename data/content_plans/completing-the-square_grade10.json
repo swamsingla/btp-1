@@ -1,0 +1,43 @@
+{
+  "concept_slug": "completing-the-square",
+  "canonical_name": "Completing the Square",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Algebra",
+  "description": "Rewriting ax²+bx+c as a(x−h)²+k; deriving the quadratic formula",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Quadratic Equations",
+    "Algebraic Identities"
+  ],
+  "prerequisites_descriptions": {
+    "Quadratic Equations": "Standard form ax²+bx+c=0; solving by factorisation",
+    "Algebraic Identities": "Standard identities: (a±b)², a²−b², (a+b+c)², (x+a)(x+b)"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Quadratic Equations",
+    "Algebraic Identities",
+    "Zeroes of a Polynomial",
+    "Relationship Between Zeroes and Coefficients",
+    "Quadratic Formula",
+    "Nature of Roots — Discriminant",
+    "Pair of Linear Equations in Two Variables",
+    "Substitution Method",
+    "Elimination Method"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

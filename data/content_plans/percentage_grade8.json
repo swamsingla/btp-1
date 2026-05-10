@@ -1,0 +1,58 @@
+{
+  "concept_slug": "percentage",
+  "canonical_name": "Percentage",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Proportional Reasoning",
+  "description": "A ratio expressed per hundred",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade8 Ch1 — Using Percentages]\nTo Compare Proportions\nExample 1: Eesha scored 42 marks out of 50 on an English test and 70\nmarks out of 80 in a Science test. Since she lost only 8 marks in English\nbut 10 marks in Science, she thinks she has done better at English. Reema\ndoes not agree! She argues that since Eesha has scored more marks in\nScience, she has done better at Science. Vishu thinks we cannot compare\nthe scores because the maximum marks are different. Who do you think\nis correct?\nIf the maximum marks are the same, the comparison becomes easier,\nisn’t it?  For these kinds of comparisons, we need to convert both values\nto percentages.\nEnglish score as a percentage = 42\n50 × 100 = 84%\nScience score as a percentage = 70\n80 × 100 = 87.5%.\nThe Science score (as a percentage) is higher than the English score\n(as a percentage). So, we can conclude that Eesha has scored better on\nthe Science test.\nFractions in Disguise\nKnow Your Contents (KYC)\nExample\n2:\nMadhu\nand\nMadhav recently learnt about\nthe importance of readin\n\n[NCERT Grade8 Ch1 — Fractions as Percentages]\nYou might have heard statements like, “Mega Sale — up to 50% off!” or\n“Hiya scored 83% in her board exams”.\nDo you know what the symbol ʻ%ʼ means?\nThis symbol is read as per cent.\nThe word ‘per cent’ is derived from the Latin phrase ‘per centum’,\nmeaning ‘by the hundred’ or ‘out of hundred’.\nSo, 25 per cent (25%) means 25 out of every 100 — like 25 people out\nof 100, 25 rupees out of 100 rupees, or 25 marks out of 100 marks.\nIf we say 50% of some quantity s, it means\n50% = 50 × 1\n100 × s (50 times the unit fraction of s)\n= 50\n100 × s = 1\n2s.\nThus, percentages are simply fractions where the denominator\nis 100. Examples:\n20% = 20\n100 = 2\n10 = 1\n5,\n33% = 33\n100.\nWe saw that percentages are just fractions. Given any fraction, can we\nexpress it as a percentage? Yes, let us see how.\nExpressing Fractions as Percentages\nExample 1: Surya wants to use a deep orange colour to capture the\nsunset. He mixes some red paint and yellow paint to make this colour.\nThe red paint makes up 3\n4 of this mixtu\n\n[NCERT Grade8 Ch1 — Percentage of Some Quantity]\nExample 1: Madhu and Madhav each ate\nbiscuits of a different variety. Madhu’s biscuits\nhad 25% sugar, while Madhav’s had 35% sugar.\nCan you tell who ate more sugar?\nAs we just saw, percentages represent\nfractional quantities or proportions. It would\nbe\ninappropriate\nto\ncompare\njust\nthe\npercentages when they are referring to\ndifferent quantities or wholes. That is, if they\nboth had 100 g of biscuits, then clearly Madhav ate more sugar — 35 g\n(35% of 100 g is 35 g per 100 g) vs. Madhu’s 25 g  (25% of 100 g is 25 g\nper 100 g).\nSuppose Madhu ate 120 g of biscuits and Madhav ate 95 g of biscuits.\nWho consumed more sugar? Try to find out.\nWe know that the weight of sugar is proportional to the weight of the\nbiscuits consumed. Madhu ate 120 g of biscuits having 25% sugar. The\namount of sugar he ate is the value in the blank —\n25 : 100 :: ____ : 120.\nA few ways of going forward are shown.\n25% sugar means —\n25 g sugar per 100 g of\nbiscuits, which means\n5 g sugar per 20 g\nbiscuits, so\n30 g sugar\n\n[Wikipedia]\nIn mathematics, a percentage, percent, or per cent is a number or ratio expressed as a fraction of 100. It is often denoted using the percent sign (%), although the abbreviations pct., pct, and sometimes pc are also used. A percentage is a dimensionless number, primarily used for expressing proportions, but percent is nonetheless a unit of measurement in its orthography and usage.",
+  "context_sources": [
+    "ncert:grade8/maths/ch1",
+    "ncert:grade8/maths/ch1",
+    "ncert:grade8/maths/ch1",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Decimals",
+    "Fractions",
+    "Ratios and Proportions"
+  ],
+  "prerequisites_descriptions": {
+    "Decimals": "Representing fractions with denominators as powers of 10",
+    "Fractions": "Numbers of the form a/b representing parts of a whole",
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios"
+  },
+  "successors_to_link": [
+    "Percentage Increase and Decrease",
+    "Profit, Loss and Discount",
+    "Simple Interest"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Decimals",
+    "Fractions",
+    "Ratios and Proportions",
+    "Percentage Increase and Decrease",
+    "Profit, Loss and Discount",
+    "Simple Interest",
+    "Unitary Method and Direct Proportion",
+    "Inverse Proportion",
+    "Compound Interest",
+    "Tax, VAT and GST",
+    "Direct and Inverse Variation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

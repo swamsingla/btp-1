@@ -1,0 +1,1387 @@
+{
+  "grade": 6,
+  "subject": "maths",
+  "total_topics": 86,
+  "topics": [
+    {
+      "raw_name": "What is Mathematics?",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Definition of Mathematics as a problem-solving tool",
+        "Role of Mathematics in real-life situations",
+        "Mathematical concepts and their applications",
+        "Development of mathematical ideas and theories",
+        "Importance of logical reasoning in Mathematics"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PATTERNS IN MATHEMATICS"
+    },
+    {
+      "raw_name": "Patterns in Numbers",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Identifying and writing number patterns using variables",
+        "Creating and extending number patterns using addition and subtraction",
+        "Recognizing and describing patterns using multiplication and division",
+        "Analyzing and predicting patterns using algebraic expressions",
+        "Visualizing and representing number patterns using graphs"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PATTERNS IN MATHEMATICS"
+    },
+    {
+      "raw_name": "Visualising Number Sequences",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Representing number sequences using tables and graphs",
+        "Identifying and describing number sequences using patterns and rules",
+        "Analyzing and predicting number sequences using algebraic expressions",
+        "Visualizing and representing number sequences using number lines",
+        "Creating and extending number sequences using recursive formulas"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PATTERNS IN MATHEMATICS"
+    },
+    {
+      "raw_name": "Relations among Number Sequences",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Identifying and describing relationships between number sequences",
+        "Analyzing and predicting relationships between number sequences using algebraic expressions",
+        "Visualizing and representing relationships between number sequences using graphs",
+        "Creating and extending relationships between number sequences using recursive formulas",
+        "Comparing and contrasting different number sequences"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PATTERNS IN MATHEMATICS"
+    },
+    {
+      "raw_name": "Patterns in Shapes",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Identifying and describing geometric shapes using attributes",
+        "Creating and extending geometric shapes using transformations",
+        "Analyzing and predicting geometric shapes using patterns and rules",
+        "Visualizing and representing geometric shapes using diagrams",
+        "Classifying and categorizing different geometric shapes"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PATTERNS IN MATHEMATICS"
+    },
+    {
+      "raw_name": "Relation to Number Sequences",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Identifying and describing relationships between geometric shapes and number sequences",
+        "Analyzing and predicting relationships between geometric shapes and number sequences using algebraic expressions",
+        "Visualizing and representing relationships between geometric shapes and number sequences using graphs",
+        "Creating and extending relationships between geometric shapes and number sequences using recursive formulas",
+        "Comparing and contrasting different geometric shapes and number sequences"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PATTERNS IN MATHEMATICS"
+    },
+    {
+      "raw_name": "Bela’s Building of Fun",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Understanding the concept of perimeter and area of rectangles",
+        "Calculating perimeter and area of rectangles using formulas",
+        "Analyzing and predicting perimeter and area of rectangles using patterns and rules",
+        "Visualizing and representing perimeter and area of rectangles using diagrams",
+        "Creating and extending perimeter and area of rectangles using real-life examples"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE OTHER SIDE OF ZERO"
+    },
+    {
+      "raw_name": "The Token Model",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Understanding the concept of addition and subtraction using tokens",
+        "Representing addition and subtraction using tokens and number lines",
+        "Analyzing and predicting addition and subtraction using patterns and rules",
+        "Visualizing and representing addition and subtraction using diagrams",
+        "Creating and extending addition and subtraction using real-life examples"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE OTHER SIDE OF ZERO"
+    },
+    {
+      "raw_name": "Integers in Other Places",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Understanding the concept of integers in real-life situations",
+        "Representing integers using number lines and graphs",
+        "Analyzing and predicting integers using patterns and rules",
+        "Visualizing and representing integers using diagrams",
+        "Creating and extending integers using real-life examples"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE OTHER SIDE OF ZERO"
+    },
+    {
+      "raw_name": "Explorations with Integers",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Exploring and describing properties of integers using number lines",
+        "Analyzing and predicting properties of integers using patterns and rules",
+        "Visualizing and representing properties of integers using graphs",
+        "Creating and extending properties of integers using recursive formulas",
+        "Comparing and contrasting different properties of integers"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE OTHER SIDE OF ZERO"
+    },
+    {
+      "raw_name": "A Pinch of History",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Understanding the concept of zero as a placeholder",
+        "Recalling the contributions of Indian mathematicians in the development of the decimal system",
+        "Identifying the significance of the decimal system in modern mathematics"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE OTHER SIDE OF ZERO"
+    },
+    {
+      "raw_name": "Ray",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Defining a ray as a line extending from a fixed point",
+        "Identifying the starting point of a ray",
+        "Describing the direction of a ray"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Lines and Angles"
+    },
+    {
+      "raw_name": "Angle",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Defining an angle as the amount of rotation between two lines",
+        "Identifying the vertex of an angle",
+        "Describing the arms of an angle"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Lines and Angles"
+    },
+    {
+      "raw_name": "Comparing Angles",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Comparing the measures of two angles using a protractor",
+        "Identifying equal angles",
+        "Describing the relationship between corresponding angles"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Lines and Angles"
+    },
+    {
+      "raw_name": "Making Rotating Arms",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Constructing a rotating arm using a pencil and a ruler",
+        "Measuring the length of the rotating arm",
+        "Identifying the fixed point of the rotating arm"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Lines and Angles"
+    },
+    {
+      "raw_name": "Special Types of Angles",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Identifying acute, obtuse, and right angles",
+        "Describing the properties of each type of angle",
+        "Recognizing the relationship between acute and obtuse angles"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Lines and Angles"
+    },
+    {
+      "raw_name": "Measuring Angles",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Using a protractor to measure angles",
+        "Converting angle measures from degrees to minutes and seconds",
+        "Identifying the angle measure in a given diagram"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Lines and Angles"
+    },
+    {
+      "raw_name": "Drawing Angles",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Drawing a given angle using a protractor",
+        "Constructing a ray to represent an angle",
+        "Measuring the angle drawn"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Lines and Angles"
+    },
+    {
+      "raw_name": "Types of Angles and their Measures",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Identifying and describing different types of angles",
+        "Calculating the measures of angles using trigonometric ratios",
+        "Solving problems involving angle measures"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Lines and Angles"
+    },
+    {
+      "raw_name": "Numbers can Tell us Things",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Understanding the concept of place value in decimal numbers",
+        "Identifying patterns in number sequences",
+        "Describing the relationship between numbers and real-life situations"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Supercells",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Understanding the concept of supercells in meteorology",
+        "Identifying characteristics of supercells in weather maps",
+        "Analyzing the role of wind shear in supercell formation",
+        "Describing the types of severe weather associated with supercells",
+        "Evaluating the impact of supercells on local communities"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Patterns of Numbers on the Number Line",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Identifying and creating number sequences on the number line",
+        "Recognizing patterns of addition and subtraction on the number line",
+        "Understanding the concept of negative numbers on the number line",
+        "Visualizing and creating number patterns using real-world examples",
+        "Analyzing the relationship between number patterns and real-world phenomena"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Playing with Digits",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Understanding the concept of place value in multi-digit numbers",
+        "Performing basic arithmetic operations with multi-digit numbers",
+        "Identifying and creating number patterns using digit manipulation",
+        "Developing mental math skills through digit-based calculations",
+        "Solving simple digit-based puzzles and games"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Pretty Palindromic Patterns",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Understanding the concept of palindromic numbers and sequences",
+        "Creating and identifying palindromic patterns in numbers and words",
+        "Analyzing the properties of palindromic sequences in mathematics",
+        "Developing creative writing skills through palindromic poetry",
+        "Solving palindromic puzzles and brain teasers"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "The Magic Number of Kaprekar",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Clock and Calendar Numbers",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Mental Math",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Playing with Number Patterns",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "An Unsolved Mystery — the Collatz Conjecture!",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Simple Estimation",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Games and Winning Strategies",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Understanding the concept of probability through coin tossing",
+        "Identifying patterns in number sequences for strategic decision making",
+        "Applying the concept of averages to make informed choices",
+        "Using the concept of permutations to arrange objects",
+        "Understanding the concept of combinations to select items"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Collecting and Organising Data",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Recording and presenting data in a table format",
+        "Creating and using a tally chart to collect data",
+        "Understanding the concept of range and median",
+        "Calculating mean, median, and mode from a given dataset",
+        "Organising data in ascending and descending order"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Data Handling and Presentation"
+    },
+    {
+      "raw_name": "Pictographs",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Interpreting pictorial representation of data",
+        "Creating a pictograph to represent a given dataset",
+        "Understanding the concept of scale in pictographs",
+        "Comparing and contrasting pictographs with other data representations",
+        "Identifying and explaining the advantages of pictographs"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Data Handling and Presentation"
+    },
+    {
+      "raw_name": "Bar Graphs",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Understanding the concept of bars and labels in bar graphs",
+        "Interpreting bar graphs to compare categorical data",
+        "Creating a bar graph to represent a given dataset",
+        "Understanding the concept of scales in bar graphs",
+        "Comparing and contrasting bar graphs with other data representations"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Data Handling and Presentation"
+    },
+    {
+      "raw_name": "Drawing a Bar Graph",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Selecting and using appropriate scales for bar graphs",
+        "Labelling and titling bar graphs correctly",
+        "Choosing and using suitable colours for bar graphs",
+        "Drawing bars in ascending and descending order",
+        "Adding a key to the bar graph for better understanding"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Data Handling and Presentation"
+    },
+    {
+      "raw_name": "Artistic and Aesthetic Considerations",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Understanding the importance of visual appeal in data representation",
+        "Using colours effectively in data representation",
+        "Selecting and using suitable fonts for data representation",
+        "Adding images and icons to enhance data representation",
+        "Understanding the concept of balance in data representation"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Data Handling and Presentation"
+    },
+    {
+      "raw_name": "Common Multiples and Common Factors",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Finding the least common multiple (LCM) of two numbers",
+        "Finding the greatest common divisor (GCD) of two numbers",
+        "Identifying common factors of a set of numbers",
+        "Understanding the relationship between LCM and GCD",
+        "Finding the LCM and GCD of a set of numbers"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PRIME TIME"
+    },
+    {
+      "raw_name": "Prime Numbers",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Identifying prime numbers up to a given limit",
+        "Understanding the concept of prime numbers and their importance",
+        "Finding prime numbers using a number line",
+        "Understanding the difference between prime and composite numbers",
+        "Listing prime numbers up to a given limit"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PRIME TIME"
+    },
+    {
+      "raw_name": "Co-prime numbers for safekeeping treasures",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Understanding the concept of co-prime numbers",
+        "Identifying co-prime numbers using a number line",
+        "Finding co-prime numbers up to a given limit",
+        "Understanding the importance of co-prime numbers in safekeeping treasures",
+        "Listing co-prime numbers up to a given limit"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PRIME TIME"
+    },
+    {
+      "raw_name": "Prime Factorisation",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Understanding the concept of prime factorisation",
+        "Finding prime factors of a given number",
+        "Expressing a number as a product of its prime factors",
+        "Understanding the relationship between prime factorisation and LCM",
+        "Finding the prime factorisation of a given number"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PRIME TIME"
+    },
+    {
+      "raw_name": "Divisibility Tests",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Divisibility by 2, 5, and 10",
+        "Divisibility by 3, 6, and 9",
+        "Divisibility by 4 and 8",
+        "Divisibility by 9 and 11",
+        "Divisibility by 6 and 12"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PRIME TIME"
+    },
+    {
+      "raw_name": "Fun with numbers",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Properties of Odd and Even Numbers",
+        "Basic Number Patterns",
+        "Relationship between Addition and Subtraction",
+        "Relationship between Multiplication and Division",
+        "Basic Number Properties"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PRIME TIME"
+    },
+    {
+      "raw_name": "Perimeter",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Calculating Perimeter of Rectangles",
+        "Calculating Perimeter of Squares",
+        "Calculating Perimeter of Triangles",
+        "Calculating Perimeter of Irregular Shapes",
+        "Relationship between Perimeter and Boundary"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PERIMETER AND AREA"
+    },
+    {
+      "raw_name": "Area",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Calculating Area of Rectangles",
+        "Calculating Area of Squares",
+        "Calculating Area of Triangles",
+        "Calculating Area of Irregular Shapes",
+        "Relationship between Area and Measurement"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PERIMETER AND AREA"
+    },
+    {
+      "raw_name": "Area of a Triangle",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Calculating Area using Heron's Formula",
+        "Calculating Area using Base and Height",
+        "Calculating Area using Formula (1/2)bh",
+        "Relationship between Area and Triangle Type",
+        "Area of Special Triangles"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PERIMETER AND AREA"
+    },
+    {
+      "raw_name": "Fractional Units and Equal Shares",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Understanding Fractional Units",
+        "Sharing Equal Shares using Fractional Units",
+        "Calculating Equal Shares using Fractional Units",
+        "Relationship between Fractional Units and Whole Numbers",
+        "Comparing Fractional Units"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Fractions"
+    },
+    {
+      "raw_name": "Fractional Units as Parts of a Whole",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Understanding Fractional Parts of a Whole",
+        "Representing Fractional Parts using Diagrams",
+        "Calculating Fractional Parts of a Whole",
+        "Relationship between Fractional Parts and Whole Numbers",
+        "Comparing Fractional Parts"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Fractions"
+    },
+    {
+      "raw_name": "Measuring Using Fractional Units",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Measuring Length using Fractional Units",
+        "Measuring Capacity using Fractional Units",
+        "Measuring Weight using Fractional Units",
+        "Converting between Fractional Units and Whole Numbers",
+        "Relationship between Fractional Units and Real-World Applications"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Fractions"
+    },
+    {
+      "raw_name": "Mixed Fractions",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Understanding Mixed Fractions",
+        "Adding and Subtracting Mixed Fractions",
+        "Multiplying and Dividing Mixed Fractions",
+        "Comparing Mixed Fractions",
+        "Converting between Mixed Fractions and Improper Fractions"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Fractions"
+    },
+    {
+      "raw_name": "Equivalent Fractions",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Understanding Equivalent Fractions",
+        "Identifying Equivalent Fractions",
+        "Converting between Equivalent Fractions",
+        "Comparing Equivalent Fractions",
+        "Relationship between Equivalent Fractions and Real-World Applications"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Fractions"
+    },
+    {
+      "raw_name": "Comparing Fractions",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Identifying equivalent fractions",
+        "Comparing fractions with different denominators using the least common multiple (LCM)",
+        "Ordering fractions from least to greatest",
+        "Determining if fractions are equal or unequal",
+        "Simplifying fractions before comparison"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Fractions"
+    },
+    {
+      "raw_name": "Addition and Subtraction of Fractions",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Adding fractions with like and unlike denominators",
+        "Subtracting fractions with like and unlike denominators",
+        "Finding the least common denominator (LCD) for addition and subtraction",
+        "Converting mixed numbers to improper fractions for addition and subtraction",
+        "Simplifying the results of fraction addition and subtraction"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Fractions"
+    },
+    {
+      "raw_name": "Artwork",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Identifying and creating geometric shapes in art",
+        "Understanding the concept of tessellations in art",
+        "Analyzing the use of symmetry in art",
+        "Creating artwork using geometric transformations",
+        "Exploring the role of patterns in art"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Playing with Constructions"
+    },
+    {
+      "raw_name": "Squares and Rectangles",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Identifying and defining squares and rectangles",
+        "Understanding the properties of squares and rectangles (e.g., opposite sides are equal)",
+        "Determining the perimeter and area of squares and rectangles",
+        "Comparing the properties of squares and rectangles",
+        "Identifying real-life examples of squares and rectangles"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Playing with Constructions"
+    },
+    {
+      "raw_name": "Constructing Squares and Rectangles",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Constructing a square using a given side length",
+        "Constructing a rectangle using given length and width",
+        "Determining the length of a diagonal in a square or rectangle",
+        "Finding the area of a square or rectangle using its side lengths",
+        "Using real-world examples to construct squares and rectangles"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Playing with Constructions"
+    },
+    {
+      "raw_name": "An Exploration in Rectangles",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Exploring the relationship between the length and width of a rectangle",
+        "Determining the effect of changing the length or width on the area and perimeter",
+        "Understanding the concept of similar rectangles",
+        "Comparing the properties of different types of rectangles (e.g., oblong, square)",
+        "Analyzing real-life examples of rectangles"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Playing with Constructions"
+    },
+    {
+      "raw_name": "Exploring Diagonals of Rectangles and Squares",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Determining the length of a diagonal in a rectangle or square",
+        "Understanding the relationship between the diagonal and the side lengths",
+        "Comparing the properties of diagonals in rectangles and squares",
+        "Analyzing the effect of changing the side lengths on the diagonal",
+        "Identifying real-life examples of diagonals in rectangles and squares"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Playing with Constructions"
+    },
+    {
+      "raw_name": "Points Equidistant from Two Given Points",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Determining the midpoint between two points",
+        "Understanding the concept of equidistant points",
+        "Finding the equidistant point between two given points",
+        "Analyzing the relationship between the equidistant point and the given points",
+        "Identifying real-life examples of equidistant points"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Playing with Constructions"
+    },
+    {
+      "raw_name": "Line of Symmetry",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Identifying the line of symmetry in a shape",
+        "Understanding the concept of reflection symmetry",
+        "Determining the line of symmetry in a given shape",
+        "Analyzing the relationship between the line of symmetry and the shape",
+        "Identifying real-life examples of lines of symmetry"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SYMMETRY"
+    },
+    {
+      "raw_name": "Rotational Symmetry",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Understanding the concept of rotational symmetry",
+        "Determining the angle of rotational symmetry in a shape",
+        "Analyzing the relationship between the rotational symmetry and the shape",
+        "Identifying real-life examples of rotational symmetry",
+        "Determining the number of rotational symmetries in a shape"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SYMMETRY"
+    },
+    {
+      "raw_name": "Ratios and Proportional Relationships",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Identifying equivalent ratios",
+        "Simplifying ratios",
+        "Representing ratios as fractions",
+        "Comparing ratios using fraction notation",
+        "Understanding proportional relationships through real-life examples"
+      ]
+    },
+    {
+      "raw_name": "Percentage",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating percentage of a given quantity",
+        "Finding a percentage of a total",
+        "Expressing a percentage as a fraction or decimal",
+        "Converting percentages to decimals and vice versa",
+        "Interpreting percentage changes in real-world contexts"
+      ]
+    },
+    {
+      "raw_name": "Percentage Increase and Decrease",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating percentage increase and decrease",
+        "Finding the original value after a percentage increase or decrease",
+        "Understanding the concept of percentage change",
+        "Applying percentage increase and decrease in real-life scenarios",
+        "Comparing percentage changes in different contexts"
+      ]
+    },
+    {
+      "raw_name": "Decimals and Fractions",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Comparing and ordering decimals and fractions",
+        "Converting fractions to decimals and vice versa",
+        "Adding and subtracting decimals and fractions",
+        "Multiplying and dividing decimals and fractions",
+        "Understanding equivalent decimals and fractions"
+      ]
+    },
+    {
+      "raw_name": "Converting Fractions to Decimals",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Converting fractions to decimals using division",
+        "Converting fractions to decimals using equivalent ratios",
+        "Converting mixed numbers to decimals",
+        "Converting decimals to fractions and vice versa",
+        "Rounding decimals to the nearest tenth or hundredth"
+      ]
+    },
+    {
+      "raw_name": "Money and Currency",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Understanding the concept of money and currency",
+        "Converting between different currencies",
+        "Calculating change in different currencies",
+        "Understanding the concept of exchange rates",
+        "Applying money and currency concepts in real-life scenarios"
+      ]
+    },
+    {
+      "raw_name": "Time and Speed",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Understanding the concept of time and speed",
+        "Converting between different units of time and speed",
+        "Calculating speed and distance using time",
+        "Understanding the concept of average speed",
+        "Applying time and speed concepts in real-life scenarios"
+      ]
+    },
+    {
+      "raw_name": "Volume and Capacity",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Understanding the concept of volume and capacity",
+        "Converting between different units of volume and capacity",
+        "Calculating volume and capacity using formulas",
+        "Understanding the concept of cubic units",
+        "Applying volume and capacity concepts in real-life scenarios"
+      ]
+    },
+    {
+      "raw_name": "Surface Area and Perimeter of 3D Shapes",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating surface area of rectangular prisms",
+        "Calculating surface area of cubes",
+        "Calculating perimeter of rectangular prisms",
+        "Calculating perimeter of cubes",
+        "Understanding the concept of surface area and perimeter in 3D shapes"
+      ]
+    },
+    {
+      "raw_name": "Area and Perimeter of Rectilinear Figures",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating area of rectangles",
+        "Calculating area of squares",
+        "Calculating perimeter of rectangles",
+        "Calculating perimeter of squares",
+        "Understanding the concept of area and perimeter in rectilinear figures"
+      ]
+    },
+    {
+      "raw_name": "Area and Perimeter of Triangles",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating the area of a triangle using the formula 0.5 * base * height",
+        "Determining the perimeter of a triangle using the sum of its sides",
+        "Applying the Pythagorean theorem to right-angled triangles",
+        "Finding the height of a triangle using the area and base",
+        "Identifying and drawing different types of triangles (acute, obtuse, right)"
+      ]
+    },
+    {
+      "raw_name": "Area and Perimeter of Quadrilaterals",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating the area of a rectangle using the formula length * width",
+        "Determining the perimeter of a rectangle using the sum of its sides",
+        "Finding the area of a square using the formula side^2",
+        "Calculating the area of a parallelogram using the formula base * height",
+        "Determining the perimeter of a rhombus using the sum of its sides"
+      ]
+    },
+    {
+      "raw_name": "Area and Perimeter of Circles",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating the area of a circle using the formula π * radius^2",
+        "Determining the circumference of a circle using the formula 2 * π * radius",
+        "Finding the radius of a circle using the area and π",
+        "Calculating the area of a semi-circle using the formula 0.5 * π * radius^2",
+        "Determining the perimeter of a semi-circle using the formula π * radius + 2 * radius"
+      ]
+    },
+    {
+      "raw_name": "Area and Perimeter of Sectors and Segments",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating the area of a sector using the formula (θ/360) * π * radius^2",
+        "Determining the perimeter of a sector using the formula θ/360 * 2 * π * radius",
+        "Finding the area of a segment using the formula area of sector - area of triangle",
+        "Determining the perimeter of a segment using the sum of its arc and chord lengths",
+        "Calculating the area of a segment using the formula 0.5 * base * height"
+      ]
+    },
+    {
+      "raw_name": "Congruent and Similar Triangles",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Identifying congruent triangles using the SSS, SAS, ASA, AAS, and SSA criteria",
+        "Determining similar triangles using the AA, SSS, and SAS criteria",
+        "Finding the corresponding sides and angles of congruent and similar triangles",
+        "Applying the concept of congruent and similar triangles to real-world problems",
+        "Using the concept of congruent and similar triangles to solve problems involving shapes"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Circle",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Identifying the center and radius of a circle",
+        "Determining the circumference of a circle using the formula 2 * π * radius",
+        "Finding the area of a circle using the formula π * radius^2",
+        "Calculating the area of a semi-circle using the formula 0.5 * π * radius^2",
+        "Determining the perimeter of a semi-circle using the formula π * radius + 2 * radius"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Sphere",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating the surface area of a sphere using the formula 4 * π * radius^2",
+        "Determining the volume of a sphere using the formula (4/3) * π * radius^3",
+        "Finding the diameter of a sphere using the radius",
+        "Calculating the surface area of a hemisphere using the formula 3 * π * radius^2",
+        "Determining the volume of a hemisphere using the formula (2/3) * π * radius^3"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Cylinder",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating the surface area of a cylinder using the formula 2 * π * radius * (radius + height)",
+        "Determining the volume of a cylinder using the formula π * radius^2 * height",
+        "Finding the height of a cylinder using the volume and π",
+        "Calculating the surface area of a hollow cylinder using the formula 2 * π * (radius1 + radius2) * (height + 2 * radius)",
+        "Determining the volume of a hollow cylinder using the formula π * (radius1^2 - radius2^2) * height"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Prism",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating the surface area of a prism using the formula 2 * (base area + perimeter * height)",
+        "Determining the volume of a prism using the formula base area * height",
+        "Finding the height of a prism using the volume and base area",
+        "Calculating the surface area of a triangular prism using the formula 2 * (base area + perimeter * height)",
+        "Determining the volume of a triangular prism using the formula (1/2) * base * height * (base + height)"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Pyramid",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Calculating the surface area of a pyramid using the formula base area + (1/2) * perimeter * slant height",
+        "Determining the volume of a pyramid using the formula (1/3) * base area * height",
+        "Finding the height of a pyramid using the volume and base area",
+        "Calculating the surface area of a triangular pyramid using the formula base area + (1/2) * perimeter * slant height",
+        "Determining the volume of a triangular pyramid using the formula (1/3) * base * height * (base + height)"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Regular Polygon",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition and characteristics of a regular polygon",
+        "Properties of interior angles of a regular polygon",
+        "Relationship between the number of sides and interior angles of a regular polygon",
+        "Construction of a regular polygon using a compass and ruler",
+        "Properties of the perpendicular bisector of a side of a regular polygon"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Frustum",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition and characteristics of a frustum",
+        "Properties of the lateral area of a frustum",
+        "Relationship between the height and slant height of a frustum",
+        "Construction of a frustum using a compass and ruler",
+        "Properties of the volume of a frustum"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Torus",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition and characteristics of a torus",
+        "Properties of the surface area of a torus",
+        "Relationship between the major and minor radii of a torus",
+        "Construction of a torus using a compass and ruler",
+        "Properties of the volume of a torus"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Hemisphere",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition and characteristics of a hemisphere",
+        "Properties of the curved surface area of a hemisphere",
+        "Relationship between the radius and volume of a hemisphere",
+        "Construction of a hemisphere using a compass and ruler",
+        "Properties of the diameter of a hemisphere"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Spherical Shell",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition and characteristics of a spherical shell",
+        "Properties of the curved surface area of a spherical shell",
+        "Relationship between the inner and outer radii of a spherical shell",
+        "Construction of a spherical shell using a compass and ruler",
+        "Properties of the volume of a spherical shell"
+      ]
+    },
+    {
+      "raw_name": "Properties of a Spherical Cap",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition and characteristics of a spherical cap",
+        "Properties of the curved surface area of a spherical cap",
+        "Relationship between the radius and height of a spherical cap",
+        "Construction of a spherical cap using a compass and ruler",
+        "Properties of the volume of a spherical cap"
+      ]
+    }
+  ]
+}

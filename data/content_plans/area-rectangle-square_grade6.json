@@ -1,0 +1,44 @@
+{
+  "concept_slug": "area-rectangle-square",
+  "canonical_name": "Area of Rectangle and Square",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Mensuration",
+  "description": "Length × width for rectangle; side² for square",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch8 — Squares and Rectangles]\nNow, let us look at some basic figures having straight lines in their\nboundary.\nFig. 8.3\nWhat shapes are these? Yes, these are our familiar squares and\nrectangles. But what makes them squares and rectangles?\nConsider this rectangle ABCD.\nThe points A, B, C and D are the corners\nof the rectangle. Lines AB, BC, CD and DA\nare its sides. Its angles are ∠A, ∠B, ∠C\nand ∠D.\nThe blue sides AB and CD are called\nopposite sides, as they lie opposite to\neach other. Likewise, AD and BC is the\nother pair of opposite sides.\nA\nD\nB\nC\nFig. 8.4\nReprint 2025-26\nPlaying with Constructions\nRecall that, in a rectangle:\nR1)\t The opposite sides are equal in length, and\nR2)\t All the angles are 90°.\nAs in the case of rectangles, the corners and sides are defined for\na square in the same manner.\nA square satisfies the following two properties:\nS1)\t All the sides are equal, and\nS2)\t All the angles are 90\no.\nSee the rectangle in Fig. 8.4 and the name given to it: ABCD. This\nrectangle can also be named in other ways\n\n[NCERT Grade6 Ch8 — Exploring Diagonals of Rectangles and Squares]\nConsider a rectangle PQRS. Join PR and QS.\nThese two lines are called the diagonals\nof the rectangle.\nCompare the lengths of the diagonals.\nFirst predict the answer. Then construct a\nP\nS\nQ\nR\na\nb\nc\nd\ne\nf\ng\nh\nReprint 2025-26\nGanita Prakash | Grade 6\nrectangle marking the points as shown and measure the diagonals.\nIn rectangle PQRS, the right angles at P and R are referred to as\nopposite angles. The other pair of opposite angles are the right\nangles at Q and S.\nObserve that a diagonal divides each of the pair of opposite\nangles into two smaller angles. In the figure, the diagonal PR divides\nangle R into two smaller angles which we simply call g and h. The\ndiagonal also divides angle P into c and d. Are g and h equal? Are\nc and d equal?\nFirst predict the answers, and then measure the angles. What do\nyou observe? Identify pairs of angles that are equal.\nExplore\nHow should the rectangle be constructed so that the diagonal divides\nthe opposite angles into equal parts?\nHow will you record your\n\n[NCERT Grade6 Ch6 — Area of a Triangle]\nDraw a rectangle on a piece of paper and draw one of its diagonals.\nCut the rectangle along that diagonal and get two triangles.\nCheck! whether the two triangles overlap each other exactly.\nDo they have the same area?\nTry this with more rectangles having different dimensions. You\ncan check this for a square as well.\nCan you draw any inferences from this exercise? Please write it\nhere.\nNow, see the figures below. Is the area of the blue rectangle more\nor less than the area of the yellow triangle? Or is it the same? Why?\nCan you see some relationship between the blue rectangle and\nthe yellow triangle and their areas? Write the relationship here.\nHelp students in articulating their inferences and in defining the\nrelationships they have observed in their own words, gradually\nleading to a common statement for whole classroom. Recall the\ndefinition of a diagonal in the classroom.\nTeacher’s Note\nDraw  suitable triangles on grid paper to verify your inferences\nand relationships observed in the\n\n[NCERT Grade6 Ch8 — Constructing Squares and Rectangles]\nNow, let us start constructing squares and rectangles. How would\nyou construct a square with a side of 6 cm?\nFor help, you can see the following figures. A square PQRS of side\nlength 6 cm is constructed.\nP\nQ\n6 cm\nP\nQ\n6 cm\nMark a point to draw a\nperpendicular to PQ through P.\nMark S on the perpendicular such that\nPS = 6 cm using a ruler.\nMethod 2\nThis can also be done using a compass.\nStep 1\nStep 2\n6 cm\nS\nP\nQ\n6 cm\n90°\nStep 3\nMethod 1\nReprint 2025-26\nGanita Prakash | Grade 6\nCan you see why PS should be\n6 cm long?\n6 cm\nS\nP\nQ\n6 cm\nStep 4\nDraw a perpendicular to line\nsegment PQ through Q.\nR\nP\nQ\n6 cm\nStep 5\nIf we had used the compass, then the next\npoint can easily be marked using it!\nR\nS\nP\nQ\nHow long is the side RS and what\nare the measures of ∠R and ∠S?\nStep 6\nR\nS\nP\nQ\n6 cm\n6 cm\n6 cm\n90º\n90º\nReprint 2025-26\nPlaying with Constructions\nConstruct\n1.\t Draw a rectangle with sides of length 4 cm and 6 cm. After\ndrawing, check if it satisfies both the rectangle properties.\n2.\t Draw a rectangle of",
+  "context_sources": [
+    "ncert:grade6/maths/ch8",
+    "ncert:grade6/maths/ch8",
+    "ncert:grade6/maths/ch6",
+    "ncert:grade6/maths/ch8"
+  ],
+  "ncert_chunks_found": 4,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Perimeter"
+  ],
+  "prerequisites_descriptions": {
+    "Perimeter": "Total length of the boundary of a 2D shape"
+  },
+  "successors_to_link": [
+    "Area of 2D Figures",
+    "Surface Area of Cuboid and Cube"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Perimeter",
+    "Area of 2D Figures",
+    "Surface Area of Cuboid and Cube"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

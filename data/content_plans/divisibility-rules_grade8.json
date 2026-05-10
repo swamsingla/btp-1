@@ -1,0 +1,47 @@
+{
+  "concept_slug": "divisibility-rules",
+  "canonical_name": "Divisibility Rules",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Number Theory",
+  "description": "Quick tests for divisibility by 2, 3, 4, 5, 6, 8, 9, 10, 11",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade8 Ch6 — Decoding Divisibility Tricks]\nIt is now Mukta’s turn to show a mathematics trick to Shubham.\nChoose a 2-digit number\nof different digits and\ndon’t reveal it!\n74 – 47 = 27\n9  = 3\nYes, you are right.\nBut how did you\nknow?\nReverse the digits to get\nanother number.\nFind their difference.\nDivide the result by 9.\nThere won’t be any\nremainder.\nAlgebra Play\nIf we choose other 2-digit numbers, and follow the steps, will there\nalways be no remainder?\nLet’s try to understand how Mukta’s trick works.\nSuppose the two-digit number is ab. When it is reversed, the new\nnumber is ba.\n•\t If b > a, then ba > ab. So, the difference is\n(10b + a) – (10a + b)\n= 10b – b – 10a + a\n= 9b – 9a = 9 (b – a).\nThe difference is divisible by 9.\nCan you work out what happens if a > b?\nFigure it Out\n1.\t In the trick given above, what is the quotient when you divide by 9?\nIs there a relationship between the two numbers and the quotient?\n2.\t In the trick given above, instead of finding the difference of the two\n2-digit numbers, find their sum. What wil\n\n[NCERT Grade8 Ch5 — Checking Divisibility Quickly]\nEarlier, you have learnt shortcuts to check whether a given number,\nwritten in the Indian number system is divisible by 2, 4, 5, 8, and 10. Let\nus revisit them.\nDivisibility by 10, 5, and 2: If the units digit of a number is ‘0’, then\nit is divisible by 10. Let us understand why this works through algebra.\nWe can write the general form of a number in the Indian system\nusing a set of letter-numbers. For example, a 5-digit number can be\nexpressed as, edcba denoting e × 10000 + d × 1000 + c × 100 + b × 10 + a. The\nletter-numbers e, d, c, b, and a denote each digit of a 5-digit number.\nAny number can be written in general as … dcba, where the letter-\nnumbers a, b, c and d represent the units, tens, hundreds and thousands\ndigit, respectively, and so on. As a sum of place values, this number is —\n… +1000d + 100c + 10b + a.\n(For example, in the number 4075, d = 4, c = 0, b = 7, and a = 5.)\nWe know that each place value, with the exception of the units place,\nis a multiple of 10. So, 10b, 100c",
+  "context_sources": [
+    "ncert:grade8/maths/ch6",
+    "ncert:grade8/maths/ch5"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Factors and Multiples"
+  ],
+  "prerequisites_descriptions": {
+    "Factors and Multiples": "Factor as a divisor; multiple as a product; factor pairs"
+  },
+  "successors_to_link": [
+    "Prime Factorisation",
+    "Modular Arithmetic"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Factors and Multiples",
+    "Prime Factorisation",
+    "Modular Arithmetic",
+    "Square Numbers",
+    "Square Roots",
+    "Cube Numbers",
+    "Cube Roots",
+    "Pythagorean Triples"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

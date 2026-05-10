@@ -1,0 +1,20 @@
+[
+  {
+    "canonical_name": "Distance Formula",
+    "slug": "distance-formula",
+    "aliases": [],
+    "domain": "Coordinate Geometry",
+    "area": "Circles",
+    "parent": "coordinate-geometry",
+    "grades": [
+      10
+    ],
+    "importance_BY_GRADE": {
+      "10": 5
+    },
+    "source_BOARDS": [
+      "NCERT"
+    ],
+    "subject": "maths"
+  }
+]

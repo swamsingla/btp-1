@@ -1,0 +1,43 @@
+{
+  "concept_slug": "isosceles-equilateral-properties",
+  "canonical_name": "Properties of Isosceles and Equilateral Triangles",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Geometry",
+  "description": "Base angles theorem; all angles 60° in equilateral triangle",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade7 Ch1 — Angles of Isosceles and Equilateral Triangles]\nCongruence is a very powerful tool for studying properties of geometric\nfigures. Let us use it to discover an important property of isosceles\ntriangles.\nΔABC is isosceles with AB = AC, and ∠A = 80. What can we say about ∠B\nand ∠C?\n80°\nA\nB\nC\nConstruct the altitude from A to BC.\nGanita Prakash | Grade 7 | Part-II\nWe have,\nAB = AC (given)\n∠ADB = ∠ADC = 90° (from construction)\nAD is a common side of the two triangles ΔADB and ΔADC.\nA\nD\nB\nC\nThus, the triangles satisfy the RHS condition. Hence, ΔADB ≅ ΔADC.\nThis shows that ∠B = ∠C, as they are corresponding parts of congruent\ntriangles.\nThus, the angles opposite to equal sides are equal.\nCan you use this fact to find ∠B and ∠C?\nAngles in an Equilateral Triangle\nEquilateral triangles are those in which all the sides have equal lengths.\nWhat can we say about their angles?\nWe can use the recently discovered fact that angles opposite to equal\nsides are equal.\nA\nB\nC\nThe sides AB and AC are equal. So ∠B = ∠C.\nA\nB\nC\nGeometric Twins\nSimilarly, the s",
+  "context_sources": [
+    "ncert:grade7/maths/ch1"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Congruence of Triangles"
+  ],
+  "prerequisites_descriptions": {
+    "Congruence of Triangles": "SSS, SAS, ASA, AAS, RHS criteria for triangle congruence"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Congruence of Triangles",
+    "Angles",
+    "Types of Angles and Angle Pairs",
+    "Basic Geometric Constructions",
+    "Parallel Lines and Transversals",
+    "Types of Triangles",
+    "Angle Sum Property of a Triangle",
+    "Exterior Angle Theorem",
+    "Properties of Triangles"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

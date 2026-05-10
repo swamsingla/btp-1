@@ -1,0 +1,46 @@
+{
+  "concept_slug": "exponential-and-log-functions",
+  "canonical_name": "Exponential and Logarithmic Functions",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "e^x, log x; their derivatives and properties",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch5 — Exponential and Logarithmic Functions]\nTill now we have learnt some aspects of different classes of functions like polynomial\nfunctions, rational functions and trigonometric functions. In this section, we shall\nlearn about a new class of (related) functions called exponential functions and logarithmic\nfunctions. It needs to be emphasized that many statements made in this section are\nmotivational and precise proofs of these are well beyond the scope of this text.\nThe Fig 5.9 gives a sketch of y = f1(x) = x, y = f2(x) = x2, y = f3(x) = x3 and y = f4(x)\n= x4. Observe that the curves get steeper as the power of x increases. Steeper the\ncurve, faster is the rate of growth. What this means is that for a fixed increment in the\nvalue of x (> 1), the increment in the value of y = fn (x) increases as n increases for n\n= 1, 2, 3, 4. It is conceivable that such a statement is true for all positive values of n,\nReprint 2025-26\nwhere fn (x) = xn. Essentially, this means\nthat the graph of y = fn (x) leans more\ntowards the y-axis as n incr\n\n[NCERT Grade12 Ch5 — Derivatives of inverse trigonometric functions]\nWe remark that inverse trigonometric functions are continuous functions, but we will\nnot prove this. Now we use chain rule to find derivatives of these functions.\nExample 24 Find the derivative of f given by f(x) = sin–1 x assuming it exists.\nSolution Let y = sin–1 x. Then, x = sin y.\nDifferentiating both sides w.r.t. x, we get\n1 = cos y dy\ndx\nwhich implies that\ndy\ndx  =\ncos\ncos(sin\n)\ny\nx\n−\n=\nObserve that this is defined only for cos y ≠ 0, i.e., sin–1 x ≠\n,\n2 2\nπ π\n−\n, i.e., x ≠ – 1, 1,\ni.e., x ∈ (– 1, 1).\nTo make this result a bit more attractive, we carry out the following manipulation.\nRecall that for x ∈ (– 1, 1), sin (sin–1 x) = x and hence\ncos2 y = 1 – (sin y)2 = 1 – (sin (sin–1 x))2 = 1 – x2\nAlso, since y ∈\n,\n2 2\nπ π\n\n\n−\n\n\n\n, cos y is positive and hence cos y =\nx\n−\nThus, for x ∈ (– 1, 1),\ncos\ndy\ndx\ny\nx\n=\n=\n−\nx\n−\nx\n−\n−\nx\n+\nf(x)                    sin–1 x                      cos-1 x                   tan-1x\nDomain off               (-1, 1)                     (-1, 1)",
+  "context_sources": [
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch5"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Common and Natural Logarithms",
+    "Continuity of Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Common and Natural Logarithms": "log₁₀ and ln; relationship ln x = log_e(x)",
+    "Continuity of Functions": "f continuous at a iff lim f(x) = f(a); algebra of continuous functions"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Common and Natural Logarithms",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Derivatives in Parametric Form"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

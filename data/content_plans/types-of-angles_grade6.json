@@ -1,0 +1,49 @@
+{
+  "concept_slug": "types-of-angles",
+  "canonical_name": "Types of Angles and Angle Pairs",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Geometry",
+  "description": "Acute, right, obtuse, straight, reflex; complementary and supplementary",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch2 — Types of Angles and their Measures]\nWe have read about different types of angles in this chapter. We\nhave seen that a straight angle is 180° and a right angle is 90°. How\ncan other types of angles — acute and obtuse — be described in terms\nof their degree measures?\nAcute Angle: Angles that are smaller than the right angle, i.e., less\nthan 90° and are greater than 0°, are called acute angles.\n40⁰\nP\nR\nQ\n50⁰\nS\nT\nR\n75⁰\nE\nF\nQ\nExamples of acute angles\nReprint 2025-26\nLines and Angles\nObtuse Angle: Angles that are greater than the right angle and less\nthan the straight angle, i.e., greater than 90° and less than 180°, are\ncalled obtuse angles.\nT\nW\nS\n130º\nS\nI\nX\n110º\nExamples of obtuse angles\nHave we covered all the possible measures that an angle can take?\nHere is another type of angle.\nReflex angle: Angles that are greater than the straight angle and less\nthan the whole angle, i.e., greater than 180° and less than 360°, are\ncalled reflex angles.\nS\nC\nP\nA\nB\nT\nM\nExamples of reflex angles\nFigure it Out\n1.\t In each of the below grid\n\n[NCERT Grade6 Ch2 — Special Types of Angles]\nLet us go back to Vidya’s\nnotebook and observe her\nopening the cover of the book\nin different scenarios.\nShe makes a full turn of the\ncover when she has to write\nwhile holding the book in\nher hand.\nShe makes a half turn of the\ncover when she has to open\nit on her table. In this case,\nobserve the arms of the angle formed. They lie in a straight line.\nSuch an angle is called a straight angle.\nA\nO\nB\nLet us consider a straight angle ∠AOB. Observe that any ray OC\ndivides it into two angles, ∠AOC and ∠COB.\nFig. 2.11\nReprint 2025-26\nGanita Prakash | Grade 6\nIs it possible to draw OC such that the two angles are\nequal to each other in size?\nLet’s Explore\nWe can try to solve this problem using a piece of paper. Recall that when\na fold is made, it creates a crease which is straight.\nTake a rectangular piece of paper and on one of its sides, mark\nthe straight angle AOB. By folding, try to get a line (crease) passing\nthrough O that divides ∠AOB into two equal angles.\nHow can it be done?\nFold the p",
+  "context_sources": [
+    "ncert:grade6/maths/ch2",
+    "ncert:grade6/maths/ch2"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Measuring Angles with Protractor"
+  ],
+  "prerequisites_descriptions": {
+    "Measuring Angles with Protractor": "Using a protractor to measure angles in degrees"
+  },
+  "successors_to_link": [
+    "Parallel Lines and Transversals",
+    "Angle Sum Property of a Triangle",
+    "Quadrilaterals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Measuring Angles with Protractor",
+    "Parallel Lines and Transversals",
+    "Angle Sum Property of a Triangle",
+    "Quadrilaterals",
+    "Points, Lines and Planes",
+    "Angles",
+    "Line Symmetry and Reflection",
+    "Rotational Symmetry",
+    "Basic Geometric Constructions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

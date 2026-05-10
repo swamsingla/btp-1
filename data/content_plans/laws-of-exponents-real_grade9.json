@@ -1,0 +1,52 @@
+{
+  "concept_slug": "laws-of-exponents-real",
+  "canonical_name": "Laws of Exponents for Real Numbers",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Algebra",
+  "description": "Extending exponent laws to rational exponents on positive reals",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade9 Ch1 — Laws of Exponents for Real Numbers]\nDo you remember how to simplify the following?\n(i) 172 . 175 =\n(ii) (52)7 =\n(iii)\n23  =\n(iv) 73 . 93 =\nDid you get these answers? They are as follows:\n(i) 172 . 175 = 177\n(ii) (52)7 = 514\n(iii)\n=\n(iv) 73 . 93 = 633\nTo get these answers, you would have used the following laws of exponents,\nwhich you have learnt in your earlier classes. (Here a, n and m are natural numbers.\nRemember, a is called the base and m and n are the exponents.)\n(i)\nam . an = am + n\n(ii) (am)n = amn\n(iii)\nm\nm\nn\nn\na\na\n, m\nn\na\n−\n=\n>\n(iv) ambm = (ab)m\nReprint 2025-26\nWhat is (a)0? Yes, it is 1! So you have learnt that (a)0 = 1. So, using (iii), we can\nget 1\n.\nn\nn\na\na\n−\n=\nWe can now extend the laws to negative exponents too.\nSo, for example :\n(i)\n–5\n–3\n⋅\n=\n=\n(ii)\n–7\n–14\n(5 )\n=\n(iii)\n–10\n–17\n=\n(iv)\n–3\n–3\n–3\n(7)\n(9)\n(63)\n⋅\n=\nSuppose we want to do the following computations:\n(i)\n⋅\n(ii)\n\n\n\n\n\n\n(iii)\n(iv)\n⋅\nHow would we go about it? It turns out that we can extend the laws of exponents\nthat we have studied earlier, ev\n\n[NCERT Grade9 Ch1 — Operations on Real Numbers]\nYou have learnt, in earlier classes, that rational numbers satisfy the commutative,\nassociative and distributive laws for addition and multiplication. Moreover, if we add,\nsubtract, multiply or divide (except by zero) two rational numbers, we still get a rational\nnumber (that is, rational numbers are ‘closed’ with respect to addition, subtraction,\nmultiplication and division). It turns out that irrational numbers also satisfy the\ncommutative, associative and distributive laws for addition and multiplication. However,\nthe sum, difference, quotients and products of irrational numbers are not always\nirrational. For example, (\n)\n(\n)\n+ −\n,(\n)\n(\n) (\n) (\n)\n,\n−\n⋅\nand\n17  are\nrationals.\nLet us look at what happens when we add and multiply a rational number with an\nirrational number. For example, 3  is irrational. What about 2\n+\nand 2 3 ? Since\n3  has a non-terminating non-recurring decimal expansion, the same is true for\n+\nand 2 3 . Therefore, both 2\n+\nand 2 3  are also irrational numbers.\nExam",
+  "context_sources": [
+    "ncert:grade9/maths/ch1",
+    "ncert:grade9/maths/ch1"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Exponents and Powers",
+    "Real Numbers",
+    "Negative and Zero Exponents"
+  ],
+  "prerequisites_descriptions": {
+    "Exponents and Powers": "aⁿ notation; laws of exponents for integer exponents",
+    "Real Numbers": "Union of rational and irrational numbers",
+    "Negative and Zero Exponents": "a⁰ = 1; a⁻ⁿ = 1/aⁿ; standard form / scientific notation"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Exponents and Powers",
+    "Real Numbers",
+    "Negative and Zero Exponents",
+    "Algebraic Identities",
+    "Linear Equations in Two Variables",
+    "Polynomials in One Variable",
+    "Remainder Theorem",
+    "Factor Theorem",
+    "Zeroes of a Polynomial",
+    "Factorisation of Polynomials",
+    "Logarithms"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

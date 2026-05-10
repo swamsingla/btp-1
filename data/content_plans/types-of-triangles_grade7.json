@@ -1,0 +1,50 @@
+{
+  "concept_slug": "types-of-triangles",
+  "canonical_name": "Types of Triangles",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Geometry",
+  "description": "Classification by sides (scalene, isosceles, equilateral) and angles",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch7 — Types of Triangles]\nIn our study of triangles, we have encountered the following types of\ntriangles; equilateral, isosceles, scalene and right-angled triangles.\nDid you spot any other type of triangle?\nThe classification of triangles as equilateral and isosceles was based\non equality of sides.\nEquilateral triangles have sides of equal length. Isosceles triangles\nhave two sides of equal length. Scalene triangles have sides of three\ndifferent lengths.\nCan a similar classification be done based on equality of angles? Is\nthere any relation between these two classifications? We will answer\nthese questions in a later chapter.\nWe used angle measures when classifying a triangle as a right-\nangled triangle.\nWhat are the other types of triangles based on angle measures?\nA classification of triangles based on their angle measures is acute-\nangled, right-angled and obtuse-angled triangles. We have already\nseen what a right-angled triangle is. It is a triangle with one right angle.\nSimilarly, an obtuse-angled triangle\n\n[NCERT Grade7 Ch7 — Constructions Related to Altitudes of Triangles]\nThere is another set of useful measurements with respect to a triangle —\nthe height of each of its vertices with respect to the opposite sides.\nIn the world around us, we talk of the\nheights of various objects: the height of a\nperson, the height of a tree, the height of\na building, etc. What do we mean by the\nword ‘height’?\nConsider a triangle ABC. What is the\nheight of the vertex A from its opposite\nside BC, and how can it be measured?\nLet AD be the line segment from A drawn perpendicular to BC. The\nlength of AD is the height of the vertex A from BC. The line segment AD\nis said to be one of the ‘altitudes’ of the triangle. The other altitudes\nA\nC\nD\nB\nFig. 7.8\nGanita Prakash | Grade 7\nare BE and CF in the figure below: the perpendiculars drawn from the\nother vertices to their respective opposite sides.\nA\nB\nC\nE\nF\nWhenever we use the word height of the triangle, we generally\nrefer to the length of the altitude to whatever side we take as base (this\naltitude is AD in the case of Fig. 7.8)",
+  "context_sources": [
+    "ncert:grade7/maths/ch7",
+    "ncert:grade7/maths/ch7"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angles"
+  ],
+  "prerequisites_descriptions": {
+    "Angles": "Amount of rotation between two rays sharing a common endpoint"
+  },
+  "successors_to_link": [
+    "Angle Sum Property of a Triangle",
+    "Similar Triangles",
+    "Area of Triangles"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Angles",
+    "Angle Sum Property of a Triangle",
+    "Similar Triangles",
+    "Area of Triangles",
+    "Types of Angles and Angle Pairs",
+    "Basic Geometric Constructions",
+    "Parallel Lines and Transversals",
+    "Exterior Angle Theorem",
+    "Properties of Triangles",
+    "Congruence of Triangles"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

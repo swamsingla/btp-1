@@ -1,0 +1,37 @@
+{
+  "concept_slug": "permutations-with-repetition",
+  "canonical_name": "Permutations with Repetition and Restrictions",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Combinatorics",
+  "description": "Arrangements when objects repeat or with constraints",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Permutations"
+  ],
+  "prerequisites_descriptions": {
+    "Permutations": "Arrangements of objects: P(n,r) = n!/(n−r)!"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Permutations",
+    "Fundamental Principle of Counting",
+    "Factorial Notation",
+    "Combinations",
+    "Applications of Combinations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

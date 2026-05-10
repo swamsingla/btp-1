@@ -1,0 +1,49 @@
+{
+  "concept_slug": "matrices",
+  "canonical_name": "Matrices",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Linear Algebra",
+  "description": "Ordered rectangular array of numbers; order m×n",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch3 — Introduction]\nThe knowledge of matrices is necessary in various branches of mathematics. Matrices\nare one of the most powerful tools in mathematics. This mathematical tool simplifies\nour work to a great extent when compared with other straight forward methods. The\nevolution of concept of matrices is the result of an attempt to obtain compact and\nsimple methods of solving system of linear equations. Matrices are not only used as a\nrepresentation of the coefficients in system of linear equations, but utility of matrices\nfar exceeds that use. Matrix notation and operations are used in electronic spreadsheet\nprograms for personal computer, which in turn is used in different areas of business\nand science like budgeting, sales projection, cost estimation, analysing the results of an\nexperiment etc. Also, many physical operations such as magnification, rotation and\nreflection through a plane can be represented mathematically by matrices. Matrices\nare also used in cryptography. This mathematical tool is not\n\n[NCERT Grade12 Ch3 — Matrix]\nSuppose we wish to express the information that Radha has 15 notebooks. We may\nexpress it as [15] with the understanding that the number inside [ ] is the number of\nnotebooks that Radha has. Now, if we have to express that Radha has 15 notebooks\nand 6 pens. We may express it as [15  6] with the understanding that first number\ninside [ ] is the number of notebooks while the other one is the number of pens possessed\nby Radha. Let us now suppose that we wish to express the information of possession\nReprint 2025-26\nMATRICES         35\nof notebooks and pens by Radha and her two friends Fauzia and Simran which\nis as follows:\nRadha\nhas\nnotebooks\nand\n6 pens,\nFauzia\nhas\nnotebooks\nand\n2 pens,\nSimran\nhas\nnotebooks\nand\n5 pens.\nNow this could be arranged in the tabular form as follows:\nNotebooks\nPens\nRadha\nFauzia\nSimran\nand this can be expressed as\nor\nRadha\nFauzia\nSimran\nNotebooks\nPens\nwhich can be expressed as:\nIn the first arrangement the entries in the first column represent the number of\nnote b\n\n[NCERT Grade12 Ch3 — Order of a matrix]\nA matrix having m rows and n columns is called a matrix of order m × n or simply m × n\nmatrix (read as an m by n matrix). So referring to the above examples of matrices, we\nhave A as 3 × 2 matrix, B as 3 × 3 matrix and C as 2 × 3 matrix. We observe that A has\n3 × 2 = 6 elements, B and C have 9 and 6 elements, respectively.\nIn general, an m × n matrix has the following rectangular array:\nor\nA = [aij]m × n, 1≤ i ≤ m, 1≤ j ≤ n   i, j ∈ N\nThus the ith  row consists of the elements ai1, ai2, ai3,..., ain, while the jth column\nconsists of the elements a1j, a2j, a3j,..., amj,\nIn general aij, is an element lying in the ith row and jth column. We can also call\nit as the (i, j)th element of A. The number of elements in an m × n matrix will be\nequal to mn.\nReprint 2025-26\nMATRICES         37\nANote  In this chapter\n1.\nWe shall follow the notation, namely A = [aij]m × n to indicate that A is a matrix\nof order m × n.\n2.\nWe shall consider only those matrices whose elements are real numbers or\nfunctio\n\n[NCERT Grade12 Ch3 — Types of Matrices]\nIn this section, we shall discuss different types of matrices.\n(i)\nColumn matrix\nA matrix is said to be a column matrix if it has only one column.\nFor example,\nA\n1/ 2\n\n\n\n\n\n\n\n\n=\n−\n\n\n\n\n\n\nis a column matrix of order 4 × 1.\nIn general, A = [aij] m × 1 is a column matrix of order m × 1.\n(ii)\nRow matrix\nA matrix is said to be a row matrix if it has only one row.\nFor example,\n1 4\nB\n5 2 3\n×\n\n\n= −\n\n\n\n\nis a row matrix.\nIn general, B = [bij] 1 × n is a row matrix of order 1 × n.\n(iii)\nSquare matrix\nA matrix in which the number of rows are equal to the number of columns, is\nsaid to be a square matrix. Thus an m × n matrix is said to be a square matrix if\nm = n and is known as a square matrix of order ‘n’.\nFor example\nA\n3 2\n−\n\n\n\n\n\n\n= \n\n\n\n−\n\n\nis a square matrix of order 3.\nIn general, A = [aij] m × m is a square matrix of order m.\nANote  If A = [aij] is a square matrix of order n, then elements (entries) a11, a22, ..., ann\nare said to constitute the diagonal, of the m\n\n[NCERT Grade12 Ch3 — Equality of matrices]\nDefinition 2 Two matrices A = [aij] and B = [bij] are said to be equal if\n(i)\nthey are of the same order\n(ii)\neach element of A is equal to the corresponding element of B, that is aij = bij for\nall i and j.\nFor example, 2\nand\n\n\n\n\n\n\n\n\n\n\n\n\nare equal matrices but 3\nand\n\n\n\n\n\n\n\n\n\n\n\n\nare\nnot equal matrices. Symbolically, if two matrices A and B are equal, we write A = B.\nIf\n1.5\nx\ny\nz\na\nb\nc\n−\n\n\n\n\n\n\n\n= \n\n\n\n\n\n\n\n\n\n\n\n, then x = – 1.5, y = 0, z = 2, a =\n6 , b = 3, c = 2\nExample 4 If\nx\nz\ny\ny\na\nc\nb\nb\n+\n+\n−\n−\n\n\n\n\n\n\n\n\n−\n−\n= −\n−\n+\n\n\n\n\n\n\n\n\n−\n−\n+\n−\n\n\n\n\nFind the values of a, b, c, x, y and z.\nSolution As the given matrices are equal, therefore, their corresponding elements\nmust be equal. Comparing the corresponding elements, we get\nx + 3 = 0,\nz + 4 = 6,\n2y – 7 = 3y – 2\na – 1 = – 3,\n0 = 2c + 2\nb – 3 = 2b + 4,\nSimplifying, we get\na = – 2, b = – 7, c = – 1, x = – 3, y = –5, z = 2\nExample 5 Find the values of a, b, c, and d from the following equ",
+  "context_sources": [
+    "ncert:grade12/maths/ch3",
+    "ncert:grade12/maths/ch3",
+    "ncert:grade12/maths/ch3",
+    "ncert:grade12/maths/ch3",
+    "ncert:grade12/maths/ch3"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pair of Linear Equations in Two Variables"
+  ],
+  "prerequisites_descriptions": {
+    "Pair of Linear Equations in Two Variables": "Solving systems graphically and algebraically"
+  },
+  "successors_to_link": [
+    "Types of Matrices"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Pair of Linear Equations in Two Variables",
+    "Types of Matrices",
+    "Operations on Matrices",
+    "Transpose of a Matrix",
+    "Symmetric and Skew-Symmetric Matrices",
+    "Determinants",
+    "Properties of Determinants",
+    "Minors and Cofactors",
+    "Adjoint and Inverse of a Matrix"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

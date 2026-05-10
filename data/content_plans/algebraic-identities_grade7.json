@@ -1,0 +1,54 @@
+{
+  "concept_slug": "algebraic-identities",
+  "canonical_name": "Algebraic Identities",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Algebra",
+  "description": "Standard identities: (a±b)², a²−b², (a+b+c)², (x+a)(x+b)",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Simplification of Algebraic Expressions"
+  ],
+  "prerequisites_descriptions": {
+    "Simplification of Algebraic Expressions": "Collecting like terms; simplifying using properties"
+  },
+  "successors_to_link": [
+    "Factorisation of Algebraic Expressions",
+    "Surds and Rationalisation",
+    "Factorisation of Polynomials",
+    "Quadratic Equations",
+    "Completing the Square",
+    "Trigonometric Identities",
+    "Binomial Theorem"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Simplification of Algebraic Expressions",
+    "Factorisation of Algebraic Expressions",
+    "Surds and Rationalisation",
+    "Factorisation of Polynomials",
+    "Quadratic Equations",
+    "Completing the Square",
+    "Trigonometric Identities",
+    "Binomial Theorem",
+    "Algebraic Expressions",
+    "Terms, Coefficients and Degree",
+    "Simple Equations in One Variable",
+    "Linear Equations in One Variable"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

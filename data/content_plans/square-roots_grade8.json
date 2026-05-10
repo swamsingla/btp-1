@@ -1,0 +1,52 @@
+{
+  "concept_slug": "square-roots",
+  "canonical_name": "Square Roots",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Number Theory",
+  "description": "Finding square roots by prime factorisation and long division",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade8 Ch1 — Square Numbers]\nWhy are the numbers, 1, 4, 9, 16, …, called squares? We know that the\nnumber of unit squares in a square (the area of a square) is the product\nof its sides. The table below gives the areas of squares with different\nsides.\nWe use the following notation for squares.\n1 × 1 = 12 = 1\n2 × 2 = 22 = 4\n3 × 3 = 32 = 9,\n4 × 4 = 42 = 16\n5 × 5 = 52 = 25.\n...\nIn general, for any number n, we write n × n = n2, which is read as ‛n squared’.\nCan we have a square of sidelength 3\n5 or 2.5 units?\nYes, there area in square units are ( 3\n5)\n2 = ( 3\n5) × ( 3\n5) = ( 9\n25),\nand (2.5)\n2 = (2.5) × (2.5) = 6.25.\nSidelength\n(in units)\nArea\n(in sq units)\n1 × 1 = 1 sq. unit\n2 × 2 = 4 sq. units\n3 × 3 = 9 sq. units\n4 × 4 = 16 sq. units\n5 × 5 = 25 sq. units\n10 × 10 = 100 sq. units\nGanita Prakash | Grade 8\nThe squares of natural numbers are called perfect squares. For\nexample, 1, 4, 9, 16, 25, … are all perfect squares.\nPatterns and Properties of Perfect Squares\nFind the squares of the first 30 natural numbers and fill \n\n[NCERT Grade8 Ch1 — A Pinch of History]\nThe first known list of perfect squares and perfect\ncubes was compiled by the Babylonians as far\nback as 1700 BCE. These lists, found on clay tablets,\nwere used to quickly find square roots and cube\nGanita Prakash | Grade 8\nroots in problems involving land measurement, architectural design,\nand other areas where geometric calculations were necessary.\nIn ancient Sanskrit works the term varga was used both for the square\nfigure or its area, as well as the square power, and the term ghana was\nused both for the solid cube as well as the product of a number with\nitself three times. The fourth power was called varga-varga . These terms\nwere used in India at least from the third century BCE.\nAryabhata (499 CE) states\n“A square figure of four equal sides and the number representing its area\nare called varga. The product of two equal quantities is also called varga.”\nThus, the term varga for square power has its origin in the graphical\nrepresentation of a square figure.\nWhy is the word ‘root’ (\n\n[Wikipedia]\nSquare Roots is a music festival that has been held each summer in the Lincoln Square neighborhood in Chicago since 1998. Organized by the Old Town School of Folk Music and the Lincoln Square Chamber of Commerce, the festival features world music and dance performances from a variety of genres, with particular emphasis on folk and world music.",
+  "context_sources": [
+    "ncert:grade8/maths/ch1",
+    "ncert:grade8/maths/ch1",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Square Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Square Numbers": "Perfect squares; properties of square numbers"
+  },
+  "successors_to_link": [
+    "Pythagorean Theorem",
+    "Heron's Formula",
+    "Irrational Numbers",
+    "Quadratic Formula"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Square Numbers",
+    "Pythagorean Theorem",
+    "Heron's Formula",
+    "Irrational Numbers",
+    "Quadratic Formula",
+    "Divisibility Rules",
+    "Cube Numbers",
+    "Cube Roots",
+    "Pythagorean Triples",
+    "Modular Arithmetic"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

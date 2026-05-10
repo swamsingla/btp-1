@@ -1,0 +1,49 @@
+{
+  "concept_slug": "radian-measure",
+  "canonical_name": "Radian Measure",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Trigonometry",
+  "description": "Arc length = rθ; conversion between degrees and radians",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch3 — Radian measure]\nthe radian measure. Angle subtended at the centre by an arc of length 1 unit in a\nunit circle (circle of radius 1 unit) is said to have a measure of 1 radian. In the Fig\n3.4(i) to (iv), OA is the initial side and OB is the terminal side. The figures show the\nangles whose measures are 1 radian, –1 radian, 1 1\n2  radian and –1 1\n2  radian.\n(i)\n(ii)\n(iii)\nFig  3.4 (i) to (iv)\n(iv)\nWe know that the circumference of a circle of radius 1 unit is 2π. Thus, one\ncomplete revolution of the initial side subtends an angle of  2π radian.\nMore generally, in a circle of radius r, an arc of length r will subtend an angle of\n1 radian. It is well-known that equal arcs of a circle subtend equal angle at the centre.\nSince in a circle of radius r, an arc of length r subtends an angle whose measure is 1\nradian, an arc of length l will subtend an angle whose measure is l\nr  radian. Thus, if in\na circle of radius r, an arc of length l subtends an angle θ radian at the centre, we have\nθ  = l\nr   or  l  = r θ.\n\n\n[NCERT Grade11 Ch3 — Degree measure]\n\na revolution, the angle is said to have a measure of one degree, written as 1°.  A degree is\ndivided into 60 minutes, and a minute is divided into 60 seconds . One sixtieth of a degree is\ncalled a minute, written as 1′, and one sixtieth of a minute is called a second, written as 1″.\nThus,\n1° = 60′,\n1′ = 60″\nSome of the angles whose measures are 360°,180°, 270°, 420°, – 30°, – 420° are\nshown in Fig 3.3.\nFig  3.3\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS     45\n3.2.2  Radian measure  There is another unit for measurement of an angle, called\n\n[NCERT Grade11 Ch3 — Relation between degree and radian]\nan angle whose radian measure is 2π and its degree measure is 360°, it follows that\n2π radian = 360°\nor\nπ radian = 180°\nThe above relation enables us to express a radian measure in terms of degree\nmeasure and a degree measure in terms of radian measure. Using approximate value\nof π as 22\n7 , we have\n1 radian = 180\nπ\n° = 57° 16′ approximately.\nAlso\n1° = π\n180  radian  =  0.01746 radian approximately.\nThe relation between degree measures and radian measure of some common angles\nare given in the following table:\nDegree\n30°\n45°\n60°\n90°\n180°\n270°\n360°\nRadian\nπ\nπ\nπ\nπ\nπ\n3π\n2π\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS     47\nNotational Convention\nSince angles are measured either in degrees or in radians, we adopt the convention\nthat whenever we write angle θ°, we mean the angle whose degree measure is θ and\nwhenever we write angle β, we mean the angle whose radian measure is β.\nNote that when an angle is expressed in radians, the word ‘radian’ is frequently\nomitted. Thus,\nπ\nπ\n180 and\n=\n°\n=\n°  ar",
+  "context_sources": [
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Measuring Angles with Protractor",
+    "Circumference of a Circle"
+  ],
+  "prerequisites_descriptions": {
+    "Measuring Angles with Protractor": "Using a protractor to measure angles in degrees",
+    "Circumference of a Circle": "C = 2πr or πd; introduction of π"
+  },
+  "successors_to_link": [
+    "Trigonometric Functions"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Measuring Angles with Protractor",
+    "Circumference of a Circle",
+    "Trigonometric Functions",
+    "Sum and Difference Formulas",
+    "Multiple and Sub-multiple Angle Formulas",
+    "Product-to-Sum and Sum-to-Product Formulas",
+    "Trigonometric Equations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

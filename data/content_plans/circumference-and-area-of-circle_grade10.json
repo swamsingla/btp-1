@@ -1,0 +1,51 @@
+{
+  "concept_slug": "circumference-and-area-of-circle",
+  "canonical_name": "Circumference and Area of Circle",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Mensuration",
+  "description": "Advanced problems involving circles; sector and segment intro",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Area of a Circle",
+    "Circumference of a Circle"
+  ],
+  "prerequisites_descriptions": {
+    "Area of a Circle": "A = πr²",
+    "Circumference of a Circle": "C = 2πr or πd; introduction of π"
+  },
+  "successors_to_link": [
+    "Surface Area of Cylinder",
+    "Surface Area of Cone",
+    "Surface Area of Sphere",
+    "Area of Sector and Segment of a Circle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Area of a Circle",
+    "Circumference of a Circle",
+    "Surface Area of Cylinder",
+    "Surface Area of Cone",
+    "Surface Area of Sphere",
+    "Area of Sector and Segment of a Circle",
+    "Surface Area and Volume of Combined Solids",
+    "Frustum of a Cone"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

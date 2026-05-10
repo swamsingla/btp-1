@@ -1,0 +1,54 @@
+{
+  "concept_slug": "linear-equations-two-variables",
+  "canonical_name": "Linear Equations in Two Variables",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Algebra",
+  "description": "ax + by + c = 0; graphing; solution as ordered pair",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade9 Ch4 — Linear Equations]\nLet us first recall what you have studied so far. Consider the following equation:\n2x + 5 = 0\nIts solution, i.e., the root of the equation, is\n−\n. This can be represented on the\nnumber line as shown below:\nFig. 4.1\nReprint 2025-26\nWhile solving an equation, you must always keep the following points in mind:\nThe solution of a linear equation is not affected when:\n(i)\nthe same number is added to (or subtracted from) both the sides of the equation.\n(ii) you multiply or divide both the sides of the equation by the same non-zero\nnumber.\nLet us now consider the following situation:\nIn a One-day International Cricket match between India and Sri Lanka played in\nNagpur, two Indian batsmen together scored 176 runs. Express this information in the\nform of an equation.\nHere, you can see that the score of neither of them is known, i.e., there are two\nunknown quantities. Let us use x and y to denote them. So, the number of runs scored\nby one of the batsmen is x, and the number of runs scored by the \n\n[NCERT Grade9 Ch4 — Introduction]\nIn earlier classes, you have studied linear equations in one variable. Can you write\ndown a linear equation in one variable? You may say that x + 1 = 0, x +\n2  = 0 and\n2 y + 3  = 0 are examples of linear equations in one variable. You also know that\nsuch equations have a unique (i.e., one and only one) solution. You may also remember\nhow to represent the solution on a number line. In this chapter, the knowledge of linear\nequations in one variable shall be recalled and extended to that of two variables. You\nwill be considering questions like: Does a linear equation in two variables have a\nsolution? If yes, is it unique? What does the solution look like on the Cartesian plane?\nYou shall also use the concepts you studied in Chapter 3 to answer these questions.\n4.2 Linear Equations",
+  "context_sources": [
+    "ncert:grade9/maths/ch4",
+    "ncert:grade9/maths/ch4"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Linear Equations in One Variable",
+    "Cartesian Coordinate System"
+  ],
+  "prerequisites_descriptions": {
+    "Linear Equations in One Variable": "Equations reducible to the form ax + b = 0 with rational coefficients",
+    "Cartesian Coordinate System": "x-y plane; quadrants; plotting ordered pairs"
+  },
+  "successors_to_link": [
+    "Pair of Linear Equations in Two Variables",
+    "Graphing Linear Equations"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Linear Equations in One Variable",
+    "Cartesian Coordinate System",
+    "Pair of Linear Equations in Two Variables",
+    "Graphing Linear Equations",
+    "Algebraic Identities",
+    "Laws of Exponents for Real Numbers",
+    "Polynomials in One Variable",
+    "Remainder Theorem",
+    "Factor Theorem",
+    "Zeroes of a Polynomial",
+    "Factorisation of Polynomials",
+    "Logarithms"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

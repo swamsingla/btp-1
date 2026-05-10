@@ -1,0 +1,22 @@
+[
+  {
+    "canonical_name": "This Way or That way, All ways lead to the bay",
+    "slug": "this-way-or-that-way-all-ways-lead-to-the-bay",
+    "aliases": [],
+    "domain": "Geometry",
+    "area": "Similar Triangles",
+    "parent": "similar-triangles",
+    "_id": "similarity-in-change",
+    "grades": [
+      8
+    ],
+    "importance-by-grade": {
+      "8": 5
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

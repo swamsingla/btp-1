@@ -1,0 +1,39 @@
+{
+  "concept_slug": "converse-of-pythagorean-theorem",
+  "canonical_name": "Converse of Pythagorean Theorem",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Geometry",
+  "description": "If a²+b²=c² then the triangle is right-angled",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pythagorean Theorem"
+  ],
+  "prerequisites_descriptions": {
+    "Pythagorean Theorem": "In a right triangle: a² + b² = c²"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Pythagorean Theorem",
+    "Quadrilaterals",
+    "Properties of Parallelogram",
+    "Properties of Rhombus, Rectangle and Square",
+    "Kite and Trapezium Properties",
+    "Circles — Basic Properties",
+    "Perpendicular Bisector"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

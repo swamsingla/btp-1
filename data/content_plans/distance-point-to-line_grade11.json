@@ -1,0 +1,42 @@
+{
+  "concept_slug": "distance-point-to-line",
+  "canonical_name": "Distance of a Point from a Line",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "|ax₁+by₁+c|/√(a²+b²)",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch9 — Distance of a Point]\nThe distance of a point from a line is the length of the perpendicular drawn from the\npoint to the line. Let L : Ax + By + C = 0 be a line, whose distance from the point\nP (x1, y1) is d. Draw a perpendicular PM from the point P to the line L (Fig 9.14). If the\nReprint 2025-26\nSTRAIGHT LINES       165\nline meets the x-and y-axes at the points Q and R, respectively. Then, coordinates of\nthe points are    Q\nC\nA ,\n\n\n−\n\n\n\nand R\nC\nB\n,\n\n\n−\n\n\n\n. Thus, the area of the triangle PQR is\ngiven by\narea\n( PQR)\nPM.QR\n∆\n=\n, which gives\n2 area (∆PQR)\nPM =\nQR\n... (1)\nAlso, area\n(\n)\nC\nC\nC\n(∆PQR)\nB\nA\nB\nx\ny\ny\n\n\n\n\n\n=\n+\n+ −\n−\n−\n+\n−\n\n\n\n\n\n\n\n\n\n\nC\nC\nC\nB\nA\nAB\ny\nx\n=\n+\n+\nor\nC\n2 area (∆PQR)\nA\nB\nC\nand\nAB .\n,\ny\nx\n=\n+\n+\n(\n)\nC\nC\nC\nQR\nA\nB\nAB\nA\nB\n\n\n=\n+\n=\n+\n+\n−\n\n\n\n\nSubstituting the values of area (∆PQR) and QR in (1), we get\nA\nB\nC\nPM\nA\nB\ny\nx +\n+\n=\n+\nFig 9.14\nReprint 2025-26\nor\nA\nB\nC\nA\nB\ny\nx\nd\n+\n+\n=\n+\n.\nThus, the perpendicular distance (d) of a line Ax + By+ C = 0 from a point (x1, y1)\nis",
+  "context_sources": [
+    "ncert:grade11/maths/ch9"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "General Equation of a Line"
+  ],
+  "prerequisites_descriptions": {
+    "General Equation of a Line": "ax+by+c=0; converting between forms"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "General Equation of a Line",
+    "Slope of a Line",
+    "Equation of a Straight Line",
+    "Angle Between Two Lines",
+    "Family of Lines",
+    "Equation of a Circle",
+    "Conic Sections — Introduction",
+    "Parabola"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

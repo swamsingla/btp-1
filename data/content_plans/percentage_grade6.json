@@ -1,0 +1,51 @@
+{
+  "concept_slug": "percentage",
+  "canonical_name": "Percentage",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Proportional Reasoning",
+  "description": "A ratio expressed per hundred",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch6 — Perimeter]\nDo you remember what the perimeter of a closed plane figure is?\nLet us refresh our understanding!\nThe perimeter of any closed plane figure is the distance covered\nalong its boundary when you go around it once. For a polygon, i.e.,\na closed plane figure made up of line segments, the perimeter is\nsimply the sum of the lengths of its all sides, i.e., the total distance\nalong its outer boundary.\nThe perimeter of a polygon = the sum of the lengths of its all sides.\nLet us revise the formulas for the perimeter of rectangles, squares,\nand triangles.\nPerimeter of a rectangle\nConsider a rectangle ABCD whose length and breadth are 12 cm and\n8 cm, respectively. What is its perimeter?\nPerimeter of the rectangle = \u0007Sum of the lengths of its four sides\n= AB + BC + CD + DA\nA\n12 cm\nB\n8 cm\nD\nC\nReprint 2025-26\nGanita Prakash | Grade 6\n= AB + BC + AB + BC\n= 2 × AB + 2 × BC\n= 2 × (AB + BC)\n= 2 × (12 cm + 8 cm)\n= 2 × (20 cm)\n= 40 cm.\nFrom this example, we see that —\nPerimeter of a rectangle = length + brea\n\n[Wikipedia]\nIn mathematics, a percentage, percent, or per cent is a number or ratio expressed as a fraction of 100. It is often denoted using the percent sign (%), although the abbreviations pct., pct, and sometimes pc are also used. A percentage is a dimensionless number, primarily used for expressing proportions, but percent is nonetheless a unit of measurement in its orthography and usage.",
+  "context_sources": [
+    "ncert:grade6/maths/ch6",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Decimals",
+    "Fractions",
+    "Ratios and Proportions"
+  ],
+  "prerequisites_descriptions": {
+    "Decimals": "Representing fractions with denominators as powers of 10",
+    "Fractions": "Numbers of the form a/b representing parts of a whole",
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios"
+  },
+  "successors_to_link": [
+    "Percentage Increase and Decrease",
+    "Profit, Loss and Discount",
+    "Simple Interest"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Decimals",
+    "Fractions",
+    "Ratios and Proportions",
+    "Percentage Increase and Decrease",
+    "Profit, Loss and Discount",
+    "Simple Interest"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

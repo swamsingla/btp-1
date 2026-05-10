@@ -1,0 +1,33 @@
+[
+  {
+    "canonical_name": "Relations Among Number Sequences",
+    "slug": "relations-among-number-sequences",
+    "aliases": [],
+    "domain": "Maths",
+    "area": "Number Systems",
+    "parent": null,
+    "grades": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "importance-by-grade": {
+      "6": 5,
+      "7": 4,
+      "8": 3,
+      "9": 2,
+      "10": 1,
+      "11": 0,
+      "12": -1
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

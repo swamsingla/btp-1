@@ -1,0 +1,51 @@
+{
+  "concept_slug": "matrix-operations",
+  "canonical_name": "Operations on Matrices",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Linear Algebra",
+  "description": "Addition, scalar multiplication, matrix multiplication; properties",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch3 — Operations on Matrices]\nIn this section, we shall introduce certain operations on matrices, namely, addition of\nmatrices, multiplication of a matrix by a scalar, difference and multiplication of matrices.\n3.4.1  Addition of matrices\n\n[NCERT Grade12 Ch3 — Equality of matrices]\nDefinition 2 Two matrices A = [aij] and B = [bij] are said to be equal if\n(i)\nthey are of the same order\n(ii)\neach element of A is equal to the corresponding element of B, that is aij = bij for\nall i and j.\nFor example, 2\nand\n\n\n\n\n\n\n\n\n\n\n\n\nare equal matrices but 3\nand\n\n\n\n\n\n\n\n\n\n\n\n\nare\nnot equal matrices. Symbolically, if two matrices A and B are equal, we write A = B.\nIf\n1.5\nx\ny\nz\na\nb\nc\n−\n\n\n\n\n\n\n\n= \n\n\n\n\n\n\n\n\n\n\n\n, then x = – 1.5, y = 0, z = 2, a =\n6 , b = 3, c = 2\nExample 4 If\nx\nz\ny\ny\na\nc\nb\nb\n+\n+\n−\n−\n\n\n\n\n\n\n\n\n−\n−\n= −\n−\n+\n\n\n\n\n\n\n\n\n−\n−\n+\n−\n\n\n\n\nFind the values of a, b, c, x, y and z.\nSolution As the given matrices are equal, therefore, their corresponding elements\nmust be equal. Comparing the corresponding elements, we get\nx + 3 = 0,\nz + 4 = 6,\n2y – 7 = 3y – 2\na – 1 = – 3,\n0 = 2c + 2\nb – 3 = 2b + 4,\nSimplifying, we get\na = – 2, b = – 7, c = – 1, x = – 3, y = –5, z = 2\nExample 5 Find the values of a, b, c, and d from the following equ\n\n[NCERT Grade12 Ch3 — Types of Matrices]\nIn this section, we shall discuss different types of matrices.\n(i)\nColumn matrix\nA matrix is said to be a column matrix if it has only one column.\nFor example,\nA\n1/ 2\n\n\n\n\n\n\n\n\n=\n−\n\n\n\n\n\n\nis a column matrix of order 4 × 1.\nIn general, A = [aij] m × 1 is a column matrix of order m × 1.\n(ii)\nRow matrix\nA matrix is said to be a row matrix if it has only one row.\nFor example,\n1 4\nB\n5 2 3\n×\n\n\n= −\n\n\n\n\nis a row matrix.\nIn general, B = [bij] 1 × n is a row matrix of order 1 × n.\n(iii)\nSquare matrix\nA matrix in which the number of rows are equal to the number of columns, is\nsaid to be a square matrix. Thus an m × n matrix is said to be a square matrix if\nm = n and is known as a square matrix of order ‘n’.\nFor example\nA\n3 2\n−\n\n\n\n\n\n\n= \n\n\n\n−\n\n\nis a square matrix of order 3.\nIn general, A = [aij] m × m is a square matrix of order m.\nANote  If A = [aij] is a square matrix of order n, then elements (entries) a11, a22, ..., ann\nare said to constitute the diagonal, of the m\n\n[NCERT Grade12 Ch3 — Multiplication of matrices]\nSuppose Meera and Nadeem are two friends. Meera wants to buy 2 pens and 5 story\nbooks, while Nadeem needs 8 pens and 10 story books. They both go to a shop to\nenquire about the rates which are quoted as follows:\nPen – ` 5 each, story book – ` 50 each.\nHow much money does each need to spend? Clearly, Meera needs ` (5 × 2 + 50 × 5)\nthat is ` 260, while Nadeem needs (8 × 5 + 50 × 10) `, that is ` 540. In terms of matrix\nrepresentation, we can write the above information as follows:\nRequirements\nPrices per piece (in Rupees) Money needed (in Rupees)\n\n\n\n\n\n\n\n\n\n\n\n\n5 50\n8 5\n×\n+\n×\n\n\n\n\n=\n\n\n\n\n×\n+\n×\n\n\n\n\nSuppose that they enquire about the rates from another shop, quoted as follows:\npen – ` 4 each,  story book – ` 40 each.\nNow, the money required by Meera and Nadeem to make purchases will be\nrespectively ` (4 × 2 + 40 × 5) = ` 208 and ` (8 × 4 + 10 × 40) = ` 432\nReprint 2025-26\nMATRICES         51\nAgain, the above information can be represented as follows:\nRequirements\nPrices\n\n[NCERT Grade12 Ch3 — Properties of transpose of the matrices]\nWe now state the following properties of transpose of matrices without proof. These\nmay be verified by taking suitable examples.\nFor any matrices A and B of suitable orders, we have\n(i)\n(A′)′ = A,\n(ii)\n(kA)′ = kA′ (where k is any constant)\n(iii)\n(A + B)′ = A′ + B′\n(iv)\n(A B)′ = B′ A′\nExample 20 If\nA\nand B\n\n\n−\n\n\n=\n=\n\n\n\n\n\n\n\n\n, verify that\n(i)\n(A′)′ = A,\n(ii)\n(A + B)′ = A′ + B′,\n(iii)\n(kB)′ = kB′, where k is any constant.\nReprint 2025-26\nSolution\n(i)\nWe have\nA =\n(\n)\nA\n3 2\nA\nA\n\n\n\n\n\n\n\n\n′\n′\n′\n⇒\n=\n⇒\n=\n=\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThus\n(A′)′ = A\n(ii)\nWe have\nA = 3\n2 ,\n\n\n\n\n\n\nB =\nA\nB\n2 4\n\n\n−\n\n\n−\n⇒\n+\n= \n\n\n\n\n\n\n\nTherefore\n(A + B)′ =\n\n\n\n\n−\n\n\n\n\n\n\nNow\nA′ =\n2 1\n3 2 , B\n1 2 ,\n2 4\n\n\n\n\n\n\n\n\n′ = −\n\n\n\n\n\n\n\n\n\n\n\n\nSo\nA′ + B′ =\n3 1 4\n\n\n\n\n−\n\n\n\n\n\n\nThus\n(A + B)′ = A′ + B′\n(iii)\nWe have\nkB = k 2\nk\nk\nk\nk\nk\nk\n−\n−\n\n\n\n\n=\n\n\n\n\n\n\n\n\nThen\n(kB)′ =\n2 1\n1 2\nB\n2 4\nk\nk\nk\nk\nk\nk\nk\nk\n\n\n\n\n\n\n\n\n′\n−\n=\n−\n=\n\n\n\n\n\n\n\n\n\n\n\n\nThus\n(kB)′",
+  "context_sources": [
+    "ncert:grade12/maths/ch3",
+    "ncert:grade12/maths/ch3",
+    "ncert:grade12/maths/ch3",
+    "ncert:grade12/maths/ch3",
+    "ncert:grade12/maths/ch3"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Types of Matrices"
+  ],
+  "prerequisites_descriptions": {
+    "Types of Matrices": "Row, column, square, diagonal, scalar, identity, zero matrices"
+  },
+  "successors_to_link": [
+    "Transpose of a Matrix",
+    "Determinants"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Types of Matrices",
+    "Transpose of a Matrix",
+    "Determinants",
+    "Matrices",
+    "Symmetric and Skew-Symmetric Matrices",
+    "Properties of Determinants",
+    "Minors and Cofactors",
+    "Adjoint and Inverse of a Matrix"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

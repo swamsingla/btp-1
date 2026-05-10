@@ -1,0 +1,52 @@
+{
+  "concept_slug": "limits-algebra",
+  "canonical_name": "Algebra of Limits",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Calculus",
+  "description": "Limit laws: sum, product, quotient; squeeze theorem",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch12 — Algebra of limits]\nprocess respects addition, subtraction, multiplication and division as long as the limits\nand functions under consideration are well defined. This is not a coincidence. In fact,\nbelow we formalise these as a theorem without proof.\nTheorem 1 Let f  and g be two functions such that both lim\nx\na\n→ f (x) and  lim\nx\na\n→ g(x) exist.\nThen\n(i) Limit of sum of two functions is sum of the limits of the functions, i.e.,\nlim\nx\na\n→[f(x) + g (x)] =  lim\nx\na\n→ f(x) +  lim\nx\na\n→ g(x).\n(ii)\nLimit of difference of two functions is difference of the limits of the functions, i.e.,\nlim\nx\na\n→[f(x) – g(x)] =  lim\nx\na\n→ f(x) –  lim\nx\na\n→ g(x).\n(iii)\nLimit of product of two functions is product of the limits of the functions, i.e.,\nlim\nx\na\n→ [f(x) . g(x)] =  lim\nx\na\n→ f(x).  lim\nx\na\n→ g(x).\n(iv)\nLimit of quotient of two functions is quotient of the limits of the functions (whenever\nthe denominator is non zero), i.e.,\n( )\n( )\n( )\n( )\nlim\nlim\nlim\nx\na\nx\na\nx\na\nf x\nf x\ng x\ng x\n→\n→\n→\n=\nANote In particular as a speci\n\n[NCERT Grade11 Ch12 — Introduction]\nThis chapter is an introduction to Calculus. Calculus is that\nbranch of mathematics which mainly deals with the study\nof change in the value of a function as the points in the\ndomain change. First, we give an intuitive idea of derivative\n(without actually defining it). Then we give a naive definition\nof limit and study some algebra of limits. Then we come\nback to a definition of derivative and study some algebra\nof derivatives. We also obtain derivatives of certain\nstandard functions.\n12.2  Intuitive Idea of Derivatives\nSir Issac Newton\n\n[NCERT Grade11 Ch12 — Limits]\nThe above discussion clearly points towards the fact that we need to understand limit-\ning process in greater clarity. We study a few illustrative examples to gain some famil-\niarity with the concept of limits.\nConsider the function f(x) = x2. Observe that as x takes values very close to 0,\nthe value of f(x) also moves towards 0 (See Fig 2.10 Chapter 2). We say\n( )\nlim\nx\nf\nx\n→\n=\n(to be read as limit of f (x) as x tends to zero equals zero).  The limit of f (x) as x tends\nto zero is to be thought of as the value f (x) should assume at x = 0.\nIn general as x → a, f (x) → l, then l is called limit of the function f (x) which is\nsymbolically written as\n( )\nlim\nx\na f\nx\nl\n→\n= .\nConsider the following function g(x) = |x|, x ≠0. Observe that g(0) is not defined.\nComputing the value of g(x) for values of x very\nnear to 0, we see that the value of g(x) moves\ntowards 0. So,\nlim\nx→ g(x) = 0. This is intuitively\nclear from the graph of y = |x| for x ≠0.\n(See Fig 2.13, Chapter 2).\nConsider the follo\n\n[NCERT Grade11 Ch14 — Algebra of events]\nways of combining two or more sets, viz, union, intersection, difference, complement\nof a set etc. Like-wise we can combine two or more events by using the analogous set\nnotations.\nLet A, B, C be events associated with an experiment whose sample space is S.\n1. Complementary Event For every event A, there corresponds another event\nA′called the complementary event to A. It is also called the event ‘not A’.\nFor example, take the experiment ‘of tossing three coins’. An associated sample\nspace is\nS = {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT}\nLet  A={HTH, HHT, THH} be the event ‘only one tail appears’\nClearly for the outcome HTT, the event A has not occurred. But we may say that\nthe event ‘not A’ has occurred. Thus, with every outcome which is not in A, we say\nthat ‘not A’ occurs.\nThus the complementary event ‘not A’ to the event A is\nA′ = {HHH, HTT, THT, TTH, TTT}\nor\nA′ = {ω : ω ∈ S and ω ∉A} = S – A.\n2. The Event ‘A or B’ Recall that union of two sets A and B denoted by A ∪ B\ncontains all t\n\n[NCERT Grade11 Ch4 — Algebra of Complex Numbers]\nIn this Section, we shall develop the algebra of complex numbers.\n4.3.1   Addition of two complex numbers Let z1 = a + ib and z2 = c + id be any two",
+  "context_sources": [
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch14",
+    "ncert:grade11/maths/ch4"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Limits — Intuitive Idea"
+  ],
+  "prerequisites_descriptions": {
+    "Limits — Intuitive Idea": "Left/right-hand limits; limit of a function at a point"
+  },
+  "successors_to_link": [
+    "Standard Limits",
+    "Derivatives — First Principles",
+    "Continuity of Functions",
+    "L'Hôpital's Rule"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Limits — Intuitive Idea",
+    "Standard Limits",
+    "Derivatives — First Principles",
+    "Continuity of Functions",
+    "L'Hôpital's Rule",
+    "Basic Differentiation Rules",
+    "Derivatives of Trigonometric Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

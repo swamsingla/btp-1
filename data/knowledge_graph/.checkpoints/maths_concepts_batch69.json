@@ -1,0 +1,23 @@
+[
+  {
+    "canonical_name": "Area and Perimeter in Rectilinear Figures",
+    "slug": "area-and-perimeter-in-rectilinear-figures",
+    "aliases": [],
+    "domain": "Geometry",
+    "area": "",
+    "parent": "",
+    "grades": [
+      6,
+      8
+    ],
+    "importance_BY_GRADE": {
+      "6": 5,
+      "8": 4
+    },
+    "source_BOARDS": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

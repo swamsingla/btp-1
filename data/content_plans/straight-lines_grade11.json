@@ -1,0 +1,62 @@
+{
+  "concept_slug": "straight-lines",
+  "canonical_name": "Equation of a Straight Line",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "Point-slope, slope-intercept, two-point, intercept forms",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade11 Ch9 — Introduction]\nWe are familiar with two-dimensional coordinate geometry\nfrom earlier classes. Mainly, it is a combination of algebra\nand geometry. A systematic study of geometry by the use\nof algebra was first carried out by celebrated French\nphilosopher and mathematician René Descartes, in his book\n‘La Géométry, published in 1637. This book introduced the\nnotion of the equation of a curve and related analytical\nmethods into the study of geometry. The resulting\ncombination of analysis and geometry is referred now as\nanalytical geometry. In the earlier classes, we initiated\nthe study of coordinate geometry, where we   studied about\ncoordinate axes, coordinate plane, plotting of points in a\nplane, distance between two points, section formulae, etc. All these concepts are the\nbasics of coordinate geometry.\nLet us have a brief recall of coordinate geometry done in earlier classes. To\nrecapitulate, the location of the points (6, – 4) and\n(3, 0) in the XY-plane is shown in Fig 9.1.\nWe may note that the poi\n\n[NCERT Grade11 Ch9 — Slope of a Line]\nA line in a coordinate plane forms two angles with the x-axis, which are supplementary.\nReprint 2025-26\nSTRAIGHT LINES       153\nThe angle (say) θ made by the line l with positive\ndirection of x-axis and measured anti clockwise\nis called the inclination of the line. Obviously\n0° ≤ θ ≤ 180° (Fig 9.2).\nWe observe that lines parallel to x-axis, or\ncoinciding with x-axis, have inclination of 0°. The\ninclination of a vertical line (parallel to or\ncoinciding with y-axis) is 90°.\nDefinition 1 If θ is the inclination of a line\nl, then tan θ is called the slope or gradient of\nthe line l.\nThe slope of a line whose inclination is 90° is not\ndefined.\nThe slope of a line is denoted by m.\nThus, m = tan θ, θ ≠ 90°\nIt may be observed that the slope of x-axis is zero and slope of y-axis is not defined.\n9.2.1 Slope of a line when coordinates of any two points on the line are given\nFig 9.2\n\n[NCERT Grade11 Ch9 — Slope of a line when coordinates of any two points on the line are given]\nWe know that a line is completely determined when we are given two points on it.\nHence, we proceed to find the slope of a\nline in terms of the coordinates of two points\non the line.\nLet P(x1, y1) and Q(x2, y2) be two\npoints on non-vertical line l whose inclination\nis θ. Obviously, x1 ≠ x2, otherwise the line\nwill become perpendicular to x-axis and its\nslope will not be defined. The inclination of\nthe line l may be acute or obtuse. Let us\ntake these two cases.\nDraw perpendicular QR to x-axis and\nPM perpendicular to RQ as shown in\nFigs. 9.3 (i) and (ii).\nCase 1 When angle  θ is acute:\nIn Fig 9.3 (i), ∠MPQ =  θ.\n... (1)\nTherefore, slope of line l = m = tan θ.\nBut in ∆MPQ, we have\nMQ\ntanθ\n.\nMP\ny\ny\nx\nx\n−\n=\n=\n−\n... (2)\nFig 9. 3 (i)\nReprint 2025-26\nFrom equations (1) and (2), we have\n.\ny\ny\nm\nx\nx\n−\n=\n−\nCase II  When angle θ is obtuse:\nIn Fig 9.3 (ii), we have\n∠MPQ = 180° –  θ.\nTherefore,  θ = 180° – ∠MPQ.\nNow, slope of the line l\nm = tan θ\n= tan ( 180° – ∠MPQ) = – tan  ∠MPQ\n=\nMQ\nMP\ny\ny\nx\nx\n−\n−\n\n[NCERT Grade11 Ch9 — Conditions for parallelism and perpendicularity of lines in terms of their]\nslopes In a coordinate plane, suppose that non-vertical lines l1 and l2 have slopes m1\nand m2, respectively. Let their inclinations be α and\nβ, respectively.\nIf the line l1 is parallel to l2 (Fig 9.4), then their\ninclinations are equal, i.e.,\nα = β, and hence, tan α = tan β\nTherefore\nm1 = m2, i.e., their slopes are equal.\nConversely, if the slope of two lines l1 and l2\nis same, i.e.,\nm1 = m2.\nThen\ntan α = tan β.\nBy the property of tangent function (between 0° and 180°), α = β.\nTherefore, the lines are parallel.\nFig 9. 4\nReprint 2025-26\nSTRAIGHT LINES       155\nHence, two non vertical lines l1 and l2 are parallel if and only if their slopes\nare equal.\nIf the lines l1 and l2 are perpendicular (Fig 9.5), then β = α + 90°.\nTherefore, tan β = tan (α + 90°)\n= – cot α =\ntanα\n−\ni.e.,\nm2 =\nm\n−\nor\nm1  m2  = – 1\nConversely, if m1  m2  =  – 1, i.e., tan α tan β = – 1.\nThen tan α = – cot β = tan (β + 90°) or tan (β – 90°)\nTherefore,\nα  and β differ by 90°.\nThus, lines l1 and l2 are perpendicular to\n\n[NCERT Grade11 Ch9 — Angle between two lines]\nthen we find that these lines are either intersecting or parallel. Here we will discuss the\nangle between two lines in terms of their slopes.\nLet L1 and L2 be two non-vertical lines with slopes m1 and m2, respectively. If α1\nand α2 are the inclinations of lines L1 and L2, respectively. Then\nα\ntan\nand\nα\ntan\n=\n=\nm\nm\n.\nWe know that when two lines intersect each other, they make two pairs of\nvertically opposite angles such that sum of any two adjacent angles is 180°. Let θ and\nφ be the adjacent angles between the lines L1 and L2 (Fig 9.6). Then\nθ = α2 – α1 and α1, α2  ≠ 90°.\nTherefore  tan θ = tan (α2 – α1)\ntan\ntan\n1 tan\ntan\nm\nm\nm m\nα\nα\nα\nα\n−\n−\n=\n=\n+\n+\n(as 1 + m1m2 ≠ 0)\nand φ = 180° – θ so that\ntan φ = tan (180° – θ ) = – tan θ =\n–\nm\nm\nm m\n−\n+\n, as 1 + m1m2 ≠ 0\nFig 9. 6\nNow, there arise two cases:\nReprint 2025-26\nSTRAIGHT LINES       157\nCase I  If\n–\nm\nm\nm m\n+\nis positive, then tan θ will be positive and tan φ will be negative,\nwhich means θ will be acute and φ will be obtuse.\nCase II  If\n\n[Wikipedia]\nIn geometry, a straight line, usually abbreviated line, is an infinitely long object with no width, depth, or curvature. It is a special case of a curve and an idealization of such physical objects as a straightedge, a taut string, or a ray of light. Lines are spaces of dimension one,\n[…truncated]",
+  "context_sources": [
+    "ncert:grade11/maths/ch9",
+    "ncert:grade11/maths/ch9",
+    "ncert:grade11/maths/ch9",
+    "ncert:grade11/maths/ch9",
+    "ncert:grade11/maths/ch9",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Slope of a Line",
+    "Section Formula and Midpoint"
+  ],
+  "prerequisites_descriptions": {
+    "Slope of a Line": "m = (y₂−y₁)/(x₂−x₁); angle of inclination",
+    "Section Formula and Midpoint": "Internal and external division of a line segment in a given ratio"
+  },
+  "successors_to_link": [
+    "General Equation of a Line",
+    "Angle Between Two Lines",
+    "Family of Lines",
+    "Linear Programming",
+    "Regression Line"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Slope of a Line",
+    "Section Formula and Midpoint",
+    "General Equation of a Line",
+    "Angle Between Two Lines",
+    "Family of Lines",
+    "Linear Programming",
+    "Regression Line",
+    "Distance of a Point from a Line",
+    "Equation of a Circle",
+    "Conic Sections — Introduction",
+    "Parabola"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

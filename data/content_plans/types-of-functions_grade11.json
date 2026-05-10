@@ -1,0 +1,51 @@
+{
+  "concept_slug": "types-of-functions",
+  "canonical_name": "Types of Functions",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "One-one, onto, bijective, constant, identity functions",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch12 — Algebra of derivative of functions]\ninvolve limits in a rather direct fashion, we expect the rules for derivatives to follow\nclosely that of limits. We collect these in the following theorem.\nTheorem 5 Let f and g be two functions such that their derivatives are defined in a\ncommon domain. Then\n(i)\nDerivative of sum of two functions is sum of the derivatives of the\nfunctions.\n( )\n( )\n( )\n( )\nd\nd\nd\nf x\ng x\nf x\ng x\ndx\ndx\ndx\n\n\n+\n=\n+\n\n\n.\n(ii)\nDerivative of difference of two functions is difference of the derivatives of\nthe functions.\n( )\n( )\n( )\n( )\nd\nd\nd\nf x\ng x\nf x\ng x\ndx\ndx\ndx\n\n\n−\n=\n−\n\n\n.\n(iii)\nDerivative of product of two functions is given by the following product\nrule.\n( )\n( )\n.\n( ) . ( )\n( ) .\n( )\nd\nd\nd\nf x\ng x\nf x\ng x\nf x\ng x\ndx\ndx\ndx\n\n=\n+\n\n\n(iv)\nDerivative of quotient of two functions is given by the following quotient\nrule (whenever the denominator is non–zero).\n(\n)\n( ). ( )\n( )\n( )\n( )\n( )\n( )\nd\nd\nf x\ng x\nf x\ng x\nd\nf x\ndx\ndx\ndx\ng x\ng x\n−\n\n=\n\n\n\n\nThe proofs of these follow essentially from the anal\n\n[NCERT Grade11 Ch2 — Algebra of real functions]\nfunctions, subtract a real function from another, multiply a real function by a scalar\n(here by a scalar we mean a real number), multiply two real functions and divide one\nreal function by another.\n(i)\nAddition of two real functions  Let f : X → R and g : X → R be any two real\nfunctions, where X ⊂ R. Then, we define (f + g): X → R by\n(f + g) (x) = f (x) + g (x), for all x ∈ X.\nReprint 2025-26\nRELATIONS AND FUNCTIONS          37\n(ii)\nSubtraction of a real function from another Let f : X → R and g: X → R be\nany two real functions, where X ⊂R. Then, we define (f – g) : X→R by\n(f–g) (x) = f(x) –g(x), for all x ∈ X.\n(iii)\nMultiplication by a scalar Let f : X→R be a real valued function and α be a\nscalar. Here by scalar, we mean a real number. Then the product α f is a function from\nX to R defined by (α f ) (x) =  α f (x), x ∈X.\n(iv)\nMultiplication of two real functions The product (or multiplication) of two real\nfunctions f:X→R and g:X→R is a function fg:X→R defined by\n(fg) (x) = f(x) g(x),\n\n[NCERT Grade11 Ch1 — Intersection of sets]\nwhich are common to both A and B. The symbol ‘∩’ is used to denote the intersection.\nThe intersection of two sets A and B is the set of all those elements which belong to\nboth A and B. Symbolically, we write A ∩ B = {x :  x ∈ A and x ∈ B}.\nExample 15 Consider the sets A and B of Example 12. Find A ∩ B.\nSolution We see that 6, 8 are the only elements which are common to both A and B.\nHence  A ∩ B = { 6, 8 }.\nExample 16 Consider the sets X and Y of Example 14. Find X ∩ Y.\nSolution We see that element ‘Geeta’ is the only element common to both. Hence,\nX ∩ Y = {Geeta}.\nExample 17 Let A = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and B = { 2, 3, 5, 7 }. Find A  ∩ B and\nhence show that A ∩ B = B.\nSolution We have A ∩ B = { 2, 3, 5, 7 } = B. We\nnote that B ⊂ A and that A ∩ B = B.\nDefinition 6 The intersection of two sets A and B\nis the set of all those elements which belong to both\nA and B. Symbolically, we write\nA ∩ B = {x : x ∈ A and x ∈ B}\nThe shaded portion in Fig 1.5 indicates the\nintersection of",
+  "context_sources": [
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch2",
+    "ncert:grade11/maths/ch1"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Functions": "A relation where each input has exactly one output"
+  },
+  "successors_to_link": [
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Inverse Trigonometric Functions"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Functions",
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Inverse Trigonometric Functions",
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Complex Numbers",
+    "Algebra of Complex Numbers",
+    "Modulus and Argument of a Complex Number"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,52 @@
+{
+  "concept_slug": "number-line",
+  "canonical_name": "Number Line",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Systems",
+  "description": "Representation of numbers as points on a straight line; ordering and spacing",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch3 — Supercells]\nObserve the numbers written in the table below. Why are some\nnumbers coloured? Discuss.\nA cell is coloured if the number in it is larger than its adjacent\ncells. The number 626 is coloured as it is larger than 577 and 345,\nwhereas 200 is not coloured as it is smaller than 577. The number\n198 is coloured as it has only one adjacent cell with 109 in it, and 198\nis larger than 109.\nFigure it Out\n1.\t Colour or mark the supercells in the table below.\n2.\t Fill the table below with only 4-digit numbers such that the\nsupercells are exactly the coloured cells.\n3.\t Fill the table below such that we get as many supercells as possible.\nUse numbers between 100 and 1000 without repetitions.\n4.\t Out of the 9 numbers, how many supercells are there in the table\nabove? ___________\n5.\t Find out how many supercells are possible for different\nnumbers of cells.\nDo you notice any pattern? What is the method to fill a given\ntable to get the maximum number of supercells? Explore and\nshare your strategy.\nMath\nT\n\n[NCERT Grade6 Ch3 — Patterns of Numbers on the Number Line]\nWe are quite familiar with number lines now. Let’s see if we can\nplace some numbers in their appropriate positions on the number\nline. Here are the numbers: 2180, 2754, 1500, 3600, 9950, 9590, 1050,\n3050, 5030, 5300 and 8400.\n10,000\n\u0007Figure it Out\n\u0007Identify the numbers marked on the number lines below, and label\nthe remaining positions.\nb.\na.\n15,077 15,078\n15,083\nc.\n86,705 87,705\nd.\n\u0007Put a circle around the smallest number and a box around the\nlargest number in each of the sequences above.\nReprint 2025-26\nGanita Prakash | Grade 6\n3.4 Playing with Digits\n\n[NCERT Grade6 Ch3 — Games and Winning Strategies]\nNumbers can also be used to play games and develop winning\nstrategies.\nHere is a famous game called 21. Play it with a classmate. Then\ntry it at home with your family!\nRules for Game #1: The first player says 1, 2 or 3. Then the two\nplayers take turns adding 1, 2, or 3 to the previous number said. The\nfirst player to reach 21 wins!\nPlay this game several times with your classmate.  Are you starting\nto see the winning strategy?\nWhich player can always win if they play correctly? What is the\npattern of numbers that the winning player should say?\nThere are many variations of this game. Here is another common\nvariation:\nRules for Game #2: The first player says a number between 1 and\n10. Then the two players take turns adding a number between 1 and\n10 to the previous number said. The first player to reach 99 wins!\nPlay this game several times with your classmate. See if you can\nfigure out the corresponding winning strategy in this case! Which\nReprint 2025-26\nGanita Prakash | Grade 6\nplayer\n\n[Wikipedia]\nA number line is a graphical representation of a straight line that serves as spatial representation of numbers, usually graduated like a ruler with a particular origin point representing the number zero and evenly spaced marks in either direction representing integers, imagined to extend infinitely. The association between numbers and points on the line links arithmetical operations on numbers to geometric relations between points, and provides a conceptual framework for learning mathematics.",
+  "context_sources": [
+    "ncert:grade6/maths/ch3",
+    "ncert:grade6/maths/ch3",
+    "ncert:grade6/maths/ch3",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Whole Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Whole Numbers": "Natural numbers together with zero: 0, 1, 2, 3, …"
+  },
+  "successors_to_link": [
+    "Integers",
+    "Rational Numbers on the Number Line",
+    "Cartesian Coordinate System"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Whole Numbers",
+    "Integers",
+    "Rational Numbers on the Number Line",
+    "Cartesian Coordinate System",
+    "Natural Numbers",
+    "Place Value and Indian Numeration",
+    "Operations on Integers",
+    "Fractions",
+    "Types of Fractions",
+    "Equivalent Fractions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,46 @@
+{
+  "concept_slug": "limits-standard",
+  "canonical_name": "Standard Limits",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Calculus",
+  "description": "lim sinx/x = 1; lim (eˣ−1)/x = 1; lim (1+1/n)ⁿ = e",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch13 — Standard Deviation]\nDeviations from mean\n(xi– x )\nindividual observations xi and the unit of their mean x are different from that of variance,\nsince variance involves the sum of squares of  (xi– x ). For this reason, the  proper\nmeasure of dispersion about the mean of a set of observations is expressed as positive\nsquare-root of the variance and is called standard deviation. Therefore, the standard\ndeviation, usually denoted by σ , is given by\n∑\n=\n−\n=\nn\ni\ni\nx\nx\nn\n2)\n(\nσ\n... (1)\nLet us take the following example to illustrate the calculation of variance and\nhence, standard deviation of  ungrouped data.\nExample 8  Find the variance of the following data:\n6, 8, 10, 12, 14, 16, 18, 20, 22, 24\nSolution From the given data we can form the following Table 13.7. The mean is\ncalculated by step-deviation method taking 14 as assumed mean. The number of\nobservations is n = 10\nTable 13.7\nxi\ni\ni\nx\nd\n−\n=\n(xi– x )\n–4\n–9\n–3\n–7\n–2\n–5\n–1\n–3\n–1\nReprint 2025-26\nSTATISTICS            275\nTherefore\nMean x = assumed mean +\nh\nn\nd",
+  "context_sources": [
+    "ncert:grade11/maths/ch13"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Algebra of Limits",
+    "Trigonometric Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Algebra of Limits": "Limit laws: sum, product, quotient; squeeze theorem",
+    "Trigonometric Functions": "Domain, range, period and graphs of sin, cos, tan etc."
+  },
+  "successors_to_link": [
+    "Derivatives of Trigonometric Functions"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Algebra of Limits",
+    "Trigonometric Functions",
+    "Derivatives of Trigonometric Functions",
+    "Limits — Intuitive Idea",
+    "Derivatives — First Principles",
+    "Basic Differentiation Rules"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

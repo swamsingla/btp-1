@@ -1,0 +1,47 @@
+{
+  "concept_slug": "euclid-definitions-axioms-postulates",
+  "canonical_name": "Euclid's Definitions, Axioms and Postulates",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Geometry",
+  "description": "Euclid's 5 postulates and axioms; foundation of deductive geometry",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade9 Ch5 — Euclid’s Definitions, Axioms and Postulates]\nThe Greek mathematicians of Euclid’s time thought of geometry as an abstract model\nof the world in which they lived. The notions of point, line, plane (or surface) and so on\nwere derived from what was seen around them. From studies of the space and solids\nin the space around them, an abstract geometrical notion of a solid object was developed.\nA solid has shape, size, position, and can be moved from one place to another. Its\nboundaries are called surfaces. They separate one part of the space from another,\nand are said to have no thickness. The boundaries of the surfaces are curves or\nstraight lines. These lines end in points.\nConsider the three steps from solids to points (solids-surfaces-lines-points). In\neach step we lose one extension, also called a dimension. So, a solid has three\ndimensions, a surface has two, a line has one and a point has none. Euclid summarised\nthese statements as definitions. He began his exposition by listing 23 definitions in\nBook 1 of the ‘Elements’. A few \n\n[NCERT Grade9 Ch6 — Basic Terms and Definitions]\nRecall that a part (or portion) of a line with two end points is called a line-segment\nand a part of a line with one end point is called a ray. Note that the line segment AB is\ndenoted by AB , and its length is denoted by AB. The ray AB is denoted by AB\n\u0001\u0001\u0001\u0002 , and\na line is denoted by AB\n\u0003\u0001\u0001\u0002 . However, we will not use these symbols, and will denote\nthe line segment AB, ray AB, length AB and line AB by the same symbol, AB. The\nmeaning will be clear from the context. Sometimes small letters l, m, n, etc. will be\nused to denote lines.\nIf three or more points lie on the same line, they are called collinear points;\notherwise they are called non-collinear points.\nRecall that an angle is formed when two rays originate from the same end point.\nThe rays making an angle are called the arms of the angle and the end point is called\nthe vertex of the angle. You have studied different types of angles, such as acute\nangle, right angle, obtuse angle, straight angle and reflex angle in earlier classes",
+  "context_sources": [
+    "ncert:grade9/maths/ch5",
+    "ncert:grade9/maths/ch6"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Points, Lines and Planes"
+  ],
+  "prerequisites_descriptions": {
+    "Points, Lines and Planes": "Fundamental undefined terms: point, line, ray, line segment, plane"
+  },
+  "successors_to_link": [
+    "Lines and Angles — Theorems"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Points, Lines and Planes",
+    "Lines and Angles — Theorems",
+    "Parallel Lines and Transversals",
+    "Properties of Triangles",
+    "Congruence of Triangles",
+    "Similar Triangles",
+    "Constructions of Triangles",
+    "Quadrilaterals",
+    "Properties of Parallelogram",
+    "Pythagorean Theorem"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

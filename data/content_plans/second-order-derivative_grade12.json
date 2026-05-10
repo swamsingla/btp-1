@@ -1,0 +1,47 @@
+{
+  "concept_slug": "second-order-derivative",
+  "canonical_name": "Second Order Derivative",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "d²y/dx²; physical interpretation as acceleration/concavity",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch5 — Second Order Derivative]\nLet\ny = f (x). Then\ndy\ndx  = f ′(x)\n... (1)\nIf f′(x) is differentiable, we may differentiate (1) again w.r.t. x. Then, the left hand\nside becomes d\ndy\ndx\ndx\n\n\n\n\n\n which is called the second order derivative of y w.r.t. x and\nis denoted by\nd y\ndx\n. The second order derivative of f(x) is denoted by f ″(x). It is also\ndenoted by D2 y or y″ or y2 if y = f(x). We remark that higher order derivatives may be\ndefined similarly.\nReprint 2025-26\nExample 35 Find\nd y\ndx\n, if  y = x3 + tan x.\nSolution Given that y = x3 + tan x. Then\ndy\ndx  = 3x2 + sec2 x\nTherefore\nd y\ndx\n=\n(\n)\nsec\nd\nx\nx\ndx\n+\n= 6x + 2 sec x . sec x tan x = 6x + 2 sec2 x tan x\nExample 36 If y = A sin x + B cos x, then prove that\nd y\ny\ndx\n+\n=\n.\nSolution We have\ndy\ndx  = A cos x – B sin x\nand\nd y\ndx\n= d\ndx  (A cos x – B sin x)\n= – A sin x – B cos x = – y\nHence\nd y\ndx\n+ y = 0\nExample 37 If  y = 3e2x + 2e3x, prove that\nd y\ndy\ny\ndx\ndx\n−\n+\n=\n.\nSolution Given that y = 3e2x + 2e3x. Then\ndy\ndx  = 6e2x + 6e3x = 6 (e2x + e3x)\nTherefore\nd \n\n[NCERT Grade12 Ch5 — Derivatives of Functions in Parametric Forms]\nSometimes the relation between two variables is neither explicit nor implicit, but some\nlink of a third variable with each of the two variables, separately, establishes a relation\nbetween the first two variables. In such a situation, we say that the relation between\nReprint 2025-26\nCONTINUITY AND DIFFERENTIABILITY\nthem is expressed via a third variable. The third variable is called the parameter. More\nprecisely, a relation expressed between two variables x and y in the form\nx = f(t), y = g (t) is said to be parametric form with t as a parameter.\nIn order to find derivative of function in such form, we have by chain rule.\ndy\ndt  = dy dx\ndx dt\n⋅\nor\ndy\ndx  =\nwhenever\ndy\ndx\ndt\ndx\ndt\ndt\n\n\n≠\n\n\n\n\nThus\ndy\ndx  =\n( )\nas\n( ) and\n( )\n( )\ng t\ndy\ndx\ng t\nf t\nf t\ndt\ndt\n′\n\n\n=\n′\n=\n′\n\n\n′\n\n [provided f′(t) ≠ 0]\nExample 31 Find dy\ndx , if x = a cos θ, y = a sin θ.\nSolution Given that\nx = a cos θ, y = a sin θ\nTherefore\ndx\ndθ  = – a sin θ, dy\ndθ  = a cos θ\nHence\ndy\ndx  =\ncos\ncot\nsin\ndy\na\nd\ndx\na\nd\n\n[NCERT Grade12 Ch6 — Maxima and Minima]\nIn this section, we will use the concept of derivatives to calculate the maximum or\nminimum values of  various functions. In fact, we will find the ‘turning points’ of the\ngraph of a function and thus find points at which the graph reaches its highest (or\nReprint 2025-26\nlowest) locally. The knowledge of such points is very useful in sketching the graph of\na given function. Further, we will also find the absolute maximum and absolute minimum\nof a function that are necessary for the solution of many applied problems.\nLet us consider the following problems that arise in day to day life.\n(i)\nThe profit from a grove of orange trees is given by P(x) = ax + bx2, where a,b\nare constants and x is the number of orange trees per acre. How many trees per\nacre will maximise the profit?\n(ii)\nA ball, thrown into the air from a building 60 metres high, travels along a path\ngiven by\n( )\nx\nh x\nx\n=\n+\n−\n, where x is the horizontal distance from the building\nand h(x) is the height of the ball . What is th",
+  "context_sources": [
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch5",
+    "ncert:grade12/maths/ch6"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Chain Rule"
+  ],
+  "prerequisites_descriptions": {
+    "Chain Rule": "d/dx[f(g(x))] = f′(g(x))·g′(x)"
+  },
+  "successors_to_link": [
+    "Maxima and Minima"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Chain Rule",
+    "Maxima and Minima",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

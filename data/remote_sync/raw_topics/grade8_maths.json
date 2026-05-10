@@ -1,0 +1,684 @@
+{
+  "grade": 8,
+  "subject": "maths",
+  "total_topics": 65,
+  "topics": [
+    {
+      "raw_name": "Square Numbers",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Definition of square numbers",
+        "Properties of square numbers (even, odd, perfect squares)",
+        "Finding square roots using prime factorization",
+        "Relationship between square numbers and their factors",
+        "Identifying square numbers in real-life scenarios"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A SQUARE AND A CUBE"
+    },
+    {
+      "raw_name": "Cubic Numbers",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A SQUARE AND A CUBE"
+    },
+    {
+      "raw_name": "A Pinch of History",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A SQUARE AND A CUBE"
+    },
+    {
+      "raw_name": "Experiencing the Power Play ...",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT POWER PLAY"
+    },
+    {
+      "raw_name": "Exponential Notation and Operations",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT POWER PLAY"
+    },
+    {
+      "raw_name": "The Other Side of Powers",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT POWER PLAY"
+    },
+    {
+      "raw_name": "Powers of 10",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT POWER PLAY"
+    },
+    {
+      "raw_name": "Did You Ever Wonder?",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT POWER PLAY"
+    },
+    {
+      "raw_name": "Reema’s Curiosity",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A STORY OF NUMBERS"
+    },
+    {
+      "raw_name": "Some Early Number Systems",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A STORY OF NUMBERS"
+    },
+    {
+      "raw_name": "The Idea of a Base",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A STORY OF NUMBERS"
+    },
+    {
+      "raw_name": "Rectangles and Squares",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT QUADRILATERALS"
+    },
+    {
+      "raw_name": "Angles in a Quadrilateral",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT QUADRILATERALS"
+    },
+    {
+      "raw_name": "Quadrilaterals with Equal Sidelengths",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT QUADRILATERALS"
+    },
+    {
+      "raw_name": "Playing with Quadrilaterals",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT QUADRILATERALS"
+    },
+    {
+      "raw_name": "Kite and Trapezium",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT QUADRILATERALS"
+    },
+    {
+      "raw_name": "Is This a Multiple Of?",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Checking Divisibility Quickly",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Digits in Disguise",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Some Properties of Multiplication",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WE DISTRIBUTE, YET THINGS MULTIPLY"
+    },
+    {
+      "raw_name": "Special Cases of the Distributive Property",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WE DISTRIBUTE, YET THINGS MULTIPLY"
+    },
+    {
+      "raw_name": "Mind the Mistake, Mend the Mistake",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WE DISTRIBUTE, YET THINGS MULTIPLY"
+    },
+    {
+      "raw_name": "This Way or That Way, All Ways Lead to the Bay",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WE DISTRIBUTE, YET THINGS MULTIPLY"
+    },
+    {
+      "raw_name": "Observing Similarity in Change",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING-1"
+    },
+    {
+      "raw_name": "Ratios",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING-1"
+    },
+    {
+      "raw_name": "Ratios in their Simplest Form",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING-1"
+    },
+    {
+      "raw_name": "Problem Solving with Proportional Reasoning",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING-1"
+    },
+    {
+      "raw_name": "Sharing, but Not Equally!",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING-1"
+    },
+    {
+      "raw_name": "Unit Conversions",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING-1"
+    },
+    {
+      "raw_name": "Fractions as Percentages",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FRACTIONS IN DISGUISE"
+    },
+    {
+      "raw_name": "Percentage of Some Quantity",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FRACTIONS IN DISGUISE"
+    },
+    {
+      "raw_name": "Using Percentages",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FRACTIONS IN DISGUISE"
+    },
+    {
+      "raw_name": "Doubling a Square",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE BAUDHĀYANA- PYTHAGORAS THEOREM"
+    },
+    {
+      "raw_name": "Halving a Square",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE BAUDHĀYANA- PYTHAGORAS THEOREM"
+    },
+    {
+      "raw_name": "Hypotenuse of an Isosceles Right Triangle",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE BAUDHĀYANA- PYTHAGORAS THEOREM"
+    },
+    {
+      "raw_name": "Combining Two Different Squares",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE BAUDHĀYANA- PYTHAGORAS THEOREM"
+    },
+    {
+      "raw_name": "Right–Triangles Having Integer Sidelengths",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE BAUDHĀYANA- PYTHAGORAS THEOREM"
+    },
+    {
+      "raw_name": "A Long-Standing Open Problem",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE BAUDHĀYANA- PYTHAGORAS THEOREM"
+    },
+    {
+      "raw_name": "Further Applications of the Baudhāyana -",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT THE BAUDHĀYANA- PYTHAGORAS THEOREM"
+    },
+    {
+      "raw_name": "Proportionality — A Quick Recap",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING–2"
+    },
+    {
+      "raw_name": "Ratios in Maps",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING–2"
+    },
+    {
+      "raw_name": "Ratios with More than 2 Terms",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING–2"
+    },
+    {
+      "raw_name": "Dividing a Whole in a Given Ratio",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING–2"
+    },
+    {
+      "raw_name": "A Slice of the Pie",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING–2"
+    },
+    {
+      "raw_name": "Inverse Proportions",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PROPORTIONAL REASONING–2"
+    },
+    {
+      "raw_name": "Fractals",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT EXPLORING SOME GEOMETRIC THEMES"
+    },
+    {
+      "raw_name": "Visualising Solids",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT EXPLORING SOME GEOMETRIC THEMES"
+    },
+    {
+      "raw_name": "The Balancing Act",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT TALES BY DOTS AND LINES"
+    },
+    {
+      "raw_name": "Visualising and Interpreting Data",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT TALES BY DOTS AND LINES"
+    },
+    {
+      "raw_name": "Algebra Play",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ALGEBRA PLAY"
+    },
+    {
+      "raw_name": "Thinking about ‘Think of a Number’ Tricks",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ALGEBRA PLAY"
+    },
+    {
+      "raw_name": "Number Pyramids",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ALGEBRA PLAY"
+    },
+    {
+      "raw_name": "Fun with Grids",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ALGEBRA PLAY"
+    },
+    {
+      "raw_name": "The Largest Product",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ALGEBRA PLAY"
+    },
+    {
+      "raw_name": "Decoding Divisibility Tricks",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ALGEBRA PLAY"
+    },
+    {
+      "raw_name": "Arithmetic Progressions",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Circles",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Tangents and Normals",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Three-Dimensional Geometry",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Sine Rule",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Cosine Rule",
+      "source_boards": [],
+      "note": "",
+      "subtopics": [
+        "Applying Cosine Formula in right triangles",
+        "Deriving Cosine Formula using dot product",
+        "Solving oblique triangle problems involving two sides and their included angle",
+        "Using Cosine Law to find unknown angles in triangles",
+        ""
+      ]
+    },
+    {
+      "raw_name": "Mensuration",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Area of Triangles",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Pythagoras' Theorem",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Altitudes of Triangles",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    }
+  ]
+}

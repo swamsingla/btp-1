@@ -1,0 +1,51 @@
+{
+  "concept_slug": "volume-cone",
+  "canonical_name": "Volume of Cone",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Mensuration",
+  "description": "V = ⅓πr²h",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade9 Ch11 — Volume of a Right Circular Cone]\nIn earlier classes we have studied the volumes of\ncube, cuboid and cylinder\nIn Fig 11.11, can you see that there is a right circular\ncylinder and a right circular cone of the same base\nradius and the same height?\nActivity : Try to make a hollow cylinder and a hollow cone like this with the same\nbase radius and the same height (see Fig. 11.11). Then, we can try out an experiment\nthat will help us, to see practically what the volume of a right circular cone would be!\nFig. 11.12\nFig. 11.11\nReprint 2025-26\nSo, let us start like this.\nFill the cone up to the brim with sand once, and empty it into the cylinder. We find\nthat it fills up only a part of the cylinder [see Fig. 11.12(a)].\nWhen we fill up the cone again to the brim, and empty it into the cylinder, we see\nthat the cylinder is still not full [see Fig. 11.12(b)].\nWhen the cone is filled up for the third time, and emptied into the cylinder, it can be\nseen that the cylinder is also full to the brim [see Fig. 11.12(c)].\nWith this, we ca\n\n[NCERT Grade9 Ch11 — Volume of a Sphere]\nNow, let us see how to go about measuring the volume of a sphere. First, take two or\nthree spheres of different radii, and a container big enough to be able to put each of\nthe spheres into it, one at a time. Also, take a large trough in which you can place the\ncontainer. Then, fill the container up to the brim with water [see Fig. 11.13(a)].\nNow, carefully place one of the spheres in the container. Some of the water from\nthe container will over flow into the trough in which it is kept [see Fig. 11.13(b)].\nCarefully pour out the water from the trough into a measuring cylinder (i.e., a graduated\ncylindrical jar) and measure the water over flowed [see Fig. 11.13(c)]. Suppose the\nradius of the immersed sphere is r (you can find the radius by measuring the diameter\nof the sphere). Then evaluate 4\n3  πr3. Do you find this value almost equal to the\nmeasure of the volume over flowed?\nFig. 11.13\nOnce again repeat the procedure done just now, with a different size of sphere.\nFind the radius R of",
+  "context_sources": [
+    "ncert:grade9/maths/ch11",
+    "ncert:grade9/maths/ch11"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Surface Area of Cone",
+    "Volume of Cylinder"
+  ],
+  "prerequisites_descriptions": {
+    "Surface Area of Cone": "CSA = πrl; TSA = πr(r+l)",
+    "Volume of Cylinder": "V = πr²h"
+  },
+  "successors_to_link": [
+    "Volume of Sphere",
+    "Surface Area and Volume of Combined Solids"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Surface Area of Cone",
+    "Volume of Cylinder",
+    "Volume of Sphere",
+    "Surface Area and Volume of Combined Solids",
+    "Heron's Formula",
+    "Surface Area of Cuboid and Cube",
+    "Volume of Cuboid and Cube",
+    "Surface Area of Cylinder",
+    "Surface Area of Sphere"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

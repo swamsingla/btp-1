@@ -1,0 +1,59 @@
+{
+  "concept_slug": "trigonometric-ratios",
+  "canonical_name": "Trigonometric Ratios",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Trigonometry",
+  "description": "sin, cos, tan, cosec, sec, cot in a right triangle",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pythagorean Theorem",
+    "Similar Triangles",
+    "Ratios and Proportions"
+  ],
+  "prerequisites_descriptions": {
+    "Pythagorean Theorem": "In a right triangle: a² + b² = c²",
+    "Similar Triangles": "AA, SAS, SSS similarity criteria; corresponding sides proportional",
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios"
+  },
+  "successors_to_link": [
+    "Trigonometric Ratios of Standard Angles",
+    "Trigonometric Identities",
+    "Area of Sector and Segment of a Circle",
+    "Modulus and Argument of a Complex Number",
+    "Slope of a Line",
+    "Vectors — Introduction",
+    "Direction Cosines and Direction Ratios"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Pythagorean Theorem",
+    "Similar Triangles",
+    "Ratios and Proportions",
+    "Trigonometric Ratios of Standard Angles",
+    "Trigonometric Identities",
+    "Area of Sector and Segment of a Circle",
+    "Modulus and Argument of a Complex Number",
+    "Slope of a Line",
+    "Vectors — Introduction",
+    "Direction Cosines and Direction Ratios",
+    "Complementary Angle Identities"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

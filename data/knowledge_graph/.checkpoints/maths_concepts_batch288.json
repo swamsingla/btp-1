@@ -1,0 +1,21 @@
+[
+  {
+    "canonical_name": "Relationship Between Zeroes And Coefficients Of A Polynomial",
+    "slug": "relationship-between-zeroes-and-coefficients-of-a-polynomial",
+    "aliases": [],
+    "domain": "Algebra",
+    "area": "Polynomials",
+    "parent": "",
+    "grades": [
+      10
+    ],
+    "importance_BY_GRADE": {
+      "10": 5
+    },
+    "source_BOARDS": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

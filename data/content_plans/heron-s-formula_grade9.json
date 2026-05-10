@@ -1,0 +1,46 @@
+{
+  "concept_slug": "heron-s-formula",
+  "canonical_name": "Heron's Formula",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Mensuration",
+  "description": "Area = √[s(s−a)(s−b)(s−c)] where s is the semi-perimeter",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade9 Ch10 — Area of a Triangle — by Heron’s Formula]\nWe know that the area of triangle when its height is given, is 1\n2  × base × height. Now\nsuppose that we know the lengths of the sides of a scalene triangle and not the height.\nCan you still find its area? For instance, you have a triangular park whose sides are 40\nm, 32 m, and 24 m. How will you calculate its area? Definitely if you want to apply the\nformula, you will have to calculate its height. But we do not have a clue to calculate\nthe height. Try doing so. If you are not able to get it, then go to the next section.\nHeron was born in about 10AD possibly in Alexandria in\nEgypt. He worked in applied mathematics. His works on\nmathematical and physical subjects are so numerous and\nvaried that he is considered to be an encyclopedic writer\nin these fields. His geometrical works deal largely with\nproblems on mensuration written in three books. Book I\ndeals with the area of squares, rectangles, triangles,\ntrapezoids (trapezia), various other specialised\nquadrilaterals, the regular polygon",
+  "context_sources": [
+    "ncert:grade9/maths/ch10"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Area of Triangles",
+    "Square Roots"
+  ],
+  "prerequisites_descriptions": {
+    "Area of Triangles": "Area = ½ × base × height for any triangle",
+    "Square Roots": "Finding square roots by prime factorisation and long division"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Area of Triangles",
+    "Square Roots",
+    "Surface Area of Cuboid and Cube",
+    "Volume of Cuboid and Cube",
+    "Surface Area of Cylinder",
+    "Volume of Cylinder",
+    "Surface Area of Cone",
+    "Volume of Cone",
+    "Surface Area of Sphere",
+    "Volume of Sphere"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

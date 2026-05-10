@@ -1,0 +1,37 @@
+{
+  "concept_slug": "coefficient-of-variation",
+  "canonical_name": "Coefficient of Variation",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Statistics",
+  "description": "CV = (σ/x̄) × 100; comparing variability across datasets",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Variance and Standard Deviation"
+  ],
+  "prerequisites_descriptions": {
+    "Variance and Standard Deviation": "σ² = Σ(xᵢ−x̄)²/n; shortcut formula; for frequency distributions"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Variance and Standard Deviation",
+    "Measures of Dispersion",
+    "Scatter Plot",
+    "Correlation",
+    "Regression Line"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

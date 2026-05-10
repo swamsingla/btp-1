@@ -1,0 +1,41 @@
+{
+  "concept_slug": "mean-value-theorem",
+  "canonical_name": "Mean Value Theorem",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "f′(c) = [f(b)−f(a)]/(b−a); Lagrange's MVT",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Rolle's Theorem"
+  ],
+  "prerequisites_descriptions": {
+    "Rolle's Theorem": "If f(a)=f(b), then f′(c)=0 for some c in (a,b)"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Rolle's Theorem",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

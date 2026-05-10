@@ -1,0 +1,58 @@
+{
+  "concept_slug": "determinants",
+  "canonical_name": "Determinants",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Linear Algebra",
+  "description": "det(A) for 2×2 and 3×3; Sarrus' rule; cofactor expansion",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade12 Ch4 — Introduction]\nIn the previous chapter, we have studied about matrices\nand algebra of matrices. We have also learnt that a system\nof algebraic equations can be expressed in the form of\nmatrices. This means, a system of linear equations like\na1 x + b1 y = c1\na2 x + b2 y = c2\ncan be represented as\na\nb\nc\nx\na\nb\nc\ny\n\n\n\n\n=\n\n\n\n\n\n\n\n\n\n\n. Now, this\nsystem of equations has a unique solution or not, is\ndetermined by the number a1 b2 – a2 b1. (Recall that if\na\nb\na\nb\n≠\nor, a1 b2 – a2 b1 ≠ 0,  then the system of linear\nequations has a unique solution). The number a1 b2 – a2 b1\nwhich determines uniqueness of solution is associated with the matrix\nA\na\nb\na\nb\n\n\n= \n\n\n\nand is called the determinant of A or det A. Determinants have wide applications in\nEngineering, Science, Economics, Social Science, etc.\nIn this chapter, we shall study determinants up to order three only with real entries.\nAlso, we will study various properties of determinants, minors, cofactors and applications\nof determinants in\n\n[NCERT Grade12 Ch4 — Determinant]\nTo every square matrix A = [aij] of order n, we can associate a number (real or\ncomplex) called determinant of the square matrix A, where aij = (i, j)th element of A.\nReprint 2025-26\nDETERMINANTS     77\nThis may be thought of as a function which associates each square matrix with a\nunique number (real or complex). If M is the set of square matrices, K is the set of\nnumbers (real or complex) and f : M → K is defined by f (A) = k, where A ∈ M and\nk ∈ K, then f (A) is called the determinant of A. It is also denoted by |A| or det A or ∆.\nIf A =\na\nb\nc\nd\n\n\n\n\n\n\n, then determinant of A is written as |A| =\na\nb\nc\nd  = det (A)\nRemarks\n(i)\nFor matrix A, |A| is read as determinant of A and not modulus of A.\n(ii)\nOnly square matrices have determinants.\n4.2.1  Determinant of a matrix of order one\n\n[NCERT Grade12 Ch4 — Determinant of a matrix of order 3 × 3]\nDeterminant of a matrix of order three can be determined by expressing it in terms of\nsecond order determinants. This is known as expansion of a determinant along\na row (or a column). There are six ways of expanding a determinant of order\nReprint 2025-26\n3 corresponding to each of three rows (R1, R2 and R3) and three columns (C1, C2 and\nC3) giving the same value as shown below.\nConsider the determinant of square matrix A = [aij]3 × 3\ni.e.,\n| A | =\na\na\na\na\na\na\na\na\na\nExpansion along first Row (R1)\nStep 1 Multiply first element a11 of R1 by (–1)(1 + 1) [(–1)sum of suffixes in a11] and with the\nsecond order determinant obtained by deleting the elements of first row (R1) and first\ncolumn (C1) of | A | as a11 lies in R1 and C1,\ni.e.,\n(–1)1 + 1 a11\na\na\na\na\nStep 2 Multiply 2nd element a12 of R1 by (–1)1 + 2 [(–1)sum of suffixes in a12] and the second\norder determinant obtained by deleting elements of first row (R1) and 2nd column (C2)\nof | A | as a12 lies in R1 and C2,\ni.e.,\n(–1)1 + 2 a12\na\na\n\n\n[NCERT Grade12 Ch4 — Area of a Triangle]\nIn earlier classes, we have studied that the area of a triangle whose vertices are\n(x1, y1), (x2, y2) and (x3, y3), is given by the expression 1\n2 [x1(y2–y3) + x2 (y3–y1) +\nx3 (y1–y2)]. Now this expression can be written in the form of a determinant as\n∆ =\nx\ny\nx\ny\nx\ny\n... (1)\nRemarks\n(i)\nSince area is a positive quantity, we always take the absolute value of the\ndeterminant in (1).\n(ii)\nIf area is given, use both positive and negative values of the determinant for\ncalculation.\n(iii)\nThe area of the triangle formed by three collinear points is zero.\nExample 6 Find the area of the triangle whose vertices are (3, 8), (– 4, 2) and (5, 1).\nSolution The area of triangle is given by\n∆ =\n–\nReprint 2025-26\nDETERMINANTS     83\n=\n(\n)\n(\n)\n(\n)\n1 3 2 –1 – 8 –4 – 5\n1 –4 –10\n2 \n+\n\n\n\n=\n(\n)\n–\n+\n=\nExample 7 Find the equation of the line joining A(1, 3) and B (0, 0) using determinants\nand find k if D(k, 0) is a point such that area of triangle ABD is 3sq units.\nSolution Let P (x, y) be any point on AB\n\n[NCERT Grade12 Ch4 — Minors and Cofactors]\nIn this section, we will learn to write the expansion of a determinant in compact form\nusing minors and cofactors.\nDefinition 1 Minor of an element aij of a determinant is the determinant obtained by\ndeleting its ith row and jth column in which element aij lies. Minor of an element aij is\ndenoted by Mij.\nRemark Minor of an element of a determinant of order n(n ≥ 2) is a determinant of\norder n – 1.\nExample 8 Find the minor of element 6 in the determinant\n∆=\nSolution Since 6 lies in the second row and third column, its minor M23 is given by\nM23 =\n8  = 8 – 14 = – 6 (obtained by deleting R2 and C3 in ∆).\nDefinition 2 Cofactor of an element aij, denoted by Aij is defined by\nAij = (–1)i + j Mij, where Mij is minor of aij.\nExample 9 Find minors and cofactors of all the elements of the determinant\n–2\nSolution Minor of the element aij is Mij\nHere a11 = 1. So M11 = Minor of a11= 3\nM12\n= Minor of the element a12 = 4\nM21 = Minor of the element a21 = –2\nM22 = Minor of the element a22 = 1\nNow, cofac",
+  "context_sources": [
+    "ncert:grade12/maths/ch4",
+    "ncert:grade12/maths/ch4",
+    "ncert:grade12/maths/ch4",
+    "ncert:grade12/maths/ch4",
+    "ncert:grade12/maths/ch4"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Operations on Matrices"
+  ],
+  "prerequisites_descriptions": {
+    "Operations on Matrices": "Addition, scalar multiplication, matrix multiplication; properties"
+  },
+  "successors_to_link": [
+    "Properties of Determinants",
+    "Minors and Cofactors",
+    "Adjoint and Inverse of a Matrix",
+    "Area of Triangle Using Determinants",
+    "Scalar Triple Product"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Operations on Matrices",
+    "Properties of Determinants",
+    "Minors and Cofactors",
+    "Adjoint and Inverse of a Matrix",
+    "Area of Triangle Using Determinants",
+    "Scalar Triple Product",
+    "Matrices",
+    "Types of Matrices",
+    "Transpose of a Matrix",
+    "Symmetric and Skew-Symmetric Matrices"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

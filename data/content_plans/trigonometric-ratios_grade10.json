@@ -1,0 +1,66 @@
+{
+  "concept_slug": "trigonometric-ratios",
+  "canonical_name": "Trigonometric Ratios",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Trigonometry",
+  "description": "sin, cos, tan, cosec, sec, cot in a right triangle",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade10 Ch8 — Trigonometric Ratios]\nIn Section 8.1, you have seen some right triangles\nimagined to be formed in different situations.\nLet us take a right triangle ABC as shown\nin Fig. 8.4.\nHere,  CAB (or, in brief, angle A) is an\nacute angle. Note the position of the side BC\nwith respect to angle A. It faces  A. We call it\nthe side opposite to angle A. AC is the\nhypotenuse of the right triangle and the side AB\nis a part of  A. So, we call it the side\nadjacent to angle A.\nFig. 8.4\nReprint 2025-26\nINTRODUCTION TO TRIGONOMETRY\nNote that the position of sides change\nwhen you consider angle C in place of A\n(see Fig. 8.5).\nYou have studied the concept of ‘ratio’ in\nyour earlier classes. We now define certain ratios\ninvolving the sides of a right triangle, and call\nthem trigonometric ratios.\nThe trigonometric ratios of the angle A\nin right triangle ABC (see Fig. 8.4) are defined\nas follows :\nsine of  A = side opposite to angle A\nBC\nhypotenuse\nAC\n\ncosine of  A = side adjacent to angle A\nAB\nhypotenuse\nAC\n\ntangent of  A = \n\n[NCERT Grade10 Ch8 — Trigonometric Identities]\nYou may recall that an equation is called an identity\nwhen it is true for all values of the variables involved.\nSimilarly, an equation involving trigonometric ratios\nof an angle is called a trigonometric identity, if it is\ntrue for all values of the angle(s) involved.\nIn this section, we will prove one trigonometric\nidentity, and use it further to prove other useful\ntrigonometric identities.\nIn  ABC, right-angled at B (see Fig. 8.21), we have:\nAB2 + BC2 = AC2\n(1)\nDividing each term of (1) by AC2, we get\nAB\nBC\nAC\nAC\n\n=\nAC\nAC\ni.e.,\nAB\nBC\nAC\nAC\n\n\n\n\n\n\n\n\n\n\n\n\n =\nAC\nAC\n\n\n\n\n\n\ni.e.,\n(cos A)2 + (sin A)2 = 1\ni.e.,\ncos2 A + sin2 A = 1\n(2)\nThis is true for all A such that 0°  A  90°. So, this is a trigonometric identity.\nLet us now divide (1) by AB2. We get\nAB\nBC\nAB\nAB\n\n=\nAC\nAB\nor,\nAB\nBC\nAB\nAB\n\n\n\n\n\n\n\n\n\n\n\n\n =\nAC\nAB\n\n\n\n\n\n\ni.e.,\n1 + tan2 A = sec2 A\n(3)\nIs this equation true for A = 0°? Yes, it is. What about A = 90°? Well, tan A and\nsec A are not defined for \n\n[NCERT Grade10 Ch8 — Introduction]\nYou have already studied about triangles, and in particular, right triangles, in your\nearlier classes. Let us take some examples from our surroundings where right triangles\ncan be imagined to be formed. For instance :\n1. Suppose the students of a school are\nvisiting Qutub Minar. Now, if a student\nis looking at the top of the Minar, a right\ntriangle can be imagined to be made,\nas shown in Fig 8.1. Can the student\nfind out the height of the Minar, without\nactually measuring it?\n2.  Suppose a girl is sitting on the balcony\nof her house located on the bank of a\nriver.  She is looking down at a flower\npot placed on a stair of a temple situated\nnearby on the other bank of the river.\nA right triangle is imagined to be made\nin this situation as shown in Fig.8.2. If\nyou know the height at which the\nperson is sitting, can you find the width\nof the river?\nFig. 8.1\nFig. 8.2\nReprint 2025-26\n3. Suppose a hot air balloon is flying in\nthe air.  A girl happens to spot the\nballoon in the sky and runs to\n\n[NCERT Grade10 Ch8 — Trigonometric Ratios of Some Specific Angles]\nFrom geometry, you are already familiar with the construction of angles of 30°, 45°,\n60° and 90°. In this section, we will find the values of the trigonometric ratios for these\nangles and, of course, for 0°.\nReprint 2025-26\nTrigonometric Ratios of 45°\nIn  ABC, right-angled at B, if one angle is 45°, then\nthe other angle is also 45°, i.e.,  A =  C = 45°\n(see  Fig. 8.14).\nSo,\nBC = AB\n(Why?)\nNow, Suppose BC = AB = a.\nThen by Pythagoras Theorem, AC2 = AB2 + BC2 = a2 + a2 = 2a2,\nand, therefore,\nAC =\na\n\nUsing the definitions of the trigonometric ratios, we have :\nsin 45° = side opposite to angle 45°\nBC\nhypotenuse\nAC\na\na\n\n\n\ncos 45° = side adjacent toangle 45°\nAB\nhypotenuse\nAC\na\na\n\n\n\ntan 45° = side opposite to angle 45°\nBC\nside adjacent to angle 45°\nAB\na\na\n\n\n\nAlso, cosec 45° =\nsin 45 \n\n, sec 45° =\ncos 45 \n\n, cot 45° =\ntan 45 \n\n.\nTrigonometric Ratios of 30° and 60°\nLet us now calculate the trigonometric ratios of 30°\nand 60°. Consider an equilateral triangle ABC. Since\neach a\n\n[NCERT Grade10 Ch9 — Heights and Distances]\nIn the previous chapter, you have studied about trigonometric ratios. In this chapter,\nyou will be studying about some ways in which trigonometry is used in the life around\nyou.\nLet us consider Fig. 8.1 of prvious chapter, which is redrawn below in Fig. 9.1.\nFig. 9.1\nIn this figure, the line AC drawn from the eye of the student to the top of the\nminar is called the line of sight. The student is looking at the top of the minar. The\nangle BAC, so formed by the line of sight with the horizontal, is called the angle of\nelevation of the top of the minar from the eye of the student.\nThus, the line of sight is the line drawn from the eye of an observer to the point\nin the object viewed by the observer. The angle of elevation of the point viewed is\nReprint 2025-26\nthe angle formed by the line of sight with the horizontal when the point being viewed is\nabove the horizontal level, i.e., the case when we raise our head to look at the object\n(see Fig. 9.2).\nFig. 9.2\nNow, consider the situation giv",
+  "context_sources": [
+    "ncert:grade10/maths/ch8",
+    "ncert:grade10/maths/ch8",
+    "ncert:grade10/maths/ch8",
+    "ncert:grade10/maths/ch8",
+    "ncert:grade10/maths/ch9"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pythagorean Theorem",
+    "Similar Triangles",
+    "Ratios and Proportions"
+  ],
+  "prerequisites_descriptions": {
+    "Pythagorean Theorem": "In a right triangle: a² + b² = c²",
+    "Similar Triangles": "AA, SAS, SSS similarity criteria; corresponding sides proportional",
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios"
+  },
+  "successors_to_link": [
+    "Trigonometric Ratios of Standard Angles",
+    "Trigonometric Identities",
+    "Area of Sector and Segment of a Circle",
+    "Modulus and Argument of a Complex Number",
+    "Slope of a Line",
+    "Vectors — Introduction",
+    "Direction Cosines and Direction Ratios"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Pythagorean Theorem",
+    "Similar Triangles",
+    "Ratios and Proportions",
+    "Trigonometric Ratios of Standard Angles",
+    "Trigonometric Identities",
+    "Area of Sector and Segment of a Circle",
+    "Modulus and Argument of a Complex Number",
+    "Slope of a Line",
+    "Vectors — Introduction",
+    "Direction Cosines and Direction Ratios",
+    "Complementary Angle Identities",
+    "Heights and Distances"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,57 @@
+{
+  "concept_slug": "integration-by-substitution",
+  "canonical_name": "Integration by Substitution",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "∫f(g(x))g′(x)dx = ∫f(u)du",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch7 — Integration by substitution]\nIn this section, we consider the method of integration by substitution.\nThe given integral\n( )\nf x dx\n∫\ncan be transformed into another form by changing\nthe independent variable x to t by substituting x = g (t).\nReprint 2025-26\nConsider\nI =\n( )\nf x dx\n∫\nPut x = g(t) so that dx\ndt  = g′(t).\nWe write\ndx = g′(t) dt\nThus\nI =\n( )\n( ( ))\n( )\nf x dx\nf g t\ng t dt\n=\n′\n∫\n∫\nThis change of variable formula is one of the important tools available to us in the\nname of integration by substitution. It is often important to guess what will be the useful\nsubstitution. Usually, we make a substitution for a function whose derivative also occurs\nin the integrand as illustrated in the following examples.\nExample 5 Integrate the following functions w.r.t. x:\n(i)\nsin mx\n(ii)\n2x sin (x2 + 1)\n(iii)\ntan\nsec\nx\nx\nx\n(iv)\nsin (tan\n)\n– x\nx\n+\nSolution\n(i)\nWe know that derivative of mx is m. Thus, we make the substitution\nmx = t so that mdx = dt.\nTherefore,\nsin\nsin\nmx dx\nt dt\nm\n=\n∫\n∫\n=  – 1\nm cos t + C  = – 1\nm cos mx \n\n[NCERT Grade12 Ch7 — Methods of Integration]\nIn previous section, we discussed integrals of those functions which were readily\nobtainable from derivatives of some functions. It was based on inspection, i.e., on the\nsearch of a function F whose derivative is f which led us to the integral of f. However,\nthis method, which depends on inspection, is not very suitable for many functions.\nHence, we need to develop additional techniques or methods for finding the integrals\nby reducing them into standard forms. Prominent among them are methods based on:\n1.\nIntegration by Substitution\n2.\nIntegration using Partial Fractions\n3.\nIntegration by Parts\n7.3.1 Integration by substitution\n\n[NCERT Grade12 Ch7 — Integration by Parts]\nIn this section, we describe one more method of integration, that is found quite useful in\nintegrating products of functions.\nIf u and v are any two differentiable functions of a single variable x (say). Then, by\nthe product rule of differentiation, we have\n(\n)\nd\nuv\ndx\n=\ndv\ndu\nu\nv\ndx\ndx\n+\nIntegrating both sides, we get\nuv =\ndv\ndu\nu\ndx\nv\ndx\ndx\ndx\n+\n∫\n∫\nor\ndv\nu\ndx\ndx\n∫\n=\ndu\nuv – v\ndx\ndx\n∫\n... (1)\nLet\nu = f (x) and dv\ndx = g(x). Then\ndu\ndx = f ′(x) and v =\n( )\ng x dx\n∫\nReprint 2025-26\nTherefore, expression (1) can be rewritten as\n( ) ( )\nf x g x dx\n∫\n=\n( )\n( )\n[\n( )\n]\n( )\nf x\ng x dx –\ng x dx f x dx\n′\n∫\n∫∫\ni.e.,\n( ) ( )\nf x g x dx\n∫\n=\n( )\n( )\n[\n( )\n( )\n]\nf x\ng x dx –\nf\nx\ng x dx dx\n′\n∫\n∫\n∫\nIf we take f as the first function and g as the second function, then this formula\nmay be stated as follows:\n“The integral of the product of two functions = (first function) × (integral\nof the second function) – Integral of [(differential coefficient of the first function)\n× (integral of the second functi\n\n[NCERT Grade12 Ch7 — Evaluation of Definite Integrals by Substitution]\nIn the previous sections, we have discussed several methods for finding the indefinite\nintegral. One of the important methods for finding the indefinite integral is the method\nof substitution.\nTo evaluate\n( )\nb\na f x dx\n∫\n, by substitution, the steps could be as follows:\n1.\nConsider the integral without limits and substitute, y = f (x) or x = g(y) to reduce\nthe given integral to a known form.\n2.\nIntegrate the new integrand with respect to the new variable without mentioning\nthe constant of integration.\n3.\nResubstitute for the new variable and write the answer in terms of the original\nvariable.\n4.\nFind the values of answers obtained in (3) at the given limits of integral and find\nthe difference of the values at the upper and lower limits.\nReprint 2025-26\nANote In order to quicken this method, we can proceed as follows: After\nperforming steps 1, and 2, there is no need of step 3. Here, the integral will be kept\nin the new variable itself, and the limits of the integral will accordingly b\n\n[NCERT Grade12 Ch7 — Some Properties of Definite Integrals]\nWe list below some important properties of definite integrals. These will be useful in\nevaluating the definite integrals more easily.\nP0 :\n( )\n( )\nb\nb\na\na\nf x dx\nf t dt\n=\n∫\n∫\nP1 :\n( )\n–\n( )\nb\na\na\nb\nf x dx\nf x dx\n=\n∫\n∫\n. In particular,\n( )\na\na f x dx =\n∫\nP2 :\n( )\n( )\n( )\nb\nc\nb\na\na\nc\nf x dx\nf x dx\nf x dx\n=\n+\n∫\n∫\n∫\nReprint 2025-26\nP3 :\n( )\n(\n)\nb\nb\na\na\nf x dx\nf a\nb\nx dx\n=\n+\n−\n∫\n∫\nP4 :\n( )\n(\n)\na\na\nf x dx\nf a\nx dx\n=\n−\n∫\n∫\n(Note that P4 is a particular case of P3)\nP5 :\n( )\n( )\n(2\n)\na\na\na\nf x dx\nf x dx\nf\na\nx dx\n=\n+\n−\n∫\n∫\n∫\nP6 :\n( )\n( )\n, if\n(2\n)\n( )\na\na\nf x dx\nf x dx\nf\na\nx\nf x\n=\n−\n=\n∫\n∫\nand\n0 if f (2a – x) = – f (x)\nP7 :\n(i)\n( )\n( )\na\na\na f x dx\nf x dx\n−\n=\n∫\n∫\n, if f is an even function, i.e., if f (– x) = f (x).\n(ii)\n( )\na\na f x dx\n−\n=\n∫\n, if f is an odd function, i.e., if f (– x) = – f (x).\nWe give the proofs of these properties one by one.\nProof of P0 It follows directly by making the substitution x = t.\nProof of P1 Let F be anti derivative of f. Then, by the second fundamental theorem of\nc\n\n[Wikipedia]\nIn calculus, integration by substitution, also known as u-substitution, reverse chain rule or change of variables, is a method for evaluating integrals and antiderivatives. It is the counterpart to the chain rule for differentiation, and can loosely be thought of as using the chain rule \"backwards.\" This involves differential forms.",
+  "context_sources": [
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Integration — Indefinite Integrals",
+    "Chain Rule"
+  ],
+  "prerequisites_descriptions": {
+    "Integration — Indefinite Integrals": "Anti-derivative; ∫f(x)dx = F(x)+C; standard integrals",
+    "Chain Rule": "d/dx[f(g(x))] = f′(g(x))·g′(x)"
+  },
+  "successors_to_link": [
+    "Integration Using Trigonometric Identities",
+    "Special Integrals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Integration — Indefinite Integrals",
+    "Chain Rule",
+    "Integration Using Trigonometric Identities",
+    "Special Integrals",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

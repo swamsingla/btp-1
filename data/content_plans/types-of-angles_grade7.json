@@ -1,0 +1,47 @@
+{
+  "concept_slug": "types-of-angles",
+  "canonical_name": "Types of Angles and Angle Pairs",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Geometry",
+  "description": "Acute, right, obtuse, straight, reflex; complementary and supplementary",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Measuring Angles with Protractor"
+  ],
+  "prerequisites_descriptions": {
+    "Measuring Angles with Protractor": "Using a protractor to measure angles in degrees"
+  },
+  "successors_to_link": [
+    "Parallel Lines and Transversals",
+    "Angle Sum Property of a Triangle",
+    "Quadrilaterals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Measuring Angles with Protractor",
+    "Parallel Lines and Transversals",
+    "Angle Sum Property of a Triangle",
+    "Quadrilaterals",
+    "Angles",
+    "Basic Geometric Constructions",
+    "Types of Triangles",
+    "Exterior Angle Theorem",
+    "Properties of Triangles",
+    "Congruence of Triangles"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

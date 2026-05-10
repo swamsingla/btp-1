@@ -1,0 +1,43 @@
+{
+  "concept_slug": "bayes-theorem",
+  "canonical_name": "Bayes' Theorem",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Probability",
+  "description": "P(Bᵢ|A) = P(Bᵢ)P(A|Bᵢ)/P(A)",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch13 — Bayes' Theorem]\nConsider that there are two bags I and II. Bag I contains 2 white and 3 red balls and\nBag II contains 4 white and 5 red balls. One ball is drawn at random from one of the\nbags. We can find the probability of selecting any of the bags (i.e. 1\n2 ) or probability of\ndrawing a ball of a particular colour (say white) from a particular bag (say Bag I). In\nother words, we can find the probability that the ball drawn is of a particular colour, if\nwe are given the bag from which the ball is drawn. But, can we find the probability that\nthe ball drawn is from a particular bag (say Bag II), if the colour of the ball drawn is\ngiven? Here, we have to find the reverse probability of Bag II to be selected when an\nevent occurred after it is known. Famous mathematician, John Bayes' solved the problem\nof finding reverse probability by using conditional probability. The formula developed\nby him is known as ‘Bayes theorem’ which was published posthumously in 1763.\nBefore stating and proving the Bayes' theo\n\n[NCERT Grade12 Ch13 — Theorem of total probability]\nFig 13.4\nLet   {E1, E2,...,En}  be a partition of the sample space S,  and suppose that each of the\nevents E1, E2,..., En has nonzero probability of occurrence. Let A be any event associated\nwith S, then\nP(A) = P(E1) P(A|E1) + P(E2) P(A|E2) + ... + P(En) P(A|En)\n=\nP(E )P(A|E )\nn\nj\nj\nj=∑\nProof  Given that E1, E2,..., En is a partition of the sample space S (Fig 13.4). Therefore,\nS = E1 ∪ E2 ∪ ... ∪ En\n... (1)\nand\nEi ∩ Ej = φ, i ≠ j, i, j = 1, 2, ..., n\nNow, we know that for any event A,\nA = A ∩ S\n= A ∩ (E1 ∪ E2 ∪ ... ∪ En)\n= (A ∩ E1) ∪ (A ∩ E2) ∪ ...∪ (A ∩ En)\nAlso A ∩ Ei and A ∩ Ej are respectively the subsets of Ei and Ej. We know that\nEi  and Ej are disjoint, for i\nj\n≠\n, therefore, A  ∩ Ei and A  ∩ Ej  are also disjoint for all\ni ≠ j,  i, j = 1, 2, ..., n.\nThus,\nP(A) = P [(A ∩ E1) ∪ (A ∩ E2)∪ .....∪ (A ∩ En)]\n= P (A ∩ E1) + P (A ∩ E2) + ... + P (A ∩ En)\nNow, by multiplication rule of probability, we have\nP(A ∩ Ei) = P(Ei) P(A|Ei) as  P (Ei) ≠ 0∀i = 1,2,..., n\nReprint 2025-26\nPROBABIL",
+  "context_sources": [
+    "ncert:grade12/maths/ch13",
+    "ncert:grade12/maths/ch13"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Theorem of Total Probability"
+  ],
+  "prerequisites_descriptions": {
+    "Theorem of Total Probability": "P(A) = ΣP(Bᵢ)P(A|Bᵢ) over a partition"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Theorem of Total Probability",
+    "Conditional Probability",
+    "Multiplication Theorem on Probability",
+    "Independent Events",
+    "Random Variables",
+    "Probability Distribution",
+    "Mean and Variance of a Random Variable",
+    "Bernoulli Trials"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

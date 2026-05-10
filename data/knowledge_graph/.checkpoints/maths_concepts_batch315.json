@@ -1,0 +1,20 @@
+[
+  {
+    "canonical_name": "Coordinate Axes and Coordinate Plans in Three Dimension Space",
+    "slug": "coordinate-axes-and-coordinate-plans-in-three-dimension-space",
+    "aliases": [],
+    "domain": "Geometry",
+    "area": "Three Dimensional Geometry",
+    "parent": "three-dimensional-geometry",
+    "grades": [
+      11
+    ],
+    "importance-by-grade": {
+      "11": 5
+    },
+    "source_Boards": [
+      "NCERT"
+    ],
+    "subject": "maths"
+  }
+]

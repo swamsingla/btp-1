@@ -1,0 +1,21 @@
+[
+  {
+    "canonical_name": "Look Before You Leap!",
+    "slug": "look-before-you-leap",
+    "aliases": [],
+    "domain": "Maths",
+    "area": "",
+    "parent": "",
+    "grades": [
+      7
+    ],
+    "importance_BY_GRADE": {
+      "7": 5
+    },
+    "source_BOARDS": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

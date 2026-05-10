@@ -1,0 +1,42 @@
+{
+  "concept_slug": "fundamental-principle-of-counting",
+  "canonical_name": "Fundamental Principle of Counting",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Combinatorics",
+  "description": "Addition and multiplication principles",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch6 — Fundamental Principle of Counting]\nLet us consider the following problem. Mohan has 3 pants and 2 shirts. How many\ndifferent pairs of a pant and a shirt, can he dress up with? There are 3 ways in which\na pant can be chosen, because there are 3 pants available. Similarly, a shirt can be\nchosen in 2 ways. For every choice of a pant, there are 2 choices of a shirt. Therefore,\nthere are 3 × 2 = 6 pairs of a pant and a shirt.\nReprint 2025-26\nPERMUTATIONS AND COMBINATIONS       101\nLet us name the three pants as P1, P2, P3  and the two shirts as S1, S2. Then,\nthese six possibilities can be illustrated in the Fig. 6.1.\nLet us consider another problem\nof the same type.\nSabnam has 2 school bags, 3 tiffin boxes\nand 2 water bottles. In how many ways\ncan she carry these items (choosing one\neach).\nA school  bag can be chosen in 2\ndifferent ways. After a school bag is\nchosen, a tiffin box can be chosen in 3\ndifferent ways. Hence, there are\n2 × 3 = 6 pairs of school bag and a tiffin\nbox. For each of these pairs a water\nbottle can be c",
+  "context_sources": [
+    "ncert:grade11/maths/ch6"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Sets"
+  ],
+  "prerequisites_descriptions": {
+    "Sets": "Well-defined collection of objects; roster and set-builder notation"
+  },
+  "successors_to_link": [
+    "Factorial Notation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Sets",
+    "Factorial Notation",
+    "Permutations",
+    "Permutations with Repetition and Restrictions",
+    "Combinations",
+    "Applications of Combinations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

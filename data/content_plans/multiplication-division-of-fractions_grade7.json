@@ -1,0 +1,45 @@
+{
+  "concept_slug": "multiplication-division-of-fractions",
+  "canonical_name": "Multiplication and Division of Fractions",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Number Systems",
+  "description": "Multiplying and dividing proper/improper/mixed fractions",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade7 Ch8 — Multiplication of Fractions]\nAaron walks 3 kilometres in 1 hour.\nHow far can he walk in 5 hours?\nThis is a simple question. We know\nthat to find the distance, we need to\nfind the product of 5 and 3, i.e., we\nmultiply 5 and 3.\nDistance covered in 1 hour = 3 km.\nTherefore,\nDistance covered in 5 hours\n= 5 × 3 km\n= 3 + 3 + 3 + 3 + 3 km\n= 15 km.\nAaron’s pet tortoise walks at a much slower pace. It can walk only 1\nkilometre in 1 hour. How far can it walk in 3 hours?\nHere, the distance covered in an hour is a fraction. This does not\nmatter. The total distance covered is calculated in the same way, as\nmultiplication.\nDistance covered in 1 hour = 1\n4 km.\nDistance in\n1 hour\nDistance in 3 hour\n4 km\nGanita Prakash | Grade 7\nTherefore, distance covered in 3 hours = 3 × 1\n4 km\n= 1\n4 + 1\n4 + 1\n4 km\n= 3\n4 km.\nThe tortoise can walk 3\n4 km in 3 hours.\nLet us consider a case where the time spent walking is a fraction of\nan hour.\nWe saw that Aaron can walk 3 kilometres in 1 hour. How far can he\nwalk in 1\n5 hours?\nWe continue to calcu\n\n[NCERT Grade7 Ch8 — Division of Fractions]\nWhat is 12 ÷ 4? You know this already.\nBut can this problem be restated as a\nmultiplication problem?\nWhat should be multiplied by 4 to get\n12? That is,\n4 × ? = 12\nDividend\nDivisor\nQuotient\n12 ÷ 4 = 3\nWorking with Fractions\nWe can use this technique of converting division into multiplication\nproblems to divide fractions.\nWhat is 1 ÷ 2\n3 ?\nLet us rewrite this as a multiplication problem\n3 × ? = 1\nWhat should be multiplied by 2\n3 to get the product 1?\nIf we somehow cancel out the 2 and the 3, we are left with 1.\nSo,\n1 ÷ 2\n3 = 3\n2.\nLet us try another problem:\n3 ÷ 2\n3.\nThis is the same as\n3 × ? = 3.\nCan you find the answer?\nWe know what to multiply 2\n3 by to get 1. We just need to multiply that\nby 3 to get 3. So,\nSo,\n3 ÷ 2\n3 = 3\n2 × 3 = 9\n2.\nWhat is  1\n5 ÷ 1\n2 ?\nRewriting it as a multiplication problem, we have\n2 × ? = 1\n5.\n3 × 3\n2 = 1\nAnswer\n3 × 3\n2  × 3 = 3\nAnswer\nGanita Prakash | Grade 7\nHow do we solve this?\nSo,\n5 ÷ 1\n2 = 2 × 1\n5 = 2\n5.\nWhat is  2\n3 ÷ 3\n5 ?\nRewriting this as multiplicat\n\n[NCERT Grade7 Ch2 — Multiplication of Integers]\nWe used the token model to represent addition and subtraction of\nintegers. We now explore how to model multiplication of integers using\ntokens.\nSuppose we put some positive tokens into an empty bag as shown in\nthe figure.\nHow many positives are in the bag now?\nThere are 8 positives in the bag.  We can\nsee this as adding 2 positives to the bag\n4 times. Thus, the operation is, 4 × 2 = 8.\nWe have seen this kind of multiplication\nof positive integers before. Can we use\ntokens to give meaning to multiplications\nlike 4 × (– 2)?\nLet us see how.\nFor every new operation, we start\nwith an empty bag.\n4 × (–2) can be interpreted as placing\n2 negatives into an empty bag 4 times.\nWe use red tokens for negatives, so we\nplace 2 negatives into an empty bag 4\ntimes.\nThere are now 8 red tokens or\n8 negatives in the bag, meaning – 8.\n4 × (– 2) = (– 8).\nSimilarly find the values of 4 × (– 6) and 9 × (– 7)? How can we interpret\n(– 4) × 2?\nWhen the multiplier is positive, we place tokens into the bag. When\nt",
+  "context_sources": [
+    "ncert:grade7/maths/ch8",
+    "ncert:grade7/maths/ch8",
+    "ncert:grade7/maths/ch2"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Addition and Subtraction of Fractions"
+  ],
+  "prerequisites_descriptions": {
+    "Addition and Subtraction of Fractions": "Adding/subtracting fractions with like and unlike denominators"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Addition and Subtraction of Fractions",
+    "Integers",
+    "Operations on Integers",
+    "Decimals",
+    "Conversion Between Fractions and Decimals",
+    "Decimal Operations",
+    "Rational Numbers",
+    "Operations on Rational Numbers",
+    "Rational Numbers on the Number Line"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

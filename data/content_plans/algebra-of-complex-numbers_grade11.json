@@ -1,0 +1,48 @@
+{
+  "concept_slug": "algebra-of-complex-numbers",
+  "canonical_name": "Algebra of Complex Numbers",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "Addition, subtraction, multiplication, division; conjugate",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch4 — Algebra of Complex Numbers]\nIn this Section, we shall develop the algebra of complex numbers.\n4.3.1   Addition of two complex numbers Let z1 = a + ib and z2 = c + id be any two\n\n[NCERT Grade11 Ch4 — Complex Numbers]\nLet us denote\n− by the symbol i. Then, we have\ni = −. This means that i is a\nsolution of the equation x2 + 1 = 0.\nA number of the form a + ib, where a and b are real numbers, is defined to be a\ncomplex number. For example, 2 + i3,  (– 1) +\ni\n,\ni −\n\n\n+ \n\n\n are complex numbers.\nFor the complex number z = a + ib, a is called the real part, denoted by Re z and\nb is called the imaginary part denoted by Im z of the complex number z. For example,\nif z = 2 + i5, then Re z = 2 and Im z = 5.\nTwo complex numbers z1 = a + ib and z2 = c + id are equal if  a = c and b = d.\nReprint 2025-26\nCOMPLEX NUMBERS AND QUADRATIC EQUATIONS       77\nExample 1 If 4x + i(3x – y) = 3 + i (– 6), where x and y are real numbers, then find\nthe values of x and y.\nSolution We have\n4x + i (3x – y) = 3 + i (–6)\n... (1)\nEquating the real and the imaginary parts of (1), we get\n4x = 3, 3x – y = – 6,\nwhich, on solving simultaneously, give\nx =\nand\ny =\n.\n4.3   Algebra of Complex Numbers\n\n[NCERT Grade11 Ch4 — Addition of two complex numbers]\ncomplex numbers. Then, the sum  z1 + z2 is defined as follows:\nz1 + z2 = (a + c) + i (b + d), which is again a complex number.\nFor example, (2 + i3) + (– 6 +i5) = (2 – 6) + i (3 + 5) = – 4 + i 8\nThe addition of complex numbers satisfy the following properties:\n(i)\nThe closure law  The sum of two complex numbers is a complex\nnumber, i.e., z1 + z2 is a complex number for all complex numbers\nz1 and z2.\n(ii)\nThe commutative law  For any two complex numbers z1 and z2,\nz1 + z2 = z2\n+ z1\n(iii)\nThe associative law  For any three complex numbers z1, z2, z3,\n(z1 + z2) + z3 = z1 + (z2 + z3).\n(iv)\nThe existence of additive identity  There exists the complex number\n0 + i 0 (denoted as 0), called the additive identity or the zero complex\nnumber, such that, for every complex number z, z + 0 = z.\n(v)\nThe existence of additive inverse  To every complex number\nz = a + ib, we have the complex number – a + i(– b) (denoted as –  z),\ncalled the additive inverse or negative of z. We observe that z + (–z) = 0\n\n[NCERT Grade11 Ch12 — Algebra of limits]\nprocess respects addition, subtraction, multiplication and division as long as the limits\nand functions under consideration are well defined. This is not a coincidence. In fact,\nbelow we formalise these as a theorem without proof.\nTheorem 1 Let f  and g be two functions such that both lim\nx\na\n→ f (x) and  lim\nx\na\n→ g(x) exist.\nThen\n(i) Limit of sum of two functions is sum of the limits of the functions, i.e.,\nlim\nx\na\n→[f(x) + g (x)] =  lim\nx\na\n→ f(x) +  lim\nx\na\n→ g(x).\n(ii)\nLimit of difference of two functions is difference of the limits of the functions, i.e.,\nlim\nx\na\n→[f(x) – g(x)] =  lim\nx\na\n→ f(x) –  lim\nx\na\n→ g(x).\n(iii)\nLimit of product of two functions is product of the limits of the functions, i.e.,\nlim\nx\na\n→ [f(x) . g(x)] =  lim\nx\na\n→ f(x).  lim\nx\na\n→ g(x).\n(iv)\nLimit of quotient of two functions is quotient of the limits of the functions (whenever\nthe denominator is non zero), i.e.,\n( )\n( )\n( )\n( )\nlim\nlim\nlim\nx\na\nx\na\nx\na\nf x\nf x\ng x\ng x\n→\n→\n→\n=\nANote In particular as a speci\n\n[NCERT Grade11 Ch14 — Algebra of events]\nways of combining two or more sets, viz, union, intersection, difference, complement\nof a set etc. Like-wise we can combine two or more events by using the analogous set\nnotations.\nLet A, B, C be events associated with an experiment whose sample space is S.\n1. Complementary Event For every event A, there corresponds another event\nA′called the complementary event to A. It is also called the event ‘not A’.\nFor example, take the experiment ‘of tossing three coins’. An associated sample\nspace is\nS = {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT}\nLet  A={HTH, HHT, THH} be the event ‘only one tail appears’\nClearly for the outcome HTT, the event A has not occurred. But we may say that\nthe event ‘not A’ has occurred. Thus, with every outcome which is not in A, we say\nthat ‘not A’ occurs.\nThus the complementary event ‘not A’ to the event A is\nA′ = {HHH, HTT, THT, TTH, TTT}\nor\nA′ = {ω : ω ∈ S and ω ∉A} = S – A.\n2. The Event ‘A or B’ Recall that union of two sets A and B denoted by A ∪ B\ncontains all t",
+  "context_sources": [
+    "ncert:grade11/maths/ch4",
+    "ncert:grade11/maths/ch4",
+    "ncert:grade11/maths/ch4",
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch14"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Complex Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Complex Numbers": "Numbers of the form a+bi where i²=−1"
+  },
+  "successors_to_link": [
+    "Modulus and Argument of a Complex Number"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Complex Numbers",
+    "Modulus and Argument of a Complex Number",
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Functions",
+    "Composition of Functions",
+    "Special Functions and Their Graphs"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,46 @@
+{
+  "concept_slug": "shortest-distance-two-lines",
+  "canonical_name": "Shortest Distance Between Two Lines",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Coordinate Geometry",
+  "description": "Distance between skew lines and parallel lines",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch11 — Shortest Distance between Two Lines]\nIf two lines in space intersect at a point,\nthen the shortest distance between them is\nzero. Also, if two lines in space are parallel,\nthen the shortest distance between them\nwill be the perpendicular distance, i.e. the\nlength of the perpendicular drawn from a\npoint on one line onto the other line.\nFurther, in a space, there are lines which\nare neither intersecting nor parallel. In fact,\nsuch pair of lines are non coplanar and\nare called skew lines. For example, let us\nconsider a room of size 1, 3, 2 units along\nx, y and z-axes respectively Fig 11.5.\nFig 11.5\nReprint 2025-26\nThe line GE that goes diagonally across the ceiling and the line DB passes through\none corner of the ceiling directly above A and goes diagonally down the wall. These\nlines are skew because they are not parallel and also never meet.\nBy the shortest distance between two lines we mean the join of a point in one line\nwith one point on the other line so that the length of the segment so obtained is the\nsmallest.\nFor sk\n\n[NCERT Grade12 Ch11 — Distance between two skew lines]\nl2\nS\nT\nQ\nP\nl1\nWe now determine the shortest distance between two skew lines in the following way:\nLet l1 and l2  be two skew lines with equations (Fig. 11.6)\n=\n+ λ\nr\nra\nb\n... (1)\nand\n=\n+ µ\nr\nra\nb\n... (2)\nTake any point S on l1 with position vector 1ar\nand T on l2, with position vector\nar .\nThen the magnitude of the shortest distance vector\nwill be equal to that of the projection of ST along the\ndirection of the line of shortest distance (See 10.6.2).\nIf  PQ\nuuur\nis the shortest distance vector between l1\nand l2 , then it being perpendicular to both  1\nr\nb  and 2\nr\nb ,\nthe unit vector nˆ  along PQ\nuuur\nwould therefore be\nˆn =\n|\n|\n×\n×\nr\nr\nr\nr\nb\nb\nb\nb\n... (3)\nThen\nPQ\nuuur\n= d nˆ\nwhere, d is the magnitude of the shortest distance vector. Let θ be the angle between\nST\nuur\nand PQ\nuuur\n. Then\nPQ = ST |cos θ|\nBut\ncos θ =\nPQ ST\n| PQ | | ST |\n⋅\nuuur uur\nuuuur\nuur\n=\nˆ (\n)\nST\n⋅\n−\nr\nr\nd n\na\na\nd\n(since\nST\n)\n=\n−\nuur\nr\nr\na\na\n=\n(\n) (\n)\nST\n×\n⋅\n−\n×\nr\nr\nr\nr\nr\nr\nb\nb\na\na\nb\nb\n[From (3)]\nFig 11.6\nReprint 2025\n\n[NCERT Grade12 Ch11 — Angle between Two Lines]\nLet L1 and L2 be two lines passing through the origin\nand with direction ratios a1, b1, c1 and a2, b2, c2,\nrespectively. Let P be a point on L1 and Q be a point\non L2. Consider the directed lines OP and OQ as\ngiven in Fig 11.6. Let θ be the acute angle between\nOP and OQ. Now recall that the directed line\nsegments OP and OQ are vectors with components\na1, b1, c1 and a2, b2, c2, respectively. Therefore, the\nangle θ between them is given by\ncosθ =\n1 2\n1 2\n1 2\na a\nb b\nc c\na\nb\nc\na\nb\nc\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n... (1)\nThe angle between the lines in terms of sin θ is given by\nsin θ =\ncos\n−\nθ\n=\n(\n)(\n)\n1 2\n1 2\n1 2\n(\n)\na a\nb b\nc c\na\nb\nc\na\nb\nc\n+\n+\n−\n+\n+\n+\n+\n=\n(\n)(\n) (\n)\n(\n) (\n)\n1 2\n1 2\n1 2\na\nb\nc\na\nb\nc\na a\nb b\nc c\na\nb\nc\na\nb\nc\n+\n+\n+\n+\n−\n+\n+\n+\n+\n+\n+\n=\n(\n)\n(\n)\n(\n)\n−\n+\n−\n+\n−\n+\n+\n+\n+\na b\na b\nb c\nb c\nc a\nc a\na\nb\nc\na\nb\nc\n... (2)\nFig 11.4\nReprint 2025-26\nANote   In case the lines L1 and L2 do not pass through the origin, we may take\nlines\nL andL\n′\n′ which are parallel to L1 and L2 r\n\n[NCERT Grade12 Ch11 — Distance between parallel lines]\nIf two lines l1 and  l2 are parallel, then they are coplanar.  Let the lines be given by\n... (1)\nand\n… (2)\nwhere, 1ar is the position vector of a point S on l1 and\nar\nis the position vector of a point T on l2 Fig 11.7.\nAs l1, l2 are coplanar, if the foot of the perpendicular\nfrom T on the line l1 is P, then the distance between the\nlines l1 and l2 =  |TP|.\nLet θ be the angle between the vectors ST\nuur\nand .\nThen\nST\n×\n=\nuur\nr\nb\nˆ ...\n(3)\nwhere nˆ  is the unit vector perpendicular to the plane of the lines l1 and l2.\nBut\nST\nuur\n=\n−\nr\nr\na\na\nFig 11.7\nReprint 2025-26\nTherefore, from (3), we get\n(\n)\n×\n−\nr\nr\nr\nb\na\na  =\nˆ\n| PT\nr\nb\nn        (since PT = ST sin θ)\ni.e.,\n|\n(\n)|\n×\n−\nr\nr\nr\nb\na\na\n= |\n| PT 1⋅\nr\nb\n(as |\n|\nˆn  = 1)\nHence, the distance between the given parallel lines is\nd =\nExample 9 Find the shortest distance between the lines l1 and l2 whose vector\nequations are\n=\nˆ\nˆ\nˆ\nˆ\nˆ\n(2\n)\ni\nj\ni\nj\nk\n+\n+ λ\n−\n+\n... (1)\nand\n=\nˆ\nˆ\nˆ\nˆ\nˆ\nˆ\n(3\n)\ni\nj\nk\ni\nj\nk\n+\n−\n+ µ\n−\n+\n... (2)\nSolution Comparing (1) a",
+  "context_sources": [
+    "ncert:grade12/maths/ch11",
+    "ncert:grade12/maths/ch11",
+    "ncert:grade12/maths/ch11",
+    "ncert:grade12/maths/ch11"
+  ],
+  "ncert_chunks_found": 4,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Equation of a Line in 3D",
+    "Cross (Vector) Product"
+  ],
+  "prerequisites_descriptions": {
+    "Equation of a Line in 3D": "Vector and Cartesian forms; parametric equations",
+    "Cross (Vector) Product": "a⃗×b⃗ = |a||b|sinθ n̂; properties; area of parallelogram/triangle"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Equation of a Line in 3D",
+    "Cross (Vector) Product",
+    "Direction Cosines and Direction Ratios",
+    "Angle Between Two Lines in 3D",
+    "Equation of a Plane",
+    "Angle Between Two Planes",
+    "Distance of a Point from a Plane"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,46 @@
+{
+  "concept_slug": "total-probability-theorem",
+  "canonical_name": "Theorem of Total Probability",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Probability",
+  "description": "P(A) = ΣP(Bᵢ)P(A|Bᵢ) over a partition",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch13 — Theorem of total probability]\nFig 13.4\nLet   {E1, E2,...,En}  be a partition of the sample space S,  and suppose that each of the\nevents E1, E2,..., En has nonzero probability of occurrence. Let A be any event associated\nwith S, then\nP(A) = P(E1) P(A|E1) + P(E2) P(A|E2) + ... + P(En) P(A|En)\n=\nP(E )P(A|E )\nn\nj\nj\nj=∑\nProof  Given that E1, E2,..., En is a partition of the sample space S (Fig 13.4). Therefore,\nS = E1 ∪ E2 ∪ ... ∪ En\n... (1)\nand\nEi ∩ Ej = φ, i ≠ j, i, j = 1, 2, ..., n\nNow, we know that for any event A,\nA = A ∩ S\n= A ∩ (E1 ∪ E2 ∪ ... ∪ En)\n= (A ∩ E1) ∪ (A ∩ E2) ∪ ...∪ (A ∩ En)\nAlso A ∩ Ei and A ∩ Ej are respectively the subsets of Ei and Ej. We know that\nEi  and Ej are disjoint, for i\nj\n≠\n, therefore, A  ∩ Ei and A  ∩ Ej  are also disjoint for all\ni ≠ j,  i, j = 1, 2, ..., n.\nThus,\nP(A) = P [(A ∩ E1) ∪ (A ∩ E2)∪ .....∪ (A ∩ En)]\n= P (A ∩ E1) + P (A ∩ E2) + ... + P (A ∩ En)\nNow, by multiplication rule of probability, we have\nP(A ∩ Ei) = P(Ei) P(A|Ei) as  P (Ei) ≠ 0∀i = 1,2,..., n\nReprint 2025-26\nPROBABIL\n\n[NCERT Grade12 Ch13 — Partition of a sample space]\nA set of events E1, E2, ..., En is said to represent a partition of the sample space S if\n(a) Ei ∩ Ej = φ, i ≠ j, i, j = 1, 2, 3, ..., n\nReprint 2025-26\n(b) E1 ∪ Ε2 ∪ ... ∪ En= S and\n(c) P(Ei) > 0 for all i = 1, 2, ..., n.\nIn other words, the events E1, E2, ..., En represent a partition of the sample space\nS if they are pairwise disjoint, exhaustive and have nonzero probabilities.\nAs an example, we see that any nonempty event E and its complement E′ form a\npartition of the sample space S since they satisfy E ∩ E′ = φ and E ∪ E′ = S.\nFrom the Venn diagram in Fig 13.3, one can easily observe that if E and F are any\ntwo events associated with a sample space S, then the set  {E ∩ F′, E ∩ F, E′ ∩ F, E′ ∩ F′}\nis a partition of the sample space S. It may be mentioned that the partition of a sample\nspace is not unique. There can be several partitions of the same sample space.\nWe shall now prove a theorem known as Theorem of total probability.\n13.5.2  Theorem of total probability\n\n[NCERT Grade12 Ch13 — Multiplication Theorem on Probability]\nLet E and F be two events associated with a sample space S. Clearly, the set E ∩ F\ndenotes the event that both E and F have occurred. In other words, E ∩ F denotes the\nsimultaneous occurrence of the events E and F. The event E ∩ F is also written as EF.\nVery often we need to find the probability of  the event EF. For example, in the\nexperiment of drawing two cards one after the other, we may be interested in finding\nthe probability of the event ‘a king and a queen’. The probability of event EF is obtained\nby using the conditional probability as obtained below :\nWe know that the conditional probability of event E given that F has occurred is\ndenoted by P(E|F) and is given by\nP(E|F) = P(E\nF) ,P(F) 0\nP(F)\n∩\n≠\nFrom this result, we can write\nP(E ∩ F) = P(F) . P(E|F)\n... (1)\nAlso, we know that\nP(F|E) = P(F\nE) ,P(E) 0\nP(E)\n∩\n≠\nor\nP(F|E) = P(E\nF)\nP(E)\n∩\n(since E ∩ F = F ∩ E)\nThus,\nP(E ∩ F) = P(E). P(F|E)\n.... (2)\nCombining (1) and (2), we find that\nP(E ∩ F) = P(E) P(F|E)\n= P(F) P(E|F) provided",
+  "context_sources": [
+    "ncert:grade12/maths/ch13",
+    "ncert:grade12/maths/ch13",
+    "ncert:grade12/maths/ch13"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Conditional Probability"
+  ],
+  "prerequisites_descriptions": {
+    "Conditional Probability": "P(A|B) = P(A∩B)/P(B)"
+  },
+  "successors_to_link": [
+    "Bayes' Theorem"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Conditional Probability",
+    "Bayes' Theorem",
+    "Multiplication Theorem on Probability",
+    "Independent Events",
+    "Random Variables",
+    "Probability Distribution",
+    "Mean and Variance of a Random Variable",
+    "Bernoulli Trials"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

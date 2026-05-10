@@ -1,0 +1,42 @@
+{
+  "concept_slug": "data-collection-and-organisation",
+  "canonical_name": "Data Collection and Organisation",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Statistics",
+  "description": "Gathering, recording and organising raw data; tally marks",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch4 — Collecting and Organising Data]\nNavya and Naresh are discussing their favourite games.\nCricket is my\nfavourite game!\nI play cricket sometimes\nbut hockey is the game I\nlike the most.\nI think cricket is the\nmost popular game in\nour class.\nI am not sure. How can we find\nthe most popular game in our\nclass?\nReprint 2025-26\nData Handling and Presentation\nTo figure out the most popular game in\ntheir class, what should Navya and Naresh\ndo? Can you help them?\nNaresh and Navya decided to go to each student in the class and\nask what their favourite game is. Then they prepared a list.\nNavya is showing the list:\nShe says (happily), “I have collected the data. I can figure out the\nmost popular game now!”.\nA few other children are looking at the list and wondering, “We\ncan’t yet see the most popular game. How can we get it from this list?”.\nFigure it Out\n1.\n\u0007What would you do to find the most popular game among Naresh’s\nand Navya’s classmates?\n2.\nWhat is the most popular game in their class?\n3.\n\u0007Try to find out the most popular gam",
+  "context_sources": [
+    "ncert:grade6/maths/ch4"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [],
+  "prerequisites_descriptions": {},
+  "successors_to_link": [
+    "Bar Graphs, Pictographs and Pie Charts",
+    "Frequency Distribution Table",
+    "Mean, Median and Mode",
+    "Probability — Basic Concepts",
+    "Scatter Plot"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Bar Graphs, Pictographs and Pie Charts",
+    "Frequency Distribution Table",
+    "Mean, Median and Mode",
+    "Probability — Basic Concepts",
+    "Scatter Plot"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

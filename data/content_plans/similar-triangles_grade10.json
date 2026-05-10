@@ -1,0 +1,61 @@
+{
+  "concept_slug": "similar-triangles",
+  "canonical_name": "Similar Triangles",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Geometry",
+  "description": "AA, SAS, SSS similarity criteria; corresponding sides proportional",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade10 Ch6 — Criteria for Similarity of Triangles]\nIn the previous section, we stated that two triangles are similar, if (i) their corresponding\nangles are equal and (ii) their corresponding sides are in the same ratio (or proportion).\nThat is, in  ABC and  DEF, if\n(i)  A =  D,  B =  E,  C =  F and\n(ii) AB\nBC\nCA ,\nDE\nEF\nFD\n\n\nthen the two triangles are similar (see Fig. 6.22).\nFig. 6.22\nReprint 2025-26\nHere, you can see that A corresponds to D, B corresponds to E and C\ncorresponds to F. Symbolically, we write the similarity of these two triangles as\n‘ ABC ~  DEF’ and read it as ‘triangle ABC is similar to triangle DEF’. The\nsymbol ‘~’ stands for ‘is similar to’. Recall that you have used the symbol ‘’ for\n‘is congruent to’ in Class IX.\nIt must be noted that as done in the case of congruency of two triangles, the\nsimilarity of two triangles should also be expressed symbolically, using correct\ncorrespondence of their vertices. For example, for the triangles ABC and DEF of\nFig. 6.22, we cannot write  ABC ~  EDF or  ABC ~  \n\n[NCERT Grade10 Ch6 — Similarity of Triangles]\nWhat can you say about the similarity of two triangles?\nYou may recall that triangle is also a polygon. So, we can state the same conditions\nfor the similarity of two triangles. That is:\nTwo triangles are similiar, if\n(i) their corresponding angles are equal and\n(ii) their corresponding sides are in the same ratio (or proportion).\nNote that if corresponding angles of two\ntriangles are equal, then they are known as\nequiangular triangles. A famous Greek\nmathematician Thales gave an important truth relating\nto two equiangular triangles which is as follows:\nThe ratio of any two corresponding sides in\ntwo equiangular triangles is always the same.\nIt is believed that he had used a result called\nthe Basic Proportionality Theorem (now known as\nthe Thales Theorem) for the same.\nTo understand the Basic Proportionality\nTheorem, let us perform the following activity:\nActivity 2 : Draw any angle XAY and on its one\narm AX, mark points (say five points) P, Q, D, R and\nB such that AP = PQ = QD = DR = \n\n[NCERT Grade10 Ch6 — Introduction]\nYou are familiar with triangles and many of their properties from your earlier classes.\nIn Class IX, you have studied congruence of triangles in detail. Recall that two figures\nare said to be congruent, if they have the same shape and the same size. In this\nchapter, we shall study about those figures which have the same shape but not necessarily\nthe same size. Two figures having the same shape (and not necessarily the same size)\nare called similar figures. In particular, we shall discuss the similarity of triangles and\napply this knowledge in giving a simple proof of Pythagoras Theorem learnt earlier.\nCan you guess how heights of mountains (say Mount Everest) or distances of\nsome long distant objects (say moon) have been found out? Do you think these have\nReprint 2025-26\nbeen measured directly with the help of a measuring tape? In fact, all these heights\nand distances have been found out using the idea of indirect measurements, which is\nbased on the principle of similarity of figures (\n\n[NCERT Grade10 Ch6 — Similar Figures]\nIn Class IX, you have seen that all circles with the same radii are congruent, all\nsquares with the same side lengths are congruent and all equilateral triangles with the\nsame side lengths are congruent.\nNow consider any two (or more)\ncircles [see Fig. 6.1 (i)]. Are they\ncongruent? Since all of them do not\nhave the same radius, they are not\ncongruent to each other. Note that\nsome are congruent and some are not,\nbut all of them have the same shape.\nSo they all are, what we call, similar.\nTwo similar figures have the same\nshape but not necessarily the same\nsize. Therefore, all circles are similar.\nWhat about two (or more) squares or\ntwo (or more) equilateral triangles\n[see Fig. 6.1 (ii) and (iii)]? As observed\nin the case of circles, here also all\nsquares are similar and all equilateral\ntriangles are similar.\nFrom the above, we can say\nthat all congruent figures are\nsimilar but the similar figures need\nnot be congruent.\nCan a circle and a square be\nsimilar? Can a triangle and a square\nbe",
+  "context_sources": [
+    "ncert:grade10/maths/ch6",
+    "ncert:grade10/maths/ch6",
+    "ncert:grade10/maths/ch6",
+    "ncert:grade10/maths/ch6"
+  ],
+  "ncert_chunks_found": 4,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Ratios and Proportions",
+    "Types of Triangles"
+  ],
+  "prerequisites_descriptions": {
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios",
+    "Types of Triangles": "Classification by sides (scalene, isosceles, equilateral) and angles"
+  },
+  "successors_to_link": [
+    "Mid-Point Theorem",
+    "Trigonometric Ratios",
+    "Similarity of Triangles — Theorems",
+    "Constructions — Division of Line Segment"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Ratios and Proportions",
+    "Types of Triangles",
+    "Mid-Point Theorem",
+    "Trigonometric Ratios",
+    "Similarity of Triangles — Theorems",
+    "Constructions — Division of Line Segment",
+    "Basic Proportionality Theorem (Thales)",
+    "Tangent to a Circle",
+    "Properties of Tangents from External Point",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle",
+    "Centroid of a Triangle",
+    "Circumcentre of a Triangle"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

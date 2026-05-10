@@ -1,0 +1,44 @@
+{
+  "concept_slug": "types-of-vectors",
+  "canonical_name": "Types of Vectors",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Vectors",
+  "description": "Zero, unit, equal, negative, collinear, coplanar vectors",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch10 — Types of Vectors]\nZero Vector A vector whose initial and terminal points coincide, is called a zero vector\n(or null vector), and denoted as . Zero vector can not be assigned a definite direction\nas it has zero magnitude. Or, alternatively otherwise, it may be regarded as having any\ndirection. The vectors\nrepresent the zero vector,\nUnit Vector A vector whose magnitude is unity (i.e., 1 unit) is called a unit vector. The\nunit vector in the direction of a given vector  is denoted by ˆa .\nCoinitial Vectors Two or more vectors having the same initial point are called coinitial\nvectors.\nCollinear Vectors Two or more vectors are said to be collinear if they are parallel to\nthe same line, irrespective of their magnitudes and directions.\nEqual Vectors Two vectors\nare said to be equal, if they have the same\nmagnitude and direction regardless of the positions of their initial points, and written\nas\n.\nNegative of a Vector A vector whose magnitude is the same as that of a given vector\n(say,\n), but direction is oppos\n\n[NCERT Grade12 Ch10 — Some Basic Concepts]\nLet ‘l’ be any straight line in plane or three dimensional space. This line can be given\ntwo directions by means of arrowheads. A line with one of these directions prescribed\nis called a directed line (Fig 10.1 (i), (ii)).\nReprint 2025-26\nVECTOR ALGEBRA\nNow observe that if we restrict the line l to the line segment AB, then a magnitude\nis prescribed on the line l with one of the two directions, so that we obtain a directed\nline segment (Fig 10.1(iii)). Thus, a directed line segment has magnitude as well as\ndirection.\nDefinition 1 A quantity that has magnitude as well as direction is called a vector.\nNotice that a directed line segment is a vector (Fig 10.1(iii)), denoted as\nor\nsimply as , and read as ‘vector\n’ or ‘vector ’.\nThe point A from where the vector\nstarts is called its initial point, and the\npoint B where it ends is called its terminal point. The distance between initial and\nterminal points of a vector is called the magnitude (or length) of the vector, denoted as\n|\n|, or | |, \n\n[NCERT Grade12 Ch10 — Product of Two Vectors]\nSo far we have studied about addition and subtraction of vectors. An other algebraic\noperation which we intend to discuss regarding vectors is their product. We may\nrecall that product of two numbers is a number, product of two matrices is again a\nmatrix. But in case of functions, we may multiply them in two ways, namely,\nmultiplication of two functions pointwise and composition of two functions. Similarly,\nmultiplication of two vectors is also defined in two ways, namely, scalar (or dot)\nproduct where the result is a scalar, and vector (or cross) product where the\nresult is a vector. Based upon these two types of products for vectors, they have\nfound various applications in geometry, mechanics and engineering. In this section,\nwe will discuss these two types of products.\n10.6.1  Scalar (or dot) product of two vectors",
+  "context_sources": [
+    "ncert:grade12/maths/ch10",
+    "ncert:grade12/maths/ch10",
+    "ncert:grade12/maths/ch10"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Vectors — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Vectors — Introduction": "Directed line segment; magnitude and direction; position vectors"
+  },
+  "successors_to_link": [
+    "Addition of Vectors"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Vectors — Introduction",
+    "Addition of Vectors",
+    "Scalar Multiplication of Vectors",
+    "Dot (Scalar) Product",
+    "Cross (Vector) Product",
+    "Scalar Triple Product"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

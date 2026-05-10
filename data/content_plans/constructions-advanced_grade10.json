@@ -1,0 +1,43 @@
+{
+  "concept_slug": "constructions-advanced",
+  "canonical_name": "Constructions — Division of Line Segment",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Geometry",
+  "description": "Dividing a line segment in a given ratio; similar triangle construction",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Basic Geometric Constructions",
+    "Similar Triangles"
+  ],
+  "prerequisites_descriptions": {
+    "Basic Geometric Constructions": "Using compass and straightedge to construct angles, bisectors and perpendiculars",
+    "Similar Triangles": "AA, SAS, SSS similarity criteria; corresponding sides proportional"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Basic Geometric Constructions",
+    "Similar Triangles",
+    "Similarity of Triangles — Theorems",
+    "Basic Proportionality Theorem (Thales)",
+    "Tangent to a Circle",
+    "Properties of Tangents from External Point",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle",
+    "Centroid of a Triangle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

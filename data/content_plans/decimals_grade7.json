@@ -1,0 +1,59 @@
+{
+  "concept_slug": "decimals",
+  "canonical_name": "Decimals",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Number Systems",
+  "description": "Representing fractions with denominators as powers of 10",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch4 — Decimal Division]\nExample 6: Anuja has a 3.9 m length\nof ribbon and she wants to cut it into\n10 equal pieces. What is the length of\neach piece in decimal?\nSince there are 10 pieces, we\ncan find the length of each piece by\ndividing 3.9 by 10.\nSo, what is 3.9 ÷ 10?\nLet’s convert 3.9 into fraction 3.9 = 39\n10.\nHence, 3.9 ÷ 10 is the same as\ndividing 39\n10 by 10.\nRecall that, dividing a fraction by\na divisor is the same as multiplying\nthe fraction by the reciprocal of the\ndivisor. The reciprocal of 10 is 1\n.\nSo, 39\n10 ÷ 10 = 39\n10 × 1\n10 = 39\n100 = 0.39.\nThus, the length of each piece of\nribbon is 0.39 m.\nWhat is the length of each piece if the ribbon is cut into 100 equal pieces?\n3.9 ÷ 100 = 39\n10 × 1\n100 = 39\n1000 = 0.039.\nWhen the ribbon is cut into 100 equal pieces, the length of each piece\nis 0.039 m.\nWhat is the length of\neach piece in decimal?\nAnother Peek Beyond the Point\nWhat is 0.039 m in centimetres and millimetres?\nBy looking at these divisions, we can frame a simple rule for dividing\ndecimals b\n\n[NCERT Grade7 Ch4 — A Quick Recap of Decimals]\nRecall that decimals are the natural extension of the Indian place value\nsystem to represent decimal fractions ( 1\n10, 1\n100,\n1000, and so on) and\ntheir sums.\nFor example, 27.53 refers to a quantity that has:\n•\n2 Tens\n•\n7 Units (Ones)\n•\n5 Tenths\n•\n3 Hundredths\nWe have already learned how to multiply and divide fractions. In this\nchapter, we will learn how to perform these operations with decimals.\nYou will see that the procedures for multiplying and dividing decimals\nare natural extensions of the procedures for multiplying and dividing\ncounting numbers.\nJonali and Pallabi play a game. Jonali\nsays a fraction and Pallabi gives the\nequivalent decimal. Write Pallabi’s\nanswer in the blank spaces.\nJonali goes to the market to\nbuy spices. She purchases 50 g of\nCinnamon, 100 g of Cumin seeds, 25 g\nof Cardamom and 250 g of Pepper.\nExpress each of the quantities in\nkilograms by writing them in terms of\nfractions as well as decimals.\nThe fractions Jonali gave Pallabi\nhave denominators 10, 100, 10\n\n[NCERT Grade7 Ch3 — More on the Decimal System]\nDecimal and Measurement Disasters\nDecimal point and unit conversion mistakes may seem minor sometimes\nbut they can lead to serious problems. Here are some actual incidents\nin which such errors caused major issues.\nA Peek Beyond the Point\n•\t In 2013, the finance office of Amsterdam City Council (Netherlands)\nmistakenly sent out €188 million in housing benefits instead of the\nintended €1.8 million due to a programming error that processed\npayments in euro cents instead of euros. (1 euro-cent = 1/100\neuro).\n•\t In 1983, a decimal error nearly caused a disaster for an Air Canada\nBoeing 767. The ground staff miscalculated the fuel, loading 22,300\npounds instead of kilograms—about half of what was needed (1\npound ~ 0.453 kg). The plane ran out of fuel mid-air, forcing the\npilots to make an emergency landing at an abandoned airfield.\nFortunately, everyone survived.\nSeveral incidents have occurred due to incorrect reading of decimal\nnumbers while giving medication. For example, reading 0.05 mg \n\n[NCERT Grade7 Ch4 — Decimal Multiplication]\nExample 1: Arshad goes to a stationery shop and purchases 5 pens. If\none pen costs ₹9.5 (9 rupees and 50 paisa), how much should he pay the\nshopkeeper?\nWhat operation must we use here?\nWe have to multiply 9.5 by 5, which is the same as adding 9.5, 5 times.\nThat is 9.5 × 5 = 9.5 + 9.5 + 9.5 + 9.5 + 9.5 = 47.5.\nWe can also directly multiply the numbers by converting them into\nfractions.\n9.5 is 95\n10 and 5 is 5\n1 as a fraction.\nThe cost of 5 pens =  5\n1 × 95\n10 .\nRecall that, to find the product of two fractions, we multiply the\nnumerators and multiply the denominators.\n1 × 95\n10 = 5 × 95\n1 × 10\n= 475\n= 47.5.\nThe cost of 5 pens is ₹47.5.\nExample 2: A car travels 12.5 km per litre of petrol. What is the distance\ncovered with 7.5 litres of petrol?\nWe have to multiply 12.5 by 7.5.\nThe distance covered = 12.5 × 7.5\n= 125\n10  × 75\n10 = 125×75\n10×10  = 9375\n100  = 93.75\nThe distance covered is 93.75 km.\nGanita Prakash | Grade 7 | Part-II\nCan the product of two decimals be a natural number?\nCan",
+  "context_sources": [
+    "ncert:grade7/maths/ch4",
+    "ncert:grade7/maths/ch4",
+    "ncert:grade7/maths/ch3",
+    "ncert:grade7/maths/ch4"
+  ],
+  "ncert_chunks_found": 4,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Fractions",
+    "Place Value and Indian Numeration"
+  ],
+  "prerequisites_descriptions": {
+    "Fractions": "Numbers of the form a/b representing parts of a whole",
+    "Place Value and Indian Numeration": "Value of each digit determined by position; Indian and International systems up to crores"
+  },
+  "successors_to_link": [
+    "Conversion Between Fractions and Decimals",
+    "Percentage",
+    "Decimal Operations",
+    "Rational Numbers",
+    "Circumference of a Circle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Fractions",
+    "Place Value and Indian Numeration",
+    "Conversion Between Fractions and Decimals",
+    "Percentage",
+    "Decimal Operations",
+    "Rational Numbers",
+    "Circumference of a Circle",
+    "Integers",
+    "Operations on Integers",
+    "Multiplication and Division of Fractions",
+    "Operations on Rational Numbers",
+    "Rational Numbers on the Number Line"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

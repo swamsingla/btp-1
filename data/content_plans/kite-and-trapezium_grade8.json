@@ -1,0 +1,41 @@
+{
+  "concept_slug": "kite-and-trapezium",
+  "canonical_name": "Kite and Trapezium Properties",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Geometry",
+  "description": "Properties of non-parallelogram quadrilaterals",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade8 Ch4 — Kite and Trapezium]\nKite\nOne of the ways the two triangles of sides 6 cm, 9 cm and 12 cm can be\njoined together is as follows —\nThis quadrilateral looks like a kite. Observe that\nthe adjacent sides are of the same length.\nKite: A kite is a quadrilateral that can be labelled\nABCD such that AB = BC, and CD = DA.\nProperty 1: In the kite, show that the diagonal BD\n(i)\t bisects ∠ABC and ∠ADC,\n(ii)\t \u0007bisects the diagonal AC, that is,\nAO = OC, and is perpendicular to it.\nHint: Is ∆AOB ≅ ∆COB?\n6 cm\n9 cm\n12 cm\n6 cm\n9 cm\nA\nB\nC\nD\nO\nGanita Prakash | Grade 8\nTrapezium\nParallelograms are quadrilaterals that have\nparallel opposite sides. We get a new type\nof quadrilateral if we relax this condition.\nTrapezium: A trapezium is a quadrilateral\nwith at least one pair of parallel opposite\nsides.\nConstruct a trapezium. Measure the base angles (marked in the figure).\nCan you find the remaining angles without measuring them?\nSince PQ||SR, we have\nProperty 1: ∠ S + ∠P = 180° and ∠R + ∠Q = 180°.\nUsing these facts, the remaining a",
+  "context_sources": [
+    "ncert:grade8/maths/ch4"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Quadrilaterals"
+  ],
+  "prerequisites_descriptions": {
+    "Quadrilaterals": "Four-sided polygons; angle sum = 360°; types of quadrilaterals"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Quadrilaterals",
+    "Properties of Parallelogram",
+    "Properties of Rhombus, Rectangle and Square",
+    "Pythagorean Theorem",
+    "Converse of Pythagorean Theorem",
+    "Circles — Basic Properties",
+    "Perpendicular Bisector"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

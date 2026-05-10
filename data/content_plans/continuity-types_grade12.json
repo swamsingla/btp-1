@@ -1,0 +1,43 @@
+{
+  "concept_slug": "continuity-types",
+  "canonical_name": "Types of Discontinuity",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "Removable, jump, infinite discontinuity",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch1 — Types of Functions]\nThe notion of a function along with some special functions like identity function, constant\nfunction, polynomial function, rational function, modulus function, signum function etc.\nalong with their graphs have been given in Class XI.\nAddition, subtraction, multiplication and division of two functions have also been\nstudied. As the concept of function is of paramount importance in mathematics and\namong other  disciplines as well, we would like to extend our study about function from\nwhere we finished earlier. In this section, we would like to study different types of\nfunctions.\nConsider the functions  f1, f2, f3 and f4 given by the following diagrams.\nIn Fig 1.2, we observe that the images of distinct elements of X1 under the function\nf1 are distinct, but the image of two distinct elements 1 and 2 of X1 under f2 is same,\nnamely b. Further, there are some elements like e and f in X2 which are not images of\nany element of X1 under f1, while all elements of X3 are images of some elements o\n\n[NCERT Grade12 Ch5 — Continuity]\nWe start the section with two informal examples to get a feel of continuity. Consider\nthe function\n1, if\n( )\n2, if\nx\nf x\nx\n≤\n\n= \n>\n\nThis function is of course defined at every\npoint of the real line. Graph of this function is\ngiven in the Fig 5.1. One can deduce from the\ngraph that the value of the function at nearby\npoints on x-axis remain close to each other\nexcept at x = 0. At the points near and to the\nleft of 0, i.e., at points like – 0.1, – 0.01, – 0.001,\nthe value of the function is 1. At the points near\nand to the right of 0, i.e., at points like 0.1, 0.01,\nFig 5.1\nReprint 2025-26\nCONTINUITY AND DIFFERENTIABILITY\n0.001, the value of the function is 2. Using the language of left and right hand limits, we\nmay say that the left (respectively right) hand limit of f at 0 is 1 (respectively 2). In\nparticular the left and right hand limits do not coincide. We also observe that the value\nof the function at x = 0 concides with the left hand limit. Note that when we try to draw\nthe gr",
+  "context_sources": [
+    "ncert:grade12/maths/ch1",
+    "ncert:grade12/maths/ch5"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Continuity of Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Continuity of Functions": "f continuous at a iff lim f(x) = f(a); algebra of continuous functions"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Continuity of Functions",
+    "Differentiability",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions",
+    "Derivatives in Parametric Form"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

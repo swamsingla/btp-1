@@ -1,0 +1,45 @@
+{
+  "concept_slug": "division-of-polynomials",
+  "canonical_name": "Division of Algebraic Expressions",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Algebra",
+  "description": "Dividing a polynomial by a monomial or polynomial",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Factorisation of Algebraic Expressions"
+  ],
+  "prerequisites_descriptions": {
+    "Factorisation of Algebraic Expressions": "Taking out common factors; grouping; using identities"
+  },
+  "successors_to_link": [
+    "Remainder Theorem",
+    "Synthetic Division"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Factorisation of Algebraic Expressions",
+    "Remainder Theorem",
+    "Synthetic Division",
+    "Algebraic Identities",
+    "Linear Equations in One Variable",
+    "Exponents and Powers",
+    "Negative and Zero Exponents",
+    "Linear Equations in Two Variables",
+    "Graphing Linear Equations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

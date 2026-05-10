@@ -1,0 +1,52 @@
+{
+  "concept_slug": "limits-intuitive",
+  "canonical_name": "Limits — Intuitive Idea",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Calculus",
+  "description": "Left/right-hand limits; limit of a function at a point",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch12 — Introduction]\nThis chapter is an introduction to Calculus. Calculus is that\nbranch of mathematics which mainly deals with the study\nof change in the value of a function as the points in the\ndomain change. First, we give an intuitive idea of derivative\n(without actually defining it). Then we give a naive definition\nof limit and study some algebra of limits. Then we come\nback to a definition of derivative and study some algebra\nof derivatives. We also obtain derivatives of certain\nstandard functions.\n12.2  Intuitive Idea of Derivatives\nSir Issac Newton\n\n[NCERT Grade11 Ch12 — Intuitive Idea of Derivatives]\nPhysical experiments have confirmed that the body dropped\nfrom a tall cliff covers a distance of 4.9t2 metres in t seconds,\ni.e., distance s in metres covered by the body as a function of time t in seconds is given\nby s = 4.9t2.\nThe adjoining Table 13.1 gives the distance travelled in metres at various intervals\nof time in seconds of a body dropped from a tall cliff.\nThe objective is to find the veloctiy of the body at time t = 2 seconds from this\ndata. One way to approach this problem is to find the average velocity for various\nintervals of time ending at t = 2 seconds and hope that these throw some light on the\nvelocity at t = 2 seconds.\nAverage velocity between t = t1 and t = t2 equals distance travelled between\nt = t1 and t = t2  seconds divided by  (t2 – t1). Hence the average velocity in the first\ntwo seconds\n(1642-1727)\nReprint 2025-26\n=\nDistance travelled between\nTime interval (\n)\nt\nand t\nt\nt\n=\n=\n−\n= (\n)\n(\n)\n19.6\n9.8\n/\nm\nm s\ns\n−\n=\n−\n.\nSimilarly, the average velocity between t =\n\n[NCERT Grade11 Ch12 — Limits]\nThe above discussion clearly points towards the fact that we need to understand limit-\ning process in greater clarity. We study a few illustrative examples to gain some famil-\niarity with the concept of limits.\nConsider the function f(x) = x2. Observe that as x takes values very close to 0,\nthe value of f(x) also moves towards 0 (See Fig 2.10 Chapter 2). We say\n( )\nlim\nx\nf\nx\n→\n=\n(to be read as limit of f (x) as x tends to zero equals zero).  The limit of f (x) as x tends\nto zero is to be thought of as the value f (x) should assume at x = 0.\nIn general as x → a, f (x) → l, then l is called limit of the function f (x) which is\nsymbolically written as\n( )\nlim\nx\na f\nx\nl\n→\n= .\nConsider the following function g(x) = |x|, x ≠0. Observe that g(0) is not defined.\nComputing the value of g(x) for values of x very\nnear to 0, we see that the value of g(x) moves\ntowards 0. So,\nlim\nx→ g(x) = 0. This is intuitively\nclear from the graph of y = |x| for x ≠0.\n(See Fig 2.13, Chapter 2).\nConsider the follo\n\n[NCERT Grade11 Ch12 — Algebra of limits]\nprocess respects addition, subtraction, multiplication and division as long as the limits\nand functions under consideration are well defined. This is not a coincidence. In fact,\nbelow we formalise these as a theorem without proof.\nTheorem 1 Let f  and g be two functions such that both lim\nx\na\n→ f (x) and  lim\nx\na\n→ g(x) exist.\nThen\n(i) Limit of sum of two functions is sum of the limits of the functions, i.e.,\nlim\nx\na\n→[f(x) + g (x)] =  lim\nx\na\n→ f(x) +  lim\nx\na\n→ g(x).\n(ii)\nLimit of difference of two functions is difference of the limits of the functions, i.e.,\nlim\nx\na\n→[f(x) – g(x)] =  lim\nx\na\n→ f(x) –  lim\nx\na\n→ g(x).\n(iii)\nLimit of product of two functions is product of the limits of the functions, i.e.,\nlim\nx\na\n→ [f(x) . g(x)] =  lim\nx\na\n→ f(x).  lim\nx\na\n→ g(x).\n(iv)\nLimit of quotient of two functions is quotient of the limits of the functions (whenever\nthe denominator is non zero), i.e.,\n( )\n( )\n( )\n( )\nlim\nlim\nlim\nx\na\nx\na\nx\na\nf x\nf x\ng x\ng x\n→\n→\n→\n=\nANote In particular as a speci\n\n[NCERT Grade11 Ch12 — Limits of polynomials and rational functions]\npolynomial function of degree n f(x) = a0 + a1x + a2x2 +. . . + anxn, where ais are real\nnumbers such that an ≠ 0 for some natural number n.\nWe know that lim\nx\na\n→x = a. Hence\nReprint 2025-26\nLIMITS AND DERIVATIVES            229\n(\n)\nlim\nlim\n.\nlim .lim\n.\nx\na\nx\na\nx\na\nx\na\nx\nx x\nx\nx\na a\na\n→\n→\n→\n→\n=\n=\n=\n=\nAn easy exercise in induction on n tells us that\nlim\nn\nn\nx\na x\na\n→\n=\nNow, let\n( )\n...\nn\nn\nf x\na\na x\na x\na x\n=\n+\n+\n+\n+\nbe a polynomial function. Thinking\nof each of\n,\n,\n,...,\nn\nn\na\na x a x\na x  as a function, we have\n( )\nlim\nx\na f\nx\n→\n=\nlim\n...\nn\nn\nx\na a\na x\na x\na x\n→\n\n+\n+\n+\n+\n\n\n=\nlim\nlim\nlim\n...\nlim\nn\nn\nx\na\nx\na\nx\na\nx\na\na\na x\na x\na x\n→\n→\n→\n→\n+\n+\n+\n+\n=\nlim\nlim\n...\nlim\nn\nn\nx\na\nx\na\nx\na\na\na\nx\na\nx\na\nx\n→\n→\n→\n+\n+\n+\n+\n=\n...\nn\nn\na\na a\na a\na a\n+\n+\n+\n+\n=\n( )\nf a\n(Make sure that you understand the justification for each step in the above!)\nA function f is said to be a rational function, if f(x) =\n( )\n( )\ng x\nh x , where g(x) and h(x)\nare polynomials such that h(x) ≠ 0. Then\n( )\n( )\n( )\n( )\n( )\n( )\n\n[Wikipedia]\nIn mathematics, a limit is the value that a function approaches as the argument approaches some value. Limits of functions are essential to calculus and mathematical analysis, and are used to define continuity, derivatives, and integrals.\nThe concept of a limit of a sequence is further generalized to the concept of a limit of a topological net, and is closely related to limit and direct limit in category theory.\nThe limit inferior and limit superior provide generalizations of the concept of a limit which are particularly relevant when the limit at a point may not exist.",
+  "context_sources": [
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch12",
+    "ncert:grade11/maths/ch12",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Functions",
+    "Real Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Functions": "A relation where each input has exactly one output",
+    "Real Numbers": "Union of rational and irrational numbers"
+  },
+  "successors_to_link": [
+    "Algebra of Limits"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Functions",
+    "Real Numbers",
+    "Algebra of Limits",
+    "Standard Limits",
+    "Derivatives — First Principles",
+    "Basic Differentiation Rules",
+    "Derivatives of Trigonometric Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

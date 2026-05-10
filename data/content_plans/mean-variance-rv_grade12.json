@@ -1,0 +1,43 @@
+{
+  "concept_slug": "mean-variance-rv",
+  "canonical_name": "Mean and Variance of a Random Variable",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Probability",
+  "description": "E(X) = ΣxᵢP(xᵢ); Var(X) = E(X²)−[E(X)]²",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Probability Distribution",
+    "Variance and Standard Deviation"
+  ],
+  "prerequisites_descriptions": {
+    "Probability Distribution": "Probability mass function; ΣP(X=xᵢ)=1",
+    "Variance and Standard Deviation": "σ² = Σ(xᵢ−x̄)²/n; shortcut formula; for frequency distributions"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Probability Distribution",
+    "Variance and Standard Deviation",
+    "Conditional Probability",
+    "Multiplication Theorem on Probability",
+    "Independent Events",
+    "Theorem of Total Probability",
+    "Bayes' Theorem",
+    "Random Variables",
+    "Bernoulli Trials"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

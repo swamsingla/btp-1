@@ -1,0 +1,62 @@
+{
+  "concept_slug": "cartesian-coordinate-system",
+  "canonical_name": "Cartesian Coordinate System",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Coordinate Geometry",
+  "description": "x-y plane; quadrants; plotting ordered pairs",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade9 Ch3 — Cartesian System]\nYou have studied the number line in the chapter on ‘Number System’. On the number\nline, distances from a fixed point are marked in equal units positively in one direction\nand negatively in the other. The point from which the distances are marked is called\nthe origin. We use the number line to represent the numbers by marking points on a\nline at equal distances. If one unit distance represents the number ‘1’, then 3 units\ndistance represents the number ‘3’, ‘0’ being at the origin. The point in the positive\ndirection at a distance r from the origin represents the number r. The point in the\nnegative direction at a distance r from the origin represents the number −r. Locations\nof different numbers on the number line are shown in Fig. 3.5.\nFig. 3.5\nDescartes invented the idea of placing two such lines perpendicular to each other\non a plane, and locating points on the plane by referring them to these lines. The\nperpendicular lines may be in any direction such as in Fig.3.6. But, when we cho",
+  "context_sources": [
+    "ncert:grade9/maths/ch3"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Operations on Integers",
+    "Real Numbers",
+    "Number Line"
+  ],
+  "prerequisites_descriptions": {
+    "Operations on Integers": "Addition, subtraction, multiplication and division of integers; sign rules",
+    "Real Numbers": "Union of rational and irrational numbers",
+    "Number Line": "Representation of numbers as points on a straight line; ordering and spacing"
+  },
+  "successors_to_link": [
+    "Linear Equations in Two Variables",
+    "Plotting Points and Reading Coordinates",
+    "Pair of Linear Equations in Two Variables",
+    "Distance Formula",
+    "Argand Plane and Polar Representation",
+    "System of Linear Inequalities",
+    "Introduction to 3D Geometry",
+    "Scatter Plot"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Operations on Integers",
+    "Real Numbers",
+    "Number Line",
+    "Linear Equations in Two Variables",
+    "Plotting Points and Reading Coordinates",
+    "Pair of Linear Equations in Two Variables",
+    "Distance Formula",
+    "Argand Plane and Polar Representation",
+    "System of Linear Inequalities",
+    "Introduction to 3D Geometry",
+    "Scatter Plot"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

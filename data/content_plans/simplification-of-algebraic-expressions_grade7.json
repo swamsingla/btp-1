@@ -1,0 +1,42 @@
+{
+  "concept_slug": "simplification-of-algebraic-expressions",
+  "canonical_name": "Simplification of Algebraic Expressions",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Algebra",
+  "description": "Collecting like terms; simplifying using properties",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade7 Ch4 — Simplification of Algebraic Expressions]\nEarlier we found expressions to find perimeters of different regular\nfigures in terms of their sides. Let us now find an expression to find the\nperimeter of a rectangle.\nGanita Prakash | Grade 7\nAs in the previous cases, we will first describe how to get the perimeter\nwhen the length and the breadth of the rectangle are known:\nFind the sum of length + breadth + length + breadth.\nLet us use the letter-numbers l and b in place of length and breadth\nrespectively. Let p denote the perimeter of the rectangle. Then we have\np = l + b + l + b\nAs we know, these represent numbers, and so the terms of an\nexpression can be added in any order. Hence the above expression can\nbe written as:\n= l + l + b + b\nAs l + l = 2 × l = 2l, and b + b = 2 × b = 2b, we have\np = 2l + 2b.\nNotice that the initial expression (l + b + l + b) and the final expression\n(2l + 2b) that we got for the perimeter look different. However, they\nare equal since the expression was obtained from the initial one by\napplying the same\n\n[NCERT Grade7 Ch4 — Revisiting Arithmetic Expressions]\nWe learnt to write expressions as sums of terms and it became easy\nfor us to read arithmetic expressions. Many times they could have\nbeen read in multiple ways and it was confusing. We used swapping\n(adding two numbers in any order) and grouping (adding numbers\nby grouping them conveniently) to find easy ways of evaluating\nexpressions. Swapping and grouping terms does not change the value of\nthe expression. We also learnt to use brackets in expressions, including\nbrackets with a negative sign outside. We learnt the distributive\nproperty (multiple of a sum is the same as sum of multiples).\nLet us revise these concepts and find the values of the following\nexpressions:\n1.\n23 – 10 × 2\n2.\n83 + 28 – 13 + 32\n3.\n34 – 14 + 20\n4.\n42 + 15 – (8 – 7)\n5.\n68 – (18 + 13)\n6.\n7 × 4 + 9 × 6\n7.\n20 + 8 × (16 – 6)\nLet us evaluate the first expression, 23 – 10 × 2. First we shall write\nthe terms of the expression. Notice that one of the terms is a number,\nwhile the other one has to be converted to a number b",
+  "context_sources": [
+    "ncert:grade7/maths/ch4",
+    "ncert:grade7/maths/ch4"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Terms, Coefficients and Degree"
+  ],
+  "prerequisites_descriptions": {
+    "Terms, Coefficients and Degree": "Identifying terms, numerical coefficients, and degree of an expression"
+  },
+  "successors_to_link": [
+    "Algebraic Identities"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Terms, Coefficients and Degree",
+    "Algebraic Identities",
+    "Algebraic Expressions",
+    "Simple Equations in One Variable",
+    "Linear Equations in One Variable"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

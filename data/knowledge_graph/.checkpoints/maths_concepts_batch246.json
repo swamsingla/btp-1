@@ -1,0 +1,21 @@
+[
+  {
+    "canonical_name": "Properties of a Parallelegram",
+    "slug": "properties-of-a-parallelogram",
+    "aliases": [],
+    "domain": "Geometry",
+    "area": "Parallelograms",
+    "parent": null,
+    "grades": [
+      9
+    ],
+    "importance-by-grade": {
+      "9": 5
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

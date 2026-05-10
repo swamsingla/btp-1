@@ -1,0 +1,20 @@
+[
+  {
+    "canonical_name": "Land of Tens",
+    "slug": "land-of-tens",
+    "_aliases": [],
+    "domain": "Number System",
+    "area": "Decimals and Fractions",
+    "parent": "number-system",
+    "grades": [
+      7
+    ],
+    "importance-by-grade": {
+      "7": 5
+    },
+    "source_Boards": [
+      "NCERT"
+    ],
+    "subject": "maths"
+  }
+]

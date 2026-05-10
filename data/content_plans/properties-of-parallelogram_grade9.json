@@ -1,0 +1,53 @@
+{
+  "concept_slug": "properties-of-parallelogram",
+  "canonical_name": "Properties of Parallelogram",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Geometry",
+  "description": "Opposite sides/angles equal; diagonals bisect each other",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade9 Ch8 — Properties of a Parallelogram]\nYou have already studied quadrilaterals and their types in Class VIII. A quadrilateral\nhas four sides, four angles and four vertices. A parallelogram is a quadrilateral in\nwhich both pairs of opposite sides are parallel.\nLet us perform an activity.\nCut out a parallelogram from a sheet of paper\nand cut it along a diagonal (see Fig. 8.1). You obtain\ntwo triangles. What can you say about these\ntriangles?\nPlace one triangle over the other. Turn one around,\nif necessary. What do you observe?\nObserve that the two triangles are congruent to\neach other.\nRepeat this activity with some more parallelograms. Each time you will observe\nthat each diagonal divides the parallelogram into two congruent triangles.\nLet us now prove this result.\nTheorem 8.1 : A diagonal of a parallelogram divides it into two congruent\ntriangles.\nProof : Let ABCD be a parallelogram and AC be a diagonal (see Fig. 8.2). Observe\nthat the diagonal AC divides parallelogram ABCD into two triangles, namely, ∆ ABC\nand ∆ CDA. We ne",
+  "context_sources": [
+    "ncert:grade9/maths/ch8"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Quadrilaterals",
+    "Congruence of Triangles"
+  ],
+  "prerequisites_descriptions": {
+    "Quadrilaterals": "Four-sided polygons; angle sum = 360°; types of quadrilaterals",
+    "Congruence of Triangles": "SSS, SAS, ASA, AAS, RHS criteria for triangle congruence"
+  },
+  "successors_to_link": [
+    "Properties of Rhombus, Rectangle and Square",
+    "Mid-Point Theorem",
+    "Similarity of Triangles — Theorems"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Quadrilaterals",
+    "Congruence of Triangles",
+    "Properties of Rhombus, Rectangle and Square",
+    "Mid-Point Theorem",
+    "Similarity of Triangles — Theorems",
+    "Parallel Lines and Transversals",
+    "Properties of Triangles",
+    "Similar Triangles",
+    "Constructions of Triangles",
+    "Pythagorean Theorem",
+    "Circles — Basic Properties"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

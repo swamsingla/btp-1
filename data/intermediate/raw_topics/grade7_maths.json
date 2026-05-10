@@ -1,0 +1,781 @@
+{
+  "grade": 7,
+  "subject": "maths",
+  "total_topics": 76,
+  "topics": [
+    {
+      "raw_name": "A Lakh Varieties!",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LARGE NUMBERS AROUND US"
+    },
+    {
+      "raw_name": "Land of Tens",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LARGE NUMBERS AROUND US"
+    },
+    {
+      "raw_name": "Of Crores and Crores!",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LARGE NUMBERS AROUND US"
+    },
+    {
+      "raw_name": "Exact and Approximate Values",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LARGE NUMBERS AROUND US"
+    },
+    {
+      "raw_name": "Patterns in Products",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LARGE NUMBERS AROUND US"
+    },
+    {
+      "raw_name": "Did You Ever Wonder…?",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT LARGE NUMBERS AROUND US"
+    },
+    {
+      "raw_name": "Simple Expressions",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ARITHMETIC EXPRESSIONS"
+    },
+    {
+      "raw_name": "Reading and Evaluating Complex Expressions",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ARITHMETIC EXPRESSIONS"
+    },
+    {
+      "raw_name": "The Need for Smaller Units",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "A Tenth Part",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "A Hundredth Part",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "Decimal Place Value",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "Units of Measurement",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "Locating and Comparing Decimals",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "Addition and Subtraction of Decimals",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "More on the Decimal System",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "The Notion of Letter-Numbers",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT EXPRESSIONS USING LETTER- NUMBERS"
+    },
+    {
+      "raw_name": "Revisiting Arithmetic Expressions",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT EXPRESSIONS USING LETTER- NUMBERS"
+    },
+    {
+      "raw_name": "Simplification of Algebraic Expressions",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT EXPRESSIONS USING LETTER- NUMBERS"
+    },
+    {
+      "raw_name": "Pick Patterns and Reveal Relationships",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT EXPRESSIONS USING LETTER- NUMBERS"
+    },
+    {
+      "raw_name": "Across the Line",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Identifying parallel lines in real-life scenarios",
+        "Defining collinear points",
+        "Visualizing line segments on number lines",
+        "Recognizing horizontal and vertical lines",
+        "_Calculating distances between collinear points_"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PARALLEL AND INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Perpendicular Lines",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PARALLEL AND INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Between Lines",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Describing midpoints of line segments",
+        "Locating external tangents to circles",
+        "Using midpoint formulae",
+        "Finding lengths of line segments through midpoints",
+        "Calculating coordinates of midpoints"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PARALLEL AND INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Transversals",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PARALLEL AND INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Corresponding Angles",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PARALLEL AND INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Drawing Parallel Lines",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PARALLEL AND INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Alternate Angles",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PARALLEL AND INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Parallel Illusions",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT PARALLEL AND INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Numbers Tell us Things",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Picking Parity",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Some Explorations in Grids",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Nature’s Favourite Sequence: The Virahāṅka–",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Digits in Disguise",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT NUMBER PLAY"
+    },
+    {
+      "raw_name": "Constructions Related to Altitudes of Triangles",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A TALE OF THREE INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Types of Triangles",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A TALE OF THREE INTERSECTING LINES"
+    },
+    {
+      "raw_name": "Multiplication of Fractions",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WORKING WITH FRACTIONS"
+    },
+    {
+      "raw_name": "Division of Fractions",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WORKING WITH FRACTIONS"
+    },
+    {
+      "raw_name": "Some Problems Involving Fractions",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WORKING WITH FRACTIONS"
+    },
+    {
+      "raw_name": "Geometric Twins",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT GEOMETRIC TWINS"
+    },
+    {
+      "raw_name": "Congruence of Triangles",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT GEOMETRIC TWINS"
+    },
+    {
+      "raw_name": "Angles of Isosceles and Equilateral Triangles",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT GEOMETRIC TWINS"
+    },
+    {
+      "raw_name": "A Quick Recap of Integers",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT OPERATIONS WITH INTEGERS"
+    },
+    {
+      "raw_name": "Multiplication of Integers",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT OPERATIONS WITH INTEGERS"
+    },
+    {
+      "raw_name": "The Greatest of All",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FINDING COMMON GROUND"
+    },
+    {
+      "raw_name": "Least, but not Last!",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FINDING COMMON GROUND"
+    },
+    {
+      "raw_name": "Patterns, Properties, and a Pretty Procedure!",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FINDING COMMON GROUND"
+    },
+    {
+      "raw_name": "A Quick Recap of Decimals",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ANOTHER PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "Decimal Multiplication",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ANOTHER PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "Decimal Division",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ANOTHER PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "Look Before You Leap!",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ANOTHER PEEK BEYOND THE POINT"
+    },
+    {
+      "raw_name": "Of Questions and Statements",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONNECTING THE DOTS…"
+    },
+    {
+      "raw_name": "Representative Values",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONNECTING THE DOTS…"
+    },
+    {
+      "raw_name": "Visualising Data",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONNECTING THE DOTS…"
+    },
+    {
+      "raw_name": "Data Detective",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONNECTING THE DOTS…"
+    },
+    {
+      "raw_name": "Geometric Constructions",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONSTRUCTIONS AND TILINGS"
+    },
+    {
+      "raw_name": "Tiling",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT CONSTRUCTIONS AND TILINGS"
+    },
+    {
+      "raw_name": "Find the Unknowns",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FINDING THE UNKNOWN"
+    },
+    {
+      "raw_name": "Solving Equations Systematically",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FINDING THE UNKNOWN"
+    },
+    {
+      "raw_name": "Mind the Mistake, Mend the Mistake",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FINDING THE UNKNOWN"
+    },
+    {
+      "raw_name": "A Pinch of History",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FINDING THE UNKNOWN"
+    },
+    {
+      "raw_name": "Similar Triangles",
+      "source_boards": [],
+      "note": "",
+      "subtopics": [
+        "Identifying corresponding sides in similar triangles",
+        "Determining proportional side lengths using ratios",
+        "Applying similarity rules for congruent angles",
+        "Using triangle similarity to solve problems involving scale factors",
+        "Recognizing real-world applications of similar triangles"
+      ]
+    },
+    {
+      "raw_name": "Pythagoras' Theorem",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Area of Trapezium",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Volume of Cone",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Heron's Formula",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Circumference of Circle",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Area Under Curve by Integration",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Graphical Representation of Statistics",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Mean Deviation",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Median Class Mark",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Range and Interquartile Range",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Probability as a Measure of Uncertainty",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Theoretical Probability",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Experimental Probability",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Random Experiments",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    },
+    {
+      "raw_name": "Algebraic Identities",
+      "source_boards": [],
+      "note": "",
+      "subtopics": []
+    }
+  ]
+}

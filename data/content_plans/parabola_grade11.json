@@ -1,0 +1,44 @@
+{
+  "concept_slug": "parabola",
+  "canonical_name": "Parabola",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Coordinate Geometry",
+  "description": "y²=4ax; focus, directrix, vertex, axis, latus rectum",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch10 — Parabola]\nFig 10. 13\nFig 10.14\nDefinition 2 A parabola is the set of all points\nin a plane that are equidistant from a fixed line\nand a fixed point (not on the line) in the plane.\nThe fixed line is called the directrix of\nthe parabola and the fixed point F is called the\nfocus (Fig 10.13). (‘Para’ means ‘for’ and\n‘bola’ means ‘throwing’, i.e., the shape\ndescribed when you throw a ball in the air).\nANote   If the fixed point lies on the fixed\nline, then the set of points in the plane, which\nare equidistant from the fixed point and the\nfixed line is the straight line through the fixed\npoint and perpendicular to the fixed line.  We\ncall this straight line as degenerate case of\nthe parabola.\nA line through the focus  and perpendicular\nto the directrix  is called the axis of the\nparabola. The point of intersection of parabola\nwith the axis is called the vertex of the parabola\n(Fig10.14).\n10.4.1 Standard equations of parabola\n\n[NCERT Grade11 Ch10 — Standard equations of parabola]\nThe equation of a parabola is simplest if the\nvertex is at the origin and the axis of symmetry is along the x-axis or y-axis. The four\npossible such orientations of parabola are shown below in  Fig10.15 (a) to (d).\nReprint 2025-26\nCONIC SECTIONS       183\nWe will derive the equation for the parabola shown above in Fig 10.15 (a) with\nfocus at (a, 0) a > 0; and directricx x = – a as below:\nLet F be the focus and l the directrix.  Let\nFM be perpendicular to the directrix and bisect\nFM at the point O.  Produce MO to X.  By the\ndefinition of  parabola, the mid-point O is on the\nparabola and is called the vertex of the parabola.\nTake O as origin, OX the x-axis and OY\nperpendicular to it as the y-axis.  Let the distance\nfrom the directrix to the focus be 2a. Then, the\ncoordinates of the focus are (a, 0),  and the\nequation of the directrix is x + a = 0 as in Fig10.16.\nLet P(x, y) be any point on the parabola such that\nPF = PB,\n... (1)\nwhere PB is perpendicular to l. The coordinates of B are (–\n\n[Wikipedia]\nIn mathematics, a parabola is a plane curve which is mirror-symmetrical and is approximately U-shaped. It fits several superficially different mathematical descriptions, which can all be proved to define exactly the same curves.",
+  "context_sources": [
+    "ncert:grade11/maths/ch10",
+    "ncert:grade11/maths/ch10",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Conic Sections — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Conic Sections — Introduction": "Circle, parabola, ellipse, hyperbola as sections of a cone"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Conic Sections — Introduction",
+    "Slope of a Line",
+    "Equation of a Straight Line",
+    "General Equation of a Line",
+    "Angle Between Two Lines",
+    "Distance of a Point from a Line",
+    "Family of Lines",
+    "Equation of a Circle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

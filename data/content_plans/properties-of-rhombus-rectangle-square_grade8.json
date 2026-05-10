@@ -1,0 +1,42 @@
+{
+  "concept_slug": "properties-of-rhombus-rectangle-square",
+  "canonical_name": "Properties of Rhombus, Rectangle and Square",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Geometry",
+  "description": "Special parallelograms and their diagonal properties",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade8 Ch4 — Rectangles and Squares]\nWe know what rectangles are. Let us define them.\nRectangle: A rectangle is a quadrilateral in which —\n(i)\t The angles are all right angles (90°), and\n(ii)\t The opposite sides are of equal length.\nThe definition precisely states the conditions a quadrilateral has to\nsatisfy to be called a rectangle.\nAre there other ways to define a rectangle?\nLet us consider the following problem related to the construction of\nrectangles.\nA Carpenter’s Problem\nA carpenter needs to put together\ntwo thin strips of wood, as shown\nin Fig. 1, so that when a thread is\npassed through their endpoints, it\nforms a rectangle.\nShe already has one 8 cm long\nstrip. What should be the length of\nthe other strip? Where should they\nboth be joined?\nLet us first model the structure\nthat the carpenter has to make. The\nstrips can be modelled as line segments. They are the diagonals of the\nquadrilateral formed by their endpoints. For the quadrilateral to be a\nrectangle, we need to answer the following questions —\n1. \u0007What is \n\n[NCERT Grade8 Ch7 — Rectangle and Squares]\nHow many different ways can you divide a square into 4 parts of equal\narea?\nOne can actually think of infinitely many such ways! Consider a\ndivision, such as —\nand alter each part as follows.\nIn each part, the area is compressed along one edge and expanded\nalong another edge. If both the compression and expansion are of the\nsame magnitude, then all 4 parts still have the same area!\nTry to think of different creative ways to divide a square into\n4 parts of equal area.\nMath\nTalk\nArea\nYou might have seen the rangoli art form, in which regions of different\nshapes are beautifully coloured using rangoli powder.\nWhich of these rectangles requires more\nrangoli powder to be coloured, if the\ncolouring is done evenly?\nWe can answer this by counting the\nnumber of non-overlapping unit squares\n(squares of sidelength 1 cm in this case)\nthat can be packed into each of the\nrectangles.\nClearly,\nthe\nrectangle\nhaving\nsidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the\nrectangle having side",
+  "context_sources": [
+    "ncert:grade8/maths/ch4",
+    "ncert:grade8/maths/ch7"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Properties of Parallelogram"
+  ],
+  "prerequisites_descriptions": {
+    "Properties of Parallelogram": "Opposite sides/angles equal; diagonals bisect each other"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Properties of Parallelogram",
+    "Quadrilaterals",
+    "Kite and Trapezium Properties",
+    "Pythagorean Theorem",
+    "Converse of Pythagorean Theorem",
+    "Circles — Basic Properties",
+    "Perpendicular Bisector"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

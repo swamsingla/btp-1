@@ -1,0 +1,42 @@
+{
+  "concept_slug": "partial-fractions",
+  "canonical_name": "Partial Fractions",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Algebra",
+  "description": "Decomposing p(x)/q(x) into simpler fractions",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch7 — Integration by Partial Fractions]\nRecall that a rational function is defined as the ratio of two polynomials in the form\nP( )\nQ( )\nx\nx\n, where P (x) and Q(x) are polynomials in x and Q(x) ≠ 0. If the degree of P(x)\nis less than the degree of Q(x), then the rational function is called proper, otherwise, it\nis called improper. The improper rational functions can be reduced to the proper rational\nReprint 2025-26\nINTEGRALS         253\nfunctions by long division process. Thus, if P( )\nQ( )\nx\nx  is improper, then\n1P ( )\nP( )\nT( )\nQ( )\nQ( )\nx\nx\nx\nx\nx\n=\n+\n,\nwhere T(x) is a polynomial in x and\n1P ( )\nQ( )\nx\nx is a proper rational function. As we know\nhow to integrate polynomials, the integration of any rational function is reduced to the\nintegration of a proper rational function. The rational functions which we shall consider\nhere for integration purposes will be those whose denominators can be factorised into\nlinear and quadratic factors. Assume that we want to evaluate\nP( )\nQ( )\nx dx\nx\n∫\n, where P( )\nQ( )\nx\nx\nis proper ration\n\n[NCERT Grade12 Ch7 — Integrals of Some Particular Functions]\nIn this section, we mention below some important formulae of integrals and apply them\nfor integrating many other related standard integrals:\n(1) ∫\n–\n=\nlog\n+ C\n+\n–\ndx\nx\na\na\nx\na\nx\na\nReprint 2025-26\n(2) ∫\n+\n=\nlog\n+ C\n–\n–\ndx\na\nx\na\na\nx\na\nx\n(3) ∫\n– 1\n1 tan\nC\ndx\nx\n=\n+\na\na\nx + a\n(4) ∫\n2 = log\n+\n–\n+ C\n–\ndx\nx\nx\na\nx\na\n(5) ∫\n– 1\n2 = sin\n+ C\n–\ndx\nx\na\na\nx\n(6) ∫\n2 = log\n+\n+\n+ C\n+\ndx\nx\nx\na\nx\na\nWe now prove the above results:\n(1)\nWe have\n(\n) (\n)\nx – a\nx\na\nx – a\n=\n+\n=\n(\n) – (\n)\n(\n) (\n)\nx\na\nx – a\n–\na\nx – a\nx\na\na\nx – a\nx\na\n\n\n+\n\n\n=\n\n\n\n\n+\n+\n\n\n\n\nTherefore,\ndx\ndx\ndx\n–\na\nx – a\nx\na\nx – a\n\n\n=\n\n\n+\n\n\n∫\n∫\n∫\n=\n[\n]\nlog (\n)|\nlog (\n)|\nC\n| x – a –\n| x\na\na\n+\n+\n= 1 log\nC\nx – a\na\nx\na +\n+\n(2)\nIn view of (1) above, we have\n(\n)\n(\n)\n(\n) (\n)\n–\na\nx\na\nx\na\na\nx\na\nx\na\nx\n\n\n+\n+\n−\n=\n\n\n+\n−\n\n = 1\n2a\na\nx\na\nx\n\n\n+\n\n\n−\n+\n\n\nReprint 2025-26\nINTEGRALS         245\nTherefore,\n–\ndx\na\nx\n∫\n= 1\ndx\ndx\na\na\nx\na\nx\n\n\n+\n\n\n−\n+\n\n\n∫\n∫\n= 1 [ log |\n|\nlog |\n|]\nC\na\nx\na\nx\na −\n−\n+\n+\n+\n=\n1 log\nC\na\nx\na\na\nx\n+\n+\n−\nANote  The techniqu",
+  "context_sources": [
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Factorisation of Polynomials",
+    "Operations on Rational Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Factorisation of Polynomials": "Factorising using splitting middle term, identities, factor theorem",
+    "Operations on Rational Numbers": "Addition, subtraction, multiplication, division; properties"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Factorisation of Polynomials",
+    "Operations on Rational Numbers",
+    "Types of Functions",
+    "Composition of Functions",
+    "Inverse Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

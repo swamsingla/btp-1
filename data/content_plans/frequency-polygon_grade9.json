@@ -1,0 +1,38 @@
+{
+  "concept_slug": "frequency-polygon",
+  "canonical_name": "Frequency Polygon",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Statistics",
+  "description": "Line graph connecting midpoints of histogram bars",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Histogram"
+  ],
+  "prerequisites_descriptions": {
+    "Histogram": "Bar chart for continuous grouped data; class intervals"
+  },
+  "successors_to_link": [
+    "Ogive (Cumulative Frequency Curve)"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Histogram",
+    "Ogive (Cumulative Frequency Curve)",
+    "Data Representation — Grouped Data",
+    "Central Tendency for Grouped Data"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

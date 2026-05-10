@@ -1,0 +1,52 @@
+{
+  "concept_slug": "logarithms",
+  "canonical_name": "Logarithms",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "log_a(b); laws: product, quotient, power; change of base",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Exponents and Powers",
+    "Real Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Exponents and Powers": "aⁿ notation; laws of exponents for integer exponents",
+    "Real Numbers": "Union of rational and irrational numbers"
+  },
+  "successors_to_link": [
+    "Special Functions and Their Graphs",
+    "Common and Natural Logarithms",
+    "Logarithmic Differentiation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Exponents and Powers",
+    "Real Numbers",
+    "Special Functions and Their Graphs",
+    "Common and Natural Logarithms",
+    "Logarithmic Differentiation",
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Functions",
+    "Composition of Functions",
+    "Complex Numbers",
+    "Algebra of Complex Numbers"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

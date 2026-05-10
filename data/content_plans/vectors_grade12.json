@@ -1,0 +1,54 @@
+{
+  "concept_slug": "vectors",
+  "canonical_name": "Vectors — Introduction",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Vectors",
+  "description": "Directed line segment; magnitude and direction; position vectors",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch1 — Introduction]\nRecall that the notion of relations and functions, domain,\nco-domain and range have been introduced in Class XI\nalong with different types of specific real valued functions\nand their graphs. The concept of the term ‘relation’ in\nmathematics has been drawn from the meaning of relation\nin English language, according to which two objects or\nquantities are related if there is a recognisable connection\nor link between the two objects or quantities. Let  A be\nthe set of students of Class XII of a school and B be the\nset of students of Class XI of the same school. Then some\nof the examples of relations from A to B are\n(i)\n{(a, b) ∈A × B: a is brother of b},\n(ii)\n{(a, b) ∈A × B: a is sister of b},\n(iii)\n{(a, b) ∈A × B: age of a is greater than age of b},\n(iv)\n{(a, b) ∈A × B: total marks obtained by a in the final examination is less than\nthe total marks obtained by b in the final examination},\n(v)\n{(a, b) ∈ A × B: a lives in the same locality as b}.  However, abstracting from\nthis, we define m\n\n[NCERT Grade12 Ch2 — Introduction]\nIn Chapter 1, we have studied that the inverse of a function\nf, denoted by f –1, exists if f is one-one and onto. There are\nmany functions which are not one-one, onto or both and\nhence we can not talk of their inverses. In Class XI, we\nstudied that trigonometric functions are not one-one and\nonto over their natural domains and ranges and hence their\ninverses do not exist. In this chapter, we shall study about\nthe restrictions on domains and ranges of trigonometric\nfunctions which ensure the existence of their inverses and\nobserve their behaviour through graphical representations.\nBesides, some elementary properties will also be discussed.\nThe inverse trigonometric functions play an important\nrole in calculus for they serve to define many integrals.\nThe concepts of inverse trigonometric functions is also used in science and engineering.\n2.2  Basic Concepts\nAryabhata\n(476-550 A. D.)\n\n[NCERT Grade12 Ch3 — Introduction]\nThe knowledge of matrices is necessary in various branches of mathematics. Matrices\nare one of the most powerful tools in mathematics. This mathematical tool simplifies\nour work to a great extent when compared with other straight forward methods. The\nevolution of concept of matrices is the result of an attempt to obtain compact and\nsimple methods of solving system of linear equations. Matrices are not only used as a\nrepresentation of the coefficients in system of linear equations, but utility of matrices\nfar exceeds that use. Matrix notation and operations are used in electronic spreadsheet\nprograms for personal computer, which in turn is used in different areas of business\nand science like budgeting, sales projection, cost estimation, analysing the results of an\nexperiment etc. Also, many physical operations such as magnification, rotation and\nreflection through a plane can be represented mathematically by matrices. Matrices\nare also used in cryptography. This mathematical tool is not\n\n[NCERT Grade12 Ch4 — Introduction]\nIn the previous chapter, we have studied about matrices\nand algebra of matrices. We have also learnt that a system\nof algebraic equations can be expressed in the form of\nmatrices. This means, a system of linear equations like\na1 x + b1 y = c1\na2 x + b2 y = c2\ncan be represented as\na\nb\nc\nx\na\nb\nc\ny\n\n\n\n\n=\n\n\n\n\n\n\n\n\n\n\n. Now, this\nsystem of equations has a unique solution or not, is\ndetermined by the number a1 b2 – a2 b1. (Recall that if\na\nb\na\nb\n≠\nor, a1 b2 – a2 b1 ≠ 0,  then the system of linear\nequations has a unique solution). The number a1 b2 – a2 b1\nwhich determines uniqueness of solution is associated with the matrix\nA\na\nb\na\nb\n\n\n= \n\n\n\nand is called the determinant of A or det A. Determinants have wide applications in\nEngineering, Science, Economics, Social Science, etc.\nIn this chapter, we shall study determinants up to order three only with real entries.\nAlso, we will study various properties of determinants, minors, cofactors and applications\nof determinants in\n\n[NCERT Grade12 Ch5 — Introduction]\nThis chapter is essentially a continuation of our study of\ndifferentiation of functions in Class XI. We had learnt to\ndifferentiate certain functions like polynomial functions and\ntrigonometric functions. In this chapter, we introduce the\nvery important concepts of continuity, differentiability and\nrelations between them. We will also learn differentiation\nof inverse trigonometric functions. Further, we introduce a\nnew class of functions called exponential and logarithmic\nfunctions. These functions lead to powerful techniques of\ndifferentiation. We illustrate certain geometrically obvious\nconditions through differential calculus. In the process, we\nwill learn some fundamental theorems in this area.\n5.2  Continuity\nSir Issac Newton\n(1642-1727)",
+  "context_sources": [
+    "ncert:grade12/maths/ch1",
+    "ncert:grade12/maths/ch2",
+    "ncert:grade12/maths/ch3",
+    "ncert:grade12/maths/ch4",
+    "ncert:grade12/maths/ch5"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Introduction to 3D Geometry",
+    "Trigonometric Ratios"
+  ],
+  "prerequisites_descriptions": {
+    "Introduction to 3D Geometry": "3D coordinate system; octants; distance between two points in 3D",
+    "Trigonometric Ratios": "sin, cos, tan, cosec, sec, cot in a right triangle"
+  },
+  "successors_to_link": [
+    "Types of Vectors",
+    "Equation of a Line in 3D"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Introduction to 3D Geometry",
+    "Trigonometric Ratios",
+    "Types of Vectors",
+    "Equation of a Line in 3D",
+    "Addition of Vectors",
+    "Scalar Multiplication of Vectors",
+    "Dot (Scalar) Product",
+    "Cross (Vector) Product",
+    "Scalar Triple Product"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

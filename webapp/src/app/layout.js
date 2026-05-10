@@ -8,8 +8,8 @@ import ThemeProvider from "@/components/ThemeProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "NCERT Learn",
-  description: "Free structured learning material for NCERT curriculum — Grades 6 to 12",
+  title: "NCERT Learn — Knowledge Graph",
+  description: "Navigate the NCERT Mathematics curriculum through an interconnected knowledge graph — Grades 6 to 12, 324 concepts, 497 connections",
 };
 
 export default function RootLayout({ children }) {

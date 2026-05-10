@@ -1,0 +1,51 @@
+{
+  "concept_slug": "gp-advanced",
+  "canonical_name": "Geometric Series and Sum",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Sequences",
+  "description": "Sum of n terms; sum to infinity for |r|<1; geometric mean",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch8 — Introduction]\nIn mathematics, the word, “sequence” is used in much the\nsame way as it is in ordinary English. When we say that a\ncollection of objects is listed in a sequence, we usually  mean\nthat the collection is ordered in such a way that it has an\nidentified first member, second member, third member and\nso on. For example, population of human beings or bacteria\nat different times form a sequence. The amount of money\ndeposited in a bank, over a number of years form a sequence.\nDepreciated values of certain commodity occur in a\nsequence. Sequences have important applications in several\nspheres of human activities.\nSequences, following specific patterns are called progressions. In previous class,\nwe have studied about arithmetic progression (A.P). In this Chapter, besides discussing\nmore about A.P.; arithmetic mean, geometric mean, relationship between A.M.\nand G.M., special series in forms of sum to n terms of consecutive natural numbers,\nsum to n terms of squares of natural numbers and sum to n \n\n[NCERT Grade11 Ch8 — Sequences]\nLet us consider the following examples:\nAssume that there is a generation gap of 30 years, we are asked to find the\nnumber of ancestors, i.e., parents, grandparents, great grandparents, etc. that a person\nmight have over 300 years.\nHere, the total number of generations = 300\n30 =\nReprint 2025-26\n136       MATHEMATICS\nThe number of person’s ancestors for the first, second, third, …, tenth generations are\n2, 4, 8, 16, 32, …, 1024. These numbers form what we call a sequence.\nConsider the successive quotients that we obtain in the division of 10 by 3 at\ndifferent steps of division. In this process we get 3,3.3,3.33,3.333, ... and so on. These\nquotients also form a sequence. The various numbers occurring in a sequence are\ncalled its terms. We denote the terms of a sequence by a1, a2, a3, …, an, …, etc., the\nsubscripts denote the position of the term. The nth term is the number at the nth position\nof the sequence and is denoted by an. The nth term is also called the general\nterm of the\nseque\n\n[NCERT Grade11 Ch8 — Series]\nLet a1, a2, a3,…,an, be a given sequence. Then, the expression\na1 + a2 + a3 +,…+ an + ...\nis called the series associated with the given sequence .The series is finite or infinite\naccording as the given sequence is finite or infinite. Series are often represented in\ncompact form, called sigma notation, using the Greek letter ∑(sigma) as means of\nindicating the summation involved. Thus, the series a1 + a2 + a3 + ... + an   is abbreviated\nas\nn\nk\nk\na\n=∑\n.\nRemark When the series is used, it refers to the indicated sum not to the sum itself.\nFor example, 1 + 3 + 5 + 7 is a finite series with four terms. When we use the phrase\n“sum of a series,” we will mean the number that results from adding the terms, the\nsum of the series is 16.\nWe now consider some examples.\nExample 1 Write the first three terms in each of the following sequences defined by\nthe following:\n(i)\nan = 2n + 5,\n(ii)\nan =\nn −\n.\nSolution  (i) Here  an = 2n + 5\nSubstituting n = 1, 2, 3, we get\na1 = 2(1) + 5 = 7, a2 = 9, a3 = 11\n\n\n[NCERT Grade11 Ch8 — Geometric Progression (G . P.)]\nLet us consider the following sequences:\n(i) 2,4,8,16,..., (ii)\n1 1\n9 27 81 243\n–\n–\n,\n,\n,\n... (iii) .\n,.\n,.\n,...\n01 0001 000001\nIn each of these sequences, how their terms progress? We note that each term, except\nthe first progresses in a definite order.\nIn (i), we have a\na\na\na\na\na\na\n=\n=\n=\n=\n,\n,\n,\nand so on.\nIn (ii), we observe, a\na\na\na\na\na\na\n=\n=\n=\n=\n,\n,\n,\n\u0013\n\u0013\n\u0013\nand so on.\nSimilarly, state how do the terms in (iii) progress? It is observed that in each case,\nevery term except the first term bears a constant ratio to the term immediately preceding\nit. In (i), this constant ratio is 2; in (ii), it is – 1\n3  and in (iii), the constant ratio is 0.01.\nSuch sequences are called geometric sequence or geometric progression abbreviated\nas G.P.\nA sequence a1, a2, a3, …, an, … is called geometric progression, if each term is\nnon-zero and\na\na\nk\nk\n+ 1 = r (constant), for k ≥ 1.\nBy letting a1 = a, we obtain a geometric progression, a, ar, ar2, ar3,…., where a\nis called the first term and r is called\n\n[NCERT Grade11 Ch8 — General term of a G .P.]\ncommon ratio ‘r’. Write a few terms of it. The second  term is obtained by multiplying\na by r, thus a2 = ar. Similarly, third term is obtained by multiplying a2 by r. Thus,\na3 = a2r = ar2, and so on.\nWe write below these and few more terms.\n1st term = a1 = a = ar1–1, 2nd term = a2 = ar = ar2–1, 3rd term = a3 = ar2 = ar3–1\n4th term = a4 = ar3 = ar4–1, 5th term = a5 = ar4 = ar5–1\nDo you see a pattern? What will be 16th term?\na16 = ar16–1 = ar15\nTherefore, the pattern suggests that the nth term of a G.P. is given by\nan = arn–1.\nThus, a, G.P. can be written as a, ar, ar2, ar3, … arn – 1; a, ar, ar2,...,arn – 1... ;according\nas G.P. is finite or infinite, respectively.\nThe series a + ar + ar2 + ... + arn–1 or a + ar + ar2 + ... + arn–1 +...are called\nfinite or infinite geometric series, respectively.\n8.4.2.\nSum to n terms of a G .P. Let the first term of a G.P. be a and the common\nratio be r. Let us denote by Sn the sum to first n terms of G.P. Then\nSn = a + ar + ar2 +...+ arn–1\n... (1)\nCas",
+  "context_sources": [
+    "ncert:grade11/maths/ch8",
+    "ncert:grade11/maths/ch8",
+    "ncert:grade11/maths/ch8",
+    "ncert:grade11/maths/ch8",
+    "ncert:grade11/maths/ch8"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Geometric Progressions",
+    "Series — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Geometric Progressions": "Sequence with constant common ratio r",
+    "Series — Introduction": "Sum of terms of a sequence; sigma notation"
+  },
+  "successors_to_link": [
+    "Sum of Special Series",
+    "AM-GM Inequality"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Geometric Progressions",
+    "Series — Introduction",
+    "Sum of Special Series",
+    "AM-GM Inequality",
+    "Sequences — Introduction",
+    "Arithmetic Series — Sum Formulas"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

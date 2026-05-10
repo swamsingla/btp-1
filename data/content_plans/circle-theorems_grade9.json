@@ -1,0 +1,62 @@
+{
+  "concept_slug": "circle-theorems",
+  "canonical_name": "Circle Theorems",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Geometry",
+  "description": "Equal chords equidistant from centre; angle in semicircle; inscribed angle theorem",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade9 Ch9 — Angle Subtended by a Chord at a Point]\nYou have already studied about circles and its parts in Class VI.\nTake a line segment PQ and a point R not on the line containing PQ. Join PR and QR\n(see Fig. 9.1). Then  ∠ PRQ is called the angle subtended by the line segment PQ at\nthe point R. What are angles POQ, PRQ and PSQ called in Fig. 9.2? ∠ POQ is the\nangle subtended by the chord PQ at the centre O, ∠ PRQ and ∠ PSQ are respectively\nthe angles subtended by PQ at points R and S on the major and minor arcs PQ.\nFig. 9.1\nFig. 9.2\nLet us examine the relationship between the size of the chord and the angle\nsubtended by it at the centre. You may see by drawing different chords of a circle\nand  angles subtended by them at the centre that the longer is the chord, the bigger\nwill be the angle subtended by it at the centre. What will happen if you take two\nequal chords of a circle? Will the angles subtended at the centre be the same\nor not?\nReprint 2025-26\nCIRCLES\nDraw two or more equal chords of a circle and\nmeasure the angles subtended \n\n[NCERT Grade9 Ch9 — Perpendicular from the Centre to a Chord]\nequal, then the chords are equal.\nThe above theorem is the converse of the Theorem 9.1. Note that in Fig. 9.4, if\nyou take ∠ AOB = ∠ COD, then\n∆ AOB ≅ ∆ COD (Why?)\nCan you now see that AB = CD?\nEXERCISE 9.1\n1.\nRecall that two circles are congruent if they have the same radii. Prove that equal\nchords of congruent circles subtend equal angles at their centres.\n2.\nProve that if chords of congruent circles subtend equal angles at their centres, then\nthe chords are equal.\n9.2 Perpendicular from the Centre to a Chord\nActivity : Draw a circle on a tracing paper. Let O\nbe its centre. Draw a chord AB. Fold the paper along\na line through O so that a portion of the chord falls on\nthe other. Let the crease cut AB at the point M. Then,\n∠ OMA = ∠ OMB = 90° or OM is perpendicular to\nAB. Does the point B coincide with A (see Fig.9.6)?\nYes it will. So MA = MB.\nGive a proof yourself by joining OA and OB and proving the right triangles OMA\nand OMB to be congruent. This example is a particular instance of\n\n[NCERT Grade9 Ch9 — Equal Chords and their Distances from the Centre]\nLet AB be a line and P be a point. Since there are\ninfinite numbers of points on a line, if you join these\npoints to P, you will get infinitely many line segments\nPL1, PL2, PM, PL3, PL4, etc. Which of these is the\ndistance of AB from P? You may think a while and\nget the answer. Out of these line segments, the\nperpendicular from P to AB, namely PM in Fig. 9.8,\nwill be the least. In Mathematics, we define this least\nlength PM to be the distance of AB from P. So you\nmay say that:\nThe length of the perpendicular from a point to a line is the distance of the\nline from the point.\nNote that if the point lies on the line, the distance of the line from the point is zero.\nA circle can have infinitely many chords. You may observe by drawing chords of\na circle that longer chord is nearer to the centre than the smaller chord. You may\nobserve it by drawing several chords of a circle of different lengths and measuring\ntheir distances from the centre.  What is the distance of the diameter, which is th\n\n[NCERT Grade9 Ch9 — Angle Subtended by an Arc of a Circle]\nYou have seen that the end points of a chord other than diameter of a circle cuts it into\ntwo arcs – one major and other minor. If you take two equal chords, what can you say\nabout the size of arcs? Is one arc made by first chord equal to the corresponding arc\nmade by another chord? In fact, they are more than just equal in length. They are\ncongruent in the sense that if one arc is put on the other, without bending or twisting,\none superimposes the other completely.\nYou can verify this fact by cutting the arc,\ncorresponding to the chord CD from the circle along\nCD and put it on the corresponding arc made by equal\nchord AB. You will find that the arc CD superimpose\nthe arc AB completely  (see Fig. 9.13). This shows\nthat equal chords make congruent arcs and\nconversely congruent arcs make equal chords of a\ncircle. You can state it as follows:\nIf two chords of a circle are equal, then their corresponding arcs are congruent\nand conversely, if two arcs are congruent, then their corresponding\n\n[NCERT Grade9 Ch9 — Cyclic Quadrilaterals]\nA quadrilateral ABCD is called cyclic if all the four vertices\nof it lie on a circle (see Fig 9.18). You will find a peculiar\nproperty in such quadrilaterals. Draw several cyclic\nquadrilaterals of different sides and name each of these\nas ABCD. (This can be done by drawing several circles\nof different radii and taking four points on each of them.)\nMeasure the opposite angles and write your observations\nin the following table.\nS.No. of Quadrilateral\n∠ A\n∠ B\n∠ C\n∠ D\n∠ A +∠ C\n∠ B +∠ D\n1.\n2.\n3.\n4.\n5.\n6.\nWhat do you infer from the table?\nFig. 9.18\nReprint 2025-26\nYou find that ∠A + ∠C = 180° and ∠B + ∠D = 180°, neglecting the error in\nmeasurements. This verifies the following:\nTheorem 9.10 : The sum of either pair of opposite angles of a cyclic quadrilateral\nis 180º.\nIn fact, the converse of this theorem, which is stated below is also true.\nTheorem 9.11 : If the sum of a pair of opposite angles of a quadrilateral is 180º,\nthe quadrilateral is cyclic.\nYou can see the truth of this theorem by",
+  "context_sources": [
+    "ncert:grade9/maths/ch9",
+    "ncert:grade9/maths/ch9",
+    "ncert:grade9/maths/ch9",
+    "ncert:grade9/maths/ch9",
+    "ncert:grade9/maths/ch9"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Circles — Basic Properties",
+    "Congruence of Triangles"
+  ],
+  "prerequisites_descriptions": {
+    "Circles — Basic Properties": "Radius, diameter, chord, arc, sector, segment; basic properties",
+    "Congruence of Triangles": "SSS, SAS, ASA, AAS, RHS criteria for triangle congruence"
+  },
+  "successors_to_link": [
+    "Arc and Chord Properties",
+    "Cyclic Quadrilaterals",
+    "Tangent to a Circle",
+    "Circumcentre of a Triangle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Circles — Basic Properties",
+    "Congruence of Triangles",
+    "Arc and Chord Properties",
+    "Cyclic Quadrilaterals",
+    "Tangent to a Circle",
+    "Circumcentre of a Triangle",
+    "Parallel Lines and Transversals",
+    "Properties of Triangles",
+    "Similar Triangles",
+    "Constructions of Triangles",
+    "Quadrilaterals",
+    "Properties of Parallelogram",
+    "Pythagorean Theorem"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

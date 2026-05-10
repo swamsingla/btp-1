@@ -1,0 +1,48 @@
+{
+  "concept_slug": "geometric-progressions",
+  "canonical_name": "Geometric Progressions",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Sequences",
+  "description": "Sequence with constant common ratio r",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch8 — Geometric Progression (G . P.)]\nLet us consider the following sequences:\n(i) 2,4,8,16,..., (ii)\n1 1\n9 27 81 243\n–\n–\n,\n,\n,\n... (iii) .\n,.\n,.\n,...\n01 0001 000001\nIn each of these sequences, how their terms progress? We note that each term, except\nthe first progresses in a definite order.\nIn (i), we have a\na\na\na\na\na\na\n=\n=\n=\n=\n,\n,\n,\nand so on.\nIn (ii), we observe, a\na\na\na\na\na\na\n=\n=\n=\n=\n,\n,\n,\n\u0013\n\u0013\n\u0013\nand so on.\nSimilarly, state how do the terms in (iii) progress? It is observed that in each case,\nevery term except the first term bears a constant ratio to the term immediately preceding\nit. In (i), this constant ratio is 2; in (ii), it is – 1\n3  and in (iii), the constant ratio is 0.01.\nSuch sequences are called geometric sequence or geometric progression abbreviated\nas G.P.\nA sequence a1, a2, a3, …, an, … is called geometric progression, if each term is\nnon-zero and\na\na\nk\nk\n+ 1 = r (constant), for k ≥ 1.\nBy letting a1 = a, we obtain a geometric progression, a, ar, ar2, ar3,…., where a\nis called the first term and r is called",
+  "context_sources": [
+    "ncert:grade11/maths/ch8"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Arithmetic Progressions",
+    "Exponents and Powers"
+  ],
+  "prerequisites_descriptions": {
+    "Arithmetic Progressions": "Sequence with constant common difference d",
+    "Exponents and Powers": "aⁿ notation; laws of exponents for integer exponents"
+  },
+  "successors_to_link": [
+    "Geometric Series and Sum"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Arithmetic Progressions",
+    "Exponents and Powers",
+    "Geometric Series and Sum",
+    "Sequences — Introduction",
+    "Series — Introduction",
+    "Arithmetic Series — Sum Formulas",
+    "Sum of Special Series",
+    "AM-GM Inequality"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,50 @@
+{
+  "concept_slug": "definite-integrals",
+  "canonical_name": "Definite Integrals",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "∫ₐᵇ f(x)dx; as limit of a sum",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch7 — Definite Integral]\nIn the previous sections, we have studied about the indefinite integrals and discussed\nfew methods of finding them including integrals of some special functions. In this\nsection, we shall study what is called definite integral of a function. The definite integral\nhas a unique value. A definite integral is denoted by\n( )\nb\na f x dx\n∫\n, where a is called the\nlower limit of the integral and b is called the upper limit of the integral. The definite\nintegral is introduced either as the limit of a sum or if it has an anti derivative F in the\ninterval [a, b], then its value is the difference  between the values of F at the end\npoints, i.e., F(b) – F(a).\n7.8  Fundamental Theorem of Calculus\n\n[NCERT Grade12 Ch7 — Introduction]\nDifferential Calculus is centred on the concept of the\nderivative. The original motivation for the derivative was\nthe problem of defining tangent lines to the graphs of\nfunctions and calculating the slope of such lines. Integral\nCalculus is motivated by the problem of defining and\ncalculating the area of the region bounded by the graph of\nthe functions.\nIf a function f  is differentiable in an interval I, i.e., its\nderivative f ′exists at each point of I, then a natural question\narises that given f ′at each point of I, can we determine\nthe function? The functions that could possibly have given\nfunction as a derivative are called anti derivatives (or\nprimitive) of the function. Further, the formula that gives\nall these anti derivatives is called the indefinite integral of the function and such\nprocess of finding anti derivatives is called integration. Such type of problems arise in\nmany practical situations. For instance, if we know the instantaneous velocity of an\nobject at any instant\n\n[NCERT Grade12 Ch7 — Some properties of indefinite integral]\nIn this sub section, we shall derive some properties of indefinite integrals.\n(I)\nThe process of differentiation and integration are inverses of each other in the\nsense of the following results :\n( )\nd\nf x dx\ndx ∫\n= f (x)\nand\n( )\nf x dx\n′\n∫\n= f (x) + C, where C is any arbitrary constant.\nProof Let F be any anti derivative of f, i.e.,\nF( )\nd\nx\ndx\n= f (x)\nThen\n( )\nf x dx\n∫\n= F(x) + C\nTherefore\n( )\nd\nf x dx\ndx ∫\n=\n(\n)\nF ( ) + C\nd\nx\ndx\n=\nF ( ) =\n( )\nd\nx\nf x\ndx\nSimilarly, we note that\nf ′(x) =\n( )\nd f x\ndx\nand hence\n( )\nf x dx\n′\n∫\n= f (x) + C\nwhere C is arbitrary constant called constant of integration.\n(II)\nTwo indefinite integrals with the same derivative lead to the same family of\ncurves and so they are equivalent.\nReprint 2025-26\nProof Let f and g be two functions such that\n( )\nd\nf x dx\ndx ∫\n=\n( )\nd\ng x dx\ndx ∫\nor\n( )\n( )\nd\nf x dx –\ng x dx\ndx\n\n\n\n\n∫\n∫\n= 0\nHence\n( )\n( )\nf x dx –\ng x dx\n∫\n∫\n= C, where C is any real number\n(Why?)\nor\n( )\nf x dx\n∫\n=\n( )\nC\ng x dx +\n∫\nSo the families of cur\n\n[NCERT Grade12 Ch7 — Second fundamental theorem of integral calculus]\nWe state below an important theorem which enables us to evaluate definite integrals\nby making use of anti derivative.\nTheorem 2 Let f  be continuous function defined on the closed interval [a, b] and F be\nan anti derivative of f. Then ∫\n( )\nb\na f x dx = [F( )] =\nb\na\nx\nF (b) – F(a).\nRemarks\n(i)\nIn words, the Theorem 2 tells us that\n( )\nb\na f x dx\n∫\n= (value of the anti derivative F\nof f at the upper limit b – value of the same anti derivative at the lower limit a).\n(ii)\nThis theorem is very useful, because it gives us a method of calculating the\ndefinite integral more easily, without calculating the limit of a sum.\n(iii)\nThe crucial operation in evaluating a definite integral is that of finding a function\nwhose derivative is equal to the integrand. This strengthens the relationship\nbetween differentiation and integration.\n(iv)\nIn\n( )\nb\na f x dx\n∫\n, the function f needs to be well defined and continuous in [a, b].\nFor instance, the consideration of definite integral\n2 (\n–1)\nx x\ndx\n−∫\nis \n\n[NCERT Grade12 Ch7 — Evaluation of Definite Integrals by Substitution]\nIn the previous sections, we have discussed several methods for finding the indefinite\nintegral. One of the important methods for finding the indefinite integral is the method\nof substitution.\nTo evaluate\n( )\nb\na f x dx\n∫\n, by substitution, the steps could be as follows:\n1.\nConsider the integral without limits and substitute, y = f (x) or x = g(y) to reduce\nthe given integral to a known form.\n2.\nIntegrate the new integrand with respect to the new variable without mentioning\nthe constant of integration.\n3.\nResubstitute for the new variable and write the answer in terms of the original\nvariable.\n4.\nFind the values of answers obtained in (3) at the given limits of integral and find\nthe difference of the values at the upper and lower limits.\nReprint 2025-26\nANote In order to quicken this method, we can proceed as follows: After\nperforming steps 1, and 2, there is no need of step 3. Here, the integral will be kept\nin the new variable itself, and the limits of the integral will accordingly b",
+  "context_sources": [
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Integration — Indefinite Integrals"
+  ],
+  "prerequisites_descriptions": {
+    "Integration — Indefinite Integrals": "Anti-derivative; ∫f(x)dx = F(x)+C; standard integrals"
+  },
+  "successors_to_link": [
+    "Fundamental Theorem of Calculus"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Integration — Indefinite Integrals",
+    "Fundamental Theorem of Calculus",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

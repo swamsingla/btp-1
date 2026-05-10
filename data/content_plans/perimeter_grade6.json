@@ -1,0 +1,47 @@
+{
+  "concept_slug": "perimeter",
+  "canonical_name": "Perimeter",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Mensuration",
+  "description": "Total length of the boundary of a 2D shape",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch6 — Perimeter]\nDo you remember what the perimeter of a closed plane figure is?\nLet us refresh our understanding!\nThe perimeter of any closed plane figure is the distance covered\nalong its boundary when you go around it once. For a polygon, i.e.,\na closed plane figure made up of line segments, the perimeter is\nsimply the sum of the lengths of its all sides, i.e., the total distance\nalong its outer boundary.\nThe perimeter of a polygon = the sum of the lengths of its all sides.\nLet us revise the formulas for the perimeter of rectangles, squares,\nand triangles.\nPerimeter of a rectangle\nConsider a rectangle ABCD whose length and breadth are 12 cm and\n8 cm, respectively. What is its perimeter?\nPerimeter of the rectangle = \u0007Sum of the lengths of its four sides\n= AB + BC + CD + DA\nA\n12 cm\nB\n8 cm\nD\nC\nReprint 2025-26\nGanita Prakash | Grade 6\n= AB + BC + AB + BC\n= 2 × AB + 2 × BC\n= 2 × (AB + BC)\n= 2 × (12 cm + 8 cm)\n= 2 × (20 cm)\n= 40 cm.\nFrom this example, we see that —\nPerimeter of a rectangle = length + brea\n\n[NCERT Grade6 Ch6 — Area]\nWe have studied the areas of closed figures (regular and irregular)\nin previous grades. Let us recall some key points.\nThe amount of region enclosed by a closed figure is called its area.\nIn previous grades, we arrived at the formula for the area of a\nrectangle and a square using square grid paper. Do you remember?\nArea of a square =  ________\nArea of a rectangle =  _______\nTeacher’s Note\nHelp students in recalling the method of finding the area of a\nrectangle and a square using grid papers. Provide square grid\npapers to students and let them come up with the formula.\nLet’s see some real-life problems related to these ideas.\nExample: A floor is 5 m long and 4 m wide. A square carpet of sides 3 m\nis laid on the floor. Find the area of the floor that is not carpeted.\nSolution\nLength of the floor = 5 m.\nWidth of the floor = 4 m.\nArea of the floor = length × width = 5 m × 4 m = 20 sq m.\nLength of the square carpet = 3 m.\nArea of the carpet = length × length = 3 m × 3 m = 9 sq m.\nHence, the\n\n[NCERT Grade6 Ch6 — Area of a Triangle]\nDraw a rectangle on a piece of paper and draw one of its diagonals.\nCut the rectangle along that diagonal and get two triangles.\nCheck! whether the two triangles overlap each other exactly.\nDo they have the same area?\nTry this with more rectangles having different dimensions. You\ncan check this for a square as well.\nCan you draw any inferences from this exercise? Please write it\nhere.\nNow, see the figures below. Is the area of the blue rectangle more\nor less than the area of the yellow triangle? Or is it the same? Why?\nCan you see some relationship between the blue rectangle and\nthe yellow triangle and their areas? Write the relationship here.\nHelp students in articulating their inferences and in defining the\nrelationships they have observed in their own words, gradually\nleading to a common statement for whole classroom. Recall the\ndefinition of a diagonal in the classroom.\nTeacher’s Note\nDraw  suitable triangles on grid paper to verify your inferences\nand relationships observed in the\n\n[NCERT Grade6 Ch5 — Common Multiples and Common Factors]\nChildren sit in a circle and play a game of numbers.\nOne of the children starts by saying ‘1’. The second\nplayer says ‘2’, and so on. But when it is the turn of 3, 6,\n9, … (multiples of 3), the player should say ‘idli’ instead\nof the number. When it is the turn of 5, 10, … (multiples\nof 5), the player should say ‘vada’ instead of the number.\nWhen a number is both a multiple of 3 and a multiple\nof 5, the player should say ‘idli-vada’! If a player makes\nany mistake, they are out.\nThe game continues in rounds till only one person\nremains.\nFor which numbers should the players say ‘idli’\ninstead of saying the number? These would be 3, 6, 9,\n12, 18, … and so on.\nFor which numbers should the players say ‘vada’?\nThese would be 5, 10, 15, 20, … and so on.\nWhich is the first number for which the players\nshould say, ‘idli-vada’? It is 15, which is a multiple of 3,\nand also a multiple of 5. Find out other such numbers\nthat are multiples of both 3 and 5. These numbers are\ncalled ___________________\n\n[NCERT Grade6 Ch5 — Prime Numbers]\nGuna and Anshu want to pack figs (anjeer) that grow in their farm.\nGuna wants to put 12 figs in each box and Anshu wants to put 7 figs\nin each box.\nHow many arrangements are possible?\nThink and find out the different ways how —\n1.  Guna can arrange 12 figs in a rectangular manner.\n2.  Anshu can arrange 7 figs in a rectangular manner.\nGuna has listed out these possibilities.\nObserve the number of rows and\ncolumns in each of the arrangements.\nHow are they related to 12?\nIn the second arrangement, for\nexample, 12 figs are arranged in two\ncolumns of 6 each or 12 = 2 × 6.\nAnshu could make only one\narrangement: 7 × 1 or 1 × 7. There are\nno other rectangular arrangements\npossible.\nIn each of Guna’s arrangements,\nmultiplying the number of rows by\nthe number of columns gives the\nnumber 12. So, the number of rows\nor columns are factors of 12.\nWe saw that the number 12 can be arranged in a rectangle in\nmore than one way as 12 has more than two factors. The number 7\ncan be arranged in only one way",
+  "context_sources": [
+    "ncert:grade6/maths/ch6",
+    "ncert:grade6/maths/ch6",
+    "ncert:grade6/maths/ch6",
+    "ncert:grade6/maths/ch5",
+    "ncert:grade6/maths/ch5"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Whole Numbers",
+    "Points, Lines and Planes"
+  ],
+  "prerequisites_descriptions": {
+    "Whole Numbers": "Natural numbers together with zero: 0, 1, 2, 3, …",
+    "Points, Lines and Planes": "Fundamental undefined terms: point, line, ray, line segment, plane"
+  },
+  "successors_to_link": [
+    "Area of Rectangle and Square"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Whole Numbers",
+    "Points, Lines and Planes",
+    "Area of Rectangle and Square",
+    "Area of 2D Figures"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

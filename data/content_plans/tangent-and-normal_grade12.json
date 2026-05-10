@@ -1,0 +1,44 @@
+{
+  "concept_slug": "tangent-and-normal",
+  "canonical_name": "Tangent and Normal to a Curve",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "Equation of tangent: y−y₁=f′(x₁)(x−x₁); normal is perpendicular",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Slope of a Line",
+    "Basic Differentiation Rules"
+  ],
+  "prerequisites_descriptions": {
+    "Slope of a Line": "m = (y₂−y₁)/(x₂−x₁); angle of inclination",
+    "Basic Differentiation Rules": "Power rule, constant multiple, sum/difference rules"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Slope of a Line",
+    "Basic Differentiation Rules",
+    "Continuity of Functions",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

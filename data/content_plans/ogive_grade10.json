@@ -1,0 +1,40 @@
+{
+  "concept_slug": "ogive",
+  "canonical_name": "Ogive (Cumulative Frequency Curve)",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Statistics",
+  "description": "Plotting cumulative frequency against upper class boundaries",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Frequency Polygon"
+  ],
+  "prerequisites_descriptions": {
+    "Frequency Polygon": "Line graph connecting midpoints of histogram bars"
+  },
+  "successors_to_link": [
+    "Median of Grouped Data"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Frequency Polygon",
+    "Median of Grouped Data",
+    "Central Tendency for Grouped Data",
+    "Mean of Grouped Data",
+    "Mode of Grouped Data",
+    "Scatter Plot"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

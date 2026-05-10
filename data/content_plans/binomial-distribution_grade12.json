@@ -1,0 +1,46 @@
+{
+  "concept_slug": "binomial-distribution",
+  "canonical_name": "Binomial Distribution",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Probability",
+  "description": "P(X=r) = C(n,r)pʳqⁿ⁻ʳ; mean=np; variance=npq",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch13 — Introduction]\nIn earlier Classes, we have studied the probability as a\nmeasure of uncertainty of events in a random experiment.\nWe discussed the axiomatic approach formulated by\nRussian Mathematician, A.N. Kolmogorov (1903-1987)\nand treated probability as a function of outcomes of the\nexperiment. We have also established equivalence between\nthe axiomatic theory and the classical theory of probability\nin case of equally likely outcomes. On the basis of this\nrelationship, we obtained probabilities of events associated\nwith discrete sample spaces. We have also studied the\naddition rule of probability. In this chapter, we shall discuss\nthe important concept of conditional probability of an event\ngiven that another event has occurred, which will be helpful\nin understanding the Bayes' theorem, multiplication rule of\nprobability and independence of events. We shall also learn\nan  important concept of  random variable and its probability\ndistribution and also the mean and variance of a probability  distribu",
+  "context_sources": [
+    "ncert:grade12/maths/ch13"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Bernoulli Trials",
+    "Binomial Theorem"
+  ],
+  "prerequisites_descriptions": {
+    "Bernoulli Trials": "Repeated independent trials with two outcomes",
+    "Binomial Theorem": "(a+b)ⁿ expansion; general term; middle term"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Bernoulli Trials",
+    "Binomial Theorem",
+    "Conditional Probability",
+    "Multiplication Theorem on Probability",
+    "Independent Events",
+    "Theorem of Total Probability",
+    "Bayes' Theorem",
+    "Random Variables",
+    "Probability Distribution",
+    "Mean and Variance of a Random Variable"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

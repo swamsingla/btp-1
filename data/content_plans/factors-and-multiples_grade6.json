@@ -1,0 +1,47 @@
+{
+  "concept_slug": "factors-and-multiples",
+  "canonical_name": "Factors and Multiples",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Theory",
+  "description": "Factor as a divisor; multiple as a product; factor pairs",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch5 — Common Multiples and Common Factors]\nChildren sit in a circle and play a game of numbers.\nOne of the children starts by saying ‘1’. The second\nplayer says ‘2’, and so on. But when it is the turn of 3, 6,\n9, … (multiples of 3), the player should say ‘idli’ instead\nof the number. When it is the turn of 5, 10, … (multiples\nof 5), the player should say ‘vada’ instead of the number.\nWhen a number is both a multiple of 3 and a multiple\nof 5, the player should say ‘idli-vada’! If a player makes\nany mistake, they are out.\nThe game continues in rounds till only one person\nremains.\nFor which numbers should the players say ‘idli’\ninstead of saying the number? These would be 3, 6, 9,\n12, 18, … and so on.\nFor which numbers should the players say ‘vada’?\nThese would be 5, 10, 15, 20, … and so on.\nWhich is the first number for which the players\nshould say, ‘idli-vada’? It is 15, which is a multiple of 3,\nand also a multiple of 5. Find out other such numbers\nthat are multiples of both 3 and 5. These numbers are\ncalled ___________________",
+  "context_sources": [
+    "ncert:grade6/maths/ch5"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Whole Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Whole Numbers": "Natural numbers together with zero: 0, 1, 2, 3, …"
+  },
+  "successors_to_link": [
+    "Prime Numbers",
+    "Divisibility Rules"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Whole Numbers",
+    "Prime Numbers",
+    "Divisibility Rules",
+    "Even and Odd Numbers",
+    "Composite Numbers",
+    "Co-prime Numbers",
+    "Prime Factorisation",
+    "LCM and GCD (HCF)",
+    "Euclidean Algorithm"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "canonical_name": "Mixed Fractions",
+    "slug": "mixed-fractions",
+    "_aliases": [
+      "Understanding Mixed Numbers",
+      "Adding and subtracting mixed numbers"
+    ],
+    "domain": "Number Systems",
+    "area": "Fractions and Decimals",
+    "parent": "",
+    "grades": [
+      6,
+      8
+    ],
+    "importance_BY_GRADE": {
+      "6": 5,
+      "8": 4
+    },
+    "source_BOARDS": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

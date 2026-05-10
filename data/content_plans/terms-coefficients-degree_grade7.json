@@ -1,0 +1,42 @@
+{
+  "concept_slug": "terms-coefficients-degree",
+  "canonical_name": "Terms, Coefficients and Degree",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Algebra",
+  "description": "Identifying terms, numerical coefficients, and degree of an expression",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Algebraic Expressions"
+  ],
+  "prerequisites_descriptions": {
+    "Algebraic Expressions": "Expressions built from variables and constants using arithmetic operations"
+  },
+  "successors_to_link": [
+    "Simplification of Algebraic Expressions",
+    "Polynomials in One Variable"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Algebraic Expressions",
+    "Simplification of Algebraic Expressions",
+    "Polynomials in One Variable",
+    "Algebraic Identities",
+    "Simple Equations in One Variable",
+    "Linear Equations in One Variable"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,51 @@
+{
+  "concept_slug": "angle-sum-property-triangle",
+  "canonical_name": "Angle Sum Property of a Triangle",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Geometry",
+  "description": "Sum of interior angles of a triangle equals 180°",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Types of Triangles",
+    "Types of Angles and Angle Pairs"
+  ],
+  "prerequisites_descriptions": {
+    "Types of Triangles": "Classification by sides (scalene, isosceles, equilateral) and angles",
+    "Types of Angles and Angle Pairs": "Acute, right, obtuse, straight, reflex; complementary and supplementary"
+  },
+  "successors_to_link": [
+    "Exterior Angle Theorem",
+    "Properties of Triangles",
+    "Quadrilaterals",
+    "Incentre of a Triangle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Types of Triangles",
+    "Types of Angles and Angle Pairs",
+    "Exterior Angle Theorem",
+    "Properties of Triangles",
+    "Quadrilaterals",
+    "Incentre of a Triangle",
+    "Angles",
+    "Basic Geometric Constructions",
+    "Parallel Lines and Transversals",
+    "Congruence of Triangles"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,45 @@
+{
+  "concept_slug": "measuring-angles",
+  "canonical_name": "Measuring Angles with Protractor",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Geometry",
+  "description": "Using a protractor to measure angles in degrees",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch2 — Measuring Angles]\nWe have seen how to compare two angles. But can we actually\nquantify how big an angle is using a number without having to\ncompare it to another angle?\nWe saw how various angles can be compared using a circle.\nPerhaps a circle could be used to assign measures for angles?\nFig. 2.12\nTo assign precise measures to angles, mathematicians came up\nwith an idea. They divided the angle in the centre of the circle into\nReprint 2025-26\nLines and Angles\n360 equal angles or parts. The angle measure of each of these unit\nparts is 1 degree, which is written as 1°.\nThis unit part is used to assign measure to any angle: the measure\nof an angle is the number of 1° unit parts it contains inside it.\nFor example, see this figure:\n30 units\nIt contains 30 units of 1° angle and so we say that its angle measure is 30°.\nMeasures of different angles: What is the measure of a full turn in\ndegrees? As we have taken it to contain 360 degrees, its measure is 360°.\nWhat is the measure of a straight angle in degrees? A",
+  "context_sources": [
+    "ncert:grade6/maths/ch2"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angles"
+  ],
+  "prerequisites_descriptions": {
+    "Angles": "Amount of rotation between two rays sharing a common endpoint"
+  },
+  "successors_to_link": [
+    "Types of Angles and Angle Pairs",
+    "Radian Measure"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Angles",
+    "Types of Angles and Angle Pairs",
+    "Radian Measure",
+    "Points, Lines and Planes",
+    "Line Symmetry and Reflection",
+    "Rotational Symmetry",
+    "Basic Geometric Constructions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

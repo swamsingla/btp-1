@@ -1,0 +1,20 @@
+[
+  {
+    "canonical_name": "Irrational Numbers",
+    "slug": "irrational-numbers",
+    "aliases": [],
+    "domain": "Number Systems",
+    "area": "Real Numbers",
+    "_parent": "real-numbers",
+    "grdades": [
+      10
+    ],
+    "imporrance_by_grde": {
+      "10": 5
+    },
+    "sorce_boardds": [
+      "NCERT"
+    ],
+    "subject": "maths"
+  }
+]

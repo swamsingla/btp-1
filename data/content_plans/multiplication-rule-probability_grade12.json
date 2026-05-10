@@ -1,0 +1,46 @@
+{
+  "concept_slug": "multiplication-rule-probability",
+  "canonical_name": "Multiplication Theorem on Probability",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Probability",
+  "description": "P(A∩B) = P(A)·P(B|A)",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch13 — Multiplication Theorem on Probability]\nLet E and F be two events associated with a sample space S. Clearly, the set E ∩ F\ndenotes the event that both E and F have occurred. In other words, E ∩ F denotes the\nsimultaneous occurrence of the events E and F. The event E ∩ F is also written as EF.\nVery often we need to find the probability of  the event EF. For example, in the\nexperiment of drawing two cards one after the other, we may be interested in finding\nthe probability of the event ‘a king and a queen’. The probability of event EF is obtained\nby using the conditional probability as obtained below :\nWe know that the conditional probability of event E given that F has occurred is\ndenoted by P(E|F) and is given by\nP(E|F) = P(E\nF) ,P(F) 0\nP(F)\n∩\n≠\nFrom this result, we can write\nP(E ∩ F) = P(F) . P(E|F)\n... (1)\nAlso, we know that\nP(F|E) = P(F\nE) ,P(E) 0\nP(E)\n∩\n≠\nor\nP(F|E) = P(E\nF)\nP(E)\n∩\n(since E ∩ F = F ∩ E)\nThus,\nP(E ∩ F) = P(E). P(F|E)\n.... (2)\nCombining (1) and (2), we find that\nP(E ∩ F) = P(E) P(F|E)\n= P(F) P(E|F) provided\n\n[NCERT Grade12 Ch13 — Properties of conditional probability]\nLet E and F be events of a sample space S of an experiment, then we have\nProperty 1 P(S|F) = P(F|F) = 1\nWe know that\nP(S|F) = P(S\nF)\nP(F)\nP(F)\nP(F)\n∩\n=\n=\nAlso\nP(F|F) = P(F\nF)\nP(F) 1\nP(F)\nP(F)\n∩\n=\n=\nThus\nP(S|F) = P(F|F) = 1\nProperty 2 If A and B are any two events of a sample space S and F is an event\nof S such that P(F) ≠ 0, then\nP((A ∪ B)|F) = P(A|F) + P(B|F) – P((A ∩ B)|F)\nReprint 2025-26\nPROBABILITY      409\nIn particular, if A and B are disjoint events, then\nP((A∪B)|F) = P(A|F) + P(B|F)\nWe have\nP((A∪B)|F) = P[(A\nB)\nF]\nP(F)\n∪\n∩\n= P[(A\nF)\n(B\nF)]\nP(F)\n∩\n∪\n∩\n(by distributive law of union of sets over  intersection)\n=\nP(A\nF)+P(B\nF)– P(A\nB\nF)\nP(F)\n∩\n∩\n∩\n∩\n= P(A\nF)\nP(B\nF)\nP[(A\nB)\nF]\nP(F)\nP(F)\nP(F)\n∩\n∩\n∩\n∩\n+\n−\n= P(A|F) + P(B|F) – P((A ∩B)|F)\nWhen A and B are disjoint events, then\nP((A ∩ B)|F) = 0\n⇒\nP((A ∪ B)|F) = P(A|F) + P(B|F)\nProperty 3 P(E′|F) = 1 − P(E|F)\nFrom Property 1, we know that P(S|F) = 1\n⇒\nP(E ∪ E′|F) = 1\nsince  S = E ∪ E′\n⇒\nP(E|F) + P (E′|F) = 1\nsince E and E′ are disjoint ev\n\n[NCERT Grade12 Ch13 — Theorem of total probability]\nFig 13.4\nLet   {E1, E2,...,En}  be a partition of the sample space S,  and suppose that each of the\nevents E1, E2,..., En has nonzero probability of occurrence. Let A be any event associated\nwith S, then\nP(A) = P(E1) P(A|E1) + P(E2) P(A|E2) + ... + P(En) P(A|En)\n=\nP(E )P(A|E )\nn\nj\nj\nj=∑\nProof  Given that E1, E2,..., En is a partition of the sample space S (Fig 13.4). Therefore,\nS = E1 ∪ E2 ∪ ... ∪ En\n... (1)\nand\nEi ∩ Ej = φ, i ≠ j, i, j = 1, 2, ..., n\nNow, we know that for any event A,\nA = A ∩ S\n= A ∩ (E1 ∪ E2 ∪ ... ∪ En)\n= (A ∩ E1) ∪ (A ∩ E2) ∪ ...∪ (A ∩ En)\nAlso A ∩ Ei and A ∩ Ej are respectively the subsets of Ei and Ej. We know that\nEi  and Ej are disjoint, for i\nj\n≠\n, therefore, A  ∩ Ei and A  ∩ Ej  are also disjoint for all\ni ≠ j,  i, j = 1, 2, ..., n.\nThus,\nP(A) = P [(A ∩ E1) ∪ (A ∩ E2)∪ .....∪ (A ∩ En)]\n= P (A ∩ E1) + P (A ∩ E2) + ... + P (A ∩ En)\nNow, by multiplication rule of probability, we have\nP(A ∩ Ei) = P(Ei) P(A|Ei) as  P (Ei) ≠ 0∀i = 1,2,..., n\nReprint 2025-26\nPROBABIL",
+  "context_sources": [
+    "ncert:grade12/maths/ch13",
+    "ncert:grade12/maths/ch13",
+    "ncert:grade12/maths/ch13"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Conditional Probability"
+  ],
+  "prerequisites_descriptions": {
+    "Conditional Probability": "P(A|B) = P(A∩B)/P(B)"
+  },
+  "successors_to_link": [
+    "Independent Events"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Conditional Probability",
+    "Independent Events",
+    "Theorem of Total Probability",
+    "Bayes' Theorem",
+    "Random Variables",
+    "Probability Distribution",
+    "Mean and Variance of a Random Variable",
+    "Bernoulli Trials"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

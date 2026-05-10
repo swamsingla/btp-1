@@ -1,0 +1,43 @@
+{
+  "concept_slug": "incentre",
+  "canonical_name": "Incentre of a Triangle",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Geometry",
+  "description": "Centre of inscribed circle; intersection of angle bisectors",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angle Sum Property of a Triangle",
+    "Tangent to a Circle"
+  ],
+  "prerequisites_descriptions": {
+    "Angle Sum Property of a Triangle": "Sum of interior angles of a triangle equals 180°",
+    "Tangent to a Circle": "Tangent is perpendicular to radius at point of contact"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Angle Sum Property of a Triangle",
+    "Tangent to a Circle",
+    "Similar Triangles",
+    "Similarity of Triangles — Theorems",
+    "Basic Proportionality Theorem (Thales)",
+    "Properties of Tangents from External Point",
+    "Medians of a Triangle",
+    "Altitudes of a Triangle",
+    "Centroid of a Triangle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

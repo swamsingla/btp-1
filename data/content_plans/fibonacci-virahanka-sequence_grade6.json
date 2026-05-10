@@ -1,0 +1,33 @@
+{
+  "concept_slug": "fibonacci-virahanka-sequence",
+  "canonical_name": "Fibonacci–Virahanka Sequence",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Patterns and Sequences",
+  "description": "The sequence where each term is the sum of the two preceding terms",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Number Patterns and Sequences"
+  ],
+  "prerequisites_descriptions": {
+    "Number Patterns and Sequences": "Identifying, extending and describing rules for number sequences"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Number Patterns and Sequences"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

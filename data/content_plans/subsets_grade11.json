@@ -1,0 +1,40 @@
+{
+  "concept_slug": "subsets",
+  "canonical_name": "Subsets and Power Set",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Set Theory",
+  "description": "A ⊆ B; power set P(A); number of subsets = 2ⁿ",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch1 — Subsets of set of real numbers]\nAs noted in Section 1.6, there are many important subsets of R. We give below the\nnames of some of these subsets.\nThe set of natural numbers  N = {1, 2, 3, 4, 5, . . .}\nThe set of integers\nZ = {. . ., –3, –2, –1, 0, 1, 2, 3, . . .}\nThe set of rational numbers Q = { x : x = p\nq  , p, q ∈  Z and q ≠ 0}\nReprint 2025-26\nSETS        11\nwhich is read “ Q is the set of all numbers x  such that x equals the quotient\np\nq , where\np and q  are integers and q is not zero”. Members of Q include  –5 (which can be\nexpressed  as\n–\n) , 7\n5 , 1\n3 2     (which can be expressed as 7\n2 ) and\n–\n.\nThe set of irrational numbers, denoted by T, is composed of all other real numbers.\nThus\nT = {x :  x ∈ R and x ∉ Q}, i.e., all real numbers that are not rational.\nMembers of T include\n2  ,\n5  and π .\nSome of the obvious relations among these subsets are:\nN  ⊂  Z ⊂ Q, Q ⊂ R, T ⊂ R, N ⊄ T.\n1.6.2  Intervals as subsets of R  Let a, b ∈ R and a < b. Then the set of real numbers",
+  "context_sources": [
+    "ncert:grade11/maths/ch1"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Types of Sets"
+  ],
+  "prerequisites_descriptions": {
+    "Types of Sets": "Empty, finite, infinite, equal, equivalent, universal sets"
+  },
+  "successors_to_link": [
+    "Set Operations and Venn Diagrams"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Types of Sets",
+    "Set Operations and Venn Diagrams",
+    "Sets",
+    "Cartesian Product of Sets"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

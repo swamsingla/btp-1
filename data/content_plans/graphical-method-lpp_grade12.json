@@ -1,0 +1,33 @@
+{
+  "concept_slug": "graphical-method-lpp",
+  "canonical_name": "Graphical Method for LPP",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Optimisation",
+  "description": "Plotting constraints; finding optimal solution at vertices",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Linear Programming"
+  ],
+  "prerequisites_descriptions": {
+    "Linear Programming": "Objective function; constraints; feasible region; corner point method"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Linear Programming"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

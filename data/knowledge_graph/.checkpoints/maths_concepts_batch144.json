@@ -1,0 +1,21 @@
+[
+  {
+    "canonical_name": "Mind the Mistake Mend the Mistakes",
+    "slug": "mind-the-mistake-mend-the-mistakes",
+    "_aliases": [],
+    "domain": "Mathematics",
+    "area": "Reasoning Skills",
+    "parent": null,
+    "grades": [
+      7
+    ],
+    "importance-by-grade": {
+      "7": 5
+    },
+    "source_Boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

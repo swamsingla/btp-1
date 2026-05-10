@@ -1,0 +1,49 @@
+{
+  "concept_slug": "parallel-lines-and-transversals",
+  "canonical_name": "Parallel Lines and Transversals",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Geometry",
+  "description": "Angle relationships when a transversal cuts parallel lines",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch5 — Drawing Parallel Lines]\nCan you draw a pair of parallel lines using a ruler and a set square?\nFig. 5.21 shows how you can do it.\nDraw a line l with a scale. By sliding your set square you can make\ntwo lines perpendicular to line l.\nAre these two lines parallel to each other? How are we sure that they\nare parallel to each other? What angles are formed between these lines\nand line l?\nl\nFig. 5.21\nSince we used a set square, the angles measure 90°. The position\nof the lines is different, but they make the same angle with l. If line l\nis seen as a transversal to the two new lines, then the corresponding\nangles measure 90°.\nFig. 5.22\nl\nAs we know these are corresponding angles and they are equal, we\ncan be sure that the lines are parallel.\nDraw two more parallel lines using the long side of the set square as\nshown in Fig. 5.22.\nParallel and Intersecting Lines\nHow do you know these two lines are parallel? Can you check if the\ncorresponding angles are equal?\nNote to the Teacher: Students should be encouraged to check",
+  "context_sources": [
+    "ncert:grade7/maths/ch5"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Angles",
+    "Types of Angles and Angle Pairs"
+  ],
+  "prerequisites_descriptions": {
+    "Angles": "Amount of rotation between two rays sharing a common endpoint",
+    "Types of Angles and Angle Pairs": "Acute, right, obtuse, straight, reflex; complementary and supplementary"
+  },
+  "successors_to_link": [
+    "Properties of Triangles",
+    "Lines and Angles — Theorems"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Angles",
+    "Types of Angles and Angle Pairs",
+    "Properties of Triangles",
+    "Lines and Angles — Theorems",
+    "Basic Geometric Constructions",
+    "Types of Triangles",
+    "Angle Sum Property of a Triangle",
+    "Exterior Angle Theorem",
+    "Congruence of Triangles"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

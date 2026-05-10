@@ -1,0 +1,53 @@
+{
+  "concept_slug": "fundamental-theorem-of-calculus",
+  "canonical_name": "Fundamental Theorem of Calculus",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Calculus",
+  "description": "∫ₐᵇ f(x)dx = F(b)−F(a)",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch7 — Fundamental Theorem of Calculus]\n7.8.1  Area function\n\n[NCERT Grade12 Ch7 — Second fundamental theorem of integral calculus]\nWe state below an important theorem which enables us to evaluate definite integrals\nby making use of anti derivative.\nTheorem 2 Let f  be continuous function defined on the closed interval [a, b] and F be\nan anti derivative of f. Then ∫\n( )\nb\na f x dx = [F( )] =\nb\na\nx\nF (b) – F(a).\nRemarks\n(i)\nIn words, the Theorem 2 tells us that\n( )\nb\na f x dx\n∫\n= (value of the anti derivative F\nof f at the upper limit b – value of the same anti derivative at the lower limit a).\n(ii)\nThis theorem is very useful, because it gives us a method of calculating the\ndefinite integral more easily, without calculating the limit of a sum.\n(iii)\nThe crucial operation in evaluating a definite integral is that of finding a function\nwhose derivative is equal to the integrand. This strengthens the relationship\nbetween differentiation and integration.\n(iv)\nIn\n( )\nb\na f x dx\n∫\n, the function f needs to be well defined and continuous in [a, b].\nFor instance, the consideration of definite integral\n2 (\n–1)\nx x\ndx\n−∫\nis \n\n[NCERT Grade12 Ch7 — First fundamental theorem of integral calculus]\nTheorem 1 Let f be a continuous function on the closed interval [a, b] and let A (x) be\nthe area function. Then A′(x) = f (x), for all x ∈ [a, b].\nReprint 2025-26\n7.8.3  Second fundamental theorem of integral calculus\n\n[Wikipedia]\nThe fundamental theorem of calculus is a theorem that links the concept of differentiating a function with the concept of integrating a function. Roughly speaking, the two operations can be thought of as inverses of each other.",
+  "context_sources": [
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7",
+    "ncert:grade12/maths/ch7",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Definite Integrals",
+    "Continuity of Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Definite Integrals": "∫ₐᵇ f(x)dx; as limit of a sum",
+    "Continuity of Functions": "f continuous at a iff lim f(x) = f(a); algebra of continuous functions"
+  },
+  "successors_to_link": [
+    "Properties of Definite Integrals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Definite Integrals",
+    "Continuity of Functions",
+    "Properties of Definite Integrals",
+    "Types of Discontinuity",
+    "Differentiability",
+    "Chain Rule",
+    "Implicit Differentiation",
+    "Derivatives of Inverse Trigonometric Functions",
+    "Logarithmic Differentiation",
+    "Exponential and Logarithmic Functions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

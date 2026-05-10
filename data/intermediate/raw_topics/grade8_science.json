@@ -1,0 +1,1511 @@
+{
+  "grade": 8,
+  "subject": "science",
+  "total_topics": 99,
+  "topics": [
+    {
+      "raw_name": "What Are Spherical Mirrors?",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Definition of a spherical mirror",
+        "Types of spherical mirrors (concave and convex)",
+        "Sign convention for spherical mirrors",
+        "Mirror formula derivation and application",
+        "Ray tracing for spherical mirrors"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are the Characteristics of Images",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Sign convention for image formation",
+        "Types of images (real and virtual)",
+        "Image formation using a spherical mirror",
+        "Magnification and its relation to image distance",
+        "Image orientation and size"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are the Laws of Reflection?",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Law of reflection (angle of incidence equals angle of reflection)",
+        "Reflection at a plane surface",
+        "Reflection at a spherical surface",
+        "Reflection at a concave and convex surface",
+        "Total internal reflection"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Is a Lens?",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Types of lenses (convex and concave)",
+        "Lens maker's formula derivation and application",
+        "Sign convention for lenses",
+        "Image formation using a convex lens",
+        "Image formation using a concave lens"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007How Does the Moon’s Appearance",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007How Did Calendars Come into Existence?",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007Are Festivals Related to Astronomical",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007Why Do We Launch Artificial Satellites",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007How Do We Experience and Interpret",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Who All Live Together in Nature?",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007Does Every Organism in a Community",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007What Are the Different Types of Interactions",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Who Eats Whom?",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Constructing a simple food chain",
+        "Describing the role of apex predators in a community",
+        "Understanding the concept of a food web and its complexity",
+        "Identifying the importance of primary producers in a community",
+        "Describing the relationship between herbivores and primary producers"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Happens to Waste in Nature?",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Defining the process of decomposition and its importance",
+        "Describing the role of decomposers in breaking down organic matter",
+        "Understanding the concept of nutrient cycling",
+        "Identifying the importance of scavengers in waste management",
+        "Describing the process of humus formation"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "How Does One Change Lead to Another?",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Describing the concept of energy transfer in a community",
+        "Understanding the concept of energy pyramid and its significance",
+        "Identifying the importance of energy flow in a community",
+        "Describing the role of producers in energy transfer",
+        "Understanding the concept of energy loss in a community"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007How Do Interactions Maintain",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are the Benefits of an Ecosystem?",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Identifying the importance of biodiversity in an ecosystem",
+        "Describing the role of ecosystem services in supporting life",
+        "Understanding the concept of ecological niches and their importance",
+        "Identifying the importance of nutrient cycling in an ecosystem",
+        "Describing the role of decomposers in maintaining soil quality"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Why Is Earth a Unique Planet?",
+      "ncert_refs": [
+        "chapter13"
+      ],
+      "subtopics": [
+        "Describing the Earth's atmosphere and its significance",
+        "Understanding the concept of the Earth's water cycle",
+        "Identifying the importance of the Earth's magnetic field",
+        "Describing the role of the Earth's rotation in shaping climate",
+        "Understanding the concept of the Earth's plate tectonics"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007What Do the Planets of Our Solar System",
+      "ncert_refs": [
+        "chapter13"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Makes the Earth Suitable for Life to",
+      "ncert_refs": [
+        "chapter13"
+      ],
+      "subtopics": [
+        "Describing the Earth's distance from the Sun and its significance",
+        "Understanding the concept of the Earth's atmosphere and its importance",
+        "Identifying the importance of liquid water on the Earth's surface",
+        "Describing the role of the Earth's magnetic field in protecting life",
+        "Understanding the concept of the Earth's plate tectonics and its significance"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Allows Life to Be Sustained on Earth?",
+      "ncert_refs": [
+        "chapter13"
+      ],
+      "subtopics": [
+        "Photosynthesis: Conversion of Light Energy to Chemical Energy",
+        "Importance of Water in Life Processes",
+        "Role of Atmosphere in Regulating Earth's Temperature",
+        "Importance of Soil in Plant Nutrition",
+        "Water Cycle: Process of Evaporation, Condensation, and Precipitation"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Keeps Life from Disappearing?",
+      "ncert_refs": [
+        "chapter13"
+      ],
+      "subtopics": [
+        "Importance of Food Chains and Food Webs in Ecosystem Balance",
+        "Role of Decomposers in Recycling Nutrients",
+        "Importance of Symbiotic Relationships in Ecosystems",
+        "Process of Succession in Ecosystem Development",
+        "Importance of Adaptation in Survival of Species"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are the Threats to Life on Earth?",
+      "ncert_refs": [
+        "chapter13"
+      ],
+      "subtopics": [
+        "Causes and Effects of Air Pollution on Ecosystems",
+        "Impact of Deforestation on Biodiversity and Climate",
+        "Role of Human Activities in Climate Change",
+        "Importance of Conservation of Natural Resources",
+        "Effects of Water Pollution on Aquatic Life"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Is a Cell?",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Cell Structure: Cell Membrane, Cytoplasm, Nucleus, and Organelles",
+        "Cellular Organelles: Function and Structure",
+        "Cell Division: Mitosis and Meiosis",
+        "Cellular Transport: Passive and Active Transport",
+        "Cellular Respiration: Aerobic and Anaerobic Respiration"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are the Levels of Organisation in",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Atomic Structure: Protons, Neutrons, and Electrons",
+        "Molecular Structure: Molecules and Compounds",
+        "Tissue Structure: Epithelial, Connective, and Muscle Tissues",
+        "Organ Structure: Organs and Organ Systems",
+        "Organismal Structure: Cells, Tissues, Organs, and Systems"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are Microorganisms?",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Characteristics of Microorganisms: Size, Shape, and Structure",
+        "Types of Microorganisms: Bacteria, Viruses, Fungi, and Protists",
+        "Microbial Nutrition: Autotrophs and Heterotrophs",
+        "Microbial Metabolism: Fermentation and Respiration",
+        "Microbial Ecology: Habitat and Interactions with Environment"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "How Are We Connected to Microbes?",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Symbiotic Relationships: Mutualism, Commensalism, and Parasitism",
+        "Microbial Flora: Gut Microbiome and Skin Microbiome",
+        "Microbial Ecology: Human Microbiome and Environment",
+        "Role of Microbes in Human Health and Disease",
+        "Importance of Microbes in Food Production and Processing"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007Why Is Cell Considered to Be a Basic Unit",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Health: Is It More Than Not Falling Sick?",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Definition of Health: Physical, Mental, and Social Well-being",
+        "Determinants of Health: Genetics, Environment, and Lifestyle",
+        "Importance of Preventive Healthcare: Vaccination and Screening",
+        "Role of Nutrition in Maintaining Good Health",
+        "Importance of Regular Exercise in Maintaining Physical Health"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "How Can We Stay Healthy?",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Importance of Personal Hygiene: Handwashing and Bathing",
+        "Role of Vaccination in Preventing Infectious Diseases",
+        "Importance of Balanced Diet: Macronutrients and Micronutrients",
+        "Importance of Regular Exercise: Cardiovascular and Muscular Health",
+        "Importance of Stress Management: Relaxation Techniques and Mindfulness"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "How Do We Know That We Are Unwell?",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Identifying symptoms of common diseases",
+        "Understanding the role of the immune system in disease detection",
+        "Recognizing the importance of self-diagnosis and medical consultation",
+        "Describing the process of medical diagnosis using clinical tests",
+        "Interpreting the results of medical tests for disease detection"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Diseases: What Are the Causes and Types?",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Classifying diseases as infectious and non-infectious",
+        "Describing the causes of infectious diseases (bacteria, viruses, fungi)",
+        "Explaining the causes of non-infectious diseases (genetic, environmental, lifestyle)",
+        "Identifying the types of diseases (acute, chronic, communicable)",
+        "Describing the role of microorganisms in disease causation"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "How to Prevent and Control Diseases?",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Describing the importance of personal hygiene in disease prevention",
+        "Explaining the role of vaccination in disease control",
+        "Identifying the measures to prevent the spread of infectious diseases",
+        "Describing the use of antibiotics and antimicrobial agents",
+        "Understanding the concept of herd immunity"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007Does an Electric Current Have a Magnetic",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Does a Current Carrying Wire Get Hot?",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Describing the relationship between electric current and heat generation",
+        "Explaining the concept of resistance and its effect on heat generation",
+        "Identifying the factors that affect heat generation in a wire (length, cross-section, material)",
+        "Describing the applications of heat generation in electrical devices",
+        "Understanding the concept of thermal energy transfer"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "How Does a Battery Generate Electricity?",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Describing the structure and function of a battery",
+        "Explaining the process of chemical reactions in a battery",
+        "Identifying the types of batteries (dry cell, lead-acid, lithium-ion)",
+        "Describing the concept of electromotive force (EMF)",
+        "Understanding the role of electrodes in battery operation"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Is a Force?",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Defining force and its relationship with motion",
+        "Describing the types of forces (contact, non-contact)",
+        "Explaining the concept of force vectors and their representation",
+        "Identifying the factors that affect the magnitude of a force",
+        "Describing the applications of forces in everyday life"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007What Can a Force Do to the Bodies on",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007Are Forces an Interaction Between Two",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Weight and Its Measurement",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Defining weight and its relationship with mass",
+        "Describing the concept of gravitational force and its effect on weight",
+        "Identifying the units of measurement for weight (kg, lb)",
+        "Explaining the process of weighing objects using a balance",
+        "Understanding the concept of precision and accuracy in measurement"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Floating and Sinking",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Archimedes' Principle for Buoyancy",
+        "Density of Fluids and Objects",
+        "Relative Density of Substances",
+        "Upthrust and Weight Balance",
+        "Examples of Floating and Sinking Objects"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Pressure",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Definition of Pressure and its Units",
+        "Pressure Formula and Calculation",
+        "Pressure Exerted by Liquids and Gases",
+        "Pressure and Depth Relationship",
+        "Pressure Measurement using Barometers"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Pressure Exerted by Air",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Atmospheric Pressure and its Effects",
+        "Air Pressure and Altitude Relationship",
+        "Pressure and Temperature Relationship",
+        "Air Pressure Measurement using Barometers",
+        "Effects of Air Pressure on Human Body"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Formation of Wind",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Solar Energy and Wind Formation",
+        "Temperature and Humidity Gradients",
+        "Global Wind Patterns and Trade Winds",
+        "Local Wind Patterns and Land Breeze",
+        "Wind Speed and Direction Measurement"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007High-Speed Winds Result in Lowering",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Storms, Thunderstorms, and Lightning",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Formation of Cumulonimbus Clouds and Thunderstorms",
+        "Lightning Formation and Electrical Discharge",
+        "Thunderstorm Characteristics and Warning Signs",
+        "Effects of Thunderstorms on Environment and Human Life",
+        "Lightning Safety Precautions and Protocols"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Cyclone",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Formation of Cyclones and Tropical Cyclones",
+        "Cyclone Characteristics and Warning Signs",
+        "Effects of Cyclones on Environment and Human Life",
+        "Cyclone Classification and Intensity Measurement",
+        "Cyclone Mitigation and Disaster Management"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Is Matter Composed of?",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Atomic Structure and Composition of Matter",
+        "Elements and Compounds in Matter",
+        "Matter Composition and Atomic Mass",
+        "Isotopes and Isobars in Matter",
+        "Atomic Number and Mass Number"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Decides Different States of Matter?",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Interparticle Forces and Intermolecular Forces",
+        "Kinetic Energy and Potential Energy in Matter",
+        "Temperature and State of Matter Relationship",
+        "Pressure and State of Matter Relationship",
+        "Phase Diagrams and State of Matter"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007How Does the Interparticle Spacing",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007How Particles Move in Different States",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are Mixtures?",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Defining Mixtures and Their Properties",
+        "Types of Mixtures: Homogeneous and Heterogeneous",
+        "Separation Techniques for Mixtures (Filtration, Distillation)",
+        "Properties of Mixtures (Physical and Chemical Changes)",
+        "Mixtures in Everyday Life (Air, Soil, Water)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are Pure Substances?",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Defining Pure Substances and Their Properties",
+        "Characteristics of Elements and Compounds",
+        "Examples of Pure Substances (Elements, Compounds)",
+        "Properties of Pure Substances (Physical and Chemical Changes)",
+        "Importance of Pure Substances in Daily Life"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are the Types of Pure Substances?",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Elements: Definition and Examples",
+        "Compounds: Definition and Examples",
+        "Homogeneous and Heterogeneous Mixtures of Elements and Compounds",
+        "Properties of Elements and Compounds (Physical and Chemical Changes)",
+        "Importance of Elements and Compounds in Daily Life"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "\u0007How Do We Use Elements, Compounds,",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are Minerals?",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Defining Minerals and Their Properties",
+        "Characteristics of Minerals (Crystals, Hardness)",
+        "Examples of Minerals (Quartz, Feldspar)",
+        "Properties of Minerals (Physical and Chemical Changes)",
+        "Importance of Minerals in Daily Life (Construction, Electronics)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Are Solute, Solvent, and Solution?",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Defining Solute, Solvent, and Solution",
+        "Characteristics of Solute, Solvent, and Solution",
+        "Examples of Solute, Solvent, and Solution (Sugar, Water, Tea)",
+        "Properties of Solute, Solvent, and Solution (Concentration, Density)",
+        "Importance of Solute, Solvent, and Solution in Daily Life (Drinking Water, Food)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "How Much Solute Can a Fixed Amount of",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Defining Capacity and Concentration of Solutions",
+        "Measuring Capacity and Concentration of Solutions",
+        "Examples of Capacity and Concentration of Solutions (Tea, Coffee)",
+        "Properties of Capacity and Concentration of Solutions (Physical and Chemical Changes)",
+        "Importance of Capacity and Concentration of Solutions in Daily Life (Cooking, Medicine)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Solubility of Gases",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Defining Solubility and Partial Pressure of Gases",
+        "Factors Affecting Solubility of Gases (Temperature, Pressure)",
+        "Examples of Solubility of Gases (Carbon Dioxide, Oxygen)",
+        "Properties of Solubility of Gases (Physical and Chemical Changes)",
+        "Importance of Solubility of Gases in Daily Life (Respiration, Photosynthesis)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Why Do Objects Float or Sink in Water?",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Defining Density and Buoyancy",
+        "Factors Affecting Density and Buoyancy (Mass, Volume, Gravity)",
+        "Examples of Objects Floating or Sinking in Water (Wood, Metal, Stone)",
+        "Properties of Density and Buoyancy (Physical and Chemical Changes)",
+        "Importance of Density and Buoyancy in Daily Life (Shipbuilding, Architecture)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "What Is Density?",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Definition of density and its unit",
+        "Formula for density (mass/volume)",
+        "Determination of density using a hydrometer",
+        "Concept of relative density",
+        "Examples of objects with varying densities"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT None"
+    },
+    {
+      "raw_name": "Electromagnetic Induction",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Faraday's law of electromagnetic induction",
+        "Lenz's law and its implications",
+        "Construction and working of a simple coil",
+        "Factors affecting electromagnetic induction",
+        "Applications of electromagnetic induction in daily life"
+      ]
+    },
+    {
+      "raw_name": "Principles of Measurement",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Basic principles of measurement (accuracy, precision, significant figures)",
+        "Types of measurement errors (systematic, random)",
+        "Significant figures and rounding rules",
+        "Measurement of length using a ruler and a meter scale",
+        "Measurement of mass using a balance"
+      ]
+    },
+    {
+      "raw_name": "Types of Thermometers",
+      "source_boards": [
+        "Maharashtra"
+      ],
+      "note": "covered in some state boards",
+      "subtopics": [
+        "Working principle of a mercury thermometer",
+        "Construction and types of spirit thermometers",
+        "Working principle of a digital thermometer",
+        "Advantages and limitations of different types of thermometers",
+        "Calibration of thermometers"
+      ]
+    },
+    {
+      "raw_name": "Working of a Cyclotron",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Construction and working of a cyclotron",
+        "Principle of acceleration of charged particles",
+        "Magnetic and electric fields in a cyclotron",
+        "Applications of cyclotrons in nuclear physics",
+        "Limitations of a cyclotron"
+      ]
+    },
+    {
+      "raw_name": "Working of a Microscope",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Construction and types of microscopes (compound, stereo)",
+        "Working principle of a microscope (objective, eyepiece)",
+        "Types of lenses used in microscopes (convex, concave)",
+        "Limitations of a microscope",
+        "Applications of microscopes in biology and medicine"
+      ]
+    },
+    {
+      "raw_name": "Working of a Telescope",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Construction and types of telescopes (refracting, reflecting)",
+        "Working principle of a telescope (objective, eyepiece)",
+        "Types of lenses used in telescopes (convex, concave)",
+        "Limitations of a telescope",
+        "Applications of telescopes in astronomy"
+      ]
+    },
+    {
+      "raw_name": "Working of a Barometer",
+      "source_boards": [
+        "Maharashtra",
+        "Karnataka",
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in some state boards",
+      "subtopics": [
+        "Construction and working of a mercury barometer",
+        "Working principle of a aneroid barometer",
+        "Measurement of atmospheric pressure using a barometer",
+        "Applications of barometers in meteorology",
+        "Limitations of a barometer"
+      ]
+    },
+    {
+      "raw_name": "Working of a Voltmeter",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Construction and working of a moving coil voltmeter",
+        "Working principle of a digital voltmeter",
+        "Measurement of voltage using a voltmeter",
+        "Applications of voltmeters in electrical circuits",
+        "Limitations of a voltmeter"
+      ]
+    },
+    {
+      "raw_name": "Working of a Multimeter",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Construction and working of a multimeter",
+        "Measurement of voltage, current, and resistance using a multimeter",
+        "Types of multimeters (digital, analog)",
+        "Applications of multimeters in electrical circuits",
+        "Limitations of a multimeter"
+      ]
+    },
+    {
+      "raw_name": "Working of a Rheostat",
+      "source_boards": [
+        "Maharashtra"
+      ],
+      "note": "covered in some state boards",
+      "subtopics": [
+        "Understanding the construction of a rheostat",
+        "Identifying the types of rheostats (series, parallel, shunt)",
+        "Explaining the working principle of a rheostat",
+        "Describing the applications of a rheostat in electrical circuits",
+        "Calculating the resistance of a rheostat using Ohm's law"
+      ]
+    },
+    {
+      "raw_name": "Working of a Dynamo",
+      "source_boards": [
+        "Karnataka"
+      ],
+      "note": "covered in some state boards",
+      "subtopics": [
+        "Defining the construction and working of a dynamo",
+        "Describing the principle of electromagnetic induction in a dynamo",
+        "Explaining the conversion of mechanical energy to electrical energy",
+        "Identifying the types of dynamos (DC, AC)",
+        "Calculating the efficiency of a dynamo"
+      ]
+    },
+    {
+      "raw_name": "Working of a Generator",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Understanding the construction and working of a generator",
+        "Describing the principle of electromagnetic induction in a generator",
+        "Explaining the conversion of mechanical energy to electrical energy",
+        "Identifying the types of generators (DC, AC)",
+        "Calculating the efficiency of a generator"
+      ]
+    },
+    {
+      "raw_name": "Working of a Transformer",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the construction and working of a transformer",
+        "Describing the principle of electromagnetic induction in a transformer",
+        "Explaining the concept of voltage transformation",
+        "Identifying the types of transformers (step-up, step-down)",
+        "Calculating the efficiency of a transformer"
+      ]
+    },
+    {
+      "raw_name": "Working of a Motor",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Understanding the construction and working of a motor",
+        "Describing the principle of electromagnetic induction in a motor",
+        "Explaining the conversion of electrical energy to mechanical energy",
+        "Identifying the types of motors (DC, AC)",
+        "Calculating the torque and power of a motor"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Cell",
+      "source_boards": [
+        "Maharashtra"
+      ],
+      "note": "covered in some state boards",
+      "subtopics": [
+        "Defining the construction and working of a solar cell",
+        "Describing the principle of photovoltaic effect",
+        "Explaining the conversion of solar energy to electrical energy",
+        "Identifying the types of solar cells (crystalline, thin-film)",
+        "Calculating the efficiency of a solar cell"
+      ]
+    },
+    {
+      "raw_name": "Working of a Fuel Cell",
+      "source_boards": [
+        "Karnataka"
+      ],
+      "note": "covered in some state boards",
+      "subtopics": [
+        "Understanding the construction and working of a fuel cell",
+        "Describing the principle of electrochemical reaction in a fuel cell",
+        "Explaining the conversion of chemical energy to electrical energy",
+        "Identifying the types of fuel cells (proton exchange membrane, solid oxide)",
+        "Calculating the efficiency of a fuel cell"
+      ]
+    },
+    {
+      "raw_name": "Working of a Thermocouple",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the construction and working of a thermocouple",
+        "Describing the principle of Seebeck effect",
+        "Explaining the conversion of temperature to electrical energy",
+        "Identifying the types of thermocouples (base metal, noble metal)",
+        "Calculating the temperature using a thermocouple"
+      ]
+    },
+    {
+      "raw_name": "Working of a Thermistor",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Understanding the construction and working of a thermistor",
+        "Describing the principle of thermistor material properties",
+        "Explaining the conversion of temperature to resistance",
+        "Identifying the types of thermistors (positive, negative)",
+        "Calculating the temperature using a thermistor"
+      ]
+    },
+    {
+      "raw_name": "Working of a Heat Exchanger",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the construction and working of a heat exchanger",
+        "Describing the types of heat exchangers (shell and tube, plate)",
+        "Explaining the principle of heat transfer (conduction, convection, radiation)",
+        "Identifying the applications of a heat exchanger in various industries",
+        "Calculating the heat transfer coefficient of a heat exchanger"
+      ]
+    },
+    {
+      "raw_name": "Working of a Refrigerator",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Vapor-compression refrigeration cycle",
+        "Role of refrigerants in cooling",
+        "Thermodynamic principles of heat transfer",
+        "Evaporator and condenser coils' function",
+        "Compressor's role in refrigeration cycle"
+      ]
+    },
+    {
+      "raw_name": "Working of a Air Conditioner",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Heat transfer mechanisms in air conditioning",
+        "Refrigerant's role in cooling and dehumidification",
+        "Evaporator and condenser coils' function",
+        "Compressor's role in air conditioning cycle",
+        "Thermostat's function in temperature control"
+      ]
+    },
+    {
+      "raw_name": "Working of a Air Purifier",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "HEPA filter's function in particle removal",
+        "Activated carbon's role in gas removal",
+        "Ionization and ozonation methods for air purification",
+        "UV light's role in microbial disinfection",
+        "Air circulation and filtration principles"
+      ]
+    },
+    {
+      "raw_name": "Working of a Water Purifier",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Reverse osmosis membrane's function in water filtration",
+        "Activated carbon's role in impurity removal",
+        "Ultraviolet (UV) light's role in microbial disinfection",
+        "Distillation method for water purification",
+        "Pre-treatment and post-treatment processes"
+      ]
+    },
+    {
+      "raw_name": "Working of a Water Filter",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Sedimentation and filtration principles",
+        "Activated carbon's role in impurity removal",
+        "Ion exchange and water softening processes",
+        "Ceramic and cartridge filter's function",
+        "Backwashing and maintenance procedures"
+      ]
+    },
+    {
+      "raw_name": "Working of a Water Softener",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Ion exchange resin's function in water softening",
+        "Sodium chloride's role in regeneration process",
+        "Water hardness and its effects on plumbing",
+        "Regeneration and backwashing procedures",
+        "Salt-based and salt-free water softening methods"
+      ]
+    },
+    {
+      "raw_name": "Working of a Water Pump",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Centrifugal pump's working principle",
+        "Positive displacement pump's function",
+        "Pump efficiency and pressure calculations",
+        "Pump materials and construction types",
+        "Pump maintenance and troubleshooting procedures"
+      ]
+    },
+    {
+      "raw_name": "Working of a Wind Turbine",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Aerodynamic principles of wind turbine blades",
+        "Gearbox and generator's function in electricity generation",
+        "Pitch control and yaw systems for wind turbine",
+        "Wind turbine's power curve and efficiency calculations",
+        "Wind turbine's installation and maintenance procedures"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Panel",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Photovoltaic effect and solar cell's function",
+        "Solar panel's efficiency and power output calculations",
+        "Series and parallel connections of solar panels",
+        "Charge controller's role in battery charging",
+        "Solar panel's installation and maintenance procedures"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Inverter",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "DC-AC conversion and inverter's function",
+        "Maximum power point tracking (MPPT) algorithm",
+        "Grid-tie and off-grid solar inverter configurations",
+        "Inverter's efficiency and power factor calculations",
+        "Solar inverter's safety features and protection mechanisms"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Charge Controller",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Understanding the role of charge controllers in solar power systems",
+        "Identifying the types of charge controllers (e.g., PWM, MPPT)",
+        "Describing the working principle of a charge controller",
+        "Explaining the importance of maximum power point tracking (MPPT)",
+        "Analyzing the efficiency of a charge controller in different conditions"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Water Heater",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the components of a solar water heater system",
+        "Describing the process of solar water heating (e.g., flat plate collectors)",
+        "Explaining the concept of heat transfer in solar water heaters",
+        "Calculating the thermal efficiency of a solar water heater",
+        "Discussing the advantages and limitations of solar water heaters"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Water Turbine",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the principles of hydroelectric power generation",
+        "Describing the components of a solar water turbine system",
+        "Explaining the working of a Pelton wheel or Francis turbine",
+        "Calculating the power output of a solar water turbine",
+        "Analyzing the efficiency of a solar water turbine in different conditions"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Power Water Purifier",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the importance of water purification in rural areas",
+        "Describing the components of a solar power water purifier system",
+        "Explaining the working principle of UV or ceramic filtration",
+        "Calculating the effectiveness of a solar power water purifier",
+        "Discussing the advantages and limitations of solar power water purifiers"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Power Air Conditioner",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the components of a solar power air conditioner system",
+        "Describing the working principle of absorption chillers",
+        "Explaining the concept of heat transfer in solar power air conditioners",
+        "Calculating the coefficient of performance (COP) of a solar power air conditioner",
+        "Analyzing the energy efficiency of a solar power air conditioner"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Power Water Cooler",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the importance of water cooling in industrial applications",
+        "Describing the components of a solar power water cooler system",
+        "Explaining the working principle of evaporative cooling",
+        "Calculating the effectiveness of a solar power water cooler",
+        "Discussing the advantages and limitations of solar power water coolers"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Power Wind Turbine",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the principles of wind power generation",
+        "Describing the components of a solar power wind turbine system",
+        "Explaining the working of a horizontal or vertical axis wind turbine",
+        "Calculating the power output of a solar power wind turbine",
+        "Analyzing the efficiency of a solar power wind turbine in different conditions"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Power Power Plant",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the components of a solar power power plant system",
+        "Describing the working principle of solar power generation (e.g., PV, CSP)",
+        "Explaining the concept of grid integration and power transmission",
+        "Calculating the capacity factor of a solar power power plant",
+        "Analyzing the economic viability of a solar power power plant"
+      ]
+    },
+    {
+      "raw_name": "Working of a Solar Power Power Inverter",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "covered in ICSE and some state boards",
+      "subtopics": [
+        "Defining the importance of power inversion in solar power systems",
+        "Describing the components of a solar power power inverter system",
+        "Explaining the working principle of a grid-tied inverter",
+        "Calculating the efficiency of a solar power power inverter",
+        "Analyzing the safety features of a solar power power inverter"
+      ]
+    }
+  ]
+}

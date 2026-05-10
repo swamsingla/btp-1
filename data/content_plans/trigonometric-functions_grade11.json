@@ -1,0 +1,64 @@
+{
+  "concept_slug": "trigonometric-functions",
+  "canonical_name": "Trigonometric Functions",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Trigonometry",
+  "description": "Domain, range, period and graphs of sin, cos, tan etc.",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade11 Ch3 — Introduction]\nThe word ‘trigonometry’ is derived from the Greek words\n‘trigon’ and ‘metron’ and it means ‘measuring the sides of\na triangle’. The subject was originally developed to solve\ngeometric problems involving triangles. It was studied by\nsea captains for navigation, surveyor to map out the new\nlands, by engineers and others. Currently, trigonometry is\nused in many areas such as the science of seismology,\ndesigning electric circuits, describing the state of an atom,\npredicting the heights of tides in the ocean, analysing a\nmusical tone and in many other areas.\nIn earlier classes, we have studied the trigonometric\nratios of acute angles as the ratio of the sides of a right\nangled triangle. We have also studied the trigonometric identities and application of\ntrigonometric ratios in solving the problems related to heights and distances. In this\nChapter, we will generalise the concept of trigonometric ratios to trigonometric functions\nand study their properties.\n3.2  Angles\nArya Bhatt\n(476-550)\n\n[NCERT Grade11 Ch3 — Degree measure]\n\na revolution, the angle is said to have a measure of one degree, written as 1°.  A degree is\ndivided into 60 minutes, and a minute is divided into 60 seconds . One sixtieth of a degree is\ncalled a minute, written as 1′, and one sixtieth of a minute is called a second, written as 1″.\nThus,\n1° = 60′,\n1′ = 60″\nSome of the angles whose measures are 360°,180°, 270°, 420°, – 30°, – 420° are\nshown in Fig 3.3.\nFig  3.3\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS     45\n3.2.2  Radian measure  There is another unit for measurement of an angle, called\n\n[NCERT Grade11 Ch3 — Relation between degree and radian]\nan angle whose radian measure is 2π and its degree measure is 360°, it follows that\n2π radian = 360°\nor\nπ radian = 180°\nThe above relation enables us to express a radian measure in terms of degree\nmeasure and a degree measure in terms of radian measure. Using approximate value\nof π as 22\n7 , we have\n1 radian = 180\nπ\n° = 57° 16′ approximately.\nAlso\n1° = π\n180  radian  =  0.01746 radian approximately.\nThe relation between degree measures and radian measure of some common angles\nare given in the following table:\nDegree\n30°\n45°\n60°\n90°\n180°\n270°\n360°\nRadian\nπ\nπ\nπ\nπ\nπ\n3π\n2π\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS     47\nNotational Convention\nSince angles are measured either in degrees or in radians, we adopt the convention\nthat whenever we write angle θ°, we mean the angle whose degree measure is θ and\nwhenever we write angle β, we mean the angle whose radian measure is β.\nNote that when an angle is expressed in radians, the word ‘radian’ is frequently\nomitted. Thus,\nπ\nπ\n180 and\n=\n°\n=\n°  ar\n\n[NCERT Grade11 Ch3 — Trigonometric Functions]\nIn earlier classes, we have studied trigonometric ratios for acute angles as the ratio of\nsides of a right angled triangle. We will now extend the definition of trigonometric\nratios to any angle in terms of radian measure and study them as trigonometric functions.\nConsider a unit circle with centre\nat origin of the coordinate axes. Let\nP (a, b) be any point on the circle with\nangle AOP = x radian, i.e., length of arc\nAP = x (Fig 3.6).\nWe define cos x = a and sin x =  b\nSince ∆OMP is a right triangle, we have\nOM2 + MP2 = OP2 or a2 + b2 = 1\nThus, for every point on the unit circle,\nwe have\na2 + b2 = 1 or cos2 x + sin2 x = 1\nSince one complete revolution\nsubtends an angle of 2π radian at the\ncentre of the circle,  ∠AOB = π\n2 ,\nFig  3.6\nReprint 2025-26\n∠AOC = π and  ∠AOD = 3π\n2 . All angles which are integral multiples of π\n2  are called\nquadrantal angles. The coordinates of the points A, B, C and D are, respectively,\n(1, 0), (0, 1), (–1, 0) and (0, –1). Therefore, for quadrantal angles, w\n\n[NCERT Grade11 Ch3 — Sign of trigonometric functions]\nLet P (a, b) be a point on the unit circle\nwith centre at the origin such that\n∠AOP = x. If ∠AOQ = – x, then the\ncoordinates of the point Q will be (a, –b)\n(Fig 3.7). Therefore\ncos (– x) = cos x\nand\nsin (– x) = – sin x\nSince for every point P (a, b) on\nthe unit circle, – 1 ≤ a ≤ 1 and\nFig  3.7\nReprint 2025-26\n– 1 ≤  b ≤ 1, we have – 1 ≤ cos x ≤ 1 and –1 ≤ sin x ≤ 1 for all x. We   have learnt in\nprevious classes that in the first quadrant (0 < x < π\n2 ) a and b are both positive, in the\nsecond quadrant ( π\n2  < x <π) a is negative and b is positive, in the third quadrant\n(π < x < 3π\n2 ) a and b are both negative and in the fourth quadrant ( 3π\n2  < x < 2π) a is\npositive and b is negative. Therefore, sin x is positive for 0 < x < π, and negative for\nπ < x < 2π. Similarly, cos x is positive for 0 < x < π\n2 , negative for π\n2  <  x < 3π\n2  and also\npositive for 3π\n2 <  x < 2π. Likewise, we can find the signs of other trigonometric\nfunctions in different quadrants. In fact, we have the fol",
+  "context_sources": [
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3",
+    "ncert:grade11/maths/ch3"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Radian Measure",
+    "Functions",
+    "Trigonometric Identities"
+  ],
+  "prerequisites_descriptions": {
+    "Radian Measure": "Arc length = rθ; conversion between degrees and radians",
+    "Functions": "A relation where each input has exactly one output",
+    "Trigonometric Identities": "sin²θ+cos²θ=1; 1+tan²θ=sec²θ; 1+cot²θ=cosec²θ"
+  },
+  "successors_to_link": [
+    "Sum and Difference Formulas",
+    "Trigonometric Equations",
+    "Standard Limits",
+    "Derivatives of Trigonometric Functions",
+    "Inverse Trigonometric Functions",
+    "Dot (Scalar) Product"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Radian Measure",
+    "Functions",
+    "Trigonometric Identities",
+    "Sum and Difference Formulas",
+    "Trigonometric Equations",
+    "Standard Limits",
+    "Derivatives of Trigonometric Functions",
+    "Inverse Trigonometric Functions",
+    "Dot (Scalar) Product",
+    "Multiple and Sub-multiple Angle Formulas",
+    "Product-to-Sum and Sum-to-Product Formulas"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

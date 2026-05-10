@@ -1,0 +1,43 @@
+{
+  "concept_slug": "cube-numbers",
+  "canonical_name": "Cube Numbers",
+  "subject": "maths",
+  "grade": 8,
+  "area": "Number Theory",
+  "description": "Perfect cubes and their properties",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade8 Ch1 — Cubic Numbers]\nYou know the word cube from geometry. A cube\nis a solid figure all of whose all sides meet at right\nangles and are equal. How many cubes of side 1 cm\nmake a cube of side 2 cm?\nHow many cubes of side 1 cm will make a cube of side 3 cm?\nGanita Prakash | Grade 8\nConsider the numbers 1, 8, 27, ...\nThese numbers are called perfect cubes. Can you see why they are\nnamed so?\nEach of them is obtained by multiplying a number by itself three\ntimes. We note that\n1 = 1 × 1 × 1\n8 = 2 × 2 × 2\n27 = 3 × 3 × 3\nIs 9 a cube?\nWe see that 2 × 2 × 2 = 8 and 3 × 3 × 3 = 27. This shows that\n9 is not a perfect cube. Nor is any number from 10 to 26.\nCan you estimate the number of unit cubes in a cube with an\nedge length of 4 units?\nIt has 64 unit cubes! If you notice carefully, each layer\nof this cube has 4 × 4 unit cubes. Each square layer has\n16 unit cubes (4 × 4), and there are 4 such layers, so the\ntotal number of unit cubes is 4 × 4 × 4 = 64.\nSince 53 = 5 × 5 × 5 = 125, 125 is a cube.\nIn general, for any nu\n\n[NCERT Grade8 Ch1 — A Pinch of History]\nThe first known list of perfect squares and perfect\ncubes was compiled by the Babylonians as far\nback as 1700 BCE. These lists, found on clay tablets,\nwere used to quickly find square roots and cube\nGanita Prakash | Grade 8\nroots in problems involving land measurement, architectural design,\nand other areas where geometric calculations were necessary.\nIn ancient Sanskrit works the term varga was used both for the square\nfigure or its area, as well as the square power, and the term ghana was\nused both for the solid cube as well as the product of a number with\nitself three times. The fourth power was called varga-varga . These terms\nwere used in India at least from the third century BCE.\nAryabhata (499 CE) states\n“A square figure of four equal sides and the number representing its area\nare called varga. The product of two equal quantities is also called varga.”\nThus, the term varga for square power has its origin in the graphical\nrepresentation of a square figure.\nWhy is the word ‘root’ (",
+  "context_sources": [
+    "ncert:grade8/maths/ch1",
+    "ncert:grade8/maths/ch1"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Square Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Square Numbers": "Perfect squares; properties of square numbers"
+  },
+  "successors_to_link": [
+    "Cube Roots"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Square Numbers",
+    "Cube Roots",
+    "Divisibility Rules",
+    "Square Roots",
+    "Pythagorean Triples",
+    "Modular Arithmetic"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

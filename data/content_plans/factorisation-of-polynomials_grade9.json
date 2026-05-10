@@ -1,0 +1,55 @@
+{
+  "concept_slug": "factorisation-of-polynomials",
+  "canonical_name": "Factorisation of Polynomials",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Algebra",
+  "description": "Factorising using splitting middle term, identities, factor theorem",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade9 Ch2 — Factorisation of Polynomials]\nLet us now look at the situation of Example 10 above more closely. It tells us that since\nthe remainder,\nq\n\n−\n\n\n\n = 0, (2t + 1) is a factor of q(t), i.e., q(t) = (2t + 1) g(t)\nfor some polynomial g(t). This is a particular case of the following theorem.\nFactor Theorem : If p(x) is a polynomial of degree n > 1 and a is any real number,\nthen (i) x – a is a factor of p(x), if p(a) = 0, and (ii) p(a) = 0, if x – a is a factor of p(x).\nProof: By the Remainder Theorem, p(x)=(x – a) q(x) + p(a).\n(i) If p(a) = 0, then p(x) = (x – a) q(x), which shows that x – a is a factor of p(x).\n(ii) Since x – a is a factor of p(x), p(x) = (x – a) g(x) for same polynomial g(x).\nIn this case, p(a) = (a – a) g(a) = 0.\nExample 6 : Examine whether x + 2 is a factor of x3 + 3x2 + 5x + 6 and of 2x + 4.\nSolution : The zero of x + 2 is –2. Let p(x) = x3 + 3x2 + 5x + 6 and s(x) = 2x + 4\nThen,\np(–2) = (–2)3 + 3(–2)2 + 5(–2) + 6\n= –8 + 12 – 10 + 6\n= 0\nReprint 2025-26\nPOLYNOMIALS\nSo, by the Factor Theorem, x + 2 \n\n[NCERT Grade9 Ch2 — Zeroes of a Polynomial]\nConsider the polynomial\np(x) = 5x3 – 2x2 + 3x – 2.\nIf we replace x by 1 everywhere in p(x), we get\np(1) = 5 × (1)3 – 2 × (1)2 + 3 × (1) – 2\n= 5 – 2 + 3 –2\n= 4\nSo, we say that the value of p(x) at x = 1 is 4.\nSimilarly,\np(0) = 5(0)3 – 2(0)2 + 3(0) –2\n= –2\nCan you find p(–1)?\nExample 2 : Find the value of each of the following polynomials at the indicated value\nof variables:\n(i)\np(x) = 5x2 – 3x + 7 at x = 1.\n(ii) q(y) = 3y3 – 4y +\n11  at y = 2.\n(iii) p(t) = 4t4 + 5t3 – t2 + 6 at t = a.\nReprint 2025-26\nSolution : (i) p(x) = 5x2 – 3x + 7\nThe value of the polynomial p(x) at x = 1 is given by\np(1) = 5(1)2 – 3(1) + 7\n= 5 – 3 + 7 = 9\n(ii) q(y) = 3y3 – 4y + 11\nThe value of the polynomial q(y) at y = 2 is given by\nq(2) = 3(2)3 – 4(2) + 11  = 24 – 8 + 11  = 16 + 11\n(iii) p(t) = 4t4 + 5t3 – t2 + 6\nThe value of the polynomial p(t) at t = a is given by\np(a) = 4a4 + 5a3 – a2 + 6\nNow, consider the polynomial p(x) = x – 1.\nWhat is p(1)? Note that :  p(1) = 1 – 1 = 0.\nAs p(1) = 0, we say that 1 is a zer\n\n[NCERT Grade9 Ch2 — Introduction]\nYou have studied algebraic expressions, their addition, subtraction, multiplication and\ndivision in earlier classes. You also have studied how to factorise some algebraic\nexpressions. You may recall the algebraic identities :\n(x + y)2 = x2 + 2xy + y2\n(x – y)2 = x2 – 2xy + y2\nand\nx2 – y2 = (x + y) (x – y)\nand their use in factorisation. In this chapter, we shall start our study with a particular\ntype of algebraic expression, called polynomial, and the terminology related to it. We\nshall also study the Remainder Theorem and Factor Theorem and their use in the\nfactorisation of polynomials. In addition to the above, we shall study some more algebraic\nidentities and their use in factorisation and in evaluating some given expressions.\n2.2 Polynomials in One Variable",
+  "context_sources": [
+    "ncert:grade9/maths/ch2",
+    "ncert:grade9/maths/ch2",
+    "ncert:grade9/maths/ch2"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Factor Theorem",
+    "Algebraic Identities"
+  ],
+  "prerequisites_descriptions": {
+    "Factor Theorem": "p(a) = 0 ⟹ (x−a) is a factor of p(x)",
+    "Algebraic Identities": "Standard identities: (a±b)², a²−b², (a+b+c)², (x+a)(x+b)"
+  },
+  "successors_to_link": [
+    "Quadratic Equations",
+    "Integration by Partial Fractions",
+    "Partial Fractions"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Factor Theorem",
+    "Algebraic Identities",
+    "Quadratic Equations",
+    "Integration by Partial Fractions",
+    "Partial Fractions",
+    "Linear Equations in Two Variables",
+    "Laws of Exponents for Real Numbers",
+    "Polynomials in One Variable",
+    "Remainder Theorem",
+    "Zeroes of a Polynomial",
+    "Logarithms"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

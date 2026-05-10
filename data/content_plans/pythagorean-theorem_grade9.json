@@ -1,0 +1,64 @@
+{
+  "concept_slug": "pythagorean-theorem",
+  "canonical_name": "Pythagorean Theorem",
+  "subject": "maths",
+  "grade": 9,
+  "area": "Geometry",
+  "description": "In a right triangle: a² + b² = c²",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[Wikipedia]\nIn mathematics, the Pythagorean theorem or Pythagoras's theorem is a fundamental relation in Euclidean geometry between the three sides of a right triangle. It states that the area of the square whose side is the hypotenuse is equal to the sum of the areas of the squares on the other two sides.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Area of Triangles",
+    "Square Roots"
+  ],
+  "prerequisites_descriptions": {
+    "Area of Triangles": "Area = ½ × base × height for any triangle",
+    "Square Roots": "Finding square roots by prime factorisation and long division"
+  },
+  "successors_to_link": [
+    "Pythagorean Triples",
+    "Converse of Pythagorean Theorem",
+    "Surface Area of Cone",
+    "Trigonometric Ratios",
+    "Distance Formula",
+    "Tangent to a Circle",
+    "Altitudes of a Triangle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Area of Triangles",
+    "Square Roots",
+    "Pythagorean Triples",
+    "Converse of Pythagorean Theorem",
+    "Surface Area of Cone",
+    "Trigonometric Ratios",
+    "Distance Formula",
+    "Tangent to a Circle",
+    "Altitudes of a Triangle",
+    "Parallel Lines and Transversals",
+    "Properties of Triangles",
+    "Congruence of Triangles",
+    "Similar Triangles",
+    "Constructions of Triangles",
+    "Quadrilaterals",
+    "Properties of Parallelogram"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Qualitative and semi-quantitative. Use simple numericals and diagrams. Minimal calculus. Target: Class 8-9 student.",
+  "aliases": []
+}

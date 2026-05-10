@@ -1,0 +1,24 @@
+[
+  {
+    "canonical_name": "Binomial Theorem",
+    "slug": "binomial-theorem",
+    "_aliases": [
+      "Binomial Expansion",
+      "Theorem of Binomial Coefficients"
+    ],
+    "domain": "Algebra",
+    "area": "Polynomials",
+    "parent": "",
+    "grades": [
+      11
+    ],
+    "importance_BY_GRADE": {
+      "11": 5
+    },
+    "source_BOARDS": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]

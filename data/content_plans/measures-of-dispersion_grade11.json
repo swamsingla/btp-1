@@ -1,0 +1,47 @@
+{
+  "concept_slug": "measures-of-dispersion",
+  "canonical_name": "Measures of Dispersion",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Statistics",
+  "description": "Range, mean deviation, variance, standard deviation",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch13 — Measures of Dispersion]\nThe dispersion or scatter in a data is measured on the basis of the observations and the\ntypes of the measure of central tendency, used there. There are following measures of\ndispersion:\n(i) Range, (ii) Quartile deviation, (iii) Mean deviation, (iv) Standard deviation.\nIn this Chapter, we shall study all of these measures of dispersion except the\nquartile deviation.\n13.3\nRange\nRecall that, in the example of runs scored by two batsmen A and B, we had some idea\nof variability in the scores on the basis of minimum and maximum runs in each series.\nTo obtain a single number for this, we find the difference of maximum and minimum\nvalues of each series. This difference is called the ‘Range’ of the data.\nIn case of batsman A, Range = 117 – 0 = 117 and for batsman B, Range = 60 – 46 = 14.\nClearly, Range of A > Range of B. Therefore, the scores are scattered or dispersed in\ncase of A while for B these are close to each other.\nThus, Range of a series = Maximum value – Minimum value.\nThe range of",
+  "context_sources": [
+    "ncert:grade11/maths/ch13"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mean of Grouped Data",
+    "Central Tendency for Grouped Data"
+  ],
+  "prerequisites_descriptions": {
+    "Mean of Grouped Data": "Direct, assumed mean and step deviation methods",
+    "Central Tendency for Grouped Data": "Mean, median, mode for frequency distributions"
+  },
+  "successors_to_link": [
+    "Variance and Standard Deviation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mean of Grouped Data",
+    "Central Tendency for Grouped Data",
+    "Variance and Standard Deviation",
+    "Coefficient of Variation",
+    "Scatter Plot",
+    "Correlation",
+    "Regression Line"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,52 @@
+{
+  "concept_slug": "percentage",
+  "canonical_name": "Percentage",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Proportional Reasoning",
+  "description": "A ratio expressed per hundred",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[Wikipedia]\nIn mathematics, a percentage, percent, or per cent is a number or ratio expressed as a fraction of 100. It is often denoted using the percent sign (%), although the abbreviations pct., pct, and sometimes pc are also used. A percentage is a dimensionless number, primarily used for expressing proportions, but percent is nonetheless a unit of measurement in its orthography and usage.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Decimals",
+    "Fractions",
+    "Ratios and Proportions"
+  ],
+  "prerequisites_descriptions": {
+    "Decimals": "Representing fractions with denominators as powers of 10",
+    "Fractions": "Numbers of the form a/b representing parts of a whole",
+    "Ratios and Proportions": "Comparing quantities; equivalent ratios; proportion as equality of ratios"
+  },
+  "successors_to_link": [
+    "Percentage Increase and Decrease",
+    "Profit, Loss and Discount",
+    "Simple Interest"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Decimals",
+    "Fractions",
+    "Ratios and Proportions",
+    "Percentage Increase and Decrease",
+    "Profit, Loss and Discount",
+    "Simple Interest",
+    "Unitary Method and Direct Proportion",
+    "Speed, Distance and Time"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

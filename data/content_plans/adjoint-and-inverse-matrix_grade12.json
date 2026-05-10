@@ -1,0 +1,50 @@
+{
+  "concept_slug": "adjoint-and-inverse-matrix",
+  "canonical_name": "Adjoint and Inverse of a Matrix",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Linear Algebra",
+  "description": "adj(A); A⁻¹ = adj(A)/det(A) when det(A)≠0",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch4 — Adjoint and Inverse of a Matrix]\nIn the previous chapter, we have studied inverse of a matrix. In this section, we shall\ndiscuss the condition for existence of inverse of a matrix.\nTo find inverse of a matrix A, i.e., A–1 we shall first define adjoint of a matrix.\n4.5.1  Adjoint of a matrix\n\n[NCERT Grade12 Ch4 — Adjoint of a matrix]\nDefinition 3 The adjoint of a square matrix A = [aij]n × n is defined as the transpose of\nthe matrix [Aij]n × n, where Aij is the cofactor of the element aij. Adjoint of the matrix A\nis denoted by adj A.\nLet\nA =\na\na\na\na\na\na\na\na\na\n\n\n\n\n\n\n\n\n\n\nReprint 2025-26\nThen\nA\nA\nA\nA =Transposeof A\nA\nA\nA\nA\nA\nadj\n\n\n\n\n\n\n\n\n\n\nA\nA\nA\n= A\nA\nA\nA\nA\nA\n\n\n\n\n\n\n\n\n\n\nExample 12\nFind\nA for A = 1\nadj\n\n\n\n\n\n\nSolution We have  A11 = 4, A12 = –1, A21 = –3, A22 = 2\nHence\nadj A =\nA\nA\n–3\n=\nA\nA\n–1\n\n\n\n\n\n\n\n\n\n\n\n\nRemark For a square matrix of order 2, given by\nA =\na\na\na\na\n\n\n\n\n\n\nThe adj A can also be obtained by interchanging a11 and a22 and by changing signs\nof a12 and a21, i.e.,\nWe state the following theorem without proof.\nTheorem 1 If A be any given square matrix of order n, then\nA(adj A) = (adj A) A = A I ,\nwhere I is the identity matrix of order n\nVerification\nLet\nA =\na\na\na\na\na\na\na\na\na\n\n\n\n\n\n\n\n\n\n\n,  then adj  A =\nA\nA\nA\nA\nA\nA\nA\nA\nA\n\n\n\n\n\n\n\n\n\n\nSince sum of",
+  "context_sources": [
+    "ncert:grade12/maths/ch4",
+    "ncert:grade12/maths/ch4"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Minors and Cofactors",
+    "Determinants"
+  ],
+  "prerequisites_descriptions": {
+    "Minors and Cofactors": "Mᵢⱼ and Cᵢⱼ = (−1)ⁱ⁺ʲMᵢⱼ",
+    "Determinants": "det(A) for 2×2 and 3×3; Sarrus' rule; cofactor expansion"
+  },
+  "successors_to_link": [
+    "Cramer's Rule"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Minors and Cofactors",
+    "Determinants",
+    "Cramer's Rule",
+    "Matrices",
+    "Types of Matrices",
+    "Operations on Matrices",
+    "Transpose of a Matrix",
+    "Symmetric and Skew-Symmetric Matrices",
+    "Properties of Determinants"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

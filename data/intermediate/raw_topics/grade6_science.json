@@ -1,0 +1,1351 @@
+{
+  "grade": 6,
+  "subject": "science",
+  "total_topics": 84,
+  "topics": [
+    {
+      "raw_name": "What Sets the Living Apart from the",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Living Creatures: Exploring"
+    },
+    {
+      "raw_name": "Essential Conditions for Germination",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Importance of water for seed germination",
+        "Role of temperature in seed germination",
+        "Effect of light on seed germination",
+        "Importance of oxygen for seed germination",
+        "Factors affecting seed germination (e.g., pH, humidity)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Living Creatures: Exploring"
+    },
+    {
+      "raw_name": "Growth and Movement in Plants",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Types of plant movements (tropism, nastic movements)",
+        "Importance of auxins in plant growth and movement",
+        "Role of hormones in plant growth and development",
+        "Types of plant growth (primary, secondary, lateral growth)",
+        "Factors affecting plant growth (e.g., light, water, nutrients)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Living Creatures: Exploring"
+    },
+    {
+      "raw_name": "Life Cycle of a Plant",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Stages of plant life cycle (seed, sprout, seedling, mature plant)",
+        "Importance of pollination in plant reproduction",
+        "Role of fertilization in plant reproduction",
+        "Types of plant reproduction (vegetative, sexual)",
+        "Factors affecting plant reproduction (e.g., climate, soil quality)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Living Creatures: Exploring"
+    },
+    {
+      "raw_name": "Life Cycle of Animals",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Life cycle of a mosquito",
+        "Life cycle of a frog"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Living Creatures: Exploring"
+    },
+    {
+      "raw_name": "Air",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Composition of air (nitrogen, oxygen, carbon dioxide, water vapor)",
+        "Importance of air for human respiration",
+        "Role of air in weathering and erosion",
+        "Types of air pollution (primary, secondary)",
+        "Effects of air pollution on human health and environment"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Nature’s Treasures"
+    },
+    {
+      "raw_name": "Water",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Sources of water (rivers, lakes, oceans, groundwater)",
+        "Importance of water for human consumption and agriculture",
+        "Role of water in weathering and erosion",
+        "Types of water pollution (chemical, physical, biological)",
+        "Effects of water pollution on human health and environment"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Nature’s Treasures"
+    },
+    {
+      "raw_name": "Energy from the Sun",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Types of solar energy (direct, indirect)",
+        "Importance of solar energy for human needs (heating, cooling, electricity)",
+        "Role of solar radiation in plant growth and development",
+        "Factors affecting solar energy production (e.g., climate, technology)",
+        "Benefits and limitations of solar energy as a renewable source"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Nature’s Treasures"
+    },
+    {
+      "raw_name": "Forests",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Types of forests (deciduous, evergreen, tropical)",
+        "Importance of forests for biodiversity and ecosystem services",
+        "Role of forests in climate regulation and carbon sequestration",
+        "Factors affecting forest health (e.g., deforestation, pollution)",
+        "Importance of forest conservation and sustainable management"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Nature’s Treasures"
+    },
+    {
+      "raw_name": "Soil, Rocks and Minerals",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Types of soil (clay, silt, sand, loam)",
+        "Importance of soil for plant growth and agriculture",
+        "Role of rocks and minerals in soil formation and fertility",
+        "Types of rocks (igneous, sedimentary, metamorphic)",
+        "Importance of mineral resources for human needs (construction, technology)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Nature’s Treasures"
+    },
+    {
+      "raw_name": "Fossil Fuels",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Types of fossil fuels (coal, oil, natural gas)",
+        "Formation of fossil fuels (decomposition, pressure, heat)",
+        "Importance of fossil fuels for human energy needs",
+        "Factors affecting fossil fuel production and consumption (e.g., climate, technology)",
+        "Benefits and limitations of fossil fuels as a non-renewable source"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Nature’s Treasures"
+    },
+    {
+      "raw_name": "Natural Resources: renewable and",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Identifying renewable natural resources such as solar, wind, and hydro energy",
+        "Understanding the concept of sustainability and conservation of natural resources",
+        "Describing the importance of forests as a renewable resource",
+        "Explaining the process of photosynthesis and its role in producing renewable energy",
+        "Listing examples of renewable and non-renewable energy sources"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Nature’s Treasures"
+    },
+    {
+      "raw_name": "Resources we use",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Classifying natural resources as renewable and non-renewable",
+        "Describing the uses of fossil fuels such as coal, oil, and natural gas",
+        "Explaining the importance of water as a natural resource",
+        "Identifying the role of minerals in our daily lives",
+        "Understanding the concept of natural resource management"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Nature’s Treasures"
+    },
+    {
+      "raw_name": "Stars and Constellations",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Identifying and naming major constellations in the night sky",
+        "Describing the life cycle of stars and their different types",
+        "Understanding the concept of star formation and evolution",
+        "Explaining the process of stellar nucleosynthesis",
+        "Describing the characteristics of binary and multiple star systems"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Beyond Earth"
+    },
+    {
+      "raw_name": "Night Sky Watching",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Observing and recording the movement of celestial objects",
+        "Identifying and describing the phases of the moon",
+        "Understanding the concept of astronomical time and calendar",
+        "Describing the importance of astronomical observations in navigation",
+        "Explaining the role of telescopes in astronomical observations"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Beyond Earth"
+    },
+    {
+      "raw_name": "Our Solar System",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Describing the structure and composition of the solar system",
+        "Identifying and naming the planets and their relative sizes",
+        "Understanding the concept of planetary motion and orbits",
+        "Explaining the characteristics of dwarf planets and asteroids",
+        "Describing the role of the sun as the center of the solar system"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Beyond Earth"
+    },
+    {
+      "raw_name": "The Milky Way Galaxy",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Identifying and describing the structure of the Milky Way galaxy",
+        "Understanding the concept of galaxy rotation and spiral arms",
+        "Explaining the role of dark matter in galaxy formation and evolution",
+        "Describing the characteristics of galaxy clusters and superclusters",
+        "Understanding the concept of galaxy interactions and mergers"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Beyond Earth"
+    },
+    {
+      "raw_name": "The Universe",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "Describing the concept of the universe and its origin",
+        "Understanding the Big Bang theory and the expansion of the universe",
+        "Explaining the role of dark energy in the universe's expansion",
+        "Identifying and describing the different types of cosmic radiation",
+        "Understanding the concept of cosmic microwave background radiation"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Beyond Earth"
+    },
+    {
+      "raw_name": "Diversity in Plants and Animals Around Us",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Classifying plants and animals based on their characteristics and habitats",
+        "Describing the adaptations of plants and animals to their environments",
+        "Understanding the concept of food chains and food webs",
+        "Explaining the role of decomposers in ecosystems",
+        "Identifying and describing the different types of symbiotic relationships"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Diversity in the Living World"
+    },
+    {
+      "raw_name": "How to Group Plants and Animals?",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "How to group plants?",
+        "How to group animals?"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Diversity in the Living World"
+    },
+    {
+      "raw_name": "Plants and Animals in Different",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Describing the characteristics of plants and animals in different ecosystems",
+        "Understanding the concept of habitat diversity and its importance",
+        "Explaining the role of plants and animals in maintaining ecosystem balance",
+        "Identifying and describing the different types of plant and animal communities",
+        "Understanding the concept of human impact on ecosystems and biodiversity"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Diversity in the Living World"
+    },
+    {
+      "raw_name": "What Do We Eat?",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Food in different regions",
+        "How have cooking practices changed"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Mindful Eating: A Path"
+    },
+    {
+      "raw_name": "What are the Components of Food?",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Identifying the different types of nutrients in food such as carbohydrates, proteins, and fats",
+        "Understanding the concept of macronutrients and micronutrients",
+        "Explaining the role of water in food and its importance in human nutrition",
+        "Describing the process of digestion and absorption of nutrients",
+        "Understanding the concept of food groups and their importance in a balanced diet"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Mindful Eating: A Path"
+    },
+    {
+      "raw_name": "How to Test Different Components",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Test for starch",
+        "Test for fats",
+        "Test for proteins"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Mindful Eating: A Path"
+    },
+    {
+      "raw_name": "Balanced Diet",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Understanding the concept of macronutrients (carbohydrates, proteins, fats)",
+        "Identifying the importance of fiber in the diet",
+        "Calculating daily calorie requirements",
+        "Analyzing the role of vitamins and minerals in the human body",
+        "Evaluating the impact of a balanced diet on physical health"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Mindful Eating: A Path"
+    },
+    {
+      "raw_name": "Millets: Nutrition-rich Cereals",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Comparing the nutritional content of millets and other cereals",
+        "Understanding the benefits of millets in reducing chronic diseases",
+        "Exploring the traditional uses of millets in Indian cuisine",
+        "Calculating the glycemic index of millets",
+        "Evaluating the environmental impact of millet cultivation"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Mindful Eating: A Path"
+    },
+    {
+      "raw_name": "Food Miles: From Farm to Our Plate",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Defining food miles and their significance",
+        "Calculating the carbon footprint of food transportation",
+        "Analyzing the impact of food miles on food quality and safety",
+        "Evaluating the role of local food systems in reducing food miles",
+        "Understanding the concept of food sovereignty"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Mindful Eating: A Path"
+    },
+    {
+      "raw_name": "Magnetic and Non-magnetic Materials",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Identifying magnetic and non-magnetic materials in everyday life",
+        "Understanding the properties of ferromagnetic materials",
+        "Exploring the applications of magnetic materials in technology",
+        "Comparing the magnetic properties of different materials",
+        "Analyzing the uses of non-magnetic materials in construction"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Exploring Magnets"
+    },
+    {
+      "raw_name": "Poles of Magnet",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Defining the north and south poles of a magnet",
+        "Understanding the concept of magnetic field lines",
+        "Exploring the properties of magnetic poles (attractivity, repulsivity)",
+        "Analyzing the effect of magnet orientation on magnetic field strength",
+        "Evaluating the importance of magnetic poles in navigation"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Exploring Magnets"
+    },
+    {
+      "raw_name": "Finding Directions",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Understanding the concept of cardinal directions (north, south, east, west)",
+        "Using a compass to determine direction",
+        "Calculating latitude and longitude coordinates",
+        "Analyzing the use of GPS technology for navigation",
+        "Evaluating the importance of map-reading skills"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Exploring Magnets"
+    },
+    {
+      "raw_name": "Attraction and Repulsion between Magnets",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Understanding the concept of magnetic attraction and repulsion",
+        "Exploring the factors affecting magnetic attraction (distance, orientation)",
+        "Analyzing the properties of magnetic fields (strength, range)",
+        "Comparing the effects of different magnetic materials on attraction and repulsion",
+        "Evaluating the applications of magnetic attraction and repulsion in technology"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Exploring Magnets"
+    },
+    {
+      "raw_name": "Fun with Magnets",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Exploring the properties of magnetism in everyday objects",
+        "Creating magnetic sculptures and designs",
+        "Understanding the concept of magnetic levitation",
+        "Analyzing the uses of magnets in toys and games",
+        "Evaluating the importance of magnetism in science and technology"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Exploring Magnets"
+    },
+    {
+      "raw_name": "How do we Measure?",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Understanding the concept of measurement units (length, mass, time)",
+        "Exploring the use of measuring instruments (rulers, balances, clocks)",
+        "Calculating measurement conversions (e.g., inches to centimeters)",
+        "Analyzing the importance of precision in measurement",
+        "Evaluating the role of measurement in science and technology"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Measurement of Length"
+    },
+    {
+      "raw_name": "Standard Units",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Understanding the concept of standard units (SI units)",
+        "Exploring the use of standard units in measurement",
+        "Calculating conversions between standard units (e.g., meters to feet)",
+        "Analyzing the importance of standard units in science and technology",
+        "Evaluating the role of standard units in international communication"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Measurement of Length"
+    },
+    {
+      "raw_name": "Correct Way of Measuring Length",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Using a ruler to measure length in centimeters and millimeters",
+        "Understanding the concept of precision in measurement",
+        "Measuring the length of a straight line using a ruler",
+        "Converting between units of length (e.g., cm to m)",
+        "Using a measuring tape to measure length in the field"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Measurement of Length"
+    },
+    {
+      "raw_name": "Measuring the length of a curved line",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Using a flexible measuring tape to measure curved lengths",
+        "Measuring the circumference of a circle using a string",
+        "Using a protractor to measure angles in a curved line",
+        "Converting between units of length for curved lines",
+        "Measuring the length of a curved line using a piece of string"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Measurement of Length"
+    },
+    {
+      "raw_name": "Describing Position",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Understanding the concept of position in a 2D coordinate system",
+        "Plotting points on a coordinate grid",
+        "Describing the position of an object using coordinates",
+        "Understanding the concept of x-axis and y-axis",
+        "Identifying the position of an object on a map"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Measurement of Length"
+    },
+    {
+      "raw_name": "Moving Things",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Understanding the concept of motion and rest",
+        "Identifying the types of motion (e.g., linear, rotational)",
+        "Describing the motion of an object using diagrams",
+        "Understanding the concept of speed and velocity",
+        "Analyzing the motion of a moving object"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Measurement of Length"
+    },
+    {
+      "raw_name": "Types of Motion",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Understanding the concept of linear motion",
+        "Identifying the types of rotational motion (e.g., clockwise, counterclockwise)",
+        "Describing the motion of an object using graphs",
+        "Understanding the concept of oscillatory motion",
+        "Analyzing the motion of a pendulum"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Measurement of Length"
+    },
+    {
+      "raw_name": "Observing Objects Around Us",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Observing and describing the properties of everyday objects",
+        "Identifying the materials used to make everyday objects",
+        "Understanding the concept of texture and shape",
+        "Describing the functions of everyday objects",
+        "Classifying everyday objects into categories"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Materials Around Us"
+    },
+    {
+      "raw_name": "How to Group Materials?",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Understanding the concept of classification and grouping",
+        "Grouping materials based on their properties (e.g., texture, color)",
+        "Classifying materials into categories (e.g., living, non-living)",
+        "Understanding the concept of similarity and difference",
+        "Creating a chart to group materials"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Materials Around Us"
+    },
+    {
+      "raw_name": "What are the different Properties of",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "\u0007Observe and identify appearance of materials",
+        "Which materials are hard?",
+        "Explore materials through which one can",
+        "What is soluble in water; what is not?",
+        "How heavy or light?",
+        "Space and volume"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Materials Around Us"
+    },
+    {
+      "raw_name": "What is Matter?",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Understanding the concept of matter and its properties",
+        "Identifying the characteristics of matter (e.g., mass, volume)",
+        "Describing the states of matter (e.g., solid, liquid, gas)",
+        "Understanding the concept of density and buoyancy",
+        "Analyzing the properties of different materials"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Materials Around Us"
+    },
+    {
+      "raw_name": "Hot or Cold?",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Understanding the concept of temperature and its measurement",
+        "Identifying the characteristics of hot and cold objects",
+        "Describing the effects of temperature on everyday objects",
+        "Understanding the concept of thermal energy transfer",
+        "Analyzing the temperature of different materials"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Temperature and"
+    },
+    {
+      "raw_name": "Temperature",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Understanding the concept of temperature scales (e.g., Celsius, Fahrenheit)",
+        "Measuring temperature using a thermometer",
+        "Describing the relationship between temperature and thermal energy",
+        "Understanding the concept of thermal equilibrium",
+        "Analyzing the temperature of a substance over time"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Temperature and"
+    },
+    {
+      "raw_name": "Measuring Temperature",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Clinical thermometer",
+        "Laboratory thermometer",
+        "Air temperature"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Temperature and"
+    },
+    {
+      "raw_name": "Investigating Water’s Disappearing Act",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A Journey through"
+    },
+    {
+      "raw_name": "Another Mystery",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Conducting an experiment to observe the changes in a substance over time",
+        "Identifying the characteristics of a substance that change over time",
+        "Describing the process of a substance undergoing a phase change",
+        "Analyzing the data to determine the rate of change",
+        "Drawing conclusions based on the observations and data"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A Journey through"
+    },
+    {
+      "raw_name": "What are the different States of Water?",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Defining the three main states of water (solid, liquid, gas)",
+        "Describing the characteristics of each state of water",
+        "Identifying the factors that affect the state of water (temperature, pressure)",
+        "Conducting an experiment to demonstrate the changes in state of water",
+        "Drawing a diagram to show the water cycle"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A Journey through"
+    },
+    {
+      "raw_name": "How can we change the States of Water?",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Describing the process of melting ice",
+        "Conducting an experiment to demonstrate the process of condensation",
+        "Identifying the factors that affect the rate of evaporation",
+        "Conducting an experiment to demonstrate the process of freezing water",
+        "Analyzing the data to determine the effect of temperature on the state of water"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A Journey through"
+    },
+    {
+      "raw_name": "How can Water be Evaporated Faster or",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Conducting an experiment to measure the effect of wind on evaporation",
+        "Identifying the factors that affect the rate of evaporation",
+        "Describing the process of evaporation using the concept of molecules",
+        "Analyzing the data to determine the effect of temperature on evaporation",
+        "Drawing conclusions based on the observations and data"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A Journey through"
+    },
+    {
+      "raw_name": "Cooling Effect",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Conducting an experiment to demonstrate the cooling effect of evaporation",
+        "Identifying the factors that affect the rate of evaporation",
+        "Describing the process of evaporation using the concept of molecules",
+        "Analyzing the data to determine the effect of temperature on evaporation",
+        "Drawing conclusions based on the observations and data"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A Journey through"
+    },
+    {
+      "raw_name": "How do Clouds give us Rain?",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Describing the process of condensation and precipitation",
+        "Identifying the factors that affect the formation of clouds",
+        "Conducting an experiment to demonstrate the process of evaporation and condensation",
+        "Analyzing the data to determine the effect of temperature on precipitation",
+        "Drawing a diagram to show the water cycle"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT A Journey through"
+    },
+    {
+      "raw_name": "Photosynthesis",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes light-dependent and light-independent reactions",
+      "subtopics": [
+        "Describing the process of photosynthesis using the equation",
+        "Identifying the reactants and products of photosynthesis",
+        "Conducting an experiment to measure the effect of light on photosynthesis",
+        "Analyzing the data to determine the effect of temperature on photosynthesis",
+        "Drawing conclusions based on the observations and data"
+      ]
+    },
+    {
+      "raw_name": "Respiration",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes aerobic and anaerobic respiration",
+      "subtopics": [
+        "Describing the process of cellular respiration using the equation",
+        "Identifying the reactants and products of cellular respiration",
+        "Conducting an experiment to measure the effect of oxygen on respiration",
+        "Analyzing the data to determine the effect of temperature on respiration",
+        "Drawing conclusions based on the observations and data"
+      ]
+    },
+    {
+      "raw_name": "Transportation in Plants",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes transpiration, guttation, and phloem transport",
+      "subtopics": [
+        "Describing the process of transpiration using the concept of xylem and phloem",
+        "Identifying the factors that affect the rate of transpiration",
+        "Conducting an experiment to measure the effect of temperature on transpiration",
+        "Analyzing the data to determine the effect of light on transpiration",
+        "Drawing conclusions based on the observations and data"
+      ]
+    },
+    {
+      "raw_name": "Mineral Deficiency Diseases in Plants",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes chlorosis, necrosis, and other symptoms",
+      "subtopics": [
+        "Identifying symptoms of mineral deficiency in plants",
+        "Understanding the role of essential micronutrients in plant growth",
+        "Describing the effects of macronutrient deficiency on plant development",
+        "Explaining the concept of soil pH and its impact on nutrient availability",
+        "Describing the process of diagnosing mineral deficiency in plants using laboratory tests"
+      ]
+    },
+    {
+      "raw_name": "Soil Erosion",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "note": "Includes causes, effects, and prevention methods",
+      "subtopics": [
+        "Defining soil erosion and its causes",
+        "Describing the effects of soil erosion on land degradation and water quality",
+        "Identifying factors contributing to soil erosion (rainfall, wind, human activities)",
+        "Explaining the concept of soil conservation techniques (terracing, contour farming)",
+        "Describing the role of vegetation in preventing soil erosion"
+      ]
+    },
+    {
+      "raw_name": "Conservation of Natural Resources",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes importance, methods, and benefits",
+      "subtopics": [
+        "Defining natural resources and their importance",
+        "Describing the concept of sustainable use of natural resources",
+        "Explaining the impact of human activities on natural resource depletion",
+        "Identifying methods for conserving water resources (harvesting, storage)",
+        "Describing the role of renewable energy sources in conserving natural resources"
+      ]
+    },
+    {
+      "raw_name": "Importance of Insects",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes pollination, decomposition, and food source",
+      "subtopics": [
+        "Describing the role of insects in pollination and seed dispersal",
+        "Explaining the concept of insect diversity and their importance in ecosystems",
+        "Identifying the economic importance of insects (food, honey production)",
+        "Describing the process of insect metamorphosis (incomplete, complete)",
+        "Explaining the concept of insect social behavior (colonies, communication)"
+      ]
+    },
+    {
+      "raw_name": "Human Impact on the Environment",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes pollution, deforestation, and climate change",
+      "subtopics": [
+        "Describing the effects of human activities on air and water pollution",
+        "Explaining the concept of greenhouse gases and climate change",
+        "Identifying the impact of human consumption patterns on resource depletion",
+        "Describing the role of human waste management in environmental conservation",
+        "Explaining the concept of sustainable development and its importance"
+      ]
+    },
+    {
+      "raw_name": "Waste Management",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes types, effects, and methods of waste disposal",
+      "subtopics": [
+        "Defining waste and its types (biodegradable, non-biodegradable)",
+        "Describing the process of waste collection and disposal methods",
+        "Explaining the concept of waste reduction and recycling techniques",
+        "Identifying the impact of improper waste disposal on environmental health",
+        "Describing the role of community involvement in waste management"
+      ]
+    },
+    {
+      "raw_name": "Importance of Biodiversity",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes ecosystem balance, adaptation, and survival",
+      "subtopics": [
+        "Describing the concept of biodiversity and its importance",
+        "Explaining the role of ecosystems in maintaining biodiversity",
+        "Identifying the economic importance of biodiversity (medicine, food)",
+        "Describing the process of species adaptation and evolution",
+        "Explaining the impact of human activities on biodiversity loss"
+      ]
+    },
+    {
+      "raw_name": "Natural Disasters",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes earthquakes, floods, landslides, and tsunamis",
+      "subtopics": [
+        "Defining natural disasters and their types (earthquakes, floods, landslides)",
+        "Describing the effects of natural disasters on human populations and infrastructure",
+        "Explaining the concept of disaster preparedness and mitigation strategies",
+        "Identifying the role of early warning systems in disaster management",
+        "Describing the process of disaster relief and recovery efforts"
+      ]
+    },
+    {
+      "raw_name": "Weathering and Erosion",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes mechanical and chemical weathering, and erosion processes",
+      "subtopics": [
+        "Defining weathering and its types (mechanical, chemical)",
+        "Describing the process of mechanical weathering (freeze-thaw, abrasion)",
+        "Explaining the concept of chemical weathering (oxidation, hydrolysis)",
+        "Identifying the factors contributing to erosion (water, wind, ice)",
+        "Describing the role of vegetation in preventing weathering and erosion"
+      ]
+    },
+    {
+      "raw_name": "Earth's Internal Structure",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes crust, mantle, outer core, and inner core",
+      "subtopics": [
+        "Describing the concept of the Earth's internal structure (crust, mantle, core)",
+        "Explaining the process of plate tectonics and its role in shaping the Earth's surface",
+        "Identifying the types of rocks formed through the Earth's internal processes (igneous, metamorphic)",
+        "Describing the role of the Earth's magnetic field in geological processes",
+        "Explaining the concept of seismic waves and their importance in studying the Earth's internal structure"
+      ]
+    },
+    {
+      "raw_name": "Earth's Rotation and Revolution",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes causes, effects, and importance",
+      "subtopics": [
+        "Understanding the concept of rotation and revolution",
+        "Defining the difference between sidereal and solar days",
+        "Explaining the effects of Earth's rotation on day and night",
+        "Describing the Earth's orbit around the Sun",
+        "Identifying the importance of Earth's rotation and revolution in daily life"
+      ]
+    },
+    {
+      "raw_name": "Earth's Atmosphere",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes composition, layers, and functions",
+      "subtopics": [
+        "Defining the composition of the Earth's atmosphere",
+        "Identifying the layers of the atmosphere (troposphere, stratosphere, etc.)",
+        "Describing the role of the atmosphere in regulating temperature",
+        "Explaining the concept of air pressure and its effects",
+        "Understanding the importance of the atmosphere in supporting life"
+      ]
+    },
+    {
+      "raw_name": "Earth's Water Cycle",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes evaporation, condensation, and precipitation",
+      "subtopics": [
+        "Defining the water cycle and its processes (evaporation, condensation, etc.)",
+        "Identifying the sources and sinks of water in the Earth's water cycle",
+        "Describing the role of the ocean, atmosphere, and land in the water cycle",
+        "Explaining the concept of precipitation and runoff",
+        "Understanding the importance of the water cycle in sustaining life"
+      ]
+    },
+    {
+      "raw_name": "Earth's Oceans",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes types, characteristics, and importance",
+      "subtopics": [
+        "Defining the characteristics of the ocean (saltwater, depth, etc.)",
+        "Identifying the major ocean basins and their locations",
+        "Describing the role of the ocean in regulating climate",
+        "Explaining the concept of ocean currents and their effects",
+        "Understanding the importance of the ocean in supporting marine life"
+      ]
+    },
+    {
+      "raw_name": "Earth's Continents",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes types, characteristics, and importance",
+      "subtopics": [
+        "Defining the characteristics of the continents (size, shape, etc.)",
+        "Identifying the major continents and their locations",
+        "Describing the role of the continents in shaping the Earth's surface",
+        "Explaining the concept of plate tectonics and its effects on the continents",
+        "Understanding the importance of the continents in supporting human life"
+      ]
+    },
+    {
+      "raw_name": "Earth's Fossil Record",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes types, characteristics, and importance",
+      "subtopics": [
+        "Defining the concept of fossils and their formation",
+        "Identifying the different types of fossils (plant, animal, etc.)",
+        "Describing the role of fossils in understanding the Earth's history",
+        "Explaining the concept of fossilization and its processes",
+        "Understanding the importance of the fossil record in reconstructing the Earth's past"
+      ]
+    },
+    {
+      "raw_name": "Earth's Geological Time Scale",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes eons, eras, periods, and epochs",
+      "subtopics": [
+        "Defining the concept of the geological time scale",
+        "Identifying the major eons and eras in the geological time scale",
+        "Describing the role of the geological time scale in understanding the Earth's history",
+        "Explaining the concept of relative dating and its methods",
+        "Understanding the importance of the geological time scale in reconstructing the Earth's past"
+      ]
+    },
+    {
+      "raw_name": "Earth's Plate Tectonics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes continental and oceanic plates, and plate boundaries",
+      "subtopics": [
+        "Defining the concept of plate tectonics and its processes",
+        "Identifying the major types of plate boundaries (divergent, convergent, etc.)",
+        "Describing the role of plate tectonics in shaping the Earth's surface",
+        "Explaining the concept of plate motion and its effects",
+        "Understanding the importance of plate tectonics in understanding the Earth's dynamics"
+      ]
+    },
+    {
+      "raw_name": "Earth's Natural Hazards",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes earthquakes, volcanic eruptions, and landslides",
+      "subtopics": [
+        "Defining the concept of natural hazards and their types (earthquakes, floods, etc.)",
+        "Identifying the causes and effects of natural hazards",
+        "Describing the role of natural hazards in shaping the Earth's surface",
+        "Explaining the concept of disaster management and its strategies",
+        "Understanding the importance of natural hazard mitigation and preparedness"
+      ]
+    },
+    {
+      "raw_name": "Earth's Natural Resources",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes renewable and non-renewable resources",
+      "subtopics": [
+        "Defining the concept of natural resources and their types (water, minerals, etc.)",
+        "Identifying the sources and uses of natural resources",
+        "Describing the role of natural resources in supporting human life",
+        "Explaining the concept of conservation and sustainable use of natural resources",
+        "Understanding the importance of responsible management of natural resources"
+      ]
+    },
+    {
+      "raw_name": "Earth's Water Quality",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes factors affecting water quality and importance of conservation",
+      "subtopics": [
+        "Identifying sources of water pollution",
+        "Understanding the water cycle and its impact on water quality",
+        "Describing the effects of human activities on water quality",
+        "Defining the concept of water conservation",
+        "Explaining the importance of water treatment processes"
+      ]
+    },
+    {
+      "raw_name": "Earth's Soil Conservation",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes importance, methods, and benefits",
+      "subtopics": [
+        "Defining soil erosion and its causes",
+        "Describing the importance of soil conservation techniques",
+        "Explaining the role of vegetation in soil conservation",
+        "Understanding the concept of contour farming",
+        "Describing the benefits of mulching in soil conservation"
+      ]
+    },
+    {
+      "raw_name": "Earth's Biodiversity Hotspots",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes importance, characteristics, and conservation efforts",
+      "subtopics": [
+        "Defining biodiversity and its importance",
+        "Identifying and describing different types of ecosystems",
+        "Explaining the concept of habitat destruction and its impact on biodiversity",
+        "Describing the role of conservation efforts in preserving biodiversity",
+        "Understanding the concept of endangered species and their conservation"
+      ]
+    },
+    {
+      "raw_name": "Earth's Climate Change",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes causes, effects, and mitigation strategies",
+      "subtopics": [
+        "Defining climate change and its causes",
+        "Describing the greenhouse effect and its impact on climate",
+        "Explaining the concept of global warming and its effects",
+        "Understanding the role of human activities in climate change",
+        "Describing the importance of reducing carbon footprint"
+      ]
+    },
+    {
+      "raw_name": "Earth's Natural Disasters Prevention",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes importance, methods, and benefits",
+      "subtopics": [
+        "Defining natural disasters and their types",
+        "Describing the causes and effects of earthquakes",
+        "Explaining the concept of flood control measures",
+        "Understanding the importance of early warning systems for natural disasters",
+        "Describing the role of disaster management plans in prevention"
+      ]
+    },
+    {
+      "raw_name": "Earth's Environmental Conservation",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes importance, methods, and benefits",
+      "subtopics": [
+        "Defining environmental conservation and its importance",
+        "Describing the role of recycling in waste management",
+        "Explaining the concept of sustainable living and its benefits",
+        "Understanding the importance of reducing, reusing, and recycling",
+        "Describing the benefits of community involvement in environmental conservation"
+      ]
+    },
+    {
+      "raw_name": "Earth's Sustainable Development",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes importance, methods, and benefits",
+      "subtopics": [
+        "Defining sustainable development and its goals",
+        "Describing the importance of economic, social, and environmental balance",
+        "Explaining the concept of sustainable agriculture and its benefits",
+        "Understanding the role of renewable energy sources in sustainable development",
+        "Describing the importance of reducing poverty and inequality in sustainable development"
+      ]
+    },
+    {
+      "raw_name": "Earth's Environmental Education",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes importance, methods, and benefits",
+      "subtopics": [
+        "Defining environmental education and its importance",
+        "Describing the role of environmental education in promoting awareness",
+        "Explaining the concept of environmental literacy and its benefits",
+        "Understanding the importance of integrating environmental education into school curricula",
+        "Describing the benefits of community involvement in environmental education"
+      ]
+    }
+  ]
+}

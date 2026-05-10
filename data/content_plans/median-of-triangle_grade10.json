@@ -1,0 +1,48 @@
+{
+  "concept_slug": "median-of-triangle",
+  "canonical_name": "Medians of a Triangle",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Geometry",
+  "description": "Median connects vertex to midpoint of opposite side; centroid divides 2:1",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Properties of Triangles",
+    "Section Formula and Midpoint"
+  ],
+  "prerequisites_descriptions": {
+    "Properties of Triangles": "Triangle inequality; angle-side relationships",
+    "Section Formula and Midpoint": "Internal and external division of a line segment in a given ratio"
+  },
+  "successors_to_link": [
+    "Centroid of a Triangle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Properties of Triangles",
+    "Section Formula and Midpoint",
+    "Centroid of a Triangle",
+    "Similar Triangles",
+    "Similarity of Triangles — Theorems",
+    "Basic Proportionality Theorem (Thales)",
+    "Tangent to a Circle",
+    "Properties of Tangents from External Point",
+    "Altitudes of a Triangle",
+    "Circumcentre of a Triangle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

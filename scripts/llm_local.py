@@ -118,7 +118,7 @@ class LocalLLM:
         def _timeout_handler(signum, frame):
             raise TimeoutError(f"LLM generation exceeded time limit")
 
-        timeout_secs = min(max(max_new_tokens // 10, 60), 180)
+        timeout_secs = min(max(max_new_tokens // 10, 60), 600)
         signal.signal(signal.SIGALRM, _timeout_handler)
         signal.alarm(timeout_secs)
         try:

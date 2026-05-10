@@ -1,0 +1,1771 @@
+{
+  "grade": 9,
+  "subject": "science",
+  "total_topics": 112,
+  "topics": [
+    {
+      "raw_name": "Physical Nature of Matter",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "MATTER IS MADE UP OF PARTICLES",
+        "HOW SMALL ARE THESE PARTICLES",
+        "PARTICLES"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATTER"
+    },
+    {
+      "raw_name": "Characteristics of Particles of",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "PARTICLES OF MATTER HAVE SPACE",
+        "PARTICLES OF MATTER ATTRACT"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATTER"
+    },
+    {
+      "raw_name": "States of Matter",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "THE SOLID STATE",
+        "THE LIQUID STATE",
+        "THE GASEOUS STATE",
+        "EFFECT OF CHANGE OF TEMPERATURE"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATTER"
+    },
+    {
+      "raw_name": "Can Matter Change its State?",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "EFFECT OF CHANGE OF PRESSURE",
+        "HOW DOES EVAPORATION CAUSE"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATTER"
+    },
+    {
+      "raw_name": "Evaporation",
+      "ncert_refs": [
+        "chapter1"
+      ],
+      "subtopics": [
+        "Factors affecting evaporation (temperature, humidity, wind speed)",
+        "Process of evaporation (liquid to gas phase change)",
+        "Evaporation in daily life (water cycle, water purification)",
+        "Measurement of evaporation (evaporation pans, evaporation rate)",
+        "Importance of evaporation in agriculture (irrigation, crop growth)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MATTER"
+    },
+    {
+      "raw_name": "Work",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "NOT MUCH ‘WORK’ IN SPITE OF",
+        "WORK DONE BY A CONSTANT",
+        "FORMS OF ENERGY"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WORK"
+    },
+    {
+      "raw_name": "Energy",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "KINETIC ENERGY",
+        "POTENTIAL ENERGY",
+        "POTENTIAL ENERGY OF AN OBJECT",
+        "ARE VARIOUS ENERGY FORMS",
+        "LAW OF CONSERVATION OF ENERGY"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WORK"
+    },
+    {
+      "raw_name": "Rate of Doing Work",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Definition of work and energy (kinetic energy, potential energy)",
+        "Work-energy theorem (work done, energy transferred)",
+        "Power and its measurement (watt, horsepower)",
+        "Efficiency of machines (mechanical advantage, power output)",
+        "Applications of work and energy in daily life (electricity generation, transportation)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT WORK"
+    },
+    {
+      "raw_name": "Production of Sound",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Vibration and sound production (sound waves, frequency)",
+        "Types of sound production (vibrating strings, air columns)",
+        "Sound production in musical instruments (guitar, violin, drum)",
+        "Sound production in everyday objects (doorbell, alarm clock)",
+        "Factors affecting sound production (amplitude, frequency, medium)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SOUND"
+    },
+    {
+      "raw_name": "Propagation of Sound",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "SOUND WAVES ARE LONGITUDINAL",
+        "CHARACTERISTICS OF A SOUND"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SOUND"
+    },
+    {
+      "raw_name": "Reflection of Sound",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "SPEED OF SOUND IN DIFFERENT",
+        "ECHO",
+        "REVERBERATION",
+        "USES OF MULTIPLE REFLECTION"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SOUND"
+    },
+    {
+      "raw_name": "Range of Hearing",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Human ear structure and function (eardrum, cochlea, auditory nerve)",
+        "Range of human hearing (frequency range, sound intensity)",
+        "Effects of loud sounds on hearing (noise pollution, hearing loss)",
+        "Importance of hearing range in communication (speech, music)",
+        "Protection of hearing range (earplugs, earmuffs)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SOUND"
+    },
+    {
+      "raw_name": "Applications of Ultrasound",
+      "ncert_refs": [
+        "chapter11"
+      ],
+      "subtopics": [
+        "Medical applications of ultrasound (ultrasound imaging, therapy)",
+        "Industrial applications of ultrasound (cleaning, welding)",
+        "Diagnostic applications of ultrasound (ultrasound scanning, Doppler imaging)",
+        "Therapeutic applications of ultrasound (physical therapy, pain relief)",
+        "Safety precautions in ultrasound applications (intensity limits, exposure times)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT SOUND"
+    },
+    {
+      "raw_name": "Improvement in Crop Yields",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "CROP VARIETY IMPROVEMENT",
+        "CROP PRODUCTION MANAGEMENT",
+        "(i)  NUTRIENT MANAGEMENT",
+        "(iii)  CROPPING PATTERNS",
+        "(ii)  IRRIGATION",
+        "CROP PROTECTION MANAGEMENT"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT IMPROVEMENT"
+    },
+    {
+      "raw_name": "Animal Husbandry",
+      "ncert_refs": [
+        "chapter12"
+      ],
+      "subtopics": [
+        "CATTLE FARMING",
+        "POULTRY FARMING",
+        "FISH PRODUCTION",
+        "(i) MARINE FISHERIES",
+        "(ii)  INLAND FISHERIES",
+        "BEE-KEEPING"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT IMPROVEMENT"
+    },
+    {
+      "raw_name": "What is a Mixture?",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Definition of a mixture (physical mixture, chemical mixture)",
+        "Types of mixtures (homogeneous, heterogeneous)",
+        "Properties of mixtures (composition, appearance, smell)",
+        "Examples of mixtures in daily life (air, soil, food)",
+        "Importance of mixtures in science and technology (catalysts, fuels)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT IS M"
+    },
+    {
+      "raw_name": "What is a Solution?",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "CONCENTRATION OF A SOLUTION",
+        "WHAT IS A SUSPENSION?",
+        "WHAT IS A COLLOIDAL SOLUTION?"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT IS M"
+    },
+    {
+      "raw_name": "Physical and Chemical",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "Difference between physical and chemical changes (phase change, chemical reaction)",
+        "Examples of physical changes (melting, boiling, condensation)",
+        "Examples of chemical changes (burning, rusting, fermentation)",
+        "Factors affecting physical and chemical changes (temperature, pressure, concentration)",
+        "Importance of physical and chemical changes in everyday life (food preservation, energy production)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT IS M"
+    },
+    {
+      "raw_name": "What are the Types of Pure",
+      "ncert_refs": [
+        "chapter2"
+      ],
+      "subtopics": [
+        "ELEMENTS",
+        "COMPOUNDS"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT IS M"
+    },
+    {
+      "raw_name": "Laws of Chemical Combination",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "LAW OF CONSERVATION OF MASS",
+        "LAW OF CONSTANT PROPORTIONS"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ATOMS"
+    },
+    {
+      "raw_name": "What is an Atom?",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "WHAT ARE THE MODERN DAY",
+        "ATOMIC MASS",
+        "HOW DO ATOMS EXIST?"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ATOMS"
+    },
+    {
+      "raw_name": "What is a Molecule?",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "MOLECULES OF ELEMENTS",
+        "WHAT IS AN ION?",
+        "MOLECULES OF COMPOUNDS"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ATOMS"
+    },
+    {
+      "raw_name": "Writing Chemical Formulae",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Rules for writing chemical formulae (symbols, subscripts, superscripts)",
+        "Writing formulae for ionic compounds (ionic bonds, charges)",
+        "Writing formulae for molecular compounds (covalent bonds, molecular structure)",
+        "Writing formulae for acids and bases (pH, chemical reactions)",
+        "Importance of writing chemical formulae in chemistry (chemical equations, stoichiometry)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ATOMS"
+    },
+    {
+      "raw_name": "Molecular Mass",
+      "ncert_refs": [
+        "chapter3"
+      ],
+      "subtopics": [
+        "Definition of molecular mass (atomic mass, molecular weight)",
+        "Calculating molecular mass (atomic masses, subscripts)",
+        "Importance of molecular mass in chemistry (chemical reactions, stoichiometry)",
+        "Examples of molecular mass in everyday life (water, glucose, oxygen)",
+        "Factors affecting molecular mass (atomic mass, molecular structure)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT ATOMS"
+    },
+    {
+      "raw_name": "Charged Particles in Matter",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Definition of charged particles (electrons, protons, neutrons)",
+        "Types of charged particles (positive, negative, neutral)",
+        "Properties of charged particles (charge, mass, spin)",
+        "Examples of charged particles in matter (atoms, ions, molecules)",
+        "Importance of charged particles in science and technology (electricity, magnetism)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT STRUCTURE"
+    },
+    {
+      "raw_name": "The Structure of an Atom",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "THOMSON’S MODEL OF AN ATOM",
+        "RUTHERFORD’S MODEL OF AN ATOM",
+        "BOHR’S MODEL OF ATOM",
+        "NEUTRONS"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT STRUCTURE"
+    },
+    {
+      "raw_name": "How are Electrons Distributed",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Electron configuration using Aufbau principle",
+        "Pauli's Exclusion Principle and Hund's Rule",
+        "Shielding effect and effective nuclear charge",
+        "Hybridization of atomic orbitals",
+        "Molecular orbital theory and electron distribution"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT STRUCTURE"
+    },
+    {
+      "raw_name": "Valency",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Definition of valency and its types",
+        "Valency of metals and non-metals",
+        "Valency and electron configuration",
+        "Valency and chemical reactivity",
+        "Valency and chemical bonding"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT STRUCTURE"
+    },
+    {
+      "raw_name": "Atomic Number and Mass",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "ATOMIC NUMBER",
+        "MASS NUMBER"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT STRUCTURE"
+    },
+    {
+      "raw_name": "Isotopes",
+      "ncert_refs": [
+        "chapter4"
+      ],
+      "subtopics": [
+        "Definition of isotopes and their types",
+        "Isotopes and atomic mass",
+        "Isotopes and radioactivity",
+        "Isotopes and nuclear reactions",
+        "Isotopes in everyday life"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT STRUCTURE"
+    },
+    {
+      "raw_name": "What are Living Organisms",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "Characteristics of living organisms",
+        "Cell structure and function",
+        "Metabolism and energy production",
+        "Photosynthesis and respiration",
+        "Cell division and reproduction"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT HE F"
+    },
+    {
+      "raw_name": "What is a Cell Made Up of?",
+      "ncert_refs": [
+        "chapter5"
+      ],
+      "subtopics": [
+        "PLASMA MEMBRANE OR CELL",
+        "CELL WALL",
+        "NUCLEUS",
+        "CYTOPLASM",
+        "CELL ORGANELLES",
+        "(i) ENDOPLASMIC RETICULUM (ER)",
+        "(iii) LYSOSOMES",
+        "(ii) GOLGI APPARATUS",
+        "(iv) MITOCHONDRIA",
+        "(V) PLASTIDS",
+        "(vi) VACUOLES"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT HE F"
+    },
+    {
+      "raw_name": "Are Plants and Animals Made",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "Cellular basis of life",
+        "Cellular differentiation and specialization",
+        "Developmental biology and embryogenesis",
+        "Evolution and natural selection",
+        "Biological classification and taxonomy"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT TISSUES"
+    },
+    {
+      "raw_name": "Plant Tissues",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "MERISTEMATIC TISSUE",
+        "PERMANENT TISSUE",
+        "(i) SIMPLE PERMANENT TISSUE",
+        "(ii) COMPLEX PERMANENT TISSUE"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT TISSUES"
+    },
+    {
+      "raw_name": "Animal Tissues",
+      "ncert_refs": [
+        "chapter6"
+      ],
+      "subtopics": [
+        "EPITHELIAL TISSUE",
+        "CONNECTIVE TISSUE",
+        "MUSCULAR TISSUE",
+        "NERVOUS TISSUE"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT TISSUES"
+    },
+    {
+      "raw_name": "Describing Motion",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "MOTION ALONG A STRAIGHT LINE",
+        "UNIFORM MOTION AND NON-"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MOTION"
+    },
+    {
+      "raw_name": "Measuring the Rate of Motion",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Definition of speed and velocity",
+        "Units of speed and velocity",
+        "Graphical representation of motion",
+        "Average speed and average velocity",
+        "Instantaneous speed and velocity"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MOTION"
+    },
+    {
+      "raw_name": "Rate of Change of Velocity",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Definition of acceleration and its types",
+        "Units of acceleration",
+        "Graphical representation of acceleration",
+        "Average acceleration and instantaneous acceleration",
+        "Equations of motion and acceleration"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MOTION"
+    },
+    {
+      "raw_name": "Graphical Representation of",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "DISTANCE–TIME GRAPHS",
+        "VELOCITY-TIME GRAPHS"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MOTION"
+    },
+    {
+      "raw_name": "Equations of Motion",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "First equation of motion (s = ut + 1/2at^2)",
+        "Second equation of motion (v = u + at)",
+        "Third equation of motion (v^2 = u^2 + 2as)",
+        "Equations of motion and motion under gravity",
+        "Equations of motion and motion under other forces"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MOTION"
+    },
+    {
+      "raw_name": "Uniform Circular Motion",
+      "ncert_refs": [
+        "chapter7"
+      ],
+      "subtopics": [
+        "Definition of uniform circular motion",
+        "Centripetal force and centripetal acceleration",
+        "Centrifugal force and centrifugal acceleration",
+        "Angular velocity and angular displacement",
+        "Equations of uniform circular motion"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT MOTION"
+    },
+    {
+      "raw_name": "Balanced and Unbalanced",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Definition of balanced and unbalanced forces",
+        "Types of balanced and unbalanced forces",
+        "Newton's first law of motion (law of inertia)",
+        "Newton's second law of motion (F = ma)",
+        "Newton's third law of motion (action and reaction)"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FORCE"
+    },
+    {
+      "raw_name": "First Law of Motion",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Definition of Inertia",
+        "Examples of Inertia in Daily Life",
+        "Understanding the concept of Rest and Motion",
+        "Difference between Rest and Motion",
+        "Understanding the Law of Inertia"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FORCE"
+    },
+    {
+      "raw_name": "Second Law of Motion",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Understanding the concept of Force and Mass",
+        "Definition of Acceleration",
+        "Formula: Force = Mass x Acceleration",
+        "Understanding the relationship between Force, Mass, and Acceleration",
+        "Examples of the Second Law of Motion in Real Life"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FORCE"
+    },
+    {
+      "raw_name": "Inertia and Mass",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Understanding the concept of Inertia and Mass",
+        "Relationship between Inertia and Mass",
+        "Examples of Inertia and Mass in Different Objects",
+        "Understanding the role of Mass in Inertia",
+        "Calculating the Inertia of an Object"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FORCE"
+    },
+    {
+      "raw_name": "Third Law of Motion",
+      "ncert_refs": [
+        "chapter8"
+      ],
+      "subtopics": [
+        "Understanding the concept of Action and Reaction",
+        "Definition of Newton's Third Law of Motion",
+        "Examples of Newton's Third Law of Motion in Real Life",
+        "Understanding the relationship between Action and Reaction",
+        "Calculating the Forces of Action and Reaction"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT FORCE"
+    },
+    {
+      "raw_name": "Gravitation",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "UNIVERSAL LAW OF GRAVITATION",
+        "IMPORTANCE OF THE UNIVERSAL"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT GRAVITATION"
+    },
+    {
+      "raw_name": "Free Fall",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "TO CALCULATE THE VALUE OF g",
+        "MOTION OF OBJECTS UNDER THE"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT GRAVITATION"
+    },
+    {
+      "raw_name": "Mass",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Definition of Mass",
+        "Understanding the difference between Mass and Weight",
+        "Examples of Mass in Different Objects",
+        "Calculating the Mass of an Object",
+        "Understanding the role of Mass in the Laws of Motion"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT GRAVITATION"
+    },
+    {
+      "raw_name": "Weight",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Definition of Weight",
+        "Understanding the difference between Weight and Mass",
+        "Examples of Weight in Different Objects",
+        "Calculating the Weight of an Object",
+        "Understanding the role of Weight in the Laws of Motion"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT GRAVITATION"
+    },
+    {
+      "raw_name": "Thrust and Pressure",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "PRESSURE IN FLUIDS",
+        "WHY OBJECTS FLOAT OR SINK",
+        "BUOYANCY"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT GRAVITATION"
+    },
+    {
+      "raw_name": "Archimedes’ Principle",
+      "ncert_refs": [
+        "chapter9"
+      ],
+      "subtopics": [
+        "Understanding the concept of Buoyancy",
+        "Definition of Archimedes' Principle",
+        "Formula: Upthrust = Volume of Fluid Displaced x Density of Fluid",
+        "Examples of Archimedes' Principle in Real Life",
+        "Understanding the role of Density in Archimedes' Principle"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT GRAVITATION"
+    },
+    {
+      "raw_name": "Electromagnetic Induction",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Understanding the concept of Electromagnetic Induction",
+        "Definition of Electromotive Force (EMF)",
+        "Examples of Electromagnetic Induction in Real Life",
+        "Understanding the role of Coil and Magnet in Electromagnetic Induction",
+        "Calculating the EMF induced in a Coil"
+      ]
+    },
+    {
+      "raw_name": "Electromagnetic Waves",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Understanding the concept of Electromagnetic Waves",
+        "Definition of Electromagnetic Spectrum",
+        "Examples of Electromagnetic Waves in Real Life",
+        "Understanding the role of Frequency and Wavelength in Electromagnetic Waves",
+        "Calculating the Speed of Electromagnetic Waves"
+      ]
+    },
+    {
+      "raw_name": "Radioactivity",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Understanding the concept of Radioactivity",
+        "Definition of Radioactive Decay",
+        "Examples of Radioactive Decay in Different Elements",
+        "Understanding the role of Half-life in Radioactive Decay",
+        "Calculating the Rate of Radioactive Decay"
+      ]
+    },
+    {
+      "raw_name": "Nuclear Reactions",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Radioactive decay types (alpha, beta, gamma)",
+        "Nuclear fission and fusion processes",
+        "Chain reactions and critical mass",
+        "Nuclear reaction equations and notation",
+        "Radiation protection and safety measures"
+      ]
+    },
+    {
+      "raw_name": "Photosynthesis",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu",
+        "AP/Telangana"
+      ],
+      "note": "",
+      "subtopics": [
+        "Light-dependent reactions and light-independent reactions",
+        "Calvin cycle and carbon fixation",
+        "Role of chlorophyll and other pigments",
+        "Importance of stomata and transpiration",
+        "Photosynthetic pigments and their absorption spectra"
+      ]
+    },
+    {
+      "raw_name": "Respiration",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu",
+        "AP/Telangana"
+      ],
+      "note": "",
+      "subtopics": [
+        "Cellular respiration and aerobic respiration",
+        "Glycolysis and pyruvate oxidation",
+        "Citric acid cycle and electron transport chain",
+        "ATP synthesis and oxidative phosphorylation",
+        "Anaerobic respiration and fermentation processes"
+      ]
+    },
+    {
+      "raw_name": "Cell Division",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "Mitosis and meiosis comparison",
+        "Interphase and cell cycle regulation",
+        "Chromatin condensation and spindle formation",
+        "Karyokinesis and cytokinesis processes",
+        "Cell division and cancer relationship"
+      ]
+    },
+    {
+      "raw_name": "Mitosis",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Prophase, metaphase, anaphase, and telophase stages",
+        "Chromatin condensation and sister chromatid separation",
+        "Spindle formation and chromosome alignment",
+        "Karyokinesis and cytokinesis in mitosis",
+        "Mitotic spindle and centriole functions"
+      ]
+    },
+    {
+      "raw_name": "Genetics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "",
+      "subtopics": [
+        "DNA structure and replication",
+        "Genetic code and transcription process",
+        "Translation and protein synthesis",
+        "Gene expression and regulation",
+        "Genetic inheritance and Mendelian laws"
+      ]
+    },
+    {
+      "raw_name": "Heredity",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Mendelian inheritance patterns and laws",
+        "Incomplete dominance and codominance",
+        "Polygenic inheritance and multiple alleles",
+        "Genetic linkage and mapping",
+        "Genetic variation and mutation types"
+      ]
+    },
+    {
+      "raw_name": "Variation",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Genetic drift and random variation",
+        "Mutation rates and types (point, frameshift, etc.)",
+        "Gene flow and population migration",
+        "Genetic variation and adaptation",
+        "Microevolution and speciation processes"
+      ]
+    },
+    {
+      "raw_name": "Evolution",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu",
+        "AP/Telangana"
+      ],
+      "note": "",
+      "subtopics": [
+        "Species change and fossil record",
+        "Mechanisms of evolution (natural selection, etc.)",
+        "Evolutionary adaptations and speciation",
+        "Phylogenetic trees and cladistics",
+        "Evolutionary relationships and homologous structures"
+      ]
+    },
+    {
+      "raw_name": "Ecological Balance",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu",
+        "AP/Telangana"
+      ],
+      "note": "",
+      "subtopics": [
+        "Trophic levels and food chains",
+        "Energy flow and ecosystem balance",
+        "Decomposers and nutrient cycling",
+        "Ecological niches and species interactions",
+        "Conservation and ecosystem management"
+      ]
+    },
+    {
+      "raw_name": "Conservation of Natural Resources",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Classification of natural resources (renewable and non-renewable)",
+        "Importance of conservation of natural resources",
+        "Methods of conservation of natural resources (reduction, reuse, recycling)",
+        "Role of government and individuals in conservation of natural resources",
+        "Impact of overexploitation of natural resources on the environment"
+      ]
+    },
+    {
+      "raw_name": "Ecosystem",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Components of an ecosystem (living and non-living)",
+        "Types of ecosystems (terrestrial, freshwater, marine)",
+        "Relationships between living organisms in an ecosystem (producer-consumer-decomposer)",
+        "Decomposers and their role in an ecosystem",
+        "Importance of biodiversity in an ecosystem"
+      ]
+    },
+    {
+      "raw_name": "Food Chain",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition of a food chain and its components",
+        "Types of food chains (grasses, carnivores, omnivores)",
+        "Energy transfer in a food chain (trophic levels)",
+        "Decomposers in a food chain and their role",
+        "Limitations of a food chain (e.g., lack of omnivores in grasslands)"
+      ]
+    },
+    {
+      "raw_name": "Food Web",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition of a food web and its components",
+        "Types of food webs (complex, simple)",
+        "Interactions between species in a food web (predator-prey, competition)",
+        "Energy transfer in a food web (trophic levels)",
+        "Importance of food webs in maintaining ecosystem balance"
+      ]
+    },
+    {
+      "raw_name": "Population Dynamics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Factors affecting population growth (birth rate, death rate, immigration, emigration)",
+        "Types of population growth (exponential, logistic)",
+        "Carrying capacity and its role in population dynamics",
+        "Population regulation mechanisms (predation, competition, disease)",
+        "Human population growth and its impact on the environment"
+      ]
+    },
+    {
+      "raw_name": "Adaptation",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition of adaptation and its importance in survival",
+        "Types of adaptations (physical, behavioral, physiological)",
+        "Mechanisms of adaptation (natural selection, genetic drift)",
+        "Examples of adaptations in different organisms (e.g., desert plants, polar bears)",
+        "Limitations of adaptation (e.g., genetic constraints, environmental limitations)"
+      ]
+    },
+    {
+      "raw_name": "Natural Resources",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Classification of natural resources (renewable and non-renewable)",
+        "Importance of natural resources in human life",
+        "Types of natural resources (water, land, minerals, energy)",
+        "Conservation and management of natural resources",
+        "Impact of overexploitation of natural resources on the environment"
+      ]
+    },
+    {
+      "raw_name": "Environmental Pollution",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Types of environmental pollution (air, water, soil)",
+        "Sources of environmental pollution (industrial, agricultural, domestic)",
+        "Effects of environmental pollution on human health and the environment",
+        "Methods of controlling environmental pollution (reduction, reuse, recycling)",
+        "Importance of environmental protection and conservation"
+      ]
+    },
+    {
+      "raw_name": "Climate Change",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition of climate change and its causes (greenhouse gases, deforestation)",
+        "Effects of climate change on the environment (global warming, sea-level rise)",
+        "Types of climate change (global, regional)",
+        "Consequences of climate change on human societies (food security, health)",
+        "Mitigation and adaptation strategies for climate change"
+      ]
+    },
+    {
+      "raw_name": "Global Warming",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Definition of global warming and its causes (greenhouse gases, deforestation)",
+        "Effects of global warming on the environment (sea-level rise, melting glaciers)",
+        "Consequences of global warming on human societies (food security, health)",
+        "Role of human activities in global warming (industrial, agricultural, domestic)",
+        "Importance of reducing greenhouse gas emissions to mitigate global warming"
+      ]
+    },
+    {
+      "raw_name": "Ozone Layer",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Composition and structure of the ozone layer",
+        "Role of ozone in protecting life on Earth",
+        "Causes of ozone depletion (CFCs, UV radiation)",
+        "Effects of ozone depletion on the environment and human health",
+        "International agreements to protect the ozone layer (Montreal Protocol)"
+      ]
+    },
+    {
+      "raw_name": "Atmospheric Pollution",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Types of air pollutants (gaseous, particulate, liquid)",
+        "Sources of air pollution (industrial, vehicular, agricultural)",
+        "Effects of air pollution on human health and the environment",
+        "Control measures for air pollution (emission standards, scrubbers)",
+        "Air quality indices and monitoring techniques"
+      ]
+    },
+    {
+      "raw_name": "Water Pollution",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Sources of water pollution (domestic, industrial, agricultural)",
+        "Types of water pollutants (pathogens, nutrients, sediments)",
+        "Effects of water pollution on aquatic life and human health",
+        "Methods of water treatment and purification (physical, chemical, biological)",
+        "Water conservation and harvesting techniques"
+      ]
+    },
+    {
+      "raw_name": "Soil Erosion",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Factors contributing to soil erosion (rainfall, wind, human activities)",
+        "Types of soil erosion (sheet, rill, gully)",
+        "Consequences of soil erosion (loss of fertility, increased sedimentation)",
+        "Preventive measures against soil erosion (terracing, contour farming)",
+        "Soil conservation techniques (mulching, cover cropping)"
+      ]
+    },
+    {
+      "raw_name": "Deforestation",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Causes of deforestation (agriculture, urbanization, logging)",
+        "Effects of deforestation on biodiversity and ecosystems",
+        "Types of forests (tropical, temperate, boreal)",
+        "Sustainable forest management practices (selective logging, reforestation)",
+        "Role of forests in mitigating climate change"
+      ]
+    },
+    {
+      "raw_name": "Waste Management",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Types of waste (biodegradable, non-biodegradable, hazardous)",
+        "Waste collection and disposal methods (recycling, composting, landfilling)",
+        "Importance of waste segregation and minimization",
+        "Waste-to-energy conversion technologies",
+        "Extended Producer Responsibility (EPR) and waste management policies"
+      ]
+    },
+    {
+      "raw_name": "Sustainable Development",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Principles of sustainable development (intergenerational equity, environmental stewardship)",
+        "Indicators of sustainable development (GDP, HDI, ecological footprint)",
+        "Role of education and awareness in promoting sustainable development",
+        "Sustainable development goals (SDGs) and their targets",
+        "Case studies of sustainable development in different countries"
+      ]
+    },
+    {
+      "raw_name": "Renewable Energy Sources",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Types of renewable energy sources (solar, wind, hydro, geothermal)",
+        "Advantages of renewable energy sources (reduced greenhouse gas emissions, energy security)",
+        "Technologies for harnessing renewable energy (photovoltaics, wind turbines, biogas)",
+        "Grid integration and energy storage solutions for renewable energy",
+        "Policy and regulatory frameworks for promoting renewable energy"
+      ]
+    },
+    {
+      "raw_name": "Energy Conservation",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Importance of energy conservation in reducing energy consumption",
+        "Techniques for energy conservation in buildings (insulation, lighting, HVAC)",
+        "Energy-efficient appliances and devices (LED bulbs, energy-efficient refrigerators)",
+        "Behavioral changes and lifestyle modifications for energy conservation",
+        "Energy auditing and energy management systems"
+      ]
+    },
+    {
+      "raw_name": "Fossil Fuels",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Formation and classification of fossil fuels (coal, oil, natural gas)",
+        "Extraction and refining processes for fossil fuels",
+        "Environmental impacts of fossil fuel extraction and combustion",
+        "Alternatives to fossil fuels (renewable energy, nuclear energy)",
+        "Energy policy and regulations for fossil fuel production and consumption"
+      ]
+    },
+    {
+      "raw_name": "Nuclear Power",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Fission and fusion processes",
+        "Nuclear reactor types (PWR, BWR, etc.)",
+        "Radioactive decay and half-life",
+        "Nuclear safety measures and regulations",
+        "Advantages and limitations of nuclear power"
+      ]
+    },
+    {
+      "raw_name": "Solar Energy",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Solar radiation and solar spectrum",
+        "Solar panel types and efficiency",
+        "Photovoltaic cells and their applications",
+        "Solar water heaters and their benefits",
+        "Solar energy storage and grid integration"
+      ]
+    },
+    {
+      "raw_name": "Wind Energy",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Wind speed and wind direction",
+        "Wind turbine types and blade design",
+        "Wind farm layout and capacity factors",
+        "Wind energy conversion systems",
+        "Wind power generation and grid connection"
+      ]
+    },
+    {
+      "raw_name": "Hydroelectric Power",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Hydroelectric power plant components",
+        "Water flow and head calculations",
+        "Turbine types and efficiency",
+        "Penstocks and surge tanks",
+        "Hydroelectric power generation and transmission"
+      ]
+    },
+    {
+      "raw_name": "Geothermal Energy",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Geothermal reservoirs and exploration",
+        "Geothermal well drilling and completion",
+        "Flash steam and binary cycle power plants",
+        "Geothermal power plant design and operation",
+        "Geothermal energy storage and grid integration"
+      ]
+    },
+    {
+      "raw_name": "Tides and Currents",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Tidal forces and tidal ranges",
+        "Tidal cycles and tidal prediction",
+        "Ocean currents and their effects",
+        "Current meters and tidal gauges",
+        "Tidal power generation and coastal engineering"
+      ]
+    },
+    {
+      "raw_name": "Ocean Currents",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Ocean circulation and thermohaline circulation",
+        "Current velocity and current meters",
+        "Ocean current patterns and gyres",
+        "Upwelling and downwelling processes",
+        "Ocean current effects on climate and marine life"
+      ]
+    },
+    {
+      "raw_name": "Earthquakes",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Seismic waves and earthquake types",
+        "Seismic hazard assessment and risk analysis",
+        "Earthquake magnitude and intensity",
+        "Seismic design and earthquake-resistant structures",
+        "Earthquake early warning systems and emergency response"
+      ]
+    },
+    {
+      "raw_name": "Volcanoes",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Volcanic landforms and volcanic arcs",
+        "Volcanic eruption types and hazards",
+        "Volcanic ash and gas emissions",
+        "Volcanic lake and geothermal systems",
+        "Volcanic hazard assessment and mitigation"
+      ]
+    },
+    {
+      "raw_name": "Plate Tectonics",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Continental and oceanic plates",
+        "Plate boundaries and plate motion",
+        "Seafloor spreading and continental drift",
+        "Earth's mantle and lithosphere",
+        "Plate tectonics and Earth's geological history"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Interior",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Composition of the Earth's core and mantle",
+        "Density and pressure in the Earth's interior",
+        "Seismic waves and their types (P and S waves)",
+        "Earth's magnetic field generation and its relation to the core",
+        "Earth's interior structure and its relation to plate tectonics"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Magnetic Field",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Earth's magnetic field types (dipole and non-dipole)",
+        "Magnetic field lines and their direction",
+        "Earth's magnetic field generation and its relation to the core",
+        "Magnetic declination and its importance in navigation",
+        "Earth's magnetic field and its effects on charged particles"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Rotation",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Earth's rotational speed and its effects on day and night",
+        "Earth's axis tilt and its effects on seasons",
+        "Earth's rotational period and its relation to the calendar",
+        "Earth's rotation and its effects on ocean currents and tides",
+        "Earth's rotational speed and its relation to the planet's angular momentum"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Orbit",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Earth's orbital speed and its relation to the planet's velocity",
+        "Earth's orbital period and its relation to the calendar",
+        "Earth's orbit and its effects on the planet's climate",
+        "Earth's orbit and its relation to the other planets in the solar system",
+        "Earth's orbital eccentricity and its effects on the planet's distance from the sun"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Atmosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Composition of the Earth's atmosphere (gases and particles)",
+        "Atmospheric pressure and its effects on the planet's surface",
+        "Earth's atmospheric temperature and its relation to the greenhouse effect",
+        "Atmospheric circulation and its effects on weather patterns",
+        "Earth's atmospheric layers (troposphere, stratosphere, etc.)"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Hydrosphere",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Earth's water cycle and its relation to the planet's climate",
+        "Earth's ocean currents and their effects on the planet's temperature",
+        "Earth's water distribution (oceans, lakes, rivers, etc.)",
+        "Earth's water cycle and its effects on the planet's weather patterns",
+        "Earth's hydrosphere and its relation to the planet's geology"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Lithosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Earth's crust composition and its relation to plate tectonics",
+        "Lithospheric plates and their boundaries (divergent, convergent, etc.)",
+        "Earth's lithosphere and its effects on the planet's earthquakes and volcanoes",
+        "Lithospheric plate movement and its relation to the planet's geology",
+        "Earth's lithosphere and its relation to the planet's hydrosphere"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Cryosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Earth's ice distribution (polar ice caps, glaciers, etc.)",
+        "Cryospheric processes and their effects on the planet's climate",
+        "Earth's snow and ice formation and their relation to the planet's geology",
+        "Cryospheric changes and their effects on the planet's sea levels",
+        "Earth's cryosphere and its relation to the planet's hydrosphere"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Hydrosphere and Atmosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Water cycle and its relation to the planet's climate",
+        "Atmospheric water vapor and its effects on the planet's temperature",
+        "Earth's ocean-atmosphere interaction and its effects on the planet's weather patterns",
+        "Hydrospheric and atmospheric processes and their relation to the planet's geology",
+        "Earth's hydrosphere-atmosphere system and its effects on the planet's ecosystems"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Lithosphere and Hydrosphere",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Lithospheric and hydrospheric interactions and their effects on the planet's geology",
+        "Earth's oceanic crust formation and its relation to plate tectonics",
+        "Lithospheric and hydrospheric processes and their effects on the planet's earthquakes and volcanoes",
+        "Earth's hydrosphere and its effects on the planet's lithospheric plate movement",
+        "Lithospheric and hydrospheric relations and their effects on the planet's climate"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Biosphere and Lithosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Characteristics of the Earth’s lithosphere and biosphere",
+        "Interactions between the Earth’s lithosphere and biosphere (e.g., plate tectonics, earthquakes)",
+        "Importance of the Earth’s biosphere in shaping the lithosphere (e.g., weathering, erosion)",
+        "Role of the Earth’s lithosphere in supporting the biosphere (e.g., landforms, climate)",
+        "Examples of geological processes that affect the biosphere (e.g., volcanic eruptions, landslides)"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Pedosphere and Lithosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Formation and characteristics of the pedosphere (soil)",
+        "Interactions between the pedosphere and lithosphere (e.g., soil formation, erosion)",
+        "Importance of the pedosphere in supporting plant growth and human activities",
+        "Role of the lithosphere in shaping the pedosphere (e.g., landforms, climate)",
+        "Examples of human impacts on the pedosphere (e.g., deforestation, soil degradation)"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Pedosphere and Cryosphere",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Formation and characteristics of the cryosphere (glaciers, ice caps)",
+        "Interactions between the pedosphere and cryosphere (e.g., permafrost, glacial erosion)",
+        "Importance of the cryosphere in shaping the pedosphere (e.g., glacial lakes, river systems)",
+        "Role of the pedosphere in supporting cryospheric processes (e.g., snowmelt, ice formation)",
+        "Examples of human impacts on the cryosphere (e.g., climate change, glacier retreat)"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Pedosphere and Lithosphere and Hydrosphere",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Interactions between the pedosphere, lithosphere, and hydrosphere (e.g., river systems, groundwater)",
+        "Importance of the pedosphere in shaping the hydrosphere (e.g., water cycles, sediment transport)",
+        "Role of the lithosphere in supporting the pedosphere and hydrosphere (e.g., landforms, climate)",
+        "Examples of human impacts on the pedosphere, lithosphere, and hydrosphere (e.g., deforestation, water pollution)",
+        "Formation and characteristics of the hydrosphere (oceans, lakes, rivers)"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Pedosphere and Lithosphere and Biosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Interactions between the pedosphere, lithosphere, and biosphere (e.g., ecosystem services, nutrient cycles)",
+        "Importance of the pedosphere in supporting the biosphere (e.g., soil fertility, plant growth)",
+        "Role of the lithosphere in shaping the pedosphere and biosphere (e.g., landforms, climate)",
+        "Examples of human impacts on the pedosphere, lithosphere, and biosphere (e.g., deforestation, soil degradation)",
+        "Formation and characteristics of the biosphere (e.g., ecosystems, biodiversity)"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Pedosphere and Biosphere and Cryosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "note": "",
+      "subtopics": [
+        "Interactions between the pedosphere, biosphere, and cryosphere (e.g., permafrost, glacial ecosystems)",
+        "Importance of the pedosphere in shaping the cryosphere (e.g., snowmelt, ice formation)",
+        "Role of the biosphere in supporting the pedosphere and cryosphere (e.g., plant growth, nutrient cycles)",
+        "Examples of human impacts on the pedosphere, biosphere, and cryosphere (e.g., climate change, glacier retreat)",
+        "Formation and characteristics of the pedosphere and biosphere in polar regions"
+      ]
+    },
+    {
+      "raw_name": "Earth’s Pedosphere and Lithosphere and Cryosphere and Atmosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "",
+      "subtopics": [
+        "Interactions between the pedosphere, lithosphere, cryosphere, and atmosphere (e.g., climate systems, weather patterns)",
+        "Importance of the pedosphere in shaping the atmosphere (e.g., greenhouse gases, aerosols)",
+        "Role of the lithosphere in supporting the pedosphere, cryosphere, and atmosphere (e.g., landforms, climate)",
+        "Examples of human impacts on the pedosphere, lithosphere, cryosphere, and atmosphere (e.g., climate change, air pollution)",
+        "Formation and characteristics of the atmosphere (e.g., atmospheric circulation, weathering)"
+      ]
+    }
+  ]
+}

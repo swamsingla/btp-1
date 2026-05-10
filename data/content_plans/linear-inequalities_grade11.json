@@ -1,0 +1,53 @@
+{
+  "concept_slug": "linear-inequalities",
+  "canonical_name": "Linear Inequalities",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Algebra",
+  "description": "Solving and graphing linear inequalities in one and two variables",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch5 — Introduction]\nIn earlier classes, we have studied equations in one variable and two variables and also\nsolved some statement problems by translating them in the form of equations. Now a\nnatural question arises: ‘Is it always possible to translate a statement problem in the\nform of an equation? For example, the height of all the students in your class is less\nthan 160 cm. Your classroom can occupy atmost 60 tables or chairs or both. Here we\nget certain statements involving a sign ‘<’ (less than), ‘>’ (greater than), ‘≤’ (less than\nor equal) and ≥ (greater than or equal) which are known as inequalities.\nIn this Chapter, we will study linear inequalities in one and two variables. The\nstudy of inequalities is very useful in solving problems in the field of science, mathematics,\nstatistics, economics, psychology, etc.\n5.2 Inequalities\n\n[NCERT Grade11 Ch5 — Inequalities]\nLet us consider the following situations:\n(i) Ravi goes to market with ` 200 to buy rice, which is available in packets of 1kg. The\nprice of one packet of rice is ` 30. If x denotes the number of packets of rice, which he\nbuys, then the total amount spent by him is ` 30x. Since, he has to buy rice in packets\nonly, he may not be able to spend the entire amount of ` 200. (Why?) Hence\n30x < 200\n... (1)\nClearly the statement (i) is not an equation as it does not involve the sign of equality.\n(ii) Reshma has ` 120 and wants to buy some registers and pens. The cost of one\nregister is  ` 40 and that of a pen is ` 20. In this case, if x denotes the number of\nregisters and y, the number of pens which Reshma buys, then the total amount spent by\nher is ` (40x  +  20y) and we have\n40x + 20y ≤ 120\n... (2)\nReprint 2025-26\n90       MATHEMATICS\nSince in this case the total amount spent may be upto ` 120. Note that the statement (2)\nconsists of two statements\n40x + 20y < 120\n... (3)\nand\n40x + 20y = 120\n\n[NCERT Grade11 Ch5 — Algebraic Solutions of Linear Inequalities in One Variable and their]\nGraphical Representation\nLet us consider the inequality (1) of Section 6.2, viz, 30x < 200\nNote that here x denotes the number of packets of rice.\nObviously, x cannot be a negative integer or a fraction. Left hand side (L.H.S.) of this\ninequality is 30x and right hand side (RHS) is 200. Therefore, we have\nFor x = 0, L.H.S. = 30 (0) = 0 < 200 (R.H.S.), which is true.\nFor x = 1, L.H.S. = 30 (1) = 30 < 200 (R.H.S.), which is true.\nFor x = 2, L.H.S. = 30 (2) = 60 < 200, which is true.\nFor x = 3, L.H.S. = 30 (3) = 90 < 200, which is true.\nFor x = 4, L.H.S. = 30 (4) = 120 < 200, which is true.\nFor x = 5, L.H.S. = 30 (5) = 150 < 200, which is true.\nFor x = 6, L.H.S. = 30 (6) = 180 < 200, which is true.\nFor x = 7, L.H.S. = 30 (7) = 210 < 200, which is false.\nIn the above situation, we find that the values of x, which makes the above\ninequality a true statement, are 0,1,2,3,4,5,6. These values of x, which make above\ninequality a true statement, are called solutions of inequality and the set {0,",
+  "context_sources": [
+    "ncert:grade11/maths/ch5",
+    "ncert:grade11/maths/ch5",
+    "ncert:grade11/maths/ch5"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Simple Equations in One Variable",
+    "Real Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Simple Equations in One Variable": "Solving linear equations of the form ax + b = c",
+    "Real Numbers": "Union of rational and irrational numbers"
+  },
+  "successors_to_link": [
+    "System of Linear Inequalities"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Simple Equations in One Variable",
+    "Real Numbers",
+    "System of Linear Inequalities",
+    "Relations",
+    "Domain, Range and Co-domain",
+    "Functions",
+    "Types of Functions",
+    "Composition of Functions",
+    "Special Functions and Their Graphs",
+    "Complex Numbers",
+    "Algebra of Complex Numbers"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

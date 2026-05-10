@@ -1,0 +1,50 @@
+{
+  "concept_slug": "integer-operations",
+  "canonical_name": "Operations on Integers",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Systems",
+  "description": "Addition, subtraction, multiplication and division of integers; sign rules",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Integers"
+  ],
+  "prerequisites_descriptions": {
+    "Integers": "Positive and negative whole numbers including zero"
+  },
+  "successors_to_link": [
+    "Decimal Operations",
+    "Operations on Rational Numbers",
+    "Algebraic Expressions",
+    "Cartesian Coordinate System"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Integers",
+    "Decimal Operations",
+    "Operations on Rational Numbers",
+    "Algebraic Expressions",
+    "Cartesian Coordinate System",
+    "Natural Numbers",
+    "Whole Numbers",
+    "Place Value and Indian Numeration",
+    "Number Line",
+    "Fractions",
+    "Types of Fractions",
+    "Equivalent Fractions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

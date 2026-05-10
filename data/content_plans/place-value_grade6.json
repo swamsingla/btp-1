@@ -1,0 +1,43 @@
+{
+  "concept_slug": "place-value",
+  "canonical_name": "Place Value and Indian Numeration",
+  "subject": "maths",
+  "grade": 6,
+  "area": "Number Systems",
+  "description": "Value of each digit determined by position; Indian and International systems up to crores",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Whole Numbers"
+  ],
+  "prerequisites_descriptions": {
+    "Whole Numbers": "Natural numbers together with zero: 0, 1, 2, 3, …"
+  },
+  "successors_to_link": [
+    "Decimals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Whole Numbers",
+    "Decimals",
+    "Natural Numbers",
+    "Number Line",
+    "Integers",
+    "Operations on Integers",
+    "Fractions",
+    "Types of Fractions",
+    "Equivalent Fractions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

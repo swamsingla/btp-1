@@ -1,0 +1,40 @@
+{
+  "concept_slug": "ap-sum-of-n-terms",
+  "canonical_name": "Sum of First n Terms of an AP",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Sequences",
+  "description": "Sₙ = n/2 [2a + (n−1)d]",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch5 — Sum of First n Terms of an AP]\nLet us consider the situation again\ngiven in Section 5.1 in which Shakila\nput ` 100 into her daughter’s money\nbox when she was one year old,\n` 150 on her second birthday,\n` 200 on her third birthday and will\ncontinue in the same way. How much\nmoney will be collected in the money\nbox by the time her daughter is 21\nyears old?\nHere, the amount of money (in `) put in the money box on her first, second, third,\nfourth . . . birthday were respectively 100, 150, 200, 250, . . . till her 21st birthday. To\nfind the total amount in the money box on her 21st birthday, we will have to write each\nof the 21 numbers in the list above and then add them up. Don’t you think it would be\na tedious and time consuming process? Can we make the process shorter? This would\nbe possible if we can find a method for getting this sum. Let us see.\nWe consider the problem given to Gauss (about whom you read in\nChapter 1), to solve when he was just 10 years old. He was asked to find the sum of\nthe positive integers fro\n\n[NCERT Grade10 Ch5 — nth Term of an AP]\nLet us consider the situation again, given in Section 5.1 in which Reena applied for a\njob and got selected. She has been offered the job with a starting monthly salary of\n` 8000, with an annual increment of ` 500. What would be her monthly salary for the\nfifth year?\nTo answer this, let us first see what her monthly salary for the second year\nwould be.\nIt would be ` (8000 + 500) = ` 8500. In the same way, we can find the monthly\nsalary for the 3rd, 4th and 5th year by adding ` 500 to the salary of the previous year.\nSo, the salary for the 3rd year = ` (8500 + 500)\n= ` (8000 + 500 + 500)\n= ` (8000 + 2 × 500)\n= ` [8000 + (3 – 1) × 500]\n(for the 3rd year)\n= ` 9000\nSalary for the 4th year   = ` (9000 + 500)\n= ` (8000 + 500 + 500 + 500)\n= ` (8000 + 3 × 500)\n= ` [8000 + (4 – 1) × 500]\n(for the 4th year)\n= ` 9500\nSalary for the 5th year    = ` (9500 + 500)\n= ` (8000+500+500+500 + 500)\n= ` (8000 + 4 × 500)\n= ` [8000 + (5 – 1) × 500]\n(for the 5th year)\n= ` 10000\nObserve that we are getting a li",
+  "context_sources": [
+    "ncert:grade10/maths/ch5",
+    "ncert:grade10/maths/ch5"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "nth Term of an AP"
+  ],
+  "prerequisites_descriptions": {
+    "nth Term of an AP": "aₙ = a + (n−1)d"
+  },
+  "successors_to_link": [
+    "Arithmetic Series — Sum Formulas"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "nth Term of an AP",
+    "Arithmetic Series — Sum Formulas",
+    "Arithmetic Progressions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

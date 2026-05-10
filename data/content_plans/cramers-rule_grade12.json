@@ -1,0 +1,44 @@
+{
+  "concept_slug": "cramers-rule",
+  "canonical_name": "Cramer's Rule",
+  "subject": "maths",
+  "grade": 12,
+  "area": "Linear Algebra",
+  "description": "Solving systems of linear equations using determinants",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Adjoint and Inverse of a Matrix",
+    "Pair of Linear Equations in Two Variables"
+  ],
+  "prerequisites_descriptions": {
+    "Adjoint and Inverse of a Matrix": "adj(A); A⁻¹ = adj(A)/det(A) when det(A)≠0",
+    "Pair of Linear Equations in Two Variables": "Solving systems graphically and algebraically"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Adjoint and Inverse of a Matrix",
+    "Pair of Linear Equations in Two Variables",
+    "Matrices",
+    "Types of Matrices",
+    "Operations on Matrices",
+    "Transpose of a Matrix",
+    "Symmetric and Skew-Symmetric Matrices",
+    "Determinants",
+    "Properties of Determinants",
+    "Minors and Cofactors"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

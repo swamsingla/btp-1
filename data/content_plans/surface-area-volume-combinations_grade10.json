@@ -1,0 +1,61 @@
+{
+  "concept_slug": "surface-area-volume-combinations",
+  "canonical_name": "Surface Area and Volume of Combined Solids",
+  "subject": "maths",
+  "grade": 10,
+  "area": "Mensuration",
+  "description": "Frustum; combined shapes; conversion of solids",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade10 Ch12 — Surface Area of a Combination of Solids]\nLet us consider the container seen in Fig. 12.2. How do we find the surface area of\nsuch a solid? Now, whenever we come across a new problem, we first try to see, if\nwe can break it down into smaller problems, we have earlier solved. We can see that\nthis solid is made up of a cylinder with two hemispheres stuck at either end. It would\nlook like what we have in Fig. 12.4, after we put the pieces all together.\nFig. 12.4\nIf we consider the surface of the newly formed object, we would be able to see\nonly the curved surfaces of the two hemispheres and the curved surface of the cylinder.\nSo, the total surface area of the new solid is the sum of the curved surface\nareas of each of the individual parts. This gives,\nTSA of new solid = CSA of one hemisphere + CSA of cylinder\n+ CSA of other hemisphere\nwhere TSA, CSA stand for ‘Total Surface Area’ and ‘Curved Surface Area’\nrespectively.\nLet us now consider another situation. Suppose we are making a toy by putting\ntogether a hemisphere and a cone. \n\n[NCERT Grade10 Ch12 — Introduction]\nFrom Class IX, you are familiar with some of the solids like cuboid, cone, cylinder, and\nsphere (see Fig. 12.1). You have also learnt how to find their surface areas and volumes.\nFig. 12.1\nIn our day-to-day life, we come across a number of solids made up of combinations\nof two or more of the basic solids as shown above.\nYou must have seen a truck with a\ncontainer fitted on its back (see Fig. 12.2),\ncarrying oil or water from one place to\nanother. Is it in the shape of any of the four\nbasic solids mentioned above? You may\nguess that it is made of a cylinder with two\nhemispheres as its ends.\nFig. 12.2\nReprint 2025-26\nAgain, you may have seen an object like the\none in Fig. 12.3. Can you name it? A test tube, right!\nYou would have used one in your science laboratory.\nThis tube is also a combination of a cylinder and a\nhemisphere. Similarly, while travelling, you may have\nseen some big and beautiful buildings or monuments\nmade up of a combination of solids mentioned above.\nIf for some reaso\n\n[NCERT Grade10 Ch12 — Volume of a Combination of Solids]\nIn the previous section, we have discussed how to find the surface area of solids made\nup of a combination of two basic solids. Here, we shall see how to calculate their\nvolumes. It may be noted that in calculating the surface area, we have not added the\nsurface areas of the two constituents, because some part of the surface area disappeared\nin the process of joining them. However, this will not be the case when we calculate\nthe volume. The volume of the solid formed by joining two basic solids will actually be\nthe sum of the volumes of the constituents, as we see in the examples below.\nExample 5 : Shanta runs an industry in\na shed which is in the shape of a cuboid\nsurmounted by a half cylinder (see Fig.\n12.12). If the base of the shed is of\ndimension 7 m × 15 m, and the height of\nthe cuboidal portion is 8 m, find the volume\nof air that the shed can hold. Further,\nsuppose the machinery in the shed\noccupies a total space of 300 m3, and\nthere are 20 workers, each of whom\noccupy about 0.0",
+  "context_sources": [
+    "ncert:grade10/maths/ch12",
+    "ncert:grade10/maths/ch12",
+    "ncert:grade10/maths/ch12"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Surface Area of Cone",
+    "Surface Area of Sphere",
+    "Surface Area of Cylinder",
+    "Volume of Cone",
+    "Volume of Sphere",
+    "Volume of Cylinder"
+  ],
+  "prerequisites_descriptions": {
+    "Surface Area of Cone": "CSA = πrl; TSA = πr(r+l)",
+    "Surface Area of Sphere": "SA = 4πr²",
+    "Surface Area of Cylinder": "CSA = 2πrh; TSA = 2πr(r+h)",
+    "Volume of Cone": "V = ⅓πr²h",
+    "Volume of Sphere": "V = (4/3)πr³",
+    "Volume of Cylinder": "V = πr²h"
+  },
+  "successors_to_link": [
+    "Frustum of a Cone"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Surface Area of Cone",
+    "Surface Area of Sphere",
+    "Surface Area of Cylinder",
+    "Volume of Cone",
+    "Volume of Sphere",
+    "Volume of Cylinder",
+    "Frustum of a Cone",
+    "Circumference and Area of Circle",
+    "Area of Sector and Segment of a Circle"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. No calculus. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "canonical_name": "Fundamental Principle of CountING",
+    "slug": "fundamental-principle-of-counting",
+    "aliases": [],
+    "domain": "Number System",
+    "area": "",
+    "parent": "",
+    "grades": [
+      11
+    ],
+    "importance-by-grade": {
+      "11": 5
+    },
+    "source_Boards": [
+      "NCERT",
+      "state board"
+    ],
+    "subject": "maths"
+  },
+  {
+    "canonical_name": "Permutations",
+    "slug": "permutations",
+    "_aliases": [],
+    "domain": "Combinatorics",
+    "_area": "",
+    "parent": "",
+    "_grades": [
+      11
+    ],
+    "_importance-by-GRADE": {
+      "11": 4
+    },
+    "Source_BOARDS": [
+      "NCERT"
+    ],
+    "subject": "maths"
+  }
+]

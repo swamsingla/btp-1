@@ -1,0 +1,389 @@
+{
+  "grade": 7,
+  "subject": "science",
+  "total_topics": 25,
+  "topics": [
+    {
+      "raw_name": "Leaves: the ̒ food factories̓ of plants",
+      "ncert_refs": [
+        "chapter10"
+      ],
+      "subtopics": [
+        "Structure of a leaf (dorsal and ventral surfaces)",
+        "Functions of different parts of a leaf (blade, petiole, stipules)",
+        "Types of leaves (simple, compound, modified)",
+        "Adaptations of leaves for water conservation (stomata, cutin, waxy coating)",
+        "Importance of leaves in plant growth and development"
+      ],
+      "source_boards": [
+        "NCERT"
+      ],
+      "note": "From NCERT Life Processes"
+    },
+    {
+      "raw_name": "Photosynthesis",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes the process of conversion of light energy to chemical energy",
+      "subtopics": [
+        "Light-dependent reactions (photons, chlorophyll, ATP, NADPH)",
+        "Light-independent reactions (Calvin cycle, CO2 fixation, RuBisCO)",
+        "Role of chloroplasts in photosynthesis",
+        "Importance of photosynthesis in plant growth and energy production",
+        "Factors affecting photosynthesis (light intensity, temperature, CO2 concentration)"
+      ]
+    },
+    {
+      "raw_name": "Respiration",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "AP/Telangana"
+      ],
+      "note": "Includes the process of breakdown of glucose to release energy",
+      "subtopics": [
+        "Cellular respiration (glycolysis, Krebs cycle, electron transport chain)",
+        "Types of cellular respiration (aerobic, anaerobic)",
+        "Role of mitochondria in cellular respiration",
+        "Importance of respiration in energy production and plant growth",
+        "Factors affecting respiration (temperature, oxygen concentration, pH)"
+      ]
+    },
+    {
+      "raw_name": "Transport of Water in Plants",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes the process of transpiration and ascent of sap",
+      "subtopics": [
+        "Transpiration stream (xylem sap, cohesion-tension theory)",
+        "Role of roots in water absorption (root hair cells, root pressure)",
+        "Importance of stomata in water loss and gas exchange",
+        "Factors affecting water transport (temperature, humidity, soil moisture)",
+        "Mechanisms of water transport (capillary action, root pressure, transpiration)"
+      ]
+    },
+    {
+      "raw_name": "Mineral Cycle",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes the process of movement of minerals from soil to plants",
+      "subtopics": [
+        "Nutrient cycling (nitrogen, phosphorus, potassium)",
+        "Role of decomposers in nutrient cycling",
+        "Importance of nutrient cycling in ecosystem health",
+        "Factors affecting nutrient cycling (soil type, climate, vegetation)",
+        "Mechanisms of nutrient cycling (leaching, runoff, erosion)"
+      ]
+    },
+    {
+      "raw_name": "Soil Erosion",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes the process of removal of topsoil due to natural or human activities",
+      "subtopics": [
+        "Types of soil erosion (water, wind, ice)",
+        "Factors contributing to soil erosion (rainfall, slope, soil type)",
+        "Consequences of soil erosion (land degradation, loss of fertility)",
+        "Prevention and control measures (terracing, contour farming, mulching)",
+        "Importance of soil conservation in agriculture and ecosystem health"
+      ]
+    },
+    {
+      "raw_name": "Conservation of Natural Resources",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes the importance of preserving natural resources for future generations",
+      "subtopics": [
+        "Importance of natural resource conservation (ecosystem services, human well-being)",
+        "Types of natural resources (water, soil, forests, biodiversity)",
+        "Consequences of natural resource depletion (climate change, poverty)",
+        "Sustainable practices for natural resource conservation (reducing, reusing, recycling)",
+        "Role of individuals and communities in natural resource conservation"
+      ]
+    },
+    {
+      "raw_name": "Food Chain and Food Web",
+      "source_boards": [
+        "ICSE",
+        "Karnataka",
+        "AP/Telangana"
+      ],
+      "note": "Includes the concept of energy transfer between organisms in an ecosystem",
+      "subtopics": [
+        "Types of food chains (producer-consumer, decomposer)",
+        "Role of apex predators in food chains",
+        "Importance of food chains in ecosystem energy flow",
+        "Factors affecting food chain dynamics (climate, habitat, population size)",
+        "Comparison of food chains and food webs"
+      ]
+    },
+    {
+      "raw_name": "Ecosystem",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "note": "Includes the concept of living and non-living components of an environment",
+      "subtopics": [
+        "Components of an ecosystem (biotic, abiotic)",
+        "Types of ecosystems (terrestrial, freshwater, marine)",
+        "Importance of ecosystem services (air and water purification, climate regulation)",
+        "Factors affecting ecosystem dynamics (climate, human activity, natural disasters)",
+        "Role of humans in maintaining ecosystem health"
+      ]
+    },
+    {
+      "raw_name": "Biodiversity",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes the concept of variety of life forms in an ecosystem",
+      "subtopics": [
+        "Types of biodiversity (species, genetic, ecosystem)",
+        "Importance of biodiversity in ecosystem functioning and human well-being",
+        "Factors contributing to biodiversity loss (habitat destruction, climate change)",
+        "Consequences of biodiversity loss (ecosystem collapse, loss of ecosystem services)",
+        "Conservation strategies for maintaining biodiversity (habitat preservation, species reintroduction)"
+      ]
+    },
+    {
+      "raw_name": "Adaptation",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes the concept of changes in organisms to survive in a particular environment",
+      "subtopics": [
+        "Definition of Adaptation",
+        "Types of Adaptation (Behavioral, Physiological, Structural)",
+        "Examples of Adaptation in Plants and Animals",
+        "Importance of Adaptation in Survival",
+        "Limitations of Adaptation"
+      ]
+    },
+    {
+      "raw_name": "Natural Resources",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes the concept of renewable and non-renewable resources",
+      "subtopics": [
+        "Definition of Natural Resources",
+        "Classification of Natural Resources (Renewable, Non-Renewable)",
+        "Importance of Natural Resources in Human Life",
+        "Conservation of Natural Resources",
+        "Sustainable Use of Natural Resources"
+      ]
+    },
+    {
+      "raw_name": "Waste Management",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes the concept of proper disposal of waste to prevent pollution",
+      "subtopics": [
+        "Definition of Waste and Waste Management",
+        "Types of Waste (Biodegradable, Non-Biodegradable)",
+        "Methods of Waste Disposal (Recycling, Composting, Incineration)",
+        "Importance of Proper Waste Disposal",
+        "Role of Individuals in Waste Management"
+      ]
+    },
+    {
+      "raw_name": "Environmental Pollution",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes the concept of air, water, and soil pollution and its effects",
+      "subtopics": [
+        "Definition of Environmental Pollution",
+        "Types of Environmental Pollution (Air, Water, Soil)",
+        "Causes of Environmental Pollution",
+        "Effects of Environmental Pollution on Human Health and Environment",
+        "Control of Environmental Pollution"
+      ]
+    },
+    {
+      "raw_name": "Climate Change",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes the concept of global warming and its effects on the environment",
+      "subtopics": [
+        "Definition of Climate Change",
+        "Causes of Climate Change (Greenhouse Effect, Deforestation)",
+        "Effects of Climate Change (Rising Sea Levels, Melting of Glaciers)",
+        "Consequences of Climate Change on Human Life and Environment",
+        "Mitigation and Adaptation Strategies for Climate Change"
+      ]
+    },
+    {
+      "raw_name": "Earth's Atmosphere",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes the concept of composition and layers of the atmosphere",
+      "subtopics": [
+        "Composition of Earth's Atmosphere",
+        "Layers of Earth's Atmosphere (Troposphere, Stratosphere)",
+        "Importance of Earth's Atmosphere in Human Life",
+        "Effects of Human Activities on Earth's Atmosphere",
+        "Role of Ozone Layer in Protecting Earth's Atmosphere"
+      ]
+    },
+    {
+      "raw_name": "Weathering and Erosion",
+      "source_boards": [
+        "ICSE",
+        "AP/Telangana"
+      ],
+      "note": "Includes the concept of breakdown of rocks and soil due to natural forces",
+      "subtopics": [
+        "Definition of Weathering and Erosion",
+        "Types of Weathering (Mechanical, Chemical)",
+        "Types of Erosion (Water, Wind, Ice)",
+        "Effects of Weathering and Erosion on Landscape",
+        "Importance of Understanding Weathering and Erosion"
+      ]
+    },
+    {
+      "raw_name": "Geological Time Scale",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes the concept of division of Earth's history into eons and eras",
+      "subtopics": [
+        "Definition of Geological Time Scale",
+        "Importance of Geological Time Scale in Understanding Earth's History",
+        "Major Events in Geological Time Scale (Dinosaur Era, Ice Age)",
+        "Methods of Dating Rocks and Fossils",
+        "Importance of Geological Time Scale in Understanding Earth's Processes"
+      ]
+    },
+    {
+      "raw_name": "Earth's Interior",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes the concept of Earth's core and mantle",
+      "subtopics": [
+        "Composition of Earth's Interior",
+        "Layers of Earth's Interior (Crust, Mantle, Core)",
+        "Importance of Earth's Interior in Understanding Earth's Processes",
+        "Methods of Studying Earth's Interior (Seismic Waves, Gravity)",
+        "Role of Earth's Interior in Plate Tectonics"
+      ]
+    },
+    {
+      "raw_name": "Plate Tectonics",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes the concept of movement of Earth's lithosphere",
+      "subtopics": [
+        "Definition of Plate Tectonics",
+        "Types of Plate Boundaries (Divergent, Convergent, Transform)",
+        "Movement of Tectonic Plates (Continental Drift, Sea Floor Spreading)",
+        "Effects of Plate Tectonics on Earth's Surface (Volcanoes, Earthquakes)",
+        "Importance of Understanding Plate Tectonics in Earth Science"
+      ]
+    },
+    {
+      "raw_name": "Earthquakes and Volcanic Eruptions",
+      "source_boards": [
+        "ICSE",
+        "AP/Telangana"
+      ],
+      "note": "Includes the concept of seismic and volcanic activities",
+      "subtopics": [
+        "Characteristics of Seismic Waves",
+        "Types of Faults and Plate Boundaries",
+        "Volcanic Eruption Stages and Landforms",
+        "Earthquake Intensity Measurement (Richter Scale)",
+        "Volcanic Ash and its Environmental Impact"
+      ]
+    },
+    {
+      "raw_name": "Earth's Magnetic Field",
+      "source_boards": [
+        "ICSE",
+        "Tamil Nadu"
+      ],
+      "note": "Includes the concept of Earth's magnetic field and its effects",
+      "subtopics": [
+        "Earth's Magnetic Field Lines and Poles",
+        "Magnetic Field Strength and Declination",
+        "Earth's Core and its Role in Magnetism",
+        "Magnetic Compass and Navigation",
+        "Magnetic Field and its Effects on Living Organisms"
+      ]
+    },
+    {
+      "raw_name": "Earth's Rotation and Revolution",
+      "source_boards": [
+        "ICSE",
+        "Maharashtra"
+      ],
+      "note": "Includes the concept of Earth's rotation and revolution around the Sun",
+      "subtopics": [
+        "Earth's Rotation Period and Axis",
+        "Earth's Revolution around the Sun",
+        "Day and Night Cycles and their Effects",
+        "Seasonal Changes and their Causes",
+        "Earth's Orbital Speed and Distance from the Sun"
+      ]
+    },
+    {
+      "raw_name": "Earth's Oceans",
+      "source_boards": [
+        "ICSE",
+        "Karnataka"
+      ],
+      "note": "Includes the concept of oceanic features and processes",
+      "subtopics": [
+        "Oceanic Zones and their Characteristics",
+        "Ocean Currents and their Importance",
+        "Tides and their Causes (Gravitational and Atmospheric)",
+        "Oceanic Life Forms and their Adaptations",
+        "Ocean Conservation and Management Practices"
+      ]
+    },
+    {
+      "raw_name": "Earth's Water Cycle",
+      "source_boards": [
+        "ICSE",
+        "AP/Telangana"
+      ],
+      "note": "Includes the concept of movement of water between oceans, atmosphere, and land",
+      "subtopics": [
+        "Evaporation and Condensation Processes",
+        "Precipitation and Runoff Formation",
+        "Water Storage and Infiltration Processes",
+        "Water Cycle and its Impact on Climate",
+        "Human Activities and their Effects on the Water Cycle"
+      ]
+    }
+  ]
+}

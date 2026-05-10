@@ -1,0 +1,39 @@
+{
+  "concept_slug": "frequency-distribution",
+  "canonical_name": "Frequency Distribution Table",
+  "subject": "maths",
+  "grade": 7,
+  "area": "Statistics",
+  "description": "Organising data into classes with frequencies",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Mathematics.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Data Collection and Organisation"
+  ],
+  "prerequisites_descriptions": {
+    "Data Collection and Organisation": "Gathering, recording and organising raw data; tally marks"
+  },
+  "successors_to_link": [
+    "Data Representation — Grouped Data"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Data Collection and Organisation",
+    "Data Representation — Grouped Data",
+    "Bar Graphs, Pictographs and Pie Charts",
+    "Mean, Median and Mode",
+    "Range"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday examples, colourful analogies, simple language. Avoid formal proofs. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,40 @@
+{
+  "concept_slug": "types-of-sets",
+  "canonical_name": "Types of Sets",
+  "subject": "maths",
+  "grade": 11,
+  "area": "Set Theory",
+  "description": "Empty, finite, infinite, equal, equivalent, universal sets",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch1 — Union of sets]\nwhich consists of all the elements of A and all the elements of B, the common elements\nbeing taken only once. The symbol ‘∪’ is used to denote the union. Symbolically, we\nwrite A ∪ B and usually read as ‘A union B’.\nExample 12 Let A = { 2, 4, 6, 8} and B = { 6, 8, 10, 12}. Find A ∪ B.\nSolution  We have  A ∪ B  = { 2, 4, 6, 8, 10, 12}\nNote that the common elements 6 and 8 have been taken only once while writing\nA ∪ B.\nExample 13   Let A = { a, e, i, o, u } and B = { a, i, u }. Show that A ∪ B  = A\nSolution We have, A ∪ B = { a, e, i, o, u } = A.\nThis example illustrates that union of sets A and its subset B is the set A\nitself, i.e., if B ⊂ A, then A ∪ B = A.\nExample 14 Let X = {Ram, Geeta, Akbar} be the set of students of Class XI, who are\nin school hockey team. Let Y = {Geeta, David, Ashok} be the set of students from\nClass XI who are in the school football team. Find X ∪ Y and interpret the set.\nSolution We have, X ∪ Y = {Ram, Geeta, Akbar, David, Ashok}. This is the set of\nstudents",
+  "context_sources": [
+    "ncert:grade11/maths/ch1"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Sets"
+  ],
+  "prerequisites_descriptions": {
+    "Sets": "Well-defined collection of objects; roster and set-builder notation"
+  },
+  "successors_to_link": [
+    "Subsets and Power Set"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Sets",
+    "Subsets and Power Set",
+    "Set Operations and Venn Diagrams",
+    "Cartesian Product of Sets"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full mathematical rigour. Include proofs where standard. JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

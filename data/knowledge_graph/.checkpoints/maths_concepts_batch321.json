@@ -1,0 +1,24 @@
+[
+  {
+    "canonical_name": "Derivatives",
+    "slug": "derivatives",
+    "_aliases": [
+      "Algebra of derivative of Functions",
+      "Derivative of Polynomials and Trigonometric Functions"
+    ],
+    "domain": "Calculus",
+    "area": "Differential Calculus",
+    "parent": "calculus",
+    "_grades": [
+      11
+    ],
+    "_importance_by_grade": {
+      "11": 5
+    },
+    "_source_boards": [
+      "NCERT",
+      "ICSE"
+    ],
+    "subject": "maths"
+  }
+]
