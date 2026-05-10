@@ -107,14 +107,14 @@ This produced working results but revealed a deep structural flaw: organising co
 by textbook chapter rather than by concept led to inconsistency, redundant generation,
 broken translation of mathematical notation, and no meaningful navigation between related ideas.
 
-The second phase rebuilt the system from the ground up around a \emph{knowledge graph}---
+The second phase rebuilt the system from the ground up around a \emph{knowledge graph}:
 a directed network of canonical concepts linked by prerequisite relationships.
 Every concept is defined and generated exactly once.
 Content is grounded in the original textbooks through Retrieval-Augmented Generation (RAG),
 and produced directly in all four languages using Sarvam~AI models,
 eliminating the translation step entirely.
-The result is a web platform where any concept in the curriculum---from Whole Numbers in
-Grade~6 to Differential Equations in Grade~12---is one click away from everything the
+The result is a web platform where any concept in the curriculum (from Whole Numbers in
+Grade~6 to Differential Equations in Grade~12) is one click away from everything the
 student needs to know before it and everything it enables next.
 \end{abstract}
 
@@ -124,37 +124,34 @@ student needs to know before it and everything it enables next.
 %% ═══════════════════════════════════════════════════════════════════════════
 \section{Introduction}
 
-India runs one of the largest school education systems in the world.
-The national curriculum, governed by the National Council of Educational Research and
-Training (NCERT), is used by hundreds of millions of students across thousands of schools.
-Yet the digital resources available to those students are either in English or severely
-limited in quality for regional languages.
+India runs one of the largest school education systems in the world,
+with hundreds of millions of students across thousands of schools.
+Yet the digital resources available to those students are almost entirely in English,
+and high-quality regional language content for school Mathematics and Science is largely absent.
 
-The government's own digital platforms---ePathshala and DIKSHA---put the textbooks online
-and attach some video content.
-This is better than nothing, but the structure is the same linear, grade-then-chapter
-organisation as the printed book.
-There is no way for a student to discover what foundational idea they are missing,
-no link between related concepts across different chapters, and no map of where any
-topic fits in the larger picture.
-It is a digitised textbook, not an educational tool.
+The existing digital landscape for school education presents a consistent set of limitations:
 
-Paid platforms like Toppr and Embibe are designed for competitive examination drilling.
-They are expensive, examination-focused rather than concept-focused,
-and their regional language support beyond Hindi is thin.
-
-Khan Academy is closer to the right idea---it has prerequisite maps and reasonably
-structured content---but it is built for the American curriculum and poorly aligned
-with Indian boards.
-Its regional language content, where it exists, is generally an inconsistent translation
-of the English material rather than content written for Indian school students.
+\begin{itemize}[leftmargin=2em, itemsep=0.3em]
+  \item Most free content available online is in English. Regional language material,
+    where it exists, is typically a translation of English source text rather than content
+    written natively for the regional language learner.
+  \item Official digital platforms that put textbooks online retain the same linear,
+    chapter-based organisation as the printed book. There is no concept navigation,
+    no links between related topics across chapters, and no way for a student to identify
+    which foundational idea they are missing.
+  \item Paid platforms are typically designed for competitive examination preparation.
+    They are expensive, examination-focused rather than concept-focused,
+    and regional language support beyond Hindi is limited.
+  \item Free international platforms offer better concept structure and prerequisite maps,
+    but are built around foreign curricula and are not well aligned with Indian boards.
+\end{itemize}
 
 The gap this project fills is specific: a free, multi-board educational platform covering
 Mathematics and Science for Grades~6 through~12, structured around the actual relationships
 between concepts, with content that a student can read in their own language and that
 genuinely builds from what they already know toward what they are trying to learn.
 
-This report describes the complete development of that platform---the first version,
+This report describes the complete development of that platform: the first version,
 what went wrong with it, the redesign it led to, and the system that resulted.
 
 %% ═══════════════════════════════════════════════════════════════════════════
@@ -170,13 +167,13 @@ The pipeline followed this structure exactly: extract each section from the PDF,
 generate an explanation, translate it, and serve it.
 
 This produced a working product reasonably quickly,
-but examining the output carefully revealed problems that were not bugs to be fixed---
+but examining the output carefully revealed problems that were not bugs to be fixed;
 they were consequences of the design.
 
 \subsection{Extracting Structure from Textbook PDFs}
 
 PDF files do not record semantic information.
-They store drawing instructions---where to place which characters in which font.
+They store drawing instructions: where to place which characters in which font.
 Identifying headings versus body text therefore requires inferring structure from visual cues.
 
 The heading extractor took a negation approach.
@@ -197,7 +194,7 @@ This is a binding hardware constraint: large language models require far more me
 their numerical precision is aggressively reduced.
 
 The technique used is \emph{4-bit quantisation}, which compresses model weights to
-4-bit integer representation---roughly eight times smaller than the default 32-bit format---
+4-bit integer representation (roughly eight times smaller than the default 32-bit format),
 at a modest cost in generation quality.
 The model used was Meta's LLaMA~3.2~3B Instruct, quantised in NF4 format using the
 BitsAndBytes library, occupying approximately 2~GB of video memory and leaving headroom
@@ -222,7 +219,7 @@ Each page followed a consistent structure: an introduction, a main explanation w
 worked examples and formatted mathematical expressions, a section on common mistakes,
 and a summary.
 All mathematical notation was written in standard \LaTeX{} format so it could be rendered
-as properly typeset symbols in the browser---for example, the quadratic formula as
+as properly typeset symbols in the browser, for example, the quadratic formula as
 $x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ rather than a plaintext approximation.
 
 \subsection{Translating into Regional Languages}
@@ -261,7 +258,7 @@ This preserved mathematical content correctly in the large majority of cases.
 A significant compatibility problem emerged with IndicTrans2.
 It requires version~4.45 or older of the underlying HuggingFace Transformers library,
 while the Sarvam model requires a newer version.
-Critically, running IndicTrans2 on an incompatible version does not produce an error---
+Critically, running IndicTrans2 on an incompatible version does not produce an error;
 it silently generates completely garbled, unreadable output.
 Diagnosing this took considerable time.
 The two models could not share the same software environment,
@@ -284,7 +281,7 @@ Mathematical concepts appear across multiple chapters and multiple grades.
 and underpins rational numbers in Grade~8.
 The pipeline treated each of these appearances as an independent generation task.
 The resulting pages used different notation, slightly different definitions,
-and occasionally different terminology for the same idea---because the model had no
+and occasionally different terminology for the same idea, because the model had no
 awareness of what it had previously generated.
 A student who read across chapters encountered subtle contradictions they should never have faced.
 
@@ -299,8 +296,8 @@ with no improvement in discoverability or context.
 \medskip
 \noindent\textbf{The model hallucinated on mathematically demanding topics.}
 A 3-billion-parameter model is capable for many tasks but is not a reliable mathematician.
-For topics requiring multi-step reasoning---formal proofs, formula derivations,
-systematic problem solving---the model occasionally produced content that sounded correct
+For topics requiring multi-step reasoning (formal proofs, formula derivations,
+systematic problem solving), the model occasionally produced content that sounded correct
 but contained subtle errors.
 Without a verification step against the textbook, these errors reached the student.
 
@@ -320,7 +317,7 @@ All four problems had the same root: the chapter section was the wrong unit of o
 %% ═══════════════════════════════════════════════════════════════════════════
 \section{The Core Insight}
 
-A textbook chapter is a publishing artefact---a practical device for grouping material in print.
+A textbook chapter is a publishing artefact: a practical device for grouping material in print.
 It is not a principled representation of knowledge.
 
 What students actually learn are \emph{concepts}.
@@ -328,8 +325,8 @@ What students actually learn are \emph{concepts}.
 It belongs to mathematics.
 It has prerequisites that are older than any chapter that introduces it,
 and it enables concepts that appear in textbooks years later.
-These relationships---what must be understood before this, and what becomes accessible
-after it---are the real structure of the curriculum.
+These relationships (what must be understood before this, and what becomes accessible
+after it) are the real structure of the curriculum.
 
 Making the concept the fundamental unit resolves each problem identified in Phase~1.
 Every concept is defined once, so duplication and contradiction disappear.
@@ -353,7 +350,7 @@ but topics exclusive to ICSE, Karnataka, Maharashtra, or Andhra Pradesh/Telangan
 state boards needed to be identified and included so students from any board
 would find their curriculum represented.
 
-A larger language model---LLaMA~3.1~8B---handled this stage.
+A larger language model, LLaMA~3.1~8B, handled this stage.
 The 8B model has significantly more world knowledge than the 3B model used in Phase~1,
 making it better suited for curriculum analysis tasks where breadth of knowledge matters.
 It was run in the same 4-bit quantised form to fit within the GPU memory constraint.
@@ -365,7 +362,7 @@ in different boards was identified and merged under a single canonical name.
 Fuzzy string matching caught near-matches automatically,
 and the model resolved ambiguous cases.
 
-This produced a comprehensive raw topic inventory for each grade and subject---
+This produced a comprehensive raw topic inventory for each grade and subject:
 a complete picture of what students across all major Indian boards are expected to learn.
 
 \subsection{Constructing Canonical Concepts}
@@ -381,7 +378,7 @@ similar to the level at which an encyclopedia article would exist.
 ``Fractions'' is a canonical concept; ``adding fractions with unlike denominators''
 is a technique within it.
 ``Integration'' is a canonical concept; ``integration by substitution'' is an approach
-within it---but it also warrants its own concept page because students search for it
+within it, but it also warrants its own concept page because students search for it
 and it has its own prerequisites.
 
 The LLM processed raw topic lists and proposed canonical concept names, groupings,
@@ -404,7 +401,7 @@ A missing edge fails to flag a real dependency and leaves a student confused wit
 knowing why.
 A spurious edge implies unnecessary review and disrupts natural learning flow.
 
-The resulting graph is a \emph{directed acyclic graph (DAG)}---a network of directed
+The resulting graph is a \emph{directed acyclic graph (DAG)}, a network of directed
 arrows representing ``must understand before'' relationships, with no cycles.
 A cycle would imply that concept~A requires concept~B which requires concept~A,
 a logical impossibility.
@@ -501,7 +498,7 @@ across all of the major curriculum boards.
 
 Generating educational content purely from a language model's internal knowledge
 is unreliable.
-Models produce explanations that sound authoritative but contain subtle errors---
+Models produce explanations that sound authoritative but contain subtle errors:
 wrong formula applications, imprecise definitions, incorrect reasoning steps.
 This is especially problematic in mathematics, where a single incorrect step
 can make a derivation or proof entirely meaningless.
@@ -513,7 +510,7 @@ and provides them as context when generating content.
 
 The trusted reference material is the original NCERT textbooks.
 All textbook content was processed into short passages and stored in a
-\emph{vector database}---a database that supports semantic similarity search,
+\emph{vector database}, a database that supports semantic similarity search,
 finding passages that are about the same idea as a query
 rather than just sharing exact keywords.
 When generating content for any concept, the system retrieves the most relevant textbook
@@ -528,7 +525,7 @@ This means every explanation naturally builds on what the student already knows,
 uses the same terminology as related concept pages,
 and can explicitly refer to prior knowledge.
 Because all concepts are generated with the same prerequisite summaries,
-the terminology is consistent across every related page---
+the terminology is consistent across every related page;
 the terminology drift problem from Phase~1 is resolved at the structural level,
 not patched after the fact.
 
@@ -545,7 +542,7 @@ and Indian educational content.
 
 Rather than converting an English explanation to Hindi,
 the Sarvam model generates the Hindi explanation from scratch using the retrieved
-textbook passages and prerequisite summaries as context---
+textbook passages and prerequisite summaries as context,
 the same way a Hindi-speaking teacher would write an explanation,
 not the way a translator would convert one.
 
@@ -561,7 +558,7 @@ and no post-processing needed to standardise terms.
 
 Mathematical notation is embedded in the generated content as \LaTeX{} markup
 by the model itself, in all four languages.
-Because formulas are generated directly---not passed through a translation layer---
+Because formulas are generated directly (not passed through a translation layer),
 there is no possibility of corruption.
 The same formula appears identically in the English, Hindi, Telugu, and Odia versions
 of any concept page.
@@ -585,7 +582,7 @@ All four language versions of every page are pre-rendered in the same way.
 
 \subsection{Navigating the Graph}
 
-The experience begins at a subject hub---Mathematics or Science.
+The experience begins at a subject hub (Mathematics or Science).
 The hub shows the areas the subject is divided into, with colour coding
 that is used consistently throughout the interface.
 Selecting a grade shows all concepts taught at that grade, grouped by area.
@@ -634,8 +631,8 @@ The page presents the following in a clean, readable layout:
 
   \item \textbf{Area badge and grade context.}
     The concept's mathematical or scientific area is shown as a colour-coded badge.
-    If the concept appears in multiple grades---a common situation, since foundational topics
-    like ``Linear Equations'' are relevant across several years---
+    If the concept appears in multiple grades (a common situation, since foundational topics
+    like ``Linear Equations'' are relevant across several years),
     all grade versions are linked, so a student can easily navigate to a more advanced
     or more introductory treatment of the same idea.
 
@@ -653,7 +650,7 @@ The page presents the following in a clean, readable layout:
   \item \textbf{The full explanation.}
     Generated by the content pipeline with textbook grounding and prerequisite context.
     Mathematical notation is rendered as properly typeset symbols.
-    Explanations are written at the appropriate level for the grade---
+    Explanations are written at the appropriate level for the grade:
     conversational and example-rich for lower grades,
     more rigorous and formally precise for upper secondary.
 
@@ -675,7 +672,7 @@ what comes next.
 
 \subsection{Language Selection and Mathematical Notation}
 
-Every concept page is available in all four languages---English, Hindi, Telugu, and Odia.
+Every concept page is available in all four languages: English, Hindi, Telugu, and Odia.
 A language selector switches the explanation text to the chosen language.
 Navigation elements, concept names, and area labels remain consistent across all languages.
 Mathematical notation is identical across all language versions
@@ -693,8 +690,8 @@ Typing a term returns all related concepts across grades and subjects,
 each shown with its area and grade levels.
 A student who remembers learning something about triangles but does not remember
 which grade or chapter can search for it and find all relevant concept pages immediately.
-Concepts that serve as natural starting points in a given grade---those with no prerequisites
-at that level---are highlighted, guiding students who are beginning a new grade toward
+Concepts that serve as natural starting points in a given grade (those with no prerequisites
+at that level) are highlighted, guiding students who are beginning a new grade toward
 where they should start.
 
 %% ═══════════════════════════════════════════════════════════════════════════
@@ -707,8 +704,8 @@ This was not wasted effort.
 Running it produced concrete evidence of exactly what failed and why,
 which made the design of Phase~2 well-grounded rather than speculative.
 
-The five problems identified in Phase~1---inconsistency from multiple generation,
-absence of navigation, model hallucination, terminology drift, and structural redundancy---
+The five problems identified in Phase~1 (inconsistency from multiple generation,
+absence of navigation, model hallucination, terminology drift, and structural redundancy)
 all traced to a single root cause: the chapter section was the wrong abstraction.
 Recognising this clearly, rather than patching around it, justified the substantial
 effort of rebuilding from scratch.
@@ -732,7 +729,7 @@ beyond the software it supports.
 The graph also revealed the cross-subject connections that curricula typically
 leave implicit.
 The mathematics a student needs for electromagnetism, for gas law calculations,
-for genetics probability---these connections exist, and making them explicit in the graph
+for genetics probability: these connections exist, and making them explicit in the graph
 means the platform can surface them rather than leaving students to discover them by chance.
 
 \subsection{Comparison with the Phase~1 Approach}
@@ -762,7 +759,7 @@ with content generated directly in English, Hindi, Telugu, and Odia.
 The path involved building a first version, identifying its failures precisely,
 understanding those failures as design problems rather than implementation bugs,
 and redesigning from scratch around the correct abstraction.
-The knowledge graph---the core artifact of Phase~2---is the result of that redesign.
+The knowledge graph, the core artifact of Phase~2, is the result of that redesign.
 
 The platform gives a student something no digitised textbook can:
 a map of what they are trying to learn.
@@ -772,7 +769,7 @@ They can follow that map in any direction, in their own language,
 with explanations grounded in the textbooks their curriculum uses.
 
 The result is a tool that treats learning as the interconnected, cumulative, direction-having
-activity it actually is---rather than as a flat sequence of chapters to be completed
+activity it actually is, rather than as a flat sequence of chapters to be completed
 in order.
 
 \end{document}
