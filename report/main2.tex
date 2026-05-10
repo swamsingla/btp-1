@@ -62,8 +62,7 @@
 %% ─── Title Page ─────────────────────────────────────────────────────────────
 \begin{center}
 \vspace*{1.2cm}
-{\large\bfseries International Institute of Information Technology, Hyderabad}\\[0.25cm]
-{\normalsize Department of Computer Science and Engineering}\\[1.4cm]
+{\large\bfseries International Institute of Information Technology, Hyderabad}\\[1.4cm]
 
 {\color{mainblue}\rule{\linewidth}{1.8pt}}\\[0.8cm]
 
@@ -73,7 +72,7 @@ for Indian School Curricula}\\[0.8cm]
 
 {\color{mainblue}\rule{\linewidth}{1.8pt}}\\[2.2cm]
 
-{\large B.Tech Thesis Project (BTP)}\\[0.35cm]
+{\large B.Tech Project (BTP)}\\[0.35cm]
 {\large Academic Year 2025--2026}\\[2.6cm]
 
 \renewcommand{\arraystretch}{1.9}
@@ -81,6 +80,10 @@ for Indian School Curricula}\\[0.8cm]
   \textbf{\large Saksham Chitkara} & \textbf{\large Swam Singla} \\
   {\normalsize Roll No.\ 2023101021} & {\normalsize Roll No.\ 2023101134}
 \end{tabular}
+
+\vspace{1.2cm}
+{\normalsize Advisor: \textbf{Prof.\ Vasudeva Varma}}\\[0.3cm]
+{\normalsize IIIT Hyderabad}
 
 \vfill
 {\large May 2026}
@@ -172,33 +175,18 @@ they were consequences of the design.
 
 \subsection{Extracting Structure from Textbook PDFs}
 
-PDF files do not record semantic information.
-They store drawing instructions: where to place which characters in which font.
-Identifying headings versus body text therefore requires inferring structure from visual cues.
-
-The heading extractor took a negation approach.
-It first identified the dominant font across each document (the body text),
-then treated any text in a substantially different, larger, or bolder font as a candidate heading.
-This method handles inconsistent typography across grade levels without hardcoding
-formatting rules for each individual textbook.
-
-Extracted headings were assembled into a structured representation of each chapter's
-section hierarchy for all subjects and grades.
-This hierarchy became the skeleton that the rest of the pipeline operated on.
+PDF files store drawing instructions rather than semantic structure, so headings must be
+inferred from visual cues such as font size and weight.
+The extractor identified the dominant body-text font for each document and treated text
+in a substantially different font as a candidate heading, assembling each chapter's
+section hierarchy without hardcoding rules for individual textbooks.
+This hierarchy became the skeleton the rest of the pipeline operated on.
 
 \subsection{Generating Explanations with a Language Model}
 
-All language model inference in this project runs locally on a single consumer-grade GPU
-with 4~GB of video memory.
-This is a binding hardware constraint: large language models require far more memory unless
-their numerical precision is aggressively reduced.
-
-The technique used is \emph{4-bit quantisation}, which compresses model weights to
-4-bit integer representation (roughly eight times smaller than the default 32-bit format),
-at a modest cost in generation quality.
-The model used was Meta's LLaMA~3.2~3B Instruct, quantised in NF4 format using the
-BitsAndBytes library, occupying approximately 2~GB of video memory and leaving headroom
-for inference.
+All language model inference ran on a compute cluster with three GPUs of approximately
+10~GB each.
+The model used throughout was Meta's LLaMA~3.1~8B Instruct.
 
 Before generating a full explanation for a section,
 the model first scored the section's importance on a scale of one to five.
@@ -229,19 +217,18 @@ Three translation model families were implemented, compared, and made available
 for selection.
 
 \medskip
-\noindent\textbf{IndicTrans2 (AI4Bharat)} is the current state-of-the-art model for
-English-to-Indic translation, supporting all 22 scheduled Indian languages.
-It runs locally in 16-bit floating-point precision at roughly 2~GB of video memory.
-It produced the most fluent results for Hindi and Telugu.
+\noindent\textbf{IndicTrans2 (AI4Bharat)} supports all 22 scheduled Indian languages
+and is fast to generate, but produced lower output quality overall.
 
 \medskip
-\noindent\textbf{Sarvam Translate (Sarvam AI)} is built on Google's Gemma~3 architecture
-and produced particularly natural Hindi output with good handling of educational context.
+\noindent\textbf{Sarvam Translate (Sarvam AI)} is built on the Gemma~3 architecture.
+It was slower but produced noticeably better results, with more natural phrasing
+and better handling of educational terminology across all three languages.
+Sarvam was selected as the primary model for the pipeline.
 
 \medskip
-\noindent\textbf{TranslateGemma (Google)} is a translation-focused 4-billion-parameter model
-run in 4-bit quantised form.
-It was competitive for Hindi but produced weaker results for Odia.
+\noindent\textbf{TranslateGemma (Google)} was similarly fast to generate
+but produced weaker quality output compared to Sarvam.
 
 \medskip
 The most technically challenging aspect of the translation pipeline was preserving
@@ -255,15 +242,6 @@ untouched on a separate path.
 After translation, the segments were reassembled.
 This preserved mathematical content correctly in the large majority of cases.
 
-A significant compatibility problem emerged with IndicTrans2.
-It requires version~4.45 or older of the underlying HuggingFace Transformers library,
-while the Sarvam model requires a newer version.
-Critically, running IndicTrans2 on an incompatible version does not produce an error;
-it silently generates completely garbled, unreadable output.
-Diagnosing this took considerable time.
-The two models could not share the same software environment,
-requiring separate configurations to be maintained.
-
 Generated and translated content was stored in a cloud-hosted database.
 The web application served this content at addresses structured as
 Grade $\rightarrow$ Subject $\rightarrow$ Chapter $\rightarrow$ Section.
@@ -275,15 +253,12 @@ several fundamental problems became clear.
 These were not implementation bugs; they were direct consequences of the chapter-based design.
 
 \medskip
-\noindent\textbf{The same concept was generated multiple times, inconsistently.}
-Mathematical concepts appear across multiple chapters and multiple grades.
-``Fractions'' is introduced in Grade~6, revisited with ratios in Grade~7,
-and underpins rational numbers in Grade~8.
-The pipeline treated each of these appearances as an independent generation task.
-The resulting pages used different notation, slightly different definitions,
-and occasionally different terminology for the same idea, because the model had no
-awareness of what it had previously generated.
-A student who read across chapters encountered subtle contradictions they should never have faced.
+\noindent\textbf{Independently generated pages were inconsistent with each other.}
+When the same mathematical idea appeared across different chapters or sections,
+the pipeline generated each occurrence in complete isolation.
+The resulting pages used different notation and occasionally different terminology
+for the same underlying concept, because no generation run had any awareness of any other.
+A student reading across chapters encountered subtle contradictions they should never have faced.
 
 \medskip
 \noindent\textbf{There was no navigation between related concepts.}
@@ -350,10 +325,8 @@ but topics exclusive to ICSE, Karnataka, Maharashtra, or Andhra Pradesh/Telangan
 state boards needed to be identified and included so students from any board
 would find their curriculum represented.
 
-A larger language model, LLaMA~3.1~8B, handled this stage.
-The 8B model has significantly more world knowledge than the 3B model used in Phase~1,
-making it better suited for curriculum analysis tasks where breadth of knowledge matters.
-It was run in the same 4-bit quantised form to fit within the GPU memory constraint.
+The same LLaMA~3.1~8B model handled this stage.
+Its breadth of world knowledge made it well suited for curriculum analysis tasks.
 
 The model processed NCERT headings alongside ICSE syllabi and state board course descriptions.
 It identified topics common across all boards and topics unique to specific boards.
