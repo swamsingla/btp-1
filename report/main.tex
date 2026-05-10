@@ -22,30 +22,6 @@
 \onehalfspacing
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.65em}
-\documentclass[12pt,a4paper]{article}
-
-%% ─── Packages ────────────────────────────────────────────────────────────────
-\usepackage[top=1in,bottom=1in,left=1.1in,right=1.1in]{geometry}
-\usepackage{amsmath,amssymb}
-\usepackage[hidelinks]{hyperref}
-\usepackage{enumitem}
-\usepackage{xcolor}
-\usepackage{float}
-\usepackage{tikz}
-\usetikzlibrary{arrows.meta,positioning,shapes.geometric,calc}
-\usepackage{setspace}
-\usepackage{parskip}
-\usepackage{titlesec}
-\usepackage{microtype}
-\usepackage{graphicx}
-\usepackage{booktabs}
-\usepackage{array}
-\usepackage{fancyhdr}
-
-%% ─── Spacing ─────────────────────────────────────────────────────────────────
-\onehalfspacing
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{0.65em}
 
 %% ─── Colours ─────────────────────────────────────────────────────────────────
 \definecolor{mainblue}{RGB}{25,95,175}
@@ -194,8 +170,8 @@ The pipeline followed this structure exactly: extract each section from the PDF,
 generate an explanation, translate it into regional languages, and serve it.
 
 This produced a working product reasonably quickly,
-but the two central choices---chapter as the unit of organisation,
-and translation as the path to regional language content---both turned out to be wrong.
+but the two central choices, chapter as the unit of organisation
+    and translation as the path to regional language content, both turned out to be wrong.
 The problems they caused were not bugs to be fixed; they were consequences of the design.
 
 \subsection{Extracting Structure from Textbook PDFs}
@@ -334,7 +310,7 @@ mathematical and scientific term across every concept page it produces.
 There is no conversion step in which notation can be corrupted or terminology can drift.
 The content is native to its language from the moment it is created.
 
-These two changes---concept as unit, native generation as method---are the foundation of Phase~2.
+These two changes, concept as unit and native generation as method, are the foundation of Phase~2.
 
 %% ═══════════════════════════════════════════════════════════════════════════
 \section{Phase~2: The Knowledge Graph}
@@ -497,7 +473,7 @@ Phase~1 generated content in English and ran a separate translation pass.
 Phase~2 eliminates translation entirely.
 For each concept and grade, content is generated in English, Hindi, Telugu, and Odia
 as four separate generation calls, all using the same assembled context.
-Sarvam~AI models handle the Indic language runs---large language models trained with
+Sarvam~AI models handle the Indic language runs, large language models trained with
 a strong emphasis on Indian languages and Indian educational content.
 
 Each generation call receives the full structured context:
