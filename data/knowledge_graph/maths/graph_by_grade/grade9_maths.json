@@ -1,0 +1,937 @@
+{
+  "grade": 9,
+  "subject": "maths",
+  "total_concepts": 54,
+  "concepts": {
+    "algebraic-identities": {
+      "canonical_name": "Algebraic Identities",
+      "slug": "algebraic-identities",
+      "grades": [
+        7,
+        8,
+        9
+      ],
+      "area": "Algebra",
+      "description": "Standard identities: (a±b)², a²−b², (a+b+c)², (x+a)(x+b)",
+      "prerequisites": [
+        "simplification-of-algebraic-expressions"
+      ],
+      "leads_to": [
+        "factorisation-expressions",
+        "surds-and-rationalisation",
+        "factorisation-of-polynomials",
+        "quadratic-equations",
+        "completing-the-square",
+        "trigonometric-identities",
+        "binomial-theorem"
+      ]
+    },
+    "parallel-lines-and-transversals": {
+      "canonical_name": "Parallel Lines and Transversals",
+      "slug": "parallel-lines-and-transversals",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Angle relationships when a transversal cuts parallel lines",
+      "prerequisites": [
+        "angles",
+        "types-of-angles"
+      ],
+      "leads_to": [
+        "properties-of-triangles",
+        "lines-angles-theorems"
+      ]
+    },
+    "properties-of-triangles": {
+      "canonical_name": "Properties of Triangles",
+      "slug": "properties-of-triangles",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Triangle inequality; angle-side relationships",
+      "prerequisites": [
+        "angle-sum-property-triangle",
+        "parallel-lines-and-transversals"
+      ],
+      "leads_to": [
+        "congruence-of-triangles",
+        "triangle-theorems",
+        "median-of-triangle",
+        "altitude-of-triangle"
+      ]
+    },
+    "congruence-of-triangles": {
+      "canonical_name": "Congruence of Triangles",
+      "slug": "congruence-of-triangles",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "SSS, SAS, ASA, AAS, RHS criteria for triangle congruence",
+      "prerequisites": [
+        "properties-of-triangles"
+      ],
+      "leads_to": [
+        "isosceles-equilateral-properties",
+        "constructions-triangles",
+        "properties-of-parallelogram",
+        "triangle-theorems",
+        "circle-theorems"
+      ]
+    },
+    "similar-triangles": {
+      "canonical_name": "Similar Triangles",
+      "slug": "similar-triangles",
+      "grades": [
+        7,
+        9,
+        10
+      ],
+      "area": "Geometry",
+      "description": "AA, SAS, SSS similarity criteria; corresponding sides proportional",
+      "prerequisites": [
+        "ratios-and-proportions",
+        "types-of-triangles"
+      ],
+      "leads_to": [
+        "mid-point-theorem",
+        "trigonometric-ratios",
+        "similar-triangles-advanced",
+        "constructions-advanced"
+      ]
+    },
+    "constructions-triangles": {
+      "canonical_name": "Constructions of Triangles",
+      "slug": "constructions-triangles",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Constructing triangles given SSS, SAS, ASA conditions",
+      "prerequisites": [
+        "basic-constructions",
+        "congruence-of-triangles"
+      ],
+      "leads_to": []
+    },
+    "linear-equations-two-variables": {
+      "canonical_name": "Linear Equations in Two Variables",
+      "slug": "linear-equations-two-variables",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Algebra",
+      "description": "ax + by + c = 0; graphing; solution as ordered pair",
+      "prerequisites": [
+        "linear-equations-one-variable",
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": [
+        "pair-of-linear-equations",
+        "representing-linear-equations-graphically"
+      ]
+    },
+    "quadrilaterals": {
+      "canonical_name": "Quadrilaterals",
+      "slug": "quadrilaterals",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Four-sided polygons; angle sum = 360°; types of quadrilaterals",
+      "prerequisites": [
+        "angle-sum-property-triangle",
+        "types-of-angles"
+      ],
+      "leads_to": [
+        "properties-of-parallelogram",
+        "kite-and-trapezium",
+        "visualising-3d-shapes",
+        "cyclic-quadrilaterals"
+      ]
+    },
+    "properties-of-parallelogram": {
+      "canonical_name": "Properties of Parallelogram",
+      "slug": "properties-of-parallelogram",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Opposite sides/angles equal; diagonals bisect each other",
+      "prerequisites": [
+        "quadrilaterals",
+        "congruence-of-triangles"
+      ],
+      "leads_to": [
+        "properties-of-rhombus-rectangle-square",
+        "mid-point-theorem",
+        "similar-triangles-advanced"
+      ]
+    },
+    "pythagorean-theorem": {
+      "canonical_name": "Pythagorean Theorem",
+      "slug": "pythagorean-theorem",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "In a right triangle: a² + b² = c²",
+      "prerequisites": [
+        "area-of-triangles",
+        "square-roots"
+      ],
+      "leads_to": [
+        "pythagorean-triples",
+        "converse-of-pythagorean-theorem",
+        "surface-area-cone",
+        "trigonometric-ratios",
+        "distance-formula",
+        "tangent-to-a-circle",
+        "altitude-of-triangle"
+      ]
+    },
+    "circles": {
+      "canonical_name": "Circles — Basic Properties",
+      "slug": "circles",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Radius, diameter, chord, arc, sector, segment; basic properties",
+      "prerequisites": [
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "circle-theorems",
+        "circle-equation"
+      ]
+    },
+    "heron-s-formula": {
+      "canonical_name": "Heron's Formula",
+      "slug": "heron-s-formula",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Mensuration",
+      "description": "Area = √[s(s−a)(s−b)(s−c)] where s is the semi-perimeter",
+      "prerequisites": [
+        "area-of-triangles",
+        "square-roots"
+      ],
+      "leads_to": []
+    },
+    "surface-area-cuboid-cube": {
+      "canonical_name": "Surface Area of Cuboid and Cube",
+      "slug": "surface-area-cuboid-cube",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Mensuration",
+      "description": "Total surface area and lateral surface area",
+      "prerequisites": [
+        "area-rectangle-square",
+        "visualising-3d-shapes"
+      ],
+      "leads_to": [
+        "volume-cuboid-cube",
+        "surface-area-cylinder"
+      ]
+    },
+    "volume-cuboid-cube": {
+      "canonical_name": "Volume of Cuboid and Cube",
+      "slug": "volume-cuboid-cube",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Mensuration",
+      "description": "V = l×b×h; V = a³",
+      "prerequisites": [
+        "surface-area-cuboid-cube"
+      ],
+      "leads_to": []
+    },
+    "surface-area-cylinder": {
+      "canonical_name": "Surface Area of Cylinder",
+      "slug": "surface-area-cylinder",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "CSA = 2πrh; TSA = 2πr(r+h)",
+      "prerequisites": [
+        "circumference-and-area-of-circle",
+        "surface-area-cuboid-cube"
+      ],
+      "leads_to": [
+        "volume-cylinder",
+        "surface-area-volume-combinations"
+      ]
+    },
+    "volume-cylinder": {
+      "canonical_name": "Volume of Cylinder",
+      "slug": "volume-cylinder",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "V = πr²h",
+      "prerequisites": [
+        "surface-area-cylinder"
+      ],
+      "leads_to": [
+        "volume-cone",
+        "surface-area-volume-combinations"
+      ]
+    },
+    "surface-area-cone": {
+      "canonical_name": "Surface Area of Cone",
+      "slug": "surface-area-cone",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "CSA = πrl; TSA = πr(r+l)",
+      "prerequisites": [
+        "pythagorean-theorem",
+        "circumference-and-area-of-circle"
+      ],
+      "leads_to": [
+        "volume-cone",
+        "surface-area-volume-combinations"
+      ]
+    },
+    "volume-cone": {
+      "canonical_name": "Volume of Cone",
+      "slug": "volume-cone",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "V = ⅓πr²h",
+      "prerequisites": [
+        "surface-area-cone",
+        "volume-cylinder"
+      ],
+      "leads_to": [
+        "volume-sphere",
+        "surface-area-volume-combinations"
+      ]
+    },
+    "surface-area-sphere": {
+      "canonical_name": "Surface Area of Sphere",
+      "slug": "surface-area-sphere",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "SA = 4πr²",
+      "prerequisites": [
+        "circumference-and-area-of-circle"
+      ],
+      "leads_to": [
+        "volume-sphere",
+        "surface-area-volume-combinations"
+      ]
+    },
+    "volume-sphere": {
+      "canonical_name": "Volume of Sphere",
+      "slug": "volume-sphere",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "V = (4/3)πr³",
+      "prerequisites": [
+        "surface-area-sphere",
+        "volume-cone"
+      ],
+      "leads_to": [
+        "surface-area-volume-combinations"
+      ]
+    },
+    "data-representation-grouped": {
+      "canonical_name": "Data Representation — Grouped Data",
+      "slug": "data-representation-grouped",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Statistics",
+      "description": "Histograms, frequency polygons for grouped data",
+      "prerequisites": [
+        "bar-graphs-and-pictographs",
+        "frequency-distribution"
+      ],
+      "leads_to": [
+        "histogram",
+        "statistics-measures"
+      ]
+    },
+    "histogram": {
+      "canonical_name": "Histogram",
+      "slug": "histogram",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Statistics",
+      "description": "Bar chart for continuous grouped data; class intervals",
+      "prerequisites": [
+        "data-representation-grouped"
+      ],
+      "leads_to": [
+        "frequency-polygon"
+      ]
+    },
+    "frequency-polygon": {
+      "canonical_name": "Frequency Polygon",
+      "slug": "frequency-polygon",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Statistics",
+      "description": "Line graph connecting midpoints of histogram bars",
+      "prerequisites": [
+        "histogram"
+      ],
+      "leads_to": [
+        "ogive"
+      ]
+    },
+    "irrational-numbers": {
+      "canonical_name": "Irrational Numbers",
+      "slug": "irrational-numbers",
+      "grades": [
+        9
+      ],
+      "area": "Number Systems",
+      "description": "Numbers that cannot be expressed as p/q; non-terminating non-repeating decimals",
+      "prerequisites": [
+        "rational-numbers",
+        "square-roots"
+      ],
+      "leads_to": [
+        "real-numbers",
+        "surds-and-rationalisation",
+        "proof-irrationality"
+      ]
+    },
+    "real-numbers": {
+      "canonical_name": "Real Numbers",
+      "slug": "real-numbers",
+      "grades": [
+        9
+      ],
+      "area": "Number Systems",
+      "description": "Union of rational and irrational numbers",
+      "prerequisites": [
+        "irrational-numbers",
+        "rational-numbers"
+      ],
+      "leads_to": [
+        "decimal-expansions-of-real-numbers",
+        "laws-of-exponents-real",
+        "cartesian-coordinate-system",
+        "complex-numbers",
+        "linear-inequalities",
+        "limits-intuitive",
+        "logarithms"
+      ]
+    },
+    "decimal-expansions-of-real-numbers": {
+      "canonical_name": "Decimal Expansions of Real Numbers",
+      "slug": "decimal-expansions-of-real-numbers",
+      "grades": [
+        9
+      ],
+      "area": "Number Systems",
+      "description": "Terminating, non-terminating repeating, and non-repeating decimals",
+      "prerequisites": [
+        "real-numbers",
+        "conversion-fractions-decimals"
+      ],
+      "leads_to": []
+    },
+    "laws-of-exponents-real": {
+      "canonical_name": "Laws of Exponents for Real Numbers",
+      "slug": "laws-of-exponents-real",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "Extending exponent laws to rational exponents on positive reals",
+      "prerequisites": [
+        "exponents-and-powers",
+        "real-numbers",
+        "negative-and-zero-exponents"
+      ],
+      "leads_to": []
+    },
+    "surds-and-rationalisation": {
+      "canonical_name": "Surds and Rationalisation",
+      "slug": "surds-and-rationalisation",
+      "grades": [
+        9
+      ],
+      "area": "Number Systems",
+      "description": "Simplifying surds; rationalising the denominator",
+      "prerequisites": [
+        "irrational-numbers",
+        "algebraic-identities"
+      ],
+      "leads_to": []
+    },
+    "polynomials-in-one-variable": {
+      "canonical_name": "Polynomials in One Variable",
+      "slug": "polynomials-in-one-variable",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "Polynomial definition; degree; types — monomial, binomial, trinomial",
+      "prerequisites": [
+        "algebraic-expressions",
+        "terms-coefficients-degree"
+      ],
+      "leads_to": [
+        "remainder-theorem",
+        "zeroes-of-a-polynomial",
+        "special-functions"
+      ]
+    },
+    "remainder-theorem": {
+      "canonical_name": "Remainder Theorem",
+      "slug": "remainder-theorem",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "When p(x) is divided by (x−a), remainder = p(a)",
+      "prerequisites": [
+        "polynomials-in-one-variable",
+        "division-of-polynomials"
+      ],
+      "leads_to": [
+        "factor-theorem",
+        "synthetic-division"
+      ]
+    },
+    "factor-theorem": {
+      "canonical_name": "Factor Theorem",
+      "slug": "factor-theorem",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "p(a) = 0 ⟹ (x−a) is a factor of p(x)",
+      "prerequisites": [
+        "remainder-theorem"
+      ],
+      "leads_to": [
+        "zeroes-of-a-polynomial",
+        "factorisation-of-polynomials"
+      ]
+    },
+    "zeroes-of-a-polynomial": {
+      "canonical_name": "Zeroes of a Polynomial",
+      "slug": "zeroes-of-a-polynomial",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Algebra",
+      "description": "Values of x for which p(x) = 0",
+      "prerequisites": [
+        "polynomials-in-one-variable",
+        "factor-theorem"
+      ],
+      "leads_to": [
+        "zeroes-coefficients-relationship"
+      ]
+    },
+    "factorisation-of-polynomials": {
+      "canonical_name": "Factorisation of Polynomials",
+      "slug": "factorisation-of-polynomials",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "Factorising using splitting middle term, identities, factor theorem",
+      "prerequisites": [
+        "factor-theorem",
+        "algebraic-identities"
+      ],
+      "leads_to": [
+        "quadratic-equations",
+        "integration-by-partial-fractions",
+        "partial-fractions"
+      ]
+    },
+    "cartesian-coordinate-system": {
+      "canonical_name": "Cartesian Coordinate System",
+      "slug": "cartesian-coordinate-system",
+      "grades": [
+        9
+      ],
+      "area": "Coordinate Geometry",
+      "description": "x-y plane; quadrants; plotting ordered pairs",
+      "prerequisites": [
+        "integer-operations",
+        "real-numbers",
+        "number-line"
+      ],
+      "leads_to": [
+        "linear-equations-two-variables",
+        "plotting-points",
+        "pair-of-linear-equations",
+        "distance-formula",
+        "argand-plane",
+        "system-of-inequalities",
+        "introduction-3d-geometry",
+        "scatter-plot",
+        "representing-linear-equations-graphically"
+      ]
+    },
+    "plotting-points": {
+      "canonical_name": "Plotting Points and Reading Coordinates",
+      "slug": "plotting-points",
+      "grades": [
+        9
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Locating points; identifying quadrants; mirror images across axes",
+      "prerequisites": [
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": []
+    },
+    "euclid-definitions-axioms-postulates": {
+      "canonical_name": "Euclid's Definitions, Axioms and Postulates",
+      "slug": "euclid-definitions-axioms-postulates",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Euclid's 5 postulates and axioms; foundation of deductive geometry",
+      "prerequisites": [
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "lines-angles-theorems"
+      ]
+    },
+    "lines-angles-theorems": {
+      "canonical_name": "Lines and Angles — Theorems",
+      "slug": "lines-angles-theorems",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Vertically opposite angles; linear pair; angle sum at a point",
+      "prerequisites": [
+        "euclid-definitions-axioms-postulates",
+        "parallel-lines-and-transversals"
+      ],
+      "leads_to": [
+        "triangle-theorems"
+      ]
+    },
+    "triangle-theorems": {
+      "canonical_name": "Triangle Theorems",
+      "slug": "triangle-theorems",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Angle bisector, perpendicular bisector; inequality theorems",
+      "prerequisites": [
+        "congruence-of-triangles",
+        "lines-angles-theorems",
+        "properties-of-triangles"
+      ],
+      "leads_to": []
+    },
+    "mid-point-theorem": {
+      "canonical_name": "Mid-Point Theorem",
+      "slug": "mid-point-theorem",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Line joining midpoints of two sides is parallel to and half of the third side",
+      "prerequisites": [
+        "properties-of-parallelogram",
+        "similar-triangles"
+      ],
+      "leads_to": []
+    },
+    "circle-theorems": {
+      "canonical_name": "Circle Theorems",
+      "slug": "circle-theorems",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Equal chords equidistant from centre; angle in semicircle; inscribed angle theorem",
+      "prerequisites": [
+        "circles",
+        "congruence-of-triangles"
+      ],
+      "leads_to": [
+        "arc-chord-properties",
+        "cyclic-quadrilaterals",
+        "tangent-to-a-circle",
+        "circumcentre"
+      ]
+    },
+    "arc-chord-properties": {
+      "canonical_name": "Arc and Chord Properties",
+      "slug": "arc-chord-properties",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Angle subtended by arc; perpendicular from centre bisects chord",
+      "prerequisites": [
+        "circle-theorems"
+      ],
+      "leads_to": []
+    },
+    "cyclic-quadrilaterals": {
+      "canonical_name": "Cyclic Quadrilaterals",
+      "slug": "cyclic-quadrilaterals",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Opposite angles sum to 180°; exterior angle equals remote interior",
+      "prerequisites": [
+        "circle-theorems",
+        "quadrilaterals"
+      ],
+      "leads_to": []
+    },
+    "trigonometric-ratios": {
+      "canonical_name": "Trigonometric Ratios",
+      "slug": "trigonometric-ratios",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "sin, cos, tan, cosec, sec, cot in a right triangle",
+      "prerequisites": [
+        "pythagorean-theorem",
+        "similar-triangles",
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "trigonometric-ratios-specific-angles",
+        "trigonometric-identities",
+        "area-of-sector-and-segment",
+        "modulus-and-argument",
+        "slope-of-a-line",
+        "vectors",
+        "direction-cosines-ratios"
+      ]
+    },
+    "trigonometric-ratios-specific-angles": {
+      "canonical_name": "Trigonometric Ratios of Standard Angles",
+      "slug": "trigonometric-ratios-specific-angles",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "Values at 0°, 30°, 45°, 60°, 90°",
+      "prerequisites": [
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "complementary-angle-identities",
+        "heights-and-distances"
+      ]
+    },
+    "complementary-angle-identities": {
+      "canonical_name": "Complementary Angle Identities",
+      "slug": "complementary-angle-identities",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "sin(90°−θ)=cosθ etc.",
+      "prerequisites": [
+        "trigonometric-ratios-specific-angles"
+      ],
+      "leads_to": []
+    },
+    "arithmetic-progressions": {
+      "canonical_name": "Arithmetic Progressions",
+      "slug": "arithmetic-progressions",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Sequences",
+      "description": "Sequence with constant common difference d",
+      "prerequisites": [
+        "algebraic-expressions",
+        "number-patterns"
+      ],
+      "leads_to": [
+        "geometric-progressions",
+        "ap-nth-term"
+      ]
+    },
+    "geometric-progressions": {
+      "canonical_name": "Geometric Progressions",
+      "slug": "geometric-progressions",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Sequences",
+      "description": "Sequence with constant common ratio r",
+      "prerequisites": [
+        "arithmetic-progressions",
+        "exponents-and-powers"
+      ],
+      "leads_to": [
+        "gp-advanced"
+      ]
+    },
+    "statistics-measures": {
+      "canonical_name": "Central Tendency for Grouped Data",
+      "slug": "statistics-measures",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Statistics",
+      "description": "Mean, median, mode for frequency distributions",
+      "prerequisites": [
+        "mean-median-mode",
+        "data-representation-grouped"
+      ],
+      "leads_to": [
+        "mean-of-grouped-data",
+        "measures-of-dispersion"
+      ]
+    },
+    "probability-basic": {
+      "canonical_name": "Probability — Basic Concepts",
+      "slug": "probability-basic",
+      "grades": [
+        9
+      ],
+      "area": "Probability",
+      "description": "Sample space, events, favourable outcomes",
+      "prerequisites": [
+        "theoretical-probability",
+        "data-collection-and-organisation"
+      ],
+      "leads_to": [
+        "probability-theoretical-approach",
+        "sample-space-events"
+      ]
+    },
+    "logarithms": {
+      "canonical_name": "Logarithms",
+      "slug": "logarithms",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Algebra",
+      "description": "log_a(b); laws: product, quotient, power; change of base",
+      "prerequisites": [
+        "exponents-and-powers",
+        "real-numbers"
+      ],
+      "leads_to": [
+        "special-functions",
+        "common-and-natural-logarithms",
+        "logarithmic-differentiation"
+      ]
+    },
+    "median-of-triangle": {
+      "canonical_name": "Medians of a Triangle",
+      "slug": "median-of-triangle",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Geometry",
+      "description": "Median connects vertex to midpoint of opposite side; centroid divides 2:1",
+      "prerequisites": [
+        "properties-of-triangles",
+        "section-formula"
+      ],
+      "leads_to": [
+        "centroid"
+      ]
+    },
+    "altitude-of-triangle": {
+      "canonical_name": "Altitudes of a Triangle",
+      "slug": "altitude-of-triangle",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Geometry",
+      "description": "Perpendicular from vertex to opposite side; orthocentre",
+      "prerequisites": [
+        "properties-of-triangles",
+        "pythagorean-theorem"
+      ],
+      "leads_to": []
+    },
+    "perpendicular-bisector": {
+      "canonical_name": "Perpendicular Bisector",
+      "slug": "perpendicular-bisector",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Locus of points equidistant from two given points",
+      "prerequisites": [
+        "basic-constructions"
+      ],
+      "leads_to": [
+        "circumcentre"
+      ]
+    },
+    "representing-linear-equations-graphically": {
+      "canonical_name": "Graphing Linear Equations",
+      "slug": "representing-linear-equations-graphically",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Algebra",
+      "description": "Plotting y=mx+c; interpreting slope and intercept",
+      "prerequisites": [
+        "linear-equations-two-variables",
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": []
+    }
+  }
+}

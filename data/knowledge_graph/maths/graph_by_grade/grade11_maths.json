@@ -1,0 +1,1155 @@
+{
+  "grade": 11,
+  "subject": "maths",
+  "total_concepts": 73,
+  "concepts": {
+    "geometric-progressions": {
+      "canonical_name": "Geometric Progressions",
+      "slug": "geometric-progressions",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Sequences",
+      "description": "Sequence with constant common ratio r",
+      "prerequisites": [
+        "arithmetic-progressions",
+        "exponents-and-powers"
+      ],
+      "leads_to": [
+        "gp-advanced"
+      ]
+    },
+    "sets": {
+      "canonical_name": "Sets",
+      "slug": "sets",
+      "grades": [
+        11
+      ],
+      "area": "Set Theory",
+      "description": "Well-defined collection of objects; roster and set-builder notation",
+      "prerequisites": [],
+      "leads_to": [
+        "types-of-sets",
+        "fundamental-principle-of-counting"
+      ]
+    },
+    "types-of-sets": {
+      "canonical_name": "Types of Sets",
+      "slug": "types-of-sets",
+      "grades": [
+        11
+      ],
+      "area": "Set Theory",
+      "description": "Empty, finite, infinite, equal, equivalent, universal sets",
+      "prerequisites": [
+        "sets"
+      ],
+      "leads_to": [
+        "subsets"
+      ]
+    },
+    "subsets": {
+      "canonical_name": "Subsets and Power Set",
+      "slug": "subsets",
+      "grades": [
+        11
+      ],
+      "area": "Set Theory",
+      "description": "A ⊆ B; power set P(A); number of subsets = 2ⁿ",
+      "prerequisites": [
+        "types-of-sets"
+      ],
+      "leads_to": [
+        "set-operations"
+      ]
+    },
+    "set-operations": {
+      "canonical_name": "Set Operations and Venn Diagrams",
+      "slug": "set-operations",
+      "grades": [
+        11
+      ],
+      "area": "Set Theory",
+      "description": "Union, intersection, difference, complement; Venn diagrams; De Morgan's laws",
+      "prerequisites": [
+        "subsets"
+      ],
+      "leads_to": [
+        "cartesian-product-of-sets",
+        "sample-space-events"
+      ]
+    },
+    "cartesian-product-of-sets": {
+      "canonical_name": "Cartesian Product of Sets",
+      "slug": "cartesian-product-of-sets",
+      "grades": [
+        11
+      ],
+      "area": "Set Theory",
+      "description": "A × B = {(a,b) : a∈A, b∈B}",
+      "prerequisites": [
+        "set-operations"
+      ],
+      "leads_to": [
+        "relations"
+      ]
+    },
+    "relations": {
+      "canonical_name": "Relations",
+      "slug": "relations",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "A relation R from A to B is a subset of A × B",
+      "prerequisites": [
+        "cartesian-product-of-sets"
+      ],
+      "leads_to": [
+        "domain-range-codomain",
+        "functions",
+        "types-of-relations"
+      ]
+    },
+    "domain-range-codomain": {
+      "canonical_name": "Domain, Range and Co-domain",
+      "slug": "domain-range-codomain",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Identifying domain, range and co-domain of a relation",
+      "prerequisites": [
+        "relations"
+      ],
+      "leads_to": [
+        "functions"
+      ]
+    },
+    "functions": {
+      "canonical_name": "Functions",
+      "slug": "functions",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "A relation where each input has exactly one output",
+      "prerequisites": [
+        "relations",
+        "domain-range-codomain"
+      ],
+      "leads_to": [
+        "types-of-functions",
+        "trigonometric-functions",
+        "sequences-introduction",
+        "limits-intuitive",
+        "continuity-of-functions",
+        "random-variables"
+      ]
+    },
+    "types-of-functions": {
+      "canonical_name": "Types of Functions",
+      "slug": "types-of-functions",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Algebra",
+      "description": "One-one, onto, bijective, constant, identity functions",
+      "prerequisites": [
+        "functions"
+      ],
+      "leads_to": [
+        "composition-of-functions",
+        "special-functions",
+        "inverse-trigonometric-functions"
+      ]
+    },
+    "composition-of-functions": {
+      "canonical_name": "Composition of Functions",
+      "slug": "composition-of-functions",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Algebra",
+      "description": "fog(x) = f(g(x)); associativity; invertible functions",
+      "prerequisites": [
+        "types-of-functions"
+      ],
+      "leads_to": [
+        "inverse-functions"
+      ]
+    },
+    "special-functions": {
+      "canonical_name": "Special Functions and Their Graphs",
+      "slug": "special-functions",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Modulus, greatest integer, signum, polynomial, rational functions",
+      "prerequisites": [
+        "types-of-functions",
+        "polynomials-in-one-variable",
+        "logarithms"
+      ],
+      "leads_to": []
+    },
+    "radian-measure": {
+      "canonical_name": "Radian Measure",
+      "slug": "radian-measure",
+      "grades": [
+        11
+      ],
+      "area": "Trigonometry",
+      "description": "Arc length = rθ; conversion between degrees and radians",
+      "prerequisites": [
+        "measuring-angles",
+        "circumference-of-circle"
+      ],
+      "leads_to": [
+        "trigonometric-functions"
+      ]
+    },
+    "trigonometric-functions": {
+      "canonical_name": "Trigonometric Functions",
+      "slug": "trigonometric-functions",
+      "grades": [
+        11
+      ],
+      "area": "Trigonometry",
+      "description": "Domain, range, period and graphs of sin, cos, tan etc.",
+      "prerequisites": [
+        "radian-measure",
+        "functions",
+        "trigonometric-identities"
+      ],
+      "leads_to": [
+        "trigonometric-addition-formulas",
+        "trigonometric-equations",
+        "limits-standard",
+        "derivatives-trig",
+        "inverse-trigonometric-functions",
+        "dot-product"
+      ]
+    },
+    "trigonometric-addition-formulas": {
+      "canonical_name": "Sum and Difference Formulas",
+      "slug": "trigonometric-addition-formulas",
+      "grades": [
+        11
+      ],
+      "area": "Trigonometry",
+      "description": "sin(A±B), cos(A±B), tan(A±B)",
+      "prerequisites": [
+        "trigonometric-functions"
+      ],
+      "leads_to": [
+        "multiple-angle-formulas",
+        "product-to-sum-formulas",
+        "trigonometric-equations",
+        "angle-between-two-lines",
+        "integration-using-trig-identities"
+      ]
+    },
+    "multiple-angle-formulas": {
+      "canonical_name": "Multiple and Sub-multiple Angle Formulas",
+      "slug": "multiple-angle-formulas",
+      "grades": [
+        11
+      ],
+      "area": "Trigonometry",
+      "description": "sin2A, cos2A, tan2A; half-angle formulas",
+      "prerequisites": [
+        "trigonometric-addition-formulas"
+      ],
+      "leads_to": []
+    },
+    "product-to-sum-formulas": {
+      "canonical_name": "Product-to-Sum and Sum-to-Product Formulas",
+      "slug": "product-to-sum-formulas",
+      "grades": [
+        11
+      ],
+      "area": "Trigonometry",
+      "description": "sinA+sinB, cosA−cosB etc. as products",
+      "prerequisites": [
+        "trigonometric-addition-formulas"
+      ],
+      "leads_to": []
+    },
+    "trigonometric-equations": {
+      "canonical_name": "Trigonometric Equations",
+      "slug": "trigonometric-equations",
+      "grades": [
+        11
+      ],
+      "area": "Trigonometry",
+      "description": "General solutions of sinθ=k, cosθ=k, tanθ=k",
+      "prerequisites": [
+        "trigonometric-functions",
+        "trigonometric-addition-formulas"
+      ],
+      "leads_to": []
+    },
+    "complex-numbers": {
+      "canonical_name": "Complex Numbers",
+      "slug": "complex-numbers",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Numbers of the form a+bi where i²=−1",
+      "prerequisites": [
+        "quadratic-equations",
+        "real-numbers"
+      ],
+      "leads_to": [
+        "algebra-of-complex-numbers"
+      ]
+    },
+    "algebra-of-complex-numbers": {
+      "canonical_name": "Algebra of Complex Numbers",
+      "slug": "algebra-of-complex-numbers",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Addition, subtraction, multiplication, division; conjugate",
+      "prerequisites": [
+        "complex-numbers"
+      ],
+      "leads_to": [
+        "modulus-and-argument"
+      ]
+    },
+    "modulus-and-argument": {
+      "canonical_name": "Modulus and Argument of a Complex Number",
+      "slug": "modulus-and-argument",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "|z|=√(a²+b²); arg(z)=tan⁻¹(b/a); polar form",
+      "prerequisites": [
+        "algebra-of-complex-numbers",
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "argand-plane"
+      ]
+    },
+    "argand-plane": {
+      "canonical_name": "Argand Plane and Polar Representation",
+      "slug": "argand-plane",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Geometric representation of complex numbers",
+      "prerequisites": [
+        "modulus-and-argument",
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": []
+    },
+    "linear-inequalities": {
+      "canonical_name": "Linear Inequalities",
+      "slug": "linear-inequalities",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Solving and graphing linear inequalities in one and two variables",
+      "prerequisites": [
+        "simple-equations",
+        "real-numbers"
+      ],
+      "leads_to": [
+        "system-of-inequalities"
+      ]
+    },
+    "system-of-inequalities": {
+      "canonical_name": "System of Linear Inequalities",
+      "slug": "system-of-inequalities",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Graphical solution of system of inequalities; feasible region",
+      "prerequisites": [
+        "linear-inequalities",
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": [
+        "linear-programming"
+      ]
+    },
+    "fundamental-principle-of-counting": {
+      "canonical_name": "Fundamental Principle of Counting",
+      "slug": "fundamental-principle-of-counting",
+      "grades": [
+        11
+      ],
+      "area": "Combinatorics",
+      "description": "Addition and multiplication principles",
+      "prerequisites": [
+        "sets"
+      ],
+      "leads_to": [
+        "factorial"
+      ]
+    },
+    "factorial": {
+      "canonical_name": "Factorial Notation",
+      "slug": "factorial",
+      "grades": [
+        11
+      ],
+      "area": "Combinatorics",
+      "description": "n! = n × (n−1) × … × 1; 0! = 1",
+      "prerequisites": [
+        "fundamental-principle-of-counting",
+        "natural-numbers"
+      ],
+      "leads_to": [
+        "permutations"
+      ]
+    },
+    "permutations": {
+      "canonical_name": "Permutations",
+      "slug": "permutations",
+      "grades": [
+        11
+      ],
+      "area": "Combinatorics",
+      "description": "Arrangements of objects: P(n,r) = n!/(n−r)!",
+      "prerequisites": [
+        "factorial"
+      ],
+      "leads_to": [
+        "permutations-with-repetition",
+        "combinations"
+      ]
+    },
+    "permutations-with-repetition": {
+      "canonical_name": "Permutations with Repetition and Restrictions",
+      "slug": "permutations-with-repetition",
+      "grades": [
+        11
+      ],
+      "area": "Combinatorics",
+      "description": "Arrangements when objects repeat or with constraints",
+      "prerequisites": [
+        "permutations"
+      ],
+      "leads_to": []
+    },
+    "combinations": {
+      "canonical_name": "Combinations",
+      "slug": "combinations",
+      "grades": [
+        11
+      ],
+      "area": "Combinatorics",
+      "description": "Selections: C(n,r) = n!/[r!(n−r)!]",
+      "prerequisites": [
+        "permutations"
+      ],
+      "leads_to": [
+        "combinations-applications",
+        "binomial-theorem"
+      ]
+    },
+    "combinations-applications": {
+      "canonical_name": "Applications of Combinations",
+      "slug": "combinations-applications",
+      "grades": [
+        11
+      ],
+      "area": "Combinatorics",
+      "description": "Problems involving selections with/without restrictions",
+      "prerequisites": [
+        "combinations"
+      ],
+      "leads_to": []
+    },
+    "binomial-theorem": {
+      "canonical_name": "Binomial Theorem",
+      "slug": "binomial-theorem",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "(a+b)ⁿ expansion; general term; middle term",
+      "prerequisites": [
+        "combinations",
+        "algebraic-identities",
+        "exponents-and-powers"
+      ],
+      "leads_to": [
+        "binomial-coefficients",
+        "general-term-binomial",
+        "sum-of-special-series",
+        "binomial-distribution"
+      ]
+    },
+    "binomial-coefficients": {
+      "canonical_name": "Properties of Binomial Coefficients",
+      "slug": "binomial-coefficients",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Pascal's triangle; symmetry; sum of coefficients",
+      "prerequisites": [
+        "binomial-theorem"
+      ],
+      "leads_to": []
+    },
+    "general-term-binomial": {
+      "canonical_name": "General and Middle Terms in Binomial Expansion",
+      "slug": "general-term-binomial",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "T(r+1) = C(n,r)·aⁿ⁻ʳ·bʳ; finding specific terms",
+      "prerequisites": [
+        "binomial-theorem"
+      ],
+      "leads_to": []
+    },
+    "sequences-introduction": {
+      "canonical_name": "Sequences — Introduction",
+      "slug": "sequences-introduction",
+      "grades": [
+        11
+      ],
+      "area": "Sequences",
+      "description": "Finite and infinite sequences; notation aₙ",
+      "prerequisites": [
+        "functions",
+        "natural-numbers"
+      ],
+      "leads_to": [
+        "series-introduction"
+      ]
+    },
+    "series-introduction": {
+      "canonical_name": "Series — Introduction",
+      "slug": "series-introduction",
+      "grades": [
+        11
+      ],
+      "area": "Sequences",
+      "description": "Sum of terms of a sequence; sigma notation",
+      "prerequisites": [
+        "sequences-introduction"
+      ],
+      "leads_to": [
+        "ap-advanced",
+        "gp-advanced"
+      ]
+    },
+    "ap-advanced": {
+      "canonical_name": "Arithmetic Series — Sum Formulas",
+      "slug": "ap-advanced",
+      "grades": [
+        11
+      ],
+      "area": "Sequences",
+      "description": "Sₙ formulae; arithmetic mean; n terms between two numbers",
+      "prerequisites": [
+        "ap-sum-of-n-terms",
+        "series-introduction"
+      ],
+      "leads_to": [
+        "sum-of-special-series",
+        "am-gm-inequality"
+      ]
+    },
+    "gp-advanced": {
+      "canonical_name": "Geometric Series and Sum",
+      "slug": "gp-advanced",
+      "grades": [
+        11
+      ],
+      "area": "Sequences",
+      "description": "Sum of n terms; sum to infinity for |r|<1; geometric mean",
+      "prerequisites": [
+        "geometric-progressions",
+        "series-introduction"
+      ],
+      "leads_to": [
+        "sum-of-special-series",
+        "am-gm-inequality"
+      ]
+    },
+    "sum-of-special-series": {
+      "canonical_name": "Sum of Special Series",
+      "slug": "sum-of-special-series",
+      "grades": [
+        11
+      ],
+      "area": "Sequences",
+      "description": "Σn, Σn², Σn³; telescoping series",
+      "prerequisites": [
+        "ap-advanced",
+        "gp-advanced",
+        "binomial-theorem"
+      ],
+      "leads_to": []
+    },
+    "am-gm-inequality": {
+      "canonical_name": "AM-GM Inequality",
+      "slug": "am-gm-inequality",
+      "grades": [
+        11
+      ],
+      "area": "Sequences",
+      "description": "Arithmetic mean ≥ Geometric mean; applications",
+      "prerequisites": [
+        "ap-advanced",
+        "gp-advanced"
+      ],
+      "leads_to": []
+    },
+    "principle-of-mathematical-induction": {
+      "canonical_name": "Principle of Mathematical Induction",
+      "slug": "principle-of-mathematical-induction",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Base case + inductive step; proving statements for all n∈ℕ",
+      "prerequisites": [
+        "natural-numbers"
+      ],
+      "leads_to": []
+    },
+    "slope-of-a-line": {
+      "canonical_name": "Slope of a Line",
+      "slug": "slope-of-a-line",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "m = (y₂−y₁)/(x₂−x₁); angle of inclination",
+      "prerequisites": [
+        "distance-formula",
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "straight-lines",
+        "tangent-and-normal"
+      ]
+    },
+    "straight-lines": {
+      "canonical_name": "Equation of a Straight Line",
+      "slug": "straight-lines",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Point-slope, slope-intercept, two-point, intercept forms",
+      "prerequisites": [
+        "slope-of-a-line",
+        "section-formula"
+      ],
+      "leads_to": [
+        "general-equation-of-line",
+        "angle-between-two-lines",
+        "family-of-lines",
+        "linear-programming",
+        "regression-line"
+      ]
+    },
+    "general-equation-of-line": {
+      "canonical_name": "General Equation of a Line",
+      "slug": "general-equation-of-line",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "ax+by+c=0; converting between forms",
+      "prerequisites": [
+        "straight-lines"
+      ],
+      "leads_to": [
+        "distance-point-to-line"
+      ]
+    },
+    "angle-between-two-lines": {
+      "canonical_name": "Angle Between Two Lines",
+      "slug": "angle-between-two-lines",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "tanθ = |m₁−m₂|/(1+m₁m₂)",
+      "prerequisites": [
+        "straight-lines",
+        "trigonometric-addition-formulas"
+      ],
+      "leads_to": []
+    },
+    "distance-point-to-line": {
+      "canonical_name": "Distance of a Point from a Line",
+      "slug": "distance-point-to-line",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "|ax₁+by₁+c|/√(a²+b²)",
+      "prerequisites": [
+        "general-equation-of-line"
+      ],
+      "leads_to": []
+    },
+    "family-of-lines": {
+      "canonical_name": "Family of Lines",
+      "slug": "family-of-lines",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "L₁ + λL₂ = 0; concurrent lines; condition for concurrency",
+      "prerequisites": [
+        "straight-lines",
+        "pair-of-linear-equations"
+      ],
+      "leads_to": []
+    },
+    "circle-equation": {
+      "canonical_name": "Equation of a Circle",
+      "slug": "circle-equation",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "(x−h)²+(y−k)²=r²; general form",
+      "prerequisites": [
+        "distance-formula",
+        "circles"
+      ],
+      "leads_to": [
+        "conic-sections"
+      ]
+    },
+    "conic-sections": {
+      "canonical_name": "Conic Sections — Introduction",
+      "slug": "conic-sections",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Circle, parabola, ellipse, hyperbola as sections of a cone",
+      "prerequisites": [
+        "circle-equation"
+      ],
+      "leads_to": [
+        "parabola",
+        "ellipse",
+        "hyperbola",
+        "area-under-curves"
+      ]
+    },
+    "parabola": {
+      "canonical_name": "Parabola",
+      "slug": "parabola",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "y²=4ax; focus, directrix, vertex, axis, latus rectum",
+      "prerequisites": [
+        "conic-sections"
+      ],
+      "leads_to": []
+    },
+    "ellipse": {
+      "canonical_name": "Ellipse",
+      "slug": "ellipse",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "x²/a²+y²/b²=1; foci, vertices, eccentricity, latus rectum",
+      "prerequisites": [
+        "conic-sections"
+      ],
+      "leads_to": [
+        "hyperbola"
+      ]
+    },
+    "hyperbola": {
+      "canonical_name": "Hyperbola",
+      "slug": "hyperbola",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "x²/a²−y²/b²=1; transverse/conjugate axes; asymptotes",
+      "prerequisites": [
+        "conic-sections",
+        "ellipse"
+      ],
+      "leads_to": []
+    },
+    "introduction-3d-geometry": {
+      "canonical_name": "Introduction to 3D Geometry",
+      "slug": "introduction-3d-geometry",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "3D coordinate system; octants; distance between two points in 3D",
+      "prerequisites": [
+        "cartesian-coordinate-system",
+        "distance-formula"
+      ],
+      "leads_to": [
+        "section-formula-3d",
+        "vectors",
+        "direction-cosines-ratios"
+      ]
+    },
+    "section-formula-3d": {
+      "canonical_name": "Section Formula in 3D",
+      "slug": "section-formula-3d",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Dividing a line segment in 3D space in a given ratio",
+      "prerequisites": [
+        "introduction-3d-geometry",
+        "section-formula"
+      ],
+      "leads_to": []
+    },
+    "limits-intuitive": {
+      "canonical_name": "Limits — Intuitive Idea",
+      "slug": "limits-intuitive",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "Left/right-hand limits; limit of a function at a point",
+      "prerequisites": [
+        "functions",
+        "real-numbers"
+      ],
+      "leads_to": [
+        "limits-algebra"
+      ]
+    },
+    "limits-algebra": {
+      "canonical_name": "Algebra of Limits",
+      "slug": "limits-algebra",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "Limit laws: sum, product, quotient; squeeze theorem",
+      "prerequisites": [
+        "limits-intuitive"
+      ],
+      "leads_to": [
+        "limits-standard",
+        "derivatives-first-principles",
+        "continuity-of-functions",
+        "l-hopital-s-rule"
+      ]
+    },
+    "limits-standard": {
+      "canonical_name": "Standard Limits",
+      "slug": "limits-standard",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "lim sinx/x = 1; lim (eˣ−1)/x = 1; lim (1+1/n)ⁿ = e",
+      "prerequisites": [
+        "limits-algebra",
+        "trigonometric-functions"
+      ],
+      "leads_to": [
+        "derivatives-trig"
+      ]
+    },
+    "derivatives-first-principles": {
+      "canonical_name": "Derivatives — First Principles",
+      "slug": "derivatives-first-principles",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "f′(x) = lim[h→0] [f(x+h)−f(x)]/h",
+      "prerequisites": [
+        "limits-algebra"
+      ],
+      "leads_to": [
+        "derivatives-rules-basic"
+      ]
+    },
+    "derivatives-rules-basic": {
+      "canonical_name": "Basic Differentiation Rules",
+      "slug": "derivatives-rules-basic",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "Power rule, constant multiple, sum/difference rules",
+      "prerequisites": [
+        "derivatives-first-principles"
+      ],
+      "leads_to": [
+        "derivatives-trig",
+        "differentiability",
+        "increasing-decreasing-functions",
+        "tangent-and-normal",
+        "integration-indefinite",
+        "differential-equations-intro"
+      ]
+    },
+    "derivatives-trig": {
+      "canonical_name": "Derivatives of Trigonometric Functions",
+      "slug": "derivatives-trig",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "d/dx(sinx)=cosx; d/dx(cosx)=−sinx; etc.",
+      "prerequisites": [
+        "derivatives-rules-basic",
+        "trigonometric-functions",
+        "limits-standard"
+      ],
+      "leads_to": [
+        "integration-indefinite"
+      ]
+    },
+    "measures-of-dispersion": {
+      "canonical_name": "Measures of Dispersion",
+      "slug": "measures-of-dispersion",
+      "grades": [
+        11
+      ],
+      "area": "Statistics",
+      "description": "Range, mean deviation, variance, standard deviation",
+      "prerequisites": [
+        "mean-of-grouped-data",
+        "statistics-measures"
+      ],
+      "leads_to": [
+        "variance-and-standard-deviation"
+      ]
+    },
+    "variance-and-standard-deviation": {
+      "canonical_name": "Variance and Standard Deviation",
+      "slug": "variance-and-standard-deviation",
+      "grades": [
+        11
+      ],
+      "area": "Statistics",
+      "description": "σ² = Σ(xᵢ−x̄)²/n; shortcut formula; for frequency distributions",
+      "prerequisites": [
+        "measures-of-dispersion"
+      ],
+      "leads_to": [
+        "coefficient-of-variation",
+        "mean-variance-rv",
+        "correlation"
+      ]
+    },
+    "coefficient-of-variation": {
+      "canonical_name": "Coefficient of Variation",
+      "slug": "coefficient-of-variation",
+      "grades": [
+        11
+      ],
+      "area": "Statistics",
+      "description": "CV = (σ/x̄) × 100; comparing variability across datasets",
+      "prerequisites": [
+        "variance-and-standard-deviation"
+      ],
+      "leads_to": []
+    },
+    "sample-space-events": {
+      "canonical_name": "Sample Space and Events",
+      "slug": "sample-space-events",
+      "grades": [
+        11
+      ],
+      "area": "Probability",
+      "description": "Sample space as a set; simple, compound, mutually exclusive, exhaustive events",
+      "prerequisites": [
+        "set-operations",
+        "probability-basic"
+      ],
+      "leads_to": [
+        "axiomatic-probability"
+      ]
+    },
+    "axiomatic-probability": {
+      "canonical_name": "Axiomatic Approach to Probability",
+      "slug": "axiomatic-probability",
+      "grades": [
+        11
+      ],
+      "area": "Probability",
+      "description": "Kolmogorov axioms; P(A∪B) = P(A)+P(B)−P(A∩B)",
+      "prerequisites": [
+        "sample-space-events"
+      ],
+      "leads_to": [
+        "addition-theorem-probability",
+        "conditional-probability",
+        "random-variables"
+      ]
+    },
+    "addition-theorem-probability": {
+      "canonical_name": "Addition Theorem of Probability",
+      "slug": "addition-theorem-probability",
+      "grades": [
+        11
+      ],
+      "area": "Probability",
+      "description": "P(A∪B) for mutually exclusive and non-mutually exclusive events",
+      "prerequisites": [
+        "axiomatic-probability"
+      ],
+      "leads_to": []
+    },
+    "logarithms": {
+      "canonical_name": "Logarithms",
+      "slug": "logarithms",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Algebra",
+      "description": "log_a(b); laws: product, quotient, power; change of base",
+      "prerequisites": [
+        "exponents-and-powers",
+        "real-numbers"
+      ],
+      "leads_to": [
+        "special-functions",
+        "common-and-natural-logarithms",
+        "logarithmic-differentiation"
+      ]
+    },
+    "common-and-natural-logarithms": {
+      "canonical_name": "Common and Natural Logarithms",
+      "slug": "common-and-natural-logarithms",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "log₁₀ and ln; relationship ln x = log_e(x)",
+      "prerequisites": [
+        "logarithms"
+      ],
+      "leads_to": [
+        "exponential-and-log-functions"
+      ]
+    },
+    "synthetic-division": {
+      "canonical_name": "Synthetic Division",
+      "slug": "synthetic-division",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Algebra",
+      "description": "Quick algorithm for dividing a polynomial by (x−c)",
+      "prerequisites": [
+        "division-of-polynomials",
+        "remainder-theorem"
+      ],
+      "leads_to": []
+    },
+    "vieta-s-formulas": {
+      "canonical_name": "Vieta's Formulas",
+      "slug": "vieta-s-formulas",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Algebra",
+      "description": "Relations between roots and coefficients for general polynomials",
+      "prerequisites": [
+        "zeroes-coefficients-relationship"
+      ],
+      "leads_to": []
+    },
+    "partial-fractions": {
+      "canonical_name": "Partial Fractions",
+      "slug": "partial-fractions",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Algebra",
+      "description": "Decomposing p(x)/q(x) into simpler fractions",
+      "prerequisites": [
+        "factorisation-of-polynomials",
+        "rational-number-operations"
+      ],
+      "leads_to": []
+    },
+    "scatter-plot": {
+      "canonical_name": "Scatter Plot",
+      "slug": "scatter-plot",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Statistics",
+      "description": "Plotting bivariate data on a coordinate plane",
+      "prerequisites": [
+        "cartesian-coordinate-system",
+        "data-collection-and-organisation"
+      ],
+      "leads_to": [
+        "correlation"
+      ]
+    },
+    "correlation": {
+      "canonical_name": "Correlation",
+      "slug": "correlation",
+      "grades": [
+        11
+      ],
+      "area": "Statistics",
+      "description": "Karl Pearson's coefficient; positive, negative, no correlation",
+      "prerequisites": [
+        "scatter-plot",
+        "variance-and-standard-deviation"
+      ],
+      "leads_to": [
+        "regression-line"
+      ]
+    },
+    "regression-line": {
+      "canonical_name": "Regression Line",
+      "slug": "regression-line",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Statistics",
+      "description": "Line of best fit; y on x and x on y regression equations",
+      "prerequisites": [
+        "correlation",
+        "straight-lines"
+      ],
+      "leads_to": []
+    }
+  }
+}

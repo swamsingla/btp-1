@@ -1,0 +1,688 @@
+{
+  "grade": 6,
+  "subject": "maths",
+  "total_concepts": 40,
+  "concepts": {
+    "natural-numbers": {
+      "canonical_name": "Natural Numbers",
+      "slug": "natural-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Counting numbers 1, 2, 3, … — the most basic number set",
+      "prerequisites": [],
+      "leads_to": [
+        "whole-numbers",
+        "factorial",
+        "sequences-introduction",
+        "principle-of-mathematical-induction"
+      ]
+    },
+    "whole-numbers": {
+      "canonical_name": "Whole Numbers",
+      "slug": "whole-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Natural numbers together with zero: 0, 1, 2, 3, …",
+      "prerequisites": [
+        "natural-numbers"
+      ],
+      "leads_to": [
+        "place-value",
+        "number-line",
+        "integers",
+        "fractions",
+        "even-and-odd-numbers",
+        "factors-and-multiples",
+        "number-patterns",
+        "perimeter"
+      ]
+    },
+    "place-value": {
+      "canonical_name": "Place Value and Indian Numeration",
+      "slug": "place-value",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Value of each digit determined by position; Indian and International systems up to crores",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "decimals"
+      ]
+    },
+    "number-line": {
+      "canonical_name": "Number Line",
+      "slug": "number-line",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Representation of numbers as points on a straight line; ordering and spacing",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "integers",
+        "number-line-rational",
+        "cartesian-coordinate-system"
+      ]
+    },
+    "integers": {
+      "canonical_name": "Integers",
+      "slug": "integers",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Positive and negative whole numbers including zero",
+      "prerequisites": [
+        "whole-numbers",
+        "number-line"
+      ],
+      "leads_to": [
+        "integer-operations",
+        "rational-numbers"
+      ]
+    },
+    "integer-operations": {
+      "canonical_name": "Operations on Integers",
+      "slug": "integer-operations",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Addition, subtraction, multiplication and division of integers; sign rules",
+      "prerequisites": [
+        "integers"
+      ],
+      "leads_to": [
+        "decimal-operations",
+        "rational-number-operations",
+        "algebraic-expressions",
+        "cartesian-coordinate-system"
+      ]
+    },
+    "fractions": {
+      "canonical_name": "Fractions",
+      "slug": "fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Numbers of the form a/b representing parts of a whole",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "types-of-fractions",
+        "equivalent-fractions",
+        "decimals",
+        "conversion-fractions-decimals",
+        "bar-graphs-and-pictographs",
+        "ratios-and-proportions",
+        "percentage",
+        "rational-numbers",
+        "mean-median-mode",
+        "theoretical-probability"
+      ]
+    },
+    "types-of-fractions": {
+      "canonical_name": "Types of Fractions",
+      "slug": "types-of-fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Proper, improper and mixed fractions; unit fractions",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": []
+    },
+    "equivalent-fractions": {
+      "canonical_name": "Equivalent Fractions",
+      "slug": "equivalent-fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Fractions representing the same value; cross-multiplication test",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": [
+        "comparing-fractions"
+      ]
+    },
+    "comparing-fractions": {
+      "canonical_name": "Comparing and Ordering Fractions",
+      "slug": "comparing-fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Using common denominators or cross-multiplication to compare fractions",
+      "prerequisites": [
+        "equivalent-fractions",
+        "lcm-and-gcd"
+      ],
+      "leads_to": [
+        "addition-subtraction-of-fractions"
+      ]
+    },
+    "addition-subtraction-of-fractions": {
+      "canonical_name": "Addition and Subtraction of Fractions",
+      "slug": "addition-subtraction-of-fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Adding/subtracting fractions with like and unlike denominators",
+      "prerequisites": [
+        "comparing-fractions",
+        "lcm-and-gcd"
+      ],
+      "leads_to": [
+        "multiplication-division-of-fractions"
+      ]
+    },
+    "decimals": {
+      "canonical_name": "Decimals",
+      "slug": "decimals",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Representing fractions with denominators as powers of 10",
+      "prerequisites": [
+        "fractions",
+        "place-value"
+      ],
+      "leads_to": [
+        "conversion-fractions-decimals",
+        "percentage",
+        "decimal-operations",
+        "rational-numbers",
+        "circumference-of-circle"
+      ]
+    },
+    "conversion-fractions-decimals": {
+      "canonical_name": "Conversion Between Fractions and Decimals",
+      "slug": "conversion-fractions-decimals",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Converting fractions to decimals and vice versa",
+      "prerequisites": [
+        "decimals",
+        "fractions"
+      ],
+      "leads_to": [
+        "decimal-expansions-of-real-numbers"
+      ]
+    },
+    "even-and-odd-numbers": {
+      "canonical_name": "Even and Odd Numbers",
+      "slug": "even-and-odd-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Classification of whole numbers by divisibility by 2; parity",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": []
+    },
+    "factors-and-multiples": {
+      "canonical_name": "Factors and Multiples",
+      "slug": "factors-and-multiples",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Factor as a divisor; multiple as a product; factor pairs",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "prime-numbers",
+        "divisibility-rules"
+      ]
+    },
+    "prime-numbers": {
+      "canonical_name": "Prime Numbers",
+      "slug": "prime-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Numbers greater than 1 with exactly two distinct factors",
+      "prerequisites": [
+        "factors-and-multiples"
+      ],
+      "leads_to": [
+        "composite-numbers",
+        "coprime-numbers",
+        "prime-factorisation"
+      ]
+    },
+    "composite-numbers": {
+      "canonical_name": "Composite Numbers",
+      "slug": "composite-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Numbers with more than two factors",
+      "prerequisites": [
+        "prime-numbers"
+      ],
+      "leads_to": []
+    },
+    "coprime-numbers": {
+      "canonical_name": "Co-prime Numbers",
+      "slug": "coprime-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Pairs of numbers whose GCD is 1",
+      "prerequisites": [
+        "prime-numbers"
+      ],
+      "leads_to": []
+    },
+    "divisibility-rules": {
+      "canonical_name": "Divisibility Rules",
+      "slug": "divisibility-rules",
+      "grades": [
+        6,
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Quick tests for divisibility by 2, 3, 4, 5, 6, 8, 9, 10, 11",
+      "prerequisites": [
+        "factors-and-multiples"
+      ],
+      "leads_to": [
+        "prime-factorisation",
+        "modular-arithmetic"
+      ]
+    },
+    "prime-factorisation": {
+      "canonical_name": "Prime Factorisation",
+      "slug": "prime-factorisation",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Expressing a number as a product of prime factors; factor trees",
+      "prerequisites": [
+        "prime-numbers",
+        "divisibility-rules"
+      ],
+      "leads_to": [
+        "lcm-and-gcd",
+        "square-numbers",
+        "cube-roots",
+        "fundamental-theorem-of-arithmetic"
+      ]
+    },
+    "lcm-and-gcd": {
+      "canonical_name": "LCM and GCD (HCF)",
+      "slug": "lcm-and-gcd",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Theory",
+      "description": "Least Common Multiple and Greatest Common Divisor using prime factorisation",
+      "prerequisites": [
+        "prime-factorisation"
+      ],
+      "leads_to": [
+        "comparing-fractions",
+        "addition-subtraction-of-fractions",
+        "euclidean-algorithm",
+        "fundamental-theorem-of-arithmetic"
+      ]
+    },
+    "euclidean-algorithm": {
+      "canonical_name": "Euclidean Algorithm",
+      "slug": "euclidean-algorithm",
+      "grades": [
+        6,
+        10
+      ],
+      "area": "Number Theory",
+      "description": "Efficient method for computing GCD using repeated division",
+      "prerequisites": [
+        "lcm-and-gcd"
+      ],
+      "leads_to": [
+        "euclidean-division-lemma",
+        "modular-arithmetic"
+      ]
+    },
+    "number-patterns": {
+      "canonical_name": "Number Patterns and Sequences",
+      "slug": "number-patterns",
+      "grades": [
+        6
+      ],
+      "area": "Patterns and Sequences",
+      "description": "Identifying, extending and describing rules for number sequences",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "fibonacci-virahanka-sequence",
+        "square-numbers",
+        "arithmetic-progressions"
+      ]
+    },
+    "fibonacci-virahanka-sequence": {
+      "canonical_name": "Fibonacci–Virahanka Sequence",
+      "slug": "fibonacci-virahanka-sequence",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Patterns and Sequences",
+      "description": "The sequence where each term is the sum of the two preceding terms",
+      "prerequisites": [
+        "number-patterns"
+      ],
+      "leads_to": []
+    },
+    "basic-geometrical-concepts": {
+      "canonical_name": "Points, Lines and Planes",
+      "slug": "basic-geometrical-concepts",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "Fundamental undefined terms: point, line, ray, line segment, plane",
+      "prerequisites": [],
+      "leads_to": [
+        "angles",
+        "line-of-symmetry",
+        "basic-constructions",
+        "perimeter",
+        "circles",
+        "euclid-definitions-axioms-postulates"
+      ]
+    },
+    "angles": {
+      "canonical_name": "Angles",
+      "slug": "angles",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Geometry",
+      "description": "Amount of rotation between two rays sharing a common endpoint",
+      "prerequisites": [
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "measuring-angles",
+        "rotational-symmetry",
+        "basic-constructions",
+        "parallel-lines-and-transversals",
+        "types-of-triangles"
+      ]
+    },
+    "measuring-angles": {
+      "canonical_name": "Measuring Angles with Protractor",
+      "slug": "measuring-angles",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "Using a protractor to measure angles in degrees",
+      "prerequisites": [
+        "angles"
+      ],
+      "leads_to": [
+        "types-of-angles",
+        "radian-measure"
+      ]
+    },
+    "types-of-angles": {
+      "canonical_name": "Types of Angles and Angle Pairs",
+      "slug": "types-of-angles",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Geometry",
+      "description": "Acute, right, obtuse, straight, reflex; complementary and supplementary",
+      "prerequisites": [
+        "measuring-angles"
+      ],
+      "leads_to": [
+        "parallel-lines-and-transversals",
+        "angle-sum-property-triangle",
+        "quadrilaterals"
+      ]
+    },
+    "line-of-symmetry": {
+      "canonical_name": "Line Symmetry and Reflection",
+      "slug": "line-of-symmetry",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "A line dividing a figure into two congruent halves that are mirror images",
+      "prerequisites": [
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "rotational-symmetry"
+      ]
+    },
+    "rotational-symmetry": {
+      "canonical_name": "Rotational Symmetry",
+      "slug": "rotational-symmetry",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "Symmetry under rotation; order of rotational symmetry",
+      "prerequisites": [
+        "line-of-symmetry",
+        "angles"
+      ],
+      "leads_to": []
+    },
+    "basic-constructions": {
+      "canonical_name": "Basic Geometric Constructions",
+      "slug": "basic-constructions",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Geometry",
+      "description": "Using compass and straightedge to construct angles, bisectors and perpendiculars",
+      "prerequisites": [
+        "angles",
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "constructions-triangles",
+        "perpendicular-bisector",
+        "constructions-advanced",
+        "construction-of-tangents"
+      ]
+    },
+    "perimeter": {
+      "canonical_name": "Perimeter",
+      "slug": "perimeter",
+      "grades": [
+        6
+      ],
+      "area": "Mensuration",
+      "description": "Total length of the boundary of a 2D shape",
+      "prerequisites": [
+        "whole-numbers",
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "area-rectangle-square"
+      ]
+    },
+    "area-rectangle-square": {
+      "canonical_name": "Area of Rectangle and Square",
+      "slug": "area-rectangle-square",
+      "grades": [
+        6
+      ],
+      "area": "Mensuration",
+      "description": "Length × width for rectangle; side² for square",
+      "prerequisites": [
+        "perimeter"
+      ],
+      "leads_to": [
+        "area",
+        "surface-area-cuboid-cube"
+      ]
+    },
+    "area": {
+      "canonical_name": "Area of 2D Figures",
+      "slug": "area",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Mensuration",
+      "description": "Measuring the region enclosed by a plane figure",
+      "prerequisites": [
+        "area-rectangle-square"
+      ],
+      "leads_to": [
+        "area-of-triangles"
+      ]
+    },
+    "data-collection-and-organisation": {
+      "canonical_name": "Data Collection and Organisation",
+      "slug": "data-collection-and-organisation",
+      "grades": [
+        6
+      ],
+      "area": "Statistics",
+      "description": "Gathering, recording and organising raw data; tally marks",
+      "prerequisites": [],
+      "leads_to": [
+        "bar-graphs-and-pictographs",
+        "frequency-distribution",
+        "mean-median-mode",
+        "probability-basic",
+        "scatter-plot"
+      ]
+    },
+    "bar-graphs-and-pictographs": {
+      "canonical_name": "Bar Graphs, Pictographs and Pie Charts",
+      "slug": "bar-graphs-and-pictographs",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Statistics",
+      "description": "Visual representations of categorical data",
+      "prerequisites": [
+        "data-collection-and-organisation",
+        "fractions"
+      ],
+      "leads_to": [
+        "data-representation-grouped"
+      ]
+    },
+    "frequency-distribution": {
+      "canonical_name": "Frequency Distribution Table",
+      "slug": "frequency-distribution",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Statistics",
+      "description": "Organising data into classes with frequencies",
+      "prerequisites": [
+        "data-collection-and-organisation"
+      ],
+      "leads_to": [
+        "data-representation-grouped"
+      ]
+    },
+    "ratios-and-proportions": {
+      "canonical_name": "Ratios and Proportions",
+      "slug": "ratios-and-proportions",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Comparing quantities; equivalent ratios; proportion as equality of ratios",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": [
+        "percentage",
+        "similar-triangles",
+        "circumference-of-circle",
+        "unitary-method-and-direct-proportion",
+        "trigonometric-ratios",
+        "section-formula"
+      ]
+    },
+    "percentage": {
+      "canonical_name": "Percentage",
+      "slug": "percentage",
+      "grades": [
+        6,
+        7,
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "A ratio expressed per hundred",
+      "prerequisites": [
+        "decimals",
+        "fractions",
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "percentage-change",
+        "profit-loss-percentage",
+        "simple-interest"
+      ]
+    },
+    "percentage-change": {
+      "canonical_name": "Percentage Increase and Decrease",
+      "slug": "percentage-change",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Computing and interpreting percentage change",
+      "prerequisites": [
+        "percentage"
+      ],
+      "leads_to": [
+        "tax-and-vat"
+      ]
+    }
+  }
+}

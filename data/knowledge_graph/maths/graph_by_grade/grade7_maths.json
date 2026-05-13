@@ -1,0 +1,835 @@
+{
+  "grade": 7,
+  "subject": "maths",
+  "total_concepts": 48,
+  "concepts": {
+    "integers": {
+      "canonical_name": "Integers",
+      "slug": "integers",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Positive and negative whole numbers including zero",
+      "prerequisites": [
+        "whole-numbers",
+        "number-line"
+      ],
+      "leads_to": [
+        "integer-operations",
+        "rational-numbers"
+      ]
+    },
+    "integer-operations": {
+      "canonical_name": "Operations on Integers",
+      "slug": "integer-operations",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Addition, subtraction, multiplication and division of integers; sign rules",
+      "prerequisites": [
+        "integers"
+      ],
+      "leads_to": [
+        "decimal-operations",
+        "rational-number-operations",
+        "algebraic-expressions",
+        "cartesian-coordinate-system"
+      ]
+    },
+    "decimals": {
+      "canonical_name": "Decimals",
+      "slug": "decimals",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Representing fractions with denominators as powers of 10",
+      "prerequisites": [
+        "fractions",
+        "place-value"
+      ],
+      "leads_to": [
+        "conversion-fractions-decimals",
+        "percentage",
+        "decimal-operations",
+        "rational-numbers",
+        "circumference-of-circle"
+      ]
+    },
+    "conversion-fractions-decimals": {
+      "canonical_name": "Conversion Between Fractions and Decimals",
+      "slug": "conversion-fractions-decimals",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Converting fractions to decimals and vice versa",
+      "prerequisites": [
+        "decimals",
+        "fractions"
+      ],
+      "leads_to": [
+        "decimal-expansions-of-real-numbers"
+      ]
+    },
+    "lcm-and-gcd": {
+      "canonical_name": "LCM and GCD (HCF)",
+      "slug": "lcm-and-gcd",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Theory",
+      "description": "Least Common Multiple and Greatest Common Divisor using prime factorisation",
+      "prerequisites": [
+        "prime-factorisation"
+      ],
+      "leads_to": [
+        "comparing-fractions",
+        "addition-subtraction-of-fractions",
+        "euclidean-algorithm",
+        "fundamental-theorem-of-arithmetic"
+      ]
+    },
+    "fibonacci-virahanka-sequence": {
+      "canonical_name": "Fibonacci–Virahanka Sequence",
+      "slug": "fibonacci-virahanka-sequence",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Patterns and Sequences",
+      "description": "The sequence where each term is the sum of the two preceding terms",
+      "prerequisites": [
+        "number-patterns"
+      ],
+      "leads_to": []
+    },
+    "angles": {
+      "canonical_name": "Angles",
+      "slug": "angles",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Geometry",
+      "description": "Amount of rotation between two rays sharing a common endpoint",
+      "prerequisites": [
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "measuring-angles",
+        "rotational-symmetry",
+        "basic-constructions",
+        "parallel-lines-and-transversals",
+        "types-of-triangles"
+      ]
+    },
+    "types-of-angles": {
+      "canonical_name": "Types of Angles and Angle Pairs",
+      "slug": "types-of-angles",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Geometry",
+      "description": "Acute, right, obtuse, straight, reflex; complementary and supplementary",
+      "prerequisites": [
+        "measuring-angles"
+      ],
+      "leads_to": [
+        "parallel-lines-and-transversals",
+        "angle-sum-property-triangle",
+        "quadrilaterals"
+      ]
+    },
+    "basic-constructions": {
+      "canonical_name": "Basic Geometric Constructions",
+      "slug": "basic-constructions",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Geometry",
+      "description": "Using compass and straightedge to construct angles, bisectors and perpendiculars",
+      "prerequisites": [
+        "angles",
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "constructions-triangles",
+        "perpendicular-bisector",
+        "constructions-advanced",
+        "construction-of-tangents"
+      ]
+    },
+    "area": {
+      "canonical_name": "Area of 2D Figures",
+      "slug": "area",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Mensuration",
+      "description": "Measuring the region enclosed by a plane figure",
+      "prerequisites": [
+        "area-rectangle-square"
+      ],
+      "leads_to": [
+        "area-of-triangles"
+      ]
+    },
+    "bar-graphs-and-pictographs": {
+      "canonical_name": "Bar Graphs, Pictographs and Pie Charts",
+      "slug": "bar-graphs-and-pictographs",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Statistics",
+      "description": "Visual representations of categorical data",
+      "prerequisites": [
+        "data-collection-and-organisation",
+        "fractions"
+      ],
+      "leads_to": [
+        "data-representation-grouped"
+      ]
+    },
+    "frequency-distribution": {
+      "canonical_name": "Frequency Distribution Table",
+      "slug": "frequency-distribution",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Statistics",
+      "description": "Organising data into classes with frequencies",
+      "prerequisites": [
+        "data-collection-and-organisation"
+      ],
+      "leads_to": [
+        "data-representation-grouped"
+      ]
+    },
+    "ratios-and-proportions": {
+      "canonical_name": "Ratios and Proportions",
+      "slug": "ratios-and-proportions",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Comparing quantities; equivalent ratios; proportion as equality of ratios",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": [
+        "percentage",
+        "similar-triangles",
+        "circumference-of-circle",
+        "unitary-method-and-direct-proportion",
+        "trigonometric-ratios",
+        "section-formula"
+      ]
+    },
+    "percentage": {
+      "canonical_name": "Percentage",
+      "slug": "percentage",
+      "grades": [
+        6,
+        7,
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "A ratio expressed per hundred",
+      "prerequisites": [
+        "decimals",
+        "fractions",
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "percentage-change",
+        "profit-loss-percentage",
+        "simple-interest"
+      ]
+    },
+    "percentage-change": {
+      "canonical_name": "Percentage Increase and Decrease",
+      "slug": "percentage-change",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Computing and interpreting percentage change",
+      "prerequisites": [
+        "percentage"
+      ],
+      "leads_to": [
+        "tax-and-vat"
+      ]
+    },
+    "decimal-operations": {
+      "canonical_name": "Decimal Operations",
+      "slug": "decimal-operations",
+      "grades": [
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Addition, subtraction, multiplication and division of decimals",
+      "prerequisites": [
+        "decimals",
+        "integer-operations"
+      ],
+      "leads_to": [
+        "experimental-probability",
+        "speed-distance-time"
+      ]
+    },
+    "multiplication-division-of-fractions": {
+      "canonical_name": "Multiplication and Division of Fractions",
+      "slug": "multiplication-division-of-fractions",
+      "grades": [
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Multiplying and dividing proper/improper/mixed fractions",
+      "prerequisites": [
+        "addition-subtraction-of-fractions"
+      ],
+      "leads_to": []
+    },
+    "rational-numbers": {
+      "canonical_name": "Rational Numbers",
+      "slug": "rational-numbers",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Number Systems",
+      "description": "Numbers expressible as p/q where p, q are integers and q ≠ 0",
+      "prerequisites": [
+        "fractions",
+        "integers",
+        "decimals"
+      ],
+      "leads_to": [
+        "rational-number-operations",
+        "number-line-rational",
+        "algebraic-expressions",
+        "exponents-and-powers",
+        "irrational-numbers",
+        "real-numbers"
+      ]
+    },
+    "rational-number-operations": {
+      "canonical_name": "Operations on Rational Numbers",
+      "slug": "rational-number-operations",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Number Systems",
+      "description": "Addition, subtraction, multiplication, division; properties",
+      "prerequisites": [
+        "rational-numbers",
+        "integer-operations"
+      ],
+      "leads_to": [
+        "linear-equations-one-variable",
+        "partial-fractions"
+      ]
+    },
+    "number-line-rational": {
+      "canonical_name": "Rational Numbers on the Number Line",
+      "slug": "number-line-rational",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Number Systems",
+      "description": "Locating and ordering rational numbers on the number line",
+      "prerequisites": [
+        "rational-numbers",
+        "number-line"
+      ],
+      "leads_to": []
+    },
+    "algebraic-expressions": {
+      "canonical_name": "Algebraic Expressions",
+      "slug": "algebraic-expressions",
+      "grades": [
+        7
+      ],
+      "area": "Algebra",
+      "description": "Expressions built from variables and constants using arithmetic operations",
+      "prerequisites": [
+        "integer-operations",
+        "rational-numbers"
+      ],
+      "leads_to": [
+        "terms-coefficients-degree",
+        "simple-equations",
+        "polynomials-in-one-variable",
+        "arithmetic-progressions"
+      ]
+    },
+    "terms-coefficients-degree": {
+      "canonical_name": "Terms, Coefficients and Degree",
+      "slug": "terms-coefficients-degree",
+      "grades": [
+        7
+      ],
+      "area": "Algebra",
+      "description": "Identifying terms, numerical coefficients, and degree of an expression",
+      "prerequisites": [
+        "algebraic-expressions"
+      ],
+      "leads_to": [
+        "simplification-of-algebraic-expressions",
+        "polynomials-in-one-variable"
+      ]
+    },
+    "simplification-of-algebraic-expressions": {
+      "canonical_name": "Simplification of Algebraic Expressions",
+      "slug": "simplification-of-algebraic-expressions",
+      "grades": [
+        7
+      ],
+      "area": "Algebra",
+      "description": "Collecting like terms; simplifying using properties",
+      "prerequisites": [
+        "terms-coefficients-degree"
+      ],
+      "leads_to": [
+        "algebraic-identities"
+      ]
+    },
+    "algebraic-identities": {
+      "canonical_name": "Algebraic Identities",
+      "slug": "algebraic-identities",
+      "grades": [
+        7,
+        8,
+        9
+      ],
+      "area": "Algebra",
+      "description": "Standard identities: (a±b)², a²−b², (a+b+c)², (x+a)(x+b)",
+      "prerequisites": [
+        "simplification-of-algebraic-expressions"
+      ],
+      "leads_to": [
+        "factorisation-expressions",
+        "surds-and-rationalisation",
+        "factorisation-of-polynomials",
+        "quadratic-equations",
+        "completing-the-square",
+        "trigonometric-identities",
+        "binomial-theorem"
+      ]
+    },
+    "simple-equations": {
+      "canonical_name": "Simple Equations in One Variable",
+      "slug": "simple-equations",
+      "grades": [
+        7
+      ],
+      "area": "Algebra",
+      "description": "Solving linear equations of the form ax + b = c",
+      "prerequisites": [
+        "algebraic-expressions"
+      ],
+      "leads_to": [
+        "linear-equations-one-variable",
+        "linear-inequalities"
+      ]
+    },
+    "linear-equations-one-variable": {
+      "canonical_name": "Linear Equations in One Variable",
+      "slug": "linear-equations-one-variable",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Algebra",
+      "description": "Equations reducible to the form ax + b = 0 with rational coefficients",
+      "prerequisites": [
+        "simple-equations",
+        "rational-number-operations"
+      ],
+      "leads_to": [
+        "linear-equations-two-variables"
+      ]
+    },
+    "parallel-lines-and-transversals": {
+      "canonical_name": "Parallel Lines and Transversals",
+      "slug": "parallel-lines-and-transversals",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Angle relationships when a transversal cuts parallel lines",
+      "prerequisites": [
+        "angles",
+        "types-of-angles"
+      ],
+      "leads_to": [
+        "properties-of-triangles",
+        "lines-angles-theorems"
+      ]
+    },
+    "types-of-triangles": {
+      "canonical_name": "Types of Triangles",
+      "slug": "types-of-triangles",
+      "grades": [
+        7
+      ],
+      "area": "Geometry",
+      "description": "Classification by sides (scalene, isosceles, equilateral) and angles",
+      "prerequisites": [
+        "angles"
+      ],
+      "leads_to": [
+        "angle-sum-property-triangle",
+        "similar-triangles",
+        "area-of-triangles"
+      ]
+    },
+    "angle-sum-property-triangle": {
+      "canonical_name": "Angle Sum Property of a Triangle",
+      "slug": "angle-sum-property-triangle",
+      "grades": [
+        7
+      ],
+      "area": "Geometry",
+      "description": "Sum of interior angles of a triangle equals 180°",
+      "prerequisites": [
+        "types-of-triangles",
+        "types-of-angles"
+      ],
+      "leads_to": [
+        "exterior-angle-theorem",
+        "properties-of-triangles",
+        "quadrilaterals",
+        "incentre"
+      ]
+    },
+    "exterior-angle-theorem": {
+      "canonical_name": "Exterior Angle Theorem",
+      "slug": "exterior-angle-theorem",
+      "grades": [
+        7
+      ],
+      "area": "Geometry",
+      "description": "Exterior angle equals sum of remote interior angles",
+      "prerequisites": [
+        "angle-sum-property-triangle"
+      ],
+      "leads_to": []
+    },
+    "properties-of-triangles": {
+      "canonical_name": "Properties of Triangles",
+      "slug": "properties-of-triangles",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Triangle inequality; angle-side relationships",
+      "prerequisites": [
+        "angle-sum-property-triangle",
+        "parallel-lines-and-transversals"
+      ],
+      "leads_to": [
+        "congruence-of-triangles",
+        "triangle-theorems",
+        "median-of-triangle",
+        "altitude-of-triangle"
+      ]
+    },
+    "congruence-of-triangles": {
+      "canonical_name": "Congruence of Triangles",
+      "slug": "congruence-of-triangles",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "SSS, SAS, ASA, AAS, RHS criteria for triangle congruence",
+      "prerequisites": [
+        "properties-of-triangles"
+      ],
+      "leads_to": [
+        "isosceles-equilateral-properties",
+        "constructions-triangles",
+        "properties-of-parallelogram",
+        "triangle-theorems",
+        "circle-theorems"
+      ]
+    },
+    "isosceles-equilateral-properties": {
+      "canonical_name": "Properties of Isosceles and Equilateral Triangles",
+      "slug": "isosceles-equilateral-properties",
+      "grades": [
+        7
+      ],
+      "area": "Geometry",
+      "description": "Base angles theorem; all angles 60° in equilateral triangle",
+      "prerequisites": [
+        "congruence-of-triangles"
+      ],
+      "leads_to": []
+    },
+    "similar-triangles": {
+      "canonical_name": "Similar Triangles",
+      "slug": "similar-triangles",
+      "grades": [
+        7,
+        9,
+        10
+      ],
+      "area": "Geometry",
+      "description": "AA, SAS, SSS similarity criteria; corresponding sides proportional",
+      "prerequisites": [
+        "ratios-and-proportions",
+        "types-of-triangles"
+      ],
+      "leads_to": [
+        "mid-point-theorem",
+        "trigonometric-ratios",
+        "similar-triangles-advanced",
+        "constructions-advanced"
+      ]
+    },
+    "constructions-triangles": {
+      "canonical_name": "Constructions of Triangles",
+      "slug": "constructions-triangles",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Constructing triangles given SSS, SAS, ASA conditions",
+      "prerequisites": [
+        "basic-constructions",
+        "congruence-of-triangles"
+      ],
+      "leads_to": []
+    },
+    "area-of-triangles": {
+      "canonical_name": "Area of Triangles",
+      "slug": "area-of-triangles",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Mensuration",
+      "description": "Area = ½ × base × height for any triangle",
+      "prerequisites": [
+        "area",
+        "types-of-triangles"
+      ],
+      "leads_to": [
+        "area-of-parallelogram",
+        "pythagorean-theorem",
+        "heron-s-formula"
+      ]
+    },
+    "area-of-parallelogram": {
+      "canonical_name": "Area of Parallelogram",
+      "slug": "area-of-parallelogram",
+      "grades": [
+        7
+      ],
+      "area": "Mensuration",
+      "description": "Area = base × height",
+      "prerequisites": [
+        "area-of-triangles"
+      ],
+      "leads_to": [
+        "area-of-trapezium"
+      ]
+    },
+    "area-of-trapezium": {
+      "canonical_name": "Area of Trapezium",
+      "slug": "area-of-trapezium",
+      "grades": [
+        7
+      ],
+      "area": "Mensuration",
+      "description": "Area = ½ × (sum of parallel sides) × height",
+      "prerequisites": [
+        "area-of-parallelogram"
+      ],
+      "leads_to": []
+    },
+    "circumference-of-circle": {
+      "canonical_name": "Circumference of a Circle",
+      "slug": "circumference-of-circle",
+      "grades": [
+        7
+      ],
+      "area": "Mensuration",
+      "description": "C = 2πr or πd; introduction of π",
+      "prerequisites": [
+        "ratios-and-proportions",
+        "decimals"
+      ],
+      "leads_to": [
+        "area-of-circle",
+        "circumference-and-area-of-circle",
+        "radian-measure"
+      ]
+    },
+    "area-of-circle": {
+      "canonical_name": "Area of a Circle",
+      "slug": "area-of-circle",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Mensuration",
+      "description": "A = πr²",
+      "prerequisites": [
+        "circumference-of-circle"
+      ],
+      "leads_to": [
+        "circumference-and-area-of-circle"
+      ]
+    },
+    "mean-median-mode": {
+      "canonical_name": "Mean, Median and Mode",
+      "slug": "mean-median-mode",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Statistics",
+      "description": "Three measures of central tendency for ungrouped data",
+      "prerequisites": [
+        "data-collection-and-organisation",
+        "fractions"
+      ],
+      "leads_to": [
+        "range",
+        "statistics-measures"
+      ]
+    },
+    "range": {
+      "canonical_name": "Range",
+      "slug": "range",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Statistics",
+      "description": "Difference between maximum and minimum values in a dataset",
+      "prerequisites": [
+        "mean-median-mode"
+      ],
+      "leads_to": []
+    },
+    "theoretical-probability": {
+      "canonical_name": "Theoretical Probability",
+      "slug": "theoretical-probability",
+      "grades": [
+        7
+      ],
+      "area": "Probability",
+      "description": "P(E) = favourable outcomes / total outcomes",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": [
+        "experimental-probability",
+        "probability-basic"
+      ]
+    },
+    "experimental-probability": {
+      "canonical_name": "Experimental Probability",
+      "slug": "experimental-probability",
+      "grades": [
+        7
+      ],
+      "area": "Probability",
+      "description": "Relative frequency from repeated experiments",
+      "prerequisites": [
+        "theoretical-probability",
+        "decimal-operations"
+      ],
+      "leads_to": []
+    },
+    "unitary-method-and-direct-proportion": {
+      "canonical_name": "Unitary Method and Direct Proportion",
+      "slug": "unitary-method-and-direct-proportion",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Finding value of one unit; y = kx",
+      "prerequisites": [
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "simple-interest",
+        "speed-distance-time",
+        "inverse-proportion",
+        "direct-and-inverse-variation"
+      ]
+    },
+    "profit-loss-percentage": {
+      "canonical_name": "Profit, Loss and Discount",
+      "slug": "profit-loss-percentage",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Computing profit/loss/discount as percentages of cost/selling price",
+      "prerequisites": [
+        "percentage"
+      ],
+      "leads_to": []
+    },
+    "simple-interest": {
+      "canonical_name": "Simple Interest",
+      "slug": "simple-interest",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "I = PRT/100",
+      "prerequisites": [
+        "percentage",
+        "unitary-method-and-direct-proportion"
+      ],
+      "leads_to": [
+        "compound-interest"
+      ]
+    },
+    "speed-distance-time": {
+      "canonical_name": "Speed, Distance and Time",
+      "slug": "speed-distance-time",
+      "grades": [
+        7
+      ],
+      "area": "Proportional Reasoning",
+      "description": "speed = distance/time; unit conversions",
+      "prerequisites": [
+        "unitary-method-and-direct-proportion",
+        "decimal-operations"
+      ],
+      "leads_to": []
+    }
+  }
+}

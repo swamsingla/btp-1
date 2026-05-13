@@ -1,0 +1,1206 @@
+{
+  "grade": 12,
+  "subject": "maths",
+  "total_concepts": 79,
+  "concepts": {
+    "types-of-functions": {
+      "canonical_name": "Types of Functions",
+      "slug": "types-of-functions",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Algebra",
+      "description": "One-one, onto, bijective, constant, identity functions",
+      "prerequisites": [
+        "functions"
+      ],
+      "leads_to": [
+        "composition-of-functions",
+        "special-functions",
+        "inverse-trigonometric-functions"
+      ]
+    },
+    "composition-of-functions": {
+      "canonical_name": "Composition of Functions",
+      "slug": "composition-of-functions",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Algebra",
+      "description": "fog(x) = f(g(x)); associativity; invertible functions",
+      "prerequisites": [
+        "types-of-functions"
+      ],
+      "leads_to": [
+        "inverse-functions"
+      ]
+    },
+    "types-of-relations": {
+      "canonical_name": "Types of Relations",
+      "slug": "types-of-relations",
+      "grades": [
+        12
+      ],
+      "area": "Set Theory",
+      "description": "Reflexive, symmetric, transitive, equivalence relations",
+      "prerequisites": [
+        "relations"
+      ],
+      "leads_to": [
+        "equivalence-relations"
+      ]
+    },
+    "equivalence-relations": {
+      "canonical_name": "Equivalence Relations and Partitions",
+      "slug": "equivalence-relations",
+      "grades": [
+        12
+      ],
+      "area": "Set Theory",
+      "description": "Equivalence classes partition the set",
+      "prerequisites": [
+        "types-of-relations"
+      ],
+      "leads_to": []
+    },
+    "inverse-functions": {
+      "canonical_name": "Inverse Functions",
+      "slug": "inverse-functions",
+      "grades": [
+        12
+      ],
+      "area": "Algebra",
+      "description": "f⁻¹ exists iff f is bijective; finding inverse",
+      "prerequisites": [
+        "composition-of-functions"
+      ],
+      "leads_to": [
+        "inverse-trigonometric-functions"
+      ]
+    },
+    "inverse-trigonometric-functions": {
+      "canonical_name": "Inverse Trigonometric Functions",
+      "slug": "inverse-trigonometric-functions",
+      "grades": [
+        12
+      ],
+      "area": "Trigonometry",
+      "description": "sin⁻¹, cos⁻¹, tan⁻¹; principal value branches",
+      "prerequisites": [
+        "trigonometric-functions",
+        "types-of-functions",
+        "inverse-functions"
+      ],
+      "leads_to": [
+        "properties-inverse-trig",
+        "derivatives-inverse-trig"
+      ]
+    },
+    "properties-inverse-trig": {
+      "canonical_name": "Properties of Inverse Trigonometric Functions",
+      "slug": "properties-inverse-trig",
+      "grades": [
+        12
+      ],
+      "area": "Trigonometry",
+      "description": "sin⁻¹x+cos⁻¹x=π/2; 2tan⁻¹x formulae; compositions",
+      "prerequisites": [
+        "inverse-trigonometric-functions"
+      ],
+      "leads_to": []
+    },
+    "matrices": {
+      "canonical_name": "Matrices",
+      "slug": "matrices",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "Ordered rectangular array of numbers; order m×n",
+      "prerequisites": [
+        "pair-of-linear-equations"
+      ],
+      "leads_to": [
+        "types-of-matrices"
+      ]
+    },
+    "types-of-matrices": {
+      "canonical_name": "Types of Matrices",
+      "slug": "types-of-matrices",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "Row, column, square, diagonal, scalar, identity, zero matrices",
+      "prerequisites": [
+        "matrices"
+      ],
+      "leads_to": [
+        "matrix-operations"
+      ]
+    },
+    "matrix-operations": {
+      "canonical_name": "Operations on Matrices",
+      "slug": "matrix-operations",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "Addition, scalar multiplication, matrix multiplication; properties",
+      "prerequisites": [
+        "types-of-matrices"
+      ],
+      "leads_to": [
+        "transpose-of-matrix",
+        "determinants"
+      ]
+    },
+    "transpose-of-matrix": {
+      "canonical_name": "Transpose of a Matrix",
+      "slug": "transpose-of-matrix",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "(Aᵀ)ᵢⱼ = Aⱼᵢ; properties of transpose",
+      "prerequisites": [
+        "matrix-operations"
+      ],
+      "leads_to": [
+        "symmetric-skew-symmetric"
+      ]
+    },
+    "symmetric-skew-symmetric": {
+      "canonical_name": "Symmetric and Skew-Symmetric Matrices",
+      "slug": "symmetric-skew-symmetric",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "A=Aᵀ or A=−Aᵀ; every square matrix = symmetric + skew-symmetric",
+      "prerequisites": [
+        "transpose-of-matrix"
+      ],
+      "leads_to": []
+    },
+    "determinants": {
+      "canonical_name": "Determinants",
+      "slug": "determinants",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "det(A) for 2×2 and 3×3; Sarrus' rule; cofactor expansion",
+      "prerequisites": [
+        "matrix-operations"
+      ],
+      "leads_to": [
+        "properties-of-determinants",
+        "minors-and-cofactors",
+        "adjoint-and-inverse-matrix",
+        "area-using-determinants",
+        "scalar-triple-product"
+      ]
+    },
+    "properties-of-determinants": {
+      "canonical_name": "Properties of Determinants",
+      "slug": "properties-of-determinants",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "Row/column operations; effect on determinant value",
+      "prerequisites": [
+        "determinants"
+      ],
+      "leads_to": []
+    },
+    "minors-and-cofactors": {
+      "canonical_name": "Minors and Cofactors",
+      "slug": "minors-and-cofactors",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "Mᵢⱼ and Cᵢⱼ = (−1)ⁱ⁺ʲMᵢⱼ",
+      "prerequisites": [
+        "determinants"
+      ],
+      "leads_to": [
+        "adjoint-and-inverse-matrix"
+      ]
+    },
+    "adjoint-and-inverse-matrix": {
+      "canonical_name": "Adjoint and Inverse of a Matrix",
+      "slug": "adjoint-and-inverse-matrix",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "adj(A); A⁻¹ = adj(A)/det(A) when det(A)≠0",
+      "prerequisites": [
+        "minors-and-cofactors",
+        "determinants"
+      ],
+      "leads_to": [
+        "cramers-rule"
+      ]
+    },
+    "cramers-rule": {
+      "canonical_name": "Cramer's Rule",
+      "slug": "cramers-rule",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "Solving systems of linear equations using determinants",
+      "prerequisites": [
+        "adjoint-and-inverse-matrix",
+        "pair-of-linear-equations"
+      ],
+      "leads_to": []
+    },
+    "area-using-determinants": {
+      "canonical_name": "Area of Triangle Using Determinants",
+      "slug": "area-using-determinants",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "½|det([x₁ y₁ 1; x₂ y₂ 1; x₃ y₃ 1])|",
+      "prerequisites": [
+        "determinants",
+        "area-of-triangle-coordinate"
+      ],
+      "leads_to": []
+    },
+    "continuity-of-functions": {
+      "canonical_name": "Continuity of Functions",
+      "slug": "continuity-of-functions",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "f continuous at a iff lim f(x) = f(a); algebra of continuous functions",
+      "prerequisites": [
+        "limits-algebra",
+        "functions"
+      ],
+      "leads_to": [
+        "continuity-types",
+        "differentiability",
+        "exponential-and-log-functions",
+        "rolles-theorem",
+        "fundamental-theorem-of-calculus"
+      ]
+    },
+    "continuity-types": {
+      "canonical_name": "Types of Discontinuity",
+      "slug": "continuity-types",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Removable, jump, infinite discontinuity",
+      "prerequisites": [
+        "continuity-of-functions"
+      ],
+      "leads_to": []
+    },
+    "differentiability": {
+      "canonical_name": "Differentiability",
+      "slug": "differentiability",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Differentiable ⟹ continuous; non-differentiable points",
+      "prerequisites": [
+        "continuity-of-functions",
+        "derivatives-rules-basic"
+      ],
+      "leads_to": [
+        "chain-rule",
+        "rolles-theorem",
+        "l-hopital-s-rule"
+      ]
+    },
+    "chain-rule": {
+      "canonical_name": "Chain Rule",
+      "slug": "chain-rule",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "d/dx[f(g(x))] = f′(g(x))·g′(x)",
+      "prerequisites": [
+        "differentiability"
+      ],
+      "leads_to": [
+        "implicit-differentiation",
+        "derivatives-inverse-trig",
+        "logarithmic-differentiation",
+        "parametric-differentiation",
+        "second-order-derivative",
+        "rate-of-change",
+        "integration-by-substitution",
+        "integration-by-parts"
+      ]
+    },
+    "implicit-differentiation": {
+      "canonical_name": "Implicit Differentiation",
+      "slug": "implicit-differentiation",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Differentiating equations not solved for y",
+      "prerequisites": [
+        "chain-rule"
+      ],
+      "leads_to": []
+    },
+    "derivatives-inverse-trig": {
+      "canonical_name": "Derivatives of Inverse Trigonometric Functions",
+      "slug": "derivatives-inverse-trig",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "d/dx(sin⁻¹x) = 1/√(1−x²) etc.",
+      "prerequisites": [
+        "chain-rule",
+        "inverse-trigonometric-functions"
+      ],
+      "leads_to": []
+    },
+    "logarithmic-differentiation": {
+      "canonical_name": "Logarithmic Differentiation",
+      "slug": "logarithmic-differentiation",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Taking log before differentiating; y=xˣ type",
+      "prerequisites": [
+        "chain-rule",
+        "logarithms"
+      ],
+      "leads_to": []
+    },
+    "exponential-and-log-functions": {
+      "canonical_name": "Exponential and Logarithmic Functions",
+      "slug": "exponential-and-log-functions",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "e^x, log x; their derivatives and properties",
+      "prerequisites": [
+        "common-and-natural-logarithms",
+        "continuity-of-functions"
+      ],
+      "leads_to": []
+    },
+    "parametric-differentiation": {
+      "canonical_name": "Derivatives in Parametric Form",
+      "slug": "parametric-differentiation",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "dy/dx = (dy/dt)/(dx/dt)",
+      "prerequisites": [
+        "chain-rule"
+      ],
+      "leads_to": []
+    },
+    "second-order-derivative": {
+      "canonical_name": "Second Order Derivative",
+      "slug": "second-order-derivative",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "d²y/dx²; physical interpretation as acceleration/concavity",
+      "prerequisites": [
+        "chain-rule"
+      ],
+      "leads_to": [
+        "maxima-and-minima"
+      ]
+    },
+    "rolles-theorem": {
+      "canonical_name": "Rolle's Theorem",
+      "slug": "rolles-theorem",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "If f(a)=f(b), then f′(c)=0 for some c in (a,b)",
+      "prerequisites": [
+        "differentiability",
+        "continuity-of-functions"
+      ],
+      "leads_to": [
+        "mean-value-theorem"
+      ]
+    },
+    "mean-value-theorem": {
+      "canonical_name": "Mean Value Theorem",
+      "slug": "mean-value-theorem",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "f′(c) = [f(b)−f(a)]/(b−a); Lagrange's MVT",
+      "prerequisites": [
+        "rolles-theorem"
+      ],
+      "leads_to": []
+    },
+    "rate-of-change": {
+      "canonical_name": "Rate of Change of Quantities",
+      "slug": "rate-of-change",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "dy/dx as rate; related rates problems",
+      "prerequisites": [
+        "chain-rule"
+      ],
+      "leads_to": [
+        "applications-of-derivatives"
+      ]
+    },
+    "increasing-decreasing-functions": {
+      "canonical_name": "Increasing and Decreasing Functions",
+      "slug": "increasing-decreasing-functions",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "f′(x)>0 ⟹ increasing; f′(x)<0 ⟹ decreasing",
+      "prerequisites": [
+        "derivatives-rules-basic"
+      ],
+      "leads_to": [
+        "maxima-and-minima"
+      ]
+    },
+    "tangent-and-normal": {
+      "canonical_name": "Tangent and Normal to a Curve",
+      "slug": "tangent-and-normal",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Equation of tangent: y−y₁=f′(x₁)(x−x₁); normal is perpendicular",
+      "prerequisites": [
+        "slope-of-a-line",
+        "derivatives-rules-basic"
+      ],
+      "leads_to": []
+    },
+    "maxima-and-minima": {
+      "canonical_name": "Maxima and Minima",
+      "slug": "maxima-and-minima",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "First and second derivative tests; absolute max/min on closed interval",
+      "prerequisites": [
+        "second-order-derivative",
+        "increasing-decreasing-functions"
+      ],
+      "leads_to": [
+        "applications-of-derivatives"
+      ]
+    },
+    "applications-of-derivatives": {
+      "canonical_name": "Applications of Derivatives — Word Problems",
+      "slug": "applications-of-derivatives",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Optimisation problems in geometry, economics, physics",
+      "prerequisites": [
+        "maxima-and-minima",
+        "rate-of-change"
+      ],
+      "leads_to": []
+    },
+    "integration-indefinite": {
+      "canonical_name": "Integration — Indefinite Integrals",
+      "slug": "integration-indefinite",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Anti-derivative; ∫f(x)dx = F(x)+C; standard integrals",
+      "prerequisites": [
+        "derivatives-rules-basic",
+        "derivatives-trig"
+      ],
+      "leads_to": [
+        "integration-by-substitution",
+        "integration-by-partial-fractions",
+        "integration-by-parts",
+        "definite-integrals",
+        "differential-equations-intro"
+      ]
+    },
+    "integration-by-substitution": {
+      "canonical_name": "Integration by Substitution",
+      "slug": "integration-by-substitution",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫f(g(x))g′(x)dx = ∫f(u)du",
+      "prerequisites": [
+        "integration-indefinite",
+        "chain-rule"
+      ],
+      "leads_to": [
+        "integration-using-trig-identities",
+        "special-integrals"
+      ]
+    },
+    "integration-using-trig-identities": {
+      "canonical_name": "Integration Using Trigonometric Identities",
+      "slug": "integration-using-trig-identities",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Using sin²x, cos²x, product-to-sum before integrating",
+      "prerequisites": [
+        "integration-by-substitution",
+        "trigonometric-addition-formulas"
+      ],
+      "leads_to": []
+    },
+    "integration-by-partial-fractions": {
+      "canonical_name": "Integration by Partial Fractions",
+      "slug": "integration-by-partial-fractions",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Decomposing rational functions before integrating",
+      "prerequisites": [
+        "integration-indefinite",
+        "factorisation-of-polynomials"
+      ],
+      "leads_to": []
+    },
+    "integration-by-parts": {
+      "canonical_name": "Integration by Parts",
+      "slug": "integration-by-parts",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫u dv = uv − ∫v du; LIATE rule",
+      "prerequisites": [
+        "integration-indefinite",
+        "chain-rule"
+      ],
+      "leads_to": [
+        "special-integrals"
+      ]
+    },
+    "special-integrals": {
+      "canonical_name": "Special Integrals",
+      "slug": "special-integrals",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Integrals involving √(a²−x²), 1/(x²+a²), eˣ[f(x)+f′(x)] etc.",
+      "prerequisites": [
+        "integration-by-substitution",
+        "integration-by-parts"
+      ],
+      "leads_to": []
+    },
+    "definite-integrals": {
+      "canonical_name": "Definite Integrals",
+      "slug": "definite-integrals",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫ₐᵇ f(x)dx; as limit of a sum",
+      "prerequisites": [
+        "integration-indefinite"
+      ],
+      "leads_to": [
+        "fundamental-theorem-of-calculus"
+      ]
+    },
+    "fundamental-theorem-of-calculus": {
+      "canonical_name": "Fundamental Theorem of Calculus",
+      "slug": "fundamental-theorem-of-calculus",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫ₐᵇ f(x)dx = F(b)−F(a)",
+      "prerequisites": [
+        "definite-integrals",
+        "continuity-of-functions"
+      ],
+      "leads_to": [
+        "properties-of-definite-integrals"
+      ]
+    },
+    "properties-of-definite-integrals": {
+      "canonical_name": "Properties of Definite Integrals",
+      "slug": "properties-of-definite-integrals",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫ₐᵇ=−∫ᵇₐ; King's property; even/odd function integrals",
+      "prerequisites": [
+        "fundamental-theorem-of-calculus"
+      ],
+      "leads_to": [
+        "area-under-curves"
+      ]
+    },
+    "area-under-curves": {
+      "canonical_name": "Area Under Curves",
+      "slug": "area-under-curves",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Area between curves using definite integrals",
+      "prerequisites": [
+        "properties-of-definite-integrals",
+        "conic-sections"
+      ],
+      "leads_to": [
+        "area-between-two-curves"
+      ]
+    },
+    "area-between-two-curves": {
+      "canonical_name": "Area Between Two Curves",
+      "slug": "area-between-two-curves",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫ₐᵇ [f(x)−g(x)]dx",
+      "prerequisites": [
+        "area-under-curves"
+      ],
+      "leads_to": []
+    },
+    "differential-equations-intro": {
+      "canonical_name": "Differential Equations — Introduction",
+      "slug": "differential-equations-intro",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Order and degree; formation of DE from general solution",
+      "prerequisites": [
+        "derivatives-rules-basic",
+        "integration-indefinite"
+      ],
+      "leads_to": [
+        "variable-separable"
+      ]
+    },
+    "variable-separable": {
+      "canonical_name": "Variable Separable Method",
+      "slug": "variable-separable",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Separating variables and integrating both sides",
+      "prerequisites": [
+        "differential-equations-intro"
+      ],
+      "leads_to": [
+        "homogeneous-differential-equations"
+      ]
+    },
+    "homogeneous-differential-equations": {
+      "canonical_name": "Homogeneous Differential Equations",
+      "slug": "homogeneous-differential-equations",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Substitution y=vx for dy/dx=f(y/x)",
+      "prerequisites": [
+        "variable-separable"
+      ],
+      "leads_to": [
+        "linear-differential-equations"
+      ]
+    },
+    "linear-differential-equations": {
+      "canonical_name": "Linear Differential Equations",
+      "slug": "linear-differential-equations",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "dy/dx + Py = Q; integrating factor e^(∫Pdx)",
+      "prerequisites": [
+        "homogeneous-differential-equations"
+      ],
+      "leads_to": []
+    },
+    "vectors": {
+      "canonical_name": "Vectors — Introduction",
+      "slug": "vectors",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "Directed line segment; magnitude and direction; position vectors",
+      "prerequisites": [
+        "introduction-3d-geometry",
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "types-of-vectors",
+        "equation-of-line-3d"
+      ]
+    },
+    "types-of-vectors": {
+      "canonical_name": "Types of Vectors",
+      "slug": "types-of-vectors",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "Zero, unit, equal, negative, collinear, coplanar vectors",
+      "prerequisites": [
+        "vectors"
+      ],
+      "leads_to": [
+        "vector-addition"
+      ]
+    },
+    "vector-addition": {
+      "canonical_name": "Addition of Vectors",
+      "slug": "vector-addition",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "Triangle and parallelogram laws; properties",
+      "prerequisites": [
+        "types-of-vectors"
+      ],
+      "leads_to": [
+        "scalar-multiplication-vectors"
+      ]
+    },
+    "scalar-multiplication-vectors": {
+      "canonical_name": "Scalar Multiplication of Vectors",
+      "slug": "scalar-multiplication-vectors",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "λa⃗; components; section formula using position vectors",
+      "prerequisites": [
+        "vector-addition"
+      ],
+      "leads_to": [
+        "dot-product"
+      ]
+    },
+    "dot-product": {
+      "canonical_name": "Dot (Scalar) Product",
+      "slug": "dot-product",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "a⃗·b⃗ = |a||b|cosθ; properties; projection",
+      "prerequisites": [
+        "scalar-multiplication-vectors",
+        "trigonometric-functions"
+      ],
+      "leads_to": [
+        "cross-product",
+        "angle-between-lines-3d",
+        "equation-of-plane"
+      ]
+    },
+    "cross-product": {
+      "canonical_name": "Cross (Vector) Product",
+      "slug": "cross-product",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "a⃗×b⃗ = |a||b|sinθ n̂; properties; area of parallelogram/triangle",
+      "prerequisites": [
+        "dot-product"
+      ],
+      "leads_to": [
+        "scalar-triple-product",
+        "shortest-distance-two-lines"
+      ]
+    },
+    "scalar-triple-product": {
+      "canonical_name": "Scalar Triple Product",
+      "slug": "scalar-triple-product",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "[a⃗ b⃗ c⃗] = a⃗·(b⃗×c⃗); volume of parallelepiped; coplanarity test",
+      "prerequisites": [
+        "cross-product",
+        "determinants"
+      ],
+      "leads_to": []
+    },
+    "direction-cosines-ratios": {
+      "canonical_name": "Direction Cosines and Direction Ratios",
+      "slug": "direction-cosines-ratios",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "l,m,n; l²+m²+n²=1; direction ratios a,b,c",
+      "prerequisites": [
+        "introduction-3d-geometry",
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "equation-of-line-3d"
+      ]
+    },
+    "equation-of-line-3d": {
+      "canonical_name": "Equation of a Line in 3D",
+      "slug": "equation-of-line-3d",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Vector and Cartesian forms; parametric equations",
+      "prerequisites": [
+        "direction-cosines-ratios",
+        "vectors"
+      ],
+      "leads_to": [
+        "angle-between-lines-3d",
+        "shortest-distance-two-lines",
+        "equation-of-plane"
+      ]
+    },
+    "angle-between-lines-3d": {
+      "canonical_name": "Angle Between Two Lines in 3D",
+      "slug": "angle-between-lines-3d",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Using direction ratios or direction cosines",
+      "prerequisites": [
+        "equation-of-line-3d",
+        "dot-product"
+      ],
+      "leads_to": []
+    },
+    "shortest-distance-two-lines": {
+      "canonical_name": "Shortest Distance Between Two Lines",
+      "slug": "shortest-distance-two-lines",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Distance between skew lines and parallel lines",
+      "prerequisites": [
+        "equation-of-line-3d",
+        "cross-product"
+      ],
+      "leads_to": []
+    },
+    "equation-of-plane": {
+      "canonical_name": "Equation of a Plane",
+      "slug": "equation-of-plane",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Normal form; intercept form; passing through three points",
+      "prerequisites": [
+        "equation-of-line-3d",
+        "dot-product"
+      ],
+      "leads_to": [
+        "angle-between-planes",
+        "distance-point-to-plane"
+      ]
+    },
+    "angle-between-planes": {
+      "canonical_name": "Angle Between Two Planes",
+      "slug": "angle-between-planes",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Using normal vectors",
+      "prerequisites": [
+        "equation-of-plane"
+      ],
+      "leads_to": []
+    },
+    "distance-point-to-plane": {
+      "canonical_name": "Distance of a Point from a Plane",
+      "slug": "distance-point-to-plane",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "|ax₁+by₁+cz₁+d|/√(a²+b²+c²)",
+      "prerequisites": [
+        "equation-of-plane"
+      ],
+      "leads_to": []
+    },
+    "linear-programming": {
+      "canonical_name": "Linear Programming",
+      "slug": "linear-programming",
+      "grades": [
+        12
+      ],
+      "area": "Optimisation",
+      "description": "Objective function; constraints; feasible region; corner point method",
+      "prerequisites": [
+        "system-of-inequalities",
+        "straight-lines"
+      ],
+      "leads_to": [
+        "graphical-method-lpp"
+      ]
+    },
+    "graphical-method-lpp": {
+      "canonical_name": "Graphical Method for LPP",
+      "slug": "graphical-method-lpp",
+      "grades": [
+        12
+      ],
+      "area": "Optimisation",
+      "description": "Plotting constraints; finding optimal solution at vertices",
+      "prerequisites": [
+        "linear-programming"
+      ],
+      "leads_to": []
+    },
+    "conditional-probability": {
+      "canonical_name": "Conditional Probability",
+      "slug": "conditional-probability",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(A|B) = P(A∩B)/P(B)",
+      "prerequisites": [
+        "axiomatic-probability"
+      ],
+      "leads_to": [
+        "multiplication-rule-probability",
+        "total-probability-theorem"
+      ]
+    },
+    "multiplication-rule-probability": {
+      "canonical_name": "Multiplication Theorem on Probability",
+      "slug": "multiplication-rule-probability",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(A∩B) = P(A)·P(B|A)",
+      "prerequisites": [
+        "conditional-probability"
+      ],
+      "leads_to": [
+        "independent-events"
+      ]
+    },
+    "independent-events": {
+      "canonical_name": "Independent Events",
+      "slug": "independent-events",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(A∩B) = P(A)·P(B); distinction from mutually exclusive",
+      "prerequisites": [
+        "multiplication-rule-probability"
+      ],
+      "leads_to": [
+        "bernoulli-trials"
+      ]
+    },
+    "total-probability-theorem": {
+      "canonical_name": "Theorem of Total Probability",
+      "slug": "total-probability-theorem",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(A) = ΣP(Bᵢ)P(A|Bᵢ) over a partition",
+      "prerequisites": [
+        "conditional-probability"
+      ],
+      "leads_to": [
+        "bayes-theorem"
+      ]
+    },
+    "bayes-theorem": {
+      "canonical_name": "Bayes' Theorem",
+      "slug": "bayes-theorem",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(Bᵢ|A) = P(Bᵢ)P(A|Bᵢ)/P(A)",
+      "prerequisites": [
+        "total-probability-theorem"
+      ],
+      "leads_to": []
+    },
+    "random-variables": {
+      "canonical_name": "Random Variables",
+      "slug": "random-variables",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "X: S → ℝ; discrete vs continuous",
+      "prerequisites": [
+        "functions",
+        "axiomatic-probability"
+      ],
+      "leads_to": [
+        "probability-distribution"
+      ]
+    },
+    "probability-distribution": {
+      "canonical_name": "Probability Distribution",
+      "slug": "probability-distribution",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "Probability mass function; ΣP(X=xᵢ)=1",
+      "prerequisites": [
+        "random-variables"
+      ],
+      "leads_to": [
+        "mean-variance-rv",
+        "bernoulli-trials"
+      ]
+    },
+    "mean-variance-rv": {
+      "canonical_name": "Mean and Variance of a Random Variable",
+      "slug": "mean-variance-rv",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "E(X) = ΣxᵢP(xᵢ); Var(X) = E(X²)−[E(X)]²",
+      "prerequisites": [
+        "probability-distribution",
+        "variance-and-standard-deviation"
+      ],
+      "leads_to": []
+    },
+    "bernoulli-trials": {
+      "canonical_name": "Bernoulli Trials",
+      "slug": "bernoulli-trials",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "Repeated independent trials with two outcomes",
+      "prerequisites": [
+        "independent-events",
+        "probability-distribution"
+      ],
+      "leads_to": [
+        "binomial-distribution"
+      ]
+    },
+    "binomial-distribution": {
+      "canonical_name": "Binomial Distribution",
+      "slug": "binomial-distribution",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(X=r) = C(n,r)pʳqⁿ⁻ʳ; mean=np; variance=npq",
+      "prerequisites": [
+        "bernoulli-trials",
+        "binomial-theorem"
+      ],
+      "leads_to": []
+    },
+    "partial-fractions": {
+      "canonical_name": "Partial Fractions",
+      "slug": "partial-fractions",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Algebra",
+      "description": "Decomposing p(x)/q(x) into simpler fractions",
+      "prerequisites": [
+        "factorisation-of-polynomials",
+        "rational-number-operations"
+      ],
+      "leads_to": []
+    },
+    "l-hopital-s-rule": {
+      "canonical_name": "L'Hôpital's Rule",
+      "slug": "l-hopital-s-rule",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Evaluating 0/0 or ∞/∞ indeterminate forms using derivatives",
+      "prerequisites": [
+        "differentiability",
+        "limits-algebra"
+      ],
+      "leads_to": []
+    },
+    "regression-line": {
+      "canonical_name": "Regression Line",
+      "slug": "regression-line",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Statistics",
+      "description": "Line of best fit; y on x and x on y regression equations",
+      "prerequisites": [
+        "correlation",
+        "straight-lines"
+      ],
+      "leads_to": []
+    }
+  }
+}

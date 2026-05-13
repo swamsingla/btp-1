@@ -1,0 +1,773 @@
+{
+  "grade": 8,
+  "subject": "maths",
+  "total_concepts": 46,
+  "concepts": {
+    "divisibility-rules": {
+      "canonical_name": "Divisibility Rules",
+      "slug": "divisibility-rules",
+      "grades": [
+        6,
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Quick tests for divisibility by 2, 3, 4, 5, 6, 8, 9, 10, 11",
+      "prerequisites": [
+        "factors-and-multiples"
+      ],
+      "leads_to": [
+        "prime-factorisation",
+        "modular-arithmetic"
+      ]
+    },
+    "percentage": {
+      "canonical_name": "Percentage",
+      "slug": "percentage",
+      "grades": [
+        6,
+        7,
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "A ratio expressed per hundred",
+      "prerequisites": [
+        "decimals",
+        "fractions",
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "percentage-change",
+        "profit-loss-percentage",
+        "simple-interest"
+      ]
+    },
+    "rational-numbers": {
+      "canonical_name": "Rational Numbers",
+      "slug": "rational-numbers",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Number Systems",
+      "description": "Numbers expressible as p/q where p, q are integers and q ≠ 0",
+      "prerequisites": [
+        "fractions",
+        "integers",
+        "decimals"
+      ],
+      "leads_to": [
+        "rational-number-operations",
+        "number-line-rational",
+        "algebraic-expressions",
+        "exponents-and-powers",
+        "irrational-numbers",
+        "real-numbers"
+      ]
+    },
+    "rational-number-operations": {
+      "canonical_name": "Operations on Rational Numbers",
+      "slug": "rational-number-operations",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Number Systems",
+      "description": "Addition, subtraction, multiplication, division; properties",
+      "prerequisites": [
+        "rational-numbers",
+        "integer-operations"
+      ],
+      "leads_to": [
+        "linear-equations-one-variable",
+        "partial-fractions"
+      ]
+    },
+    "number-line-rational": {
+      "canonical_name": "Rational Numbers on the Number Line",
+      "slug": "number-line-rational",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Number Systems",
+      "description": "Locating and ordering rational numbers on the number line",
+      "prerequisites": [
+        "rational-numbers",
+        "number-line"
+      ],
+      "leads_to": []
+    },
+    "algebraic-identities": {
+      "canonical_name": "Algebraic Identities",
+      "slug": "algebraic-identities",
+      "grades": [
+        7,
+        8,
+        9
+      ],
+      "area": "Algebra",
+      "description": "Standard identities: (a±b)², a²−b², (a+b+c)², (x+a)(x+b)",
+      "prerequisites": [
+        "simplification-of-algebraic-expressions"
+      ],
+      "leads_to": [
+        "factorisation-expressions",
+        "surds-and-rationalisation",
+        "factorisation-of-polynomials",
+        "quadratic-equations",
+        "completing-the-square",
+        "trigonometric-identities",
+        "binomial-theorem"
+      ]
+    },
+    "linear-equations-one-variable": {
+      "canonical_name": "Linear Equations in One Variable",
+      "slug": "linear-equations-one-variable",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Algebra",
+      "description": "Equations reducible to the form ax + b = 0 with rational coefficients",
+      "prerequisites": [
+        "simple-equations",
+        "rational-number-operations"
+      ],
+      "leads_to": [
+        "linear-equations-two-variables"
+      ]
+    },
+    "area-of-triangles": {
+      "canonical_name": "Area of Triangles",
+      "slug": "area-of-triangles",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Mensuration",
+      "description": "Area = ½ × base × height for any triangle",
+      "prerequisites": [
+        "area",
+        "types-of-triangles"
+      ],
+      "leads_to": [
+        "area-of-parallelogram",
+        "pythagorean-theorem",
+        "heron-s-formula"
+      ]
+    },
+    "area-of-circle": {
+      "canonical_name": "Area of a Circle",
+      "slug": "area-of-circle",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Mensuration",
+      "description": "A = πr²",
+      "prerequisites": [
+        "circumference-of-circle"
+      ],
+      "leads_to": [
+        "circumference-and-area-of-circle"
+      ]
+    },
+    "mean-median-mode": {
+      "canonical_name": "Mean, Median and Mode",
+      "slug": "mean-median-mode",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Statistics",
+      "description": "Three measures of central tendency for ungrouped data",
+      "prerequisites": [
+        "data-collection-and-organisation",
+        "fractions"
+      ],
+      "leads_to": [
+        "range",
+        "statistics-measures"
+      ]
+    },
+    "range": {
+      "canonical_name": "Range",
+      "slug": "range",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Statistics",
+      "description": "Difference between maximum and minimum values in a dataset",
+      "prerequisites": [
+        "mean-median-mode"
+      ],
+      "leads_to": []
+    },
+    "unitary-method-and-direct-proportion": {
+      "canonical_name": "Unitary Method and Direct Proportion",
+      "slug": "unitary-method-and-direct-proportion",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Finding value of one unit; y = kx",
+      "prerequisites": [
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "simple-interest",
+        "speed-distance-time",
+        "inverse-proportion",
+        "direct-and-inverse-variation"
+      ]
+    },
+    "profit-loss-percentage": {
+      "canonical_name": "Profit, Loss and Discount",
+      "slug": "profit-loss-percentage",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Computing profit/loss/discount as percentages of cost/selling price",
+      "prerequisites": [
+        "percentage"
+      ],
+      "leads_to": []
+    },
+    "simple-interest": {
+      "canonical_name": "Simple Interest",
+      "slug": "simple-interest",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "I = PRT/100",
+      "prerequisites": [
+        "percentage",
+        "unitary-method-and-direct-proportion"
+      ],
+      "leads_to": [
+        "compound-interest"
+      ]
+    },
+    "square-numbers": {
+      "canonical_name": "Square Numbers",
+      "slug": "square-numbers",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Perfect squares; properties of square numbers",
+      "prerequisites": [
+        "prime-factorisation",
+        "number-patterns"
+      ],
+      "leads_to": [
+        "square-roots",
+        "cube-numbers",
+        "exponents-and-powers"
+      ]
+    },
+    "square-roots": {
+      "canonical_name": "Square Roots",
+      "slug": "square-roots",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Finding square roots by prime factorisation and long division",
+      "prerequisites": [
+        "square-numbers"
+      ],
+      "leads_to": [
+        "pythagorean-theorem",
+        "heron-s-formula",
+        "irrational-numbers",
+        "quadratic-formula"
+      ]
+    },
+    "cube-numbers": {
+      "canonical_name": "Cube Numbers",
+      "slug": "cube-numbers",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Perfect cubes and their properties",
+      "prerequisites": [
+        "square-numbers"
+      ],
+      "leads_to": [
+        "cube-roots"
+      ]
+    },
+    "cube-roots": {
+      "canonical_name": "Cube Roots",
+      "slug": "cube-roots",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Finding cube roots by prime factorisation",
+      "prerequisites": [
+        "cube-numbers",
+        "prime-factorisation"
+      ],
+      "leads_to": []
+    },
+    "exponents-and-powers": {
+      "canonical_name": "Exponents and Powers",
+      "slug": "exponents-and-powers",
+      "grades": [
+        8
+      ],
+      "area": "Algebra",
+      "description": "aⁿ notation; laws of exponents for integer exponents",
+      "prerequisites": [
+        "rational-numbers",
+        "square-numbers"
+      ],
+      "leads_to": [
+        "negative-and-zero-exponents",
+        "compound-interest",
+        "laws-of-exponents-real",
+        "geometric-progressions",
+        "binomial-theorem",
+        "logarithms"
+      ]
+    },
+    "negative-and-zero-exponents": {
+      "canonical_name": "Negative and Zero Exponents",
+      "slug": "negative-and-zero-exponents",
+      "grades": [
+        8
+      ],
+      "area": "Algebra",
+      "description": "a⁰ = 1; a⁻ⁿ = 1/aⁿ; standard form / scientific notation",
+      "prerequisites": [
+        "exponents-and-powers"
+      ],
+      "leads_to": [
+        "laws-of-exponents-real"
+      ]
+    },
+    "factorisation-expressions": {
+      "canonical_name": "Factorisation of Algebraic Expressions",
+      "slug": "factorisation-expressions",
+      "grades": [
+        8
+      ],
+      "area": "Algebra",
+      "description": "Taking out common factors; grouping; using identities",
+      "prerequisites": [
+        "algebraic-identities"
+      ],
+      "leads_to": [
+        "division-of-polynomials"
+      ]
+    },
+    "division-of-polynomials": {
+      "canonical_name": "Division of Algebraic Expressions",
+      "slug": "division-of-polynomials",
+      "grades": [
+        8
+      ],
+      "area": "Algebra",
+      "description": "Dividing a polynomial by a monomial or polynomial",
+      "prerequisites": [
+        "factorisation-expressions"
+      ],
+      "leads_to": [
+        "remainder-theorem",
+        "synthetic-division"
+      ]
+    },
+    "linear-equations-two-variables": {
+      "canonical_name": "Linear Equations in Two Variables",
+      "slug": "linear-equations-two-variables",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Algebra",
+      "description": "ax + by + c = 0; graphing; solution as ordered pair",
+      "prerequisites": [
+        "linear-equations-one-variable",
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": [
+        "pair-of-linear-equations",
+        "representing-linear-equations-graphically"
+      ]
+    },
+    "quadrilaterals": {
+      "canonical_name": "Quadrilaterals",
+      "slug": "quadrilaterals",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Four-sided polygons; angle sum = 360°; types of quadrilaterals",
+      "prerequisites": [
+        "angle-sum-property-triangle",
+        "types-of-angles"
+      ],
+      "leads_to": [
+        "properties-of-parallelogram",
+        "kite-and-trapezium",
+        "visualising-3d-shapes",
+        "cyclic-quadrilaterals"
+      ]
+    },
+    "properties-of-parallelogram": {
+      "canonical_name": "Properties of Parallelogram",
+      "slug": "properties-of-parallelogram",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Opposite sides/angles equal; diagonals bisect each other",
+      "prerequisites": [
+        "quadrilaterals",
+        "congruence-of-triangles"
+      ],
+      "leads_to": [
+        "properties-of-rhombus-rectangle-square",
+        "mid-point-theorem",
+        "similar-triangles-advanced"
+      ]
+    },
+    "properties-of-rhombus-rectangle-square": {
+      "canonical_name": "Properties of Rhombus, Rectangle and Square",
+      "slug": "properties-of-rhombus-rectangle-square",
+      "grades": [
+        8
+      ],
+      "area": "Geometry",
+      "description": "Special parallelograms and their diagonal properties",
+      "prerequisites": [
+        "properties-of-parallelogram"
+      ],
+      "leads_to": []
+    },
+    "kite-and-trapezium": {
+      "canonical_name": "Kite and Trapezium Properties",
+      "slug": "kite-and-trapezium",
+      "grades": [
+        8
+      ],
+      "area": "Geometry",
+      "description": "Properties of non-parallelogram quadrilaterals",
+      "prerequisites": [
+        "quadrilaterals"
+      ],
+      "leads_to": []
+    },
+    "pythagorean-theorem": {
+      "canonical_name": "Pythagorean Theorem",
+      "slug": "pythagorean-theorem",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "In a right triangle: a² + b² = c²",
+      "prerequisites": [
+        "area-of-triangles",
+        "square-roots"
+      ],
+      "leads_to": [
+        "pythagorean-triples",
+        "converse-of-pythagorean-theorem",
+        "surface-area-cone",
+        "trigonometric-ratios",
+        "distance-formula",
+        "tangent-to-a-circle",
+        "altitude-of-triangle"
+      ]
+    },
+    "pythagorean-triples": {
+      "canonical_name": "Pythagorean Triples",
+      "slug": "pythagorean-triples",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Sets of three positive integers (a,b,c) satisfying a²+b²=c²",
+      "prerequisites": [
+        "pythagorean-theorem"
+      ],
+      "leads_to": []
+    },
+    "converse-of-pythagorean-theorem": {
+      "canonical_name": "Converse of Pythagorean Theorem",
+      "slug": "converse-of-pythagorean-theorem",
+      "grades": [
+        8
+      ],
+      "area": "Geometry",
+      "description": "If a²+b²=c² then the triangle is right-angled",
+      "prerequisites": [
+        "pythagorean-theorem"
+      ],
+      "leads_to": []
+    },
+    "circles": {
+      "canonical_name": "Circles — Basic Properties",
+      "slug": "circles",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Radius, diameter, chord, arc, sector, segment; basic properties",
+      "prerequisites": [
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "circle-theorems",
+        "circle-equation"
+      ]
+    },
+    "heron-s-formula": {
+      "canonical_name": "Heron's Formula",
+      "slug": "heron-s-formula",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Mensuration",
+      "description": "Area = √[s(s−a)(s−b)(s−c)] where s is the semi-perimeter",
+      "prerequisites": [
+        "area-of-triangles",
+        "square-roots"
+      ],
+      "leads_to": []
+    },
+    "circumference-and-area-of-circle": {
+      "canonical_name": "Circumference and Area of Circle",
+      "slug": "circumference-and-area-of-circle",
+      "grades": [
+        8,
+        10
+      ],
+      "area": "Mensuration",
+      "description": "Advanced problems involving circles; sector and segment intro",
+      "prerequisites": [
+        "area-of-circle",
+        "circumference-of-circle"
+      ],
+      "leads_to": [
+        "surface-area-cylinder",
+        "surface-area-cone",
+        "surface-area-sphere",
+        "area-of-sector-and-segment"
+      ]
+    },
+    "visualising-3d-shapes": {
+      "canonical_name": "Visualising 3D Shapes",
+      "slug": "visualising-3d-shapes",
+      "grades": [
+        8
+      ],
+      "area": "Mensuration",
+      "description": "Faces, edges, vertices of polyhedra; Euler's formula F+V−E=2",
+      "prerequisites": [
+        "quadrilaterals"
+      ],
+      "leads_to": [
+        "surface-area-cuboid-cube"
+      ]
+    },
+    "surface-area-cuboid-cube": {
+      "canonical_name": "Surface Area of Cuboid and Cube",
+      "slug": "surface-area-cuboid-cube",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Mensuration",
+      "description": "Total surface area and lateral surface area",
+      "prerequisites": [
+        "area-rectangle-square",
+        "visualising-3d-shapes"
+      ],
+      "leads_to": [
+        "volume-cuboid-cube",
+        "surface-area-cylinder"
+      ]
+    },
+    "volume-cuboid-cube": {
+      "canonical_name": "Volume of Cuboid and Cube",
+      "slug": "volume-cuboid-cube",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Mensuration",
+      "description": "V = l×b×h; V = a³",
+      "prerequisites": [
+        "surface-area-cuboid-cube"
+      ],
+      "leads_to": []
+    },
+    "inverse-proportion": {
+      "canonical_name": "Inverse Proportion",
+      "slug": "inverse-proportion",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "xy = k; as one quantity increases the other decreases",
+      "prerequisites": [
+        "unitary-method-and-direct-proportion"
+      ],
+      "leads_to": [
+        "direct-and-inverse-variation"
+      ]
+    },
+    "compound-interest": {
+      "canonical_name": "Compound Interest",
+      "slug": "compound-interest",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "A = P(1 + R/100)ⁿ",
+      "prerequisites": [
+        "exponents-and-powers",
+        "simple-interest"
+      ],
+      "leads_to": []
+    },
+    "data-representation-grouped": {
+      "canonical_name": "Data Representation — Grouped Data",
+      "slug": "data-representation-grouped",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Statistics",
+      "description": "Histograms, frequency polygons for grouped data",
+      "prerequisites": [
+        "bar-graphs-and-pictographs",
+        "frequency-distribution"
+      ],
+      "leads_to": [
+        "histogram",
+        "statistics-measures"
+      ]
+    },
+    "histogram": {
+      "canonical_name": "Histogram",
+      "slug": "histogram",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Statistics",
+      "description": "Bar chart for continuous grouped data; class intervals",
+      "prerequisites": [
+        "data-representation-grouped"
+      ],
+      "leads_to": [
+        "frequency-polygon"
+      ]
+    },
+    "frequency-polygon": {
+      "canonical_name": "Frequency Polygon",
+      "slug": "frequency-polygon",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Statistics",
+      "description": "Line graph connecting midpoints of histogram bars",
+      "prerequisites": [
+        "histogram"
+      ],
+      "leads_to": [
+        "ogive"
+      ]
+    },
+    "perpendicular-bisector": {
+      "canonical_name": "Perpendicular Bisector",
+      "slug": "perpendicular-bisector",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Locus of points equidistant from two given points",
+      "prerequisites": [
+        "basic-constructions"
+      ],
+      "leads_to": [
+        "circumcentre"
+      ]
+    },
+    "modular-arithmetic": {
+      "canonical_name": "Modular Arithmetic",
+      "slug": "modular-arithmetic",
+      "grades": [
+        8,
+        10
+      ],
+      "area": "Number Theory",
+      "description": "a ≡ b (mod n); clock arithmetic; applications to divisibility",
+      "prerequisites": [
+        "divisibility-rules",
+        "euclidean-algorithm"
+      ],
+      "leads_to": []
+    },
+    "tax-and-vat": {
+      "canonical_name": "Tax, VAT and GST",
+      "slug": "tax-and-vat",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Computing tax amounts; GST structure",
+      "prerequisites": [
+        "percentage-change"
+      ],
+      "leads_to": []
+    },
+    "direct-and-inverse-variation": {
+      "canonical_name": "Direct and Inverse Variation",
+      "slug": "direct-and-inverse-variation",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "y=kx vs y=k/x; identifying from data",
+      "prerequisites": [
+        "unitary-method-and-direct-proportion",
+        "inverse-proportion"
+      ],
+      "leads_to": []
+    },
+    "representing-linear-equations-graphically": {
+      "canonical_name": "Graphing Linear Equations",
+      "slug": "representing-linear-equations-graphically",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Algebra",
+      "description": "Plotting y=mx+c; interpreting slope and intercept",
+      "prerequisites": [
+        "linear-equations-two-variables",
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": []
+    }
+  }
+}

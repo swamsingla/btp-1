@@ -1,0 +1,837 @@
+{
+  "grade": 10,
+  "subject": "maths",
+  "total_concepts": 53,
+  "concepts": {
+    "euclidean-algorithm": {
+      "canonical_name": "Euclidean Algorithm",
+      "slug": "euclidean-algorithm",
+      "grades": [
+        6,
+        10
+      ],
+      "area": "Number Theory",
+      "description": "Efficient method for computing GCD using repeated division",
+      "prerequisites": [
+        "lcm-and-gcd"
+      ],
+      "leads_to": [
+        "euclidean-division-lemma",
+        "modular-arithmetic"
+      ]
+    },
+    "similar-triangles": {
+      "canonical_name": "Similar Triangles",
+      "slug": "similar-triangles",
+      "grades": [
+        7,
+        9,
+        10
+      ],
+      "area": "Geometry",
+      "description": "AA, SAS, SSS similarity criteria; corresponding sides proportional",
+      "prerequisites": [
+        "ratios-and-proportions",
+        "types-of-triangles"
+      ],
+      "leads_to": [
+        "mid-point-theorem",
+        "trigonometric-ratios",
+        "similar-triangles-advanced",
+        "constructions-advanced"
+      ]
+    },
+    "circumference-and-area-of-circle": {
+      "canonical_name": "Circumference and Area of Circle",
+      "slug": "circumference-and-area-of-circle",
+      "grades": [
+        8,
+        10
+      ],
+      "area": "Mensuration",
+      "description": "Advanced problems involving circles; sector and segment intro",
+      "prerequisites": [
+        "area-of-circle",
+        "circumference-of-circle"
+      ],
+      "leads_to": [
+        "surface-area-cylinder",
+        "surface-area-cone",
+        "surface-area-sphere",
+        "area-of-sector-and-segment"
+      ]
+    },
+    "ogive": {
+      "canonical_name": "Ogive (Cumulative Frequency Curve)",
+      "slug": "ogive",
+      "grades": [
+        10
+      ],
+      "area": "Statistics",
+      "description": "Plotting cumulative frequency against upper class boundaries",
+      "prerequisites": [
+        "frequency-polygon"
+      ],
+      "leads_to": [
+        "median-of-grouped-data"
+      ]
+    },
+    "zeroes-of-a-polynomial": {
+      "canonical_name": "Zeroes of a Polynomial",
+      "slug": "zeroes-of-a-polynomial",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Algebra",
+      "description": "Values of x for which p(x) = 0",
+      "prerequisites": [
+        "polynomials-in-one-variable",
+        "factor-theorem"
+      ],
+      "leads_to": [
+        "zeroes-coefficients-relationship"
+      ]
+    },
+    "trigonometric-ratios": {
+      "canonical_name": "Trigonometric Ratios",
+      "slug": "trigonometric-ratios",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "sin, cos, tan, cosec, sec, cot in a right triangle",
+      "prerequisites": [
+        "pythagorean-theorem",
+        "similar-triangles",
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "trigonometric-ratios-specific-angles",
+        "trigonometric-identities",
+        "area-of-sector-and-segment",
+        "modulus-and-argument",
+        "slope-of-a-line",
+        "vectors",
+        "direction-cosines-ratios"
+      ]
+    },
+    "trigonometric-ratios-specific-angles": {
+      "canonical_name": "Trigonometric Ratios of Standard Angles",
+      "slug": "trigonometric-ratios-specific-angles",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "Values at 0°, 30°, 45°, 60°, 90°",
+      "prerequisites": [
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "complementary-angle-identities",
+        "heights-and-distances"
+      ]
+    },
+    "complementary-angle-identities": {
+      "canonical_name": "Complementary Angle Identities",
+      "slug": "complementary-angle-identities",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "sin(90°−θ)=cosθ etc.",
+      "prerequisites": [
+        "trigonometric-ratios-specific-angles"
+      ],
+      "leads_to": []
+    },
+    "arithmetic-progressions": {
+      "canonical_name": "Arithmetic Progressions",
+      "slug": "arithmetic-progressions",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Sequences",
+      "description": "Sequence with constant common difference d",
+      "prerequisites": [
+        "algebraic-expressions",
+        "number-patterns"
+      ],
+      "leads_to": [
+        "geometric-progressions",
+        "ap-nth-term"
+      ]
+    },
+    "statistics-measures": {
+      "canonical_name": "Central Tendency for Grouped Data",
+      "slug": "statistics-measures",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Statistics",
+      "description": "Mean, median, mode for frequency distributions",
+      "prerequisites": [
+        "mean-median-mode",
+        "data-representation-grouped"
+      ],
+      "leads_to": [
+        "mean-of-grouped-data",
+        "measures-of-dispersion"
+      ]
+    },
+    "fundamental-theorem-of-arithmetic": {
+      "canonical_name": "Fundamental Theorem of Arithmetic",
+      "slug": "fundamental-theorem-of-arithmetic",
+      "grades": [
+        10
+      ],
+      "area": "Number Theory",
+      "description": "Every integer > 1 is uniquely expressible as a product of primes",
+      "prerequisites": [
+        "prime-factorisation",
+        "lcm-and-gcd"
+      ],
+      "leads_to": [
+        "proof-irrationality"
+      ]
+    },
+    "proof-irrationality": {
+      "canonical_name": "Proof of Irrationality",
+      "slug": "proof-irrationality",
+      "grades": [
+        10
+      ],
+      "area": "Number Theory",
+      "description": "Proving √2, √3 etc. are irrational using contradiction",
+      "prerequisites": [
+        "fundamental-theorem-of-arithmetic",
+        "irrational-numbers"
+      ],
+      "leads_to": []
+    },
+    "euclidean-division-lemma": {
+      "canonical_name": "Euclid's Division Lemma",
+      "slug": "euclidean-division-lemma",
+      "grades": [
+        10
+      ],
+      "area": "Number Theory",
+      "description": "a = bq + r; basis for the Euclidean algorithm",
+      "prerequisites": [
+        "euclidean-algorithm"
+      ],
+      "leads_to": []
+    },
+    "zeroes-coefficients-relationship": {
+      "canonical_name": "Relationship Between Zeroes and Coefficients",
+      "slug": "zeroes-coefficients-relationship",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Sum and product of zeroes related to coefficients (Vieta's formulas for quadratics/cubics)",
+      "prerequisites": [
+        "zeroes-of-a-polynomial"
+      ],
+      "leads_to": [
+        "vieta-s-formulas"
+      ]
+    },
+    "quadratic-equations": {
+      "canonical_name": "Quadratic Equations",
+      "slug": "quadratic-equations",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Standard form ax²+bx+c=0; solving by factorisation",
+      "prerequisites": [
+        "factorisation-of-polynomials",
+        "algebraic-identities"
+      ],
+      "leads_to": [
+        "quadratic-formula",
+        "completing-the-square",
+        "complex-numbers"
+      ]
+    },
+    "quadratic-formula": {
+      "canonical_name": "Quadratic Formula",
+      "slug": "quadratic-formula",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "x = (−b ± √(b²−4ac)) / 2a",
+      "prerequisites": [
+        "quadratic-equations",
+        "square-roots"
+      ],
+      "leads_to": [
+        "nature-of-roots"
+      ]
+    },
+    "completing-the-square": {
+      "canonical_name": "Completing the Square",
+      "slug": "completing-the-square",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Rewriting ax²+bx+c as a(x−h)²+k; deriving the quadratic formula",
+      "prerequisites": [
+        "quadratic-equations",
+        "algebraic-identities"
+      ],
+      "leads_to": []
+    },
+    "nature-of-roots": {
+      "canonical_name": "Nature of Roots — Discriminant",
+      "slug": "nature-of-roots",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "D=b²−4ac; real/equal/imaginary roots based on sign of D",
+      "prerequisites": [
+        "quadratic-formula"
+      ],
+      "leads_to": []
+    },
+    "pair-of-linear-equations": {
+      "canonical_name": "Pair of Linear Equations in Two Variables",
+      "slug": "pair-of-linear-equations",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Solving systems graphically and algebraically",
+      "prerequisites": [
+        "linear-equations-two-variables",
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": [
+        "substitution-method",
+        "elimination-method",
+        "cross-multiplication-method",
+        "consistency-of-system",
+        "family-of-lines",
+        "matrices",
+        "cramers-rule"
+      ]
+    },
+    "substitution-method": {
+      "canonical_name": "Substitution Method",
+      "slug": "substitution-method",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Solving simultaneous equations by expressing one variable in terms of the other",
+      "prerequisites": [
+        "pair-of-linear-equations"
+      ],
+      "leads_to": []
+    },
+    "elimination-method": {
+      "canonical_name": "Elimination Method",
+      "slug": "elimination-method",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Solving simultaneous equations by eliminating one variable",
+      "prerequisites": [
+        "pair-of-linear-equations"
+      ],
+      "leads_to": []
+    },
+    "cross-multiplication-method": {
+      "canonical_name": "Cross-Multiplication Method",
+      "slug": "cross-multiplication-method",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "a₁/a₂ ≠ b₁/b₂ condition and formulaic solution",
+      "prerequisites": [
+        "pair-of-linear-equations"
+      ],
+      "leads_to": []
+    },
+    "consistency-of-system": {
+      "canonical_name": "Consistency of a System of Equations",
+      "slug": "consistency-of-system",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Consistent, inconsistent and dependent systems; graphical interpretation",
+      "prerequisites": [
+        "pair-of-linear-equations"
+      ],
+      "leads_to": []
+    },
+    "ap-nth-term": {
+      "canonical_name": "nth Term of an AP",
+      "slug": "ap-nth-term",
+      "grades": [
+        10
+      ],
+      "area": "Sequences",
+      "description": "aₙ = a + (n−1)d",
+      "prerequisites": [
+        "arithmetic-progressions"
+      ],
+      "leads_to": [
+        "ap-sum-of-n-terms"
+      ]
+    },
+    "ap-sum-of-n-terms": {
+      "canonical_name": "Sum of First n Terms of an AP",
+      "slug": "ap-sum-of-n-terms",
+      "grades": [
+        10
+      ],
+      "area": "Sequences",
+      "description": "Sₙ = n/2 [2a + (n−1)d]",
+      "prerequisites": [
+        "ap-nth-term"
+      ],
+      "leads_to": [
+        "ap-advanced"
+      ]
+    },
+    "distance-formula": {
+      "canonical_name": "Distance Formula",
+      "slug": "distance-formula",
+      "grades": [
+        10
+      ],
+      "area": "Coordinate Geometry",
+      "description": "d = √[(x₂−x₁)² + (y₂−y₁)²]",
+      "prerequisites": [
+        "cartesian-coordinate-system",
+        "pythagorean-theorem"
+      ],
+      "leads_to": [
+        "section-formula",
+        "slope-of-a-line",
+        "circle-equation",
+        "introduction-3d-geometry"
+      ]
+    },
+    "section-formula": {
+      "canonical_name": "Section Formula and Midpoint",
+      "slug": "section-formula",
+      "grades": [
+        10
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Internal and external division of a line segment in a given ratio",
+      "prerequisites": [
+        "distance-formula",
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "area-of-triangle-coordinate",
+        "straight-lines",
+        "section-formula-3d",
+        "median-of-triangle",
+        "centroid"
+      ]
+    },
+    "area-of-triangle-coordinate": {
+      "canonical_name": "Area of Triangle using Coordinates",
+      "slug": "area-of-triangle-coordinate",
+      "grades": [
+        10
+      ],
+      "area": "Coordinate Geometry",
+      "description": "½|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|",
+      "prerequisites": [
+        "section-formula"
+      ],
+      "leads_to": [
+        "collinearity",
+        "area-using-determinants"
+      ]
+    },
+    "collinearity": {
+      "canonical_name": "Collinearity of Points",
+      "slug": "collinearity",
+      "grades": [
+        10
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Three points are collinear iff the area of triangle they form is zero",
+      "prerequisites": [
+        "area-of-triangle-coordinate"
+      ],
+      "leads_to": []
+    },
+    "similar-triangles-advanced": {
+      "canonical_name": "Similarity of Triangles — Theorems",
+      "slug": "similar-triangles-advanced",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "BPT (Basic Proportionality Theorem); converse; area ratio theorem",
+      "prerequisites": [
+        "similar-triangles",
+        "properties-of-parallelogram"
+      ],
+      "leads_to": [
+        "basic-proportionality-theorem"
+      ]
+    },
+    "basic-proportionality-theorem": {
+      "canonical_name": "Basic Proportionality Theorem (Thales)",
+      "slug": "basic-proportionality-theorem",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "A line parallel to one side divides the other two proportionally",
+      "prerequisites": [
+        "similar-triangles-advanced"
+      ],
+      "leads_to": []
+    },
+    "tangent-to-a-circle": {
+      "canonical_name": "Tangent to a Circle",
+      "slug": "tangent-to-a-circle",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "Tangent is perpendicular to radius at point of contact",
+      "prerequisites": [
+        "circle-theorems",
+        "pythagorean-theorem"
+      ],
+      "leads_to": [
+        "tangent-properties",
+        "incentre",
+        "construction-of-tangents"
+      ]
+    },
+    "tangent-properties": {
+      "canonical_name": "Properties of Tangents from External Point",
+      "slug": "tangent-properties",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "Two tangents from an external point are equal in length",
+      "prerequisites": [
+        "tangent-to-a-circle"
+      ],
+      "leads_to": []
+    },
+    "trigonometric-identities": {
+      "canonical_name": "Trigonometric Identities",
+      "slug": "trigonometric-identities",
+      "grades": [
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "sin²θ+cos²θ=1; 1+tan²θ=sec²θ; 1+cot²θ=cosec²θ",
+      "prerequisites": [
+        "trigonometric-ratios",
+        "algebraic-identities"
+      ],
+      "leads_to": [
+        "heights-and-distances",
+        "trigonometric-functions"
+      ]
+    },
+    "heights-and-distances": {
+      "canonical_name": "Heights and Distances",
+      "slug": "heights-and-distances",
+      "grades": [
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "Applying trig ratios to find heights and distances; angles of elevation and depression",
+      "prerequisites": [
+        "trigonometric-identities",
+        "trigonometric-ratios-specific-angles"
+      ],
+      "leads_to": []
+    },
+    "area-of-sector-and-segment": {
+      "canonical_name": "Area of Sector and Segment of a Circle",
+      "slug": "area-of-sector-and-segment",
+      "grades": [
+        10
+      ],
+      "area": "Mensuration",
+      "description": "Area of sector = (θ/360°)πr²; segment = sector − triangle",
+      "prerequisites": [
+        "circumference-and-area-of-circle",
+        "trigonometric-ratios"
+      ],
+      "leads_to": []
+    },
+    "surface-area-volume-combinations": {
+      "canonical_name": "Surface Area and Volume of Combined Solids",
+      "slug": "surface-area-volume-combinations",
+      "grades": [
+        10
+      ],
+      "area": "Mensuration",
+      "description": "Frustum; combined shapes; conversion of solids",
+      "prerequisites": [
+        "surface-area-cone",
+        "surface-area-sphere",
+        "surface-area-cylinder",
+        "volume-cone",
+        "volume-sphere",
+        "volume-cylinder"
+      ],
+      "leads_to": [
+        "frustum-of-cone"
+      ]
+    },
+    "frustum-of-cone": {
+      "canonical_name": "Frustum of a Cone",
+      "slug": "frustum-of-cone",
+      "grades": [
+        10
+      ],
+      "area": "Mensuration",
+      "description": "SA and volume of frustum formed by cutting a cone with a plane parallel to base",
+      "prerequisites": [
+        "surface-area-volume-combinations"
+      ],
+      "leads_to": []
+    },
+    "mean-of-grouped-data": {
+      "canonical_name": "Mean of Grouped Data",
+      "slug": "mean-of-grouped-data",
+      "grades": [
+        10
+      ],
+      "area": "Statistics",
+      "description": "Direct, assumed mean and step deviation methods",
+      "prerequisites": [
+        "statistics-measures"
+      ],
+      "leads_to": [
+        "median-of-grouped-data",
+        "mode-of-grouped-data",
+        "measures-of-dispersion"
+      ]
+    },
+    "median-of-grouped-data": {
+      "canonical_name": "Median of Grouped Data",
+      "slug": "median-of-grouped-data",
+      "grades": [
+        10
+      ],
+      "area": "Statistics",
+      "description": "Median class; interpolation formula; graphical method via ogives",
+      "prerequisites": [
+        "mean-of-grouped-data",
+        "ogive"
+      ],
+      "leads_to": []
+    },
+    "mode-of-grouped-data": {
+      "canonical_name": "Mode of Grouped Data",
+      "slug": "mode-of-grouped-data",
+      "grades": [
+        10
+      ],
+      "area": "Statistics",
+      "description": "Modal class and interpolation formula",
+      "prerequisites": [
+        "mean-of-grouped-data"
+      ],
+      "leads_to": []
+    },
+    "probability-theoretical-approach": {
+      "canonical_name": "Probability — Classical Approach",
+      "slug": "probability-theoretical-approach",
+      "grades": [
+        10
+      ],
+      "area": "Probability",
+      "description": "P(E) + P(Ē) = 1; problems on coins, dice, cards",
+      "prerequisites": [
+        "probability-basic"
+      ],
+      "leads_to": []
+    },
+    "median-of-triangle": {
+      "canonical_name": "Medians of a Triangle",
+      "slug": "median-of-triangle",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Geometry",
+      "description": "Median connects vertex to midpoint of opposite side; centroid divides 2:1",
+      "prerequisites": [
+        "properties-of-triangles",
+        "section-formula"
+      ],
+      "leads_to": [
+        "centroid"
+      ]
+    },
+    "altitude-of-triangle": {
+      "canonical_name": "Altitudes of a Triangle",
+      "slug": "altitude-of-triangle",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Geometry",
+      "description": "Perpendicular from vertex to opposite side; orthocentre",
+      "prerequisites": [
+        "properties-of-triangles",
+        "pythagorean-theorem"
+      ],
+      "leads_to": []
+    },
+    "centroid": {
+      "canonical_name": "Centroid of a Triangle",
+      "slug": "centroid",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "Intersection of medians; coordinates = average of vertices",
+      "prerequisites": [
+        "median-of-triangle",
+        "section-formula"
+      ],
+      "leads_to": []
+    },
+    "circumcentre": {
+      "canonical_name": "Circumcentre of a Triangle",
+      "slug": "circumcentre",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "Centre of circumscribed circle; equidistant from vertices",
+      "prerequisites": [
+        "circle-theorems",
+        "perpendicular-bisector"
+      ],
+      "leads_to": []
+    },
+    "incentre": {
+      "canonical_name": "Incentre of a Triangle",
+      "slug": "incentre",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "Centre of inscribed circle; intersection of angle bisectors",
+      "prerequisites": [
+        "angle-sum-property-triangle",
+        "tangent-to-a-circle"
+      ],
+      "leads_to": []
+    },
+    "synthetic-division": {
+      "canonical_name": "Synthetic Division",
+      "slug": "synthetic-division",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Algebra",
+      "description": "Quick algorithm for dividing a polynomial by (x−c)",
+      "prerequisites": [
+        "division-of-polynomials",
+        "remainder-theorem"
+      ],
+      "leads_to": []
+    },
+    "vieta-s-formulas": {
+      "canonical_name": "Vieta's Formulas",
+      "slug": "vieta-s-formulas",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Algebra",
+      "description": "Relations between roots and coefficients for general polynomials",
+      "prerequisites": [
+        "zeroes-coefficients-relationship"
+      ],
+      "leads_to": []
+    },
+    "modular-arithmetic": {
+      "canonical_name": "Modular Arithmetic",
+      "slug": "modular-arithmetic",
+      "grades": [
+        8,
+        10
+      ],
+      "area": "Number Theory",
+      "description": "a ≡ b (mod n); clock arithmetic; applications to divisibility",
+      "prerequisites": [
+        "divisibility-rules",
+        "euclidean-algorithm"
+      ],
+      "leads_to": []
+    },
+    "scatter-plot": {
+      "canonical_name": "Scatter Plot",
+      "slug": "scatter-plot",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Statistics",
+      "description": "Plotting bivariate data on a coordinate plane",
+      "prerequisites": [
+        "cartesian-coordinate-system",
+        "data-collection-and-organisation"
+      ],
+      "leads_to": [
+        "correlation"
+      ]
+    },
+    "constructions-advanced": {
+      "canonical_name": "Constructions — Division of Line Segment",
+      "slug": "constructions-advanced",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "Dividing a line segment in a given ratio; similar triangle construction",
+      "prerequisites": [
+        "basic-constructions",
+        "similar-triangles"
+      ],
+      "leads_to": []
+    },
+    "construction-of-tangents": {
+      "canonical_name": "Construction of Tangents to a Circle",
+      "slug": "construction-of-tangents",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "Constructing tangents from an external point",
+      "prerequisites": [
+        "tangent-to-a-circle",
+        "basic-constructions"
+      ],
+      "leads_to": []
+    }
+  }
+}
