@@ -85,6 +85,8 @@ for Indian School Curricula}\\[0.8cm]
 {\normalsize Advisor: \textbf{Prof.\ Vasudeva Varma}}\\[0.3cm]
 {\normalsize IIIT Hyderabad}
 
+{\normalsize \textbf{Project Repository:}\enspace\setlength{\fboxsep}{3pt}\colorbox{lightyellow}{\url{https://github.com/swamsingla/btp-1/}}}
+
 \vfill
 {\large May 2026}
 \end{center}
@@ -112,7 +114,6 @@ broken translation of mathematical notation, and no meaningful navigation betwee
 
 The second phase rebuilt the system from the ground up around a \emph{knowledge graph}:
 a directed network of canonical concepts linked by prerequisite relationships.
-Every concept is defined and generated exactly once.
 Content is grounded in the original textbooks through Retrieval-Augmented Generation (RAG),
 and produced directly in all four languages using Sarvam~AI models,
 eliminating the translation step entirely.
@@ -121,6 +122,7 @@ Grade~6 to Differential Equations in Grade~12) is one click away from everything
 student needs to know before it and everything it enables next.
 \end{abstract}
 
+\newpage
 \tableofcontents
 \newpage
 
@@ -296,7 +298,6 @@ The fix to the first problem is to make the \emph{concept} the fundamental unit.
 ``Quadratic Equations'' is not a section in a Grade~9 textbook.
 It is a concept in mathematics, with prerequisites that precede any textbook
 that introduces it, and consequences that appear in textbooks years later.
-When a concept is the unit, it is defined once and generated once.
 Every page knows what the student already understands (its prerequisites)
 and can build on that explicitly.
 Navigation follows naturally: every concept links to what it depends on
@@ -346,7 +347,7 @@ Mixing both in the same graph produces nodes at very different scales,
 making navigation incoherent.
 
 The goal was to identify canonical concepts at a uniform level of granularity,
-similar to the level at which an encyclopedia article would exist.
+similar to the level at which a Wikipedia article would exist.
 ``Fractions'' is a canonical concept; ``adding fractions with unlike denominators''
 is a technique within it.
 ``Integration'' is a canonical concept; ``integration by substitution'' is an approach
@@ -356,8 +357,7 @@ and it has its own prerequisites.
 The LLM processed raw topic lists and proposed canonical concept names, groupings,
 and which of a set of defined mathematical or scientific areas each concept belongs to.
 These proposals were carefully reviewed and refined.
-The review was a substantial effort, particularly for senior secondary topics where
-the right level of abstraction is not always obvious, and the model's suggestions
+The review was a substantial effort, and the model's suggestions
 needed correction in a number of places.
 
 \subsection{Building Prerequisite Edges}
@@ -428,9 +428,7 @@ mislead students; the manual curation pass ensured the graph is educationally so
 The Mathematics graph spans Grades~6 through~12 across eighteen areas including Number Systems,
 Algebra, Geometry, Trigonometry, Calculus, Statistics, and Probability, with cross-area
 prerequisite links wherever concepts from different areas genuinely depend on each other.
-The Science graph covers Physics, Chemistry, and Biology across the same grade range,
-and includes cross-subject edges to the Mathematics graph where scientific topics
-directly require mathematical tools.
+The Science graph covers Physics, Chemistry, and Biology across the same grade range.
 Together, the two graphs cover the complete school curriculum across all major Indian boards.
 
 %% ═══════════════════════════════════════════════════════════════════════════
@@ -524,7 +522,7 @@ A language selector switches the explanation to the chosen language.
 Mathematical notation is identical across all language versions because it was generated
 alongside the language content, not translated separately.
 
-A global search bar finds concepts by name, area, or description across all grades and subjects.
+A global search bar finds concepts across all grades and subjects.
 Concepts with no prerequisites at a given grade are highlighted as natural entry points,
 guiding students who are beginning a new grade toward where to start.
 
@@ -555,11 +553,15 @@ actually depends on and what it enables, questions that textbooks leave implicit
 but which have real answers.
 Working through every concept across seven grades in two subjects produced a structure
 with genuine educational value beyond the software it supports.
+\subsection{Future Directions}
 
-The graph also surfaces the cross-subject connections that curricula typically leave implicit:
-where science topics depend directly on specific mathematical tools,
-those links are made explicit, so students can see both the scientific and mathematical
-prerequisites of any concept.
+While the current platform establishes a robust structural and generative foundation, several natural extensions can be done. 
+
+First, the knowledge graph currently operates as a static navigational tool, requiring self-directed exploration. By integrating diagnostic assessments, the platform could transition toward active adaptive learning. If a student struggles with a concept, a short, dynamically generated quiz could diagnose specific gaps in their prerequisite understanding and automatically plot a personalised learning path through the graph to remediate those exact deficiencies.
+
+Second, the content generation pipeline is presently entirely textual and mathematical. For subjects such as Geometry and Biology, visual representation is inseparable from conceptual understanding. Future work would incorporate multimodal vision models to extract, translate, or computationally recreate textbook diagrams and experimental setups, ensuring that the visual components of the curriculum are just as accessible as the text.
+
+Finally, relying on native generation through Indic language models opens a direct path to audio accessibility. Integrating Text-to-Speech (TTS) capabilities natively for Hindi, Telugu, and Odia would provide spoken playback for all generated content. This multimodal delivery would serve students with visual impairments or lower reading literacy, further reducing the friction between the student and the curriculum.
 
 %% ═══════════════════════════════════════════════════════════════════════════
 \section{Conclusion}
@@ -574,8 +576,7 @@ understanding those failures as design problems rather than implementation bugs,
 and redesigning from scratch around the correct abstraction.
 The knowledge graph, the core artifact of Phase~2, is the result of that redesign.
 
-The platform gives a student something no digitised textbook can:
-a map of what they are trying to learn.
+The platform gives a student a map of what they are trying to learn.
 Every concept they encounter has a page that shows them what they need to know before it
 and where it leads afterward.
 They can follow that map in any direction, in their own language,
