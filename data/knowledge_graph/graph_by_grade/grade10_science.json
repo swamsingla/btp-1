@@ -1,0 +1,858 @@
+{
+  "grade": 10,
+  "subject": "science",
+  "concepts": {
+    "what-we-eat": {
+      "canonical_name": "What We Eat",
+      "slug": "what-we-eat",
+      "aliases": [
+        "Food Habits",
+        "Nutrition"
+      ],
+      "domain": "Human Nutrition",
+      "area": "Components of Food",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "diversity-in-plants-and-animal-around-us",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "natural-resource-management",
+        "water-pollution",
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [],
+      "related": [
+        "balanced-diet",
+        "diversity-in-plants-and-animal-around-us",
+        "human-impact-on-the-environmental-conservation",
+        "natural-resource-management",
+        "our-solar-system"
+      ],
+      "see_also": []
+    },
+    "measuring-temperature": {
+      "canonical_name": "Measuring Temperature",
+      "slug": "measuring-temperature",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Temperature Measurement",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "earths-environmental-conservation",
+        "earths-natural-resources",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "food-chain-dynamics",
+        "leaves-as-food-factories"
+      ],
+      "see_also": []
+    },
+    "soil-erosion": {
+      "canonical_name": "Soil Erosion",
+      "slug": "soil-erosion",
+      "_aliases": [
+        "Land Degradation",
+        "Water Pollution"
+      ],
+      "domain": "Environmental Science",
+      "area": "Geography and Environment",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "natural-resource-management",
+        "plate-tectoncs"
+      ],
+      "leads_to": [],
+      "related": [
+        "diversity-in-plants-and-animal-around-us",
+        "earths-natural-resources",
+        "human-impact-on-the-environmental-conservation"
+      ],
+      "see_also": []
+    },
+    "climate-change": {
+      "canonical_name": "Climate Change",
+      "slug": "climate-change",
+      "aliases": [
+        "Global Warming",
+        "Environmental Issue"
+      ],
+      "domain": "Earth Sciences",
+      "area": "Atmospheric Science",
+      "parent": "",
+      "grades": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "7": 5,
+        "8": 4,
+        "9": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "earths-environmental-conservation",
+        "earths-natural-resources",
+        "human-impact-on-the-environmental-conservation",
+        "natural-disasters"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "heat-generation-in-electrical-devices": {
+      "canonical_name": "Heat Generation in Electrical Devices",
+      "slug": "heat-generation-in-electrical-devices",
+      "_aliases": [
+        "Thermal Energy Transfer",
+        "Resistance and Heat"
+      ],
+      "domain": "Science",
+      "area": "Electric Circuits",
+      "parent": "electric-circuits",
+      "grades": [
+        8,
+        9,
+        10
+      ],
+      "importance_by-grade": {
+        "8": "4",
+        "9": "5",
+        "10": "3"
+      },
+      "source_Boads": [
+        "NCERT"
+      ],
+      "subject": "science",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "force": {
+      "canonical_name": "Force",
+      "slug": "force",
+      "aliases": [
+        "Fictitious force",
+        "Contact force",
+        "Non-contact force"
+      ],
+      "domain": "Physics",
+      "area": "Forces and Newton's laws",
+      "parent": "",
+      "grades": [
+        8,
+        9,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "9": 4,
+        "10": 3
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "earths-natural-resources",
+        "earths-pedosphere-and-interactions-with-other-components-of-the-environment"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mixtures": {
+      "canonical_name": "Mixtures",
+      "slug": "mixtures",
+      "_aliases": [
+        "Mixture",
+        "Blends"
+      ],
+      "domain": "Chemistry",
+      "area": "States of Matter",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 4,
+        "9": 5,
+        "10": 3
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "leaves-as-food-factories",
+        "natural-resource-management",
+        "states-of-water",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "vapor-compression-refrigeration-cycle": {
+      "canonical_name": "Vapor Compression Refrigeration Cycle",
+      "slug": "vapor-compression-refrigeration-cycle",
+      "aliases": [
+        "Refrigeration Cycle"
+      ],
+      "domain": "Science",
+      "Area": "Chemistry",
+      "Parent": null,
+      "grades": [
+        8,
+        9,
+        10
+      ],
+      "Importance_By_Grade": {
+        "8": 4,
+        "9": 3,
+        "10": 5
+      },
+      "Source_Boards": [
+        "State Boards"
+      ],
+      "subject": "science",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "energy": {
+      "canonical_name": "Energy",
+      "slug": "energy",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Thermodynamics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "earths-environmental-conservation",
+        "earths-natural-resources",
+        "food-chain-dynamics",
+        "natural-disasters"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "types-of-pure-elements-and-compounds": {
+      "canonical_name": "Types of Pure Elements and Compounds",
+      "slug": "types-of-pure-elements-and-compounds",
+      "_aliases": [
+        "Pure Elements",
+        "Elements",
+        "Compounds"
+      ],
+      "domain": "Chemistry",
+      "area": "Atomic Structure and Properties",
+      "parent": "chemistry",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "valency": {
+      "canonical_name": "Valency",
+      "slug": "valency",
+      "_aliases": [
+        "Definition of valency",
+        "Types of valency",
+        "Valency of metals",
+        "Valency of non-metalls",
+        "Electron Configuration",
+        "Chemical Reactivity",
+        "Chemistry Bonding"
+      ],
+      "domain": "Atomic Structure",
+      "area": "Periodic Table and Elements",
+      "parent": "periodic-table-and-elements",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance by grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5
+      },
+      "source boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "food-chain-dynamics",
+        "leaves-as-food-factories",
+        "natural-resource-management",
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "living-organisms": {
+      "canonical_name": "Living Organisms",
+      "slug": "living-organisms",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Characteristics of Living Organisms",
+      "parents": [
+        {
+          "name": "biology",
+          "level": "Domain"
+        },
+        {
+          "value": "characteristics-of-living-organisms",
+          "level": "Area"
+        }
+      ],
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "diversity-in-plants-and-animal-around-us",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [],
+      "related": [
+        "climate-change",
+        "food-chain-dynamics",
+        "plate-tectoncs"
+      ],
+      "see_also": []
+    },
+    "first-law-of-motion-newton-s-first-law": {
+      "canonical_name": "First Law of Motion Newton's First Law",
+      "slug": "first-law-of-motion-newton-s-first-law",
+      "aliases": [
+        "Law of Motion",
+        "Inertia"
+      ],
+      "domain": "Physics",
+      "area": "Newton's Law of Motion and Universal Gravitation",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 5,
+        "10": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mass": {
+      "canonical_name": "Mass",
+      "slug": "mass",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Properties of Matter",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "earths-natural-resources",
+        "states-of-water",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "evolution": {
+      "canonical_name": "Evolution",
+      "slug": "evolution",
+      "_aliases": [
+        "Species Change And Fossil Record",
+        "Mechanisms Of Evolution",
+        "Evolutionary Adaptations And Speciation",
+        "Phylogenetic Trees And Cladistics",
+        "Evolution Relationships And Homologous Structures"
+      ],
+      "domain": "Biology",
+      "area": "Ecology And Evolution",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance by grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 5,
+        "10": 4
+      },
+      "source boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "diversity-in-plants-and-animal-around-us",
+        "earths-biodversity-hotspots",
+        "life-cycle-of-plants"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "population-dynamics": {
+      "canonical_name": "Population Dynamics",
+      "slug": "population-dynamics",
+      "aliases": [
+        "Demography",
+        "Population Growth"
+      ],
+      "domain": "Science",
+      "area": "Biology/Ecology",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "importance_By_Grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 4,
+        "10": 5
+      },
+      "Source_Boards": [
+        "NCERT",
+        "state Boards"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "earths-biodversity-hotspots",
+        "earths-environmental-conservation",
+        "food-chain-dynamics",
+        "human-impact-on-the-environmental-conservation",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "natural-resource-management",
+        "water-pollution"
+      ],
+      "leads_to": [],
+      "related": [
+        "food-chain-dynamics",
+        "human-impact-on-the-environmental-conservation"
+      ],
+      "see_also": []
+    },
+    "atomic-structure": {
+      "canonical_name": "Atomic Structure",
+      "slug": "atomic-structure",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "earths-natural-resources",
+        "states-of-matter"
+      ],
+      "leads_to": [
+        "nuclear-reactions"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "empirical-and-molecular-formulas": {
+      "canonical_name": "Empirical and Molecular Formulas",
+      "slug": "empirical-and-molecular-formulas",
+      "_aliases": [
+        "Empirical Formula",
+        "Molecular Formula"
+      ],
+      "domain": "Chemistry",
+      "area": "Chemical Calculations",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "electronic-configuration": {
+      "canonical_name": "Electronic Configuration",
+      "slug": "electronic-configuration",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Atomic Structure",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ph-scale": {
+      "canonical_name": "pH Scale",
+      "slug": "ph-scale",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "electrolysis": {
+      "canonical_name": "Electrolysis",
+      "slug": "electrolysis",
+      "aliases": [
+        "Electrolytic Process",
+        "Chemical Decomposition by Electricity"
+      ],
+      "domain": "Physical Chemistry",
+      "area": "Electrochemistry",
+      "parent": "physical-chemistry",
+      "grades": [
+        10
+      ],
+      "importance_by-grade": {
+        "10": 5
+      },
+      "source_boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "natural-resource-management"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "electrolyte-and-electrochemical-cells": {
+      "canonical_name": "Electrolyte and Electrochemical cells",
+      "slug": "electrolyte-and-electrochemical-cells",
+      "aliases": [
+        "Electrolytes",
+        "Electrochemical Systems"
+      ],
+      "domain": "Physical Chemistry",
+      "area": "Thermodynamics and Kinetics",
+      "parent": "thermodynamics-and-kinetics",
+      "grades": [
+        10
+      ],
+      "importance_by-gradingrade": {
+        "10": 5
+      },
+      "source_boards": [
+        "NCERT",
+        "state-board"
+      ],
+      "subject": "science",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "work-energy-and-power": {
+      "canonical_name": "Work Energy and Power",
+      "slug": "work-energy-and-power",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [
+        "earths-environmental-conservation",
+        "natural-disasters"
+      ],
+      "leads_to": [],
+      "related": [
+        "energy-conservation",
+        "human-impact-on-the-environmental-conservation"
+      ],
+      "see_also": []
+    },
+    "mirrors-and-leneses": {
+      "canonical_name": "Mirrors and Leneses",
+      "slug": "mirrors-and-leneses",
+      "aliases": [
+        "Optics"
+      ],
+      "domain": "Physics",
+      "area": "Wave Optics",
+      "parent": null,
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "science",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    }
+  },
+  "edges": [],
+  "entry_points": [
+    "what-we-eat",
+    "measuring-temperature",
+    "soil-erosion",
+    "climate-change",
+    "heat-generation-in-electrical-devices",
+    "force",
+    "mixtures",
+    "vapor-compression-refrigeration-cycle",
+    "energy",
+    "types-of-pure-elements-and-compounds",
+    "valency",
+    "living-organisms",
+    "first-law-of-motion-newton-s-first-law",
+    "mass",
+    "evolution",
+    "population-dynamics",
+    "atomic-structure",
+    "empirical-and-molecular-formulas",
+    "electronic-configuration",
+    "ph-scale",
+    "electrolysis",
+    "electrolyte-and-electrochemical-cells",
+    "work-energy-and-power",
+    "mirrors-and-leneses"
+  ]
+}

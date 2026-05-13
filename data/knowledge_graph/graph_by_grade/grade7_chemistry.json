@@ -1,0 +1,892 @@
+{
+  "grade": 7,
+  "subject": "chemistry",
+  "concepts": {
+    "water-pollution": {
+      "canonical_name": "Water Pollution",
+      "slug": "water-pollution",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": "environmental-chemistry",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "environmental-conservation",
+        "essential-conditions-for-seed-germination",
+        "food-chains",
+        "leaves-as-food-factories",
+        "matter",
+        "natural-resource-management",
+        "soil-composition",
+        "soil-erosion",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "acids-bases-and-salts",
+        "climate-change",
+        "food-chains",
+        "ozone-depletion"
+      ],
+      "see_also": [
+        "earth-s-water-cycle"
+      ]
+    },
+    "food-composition": {
+      "canonical_name": "Food Composition",
+      "slug": "food-composition",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Nutrition and Digestion",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "acids-bases-and-salts",
+        "climate-change",
+        "essential-conditions-for-seed-germination",
+        "food-chains",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "matter",
+        "natural-resource-management",
+        "soil-composition",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "climate-change",
+        "food-chains",
+        "leaves-as-food-factories"
+      ],
+      "see_also": []
+    },
+    "balanced-diet": {
+      "canonical_name": "Balanced Diet",
+      "slug": "balanced-diet",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Nutrition and Health",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "environmental-conservation",
+        "essential-conditions-for-seed-germination",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "matter",
+        "natural-resource-management"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "magnetic-properties-of-materials": {
+      "canonical_name": "Magnetic Properties of Materials",
+      "slug": "magnetic-properties-of-materials",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "properties-of-matter": {
+      "canonical_name": "Properties of Matter",
+      "slug": "properties-of-matter",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "elements-compounds-and-mixtures",
+        "essential-conditions-for-seed-germination",
+        "matter",
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [
+        "measuring-temperature",
+        "states-of-water"
+      ],
+      "see_also": []
+    },
+    "human-impact-on-the-environmental-degradation": {
+      "canonical_name": "Human Impact on the Environmental Degradation",
+      "slug": "human-impact-on-the-environmental-degradation",
+      "aliases": [
+        "Environmental Pollution",
+        "Greenhouse Effect"
+      ],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "acid-rain": {
+      "canonical_name": "Acid Rain",
+      "slug": "acid-rain",
+      "aliases": [
+        "Acidity of Precipitation",
+        "Rain Acidity"
+      ],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "climate-change",
+        "environmental-conservation",
+        "food-chains",
+        "leaves-as-food-factories"
+      ],
+      "leads_to": [],
+      "related": [
+        "climate-change",
+        "earths-geological-time-scales",
+        "ozone-depletion",
+        "soil-erosion"
+      ],
+      "see_also": []
+    },
+    "conservation-of-natural-resources": {
+      "canonical_name": "Conservation of Natural Resources",
+      "slug": "conservation-of-natural-resources",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "chemical-reactions": {
+      "canonical_name": "Chemical Reactions",
+      "slug": "chemical-reactions",
+      "_aliases": [],
+      "domain": "Physical Chemistry",
+      "area": "Reaction Kinetics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "acids-bases-and-salts",
+        "atomic-structure",
+        "essential-conditions-for-seed-germination",
+        "food-chains",
+        "leaves-as-food-factories",
+        "matter",
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [
+        "climate-change"
+      ],
+      "see_also": []
+    },
+    "leaves-as-food-factories": {
+      "canonical_name": "Leaves as Food Factories",
+      "slug": "leaves-as-food-factories",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Plant Nutrition",
+      "parent": null,
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "acid-rain",
+        "balanced-diet",
+        "cellular-respiration",
+        "chemical-reactions",
+        "environmental-conservation",
+        "food-composition",
+        "natural-resource-management",
+        "photosynthesis",
+        "rate-of-reaction",
+        "soil-erosion",
+        "water-pollution"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "food-chains": {
+      "canonical_name": "Food Chains",
+      "slug": "food-chains",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Ecosystems",
+      "parent": null,
+      "grades": [
+        7,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "7": 4,
+        "10": 3
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "environmental-conservation",
+        "importance-of-food-chains"
+      ],
+      "leads_to": [
+        "acid-rain",
+        "cellular-respiration",
+        "chemical-reactions",
+        "food-composition",
+        "natural-resource-management",
+        "photosynthesis",
+        "water-pollution"
+      ],
+      "related": [
+        "decomposition-process",
+        "importance-of-food-chains",
+        "photosynthesis"
+      ],
+      "see_also": []
+    },
+    "climate-change": {
+      "canonical_name": "Climate Change",
+      "slug": "climate-change",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": null,
+      "grades": [
+        7,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "7": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "acid-rain",
+        "environmental-conservation",
+        "food-composition",
+        "photosynthesis"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "acids-bases-and-salts": {
+      "canonical_name": "Acids Bases and Salts",
+      "slug": "acids-bases-and-salts",
+      "aliases": [],
+      "domain": "ChemistrY",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7,
+        11
+      ],
+      "importance-by-GRADE": {
+        "7": 3,
+        "11": 4
+      },
+      "source_BOARDS": [
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "cellular-respiration",
+        "chemical-reactions",
+        "electrochemical-cells",
+        "food-composition",
+        "states-of-water"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "chemical-reactions-and-equations": {
+      "canonical_name": "Chemical Reactions and Equations",
+      "slug": "chemical-reactions-and-equations",
+      "_aliases": [
+        "Reaction Equation",
+        "Balanced Chemical Equation"
+      ],
+      "domain": "Chemistry",
+      "area": "Chemical Reaction and Stoichiometry",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "essential-conditions-for-seed-germination",
+        "matter",
+        "standard-units"
+      ],
+      "leads_to": [],
+      "related": [
+        "environmental-conservation",
+        "life-cycle-of-plants",
+        "soil-composition"
+      ],
+      "see_also": []
+    },
+    "mixtures": {
+      "canonical_name": "Mixtures",
+      "slug": "mixtures",
+      "_aliases": [
+        "Mixture",
+        "Blends"
+      ],
+      "domain": "Chemistry",
+      "area": "States of Matter",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 0,
+        "12": 6
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "cooling-effect-by-evaporation",
+        "elements-compounds-and-mixtures",
+        "matter",
+        "states-of-matter",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "valency": {
+      "canonical_name": "Valency",
+      "slug": "valency",
+      "_aliases": [
+        "Definition of valency",
+        "Types of valency",
+        "Valency of metals",
+        "Valency of nonmetals"
+      ],
+      "domain": "Chemistry",
+      "area": "Atomic Structure",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance by grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "elements-compounds-and-mixtures",
+        "matter",
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [
+        "measuring-temperature",
+        "standard-units",
+        "states-of-water"
+      ],
+      "see_also": []
+    },
+    "rate-of-reaction": {
+      "canonical_name": "Rate of Reaction",
+      "slug": "rate-of-reaction",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Kinetics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "essential-conditions-for-seed-germination",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "matter",
+        "photosynthesis",
+        "soil-composition",
+        "states-of-matter",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "chemical-reactions",
+        "climate-change",
+        "food-chains",
+        "leaves-as-food-factories"
+      ],
+      "see_also": []
+    },
+    "acidic-oxidation-reactions": {
+      "canonical_name": "Acidic Oxidation Reactions",
+      "slug": "acidic-oxidation-reactions",
+      "_aliases": [
+        "Oxidizing Agents",
+        "Redox Reactions"
+      ],
+      "domain": "Chemistry",
+      "area": "Reactions and Processes",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "thermodynamics": {
+      "canonical_name": "Thermodynamics",
+      "slug": "thermodynamics",
+      "aliases": [
+        "Zeroth Law of Thermodynamics",
+        "First Law of Thermodynaamics",
+        "Second Law of Thermodynamcis",
+        "Third Law of Thermodynmaics"
+      ],
+      "domain": "Chemisty",
+      "area": "Physical Chemstry",
+      "parent": "physical-chemistry",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_by_grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "capacity-and-concentration-of-solutions",
+        "change-of-state-of-matter",
+        "energy",
+        "measuring-temperature",
+        "states-of-matter",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "capacity-and-concentration-of-solutions",
+        "solar-energy-applications"
+      ],
+      "see_also": []
+    }
+  },
+  "edges": [
+    {
+      "from": "leaves-as-food-factories",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "balanced-diet",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "acid-rain",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "acid-rain",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "climate-change",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "climate-change",
+      "to": "acid-rain",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acids-bases-and-salts",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acids-bases-and-salts",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    }
+  ],
+  "entry_points": [
+    "magnetic-properties-of-materials",
+    "properties-of-matter",
+    "human-impact-on-the-environmental-degradation",
+    "conservation-of-natural-resources",
+    "leaves-as-food-factories",
+    "food-chains",
+    "climate-change",
+    "acids-bases-and-salts",
+    "chemical-reactions-and-equations",
+    "mixtures",
+    "valency",
+    "acidic-oxidation-reactions",
+    "thermodynamics"
+  ]
+}

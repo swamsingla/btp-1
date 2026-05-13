@@ -43,7 +43,7 @@ def download(save_path: str, hf_token: str | None) -> None:
         local_dir=save_path,
         local_dir_use_symlinks=False,
         token=hf_token,
-        ignore_patterns=["*.bin"],    # download only safetensors, not legacy .bin
+        ignore_patterns=["*.bin", "*.pth", "original/*"],    # download only safetensors, not legacy .bin or raw weights
     )
     log.info("✓ Download complete → %s", save_path)
 

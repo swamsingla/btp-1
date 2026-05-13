@@ -1,0 +1,412 @@
+{
+  "grade": 7,
+  "subject": "physics",
+  "concepts": {
+    "motion": {
+      "canonical_name": "Motion",
+      "slug": "motion",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Kinematics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolution",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits",
+        "position-in-two-dimensional-coordinate-system"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "attraction-and-repulsion-between-magnets": {
+      "canonical_name": "Attraction and Repulsion Between Magnets",
+      "slug": "attraction-and-repulsion-between-magnets",
+      "_aliases": [
+        "Magnetic Forces"
+      ],
+      "domain": "Physics",
+      "area": "Electromagnetism",
+      "parent": "electromagnetism-subject",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "measuring-temperature": {
+      "canonical_name": "Measuring Temperature",
+      "slug": "measuring-temperature",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Temperature Measurement",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earth-s-rotation",
+        "earths-natural-resources",
+        "newtons-first-law-of-motion",
+        "standard-units"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "states-of-matter": {
+      "canonical_name": "States of Matter",
+      "slug": "states-of-matter",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Properties of Matter",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "change-of-state-of-matter",
+        "earths-geological-time-scales",
+        "earths-natural-resources",
+        "natural-disasters",
+        "physical-nature-of-matter",
+        "planetary-motion-and-orbits",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "greenhouse-effect": {
+      "canonical_name": "Greenhouse Effect",
+      "slug": "greenhouse-effect",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Heat Transfer Mechanisms",
+      "parent": "heat-transfer-mechanisms",
+      "_id": "0",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "climate-change",
+        "earths-geological-time-scales",
+        "earths-hydrospher-and-atmosphere",
+        "earths-natural-resources",
+        "energy-flow-in-ecosystems",
+        "natural-disasters",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earths-oceans": {
+      "canonical_name": "Earth's Oceans",
+      "slug": "earths-oceans",
+      "_aliases": [
+        "Oceanography"
+      ],
+      "domain": "Physics",
+      "area": "Geophysics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "earths-natural-resources",
+        "natural-disasters",
+        "plate-tectoncs",
+        "position-in-two-dimensional-coordinate-system"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "energy-flow-in-ecosystems": {
+      "canonical_name": "Energy Flow in Ecosystems",
+      "slug": "energy-flow-in-ecosystems",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Thermodynamics",
+      "parent": "",
+      "grades": [
+        7,
+        11
+      ],
+      "importance_BY_GRADE": {
+        "7": 5,
+        "11": 3
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "air-pollution",
+        "earths-natural-resources",
+        "energy",
+        "greenhouse-effect",
+        "heat-transfer",
+        "interactions",
+        "natural-resource-management",
+        "solar-energy-applications",
+        "solar-power-systems"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "adaptation-in-living-organisms": {
+      "canonical_name": "Adaptation in Living Organisms",
+      "slug": "adaptation-in-living-organisms",
+      "aliases": [
+        "Adaptation"
+      ],
+      "domain": "Physics",
+      "area": "Thermodynamics",
+      "parent": null,
+      "grades": [
+        7,
+        9
+      ],
+      "importance-by-grade": {
+        "7": 5,
+        "9": 4
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "climate-change": {
+      "canonical_name": "Climate Change",
+      "slug": "climate-change",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Environmental Science",
+      "parent": null,
+      "grades": [
+        7,
+        10
+      ],
+      "importance-by-grade": {
+        "7": 5,
+        "10": 4
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "natural-disasters"
+      ],
+      "leads_to": [
+        "greenhouse-effect"
+      ],
+      "related": [
+        "earths-geological-time-scales"
+      ],
+      "see_also": []
+    },
+    "plate-tectoncs": {
+      "canonical_name": "Plate Tectoncs",
+      "slug": "plate-tectoncs",
+      "aliases": [
+        "Tectonic Theory",
+        "Earth's Crust Movement"
+      ],
+      "domain": "Geophysics",
+      "area": "Earth's Structure",
+      "parent": "earth-science",
+      "grades": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_by-grade": {
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "earths-oceans",
+        "natural-disasters",
+        "water-pollution"
+      ],
+      "related": [],
+      "see_also": []
+    }
+  },
+  "edges": [
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "climate-change",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "plate-tectoncs",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    }
+  ],
+  "entry_points": [
+    "motion",
+    "attraction-and-repulsion-between-magnets",
+    "measuring-temperature",
+    "states-of-matter",
+    "energy-flow-in-ecosystems",
+    "adaptation-in-living-organisms",
+    "climate-change",
+    "plate-tectoncs"
+  ]
+}

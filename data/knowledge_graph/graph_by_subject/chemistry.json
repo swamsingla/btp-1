@@ -1,0 +1,4888 @@
+{
+  "subject": "chemistry",
+  "total_concepts": 108,
+  "total_edges": 187,
+  "concepts": {
+    "essential-conditions-for-seed-germination": {
+      "canonical_name": "Essential Conditions for Seed Germination",
+      "slug": "essential-conditions-for-seed-germination",
+      "_aliases": [
+        "Importance of Water for Seed Germinations",
+        "Role of Temperature in Seed Germinatons",
+        "Effect of Light on Seed Germinats",
+        "Importance of Oxygen for Seed Germinaions"
+      ],
+      "domain": "Chemistry",
+      "area": "Plant Biology",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "applications-of-ultrasound",
+        "balanced-diet",
+        "chemical-reactions",
+        "chemical-reactions-and-equations",
+        "energy-conservation",
+        "equation-of-motion",
+        "evolution",
+        "food-chain",
+        "food-composition",
+        "laws-of-reflection",
+        "ph-scale",
+        "photosynthesis",
+        "properties-of-matter",
+        "purification-of-water",
+        "rate-of-reaction",
+        "soil-fertility",
+        "solar-energy-applications",
+        "water-pollution"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "life-cycle-of-plants": {
+      "canonical_name": "Life Cycle of Plants",
+      "slug": "life-cycle-of-plants",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "balanced-diet",
+        "energy-conservation",
+        "evolution",
+        "food-chain",
+        "food-composition",
+        "photosynthesis",
+        "plant-tissues",
+        "rate-of-reaction",
+        "soil-fertility",
+        "solar-energy-applications"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "water-pollution": {
+      "canonical_name": "Water Pollution",
+      "slug": "water-pollution",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": "environmental-chemistry",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "environmental-conservation",
+        "essential-conditions-for-seed-germination",
+        "food-chains",
+        "leaves-as-food-factories",
+        "matter",
+        "natural-resource-management",
+        "soil-composition",
+        "soil-erosion",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "acids-bases-and-salts",
+        "climate-change",
+        "food-chains",
+        "ozone-depletion"
+      ],
+      "see_also": [
+        "earth-s-water-cycle"
+      ]
+    },
+    "soil-composition": {
+      "canonical_name": "Soil Composition",
+      "slug": "soil-composition",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Environmental Science",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "8": 2
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "importance-of-food-chains",
+        "matter",
+        "natural-resource-management"
+      ],
+      "leads_to": [
+        "food-composition",
+        "photosynthesis",
+        "purification-of-water",
+        "rate-of-reaction",
+        "soil-fertility",
+        "solar-energy-applications",
+        "water-pollution"
+      ],
+      "related": [
+        "soil-fertility"
+      ],
+      "see_also": []
+    },
+    "natural-resource-management": {
+      "canonical_name": "Natural Resource Management",
+      "slug": "natural-resource-management",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "food-chains",
+        "leaves-as-food-factories"
+      ],
+      "leads_to": [
+        "balanced-diet",
+        "food-composition",
+        "soil-composition",
+        "soil-erosion",
+        "soil-fertility",
+        "solar-energy-applications",
+        "water-pollution"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "atomic-structure": {
+      "canonical_name": "Atomic Structure",
+      "slug": "atomic-structure",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "elements-compounds-and-mixtures",
+        "matter"
+      ],
+      "leads_to": [
+        "aromatic-compounds",
+        "chemical-bonding",
+        "chemical-reactions",
+        "chemical-reactions-and-equations",
+        "electrochemical-cells",
+        "electronic-configuration",
+        "ph-scale",
+        "photosynthesis",
+        "photovoltaic-effect",
+        "properties-of-matter",
+        "rate-of-reaction",
+        "solar-energy-applications",
+        "valency"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "food-composition": {
+      "canonical_name": "Food Composition",
+      "slug": "food-composition",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Nutrition and Digestion",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "acids-bases-and-salts",
+        "climate-change",
+        "essential-conditions-for-seed-germination",
+        "food-chains",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "matter",
+        "natural-resource-management",
+        "soil-composition",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "climate-change",
+        "food-chains",
+        "leaves-as-food-factories"
+      ],
+      "see_also": []
+    },
+    "balanced-diet": {
+      "canonical_name": "Balanced Diet",
+      "slug": "balanced-diet",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Nutrition and Health",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "environmental-conservation",
+        "essential-conditions-for-seed-germination",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "matter",
+        "natural-resource-management"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "magnetic-properties-of-ferromagnetic-materials": {
+      "canonical_name": "Magnetic Properties of Ferromagnetic Materials",
+      "slug": "magnetic-properties-of-ferromagnetic-materials",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Materials Science",
+      "parent": "materials-science",
+      "grades": [
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 2,
+        "12": 0
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "magnetic-properties-of-materials": {
+      "canonical_name": "Magnetic Properties of Materials",
+      "slug": "magnetic-properties-of-materials",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "standard-units": {
+      "canonical_name": "Standard Units",
+      "slug": "standard-units",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "matter"
+      ],
+      "leads_to": [
+        "chemical-reactions-and-equations",
+        "electrochemical-cells",
+        "force",
+        "mass",
+        "photosynthesis",
+        "solar-energy-applications",
+        "weight"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "properties-of-matter": {
+      "canonical_name": "Properties of Matter",
+      "slug": "properties-of-matter",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "elements-compounds-and-mixtures",
+        "essential-conditions-for-seed-germination",
+        "matter",
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [
+        "measuring-temperature",
+        "states-of-water"
+      ],
+      "see_also": []
+    },
+    "matter": {
+      "canonical_name": "Matter",
+      "slug": "matter",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Introduction to Chemistry",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "elements-compounds-and-mixtures"
+      ],
+      "leads_to": [
+        "atomic-structure",
+        "balanced-diet",
+        "chemical-reactions",
+        "chemical-reactions-and-equations",
+        "environmental-conservation",
+        "food-composition",
+        "laws-of-reflection",
+        "mixtures",
+        "properties-of-matter",
+        "rate-of-reaction",
+        "soil-composition",
+        "soil-fertility",
+        "standard-units",
+        "states-of-matter",
+        "valency",
+        "water-pollution"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "measuring-temperature": {
+      "canonical_name": "Measuring Temperature",
+      "slug": "measuring-temperature",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "cooling-effect-by-evaporation",
+        "states-of-matter"
+      ],
+      "leads_to": [
+        "electrochemical-cells",
+        "photosynthesis",
+        "solar-energy-applications",
+        "thermodynamics",
+        "thermometer"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "states-of-water": {
+      "canonical_name": "States of Water",
+      "slug": "states-of-water",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "acids-bases-and-salts",
+        "cooling-effect-by-evaporation",
+        "elements-compounds-and-mixtures"
+      ],
+      "leads_to": [
+        "applications-of-ultrasound",
+        "atmospheric-pressure",
+        "boiling-point-elevation",
+        "chemical-bonding",
+        "density",
+        "density-and-relative-density",
+        "earth-s-water-cycle",
+        "energy",
+        "food-composition",
+        "mixtures",
+        "photovoltaic-effect",
+        "purification-of-water",
+        "rate-of-reaction",
+        "sound-waves",
+        "thermodynamics",
+        "water-cycle",
+        "water-pollution"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "cooling-effect-by-evaporation": {
+      "canonical_name": "Cooling Effect by Evaporation",
+      "slug": "cooling-effect-by-evaporation",
+      "_aliases": [
+        "Evaporative Cooling",
+        "Heat Transfer through Evaporation"
+      ],
+      "domain": "Chemistry",
+      "area": "Thermodynamics",
+      "parent": "",
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "atmospheric-pressure",
+        "measuring-temperature",
+        "mixtures",
+        "states-of-water",
+        "thermometer"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "cellular-respiration": {
+      "canonical_name": "Cellular Respiration",
+      "slug": "cellular-respiration",
+      "_aliases": [
+        "Respiration"
+      ],
+      "domain": "Chemistry",
+      "area": "Biology-Chemistry Interface",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "acids-bases-and-salts",
+        "energy",
+        "food-chains",
+        "leaves-as-food-factories"
+      ],
+      "leads_to": [
+        "photosynthesis"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "soil-erosion": {
+      "canonical_name": "Soil Erosion",
+      "slug": "soil-erosion",
+      "_aliases": [
+        "Land Degradation",
+        "Water Pollution"
+      ],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "importance-of-food-chains",
+        "leaves-as-food-factories",
+        "natural-resource-management"
+      ],
+      "leads_to": [
+        "water-pollution"
+      ],
+      "related": [
+        "acids-bases-and-salts",
+        "climate-change",
+        "food-chains"
+      ],
+      "see_also": []
+    },
+    "human-impact-on-the-environmental-degradation": {
+      "canonical_name": "Human Impact on the Environmental Degradation",
+      "slug": "human-impact-on-the-environmental-degradation",
+      "aliases": [
+        "Environmental Pollution",
+        "Greenhouse Effect"
+      ],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "acid-rain": {
+      "canonical_name": "Acid Rain",
+      "slug": "acid-rain",
+      "aliases": [
+        "Acidity of Precipitation",
+        "Rain Acidity"
+      ],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "climate-change",
+        "environmental-conservation",
+        "food-chains",
+        "leaves-as-food-factories"
+      ],
+      "leads_to": [],
+      "related": [
+        "climate-change",
+        "earths-geological-time-scales",
+        "ozone-depletion",
+        "soil-erosion"
+      ],
+      "see_also": []
+    },
+    "chemical-bonding": {
+      "canonical_name": "Chemical Bonding",
+      "slug": "chemical-bonding",
+      "_aliases": [
+        "Bond Formation",
+        "Interatomic Forces"
+      ],
+      "domain": "Physical Chemistry",
+      "area": "Molecular Structure",
+      "parent": "chemistry",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "states-of-matter",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "acids-bases-and-salts",
+        "laws-of-reflection"
+      ],
+      "see_also": []
+    },
+    "earths-geological-time-scales": {
+      "canonical_name": "Earth's Geological Time Scales",
+      "slug": "earths-geological-time-scales",
+      "_aliases": [
+        "Geologic Time Scale",
+        "Geological Time Scale"
+      ],
+      "domain": "Chemistry",
+      "area": "Geochemistry",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "solar-energy-generation",
+        "water-pollution"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "conservation-of-natural-resources": {
+      "canonical_name": "Conservation of Natural Resources",
+      "slug": "conservation-of-natural-resources",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "chemical-reactions": {
+      "canonical_name": "Chemical Reactions",
+      "slug": "chemical-reactions",
+      "_aliases": [],
+      "domain": "Physical Chemistry",
+      "area": "Reaction Kinetics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "acids-bases-and-salts",
+        "atomic-structure",
+        "essential-conditions-for-seed-germination",
+        "food-chains",
+        "leaves-as-food-factories",
+        "matter",
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [
+        "climate-change"
+      ],
+      "see_also": []
+    },
+    "environmental-conservation": {
+      "canonical_name": "Environmental Conservation",
+      "slug": "environmental-conservation",
+      "aliases": [
+        "Earth's Environmental Conservation"
+      ],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "climate-change",
+        "leaves-as-food-factories",
+        "matter"
+      ],
+      "leads_to": [
+        "acid-rain",
+        "balanced-diet",
+        "food-chains",
+        "ozone-depletion",
+        "solar-cells",
+        "solar-energy-generation",
+        "water-pollution",
+        "wind-energy"
+      ],
+      "related": [
+        "soil-fertility",
+        "water-filtration-process"
+      ],
+      "see_also": []
+    },
+    "leaves-as-food-factories": {
+      "canonical_name": "Leaves as Food Factories",
+      "slug": "leaves-as-food-factories",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Plant Nutrition",
+      "parent": null,
+      "grades": [
+        7
+      ],
+      "importance-by-grade": {
+        "7": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "acid-rain",
+        "balanced-diet",
+        "cellular-respiration",
+        "chemical-reactions",
+        "environmental-conservation",
+        "food-composition",
+        "natural-resource-management",
+        "photosynthesis",
+        "rate-of-reaction",
+        "soil-erosion",
+        "water-pollution"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "food-chains": {
+      "canonical_name": "Food Chains",
+      "slug": "food-chains",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Ecosystems",
+      "parent": null,
+      "grades": [
+        7,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "7": 4,
+        "10": 3
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "environmental-conservation",
+        "importance-of-food-chains"
+      ],
+      "leads_to": [
+        "acid-rain",
+        "cellular-respiration",
+        "chemical-reactions",
+        "food-composition",
+        "natural-resource-management",
+        "photosynthesis",
+        "water-pollution"
+      ],
+      "related": [
+        "decomposition-process",
+        "importance-of-food-chains",
+        "photosynthesis"
+      ],
+      "see_also": []
+    },
+    "acids-and-bases": {
+      "canonical_name": "Acids and Bases",
+      "slug": "acids-and-bases",
+      "_aliases": [
+        "Arrhenius Theory",
+        "Bronsted-Lowry Theory",
+        "Lewis Theory"
+      ],
+      "domain": "Physical Chemistry",
+      "area": "Thermodynamics",
+      "parent": "thermodynamics",
+      "_grades": [
+        9,
+        10
+      ],
+      "importanceByGrade": {
+        "9": 2,
+        "10": 3
+      },
+      "sourceBoards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "climate-change": {
+      "canonical_name": "Climate Change",
+      "slug": "climate-change",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": null,
+      "grades": [
+        7,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "7": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "acid-rain",
+        "environmental-conservation",
+        "food-composition",
+        "photosynthesis"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "laws-of-reflection": {
+      "canonical_name": "Laws of Reflection",
+      "slug": "laws-of-reflection",
+      "aliases": [
+        "Reflection",
+        "Angle of Incidence Equals Angle of Reflection"
+      ],
+      "domain": "Optics",
+      "area": "Refraction and Reflection",
+      "_parent": "",
+      "grades": [
+        8,
+        11
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "11": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "essential-conditions-for-seed-germination",
+        "matter"
+      ],
+      "leads_to": [
+        "force"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "sign-convention-for-reflected-rays": {
+      "_parent": "",
+      "canonical_name": "Sign Convention for Reflected Rays",
+      "slug": "sign-convention-for-reflected-rays",
+      "aliases": [
+        "Sign Convention for Reflection"
+      ],
+      "domain": "Physics",
+      "area": "",
+      "grades": [],
+      "importanceByGrade": {},
+      "sourceBoards": [],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "lens-makers-formula-derivation-and-application": {
+      "canonical_name": "Lens Maker's Formula Derivation And Application",
+      "slug": "lens-makers-formula-derivation-and-application",
+      "aliases": [],
+      "domain": "Optics",
+      "area": "Lenses",
+      "parent": "optics",
+      "_id": "unique-id-0",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "who-all-live-together-in-nature": {
+      "canonical_name": "Who All Live Together In Nature?",
+      "slug": "who-all-live-together-in-nature",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Living World",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_By_Grade": {
+        "8": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "decomposition-process": {
+      "canonical_name": "Decomposition Process",
+      "slug": "decomposition-process",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": null,
+      "grades": [
+        8
+      ],
+      "importance_BY_Grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "photosynthesis": {
+      "canonical_name": "Photosynthesis",
+      "slug": "photosynthesis",
+      "_aliases": [],
+      "domain": "Chemistry",
+      "area": "Organic Chemistry",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "cellular-respiration",
+        "climate-change",
+        "essential-conditions-for-seed-germination",
+        "food-chains",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "measuring-temperature",
+        "soil-composition",
+        "standard-units"
+      ],
+      "leads_to": [
+        "rate-of-reaction"
+      ],
+      "related": [
+        "acids-bases-and-salts",
+        "cellular-respiration",
+        "climate-change",
+        "environmental-conservation",
+        "food-chains",
+        "leaves-as-food-factories"
+      ],
+      "see_also": []
+    },
+    "importance-of-food-chains": {
+      "canonical_name": "Importance of Food Chains",
+      "slug": "importance-of-food-chains",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Ecosystem Balance",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "food-chains",
+        "soil-composition",
+        "soil-erosion"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "acids-bases-and-salts": {
+      "canonical_name": "Acids Bases and Salts",
+      "slug": "acids-bases-and-salts",
+      "aliases": [],
+      "domain": "ChemistrY",
+      "area": "",
+      "parent": "",
+      "grades": [
+        7,
+        11
+      ],
+      "importance-by-GRADE": {
+        "7": 3,
+        "11": 4
+      },
+      "source_BOARDS": [
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "cellular-respiration",
+        "chemical-reactions",
+        "electrochemical-cells",
+        "food-composition",
+        "states-of-water"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "chemical-reactions-and-equations": {
+      "canonical_name": "Chemical Reactions and Equations",
+      "slug": "chemical-reactions-and-equations",
+      "_aliases": [
+        "Reaction Equation",
+        "Balanced Chemical Equation"
+      ],
+      "domain": "Chemistry",
+      "area": "Chemical Reaction and Stoichiometry",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "essential-conditions-for-seed-germination",
+        "matter",
+        "standard-units"
+      ],
+      "leads_to": [],
+      "related": [
+        "environmental-conservation",
+        "life-cycle-of-plants",
+        "soil-composition"
+      ],
+      "see_also": []
+    },
+    "electric-current-and-magnetism": {
+      "canonical_name": "Electric Current and Magnetism",
+      "slug": "electric-current-and-magnetism",
+      "_aliases": [],
+      "domain": "Chemistry",
+      "area": "Electrochemistry",
+      "parent": null,
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "force": {
+      "canonical_name": "Force",
+      "slug": "force",
+      "aliases": [
+        "Fuerza"
+      ],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "laws-of-reflection",
+        "mass",
+        "standard-units"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "weight-and-its-measurement": {
+      "canonical_name": "Weight and Its Measurement",
+      "slug": "weight-and-its-measurement",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Measurement and Gravitation",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "atmospheric-pressure": {
+      "canonical_name": "Atmospheric Pressure",
+      "slug": "atmospheric-pressure",
+      "aliases": [
+        "Air Pressure"
+      ],
+      "domain": "Chemistry",
+      "area": "States of Matter",
+      "parent": "states-of-matter",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "cooling-effect-by-evaporation",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "climate-change",
+        "environmental-conservation"
+      ],
+      "see_also": []
+    },
+    "states-of-matter": {
+      "canonical_name": "States of Matter",
+      "slug": "states-of-matter",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8,
+        11
+      ],
+      "importance_BY_GRADE": {
+        "8": 4,
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "matter"
+      ],
+      "leads_to": [
+        "aromatic-compounds",
+        "chemical-bonding",
+        "chemical-reactions",
+        "definition-of-a-mixture",
+        "measuring-temperature",
+        "mixtures",
+        "properties-of-matter",
+        "rate-of-reaction",
+        "thermodynamics",
+        "valency",
+        "work-energy-and-power"
+      ],
+      "related": [
+        "change-of-state-of-matter"
+      ],
+      "see_also": [
+        "states-of-water"
+      ]
+    },
+    "mixtures": {
+      "canonical_name": "Mixtures",
+      "slug": "mixtures",
+      "_aliases": [
+        "Mixture",
+        "Blends"
+      ],
+      "domain": "Chemistry",
+      "area": "States of Matter",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 0,
+        "12": 6
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "cooling-effect-by-evaporation",
+        "elements-compounds-and-mixtures",
+        "matter",
+        "states-of-matter",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "elements-compounds-and-mixtures": {
+      "canonical_name": "Elements, Compounds and Mixtures",
+      "slug": "elements-compounds-and-mixtures",
+      "_aliases": [
+        "Chemical Substances",
+        "Mixtures"
+      ],
+      "domain": "General Principles and Processes of Isolation of Elements",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "6": 0,
+        "7": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "aromatic-compounds",
+        "atomic-structure",
+        "matter",
+        "mixtures",
+        "properties-of-matter",
+        "states-of-water",
+        "valency"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "capacity-and-concentration-of-solutions": {
+      "canonical_name": "Capacity and Concentration Of Solutions",
+      "slug": "capacity-and-concentration-of-solutions",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Properties of Matter",
+      "parent": "properties-of-matter",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "thermodynamics"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "density": {
+      "canonical_name": "Density",
+      "slug": "density",
+      "aliases": [
+        "Mass/Volume Ratio"
+      ],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "mass",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "thermometer": {
+      "canonical_name": "Thermometer",
+      "slug": "thermometer",
+      "_aliases": [
+        "Types of Thermometers",
+        "Temperature Measuring Devices"
+      ],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "cooling-effect-by-evaporation",
+        "measuring-temperature"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "boiling-point-elevation": {
+      "canonical_name": "Boiling Point Elevation",
+      "slug": "boiling-point-elevation",
+      "_aliases": [
+        "Ebullioscopic Constant",
+        "Ebulioscopic Rise"
+      ],
+      "domain": "Chemistry",
+      "area": "Colligative Properties",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "change-of-state-of-matter",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "electrochemical-cells": {
+      "canonical_name": "Electrochemical Cells",
+      "slug": "electrochemical-cells",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Thermodynamics and Electrochemistry",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "acids-bases-and-salts",
+        "atomic-structure",
+        "electrolyte-and-electrochemical-cells",
+        "energy",
+        "measuring-temperature",
+        "ph-scale",
+        "standard-units"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "electromagnetic-induction": {
+      "canonical_name": "Electromagnetic Induction",
+      "slug": "electromagnetic-induction",
+      "_aliases": [
+        "Faraday's Law of Electromagnetic Induciton"
+      ],
+      "domain": "Chemistry",
+      "area": "Electrochemistry",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "10": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "change-of-state-of-matter",
+        "energy"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "working-of-a-solar-panel": {
+      "canonical_name": "Working of a Solar Panel",
+      "slug": "working-of-a-solar-panel",
+      "aliases": [
+        "Solar Cell",
+        "Photovoltaic Effect"
+      ],
+      "domain": "Chemistry",
+      "area": "Electrochemistry",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "working-of-a-thermometer": {
+      "canonical_name": "Working of a Thermometer",
+      "slug": "working-of-a-thermometer",
+      "_aliases": [
+        "Thermometric Devices"
+      ],
+      "domain": "Chemistry",
+      "area": "Heat Transfer and Measurement",
+      "parent": "heat-transfer-and-measurement",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "heat-transfer-mechanisms-in-air-conditioning": {
+      "canonical_name": "Heat Transfer Mechanisms in Air Conditioning",
+      "slug": "heat-transfer-mechanisms-in-air-conditioning",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Air Conditioning",
+      "_parent": "",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "water-filtration-process": {
+      "canonical_name": "Water Filtration Process",
+      "slug": "water-filtration-process",
+      "aliases": [
+        "Water Purification Process"
+      ],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "photovoltaic-effect": {
+      "canonical_name": "Photovoltaic Effect",
+      "slug": "photovoltaic-effect",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "change-of-state-of-matter",
+        "energy",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "solar-cells": {
+      "canonical_name": "Solar Cells",
+      "slug": "solar-cells",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "applications-of-ultrasound",
+        "energy",
+        "environmental-conservation"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "solar-energy-applications": {
+      "canonical_name": "Solar Energy Applications",
+      "slug": "solar-energy-applications",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "10": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "energy",
+        "essential-conditions-for-seed-germination",
+        "life-cycle-of-plants",
+        "measuring-temperature",
+        "natural-resource-management",
+        "soil-composition",
+        "standard-units"
+      ],
+      "leads_to": [],
+      "related": [
+        "earth-s-water-cycle",
+        "energy-conservation",
+        "environmental-conservation"
+      ],
+      "see_also": []
+    },
+    "solar-energy-generation": {
+      "canonical_name": "Solar Energy Generation",
+      "slug": "solar-energy-generation",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Renewable Energy Sources",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "applications-of-ultrasound",
+        "earths-geological-time-scales",
+        "energy",
+        "environmental-conservation"
+      ],
+      "leads_to": [],
+      "related": [
+        "wind-energy"
+      ],
+      "see_also": []
+    },
+    "physical-nature-of-matter": {
+      "canonical_name": "Physical Nature of Matter",
+      "slug": "physical-nature-of-matter",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "change-of-state-of-matter": {
+      "canonical_name": "Change of State of Matter",
+      "slug": "change-of-state-of-matter",
+      "aliases": [
+        "State Changes",
+        "Phase Transitions"
+      ],
+      "domain": "Chemistry",
+      "area": "Thermodynamics",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "boiling-point-elevation",
+        "electromagnetic-induction",
+        "photovoltaic-effect",
+        "thermodynamics"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "energy": {
+      "canonical_name": "Energy",
+      "slug": "energy",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "states-of-water"
+      ],
+      "leads_to": [
+        "cellular-respiration",
+        "electrochemical-cells",
+        "electromagnetic-induction",
+        "photovoltaic-effect",
+        "solar-cells",
+        "solar-energy-applications",
+        "solar-energy-generation",
+        "thermodynamics",
+        "work-energy-and-power"
+      ],
+      "related": [
+        "laws-of-reflection"
+      ],
+      "see_also": []
+    },
+    "sound-waves": {
+      "canonical_name": "Sound Waves",
+      "slug": "sound-waves",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Properties of Matter",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "applications-of-ultrasound": {
+      "canonical_name": "Applications of Ultrasound",
+      "slug": "applications-of-ultrasound",
+      "_aliases": [
+        "Medical Imaging",
+        "Industrial Cleaning"
+      ],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "essential-conditions-for-seed-germination",
+        "states-of-water"
+      ],
+      "leads_to": [
+        "solar-cells",
+        "solar-energy-generation"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "definition-of-a-mixture": {
+      "canonical_name": "Definition of a Mixture",
+      "slug": "definition-of-a-mixture",
+      "_aliases": [
+        "Mixture Definition"
+      ],
+      "domain": "Chemistry",
+      "area": "Mixtures",
+      "parent": "what-is-a-mixture?",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "types-of-pure-elements-and-compounds": {
+      "canonical_name": "Types of Pure Elements and Compounds",
+      "slug": "types-of-pure-elements-and-compounds",
+      "_aliases": [
+        "Pure Elements",
+        "Pure Compounds"
+      ],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "what-is-a-molecule": {
+      "canonical_name": "What is a Molecul?",
+      "slug": "what-is-a-molecule",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Molecules and Compounds",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "charged-particles-in-atoms": {
+      "canonical_name": "Charged Particles in Atoms",
+      "slug": "charged-particles-in-atoms",
+      "_aliases": [
+        "charged particles",
+        "ions",
+        "molecules"
+      ],
+      "domain": "Chemistry",
+      "area": "Atomic Structure",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "valency": {
+      "canonical_name": "Valency",
+      "slug": "valency",
+      "_aliases": [
+        "Definition of valency",
+        "Types of valency",
+        "Valency of metals",
+        "Valency of nonmetals"
+      ],
+      "domain": "Chemistry",
+      "area": "Atomic Structure",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance by grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "elements-compounds-and-mixtures",
+        "matter",
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [
+        "measuring-temperature",
+        "standard-units",
+        "states-of-water"
+      ],
+      "see_also": []
+    },
+    "plant-tissues": {
+      "canonical_name": "Plant Tissues",
+      "slug": "plant-tissues",
+      "_aliases": [
+        "MERISTEMATIC_TISSUES",
+        "PERMANENT_TISSUES"
+      ],
+      "domain": "Chemistry",
+      "area": "Biology and Chemical Processes",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_per_grade": {
+        "9": 5
+      },
+      "source_boys": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "life-cycle-of-plants"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "rate-of-reaction": {
+      "canonical_name": "Rate of Reaction",
+      "slug": "rate-of-reaction",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Kinetics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "essential-conditions-for-seed-germination",
+        "leaves-as-food-factories",
+        "life-cycle-of-plants",
+        "matter",
+        "photosynthesis",
+        "soil-composition",
+        "states-of-matter",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "chemical-reactions",
+        "climate-change",
+        "food-chains",
+        "leaves-as-food-factories"
+      ],
+      "see_also": []
+    },
+    "equation-of-motion": {
+      "canonical_name": "Equation of Motion",
+      "slug": "equation-of-motion",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Motion Under Gravity",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "essential-conditions-for-seed-germination"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "first-law-of-motion-newton-s-first-law": {
+      "canonical_name": "First Law of Motion - Newton's First Law",
+      "slug": "first-law-of-motion-newton-s-first-law",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "third-law-of-motion ": {
+      "canonical_name": "Third Law of Motion ",
+      "slug": "third-law-of-motion ",
+      "aliases": [
+        "Action-Reaction Principle",
+        "Newton's Third Law"
+      ],
+      "domain": "Chemistry",
+      "area": "Laws of Motion",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mass": {
+      "canonical_name": "Mass",
+      "slug": "mass",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "standard-units"
+      ],
+      "leads_to": [
+        "density",
+        "force"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "weight": {
+      "canonical_name": "Weight",
+      "slug": "weight",
+      "aliases": [],
+      "domain": "chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance by grade": {
+        "9": 4
+      },
+      "source boards": [
+        "ncert",
+        "icse"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "standard-units"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "archimedes-principal": {
+      "canonical_name": "Archimedes' Principal",
+      "slug": "archimedes-principal",
+      "aliases": [
+        "Buoyancy",
+        "Principle of Flotation"
+      ],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "nuclear-reactions": {
+      "canonical_name": "Nuclear Reactions",
+      "slug": "nuclear-reactions",
+      "_aliases": [
+        "Radioactivity"
+      ],
+      "domain": "Chemistry",
+      "area": "Atomic Structure and Properties",
+      "parent": "atomic-structure-and-properties",
+      "grades": [
+        9,
+        12
+      ],
+      "importance-by-grade": {
+        "9": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "dna-structure-and-replication": {
+      "canonical_name": "DNA Structure and Replication",
+      "slug": "dna-structure-and-replication",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Genetics",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "evolution": {
+      "canonical_name": "Evolution",
+      "slug": "evolution",
+      "_aliases": [
+        "Species Change",
+        "Fossil Record",
+        "Natural Selection",
+        "Phylogenetic Trees",
+        "Cladistics"
+      ],
+      "domain": "Chemistry",
+      "area": "Biochemistry",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "essential-conditions-for-seed-germination",
+        "life-cycle-of-plants"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "food-chain": {
+      "canonical_name": "Food Chain",
+      "slug": "food-chain",
+      "aliases": [
+        "Trophic Level",
+        "Energy Transfer"
+      ],
+      "domain": "Chemistry",
+      "area": "Ecosystems and Environmental Science",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "essential-conditions-for-seed-germination",
+        "life-cycle-of-plants"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ozone-depletion": {
+      "canonical_name": "Ozone Depletion",
+      "slug": "ozone-depletion",
+      "_aliases": [
+        "Causes of ozone depletion",
+        "Effects of ozone depletion"
+      ],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": "atmospheric-science",
+      "grades": [
+        9,
+        12
+      ],
+      "importance-by-grade": {
+        "9": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "environmental-conservation"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "energy-conservation": {
+      "canonical_name": "Energy Conservation",
+      "slug": "energy-conservation",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Thermodynamics",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "essential-conditions-for-seed-germination",
+        "life-cycle-of-plants"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "wind-energy": {
+      "canonical_name": "Wind Energy",
+      "slug": "wind-energy",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Renewable Energy Sources",
+      "parent": "renewable-energy-sources",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "environmental-conservation"
+      ],
+      "leads_to": [],
+      "related": [
+        "soil-fertility",
+        "solar-energy-applications"
+      ],
+      "see_also": []
+    },
+    "acidic-oxidation-reactions": {
+      "canonical_name": "Acidic Oxidation Reactions",
+      "slug": "acidic-oxidation-reactions",
+      "_aliases": [
+        "Oxidizing Agents",
+        "Redox Reactions"
+      ],
+      "domain": "Chemistry",
+      "area": "Reactions and Processes",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "acid-rain-formation": {
+      "canonical_name": "Acid Rain Formation",
+      "slug": "acid-rain-formation",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [],
+      "_importance_by_grade": {},
+      "source_boys": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earths-rotational-speed-and-its-effects": {
+      "canonical_name": "Earth's Rotational Speed and Its Effects",
+      "slug": "earths-rotational-speed-and-its-effects",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earth-s-water-cycle": {
+      "canonical_name": "Earth's Water Cycle",
+      "slug": "earth-s-water-cycle",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Environmental Chemistry",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "water-cycle": {
+      "canonical_name": "Water Cycle",
+      "slug": "water-cycle",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Earth's Hydrosystem",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "soil-fertility": {
+      "canonical_name": "Soil Fertility",
+      "slug": "soil-fertility",
+      "_aliases": [
+        "Pedosphere Support"
+      ],
+      "domain": "Chemistry",
+      "area": "Earth's Pedosphere and Soil Science",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 4,
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "essential-conditions-for-seed-germination",
+        "life-cycle-of-plants",
+        "matter",
+        "natural-resource-management",
+        "soil-composition"
+      ],
+      "leads_to": [],
+      "related": [
+        "environmental-conservation",
+        "natural-resource-management"
+      ],
+      "see_also": []
+    },
+    "empirical-and-molecular-formulas": {
+      "canonical_name": "Empirical and Molecular Formulas",
+      "slug": "empirical-and-molecular-formulas",
+      "_aliases": [
+        "Empirical Formula",
+        "Molecular Formula"
+      ],
+      "domain": "Chemistry",
+      "area": "Chemical Calculations",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "electronic-configuration": {
+      "canonical_name": "Electronic Configuration",
+      "slug": "electronic-configuration",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "11": 0,
+        "12": 0
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure"
+      ],
+      "leads_to": [],
+      "related": [
+        "states-of-matter"
+      ],
+      "see_also": []
+    },
+    "ph-scale": {
+      "canonical_name": "pH Scale",
+      "slug": "ph-scale",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Acids and Bases",
+      "parent": null,
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "essential-conditions-for-seed-germination"
+      ],
+      "leads_to": [
+        "electrochemical-cells"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "electrolysis": {
+      "canonical_name": "Electrolysis",
+      "slug": "electrolysis",
+      "aliases": [
+        "Electrolytic Oxidation",
+        "Oxide Electrochemistry"
+      ],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": "physical-chemistry",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "electrolyte-and-electrochemical-cells": {
+      "canonical_name": "Electrolyte and Electrochemical CELLS",
+      "slug": "electrolyte-and-electrochemical-cells",
+      "aliases": [
+        "Galvanic Cells",
+        "Fuel Cells"
+      ],
+      "domain": "Chemistry",
+      "area": "Physical Chemistry",
+      "parent": "physical-chemistry",
+      "grades": [
+        10
+      ],
+      "importance_By_Grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "state-board"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [
+        "electrochemical-cells"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "thermodynamics": {
+      "canonical_name": "Thermodynamics",
+      "slug": "thermodynamics",
+      "aliases": [
+        "Zeroth Law of Thermodynamics",
+        "First Law of Thermodynaamics",
+        "Second Law of Thermodynamcis",
+        "Third Law of Thermodynmaics"
+      ],
+      "domain": "Chemisty",
+      "area": "Physical Chemstry",
+      "parent": "physical-chemistry",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_by_grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "capacity-and-concentration-of-solutions",
+        "change-of-state-of-matter",
+        "energy",
+        "measuring-temperature",
+        "states-of-matter",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [
+        "capacity-and-concentration-of-solutions",
+        "solar-energy-applications"
+      ],
+      "see_also": []
+    },
+    "work-energy-and-power": {
+      "canonical_name": "Work Energy and Power",
+      "slug": "work-energy-and-power",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "energy",
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ray-diagrams-for-convex-mirrors": {
+      "canonical_name": "Ray Diagrams for Convex Mirrors",
+      "slug": "ray-diagrams-for-convex-mirrors",
+      "_aliases": [
+        "Construction of a ray diagrams for a convex mirrors",
+        "Convex Mirror Ray Diagram"
+      ],
+      "domain": "Optics",
+      "area": "Mirrors and Lense",
+      "parent": "mirrors-and-lens",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ethanol-metabolization": {
+      "canonical_name": "Ethanol Metabolization",
+      "slug": "ethanol-metabolization",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Organic Chemistry",
+      "parent": null,
+      "grades": [
+        11
+      ],
+      "importance-by-grade": {
+        "11": 5
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "fats-and-fatty-acids": {
+      "canonical_name": "Fats and Fattty Acids",
+      "slug": "fats-and-fatty-acids",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Organic Chemistry ",
+      "parent": null,
+      "grades": [
+        11
+      ],
+      "importance.by.grade": {
+        "11": 5
+      },
+      "source-Boards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "nucleic-acid": {
+      "canonical_name": "Nucleic Acid",
+      "slug": "nucleic-acid",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Biomolecules",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_Grade": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "biomolecular-structure-and-functions": {
+      "canonical_name": "Biomolecular Structure and Functions",
+      "slug": "biomolecular-structure-and-functions",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Biochemistry",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_GRADE": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "purification-and-properties-of-alkali-metals": {
+      "canonical_name": "Purification and Properties of Alkali Metals",
+      "slug": "purification-and-properties-of-alkali-metals",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_By_Grade": {
+        "11": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ethanol-metabolization-in-human-body": {
+      "canonical_name": "Ethanol Metabolization in Human Body",
+      "slug": "ethanol-metabolization-in-human-body",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "Organic Chemistry",
+      "parent": "organic-chemistry",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "biomolecule": {
+      "canonical_name": "Biomolecule",
+      "slug": "biomolecule",
+      "Aliases": [],
+      "Domain": "Chemistry",
+      "Area": "Biochemistry",
+      "Parent": "",
+      "Grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "Importance-by-grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 5
+      },
+      "Source_Boards": [
+        "ICSE",
+        "state board"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "aromatic-compounds": {
+      "canonical_name": "Aromatic Compounds",
+      "slug": "aromatic-compounds",
+      "_aliases": [
+        "Aromatics",
+        "Arene chemistry"
+      ],
+      "domain": "Organic Chemistry",
+      "area": "Functional Groups",
+      "parent": "functional-groups-in-organic-chemistry",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "atomic-structure",
+        "elements-compounds-and-mixtures",
+        "states-of-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "purification-of-water": {
+      "canonical_name": "Purification of Water",
+      "slug": "purification-of-water",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance_BY_GRADE": {
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "essential-conditions-for-seed-germination",
+        "soil-composition",
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "density-and-relative-density": {
+      "canonical_name": "Density and Relative Density",
+      "slug": "density-and-relative-density",
+      "aliases": [],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance_BY_GRADE": {
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "chemistry",
+      "prerequisites": [
+        "states-of-water"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    }
+  },
+  "edges": [
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "balanced-diet",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "properties-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "laws-of-reflection",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "chemical-reactions-and-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "applications-of-ultrasound",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "equation-of-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "evolution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "food-chain",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "energy-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "soil-fertility",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "ph-scale",
+      "type": "prerequisite"
+    },
+    {
+      "from": "essential-conditions-for-seed-germination",
+      "to": "purification-of-water",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "balanced-diet",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "plant-tissues",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "evolution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "food-chain",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "energy-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "life-cycle-of-plants",
+      "to": "soil-fertility",
+      "type": "prerequisite"
+    },
+    {
+      "from": "soil-composition",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "soil-composition",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "soil-composition",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "soil-composition",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "soil-composition",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "soil-composition",
+      "to": "soil-fertility",
+      "type": "prerequisite"
+    },
+    {
+      "from": "soil-composition",
+      "to": "purification-of-water",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-resource-management",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-resource-management",
+      "to": "soil-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-resource-management",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-resource-management",
+      "to": "balanced-diet",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-resource-management",
+      "to": "soil-erosion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-resource-management",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-resource-management",
+      "to": "soil-fertility",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "properties-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "chemical-bonding",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "chemical-reactions-and-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "electrochemical-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "photovoltaic-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "valency",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "electronic-configuration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "ph-scale",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-structure",
+      "to": "aromatic-compounds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "standard-units",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "standard-units",
+      "to": "chemical-reactions-and-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "standard-units",
+      "to": "force",
+      "type": "prerequisite"
+    },
+    {
+      "from": "standard-units",
+      "to": "electrochemical-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "standard-units",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "standard-units",
+      "to": "mass",
+      "type": "prerequisite"
+    },
+    {
+      "from": "standard-units",
+      "to": "weight",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "soil-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "atomic-structure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "balanced-diet",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "standard-units",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "properties-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "environmental-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "laws-of-reflection",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "chemical-reactions-and-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "mixtures",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "valency",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matter",
+      "to": "soil-fertility",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measuring-temperature",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measuring-temperature",
+      "to": "thermometer",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measuring-temperature",
+      "to": "electrochemical-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measuring-temperature",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measuring-temperature",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "chemical-bonding",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "atmospheric-pressure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "mixtures",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "density",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "boiling-point-elevation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "photovoltaic-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "sound-waves",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "applications-of-ultrasound",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "earth-s-water-cycle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "water-cycle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "purification-of-water",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-water",
+      "to": "density-and-relative-density",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cooling-effect-by-evaporation",
+      "to": "measuring-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cooling-effect-by-evaporation",
+      "to": "states-of-water",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cooling-effect-by-evaporation",
+      "to": "atmospheric-pressure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cooling-effect-by-evaporation",
+      "to": "mixtures",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cooling-effect-by-evaporation",
+      "to": "thermometer",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cellular-respiration",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "soil-erosion",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "solar-energy-generation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "environmental-conservation",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "environmental-conservation",
+      "to": "balanced-diet",
+      "type": "prerequisite"
+    },
+    {
+      "from": "environmental-conservation",
+      "to": "acid-rain",
+      "type": "prerequisite"
+    },
+    {
+      "from": "environmental-conservation",
+      "to": "food-chains",
+      "type": "prerequisite"
+    },
+    {
+      "from": "environmental-conservation",
+      "to": "solar-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "environmental-conservation",
+      "to": "solar-energy-generation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "environmental-conservation",
+      "to": "ozone-depletion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "environmental-conservation",
+      "to": "wind-energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "natural-resource-management",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "balanced-diet",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "cellular-respiration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "soil-erosion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "acid-rain",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "environmental-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-as-food-factories",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "natural-resource-management",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "cellular-respiration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "acid-rain",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "climate-change",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "climate-change",
+      "to": "acid-rain",
+      "type": "prerequisite"
+    },
+    {
+      "from": "climate-change",
+      "to": "environmental-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "climate-change",
+      "to": "photosynthesis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "laws-of-reflection",
+      "to": "force",
+      "type": "prerequisite"
+    },
+    {
+      "from": "photosynthesis",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "importance-of-food-chains",
+      "to": "soil-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "importance-of-food-chains",
+      "to": "soil-erosion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "importance-of-food-chains",
+      "to": "food-chains",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acids-bases-and-salts",
+      "to": "food-composition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acids-bases-and-salts",
+      "to": "states-of-water",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acids-bases-and-salts",
+      "to": "cellular-respiration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acids-bases-and-salts",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acids-bases-and-salts",
+      "to": "electrochemical-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "properties-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "measuring-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "chemical-bonding",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "mixtures",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "definition-of-a-mixture",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "valency",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "rate-of-reaction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "work-energy-and-power",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter",
+      "to": "aromatic-compounds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "elements-compounds-and-mixtures",
+      "to": "atomic-structure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "elements-compounds-and-mixtures",
+      "to": "properties-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "elements-compounds-and-mixtures",
+      "to": "matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "elements-compounds-and-mixtures",
+      "to": "states-of-water",
+      "type": "prerequisite"
+    },
+    {
+      "from": "elements-compounds-and-mixtures",
+      "to": "mixtures",
+      "type": "prerequisite"
+    },
+    {
+      "from": "elements-compounds-and-mixtures",
+      "to": "valency",
+      "type": "prerequisite"
+    },
+    {
+      "from": "elements-compounds-and-mixtures",
+      "to": "aromatic-compounds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "capacity-and-concentration-of-solutions",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "change-of-state-of-matter",
+      "to": "boiling-point-elevation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "change-of-state-of-matter",
+      "to": "electromagnetic-induction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "change-of-state-of-matter",
+      "to": "photovoltaic-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "change-of-state-of-matter",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy",
+      "to": "cellular-respiration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy",
+      "to": "electrochemical-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy",
+      "to": "electromagnetic-induction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy",
+      "to": "photovoltaic-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy",
+      "to": "solar-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy",
+      "to": "solar-energy-generation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy",
+      "to": "work-energy-and-power",
+      "type": "prerequisite"
+    },
+    {
+      "from": "applications-of-ultrasound",
+      "to": "solar-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "applications-of-ultrasound",
+      "to": "solar-energy-generation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mass",
+      "to": "force",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mass",
+      "to": "density",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ph-scale",
+      "to": "electrochemical-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electrolyte-and-electrochemical-cells",
+      "to": "electrochemical-cells",
+      "type": "prerequisite"
+    }
+  ],
+  "grade_views": {
+    "6": {
+      "concepts": [
+        "essential-conditions-for-seed-germination",
+        "life-cycle-of-plants",
+        "water-pollution",
+        "soil-composition",
+        "natural-resource-management",
+        "atomic-structure",
+        "food-composition",
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "standard-units",
+        "properties-of-matter",
+        "matter",
+        "measuring-temperature",
+        "states-of-water",
+        "cooling-effect-by-evaporation",
+        "cellular-respiration",
+        "soil-erosion",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "earths-geological-time-scales",
+        "conservation-of-natural-resources",
+        "chemical-reactions",
+        "environmental-conservation",
+        "chemical-reactions-and-equations",
+        "mixtures",
+        "valency",
+        "rate-of-reaction",
+        "acidic-oxidation-reactions",
+        "thermodynamics"
+      ],
+      "entry_points": [
+        "essential-conditions-for-seed-germination",
+        "life-cycle-of-plants",
+        "natural-resource-management",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "matter",
+        "cooling-effect-by-evaporation",
+        "cellular-respiration",
+        "human-impact-on-the-environmental-degradation",
+        "earths-geological-time-scales",
+        "conservation-of-natural-resources",
+        "acidic-oxidation-reactions"
+      ],
+      "count": 30
+    },
+    "7": {
+      "concepts": [
+        "water-pollution",
+        "food-composition",
+        "balanced-diet",
+        "magnetic-properties-of-materials",
+        "properties-of-matter",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "conservation-of-natural-resources",
+        "chemical-reactions",
+        "leaves-as-food-factories",
+        "food-chains",
+        "climate-change",
+        "acids-bases-and-salts",
+        "chemical-reactions-and-equations",
+        "mixtures",
+        "valency",
+        "rate-of-reaction",
+        "acidic-oxidation-reactions",
+        "thermodynamics"
+      ],
+      "entry_points": [
+        "magnetic-properties-of-materials",
+        "properties-of-matter",
+        "human-impact-on-the-environmental-degradation",
+        "conservation-of-natural-resources",
+        "leaves-as-food-factories",
+        "food-chains",
+        "climate-change",
+        "acids-bases-and-salts",
+        "chemical-reactions-and-equations",
+        "mixtures",
+        "valency",
+        "acidic-oxidation-reactions",
+        "thermodynamics"
+      ],
+      "count": 19
+    },
+    "8": {
+      "concepts": [
+        "essential-conditions-for-seed-germination",
+        "life-cycle-of-plants",
+        "water-pollution",
+        "soil-composition",
+        "atomic-structure",
+        "food-composition",
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "standard-units",
+        "properties-of-matter",
+        "measuring-temperature",
+        "states-of-water",
+        "cellular-respiration",
+        "soil-erosion",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "chemical-bonding",
+        "earths-geological-time-scales",
+        "conservation-of-natural-resources",
+        "chemical-reactions",
+        "environmental-conservation",
+        "laws-of-reflection",
+        "lens-makers-formula-derivation-and-application",
+        "who-all-live-together-in-nature",
+        "decomposition-process",
+        "photosynthesis",
+        "importance-of-food-chains",
+        "chemical-reactions-and-equations",
+        "electric-current-and-magnetism",
+        "force",
+        "weight-and-its-measurement",
+        "atmospheric-pressure",
+        "states-of-matter",
+        "mixtures",
+        "elements-compounds-and-mixtures",
+        "capacity-and-concentration-of-solutions",
+        "density",
+        "thermometer",
+        "boiling-point-elevation",
+        "electrochemical-cells",
+        "electromagnetic-induction",
+        "working-of-a-solar-panel",
+        "working-of-a-thermometer",
+        "heat-transfer-mechanisms-in-air-conditioning",
+        "water-filtration-process",
+        "photovoltaic-effect",
+        "solar-cells",
+        "solar-energy-applications",
+        "solar-energy-generation",
+        "valency",
+        "rate-of-reaction",
+        "acidic-oxidation-reactions",
+        "soil-fertility",
+        "thermodynamics"
+      ],
+      "entry_points": [
+        "essential-conditions-for-seed-germination",
+        "life-cycle-of-plants",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "standard-units",
+        "cellular-respiration",
+        "human-impact-on-the-environmental-degradation",
+        "earths-geological-time-scales",
+        "conservation-of-natural-resources",
+        "environmental-conservation",
+        "lens-makers-formula-derivation-and-application",
+        "who-all-live-together-in-nature",
+        "decomposition-process",
+        "importance-of-food-chains",
+        "electric-current-and-magnetism",
+        "weight-and-its-measurement",
+        "states-of-matter",
+        "elements-compounds-and-mixtures",
+        "capacity-and-concentration-of-solutions",
+        "electromagnetic-induction",
+        "working-of-a-solar-panel",
+        "working-of-a-thermometer",
+        "heat-transfer-mechanisms-in-air-conditioning",
+        "water-filtration-process",
+        "acidic-oxidation-reactions"
+      ],
+      "count": 55
+    },
+    "9": {
+      "concepts": [
+        "water-pollution",
+        "food-composition",
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "properties-of-matter",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "chemical-bonding",
+        "conservation-of-natural-resources",
+        "chemical-reactions",
+        "photosynthesis",
+        "chemical-reactions-and-equations",
+        "force",
+        "atmospheric-pressure",
+        "mixtures",
+        "density",
+        "electrochemical-cells",
+        "water-filtration-process",
+        "physical-nature-of-matter",
+        "change-of-state-of-matter",
+        "energy",
+        "sound-waves",
+        "applications-of-ultrasound",
+        "definition-of-a-mixture",
+        "types-of-pure-elements-and-compounds",
+        "what-is-a-molecule",
+        "charged-particles-in-atoms",
+        "valency",
+        "plant-tissues",
+        "rate-of-reaction",
+        "equation-of-motion",
+        "first-law-of-motion-newton-s-first-law",
+        "third-law-of-motion ",
+        "mass",
+        "weight",
+        "archimedes-principal",
+        "nuclear-reactions",
+        "dna-structure-and-replication",
+        "evolution",
+        "food-chain",
+        "ozone-depletion",
+        "energy-conservation",
+        "wind-energy",
+        "acidic-oxidation-reactions",
+        "earths-rotational-speed-and-its-effects",
+        "earth-s-water-cycle",
+        "water-cycle",
+        "thermodynamics"
+      ],
+      "entry_points": [
+        "water-pollution",
+        "food-composition",
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "properties-of-matter",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "chemical-bonding",
+        "conservation-of-natural-resources",
+        "chemical-reactions",
+        "photosynthesis",
+        "chemical-reactions-and-equations",
+        "atmospheric-pressure",
+        "mixtures",
+        "water-filtration-process",
+        "physical-nature-of-matter",
+        "change-of-state-of-matter",
+        "energy",
+        "sound-waves",
+        "applications-of-ultrasound",
+        "definition-of-a-mixture",
+        "types-of-pure-elements-and-compounds",
+        "what-is-a-molecule",
+        "charged-particles-in-atoms",
+        "valency",
+        "plant-tissues",
+        "equation-of-motion",
+        "first-law-of-motion-newton-s-first-law",
+        "third-law-of-motion ",
+        "mass",
+        "weight",
+        "archimedes-principal",
+        "nuclear-reactions",
+        "dna-structure-and-replication",
+        "evolution",
+        "food-chain",
+        "ozone-depletion",
+        "energy-conservation",
+        "wind-energy",
+        "acidic-oxidation-reactions",
+        "earths-rotational-speed-and-its-effects",
+        "earth-s-water-cycle",
+        "water-cycle"
+      ],
+      "count": 49
+    },
+    "10": {
+      "concepts": [
+        "water-pollution",
+        "food-composition",
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "properties-of-matter",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "chemical-bonding",
+        "conservation-of-natural-resources",
+        "chemical-reactions",
+        "food-chains",
+        "climate-change",
+        "photosynthesis",
+        "chemical-reactions-and-equations",
+        "force",
+        "atmospheric-pressure",
+        "mixtures",
+        "density",
+        "thermometer",
+        "boiling-point-elevation",
+        "electrochemical-cells",
+        "electromagnetic-induction",
+        "working-of-a-solar-panel",
+        "water-filtration-process",
+        "photovoltaic-effect",
+        "solar-cells",
+        "solar-energy-applications",
+        "solar-energy-generation",
+        "valency",
+        "rate-of-reaction",
+        "acidic-oxidation-reactions",
+        "soil-fertility",
+        "empirical-and-molecular-formulas",
+        "electronic-configuration",
+        "ph-scale",
+        "electrolysis",
+        "electrolyte-and-electrochemical-cells",
+        "thermodynamics",
+        "work-energy-and-power",
+        "ray-diagrams-for-convex-mirrors"
+      ],
+      "entry_points": [
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "properties-of-matter",
+        "human-impact-on-the-environmental-degradation",
+        "chemical-bonding",
+        "conservation-of-natural-resources",
+        "food-chains",
+        "climate-change",
+        "chemical-reactions-and-equations",
+        "force",
+        "atmospheric-pressure",
+        "mixtures",
+        "density",
+        "thermometer",
+        "boiling-point-elevation",
+        "electromagnetic-induction",
+        "working-of-a-solar-panel",
+        "water-filtration-process",
+        "photovoltaic-effect",
+        "solar-cells",
+        "solar-energy-applications",
+        "solar-energy-generation",
+        "valency",
+        "acidic-oxidation-reactions",
+        "soil-fertility",
+        "empirical-and-molecular-formulas",
+        "electronic-configuration",
+        "ph-scale",
+        "electrolysis",
+        "electrolyte-and-electrochemical-cells",
+        "thermodynamics",
+        "work-energy-and-power",
+        "ray-diagrams-for-convex-mirrors"
+      ],
+      "count": 41
+    },
+    "11": {
+      "concepts": [
+        "water-pollution",
+        "food-composition",
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "properties-of-matter",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "chemical-bonding",
+        "conservation-of-natural-resources",
+        "chemical-reactions",
+        "laws-of-reflection",
+        "photosynthesis",
+        "acids-bases-and-salts",
+        "chemical-reactions-and-equations",
+        "force",
+        "atmospheric-pressure",
+        "states-of-matter",
+        "mixtures",
+        "density",
+        "electrochemical-cells",
+        "water-filtration-process",
+        "valency",
+        "rate-of-reaction",
+        "acidic-oxidation-reactions",
+        "thermodynamics",
+        "ethanol-metabolization",
+        "fats-and-fatty-acids",
+        "nucleic-acid",
+        "biomolecular-structure-and-functions",
+        "purification-and-properties-of-alkali-metals"
+      ],
+      "entry_points": [
+        "water-pollution",
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "conservation-of-natural-resources",
+        "laws-of-reflection",
+        "photosynthesis",
+        "acids-bases-and-salts",
+        "chemical-reactions-and-equations",
+        "atmospheric-pressure",
+        "states-of-matter",
+        "density",
+        "water-filtration-process",
+        "acidic-oxidation-reactions",
+        "ethanol-metabolization",
+        "fats-and-fatty-acids",
+        "nucleic-acid",
+        "biomolecular-structure-and-functions",
+        "purification-and-properties-of-alkali-metals"
+      ],
+      "count": 31
+    },
+    "12": {
+      "concepts": [
+        "water-pollution",
+        "food-composition",
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "properties-of-matter",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "chemical-bonding",
+        "conservation-of-natural-resources",
+        "chemical-reactions",
+        "photosynthesis",
+        "chemical-reactions-and-equations",
+        "force",
+        "atmospheric-pressure",
+        "mixtures",
+        "density",
+        "electrochemical-cells",
+        "water-filtration-process",
+        "valency",
+        "rate-of-reaction",
+        "nuclear-reactions",
+        "ozone-depletion",
+        "acidic-oxidation-reactions",
+        "thermodynamics",
+        "ethanol-metabolization-in-human-body",
+        "aromatic-compounds",
+        "purification-of-water",
+        "density-and-relative-density"
+      ],
+      "entry_points": [
+        "water-pollution",
+        "food-composition",
+        "balanced-diet",
+        "magnetic-properties-of-ferromagnetic-materials",
+        "magnetic-properties-of-materials",
+        "properties-of-matter",
+        "human-impact-on-the-environmental-degradation",
+        "acid-rain",
+        "chemical-bonding",
+        "conservation-of-natural-resources",
+        "chemical-reactions",
+        "photosynthesis",
+        "chemical-reactions-and-equations",
+        "force",
+        "atmospheric-pressure",
+        "mixtures",
+        "density",
+        "electrochemical-cells",
+        "water-filtration-process",
+        "valency",
+        "nuclear-reactions",
+        "ozone-depletion",
+        "acidic-oxidation-reactions",
+        "thermodynamics",
+        "ethanol-metabolization-in-human-body",
+        "aromatic-compounds",
+        "purification-of-water",
+        "density-and-relative-density"
+      ],
+      "count": 29
+    }
+  }
+}

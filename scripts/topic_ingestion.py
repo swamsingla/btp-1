@@ -223,7 +223,7 @@ Rules:
 Return ONLY a JSON array of strings. Example: ["Topic A", "Topic B", "Topic C"]
 No objects, no keys, no markdown, no explanation."""
 
-    raw = llm_call(system=SYSTEM_TOPIC_DISCOVERY, user=user_prompt, temperature=0.2, max_new_tokens=3000)
+    raw = llm_call(system=SYSTEM_TOPIC_DISCOVERY, user=user_prompt, temperature=0.2, max_new_tokens=4000)
     try:
         result = extract_json(raw)
         if isinstance(result, dict) and "topics" in result:

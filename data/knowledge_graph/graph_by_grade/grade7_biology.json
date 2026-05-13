@@ -1,0 +1,580 @@
+{
+  "grade": 7,
+  "subject": "biology",
+  "concepts": {
+    "life-cycle-of-plants": {
+      "canonical_name": "Life Cycle of Plants",
+      "slug": "life-cycle-of-plants",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Plant Reproduction",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "cell-division": {
+      "canonical_name": "Cell Division",
+      "aliasess": [
+        "Mitosis",
+        "Meiosis",
+        "Karyokinesis",
+        "Cytokinesis"
+      ],
+      "Domain": "Biology",
+      "_Area": "Molecular Genetics",
+      "Parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "_Importance-by-grade": {
+        "6": 1,
+        "7": 1,
+        "_8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 5
+      },
+      "_Source Boards": [
+        "NCERT",
+        "icse"
+      ],
+      "slug": "cell-division",
+      "subject": "biology",
+      "prerequisites": [
+        "cell-as-the-basic-unit-of-life",
+        "cellular-respiration",
+        "effect-of-light-on-plant-growth",
+        "mitosis",
+        "sources-of-water",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "attraction-and-repulsion-between-magnets": {
+      "canonical_name": "Attraction and Repulsion Between Magnets",
+      "slug": "attraction-and-repulsion-between-magnets",
+      "_aliases": [
+        "Magnetic Forces"
+      ],
+      "domain": "Biology",
+      "area": "Physics in Everyday Life",
+      "parent": "physics-in-everyday-life",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "standard-units": {
+      "canonical_name": "Standard Units",
+      "slug": "standard-units",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Measurement in Science",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources",
+        "leaves-the-food-factories-of-plants",
+        "measuring-temperature",
+        "position-in-two-dimensional-coordinate-system",
+        "what-is-matter",
+        "what-we-eat"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "human-impact-on-the-environmental-conservation": {
+      "canonical_name": "Human Impact on the Environmental Conservation",
+      "slug": "human-impact-on-the-environmental-conservation",
+      "aliases": [
+        "Environmental Pollution",
+        "Greenhouse Gases"
+      ],
+      "domain": "Biology",
+      "area": "Ecology and Conservation",
+      "_parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earth-s-oceans": {
+      "canonical_name": "Earth's Oceans",
+      "slug": "earth-s-oceans",
+      "_aliases": [
+        "ocean",
+        "marine-life"
+      ],
+      "domain": "Biology",
+      "area": "Geography and Oceanography",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "natural-disasters",
+        "plate-tectoncs",
+        "water-cycle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "environmental-conservation": {
+      "canonical_name": "Environmental Conservation",
+      "slug": "environmental-conservation",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Ecology",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "diversity-in-plants-and-animal-around-us",
+        "earths-natural-resources",
+        "effect-of-light-on-plant-growth",
+        "food-chain-and-food-webs",
+        "importance-of-biodiversity-in-an-ecosystem",
+        "leaves-the-food-factories-of-plants",
+        "natural-resource-management",
+        "soil-erosion",
+        "sources-of-water",
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [],
+      "related": [
+        "natural-disasters",
+        "soil-erosion",
+        "water-cycle"
+      ],
+      "see_also": []
+    },
+    "leaves-the-food-factories-of-plants": {
+      "canonical_name": "Leaves: the food factories of plants",
+      "slug": "leaves-the-food-factories-of-plants",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Plant Anatomy and Physiology",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance_BY_GRADE": {
+        "7": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [
+        "balanced-diet",
+        "cellular-respiration",
+        "environmental-conservation",
+        "natural-resource-management",
+        "photosynthesis",
+        "standard-units",
+        "what-we-eat"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "food-chain-and-food-webs": {
+      "canonical_name": "Food Chain and Food Webs",
+      "slug": "food-chain-and-food-webs",
+      "_aliases": [
+        "Food Chains",
+        "Food Webs"
+      ],
+      "domain": "Biology",
+      "area": "Ecosystems",
+      "parent": "",
+      "grades": [
+        7,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "7": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [
+        "environmental-conservation",
+        "natural-resource-management"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "adaptation": {
+      "canonical_name": "Adaptation",
+      "slug": "adaptation",
+      "_aliases": [
+        "Definition of Adaptation",
+        "Types of Adaptation"
+      ],
+      "domain": "Biology",
+      "area": "Evolution",
+      "parent": null,
+      "grades": [
+        7,
+        10
+      ],
+      "importance-by-grade": {
+        "7": 5,
+        "10": 4
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "photosynthesis",
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [],
+      "related": [
+        "balanced-diet",
+        "diversity-in-plants-and-animal-around-us",
+        "earths-natural-resources",
+        "food-chain",
+        "importance-of-biodiversity-in-an-ecosystem",
+        "levels-of-organisation-in-living-things",
+        "natural-resource-management"
+      ],
+      "see_also": []
+    },
+    "climate-change": {
+      "canonical_name": "Climate Change",
+      "slug": "climate-change",
+      "aliases": [
+        "Global Warming",
+        "Environmental Issue"
+      ],
+      "domain": "Biology",
+      "area": "Ecology",
+      "parent": "",
+      "grades": [
+        7,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "7": 5,
+        "10": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources",
+        "photosynthesis",
+        "water-cycle",
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earths-interior": {
+      "canonical_name": "Earth's Interior",
+      "slug": "earths-interior",
+      "aliases": [
+        "Inner Earth",
+        "Planetary Structure"
+      ],
+      "domain": "BiolOgy",
+      "area": "GeoScience",
+      "parent": "",
+      "grades": [
+        7
+      ],
+      "importance_by_Grade": {
+        "7": 3
+      },
+      "source_Boards": [
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "water-cycle"
+      ],
+      "leads_to": [
+        "measuring-temperature",
+        "natural-disasters"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "plate-tectoncs": {
+      "canonical_name": "Plate Tectoncs",
+      "slug": "plate-tectoncs",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Earth Sciences",
+      "parent": null,
+      "grades": [
+        7,
+        10
+      ],
+      "importance by grade": {},
+      "source boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [
+        "earth-s-oceans",
+        "earths-natural-resources",
+        "measuring-temperature",
+        "natural-disasters",
+        "soil-erosion"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earthquakes-and-volcanic-eruptions": {
+      "canonical_name": "Earthquakes and volcanic eruptions",
+      "slug": "earthquakes-and-volcanic-eruptions",
+      "aliases": [
+        "Seismic Activity"
+      ],
+      "domain": "Geology",
+      "area": null,
+      "parent": null,
+      "grades": [
+        7,
+        10
+      ],
+      "importance-by-grade": {},
+      "source-boards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [
+        "earths-natural-resources",
+        "natural-disasters"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earths-magnetic-field": {
+      "canonical_name": "Earth's magnetic field",
+      "slug": "earths-magnetic-field",
+      "aliases": [
+        "Geomagnetism"
+      ],
+      "domain": "Physics",
+      "area": null,
+      "parent": null,
+      "grades": [
+        7
+      ],
+      "importance-by-grading": {},
+      "source-board": [
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-rotation-and-revolutions",
+        "magnetism-in-everyday-life"
+      ],
+      "leads_to": [
+        "photosynthesis"
+      ],
+      "related": [],
+      "see_also": []
+    }
+  },
+  "edges": [
+    {
+      "from": "leaves-the-food-factories-of-plants",
+      "to": "standard-units",
+      "type": "prerequisite"
+    },
+    {
+      "from": "leaves-the-food-factories-of-plants",
+      "to": "environmental-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chain-and-food-webs",
+      "to": "environmental-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "plate-tectoncs",
+      "to": "earth-s-oceans",
+      "type": "prerequisite"
+    }
+  ],
+  "entry_points": [
+    "life-cycle-of-plants",
+    "cell-division",
+    "attraction-and-repulsion-between-magnets",
+    "human-impact-on-the-environmental-conservation",
+    "leaves-the-food-factories-of-plants",
+    "food-chain-and-food-webs",
+    "adaptation",
+    "climate-change",
+    "earths-interior",
+    "plate-tectoncs",
+    "earthquakes-and-volcanic-eruptions",
+    "earths-magnetic-field"
+  ]
+}

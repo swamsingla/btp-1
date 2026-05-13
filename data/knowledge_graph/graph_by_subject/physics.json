@@ -1,0 +1,4305 @@
+{
+  "subject": "physics",
+  "total_concepts": 110,
+  "total_edges": 130,
+  "concepts": {
+    "newtons-first-laws-of-motion": {
+      "canonical_name": "Newton's First law of motion",
+      "slug": "newtons-first-laws-of-motion",
+      "aliases": [
+        "law of inertia",
+        "inertia"
+      ],
+      "domain": "mechanics",
+      "area": "newton's laws of motion",
+      "parent": "",
+      "grades": [
+        8,
+        9,
+        11
+      ],
+      "importance-by-grade": {
+        "8": 4,
+        "9": 5,
+        "11": 3
+      },
+      "source_Boards": [
+        "ncert",
+        "icse"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "air-pollution": {
+      "canonical_name": "Air Pollution",
+      "slug": "air-pollution",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "energy-flow-in-ecosystems"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "water-pollution": {
+      "canonical_name": "Water Pollution",
+      "slug": "water-pollution",
+      "aliases": [
+        "Types of water pollution",
+        "Effects of water pollution"
+      ],
+      "domain": "Physics",
+      "area": "Environmental Science",
+      "parent": "physics-and-environmental-science",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "plate-tectoncs"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "soil-formation-processes": {
+      "canonical_name": "Soil Formation Processes",
+      "slug": "soil-formation-processes",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Geophysics",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "natural-resource-management": {
+      "canonical_name": "Natural Resource Management",
+      "slug": "natural-resource-management",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Resources We Use",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance-by-grade": {
+        "6": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "energy-flow-in-ecosystems"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "planetary-motion-and-orbits": {
+      "canonical_name": "Planetary Motion and Orbits",
+      "slug": "planetary-motion-and-orbits",
+      "_aliases": [],
+      "domain": "Physics",
+      "area": "Our Solar System",
+      "parent": "our-solar-system",
+      "grades": [
+        6,
+        8,
+        9,
+        11
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4,
+        "9": 3,
+        "11": 2
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "conservation-of-momentum",
+        "density",
+        "energy",
+        "greenhouse-effect",
+        "heat-transfer",
+        "interference",
+        "laws-of-thermodynamics",
+        "minerals",
+        "mirrors-and-lenses",
+        "motion",
+        "planetary-systems",
+        "redox-reactions",
+        "refraction-of-light",
+        "solar-energy-applications",
+        "solar-power-systems",
+        "states-of-matter",
+        "thermodynamics",
+        "work-energy-and-power"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "motion": {
+      "canonical_name": "Motion",
+      "slug": "motion",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Kinematics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolution",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits",
+        "position-in-two-dimensional-coordinate-system"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "magnetic-and-non-magnetic-materials": {
+      "canonical_name": "Magnetic and Non-Magnetic Materials",
+      "slug": "magnetic-and-non-magnetic-materials",
+      "aliases": [
+        "Magnets and Ferro Magnetics"
+      ],
+      "domain": "Physics",
+      "area": "Electricity and Magnetism",
+      "parent": "electricity-and-magnetism",
+      "_grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "attraction-and-repulsion-between-magnets": {
+      "canonical_name": "Attraction and Repulsion Between Magnets",
+      "slug": "attraction-and-repulsion-between-magnets",
+      "_aliases": [
+        "Magnetic Forces"
+      ],
+      "domain": "Physics",
+      "area": "Electromagnetism",
+      "parent": "electromagnetism-subject",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "standard-units": {
+      "canonical_name": "Standard Units",
+      "slug": "standard-units",
+      "aliases": [
+        "Units",
+        "Measurement Units"
+      ],
+      "domain": "Physics",
+      "area": "Measuring Quantities",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolution"
+      ],
+      "leads_to": [
+        "measuring-temperature"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "position-in-two-dimensional-coordinate-system": {
+      "canonical_name": "Position in Two-Dimensional Coordinate System",
+      "slug": "position-in-two-dimensional-coordinate-system",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Motion and Rest",
+      "parent": "",
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "earths-oceans",
+        "motion"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "what-is-matter": {
+      "canonical_name": "What is Matter?",
+      "slug": "what-is-matter",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [
+        "molecules-of-elements",
+        "states-of-matter"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "measuring-temperature": {
+      "canonical_name": "Measuring Temperature",
+      "slug": "measuring-temperature",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Temperature Measurement",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earth-s-rotation",
+        "earths-natural-resources",
+        "newtons-first-law-of-motion",
+        "standard-units"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "states-of-matter": {
+      "canonical_name": "States of Matter",
+      "slug": "states-of-matter",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Properties of Matter",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "change-of-state-of-matter",
+        "earths-geological-time-scales",
+        "earths-natural-resources",
+        "natural-disasters",
+        "physical-nature-of-matter",
+        "planetary-motion-and-orbits",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "cooling-effect": {
+      "canonical_name": "Cooling Effect",
+      "slug": "cooling-effect",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Heat Transfer",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "newtons-first-law-of-motion": {
+      "canonical_name": "Newton's First law of motion",
+      "slug": "newtons-first-law-of-motion",
+      "aliases": [
+        "law of inertia",
+        "inertia"
+      ],
+      "domain": "mechanics",
+      "area": "newton's laws of motion",
+      "parent": "",
+      "grades": [
+        8,
+        9,
+        11
+      ],
+      "importance_BY_GRADE": {
+        "8": 4,
+        "9": 5,
+        "11": 3
+      },
+      "source_BOARDS": [
+        "ncert",
+        "icse"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "conservation-of-momentum",
+        "density",
+        "energy",
+        "heat-transfer",
+        "interference",
+        "laws-of-thermodynamics",
+        "magnetism",
+        "measuring-temperature",
+        "mirrors-and-lenses",
+        "motion",
+        "solar-energy-applications",
+        "solar-power-systems",
+        "spherical-mirrors",
+        "thermodynamics",
+        "thermometer",
+        "work-energy-and-power"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "greenhouse-effect": {
+      "canonical_name": "Greenhouse Effect",
+      "slug": "greenhouse-effect",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Heat Transfer Mechanisms",
+      "parent": "heat-transfer-mechanisms",
+      "_id": "0",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "climate-change",
+        "earths-geological-time-scales",
+        "earths-hydrospher-and-atmosphere",
+        "earths-natural-resources",
+        "energy-flow-in-ecosystems",
+        "natural-disasters",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "natural-disasters": {
+      "canonical_name": "Natural Disasters",
+      "slug": "natural-disasters",
+      "_aliases": [
+        "Disaster Management",
+        "Earthquake",
+        "Floods",
+        "Landslide"
+      ],
+      "domain": "Physics",
+      "area": "Geophysics",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "plate-tectoncs"
+      ],
+      "leads_to": [
+        "climate-change",
+        "earth-s-rotation",
+        "earth-s-water-cycle",
+        "earths-oceans",
+        "energy-conservation",
+        "greenhouse-effect",
+        "molecules-of-elements",
+        "propagation-of-sound",
+        "solar-power-systems",
+        "states-of-matter",
+        "thermometer",
+        "tides-and-current"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earths-rotation-and-revolutions": {
+      "canonical_name": "Earth's Rotation and Revolutions",
+      "slug": "earths-rotation-and-revolutions",
+      "aliases": [],
+      "domain": "Astronomy",
+      "area": "Planetary Science",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "interactions",
+        "planetary-systems"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earth-s-atmosphere": {
+      "canonical_name": "Earth's Atmosphere",
+      "slug": "earth-s-atmosphere",
+      "_aliases": [],
+      "domain": "Physics",
+      "Area": "Atmospheric Science",
+      "_Parent": null,
+      "Grades": [
+        6
+      ],
+      "_Importance_By_Grade": {
+        "6": 5
+      },
+      "Source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earths-oceans": {
+      "canonical_name": "Earth's Oceans",
+      "slug": "earths-oceans",
+      "_aliases": [
+        "Oceanography"
+      ],
+      "domain": "Physics",
+      "area": "Geophysics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "earths-natural-resources",
+        "natural-disasters",
+        "plate-tectoncs",
+        "position-in-two-dimensional-coordinate-system"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earths-geological-time-scales": {
+      "canonical_name": "Earth's Geological Time Scales",
+      "slug": "earths-geological-time-scales",
+      "_aliases": [
+        "Geologic Time Scale",
+        "Geological Time Scale"
+      ],
+      "domain": "Physics",
+      "area": "Earth Sciences",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "applications-of-ultrasound",
+        "climate-change",
+        "earth-s-rotation",
+        "earth-s-water-cycle",
+        "earths-oceans",
+        "energy-conservation",
+        "equations-of-motion",
+        "greenhouse-effect",
+        "minerals",
+        "planetary-systems",
+        "solar-power-systems",
+        "states-of-matter",
+        "thermodynamics",
+        "tides-and-current",
+        "volcanoes",
+        "wind-energy"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earths-natural-resources": {
+      "canonical_name": "Earth's Natural Resources",
+      "slug": "earths-natural-resources",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Environmental Science",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "energy-flow-in-ecosystems"
+      ],
+      "leads_to": [
+        "air-pollution",
+        "conservation-of-momentum",
+        "density",
+        "earths-oceans",
+        "elasticity",
+        "energy",
+        "greenhouse-effect",
+        "mass",
+        "measuring-temperature",
+        "minerals",
+        "mixture",
+        "mixtures",
+        "molecules-of-elements",
+        "natural-disasters",
+        "propagation-of-sound",
+        "redox-reactions",
+        "solar-energy-applications",
+        "solar-power-systems",
+        "states-of-matter",
+        "thermometer",
+        "water-pollution",
+        "what-is-matter"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earths-energy-resources": {
+      "canonical_name": "Earth's Energy Resources",
+      "slug": "earths-energy-resources",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [],
+      "_importance_by_grade": {},
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "energy-flow-in-ecosystems": {
+      "canonical_name": "Energy Flow in Ecosystems",
+      "slug": "energy-flow-in-ecosystems",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Thermodynamics",
+      "parent": "",
+      "grades": [
+        7,
+        11
+      ],
+      "importance_BY_GRADE": {
+        "7": 5,
+        "11": 3
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "air-pollution",
+        "earths-natural-resources",
+        "energy",
+        "greenhouse-effect",
+        "heat-transfer",
+        "interactions",
+        "natural-resource-management",
+        "solar-energy-applications",
+        "solar-power-systems"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "adaptation-in-living-organisms": {
+      "canonical_name": "Adaptation in Living Organisms",
+      "slug": "adaptation-in-living-organisms",
+      "aliases": [
+        "Adaptation"
+      ],
+      "domain": "Physics",
+      "area": "Thermodynamics",
+      "parent": null,
+      "grades": [
+        7,
+        9
+      ],
+      "importance-by-grade": {
+        "7": 5,
+        "9": 4
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "heat-transfer-mechanism": {
+      "canonical_name": "Heat Transfer Mechanism",
+      "slug": "heat-transfer-mechanism",
+      "domein": "physics",
+      "is": [
+        "Conduction",
+        "Convection",
+        "Radiation"
+      ],
+      "area": null,
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_by-grade": {
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 4,
+        "12": 5
+      },
+      "source_Boads": [
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "climate-change": {
+      "canonical_name": "Climate Change",
+      "slug": "climate-change",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Environmental Science",
+      "parent": null,
+      "grades": [
+        7,
+        10
+      ],
+      "importance-by-grade": {
+        "7": 5,
+        "10": 4
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "natural-disasters"
+      ],
+      "leads_to": [
+        "greenhouse-effect"
+      ],
+      "related": [
+        "earths-geological-time-scales"
+      ],
+      "see_also": []
+    },
+    "plate-tectoncs": {
+      "canonical_name": "Plate Tectoncs",
+      "slug": "plate-tectoncs",
+      "aliases": [
+        "Tectonic Theory",
+        "Earth's Crust Movement"
+      ],
+      "domain": "Geophysics",
+      "area": "Earth's Structure",
+      "parent": "earth-science",
+      "grades": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_by-grade": {
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "earths-oceans",
+        "natural-disasters",
+        "water-pollution"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "spherical-mirrors": {
+      "canonical_name": "Spherical Mirrors",
+      "slug": "spherical-mirrors",
+      "_aliases": [
+        "Concave Mirrors",
+        "Convex Mirrors"
+      ],
+      "domain": "Optics",
+      "area": "Mirrors",
+      "__parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolution",
+        "image-formation-using-a-convex-lens",
+        "motion-along-a-straight-line",
+        "newtons-first-law-of-motion",
+        "newtons-second-law-of-motion-force-and-acceleration-relationship"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "image-formation-using-a-convex-lens": {
+      "canonical_name": "Image Formation Using A Convex Lens",
+      "slug": "image-formation-using-a-convex-lens",
+      "aliases": [],
+      "domain": "Optics",
+      "area": "Lenses",
+      "parent": "optics",
+      "_id": "lenses-image-formation-using-convex",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "ncert"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "mirrors-and-lenses",
+        "refraction-of-light",
+        "spherical-mirrors"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "festivals-and-astronomy": {
+      "canonical_name": "Festivals and Astronomy",
+      "slug": "festivals-and-astronomy",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Astronomy and Everyday Life",
+      "parent": "astronomy-and-everyday-life",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 3
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "artificial-satellites": {
+      "canonical_name": "Artificial Satellites",
+      "slug": "artificial-satellites",
+      "_aliases": [],
+      "domain": "Physics",
+      "_area": "Space Exploration",
+      "Parent": "space-exploration",
+      "Grades": [
+        8
+      ],
+      "_Importance_By_Grade": {
+        "8": 4
+      },
+      "Source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "laws-of-thermodynamics": {
+      "canonical_name": "Laws of Thermodynamics",
+      "slug": "laws-of-thermodynamics",
+      "_aliases": [
+        "Zeroth Law of Thermodynamics"
+      ],
+      "domain": "Thermodynamics",
+      "__area": "First Law of Thermodynamic",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "energy-transfer-in-ecosystems",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "energy-transfer-in-communities": {
+      "canonical_name": "Energy Transfer in Communities",
+      "slug": "energy-transfer-in-communities",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Community Energy Flow",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "interactions": {
+      "canonical_name": "Interactions",
+      "slug": "interactions",
+      "_aliases": [],
+      "domain": "Physics",
+      "area": "Thermodynamics",
+      "parent": null,
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolutions",
+        "energy-flow-in-ecosystems"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "planetary-systems": {
+      "canonical_name": "Planetary Systems",
+      "slug": "planetary-systems",
+      "aliases": [],
+      "domain": "Astronomy",
+      "area": "Solar System",
+      "parent": null,
+      "grades": [
+        8,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 4,
+        "11": 5,
+        "12": 3
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "earths-rotation-and-revolution",
+        "earths-rotation-and-revolutions",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "newtons-second-law-of-motion-force-and-acceleration-relationship": {
+      "canonical_name": "Newton's Second Law of Motion - Force and Acceleration Relationship",
+      "slug": "newtons-second-law-of-motion-force-and-acceleration-relationship",
+      "aliases": [],
+      "domain": "Mechanics ",
+      "area": "Forces and Newton's Laws of Motions",
+      "parent": "",
+      "grades": [
+        8,
+        11
+      ],
+      "importance By Grade": {
+        "8": 5,
+        "11": 5
+      },
+      "source Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "conservation-of-momentum",
+        "equations-of-motion",
+        "spherical-mirrors",
+        "thermodynamics"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "work-done-by-gravity": {
+      "canonical_name": "Work Done by Gravity",
+      "slug": "work-done-by-gravity",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 4,
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "work-done-by-a-variable-force": {
+      "canonical_name": "Work Done by a Variable Force",
+      "slug": "work-done-by-a-variable-force",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Work Energy Power",
+      "parent": "",
+      "grades": [],
+      "_importance_by_grade": {
+        "": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0
+      },
+      "source_boys": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "electric-current-and-magnetism": {
+      "canonical_name": "Electric Current and Magnetism",
+      "slug": "electric-current-and-magnetism",
+      "_aliases": [
+        "Magnetic Field"
+      ],
+      "domain": "Electromagnetism",
+      "area": "Electric Current",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "magnetism"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "weight-and-its-measurement": {
+      "canonical_name": "Weight and Its Measurement",
+      "slug": "weight-and-its-measurement",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Measuring Physical Quantities",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "pressure-exerted-by-air": {
+      "canonical_name": "Pressure Exerted By Air",
+      "slug": "pressure-exerted-by-air",
+      "aliases": [
+        "Atmospheric Pressure",
+        "Air Pressure"
+      ],
+      "domain": "Physics",
+      "area": "Fluid Mechanics",
+      "parent": "fluid-mechanics",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mixtures": {
+      "canonical_name": "Mixtures",
+      "slug": "mixtures",
+      "_aliases": [
+        "Mixture",
+        "Blended Substance"
+      ],
+      "domain": "Physics",
+      "area": "Chemical Properties of Matter",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "10": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "minerals": {
+      "canonical_name": "Minerals",
+      "slug": "minerals",
+      "_aliases": [
+        "rock"
+      ],
+      "domain": "Physics",
+      "area": "Materials Science",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "earths-natural-resources",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "capacity-and-concentration-of-solutions": {
+      "canonical_name": "Capacity and Concentration Of Solutions",
+      "slug": "capacity-and-concentration-of-solutions",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "density": {
+      "canonical_name": "Density",
+      "slug": "density",
+      "aliases": [
+        "Mass/Volume Ratio"
+      ],
+      "domain": "Physics",
+      "area": "Properties of Matter",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 4,
+        "9": 5,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [
+        "archimedes-principal",
+        "mass",
+        "natural-disasters",
+        "standard-units"
+      ],
+      "see_also": []
+    },
+    "thermometer": {
+      "canonical_name": "Thermometer",
+      "slug": "thermometer",
+      "_aliases": [
+        "Mercury Thermometer",
+        "Spirit Thermometer",
+        "Digital Thermometer"
+      ],
+      "domain": "Physics",
+      "area": "Heat Transfer",
+      "parent": "heat-transfer",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "natural-disasters",
+        "newtons-first-law-of-motion",
+        "working-principle-of-a-telescope"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "working-principle-of-a-telescope": {
+      "canonical_name": "Working Principle of a Telescope",
+      "slug": "working-principle-of-a-telescope",
+      "aliases": [],
+      "domain": "Optics",
+      "area": "Telescopes",
+      "parent": null,
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "thermometer"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "working-of-a-multimiter": {
+      "canonical_name": "Working of a Multimiter",
+      "slug": "working-of-a-multimiter",
+      "_aliases": [
+        "Multimeter"
+      ],
+      "domain": "Electrical Circuits",
+      "area": "Measuring Instruments",
+      "parent": "measuring-instruments",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "working-of-a-generator": {
+      "canonical_name": "Working of a Generator",
+      "slug": "working-of-a-generator",
+      "aliases": [],
+      "domain": "Electromagnetism",
+      "area": "Generators and Transformers",
+      "parent": "generators-and-transformers",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolution"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "working-of-a-transformer": {
+      "canonical_name": "Working of a Transformer",
+      "slug": "working-of-a-transformer",
+      "dAliases": [],
+      "Domain": "ELECTROMAGNETISM",
+      "ARea": "GENERATORS AND TRANSFORMERS",
+      "PARENT": " GENERATORS AND TRANSFORAMRS ",
+      "GraDes": [
+        8
+      ],
+      "ImpoRtAnCe_By_Grade": {
+        "8": 5
+      },
+      "SourcE_bOarDs": [
+        "icse",
+        "ncert"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "working-of-a-solar-panel": {
+      "canonical_name": "Working of a Solar Panel",
+      "slug": "working-of-a-solar-panel",
+      "aliases": [
+        "Solar Cell",
+        "Photovoltaic Effect"
+      ],
+      "domain": "Electromagnetism",
+      "area": "Renewable Energy Sources",
+      "parent": "renewable-energy-sources",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 4,
+        "9": 5,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "working-of-a-thermometer": {
+      "canonical_name": "Working of a Thermometer",
+      "slug": "working-of-a-thermometer",
+      "_aliases": [
+        "Thermometer Construction",
+        "Temperature Measurement Devices"
+      ],
+      "domain": "Physics",
+      "area": "Heat Transfer and Thermodynamics",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "working-of-a-water-filtration-system": {
+      "canonical_name": "Working of a Water Filtration System",
+      "slug": "working-of-a-water-filtration-system",
+      "aliases": [
+        "Water Purification Process",
+        "Drinking Water Treatment"
+      ],
+      "domain": "Physics",
+      "area": "Fluid Mechanics",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_BY_GRADE": {
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "wind-turbine": {
+      "canonical_name": "Wind Turbine",
+      "slug": "wind-turbine",
+      "aliases": [],
+      "domain": "Renewable Energy Systems",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance_By_Grade": {
+        "8": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolution"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "solar-power-systems": {
+      "canonical_name": "Solar Power Systems",
+      "slug": "solar-power-systems",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Energy Conversion",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "earths-natural-resources",
+        "earths-rotation-and-revolution",
+        "energy-flow-in-ecosystems",
+        "natural-disasters",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [
+        "energy-transfer-in-ecosystems",
+        "solar-energy-applications",
+        "wind-turbine",
+        "working-of-a-solar-powered-wind-turbine"
+      ],
+      "see_also": []
+    },
+    "solar-energy-applications": {
+      "canonical_name": "Solar Energy Applications",
+      "slug": "solar-energy-applications",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8,
+        10
+      ],
+      "importance_BY_GRADE": {
+        "8": 4,
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "energy-flow-in-ecosystems",
+        "energy-transfer-in-ecosystems",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "working-of-a-solar-powered-wind-turbine": {
+      "canonical_name": "Working of a Solar-Powered Wind Turbine",
+      "slug": "working-of-a-solar-powered-wind-turbine",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Renewable Energy Sources",
+      "parent": "",
+      "grades": [
+        8
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "6": null,
+        "7": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "physical-nature-of-matter": {
+      "canonical_name": "Physical Nature of Matter",
+      "slug": "physical-nature-of-matter",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "states-of-matter"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "change-of-state-of-matter": {
+      "canonical_name": "Change of State of Matter",
+      "slug": "change-of-state-of-matter",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Properties of Matter",
+      "parents": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source-boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "states-of-matter"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "energy": {
+      "canonical_name": "Energy",
+      "slug": "energy",
+      "aliases": [
+        "Kinetic Energy",
+        "Potential Energy"
+      ],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "8": 1,
+        "9": 5,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "energy-flow-in-ecosystems",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [
+        "solar-energy-applications",
+        "wind-turbine"
+      ],
+      "see_also": [
+        "refraction-of-light",
+        "work-energy-and-power"
+      ]
+    },
+    "propagation-of-sound": {
+      "canonical_name": "Propagation of Sound",
+      "slug": "propagation-of-sound",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Sound Waves",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "natural-disasters"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "applications-of-ultrasound": {
+      "canonical_name": "Applications of Ultrasound",
+      "slug": "applications-of-ultrasound",
+      "_aliases": [
+        "Medical Imaging",
+        "Industrial Cleaning"
+      ],
+      "domain": "Physics",
+      "area": "Wave Phenomena",
+      "parent": "wave-propagation",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mixture": {
+      "canonical_name": "Mixture",
+      "slug": "mixture",
+      "_aliases": [
+        "Physical Mixture",
+        "Chemical Mixture"
+      ],
+      "domain": "Physics",
+      "area": "Thermodynamics",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [],
+      "related": [
+        "capacity-and-concentration-of-solutions"
+      ],
+      "see_also": [
+        "mixtures"
+      ]
+    },
+    "types-of-pure-elements-and-compounds": {
+      "canonical_name": "Types of Pure Elements and Compounds",
+      "slug": "types-of-pure-elements-and-compounds",
+      "_aliases": [
+        "Pure Elements",
+        "Pure Compounds"
+      ],
+      "domain": "Chemistry",
+      "area": "Atomic Structure and Properties",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "molecules-of-elements": {
+      "canonical_name": "Molecules of Elements",
+      "slug": "molecules-of-elements",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Atomic Structure",
+      "parent": "atoms-and-molecules",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "natural-disasters",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "charged-particles-in-matters": {
+      "canonical_name": "Charged Particles in Matters",
+      "slug": "charged-particles-in-matters",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "valency": {
+      "canonical_name": "Valency",
+      "slug": "valency",
+      "_aliases": [
+        "Definition of valency",
+        "Valency of metals",
+        "Valency and electron configration"
+      ],
+      "domain": "Atomic Structure",
+      "area": "Properties of Elements",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "newtons-first-and-second-laws-of-motion-force-and-newtons-third-law-of-motion-action-reaction-pairs": {
+      "canonical_name": "Newton's First and Second Laws of Motion - Force and Newton's Third Law of Motion - Action-Reaction Pairs",
+      "slug": "newtons-first-and-second-laws-of-motion-force-and-newtons-third-law-of-motion-action-reaction-pairs",
+      "_aliases": [
+        "Force and Newton's third law of motion",
+        "Action reaction pairs"
+      ],
+      "domain": "Mechanics ",
+      "area": "Newton's laws of motion",
+      "parent": "",
+      "grades": [
+        8,
+        9,
+        11
+      ],
+      "importance by grade": {
+        "8": 4,
+        "9": 5,
+        "11": 3
+      },
+      "source boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "motion-along-a-straight-line": {
+      "canonical_name": "Motion Along A Straight Line",
+      "slug": "motion-along-a-straight-line",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Describing Motion",
+      "parent": "describing-motion",
+      "grades": [
+        9,
+        12
+      ],
+      "importance-by-grade": {
+        "9": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "spherical-mirrors"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "measuring-the-rate-of-motion": {
+      "canonical_name": "Measuring the Rate Of Motion",
+      "slug": "measuring-the-rate-of-motion",
+      "aliases": [],
+      "domain": "Motion",
+      "area": "Kinematics",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "equations-of-motion": {
+      "canonical_name": "Equations of Motion",
+      "slug": "equations-of-motion",
+      "aliases": [],
+      "domain": "Motion",
+      "area": "Kinematics",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "newtons-second-law-of-motion-force-and-acceleration-relationship"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "first-law-of-motion-newtons-first-law-motions": {
+      "canonical_name": "First Law of Motion Newtons First Law of Motions",
+      "slug": "first-law-of-motion-newtons-first-law-motions",
+      "aliases": [
+        "Inertia",
+        "Rest and Motion"
+      ],
+      "domain": "Mechanics Newtons Laws of Motion ",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "third-law-of-motion ": {
+      "canonical_name": "Third Law of Motion ",
+      "slug": "third-law-of-motion ",
+      "aliases": [
+        "Action-Reaction Principle"
+      ],
+      "domain": "Physics",
+      "area": "Newton's Three Laws of Motion ",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mass": {
+      "canonical_name": "Mass",
+      "slug": "mass",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [
+        "laws-of-motion"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "archimedes-principal": {
+      "canonical_name": "Archimedes' Principal",
+      "slug": "archimedes-principal",
+      "aliases": [
+        "Buoyancy"
+      ],
+      "domain": "Physics",
+      "area": "Fluid Mechanics",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source-boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "energy-transfer-in-ecosystems": {
+      "canonical_name": "Energy Transfer in Ecosystems",
+      "slug": "energy-transfer-in-ecosystems",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Thermodynamics",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "laws-of-thermodynamics",
+        "solar-energy-applications"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "thermodynamics": {
+      "canonical_name": "Thermodynamics",
+      "slug": "thermodynamics",
+      "_aliases": [
+        "Heat Transfer",
+        "Energy Conversion"
+      ],
+      "domain": "Physics",
+      "area": "Thermodynamic Systems",
+      "parent": "",
+      "grades": [
+        9,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "9": 5,
+        "12": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "newtons-first-law-of-motion",
+        "newtons-second-law-of-motion-force-and-acceleration-relationship",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ozone-depletion": {
+      "canonical_name": "Ozone Depletion",
+      "slug": "ozone-depletion",
+      "_aliases": [
+        "Causes of ozone depletion",
+        "Effects of ozone depletion"
+      ],
+      "domain": "Physics",
+      "area": "Environmental Science",
+      "parent": "Atmospheric Science",
+      "_grades": [
+        9
+      ],
+      "_importance_by-grade": {
+        "9": 5
+      },
+      "_source-boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "conservation-of-momentum": {
+      "canonical_name": "Conservation of Momentum",
+      "slug": "conservation-of-momentum",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Momentum and Collisions",
+      "parent": null,
+      "grades": [
+        9,
+        12
+      ],
+      "importance-by-grade": {
+        "9": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "newtons-first-law-of-motion",
+        "newtons-second-law-of-motion-force-and-acceleration-relationship",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "energy-conservation": {
+      "canonical_name": "Energy Conservation",
+      "slug": "energy-conservation",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "natural-disasters"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "wind-energy": {
+      "canonical_name": "Wind Energy",
+      "slug": "wind-energy",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "tides-and-current": {
+      "canonical_name": "Tides and Current",
+      "slug": "tides-and-current",
+      "aliases": [],
+      "domain": "Fluid Mechanics",
+      "area": "Oceanography",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "natural-disasters"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "volcanoes": {
+      "canonical_name": "Volcanoes",
+      "slug": "volcanoes",
+      "aliases": [
+        "Volcano Eruptions",
+        "Volcanology"
+      ],
+      "domain": "Geophysics",
+      "area": "Earth Sciences",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earth-s-rotation": {
+      "canonical_name": "Earth's Rotation",
+      "slug": "earth-s-rotation",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "natural-disasters"
+      ],
+      "leads_to": [
+        "measuring-temperature"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earth-s-water-cycle": {
+      "canonical_name": "Earth's Water Cycle",
+      "slug": "earth-s-water-cycle",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Earth's Hydrospheric Processes",
+      "parent": "earth-s-hydrosphere",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "natural-disasters"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earths-hydrospher-and-atmosphere": {
+      "canonical_name": "Earth's Hydrospher and Atmosphere",
+      "slug": "earths-hydrospher-and-atmosphere",
+      "_aliases": [
+        "Water Cycle",
+        "Atmospheric Water Vapor",
+        "Ocean-Atmosphere Interaction"
+      ],
+      "domain": "Physics",
+      "area": "Geophysics",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "greenhouse-effect",
+        "pressure-in-fluids"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earths-lithosphere-and-hydrophere": {
+      "canonical_name": "Earth's Lithosphere and Hydrophere",
+      "slug": "earths-lithosphere-and-hydrophere",
+      "_aliases": [
+        "Lithospheric-Hydrophsric Interactions",
+        "Plate Tectonics"
+      ],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "_grades": [
+        9
+      ],
+      "_importance-by-gra-de": {
+        "9": 4
+      },
+      "_source Boards": [
+        "NCERT",
+        "State Board"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earths-rotation-and-revolution": {
+      "canonical_name": "Earth's Rotation and Revolution",
+      "slug": "earths-rotation-and-revolution",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [],
+      "_importance_by_grade": {},
+      "source_boys": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "laws-of-motion",
+        "motion",
+        "planetary-systems",
+        "solar-power-systems",
+        "spherical-mirrors",
+        "standard-units",
+        "wind-turbine",
+        "working-of-a-generator"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earths-pedosphere-and-atmospheric-systems": {
+      "canonical_name": "Earth's Pedosphere and Atmospheric Systems",
+      "slug": "earths-pedosphere-and-atmospheric-systems",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Geophysics",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "atomic-structure": {
+      "canonical_name": "Atomic Structure",
+      "slug": "atomic-structure",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Matter and Radiation",
+      "parent": null,
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "empirical-and-molecular-formulas": {
+      "canonical_name": "Empirical and Molecular Formulas",
+      "slug": "empirical-and-molecular-formulas",
+      "_aliases": [
+        "Empirical Formula",
+        "Molecular Formula"
+      ],
+      "domain": "Chemical Bonding and Molecular Structure",
+      "area": "Atomic Structure and Chemical Bonding",
+      "parent": "chemical-bonding-and-molecular-structure",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "electronic-configuration": {
+      "canonical_name": "Electronic Configuration",
+      "slug": "electronic-configuration",
+      "aliases": [
+        "Electron Configurations",
+        "Electronic Structure"
+      ],
+      "domain": "Atomic Physics",
+      "area": "Quantum Mechanics",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "redox-reactions": {
+      "canonical_name": "Redox Reactions",
+      "slug": "redox-reactions",
+      "_aliases": [
+        "Oxidation and Reduction Reactions"
+      ],
+      "domain": "Chemistry",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance_BY_GRADE": {
+        "10": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "work-energy-and-power": {
+      "canonical_name": "Work Energy and Power",
+      "slug": "work-energy-and-power",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "refraction-of-light": {
+      "canonical_name": "Refraction of Light",
+      "slug": "refraction-of-light",
+      "aliases": [],
+      "domain": "Optics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        10
+      ],
+      "important-by-grade": {
+        "10": 5
+      },
+      "sourc-boards": [
+        "NCERT",
+        "icse"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "image-formation-using-a-convex-lens",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mirrors-and-lenses": {
+      "canonical_name": "Mirrors and Leneses",
+      "slug": "mirrors-and-lenses",
+      "aliases": [],
+      "domain": "Optics",
+      "area": "Geometrical Optics",
+      "_parent": null,
+      "grades": [
+        10
+      ],
+      "importance-by-grade": {
+        "10": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "image-formation-using-a-convex-lens",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [
+        "festivals-and-astronomy",
+        "working-principle-of-a-telescope"
+      ],
+      "see_also": []
+    },
+    "magnetic-field": {
+      "canonical_name": "Magnetic Field",
+      "slug": "magnetic-field",
+      "aliases": [],
+      "domain": "Electromagnetism",
+      "area": "Electricity and Magnetism",
+      "_parent": "electricity-and-magnetism",
+      "grdades": [
+        11
+      ],
+      "_importance_by_grdade": {
+        "11": 5
+      },
+      "source_boardds": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "laws-of-motion": {
+      "canonical_name": "Laws of Motion",
+      "slug": "laws-of-motion",
+      "aliases": [
+        "Newton's Laws"
+      ],
+      "domain": "Mechanics ",
+      "area": "Motion in One Dimension",
+      "parent": "motion-in-one-dimension",
+      "grades": [
+        11
+      ],
+      "importance_b_y_grde": {
+        "11": 5
+      },
+      "sourc_eboard": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolution",
+        "mass"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "elasticity": {
+      "canonical_name": "Elasticity",
+      "slug": "elasticity",
+      "_aliases": [
+        "Young's Modulus",
+        "Modulus of Elasticity"
+      ],
+      "domain": "Physics",
+      "area": "Properties of Solids",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_GRADE": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ray-optics": {
+      "canonical_name": "Ray Optics",
+      "slug": "ray-optics",
+      "_aliases": [],
+      "domain": "Optics",
+      "__area": "Wave Optics",
+      "__parent": "wave-optics",
+      "_grades": [
+        11
+      ],
+      "_importance_byGrade": {
+        "11": 5
+      },
+      "_sourceBoards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "pressure-in-fluids": {
+      "canonical_name": "Pressure in Fluids",
+      "slug": "pressure-in-fluids",
+      "_aliases": [
+        "Fluid Pressure"
+      ],
+      "domain": "Physics",
+      "area": "Fluid Mechanics",
+      "parent": "",
+      "grades": [
+        11
+      ],
+      "importance_BY_GRADE": {
+        "11": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-hydrospher-and-atmosphere"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "magnetism": {
+      "canonical_name": "Magnetism",
+      "slug": "magnetism",
+      "_aliases": [],
+      "domain": "Electromagnetism",
+      "area": "Physics",
+      "parent": null,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "electric-current-and-magnetism",
+        "newtons-first-law-of-motion"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "eddy-currents": {
+      "canonical_name": "Eddy Currents",
+      "alias": [],
+      "domain": "Electromagnetics",
+      "Area": "Phenomena",
+      "PARENT": null,
+      "GRADES": [
+        12
+      ],
+      "Importance by Grade": {
+        "12": 5
+      },
+      "SOURCE BOARDS": [
+        "NCERT",
+        "State Boards"
+      ],
+      "slug": "eddy-currents",
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "biot-savarts-law": {
+      "canonical_name": "Biot-Savarts Law",
+      "slug": "biot-savarts-law",
+      "aliases": [],
+      "domain": "Electromagnetism",
+      "area": "",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "heat-transfer": {
+      "canonical_name": "Heat Transfer",
+      "slug": "heat-transfer",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Conduction-Radiation-Convection",
+      "parent": null,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "energy-flow-in-ecosystems",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "coefficient-of-thermal-expansion": {
+      "canonical_name": "Coefficient of Thermal Expansion",
+      "slug": "coefficient-of-thermal-expansion",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Heat Transfer",
+      "parent": "thermodynamics",
+      "_id": null,
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "interference": {
+      "canonical_name": "Interference",
+      "slug": "interference",
+      "_aliases": [
+        "Wave Superposition"
+      ],
+      "domain": "Optics",
+      "area": "Waves",
+      "parent": "waves",
+      "grades": [
+        12
+      ],
+      "importance-by-grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "total-internal-reflection": {
+      "canonical_name": "Total Internal Reflection",
+      "slug": "total-internal-reflection",
+      "aliases": [],
+      "domain": "Optics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        12
+      ],
+      "importance_BY_Grade": {
+        "12": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    }
+  },
+  "edges": [
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "laws-of-thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "planetary-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "minerals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "density",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "solar-power-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "conservation-of-momentum",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "redox-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "work-energy-and-power",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "refraction-of-light",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "mirrors-and-lenses",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "heat-transfer",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "interference",
+      "type": "prerequisite"
+    },
+    {
+      "from": "standard-units",
+      "to": "measuring-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "position-in-two-dimensional-coordinate-system",
+      "to": "motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "position-in-two-dimensional-coordinate-system",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "molecules-of-elements",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "measuring-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "spherical-mirrors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "laws-of-thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "density",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "thermometer",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "solar-power-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "conservation-of-momentum",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "work-energy-and-power",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "mirrors-and-lenses",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "magnetism",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "heat-transfer",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law-of-motion",
+      "to": "interference",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "climate-change",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "thermometer",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "solar-power-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "propagation-of-sound",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "molecules-of-elements",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "energy-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "tides-and-current",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "earth-s-rotation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "earth-s-water-cycle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolutions",
+      "to": "interactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolutions",
+      "to": "planetary-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "climate-change",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "planetary-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "minerals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "solar-power-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "applications-of-ultrasound",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "equations-of-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "energy-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "wind-energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "tides-and-current",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "volcanoes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "earth-s-rotation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "earth-s-water-cycle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "air-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "what-is-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "measuring-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "natural-disasters",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "mixtures",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "minerals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "density",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "thermometer",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "solar-power-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "propagation-of-sound",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "mixture",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "molecules-of-elements",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "mass",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "conservation-of-momentum",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "redox-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "elasticity",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "air-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "natural-resource-management",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "earths-natural-resources",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "interactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "solar-power-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-flow-in-ecosystems",
+      "to": "heat-transfer",
+      "type": "prerequisite"
+    },
+    {
+      "from": "climate-change",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "plate-tectoncs",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "plate-tectoncs",
+      "to": "natural-disasters",
+      "type": "prerequisite"
+    },
+    {
+      "from": "plate-tectoncs",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    },
+    {
+      "from": "image-formation-using-a-convex-lens",
+      "to": "spherical-mirrors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "image-formation-using-a-convex-lens",
+      "to": "refraction-of-light",
+      "type": "prerequisite"
+    },
+    {
+      "from": "image-formation-using-a-convex-lens",
+      "to": "mirrors-and-lenses",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-second-law-of-motion-force-and-acceleration-relationship",
+      "to": "spherical-mirrors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-second-law-of-motion-force-and-acceleration-relationship",
+      "to": "equations-of-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-second-law-of-motion-force-and-acceleration-relationship",
+      "to": "thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-second-law-of-motion-force-and-acceleration-relationship",
+      "to": "conservation-of-momentum",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electric-current-and-magnetism",
+      "to": "magnetism",
+      "type": "prerequisite"
+    },
+    {
+      "from": "working-principle-of-a-telescope",
+      "to": "thermometer",
+      "type": "prerequisite"
+    },
+    {
+      "from": "physical-nature-of-matter",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "change-of-state-of-matter",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "motion-along-a-straight-line",
+      "to": "spherical-mirrors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mass",
+      "to": "laws-of-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-transfer-in-ecosystems",
+      "to": "laws-of-thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "energy-transfer-in-ecosystems",
+      "to": "solar-energy-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earth-s-rotation",
+      "to": "measuring-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-hydrospher-and-atmosphere",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-hydrospher-and-atmosphere",
+      "to": "pressure-in-fluids",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolution",
+      "to": "motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolution",
+      "to": "standard-units",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolution",
+      "to": "spherical-mirrors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolution",
+      "to": "planetary-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolution",
+      "to": "working-of-a-generator",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolution",
+      "to": "wind-turbine",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolution",
+      "to": "solar-power-systems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-and-revolution",
+      "to": "laws-of-motion",
+      "type": "prerequisite"
+    }
+  ],
+  "grade_views": {
+    "6": {
+      "concepts": [
+        "air-pollution",
+        "water-pollution",
+        "soil-formation-processes",
+        "natural-resource-management",
+        "planetary-motion-and-orbits",
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "standard-units",
+        "position-in-two-dimensional-coordinate-system",
+        "what-is-matter",
+        "measuring-temperature",
+        "states-of-matter",
+        "cooling-effect",
+        "greenhouse-effect",
+        "natural-disasters",
+        "earths-rotation-and-revolutions",
+        "earths-oceans",
+        "earths-geological-time-scales",
+        "earths-natural-resources"
+      ],
+      "entry_points": [
+        "soil-formation-processes",
+        "natural-resource-management",
+        "planetary-motion-and-orbits",
+        "attraction-and-repulsion-between-magnets",
+        "standard-units",
+        "position-in-two-dimensional-coordinate-system",
+        "cooling-effect",
+        "earths-rotation-and-revolutions",
+        "earths-geological-time-scales",
+        "earths-natural-resources"
+      ],
+      "count": 19
+    },
+    "7": {
+      "concepts": [
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "measuring-temperature",
+        "states-of-matter",
+        "greenhouse-effect",
+        "earths-oceans",
+        "energy-flow-in-ecosystems",
+        "adaptation-in-living-organisms",
+        "climate-change",
+        "plate-tectoncs"
+      ],
+      "entry_points": [
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "measuring-temperature",
+        "states-of-matter",
+        "energy-flow-in-ecosystems",
+        "adaptation-in-living-organisms",
+        "climate-change",
+        "plate-tectoncs"
+      ],
+      "count": 10
+    },
+    "8": {
+      "concepts": [
+        "newtons-first-laws-of-motion",
+        "air-pollution",
+        "water-pollution",
+        "planetary-motion-and-orbits",
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "standard-units",
+        "what-is-matter",
+        "measuring-temperature",
+        "states-of-matter",
+        "newtons-first-law-of-motion",
+        "greenhouse-effect",
+        "natural-disasters",
+        "earths-oceans",
+        "earths-geological-time-scales",
+        "heat-transfer-mechanism",
+        "plate-tectoncs",
+        "spherical-mirrors",
+        "image-formation-using-a-convex-lens",
+        "festivals-and-astronomy",
+        "laws-of-thermodynamics",
+        "energy-transfer-in-communities",
+        "interactions",
+        "planetary-systems",
+        "newtons-second-law-of-motion-force-and-acceleration-relationship",
+        "work-done-by-gravity",
+        "electric-current-and-magnetism",
+        "weight-and-its-measurement",
+        "pressure-exerted-by-air",
+        "mixtures",
+        "minerals",
+        "capacity-and-concentration-of-solutions",
+        "density",
+        "thermometer",
+        "working-principle-of-a-telescope",
+        "working-of-a-multimiter",
+        "working-of-a-generator",
+        "working-of-a-solar-panel",
+        "working-of-a-thermometer",
+        "working-of-a-water-filtration-system",
+        "wind-turbine",
+        "solar-power-systems",
+        "solar-energy-applications",
+        "working-of-a-solar-powered-wind-turbine",
+        "energy",
+        "newtons-first-and-second-laws-of-motion-force-and-newtons-third-law-of-motion-action-reaction-pairs"
+      ],
+      "entry_points": [
+        "newtons-first-laws-of-motion",
+        "air-pollution",
+        "planetary-motion-and-orbits",
+        "attraction-and-repulsion-between-magnets",
+        "standard-units",
+        "what-is-matter",
+        "newtons-first-law-of-motion",
+        "earths-geological-time-scales",
+        "heat-transfer-mechanism",
+        "plate-tectoncs",
+        "image-formation-using-a-convex-lens",
+        "festivals-and-astronomy",
+        "energy-transfer-in-communities",
+        "interactions",
+        "newtons-second-law-of-motion-force-and-acceleration-relationship",
+        "work-done-by-gravity",
+        "electric-current-and-magnetism",
+        "weight-and-its-measurement",
+        "pressure-exerted-by-air",
+        "mixtures",
+        "capacity-and-concentration-of-solutions",
+        "working-principle-of-a-telescope",
+        "working-of-a-multimiter",
+        "working-of-a-generator",
+        "working-of-a-solar-panel",
+        "working-of-a-thermometer",
+        "working-of-a-water-filtration-system",
+        "wind-turbine",
+        "working-of-a-solar-powered-wind-turbine",
+        "newtons-first-and-second-laws-of-motion-force-and-newtons-third-law-of-motion-action-reaction-pairs"
+      ],
+      "count": 46
+    },
+    "9": {
+      "concepts": [
+        "newtons-first-laws-of-motion",
+        "planetary-motion-and-orbits",
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "measuring-temperature",
+        "states-of-matter",
+        "newtons-first-law-of-motion",
+        "greenhouse-effect",
+        "earths-oceans",
+        "adaptation-in-living-organisms",
+        "heat-transfer-mechanism",
+        "plate-tectoncs",
+        "spherical-mirrors",
+        "laws-of-thermodynamics",
+        "energy-transfer-in-communities",
+        "pressure-exerted-by-air",
+        "minerals",
+        "density",
+        "thermometer",
+        "working-of-a-solar-panel",
+        "solar-power-systems",
+        "physical-nature-of-matter",
+        "change-of-state-of-matter",
+        "energy",
+        "propagation-of-sound",
+        "applications-of-ultrasound",
+        "mixture",
+        "types-of-pure-elements-and-compounds",
+        "molecules-of-elements",
+        "charged-particles-in-matters",
+        "valency",
+        "newtons-first-and-second-laws-of-motion-force-and-newtons-third-law-of-motion-action-reaction-pairs",
+        "motion-along-a-straight-line",
+        "measuring-the-rate-of-motion",
+        "equations-of-motion",
+        "first-law-of-motion-newtons-first-law-motions",
+        "third-law-of-motion ",
+        "mass",
+        "archimedes-principal",
+        "energy-transfer-in-ecosystems",
+        "thermodynamics",
+        "conservation-of-momentum",
+        "energy-conservation",
+        "wind-energy",
+        "tides-and-current",
+        "volcanoes",
+        "earth-s-rotation",
+        "earth-s-water-cycle",
+        "earths-hydrospher-and-atmosphere",
+        "earths-pedosphere-and-atmospheric-systems"
+      ],
+      "entry_points": [
+        "newtons-first-laws-of-motion",
+        "planetary-motion-and-orbits",
+        "attraction-and-repulsion-between-magnets",
+        "newtons-first-law-of-motion",
+        "adaptation-in-living-organisms",
+        "heat-transfer-mechanism",
+        "plate-tectoncs",
+        "energy-transfer-in-communities",
+        "pressure-exerted-by-air",
+        "working-of-a-solar-panel",
+        "physical-nature-of-matter",
+        "change-of-state-of-matter",
+        "propagation-of-sound",
+        "applications-of-ultrasound",
+        "mixture",
+        "types-of-pure-elements-and-compounds",
+        "molecules-of-elements",
+        "charged-particles-in-matters",
+        "valency",
+        "newtons-first-and-second-laws-of-motion-force-and-newtons-third-law-of-motion-action-reaction-pairs",
+        "motion-along-a-straight-line",
+        "measuring-the-rate-of-motion",
+        "equations-of-motion",
+        "first-law-of-motion-newtons-first-law-motions",
+        "third-law-of-motion ",
+        "mass",
+        "archimedes-principal",
+        "energy-transfer-in-ecosystems",
+        "energy-conservation",
+        "wind-energy",
+        "tides-and-current",
+        "volcanoes",
+        "earth-s-rotation",
+        "earth-s-water-cycle",
+        "earths-hydrospher-and-atmosphere",
+        "earths-pedosphere-and-atmospheric-systems"
+      ],
+      "count": 50
+    },
+    "10": {
+      "concepts": [
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "measuring-temperature",
+        "states-of-matter",
+        "greenhouse-effect",
+        "earths-oceans",
+        "heat-transfer-mechanism",
+        "climate-change",
+        "plate-tectoncs",
+        "spherical-mirrors",
+        "laws-of-thermodynamics",
+        "energy-transfer-in-communities",
+        "work-done-by-gravity",
+        "pressure-exerted-by-air",
+        "mixtures",
+        "minerals",
+        "density",
+        "thermometer",
+        "working-of-a-solar-panel",
+        "solar-power-systems",
+        "solar-energy-applications",
+        "energy",
+        "atomic-structure",
+        "empirical-and-molecular-formulas",
+        "electronic-configuration",
+        "redox-reactions",
+        "work-energy-and-power",
+        "refraction-of-light",
+        "mirrors-and-lenses"
+      ],
+      "entry_points": [
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "measuring-temperature",
+        "states-of-matter",
+        "heat-transfer-mechanism",
+        "climate-change",
+        "plate-tectoncs",
+        "spherical-mirrors",
+        "laws-of-thermodynamics",
+        "energy-transfer-in-communities",
+        "work-done-by-gravity",
+        "pressure-exerted-by-air",
+        "mixtures",
+        "minerals",
+        "density",
+        "thermometer",
+        "working-of-a-solar-panel",
+        "solar-power-systems",
+        "solar-energy-applications",
+        "energy",
+        "atomic-structure",
+        "empirical-and-molecular-formulas",
+        "electronic-configuration",
+        "redox-reactions",
+        "work-energy-and-power",
+        "refraction-of-light",
+        "mirrors-and-lenses"
+      ],
+      "count": 29
+    },
+    "11": {
+      "concepts": [
+        "newtons-first-laws-of-motion",
+        "planetary-motion-and-orbits",
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "measuring-temperature",
+        "states-of-matter",
+        "newtons-first-law-of-motion",
+        "greenhouse-effect",
+        "earths-oceans",
+        "energy-flow-in-ecosystems",
+        "heat-transfer-mechanism",
+        "plate-tectoncs",
+        "spherical-mirrors",
+        "laws-of-thermodynamics",
+        "energy-transfer-in-communities",
+        "planetary-systems",
+        "newtons-second-law-of-motion-force-and-acceleration-relationship",
+        "pressure-exerted-by-air",
+        "minerals",
+        "density",
+        "thermometer",
+        "working-of-a-solar-panel",
+        "solar-power-systems",
+        "energy",
+        "newtons-first-and-second-laws-of-motion-force-and-newtons-third-law-of-motion-action-reaction-pairs",
+        "laws-of-motion",
+        "elasticity",
+        "pressure-in-fluids"
+      ],
+      "entry_points": [
+        "newtons-first-laws-of-motion",
+        "planetary-motion-and-orbits",
+        "attraction-and-repulsion-between-magnets",
+        "newtons-first-law-of-motion",
+        "energy-flow-in-ecosystems",
+        "heat-transfer-mechanism",
+        "plate-tectoncs",
+        "energy-transfer-in-communities",
+        "newtons-second-law-of-motion-force-and-acceleration-relationship",
+        "pressure-exerted-by-air",
+        "working-of-a-solar-panel",
+        "newtons-first-and-second-laws-of-motion-force-and-newtons-third-law-of-motion-action-reaction-pairs",
+        "laws-of-motion",
+        "elasticity",
+        "pressure-in-fluids"
+      ],
+      "count": 28
+    },
+    "12": {
+      "concepts": [
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "measuring-temperature",
+        "states-of-matter",
+        "greenhouse-effect",
+        "earths-oceans",
+        "heat-transfer-mechanism",
+        "plate-tectoncs",
+        "spherical-mirrors",
+        "laws-of-thermodynamics",
+        "energy-transfer-in-communities",
+        "planetary-systems",
+        "pressure-exerted-by-air",
+        "minerals",
+        "density",
+        "thermometer",
+        "working-of-a-solar-panel",
+        "solar-power-systems",
+        "energy",
+        "motion-along-a-straight-line",
+        "thermodynamics",
+        "conservation-of-momentum",
+        "magnetism",
+        "biot-savarts-law",
+        "heat-transfer",
+        "coefficient-of-thermal-expansion",
+        "interference",
+        "total-internal-reflection"
+      ],
+      "entry_points": [
+        "motion",
+        "attraction-and-repulsion-between-magnets",
+        "measuring-temperature",
+        "states-of-matter",
+        "greenhouse-effect",
+        "heat-transfer-mechanism",
+        "plate-tectoncs",
+        "laws-of-thermodynamics",
+        "energy-transfer-in-communities",
+        "planetary-systems",
+        "pressure-exerted-by-air",
+        "minerals",
+        "density",
+        "thermometer",
+        "working-of-a-solar-panel",
+        "solar-power-systems",
+        "energy",
+        "motion-along-a-straight-line",
+        "thermodynamics",
+        "conservation-of-momentum",
+        "magnetism",
+        "biot-savarts-law",
+        "heat-transfer",
+        "coefficient-of-thermal-expansion",
+        "interference",
+        "total-internal-reflection"
+      ],
+      "count": 28
+    }
+  }
+}

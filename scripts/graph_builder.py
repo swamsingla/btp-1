@@ -113,6 +113,14 @@ def extract_json(text: str) -> Any:
                         log.warning("Recovered %d partial items from truncated LLM array", len(parsed))
                         return parsed
                 except json.JSONDecodeError:
+                    candidate_fixed = re.sub(r",\s*\]$", "]", candidate)
+                    try:
+                        parsed = json.loads(candidate_fixed)
+                        if isinstance(parsed, list) and parsed:
+                            log.warning("Recovered %d partial items from truncated LLM array (stripped comma)", len(parsed))
+                            return parsed
+                    except json.JSONDecodeError:
+                        pass
                     continue
     raise ValueError(f"Cannot extract JSON from: {text[:400]}")
 
@@ -268,6 +276,8 @@ Return JSON array only."""
         # Assign subject + deduplicate by slug
         new_in_batch: list[dict] = []
         for c in concepts:
+            if c is None:
+                continue
             if not c.get("canonical_name"):
                 continue
             if "slug" not in c or not c["slug"]:

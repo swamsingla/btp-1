@@ -1,0 +1,803 @@
+{
+  "grade": 6,
+  "subject": "physics",
+  "concepts": {
+    "air-pollution": {
+      "canonical_name": "Air Pollution",
+      "slug": "air-pollution",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "8": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "energy-flow-in-ecosystems"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "water-pollution": {
+      "canonical_name": "Water Pollution",
+      "slug": "water-pollution",
+      "aliases": [
+        "Types of water pollution",
+        "Effects of water pollution"
+      ],
+      "domain": "Physics",
+      "area": "Environmental Science",
+      "parent": "physics-and-environmental-science",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "plate-tectoncs"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "soil-formation-processes": {
+      "canonical_name": "Soil Formation Processes",
+      "slug": "soil-formation-processes",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Geophysics",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "natural-resource-management": {
+      "canonical_name": "Natural Resource Management",
+      "slug": "natural-resource-management",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Resources We Use",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance-by-grade": {
+        "6": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "energy-flow-in-ecosystems"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "planetary-motion-and-orbits": {
+      "canonical_name": "Planetary Motion and Orbits",
+      "slug": "planetary-motion-and-orbits",
+      "_aliases": [],
+      "domain": "Physics",
+      "area": "Our Solar System",
+      "parent": "our-solar-system",
+      "grades": [
+        6,
+        8,
+        9,
+        11
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "8": 4,
+        "9": 3,
+        "11": 2
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "conservation-of-momentum",
+        "density",
+        "energy",
+        "greenhouse-effect",
+        "heat-transfer",
+        "interference",
+        "laws-of-thermodynamics",
+        "minerals",
+        "mirrors-and-lenses",
+        "motion",
+        "planetary-systems",
+        "redox-reactions",
+        "refraction-of-light",
+        "solar-energy-applications",
+        "solar-power-systems",
+        "states-of-matter",
+        "thermodynamics",
+        "work-energy-and-power"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "motion": {
+      "canonical_name": "Motion",
+      "slug": "motion",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Kinematics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolution",
+        "newtons-first-law-of-motion",
+        "planetary-motion-and-orbits",
+        "position-in-two-dimensional-coordinate-system"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "attraction-and-repulsion-between-magnets": {
+      "canonical_name": "Attraction and Repulsion Between Magnets",
+      "slug": "attraction-and-repulsion-between-magnets",
+      "_aliases": [
+        "Magnetic Forces"
+      ],
+      "domain": "Physics",
+      "area": "Electromagnetism",
+      "parent": "electromagnetism-subject",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "standard-units": {
+      "canonical_name": "Standard Units",
+      "slug": "standard-units",
+      "aliases": [
+        "Units",
+        "Measurement Units"
+      ],
+      "domain": "Physics",
+      "area": "Measuring Quantities",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-rotation-and-revolution"
+      ],
+      "leads_to": [
+        "measuring-temperature"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "position-in-two-dimensional-coordinate-system": {
+      "canonical_name": "Position in Two-Dimensional Coordinate System",
+      "slug": "position-in-two-dimensional-coordinate-system",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Motion and Rest",
+      "parent": "",
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "earths-oceans",
+        "motion"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "what-is-matter": {
+      "canonical_name": "What is Matter?",
+      "slug": "what-is-matter",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [
+        "molecules-of-elements",
+        "states-of-matter"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "measuring-temperature": {
+      "canonical_name": "Measuring Temperature",
+      "slug": "measuring-temperature",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Temperature Measurement",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earth-s-rotation",
+        "earths-natural-resources",
+        "newtons-first-law-of-motion",
+        "standard-units"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "states-of-matter": {
+      "canonical_name": "States of Matter",
+      "slug": "states-of-matter",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Properties of Matter",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "change-of-state-of-matter",
+        "earths-geological-time-scales",
+        "earths-natural-resources",
+        "natural-disasters",
+        "physical-nature-of-matter",
+        "planetary-motion-and-orbits",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "cooling-effect": {
+      "canonical_name": "Cooling Effect",
+      "slug": "cooling-effect",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Heat Transfer",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "greenhouse-effect": {
+      "canonical_name": "Greenhouse Effect",
+      "slug": "greenhouse-effect",
+      "aliases": [],
+      "domain": "Thermodynamics",
+      "area": "Heat Transfer Mechanisms",
+      "parent": "heat-transfer-mechanisms",
+      "_id": "0",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 2,
+        "8": 3,
+        "9": 4,
+        "10": 5,
+        "11": 6,
+        "12": 7
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "climate-change",
+        "earths-geological-time-scales",
+        "earths-hydrospher-and-atmosphere",
+        "earths-natural-resources",
+        "energy-flow-in-ecosystems",
+        "natural-disasters",
+        "planetary-motion-and-orbits"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "natural-disasters": {
+      "canonical_name": "Natural Disasters",
+      "slug": "natural-disasters",
+      "_aliases": [
+        "Disaster Management",
+        "Earthquake",
+        "Floods",
+        "Landslide"
+      ],
+      "domain": "Physics",
+      "area": "Geophysics",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-natural-resources",
+        "plate-tectoncs"
+      ],
+      "leads_to": [
+        "climate-change",
+        "earth-s-rotation",
+        "earth-s-water-cycle",
+        "earths-oceans",
+        "energy-conservation",
+        "greenhouse-effect",
+        "molecules-of-elements",
+        "propagation-of-sound",
+        "solar-power-systems",
+        "states-of-matter",
+        "thermometer",
+        "tides-and-current"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earths-rotation-and-revolutions": {
+      "canonical_name": "Earth's Rotation and Revolutions",
+      "slug": "earths-rotation-and-revolutions",
+      "aliases": [],
+      "domain": "Astronomy",
+      "area": "Planetary Science",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "interactions",
+        "planetary-systems"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earths-oceans": {
+      "canonical_name": "Earth's Oceans",
+      "slug": "earths-oceans",
+      "_aliases": [
+        "Oceanography"
+      ],
+      "domain": "Physics",
+      "area": "Geophysics",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "earths-natural-resources",
+        "natural-disasters",
+        "plate-tectoncs",
+        "position-in-two-dimensional-coordinate-system"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earths-geological-time-scales": {
+      "canonical_name": "Earth's Geological Time Scales",
+      "slug": "earths-geological-time-scales",
+      "_aliases": [
+        "Geologic Time Scale",
+        "Geological Time Scale"
+      ],
+      "domain": "Physics",
+      "area": "Earth Sciences",
+      "parent": "",
+      "grades": [
+        6,
+        8
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [],
+      "leads_to": [
+        "applications-of-ultrasound",
+        "climate-change",
+        "earth-s-rotation",
+        "earth-s-water-cycle",
+        "earths-oceans",
+        "energy-conservation",
+        "equations-of-motion",
+        "greenhouse-effect",
+        "minerals",
+        "planetary-systems",
+        "solar-power-systems",
+        "states-of-matter",
+        "thermodynamics",
+        "tides-and-current",
+        "volcanoes",
+        "wind-energy"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earths-natural-resources": {
+      "canonical_name": "Earth's Natural Resources",
+      "slug": "earths-natural-resources",
+      "aliases": [],
+      "domain": "Physics",
+      "area": "Environmental Science",
+      "parent": null,
+      "grades": [
+        6
+      ],
+      "importance_BY_GRADE": {
+        "6": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "physics",
+      "prerequisites": [
+        "energy-flow-in-ecosystems"
+      ],
+      "leads_to": [
+        "air-pollution",
+        "conservation-of-momentum",
+        "density",
+        "earths-oceans",
+        "elasticity",
+        "energy",
+        "greenhouse-effect",
+        "mass",
+        "measuring-temperature",
+        "minerals",
+        "mixture",
+        "mixtures",
+        "molecules-of-elements",
+        "natural-disasters",
+        "propagation-of-sound",
+        "redox-reactions",
+        "solar-energy-applications",
+        "solar-power-systems",
+        "states-of-matter",
+        "thermometer",
+        "water-pollution",
+        "what-is-matter"
+      ],
+      "related": [],
+      "see_also": []
+    }
+  },
+  "edges": [
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "planetary-motion-and-orbits",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "standard-units",
+      "to": "measuring-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "position-in-two-dimensional-coordinate-system",
+      "to": "motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "position-in-two-dimensional-coordinate-system",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-disasters",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-geological-time-scales",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "air-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "water-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "what-is-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "measuring-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "states-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "greenhouse-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "natural-disasters",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-natural-resources",
+      "to": "earths-oceans",
+      "type": "prerequisite"
+    }
+  ],
+  "entry_points": [
+    "soil-formation-processes",
+    "natural-resource-management",
+    "planetary-motion-and-orbits",
+    "attraction-and-repulsion-between-magnets",
+    "standard-units",
+    "position-in-two-dimensional-coordinate-system",
+    "cooling-effect",
+    "earths-rotation-and-revolutions",
+    "earths-geological-time-scales",
+    "earths-natural-resources"
+  ]
+}

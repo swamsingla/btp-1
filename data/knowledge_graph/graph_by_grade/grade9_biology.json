@@ -1,0 +1,1365 @@
+{
+  "grade": 9,
+  "subject": "biology",
+  "concepts": {
+    "life-cycle-of-plants": {
+      "canonical_name": "Life Cycle of Plants",
+      "slug": "life-cycle-of-plants",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Plant Reproduction",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": -1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "natural-resource-management": {
+      "canonical_name": "Natural Resource Management",
+      "slug": "natural-resource-management",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Ecology",
+      "parent": null,
+      "grades": [
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "8": 4,
+        "9": 3,
+        "10": 2,
+        "11": 1,
+        "12": 0
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources",
+        "effect-of-light-on-plant-growth",
+        "food-chain-and-food-webs",
+        "leaves-the-food-factories-of-plants",
+        "sources-of-water"
+      ],
+      "leads_to": [
+        "environmental-conservation"
+      ],
+      "related": [
+        "natural-disasters",
+        "soil-erosion"
+      ],
+      "see_also": []
+    },
+    "cell-division": {
+      "canonical_name": "Cell Division",
+      "aliasess": [
+        "Mitosis",
+        "Meiosis",
+        "Karyokinesis",
+        "Cytokinesis"
+      ],
+      "Domain": "Biology",
+      "_Area": "Molecular Genetics",
+      "Parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "_Importance-by-grade": {
+        "6": 1,
+        "7": 1,
+        "_8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 5
+      },
+      "_Source Boards": [
+        "NCERT",
+        "icse"
+      ],
+      "slug": "cell-division",
+      "subject": "biology",
+      "prerequisites": [
+        "cell-as-the-basic-unit-of-life",
+        "cellular-respiration",
+        "effect-of-light-on-plant-growth",
+        "mitosis",
+        "sources-of-water",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "attraction-and-repulsion-between-magnets": {
+      "canonical_name": "Attraction and Repulsion Between Magnets",
+      "slug": "attraction-and-repulsion-between-magnets",
+      "_aliases": [
+        "Magnetic Forces"
+      ],
+      "domain": "Biology",
+      "area": "Physics in Everyday Life",
+      "parent": "physics-in-everyday-life",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "standard-units": {
+      "canonical_name": "Standard Units",
+      "slug": "standard-units",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Measurement in Science",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources",
+        "leaves-the-food-factories-of-plants",
+        "measuring-temperature",
+        "position-in-two-dimensional-coordinate-system",
+        "what-is-matter",
+        "what-we-eat"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "human-impact-on-the-environmental-conservation": {
+      "canonical_name": "Human Impact on the Environmental Conservation",
+      "slug": "human-impact-on-the-environmental-conservation",
+      "aliases": [
+        "Environmental Pollution",
+        "Greenhouse Gases"
+      ],
+      "domain": "Biology",
+      "area": "Ecology and Conservation",
+      "_parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 4
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earth-s-oceans": {
+      "canonical_name": "Earth's Oceans",
+      "slug": "earth-s-oceans",
+      "_aliases": [
+        "ocean",
+        "marine-life"
+      ],
+      "domain": "Biology",
+      "area": "Geography and Oceanography",
+      "parent": "",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-geological-time-scales",
+        "natural-disasters",
+        "plate-tectoncs",
+        "water-cycle"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "environmental-conservation": {
+      "canonical_name": "Environmental Conservation",
+      "slug": "environmental-conservation",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Ecology",
+      "parent": null,
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 6
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "diversity-in-plants-and-animal-around-us",
+        "earths-natural-resources",
+        "effect-of-light-on-plant-growth",
+        "food-chain-and-food-webs",
+        "importance-of-biodiversity-in-an-ecosystem",
+        "leaves-the-food-factories-of-plants",
+        "natural-resource-management",
+        "soil-erosion",
+        "sources-of-water",
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [],
+      "related": [
+        "natural-disasters",
+        "soil-erosion",
+        "water-cycle"
+      ],
+      "see_also": []
+    },
+    "reflection": {
+      "canonical_name": "Reflection",
+      "slug": "reflection",
+      "aliases": [
+        "Laws of Reflection"
+      ],
+      "domain": "Biology",
+      "area": "Optics",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance_BY_GRADE": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources",
+        "importance-of-biodiversity-in-an-ecosystem",
+        "measuring-temperature",
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "force": {
+      "canonical_name": "Force",
+      "slug": "force",
+      "aliases": [
+        "Forces"
+      ],
+      "domain": "Biology",
+      "area": "Motion and Forces",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources",
+        "earths-rotational-speed-and-its-effects",
+        "weight-and-its-measurement"
+      ],
+      "leads_to": [],
+      "related": [
+        "effect-of-light-on-plant-growth",
+        "position-in-two-dimensional-coordinate-system"
+      ],
+      "see_also": []
+    },
+    "states-of-matter": {
+      "canonical_name": "States of Matter",
+      "slug": "states-of-matter",
+      "aliases": [
+        "Different States of Matter"
+      ],
+      "domain": "Biology",
+      "area": "Chemical Properties of Matter",
+      "parent": null,
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "position-in-two-dimensional-coordinate-system",
+        "states-of-water",
+        "what-is-matter",
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "density": {
+      "canonical_name": "Density",
+      "slug": "density",
+      "aliases": [
+        "Mass/Volume Ratio"
+      ],
+      "domain": "Biology",
+      "area": "Physical Properties of Matter",
+      "parent": "physical-properties-of-matter",
+      "grades": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "importance-by-grade": {
+        "8": 5,
+        "9": 4,
+        "10": 3,
+        "11": 2,
+        "12": 1
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "measuring-temperature",
+        "position-in-two-dimensional-coordinate-system",
+        "states-of-water",
+        "what-is-matter",
+        "what-we-eat"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "physical-nature-of-matter": {
+      "canonical_name": "Physical Nature of Matter",
+      "slug": "physical-nature-of-matter",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Chemical Properties of Matter",
+      "parents": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source-boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "can-matter-change-its-state": {
+      "canonical_name": "Can Matter Change Its State?",
+      "slug": "can-matter-change-its-state",
+      "aliases": [
+        "Change of State",
+        "States of Matter"
+      ],
+      "domain": "Biology",
+      "area": "Thermodynamics",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "energy": {
+      "canonical_name": "Energy",
+      "slug": "energy",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Thermodynamics",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "cellular-respiration",
+        "what-we-eat"
+      ],
+      "leads_to": [
+        "work-energy-and-power"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "kinetic-energy": {
+      "canonical_name": "Kinetic Energy",
+      "slug": "kinetic-energy",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Thermodynamics-Energy Forms",
+      "parent": "energy",
+      "grades": [
+        9
+      ],
+      "importanceByGrade": {
+        "9": 4
+      },
+      "sourceBoards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [
+        "work-energy-and-power"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "propagation-of-sound": {
+      "canonical_name": "Propagation of Sound",
+      "slug": "propagation-of-sound",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Sound Waves",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "applications-of-ultrasound": {
+      "canonical_name": "Applications of Ultrasound",
+      "slug": "applications-of-ultrasound",
+      "_aliases": [
+        "Medical Applications of Ultrasoud",
+        "Industrial Applications of Ulrasound"
+      ],
+      "domain": "Biology",
+      "area": "Plant Physiology",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "types-of-pure-elements-and-compounds": {
+      "canonical_name": "Types of Pure Elements and Compounds",
+      "slug": "types-of-pure-elements-and-compounds",
+      "_aliases": [
+        "Pure Elements",
+        "Pure Compounds"
+      ],
+      "domain": "Biology",
+      "area": "Chemical Bonding",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "what-is-a-molecule": {
+      "canonical_name": "What Is A Molecule?",
+      "slug": "what-is-a-molecule",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Molecules And Elements",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "charged-particles-in-living-organisms": {
+      "canonical_name": "Charged Particles in Living Organisms",
+      "slug": "charged-particles-in-living-organisms",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "valency": {
+      "canonical_name": "Valency",
+      "slug": "valency",
+      "_aliases": [
+        "Definition of valency",
+        "Types of valency",
+        "Valency of metals",
+        "Valency of non-metalls"
+      ],
+      "domain": "Chemistry",
+      "area": "Atomic Structure",
+      "parent": "atomic-structure",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "elements-compounds-and-mixtures",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "living-organisms": {
+      "canonical_name": "Living Organisms",
+      "slug": "living-organisms",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "rate-of-change-of-motion": {
+      "canonical_name": "Rate of Change of Motion",
+      "slug": "rate-of-change-of-motion",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "equation-of-motion": {
+      "canonical_name": "Equation of Motion",
+      "slug": "equation-of-motion",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Motion",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "first-law-of-motion-newton-s-first-law": {
+      "canonical_name": "First Law of Motion - Newton's First Law",
+      "slug": "first-law-of-motion-newton-s-first-law",
+      "aliases": [
+        "Inertia",
+        "Rest and Motion"
+      ],
+      "domain": "Biology",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_By_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "third-law-of-motion ": {
+      "canonical_name": "Third Law of Motion ",
+      "slug": "third-law-of-motion ",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Motion and Force",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mass": {
+      "canonical_name": "Mass",
+      "slug": "mass",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "measuring-temperature",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "archimedes-principle": {
+      "canonical_name": "Archimedes' Princple",
+      "slug": "archimedes-principle",
+      "aliases": [
+        "Buoyancy"
+      ],
+      "domain": "Biology",
+      "area": "Fluid Dynamics",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "nuclear-reactions": {
+      "canonical_name": "Nuclear Reactions",
+      "slug": "nuclear-reactions",
+      "_aliases": [
+        "Radioactivity"
+      ],
+      "domain": "Biology",
+      "area": "Cellular Processes",
+      "parent": "cellular-processes",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "mitosis": {
+      "canonical_name": "Mitosis",
+      "slug": "mitosis",
+      "_aliases": [
+        "Cell Division"
+      ],
+      "domain": "Biology",
+      "area": "Cell Structure and Function",
+      "parent": "cell-structure-and-function",
+      "grades": [
+        9
+      ],
+      "importanceByGrade": {
+        "9": 5
+      },
+      "sourceBoards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "cellular-respiration",
+        "photosynthesis"
+      ],
+      "leads_to": [
+        "cell-division"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "dna-structure-and-replication": {
+      "canonical_name": "DNA Structure and Replication",
+      "slug": "dna-structure-and-replication",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Genetics",
+      "parent": "genetics",
+      "_id": null,
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [
+        "genetic-disorders"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "food-web": {
+      "canonical_name": "Food Web",
+      "slug": "food-web",
+      "aliases": [
+        "Web of Life",
+        "Ecological Network"
+      ],
+      "domain": "Biology",
+      "area": "Ecosystems",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "ozone-depletion": {
+      "canonical_name": "Ozone Depletion",
+      "slug": "ozone-depletion",
+      "_aliases": [
+        "Causes of Ozone Depletion",
+        "Effects of Ozone Layer Depletion"
+      ],
+      "domain": "Biology",
+      "area": "Environmental Science",
+      "parent": "atmospheric-science",
+      "grades": [
+        9,
+        12
+      ],
+      "importance-by-grade": {
+        "9": 5,
+        "12": 4
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-natural-resources"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "atmospheric-pollution": {
+      "canonical_name": "Atmospheric Pollution",
+      "slug": "atmospheric-pollution",
+      "_aliases": [
+        "Types of Air Pollutants",
+        "Sources of Air Pollution"
+      ],
+      "domain": "Biology",
+      "area": "Environmental Science",
+      "parent": "ecology",
+      "grades": [
+        9,
+        11
+      ],
+      "importanceByGrade": {
+        "9": 5,
+        "11": 4
+      },
+      "sourceBoards": [
+        "NCERT",
+        "state board"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "diversity-in-plants-and-animal-around-us",
+        "earths-natural-resources",
+        "photosynthesis",
+        "soil-erosion",
+        "water-cycle"
+      ],
+      "leads_to": [],
+      "related": [
+        "climate-change",
+        "earths-geological-time-scales",
+        "natural-disasters"
+      ],
+      "see_also": []
+    },
+    "deforestation": {
+      "canonical_name": "Deforestation",
+      "slug": "deforestation",
+      "_aliases": [
+        "Causes of Deforestation",
+        "Effects of Deforestation"
+      ],
+      "domain": "Ecology",
+      "area": "Biodiversity Conservation",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_Grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "diversity-in-plants-and-animal-around-us"
+      ],
+      "leads_to": [
+        "earths-natural-resources"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "energy-conservation": {
+      "canonical_name": "Energy Conservation",
+      "slug": "energy-conservation",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "tides-and-coastal-processes": {
+      "canonical_name": "Tides and Coastal Processes",
+      "slug": "tides-and-coastal-processes",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "volcanoes": {
+      "canonical_name": "Volcanoes",
+      "slug": "volcanoes",
+      "domain": "Biology",
+      "parents": null,
+      "grades": [
+        9
+      ],
+      "alias": [],
+      "area": "Geology and Ecosystems",
+      "importances": {
+        "9": 5
+      },
+      "source_board": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "earths-geological-time-scales"
+      ],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "earths-rotational-speed-and-its-effects": {
+      "canonical_name": "Earth's Rotational Speed and Its Effects",
+      "slug": "earths-rotational-speed-and-its-effects",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Earth's Rotation",
+      "parent": "earth-s-rotation",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [
+        "force"
+      ],
+      "related": [],
+      "see_also": []
+    },
+    "earth-s-water-cycle": {
+      "canonical_name": "Earth's Water Cycle",
+      "slug": "earth-s-water-cycle",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Ecological Processes",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance-by-grade": {
+        "9": 5
+      },
+      "source_Boards": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [
+        "sources-of-water",
+        "what-sets-the-living-apart-from-the-non-living"
+      ],
+      "leads_to": [
+        "states-of-water",
+        "water-cycle"
+      ],
+      "related": [
+        "cooling-effect-by-evaporation",
+        "states-of-water",
+        "water-cycle"
+      ],
+      "see_also": []
+    },
+    "soil-formation-and-characteristics": {
+      "canonical_name": "Soil Formation and Characteristics",
+      "slug": "soil-formation-and-characteristics",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Pedosphere",
+      "parent": "",
+      "grades": [
+        9
+      ],
+      "importance_BY_Grade": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT",
+        "ICSE"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    },
+    "interactions-between-ecosystems": {
+      "canonical_name": "Interactions Between Ecosystems",
+      "slug": "interactions-between-ecosystems",
+      "aliases": [],
+      "domain": "Biology",
+      "area": "Ecology",
+      "parent": null,
+      "grades": [
+        9
+      ],
+      "importance_BY_GRADE": {
+        "9": 5
+      },
+      "source_BOARDS": [
+        "NCERT"
+      ],
+      "subject": "biology",
+      "prerequisites": [],
+      "leads_to": [],
+      "related": [],
+      "see_also": []
+    }
+  },
+  "edges": [
+    {
+      "from": "natural-resource-management",
+      "to": "environmental-conservation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mitosis",
+      "to": "cell-division",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotational-speed-and-its-effects",
+      "to": "force",
+      "type": "prerequisite"
+    }
+  ],
+  "entry_points": [
+    "life-cycle-of-plants",
+    "natural-resource-management",
+    "attraction-and-repulsion-between-magnets",
+    "standard-units",
+    "human-impact-on-the-environmental-conservation",
+    "earth-s-oceans",
+    "reflection",
+    "states-of-matter",
+    "density",
+    "physical-nature-of-matter",
+    "can-matter-change-its-state",
+    "energy",
+    "kinetic-energy",
+    "propagation-of-sound",
+    "applications-of-ultrasound",
+    "types-of-pure-elements-and-compounds",
+    "what-is-a-molecule",
+    "charged-particles-in-living-organisms",
+    "valency",
+    "living-organisms",
+    "rate-of-change-of-motion",
+    "equation-of-motion",
+    "first-law-of-motion-newton-s-first-law",
+    "third-law-of-motion ",
+    "mass",
+    "archimedes-principle",
+    "nuclear-reactions",
+    "mitosis",
+    "dna-structure-and-replication",
+    "food-web",
+    "ozone-depletion",
+    "atmospheric-pollution",
+    "deforestation",
+    "energy-conservation",
+    "tides-and-coastal-processes",
+    "volcanoes",
+    "earths-rotational-speed-and-its-effects",
+    "earth-s-water-cycle",
+    "soil-formation-and-characteristics",
+    "interactions-between-ecosystems"
+  ]
+}
