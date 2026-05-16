@@ -1,0 +1,53 @@
+{
+  "concept_slug": "reaction-mechanisms",
+  "canonical_name": "Reaction Mechanisms",
+  "subject": "science",
+  "grade": 11,
+  "area": "Organic Chemistry",
+  "description": "Homolytic and heterolytic fission; carbocations; free radical mechanism",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Reactions of Hydrocarbons",
+    "Covalent Bonding"
+  ],
+  "prerequisites_descriptions": {
+    "Reactions of Hydrocarbons": "Combustion, addition, substitution reactions; tests for saturation",
+    "Covalent Bonding": "Sharing of electrons; single, double, triple bonds; Lewis structures"
+  },
+  "successors_to_link": [
+    "Alcohols, Phenols and Ethers",
+    "Aldehydes, Ketones and Carboxylic Acids",
+    "Amines",
+    "Haloalkanes and Haloarenes"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Reactions of Hydrocarbons",
+    "Covalent Bonding",
+    "Alcohols, Phenols and Ethers",
+    "Aldehydes, Ketones and Carboxylic Acids",
+    "Amines",
+    "Haloalkanes and Haloarenes",
+    "Hydrocarbons — Introduction",
+    "Functional Groups",
+    "IUPAC Nomenclature",
+    "Isomerism"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

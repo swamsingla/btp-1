@@ -1,0 +1,50 @@
+{
+  "concept_slug": "si-units",
+  "canonical_name": "SI Units",
+  "subject": "science",
+  "grade": 6,
+  "area": "Units and Measurement",
+  "description": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade6 Ch5 — Standard Units]\nSeveral systems of units evolved with time in\ndifferent parts of the world. However, when\npeople started travelling from one place to\nanother, it created a lot of confusion. This led\nto the different countries coming together\nand adopting a set of standard units of\nmeasurement. The system of units now used is\nknown as the ‘International System of Units’ or\nSI units.\nThe SI unit of length is metre. Its symbol\nis  m. A metre scale is shown in Fig. 5.2. One\nmetre (m) is divided into 100 equal divisions.\nEach division is called a centimetre (cm). You\nmay be familiar with a smaller part of the\nmetre scale, typically 15 cm long, shown in\nFig. 5.3.\nLook carefully at the 15-cm scale. It has\nmarkings (in  cm) from 0 to 15. The length\nof any section between two consecutive big\nmarks, such as between 1 and 2 or between\n5 and 6, is 1  cm. Observe that these sections\nMeasurement of Length and Motion\nFig. 5.3: A 15-cm scale\nof 1  cm length are further divided\ninto 10 equal parts. The length of\none o",
+  "context_sources": [
+    "ncert:grade6/science/ch5"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Physical Quantities"
+  ],
+  "prerequisites_descriptions": {
+    "Physical Quantities": "Measurable attributes of the physical world: length, mass, time, temperature"
+  },
+  "successors_to_link": [
+    "Measurement of Length",
+    "Measurement of Mass",
+    "Measurement of Time",
+    "Measurement of Temperature",
+    "Dimensional Analysis",
+    "Ideal Gas Laws"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Physical Quantities",
+    "Measurement of Length",
+    "Measurement of Mass",
+    "Measurement of Time",
+    "Measurement of Temperature",
+    "Dimensional Analysis",
+    "Ideal Gas Laws"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

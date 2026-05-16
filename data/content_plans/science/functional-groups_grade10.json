@@ -1,0 +1,53 @@
+{
+  "concept_slug": "functional-groups",
+  "canonical_name": "Functional Groups",
+  "subject": "science",
+  "grade": 10,
+  "area": "Organic Chemistry",
+  "description": "Alcohol, aldehyde, ketone, carboxylic acid, amine; homologous series",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Hydrocarbons — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Hydrocarbons — Introduction": "Saturated and unsaturated; alkanes, alkenes, alkynes; nomenclature"
+  },
+  "successors_to_link": [
+    "IUPAC Nomenclature",
+    "Alcohols, Phenols and Ethers",
+    "Aldehydes, Ketones and Carboxylic Acids",
+    "Amines",
+    "Polymers",
+    "Chemistry in Everyday Life"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Hydrocarbons — Introduction",
+    "IUPAC Nomenclature",
+    "Alcohols, Phenols and Ethers",
+    "Aldehydes, Ketones and Carboxylic Acids",
+    "Amines",
+    "Polymers",
+    "Chemistry in Everyday Life",
+    "Carbon and Its Compounds",
+    "Reactions of Hydrocarbons",
+    "Soaps and Detergents"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

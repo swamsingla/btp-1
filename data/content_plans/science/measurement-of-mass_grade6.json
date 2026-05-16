@@ -1,0 +1,46 @@
+{
+  "concept_slug": "measurement-of-mass",
+  "canonical_name": "Measurement of Mass",
+  "subject": "science",
+  "grade": 6,
+  "area": "Units and Measurement",
+  "description": "Measuring mass using beam balance; units: gram, kilogram",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade6 Ch5 — How do we Measure?]\nHardeep says, “I have seen my grandmother measuring\ncloth by the length of her arm.”\n“Have you ever seen how a farmer measures length to\ndivide his field into beds? He walks and counts the number\nof his strides,” says Padma.\n“Oh, not just the length of the strides—sometimes they\nalso use the length of their feet to measure,” adds Anish.\nDeepa says excitedly, “Measuring length using body parts\nmust be so much fun! Let us also measure something using\na body part.”\n“What should we measure? Okay, let us\nmeasure the length of the table in our classroom,”\nsays Tasneem.\nPadma adds, “And which body part should\nwe use to measure it?”\nDeepa says, “Let us use our handspan. I will\nshow you how to use it. I have seen my mother\nusing it. She calls it balisht.”\nHardeep adds, “Okay. Let us also note down\nour measurements.”\nFig. 5.1: Use of handspan\nfor measuring\nDeepa\nPadma\nTasneem\nAnish\nHardeep\nMeasurement of Length and Motion\nPadma says, “Oh, the number of handspans is different for\nall of us. So, w\n\n[NCERT Grade6 Ch5 — Standard Units]\nSeveral systems of units evolved with time in\ndifferent parts of the world. However, when\npeople started travelling from one place to\nanother, it created a lot of confusion. This led\nto the different countries coming together\nand adopting a set of standard units of\nmeasurement. The system of units now used is\nknown as the ‘International System of Units’ or\nSI units.\nThe SI unit of length is metre. Its symbol\nis  m. A metre scale is shown in Fig. 5.2. One\nmetre (m) is divided into 100 equal divisions.\nEach division is called a centimetre (cm). You\nmay be familiar with a smaller part of the\nmetre scale, typically 15 cm long, shown in\nFig. 5.3.\nLook carefully at the 15-cm scale. It has\nmarkings (in  cm) from 0 to 15. The length\nof any section between two consecutive big\nmarks, such as between 1 and 2 or between\n5 and 6, is 1  cm. Observe that these sections\nMeasurement of Length and Motion\nFig. 5.3: A 15-cm scale\nof 1  cm length are further divided\ninto 10 equal parts. The length of\none o\n\n[NCERT Grade6 Ch5 — Correct Way of Measuring Length]\nFor measuring any length, we need an appropriate scale.\nFor example, if you want to measure the length of your\npencil, you may use a 15-cm scale. Similarly, if the height of\na room is to be measured, you may need a metre scale or a\nmeasuring tape. You cannot directly measure the girth of a\ntree or the size of your chest using a metre scale. For such\nmeasurements, flexible measuring tape, such as a tailor’s\ntape is more suitable.\nWhile measuring lengths, we need to take care of some\npoints.\nWhat is the correct way to place the scale?\nPlace the scale in contact with the object along its length as\nshown in Fig. 5.4.\nFig. 5.4: Method of placing the scale\n(b) Incorrect\n(a) Correct\nWhat is the correct position of the eye while reading\nthe scale?\nFor example, if you are trying to measure the length of a\npencil by aligning it with a scale, the position of your eye\nshould be directly above the tip of the pencil (Fig. 5.5).\nNo, but we should\nfirst learn the correct\nway of using a scale\nto measur\n\n[NCERT Grade6 Ch5 — Measuring the Length of a Curved Line]\nAnish and his parents fixed electric string lights on the\narches  of the verandah of their\nhouse, as shown in Fig. 5.7, for a\ncelebration at home. How would\nthey have measured the required\nlength of string lights?\nIn the case of a curved line,\nmeasurements can be made with\nthe help of a flexible measuring\ntape or by using a thread as\nshown in Fig. 5.8.\nFig. 5.7: House decorated with string lights\nFig. 5.8: Measuring the length of a curved line\n\n[NCERT Grade6 Ch5 — Describing Position]\nOne day the teacher informs her students that she has\nplanned an educational visit to a nearby garden. She asks\nthe students to reach there directly in the morning. Deepa\nand her friends start discussing whether the garden would\nbe closer than their school or farther. Tasneem and Padma\nsay that the garden would be closer, while Deepa and Anish\nfeel that the school would be closer, Hardeep thinks that\nboth would be almost at an equal distance (Fig. 5.9).\nThe thread can then\nbe straightened and its\nlength can be measured\nusing a metre scale.\nFig. 5.9: Location of bus stand, school, garden and houses of Deepa and her friends\nBus stand\nSchool\nDeepa’s\nhouse\nAnish’s\nhouse\nHardeep’s\nhouse\nTasneem’s\nhouse\nPadma’s\nhouse\nGarden\nCuriosity | Textbook of Science | Grade 6\nFig. 5.10:\nA measuring tape\nWho do you think is correct? All of them are correct\n(Fig. 5.9). Then, why are their observations different? They\nare locating the distances of the school and garden from their\nhouses. If, instead, each",
+  "context_sources": [
+    "ncert:grade6/science/ch5",
+    "ncert:grade6/science/ch5",
+    "ncert:grade6/science/ch5",
+    "ncert:grade6/science/ch5",
+    "ncert:grade6/science/ch5"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "SI Units"
+  ],
+  "prerequisites_descriptions": {
+    "SI Units": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela"
+  },
+  "successors_to_link": [
+    "Mass and Inertia"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "SI Units",
+    "Mass and Inertia",
+    "Physical Quantities",
+    "Measurement of Length",
+    "Measurement of Time",
+    "Measurement of Temperature"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

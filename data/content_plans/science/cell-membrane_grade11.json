@@ -1,0 +1,46 @@
+{
+  "concept_slug": "cell-membrane",
+  "canonical_name": "Cell Membrane and Transport",
+  "subject": "science",
+  "grade": 11,
+  "area": "Cell Biology",
+  "description": "Fluid mosaic model; diffusion, osmosis, active transport",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cell Organelles"
+  ],
+  "prerequisites_descriptions": {
+    "Cell Organelles": "Nucleus, mitochondria, ER, Golgi, lysosomes, ribosomes, vacuoles, plastids"
+  },
+  "successors_to_link": [
+    "Transport in Plants",
+    "Human Excretory System",
+    "Human Reproductive System"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Cell Organelles",
+    "Transport in Plants",
+    "Human Excretory System",
+    "Human Reproductive System",
+    "Cell — Basic Unit of Life",
+    "Cell Cycle",
+    "Mitosis",
+    "Meiosis"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,46 @@
+{
+  "concept_slug": "oxidation-reduction",
+  "canonical_name": "Oxidation and Reduction",
+  "subject": "science",
+  "grade": 10,
+  "area": "Chemical Reactions",
+  "description": "Loss/gain of electrons; oxidation number; redox reactions",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Types of Chemical Reactions"
+  ],
+  "prerequisites_descriptions": {
+    "Types of Chemical Reactions": "Combination, decomposition, displacement, double displacement, redox"
+  },
+  "successors_to_link": [
+    "Corrosion and Rancidity",
+    "Reactivity Series",
+    "Electrochemical Cells",
+    "Redox Reactions — Balancing"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Types of Chemical Reactions",
+    "Corrosion and Rancidity",
+    "Reactivity Series",
+    "Electrochemical Cells",
+    "Redox Reactions — Balancing",
+    "Chemical Equations",
+    "Extraction of Metals"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,38 @@
+{
+  "concept_slug": "simple-pendulum",
+  "canonical_name": "Simple Pendulum",
+  "subject": "science",
+  "grade": 11,
+  "area": "Oscillations",
+  "description": "T = 2π√(l/g); seconds pendulum; factors affecting time period",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Simple Harmonic Motion",
+    "Acceleration Due to Gravity"
+  ],
+  "prerequisites_descriptions": {
+    "Simple Harmonic Motion": "SHM as projection of uniform circular motion; x = A sin(ωt + φ)",
+    "Acceleration Due to Gravity": "g = GM/R²; variation with altitude, depth and latitude"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Simple Harmonic Motion",
+    "Acceleration Due to Gravity",
+    "Oscillations and Periodic Motion",
+    "Spring-Mass System"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

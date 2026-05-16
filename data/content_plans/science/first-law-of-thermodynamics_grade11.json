@@ -1,0 +1,51 @@
+{
+  "concept_slug": "first-law-of-thermodynamics",
+  "canonical_name": "First Law of Thermodynamics",
+  "subject": "science",
+  "grade": 11,
+  "area": "Heat and Thermodynamics",
+  "description": "ΔU = Q − W; internal energy; work done by gas; thermodynamic processes",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nThe first law of thermodynamics is a formulation of the law of conservation of energy in the context of thermodynamic processes. For a thermodynamic process affecting a thermodynamic system without transfer of matter, the law distinguishes two principal forms of energy transfer, heat and thermodynamic work. The law also defines the internal energy of a system, an extensive property for taking account of the balance of heat transfer, thermodynamic work, and matter transfer, into and out of the system. Energy cannot be created or destroyed, but it can be transformed from one form to another. In an externally isolated system, with internal changes, the sum of all forms of energy is constant.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Conservation of Energy",
+    "Ideal Gas Laws"
+  ],
+  "prerequisites_descriptions": {
+    "Conservation of Energy": "Energy can neither be created nor destroyed; transformation between forms",
+    "Ideal Gas Laws": "Boyle's, Charles's, Gay-Lussac's laws; ideal gas equation PV = nRT"
+  },
+  "successors_to_link": [
+    "Thermodynamic Processes",
+    "Second Law of Thermodynamics",
+    "Thermochemistry"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Conservation of Energy",
+    "Ideal Gas Laws",
+    "Thermodynamic Processes",
+    "Second Law of Thermodynamics",
+    "Thermochemistry",
+    "Specific Heat Capacity",
+    "Thermal Expansion",
+    "Kinetic Theory of Gases",
+    "Heat Engines and Refrigerators"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

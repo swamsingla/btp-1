@@ -1,0 +1,46 @@
+{
+  "concept_slug": "classification-of-organisms",
+  "canonical_name": "Classification of Living Organisms",
+  "subject": "science",
+  "grade": 7,
+  "area": "Diversity of Life",
+  "description": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Diversity of Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Diversity of Organisms": "Plants and animals around us; variety of habitats"
+  },
+  "successors_to_link": [
+    "Five-Kingdom Classification",
+    "Binomial Nomenclature",
+    "Speciation",
+    "Biodiversity",
+    "Microorganisms"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Diversity of Organisms",
+    "Five-Kingdom Classification",
+    "Binomial Nomenclature",
+    "Speciation",
+    "Biodiversity",
+    "Microorganisms"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,56 @@
+{
+  "concept_slug": "electric-potential",
+  "canonical_name": "Electric Potential and Potential Difference",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "V = W/q; potential due to point charge; equipotential surfaces",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Electric Field",
+    "Work (Physics)"
+  ],
+  "prerequisites_descriptions": {
+    "Electric Field": "E = F/q; field lines; field due to point charge, dipole",
+    "Work (Physics)": "W = F·d·cosθ; positive, negative and zero work"
+  },
+  "successors_to_link": [
+    "Capacitance and Capacitors",
+    "Ohm's Law",
+    "Bohr's Model of Hydrogen Atom",
+    "Photoelectric Effect"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electric Field",
+    "Work (Physics)",
+    "Capacitance and Capacitors",
+    "Ohm's Law",
+    "Bohr's Model of Hydrogen Atom",
+    "Photoelectric Effect",
+    "Electric Charge",
+    "Electric Current",
+    "Electric Circuit",
+    "Resistance and Resistivity",
+    "Heating Effect of Electric Current",
+    "Electric Power and Energy",
+    "Magnetic Field and Field Lines"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

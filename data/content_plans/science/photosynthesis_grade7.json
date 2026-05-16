@@ -1,0 +1,50 @@
+{
+  "concept_slug": "photosynthesis",
+  "canonical_name": "Photosynthesis",
+  "subject": "science",
+  "grade": 7,
+  "area": "Plant Biology",
+  "description": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; light and dark reactions; chlorophyll",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cell Organelles",
+    "Parts of a Plant"
+  ],
+  "prerequisites_descriptions": {
+    "Cell Organelles": "Nucleus, mitochondria, ER, Golgi, lysosomes, ribosomes, vacuoles, plastids",
+    "Parts of a Plant": "Root, stem, leaf, flower, fruit, seed; functions"
+  },
+  "successors_to_link": [
+    "Photosynthesis — Light and Dark Reactions",
+    "Respiration in Plants",
+    "Cellular Respiration",
+    "Energy Flow in an Ecosystem",
+    "Carbon Cycle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Cell Organelles",
+    "Parts of a Plant",
+    "Photosynthesis — Light and Dark Reactions",
+    "Respiration in Plants",
+    "Cellular Respiration",
+    "Energy Flow in an Ecosystem",
+    "Carbon Cycle",
+    "Transpiration"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

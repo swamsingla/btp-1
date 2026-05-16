@@ -1,0 +1,53 @@
+{
+  "concept_slug": "electromagnetic-waves",
+  "canonical_name": "Electromagnetic Waves",
+  "subject": "science",
+  "grade": 12,
+  "area": "Electricity and Magnetism",
+  "description": "Maxwell's equations (qualitative); EM spectrum; properties",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nIn physics, electromagnetic radiation (EMR) or an electromagnetic wave (EMW) is a self-propagating wave of the electromagnetic field that carries momentum and radiant energy through space. It encompasses a broad spectrum, classified by frequency, ranging from radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, to gamma rays. All forms of EMR travel at the speed of light in a vacuum and exhibit wave–particle duality, behaving both as waves and as discrete particles called photons.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Electromagnetic Induction",
+    "Alternating Current",
+    "Electric Field"
+  ],
+  "prerequisites_descriptions": {
+    "Electromagnetic Induction": "Faraday's law; Lenz's law; induced EMF",
+    "Alternating Current": "AC vs DC; peak and rms values; AC circuits with R, L, C",
+    "Electric Field": "E = F/q; field lines; field due to point charge, dipole"
+  },
+  "successors_to_link": [
+    "Photoelectric Effect"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electromagnetic Induction",
+    "Alternating Current",
+    "Electric Field",
+    "Photoelectric Effect",
+    "Electric Charge",
+    "Coulomb's Law",
+    "Electric Potential and Potential Difference",
+    "Capacitance and Capacitors",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Kirchhoff's Laws"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

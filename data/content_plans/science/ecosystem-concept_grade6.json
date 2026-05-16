@@ -1,0 +1,51 @@
+{
+  "concept_slug": "ecosystem-concept",
+  "canonical_name": "Ecosystem — Concept",
+  "subject": "science",
+  "grade": 6,
+  "area": "Ecology",
+  "description": "Biotic and abiotic components; types of ecosystems",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Diversity of Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Diversity of Organisms": "Plants and animals around us; variety of habitats"
+  },
+  "successors_to_link": [
+    "Food Chains and Food Webs",
+    "Biogeochemical Cycles",
+    "Natural Resources and Management",
+    "Ecological Succession",
+    "Organisms and Their Environment"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Diversity of Organisms",
+    "Food Chains and Food Webs",
+    "Biogeochemical Cycles",
+    "Natural Resources and Management",
+    "Ecological Succession",
+    "Organisms and Their Environment",
+    "Water Cycle",
+    "Soil Types and Formation",
+    "Solar System",
+    "Earth's Rotation and Revolution",
+    "Adaptations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

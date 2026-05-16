@@ -1,0 +1,39 @@
+{
+  "concept_slug": "nitrogen-fixation",
+  "canonical_name": "Nitrogen Fixation",
+  "subject": "science",
+  "grade": 9,
+  "area": "Ecology",
+  "description": "Biological fixation by Rhizobium; lightning fixation; industrial Haber process",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Nitrogen Cycle",
+    "Microorganisms"
+  ],
+  "prerequisites_descriptions": {
+    "Nitrogen Cycle": "Nitrogen fixation, nitrification, denitrification; role of bacteria",
+    "Microorganisms": "Bacteria, viruses, fungi, protozoa; useful and harmful microorganisms"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Nitrogen Cycle",
+    "Microorganisms",
+    "Biogeochemical Cycles",
+    "Water Cycle",
+    "Carbon Cycle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

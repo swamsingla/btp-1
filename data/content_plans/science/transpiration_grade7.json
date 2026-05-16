@@ -1,0 +1,39 @@
+{
+  "concept_slug": "transpiration",
+  "canonical_name": "Transpiration",
+  "subject": "science",
+  "grade": 7,
+  "area": "Plant Biology",
+  "description": "Loss of water from leaves; stomata; factors affecting transpiration",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Transport in Plants",
+    "Water Cycle"
+  ],
+  "prerequisites_descriptions": {
+    "Transport in Plants": "Xylem: water and mineral transport; phloem: translocation of food",
+    "Water Cycle": "Evaporation, condensation, precipitation; groundwater"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Transport in Plants",
+    "Water Cycle",
+    "Parts of a Plant",
+    "Photosynthesis",
+    "Respiration in Plants"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

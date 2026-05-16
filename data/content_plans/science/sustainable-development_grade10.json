@@ -1,0 +1,43 @@
+{
+  "concept_slug": "sustainable-development",
+  "canonical_name": "Sustainable Development",
+  "subject": "science",
+  "grade": 10,
+  "area": "Ecology",
+  "description": "Three Rs; rainwater harvesting; watershed management",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Natural Resources and Management",
+    "Environmental Issues"
+  ],
+  "prerequisites_descriptions": {
+    "Natural Resources and Management": "Renewable and non-renewable; forests, water, coal, petroleum",
+    "Environmental Issues": "Pollution; deforestation; greenhouse effect; solid waste management"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Natural Resources and Management",
+    "Environmental Issues",
+    "Ecosystem — Concept",
+    "Food Chains and Food Webs",
+    "Energy Flow in an Ecosystem",
+    "Biogeochemical Cycles",
+    "Carbon Cycle",
+    "Biodiversity",
+    "Biodiversity Conservation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

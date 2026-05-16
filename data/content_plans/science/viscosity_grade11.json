@@ -1,0 +1,35 @@
+{
+  "concept_slug": "viscosity",
+  "canonical_name": "Viscosity",
+  "subject": "science",
+  "grade": 11,
+  "area": "Fluid Mechanics",
+  "description": "Newton's law of viscous flow; Stokes' law; terminal velocity",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pressure in Fluids"
+  ],
+  "prerequisites_descriptions": {
+    "Pressure in Fluids": "Pressure in liquids; pressure increases with depth; Pascal's law"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Pressure in Fluids",
+    "Bernoulli's Principle",
+    "Surface Tension"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

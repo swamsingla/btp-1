@@ -8,7 +8,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }) {
   const { grade } = await params;
-  return { title: `Grade ${grade} Mathematics — NCERT Learn` };
+  return { title: `Grade ${grade} Mathematics — GraphLearn` };
 }
 
 export default async function MathsGradePage({ params }) {
@@ -44,34 +44,6 @@ export default async function MathsGradePage({ params }) {
           {totalConcepts} concept{totalConcepts !== 1 ? 's' : ''} across {sortedAreas.length} areas
         </p>
       </div>
-
-      {/* Entry Points */}
-      {entryPoints.length > 0 && (
-        <section className="mb-10">
-          <h2 className="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-3 flex items-center gap-2">
-            <span className="text-yellow-500">⭐</span> Start Here — No Prerequisites Needed
-          </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-            {entryPoints.slice(0, 6).map(concept => {
-              const c = areaColor(concept.area);
-              return (
-                <Link key={concept.slug} href={`/maths/${grade}/${concept.slug}`}
-                  className={`group bg-gradient-to-r from-yellow-50 to-amber-50 dark:from-yellow-950/30 dark:to-amber-950/30 rounded-xl border border-yellow-200 dark:border-yellow-800 p-4 hover:shadow-md hover:-translate-y-0.5 transition-all`}>
-                  <div className="flex items-start justify-between mb-1">
-                    <h3 className="font-semibold text-sm text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors leading-snug">
-                      {concept.canonical_name}
-                    </h3>
-                    <span className={`px-2 py-0.5 rounded-full text-xs font-medium ${c.badge} flex-shrink-0 ml-2`}>
-                      {(concept.area || 'General').length > 12 ? (concept.area || '').split(' ').slice(0, 2).join(' ') : concept.area}
-                    </span>
-                  </div>
-                  <p className="text-xs text-gray-500 dark:text-gray-400 line-clamp-2">{concept.description}</p>
-                </Link>
-              );
-            })}
-          </div>
-        </section>
-      )}
 
       {/* Area jump links */}
       <div className="flex flex-wrap gap-2 mb-8">

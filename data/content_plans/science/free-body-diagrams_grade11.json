@@ -1,0 +1,50 @@
+{
+  "concept_slug": "free-body-diagrams",
+  "canonical_name": "Free Body Diagrams",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Drawing all forces acting on a body; resolving forces; equilibrium problems",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch1 — Venn Diagrams]\nMost of the relationships between sets can be\nrepresented by means of diagrams which are known\nas Venn diagrams. Venn diagrams are named after\nthe English logician, John Venn (1834-1883). These\ndiagrams consist of rectangles and  closed curves\nusually circles. The universal set is represented\nusually by a rectangle and its subsets by circles.\nIn Venn diagrams, the elements of the sets are\nwritten in their respective circles (Figs 1.2 and 1.3)\nIllustration 1 In Fig 1.2, U = {1,2,3, ..., 10} is the\nuniversal set of which\nA = {2,4,6,8,10} is a subset.\nIllustration 2 In Fig 1.3, U = {1,2,3, ..., 10} is the\nuniversal set of which\nA = {2,4,6,8,10} and B = {4, 6} are subsets,\nand also B ⊂ A.\nThe reader will see an extensive use of the\nVenn diagrams when we discuss the union, intersection and difference of sets.\n1.9  Operations on Sets\nFig 1.2\nFig 1.3",
+  "context_sources": [
+    "ncert:grade11/science/ch1"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Types of Forces",
+    "Newton's Second Law of Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Types of Forces": "Muscular, frictional, gravitational, magnetic, electrostatic forces",
+    "Newton's Second Law of Motion": "F = ma; net force equals mass times acceleration"
+  },
+  "successors_to_link": [
+    "Motion on an Inclined Plane"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Types of Forces",
+    "Newton's Second Law of Motion",
+    "Motion on an Inclined Plane",
+    "Uniform Circular Motion",
+    "Scalars and Vectors",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Momentum"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

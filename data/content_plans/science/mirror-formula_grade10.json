@@ -1,0 +1,40 @@
+{
+  "concept_slug": "mirror-formula",
+  "canonical_name": "Mirror Formula and Magnification",
+  "subject": "science",
+  "grade": 10,
+  "area": "Optics",
+  "description": "1/v + 1/u = 1/f; magnification m = −v/u; sign convention",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Spherical Mirrors"
+  ],
+  "prerequisites_descriptions": {
+    "Spherical Mirrors": "Concave and convex mirrors; focus, centre of curvature, principal axis"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Spherical Mirrors",
+    "Rectilinear Propagation of Light",
+    "Reflection of Light",
+    "Plane Mirrors",
+    "Refraction of Light",
+    "Snell's Law",
+    "Total Internal Reflection",
+    "Lenses"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

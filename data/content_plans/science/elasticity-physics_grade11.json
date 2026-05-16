@@ -1,0 +1,47 @@
+{
+  "concept_slug": "elasticity-physics",
+  "canonical_name": "Elasticity",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Stress, strain; Hooke's law; Young's modulus; bulk and shear moduli",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch10 — Eccentricity]\nDefinition 5 The eccentricity of an ellipse is the ratio of the distances from the centre\nof the ellipse to one of the foci and to one of the vertices of the ellipse (eccentricity is\ndenoted by e) i.e.,\nc\ne\na\n=\n.\nThen since the focus is at a distance of c from the centre, in terms of the eccentricity\nthe focus is at a distance of ae from the centre.\n10.5.3 Standard equations of an ellipse The  equation of  an ellipse is simplest if the\n\n[NCERT Grade11 Ch10 — Eccentricity]\nDefinition 8 Just like an ellipse, the ratio e = c\na  is called the eccentricity of the\nhyperbola.  Since c ≥ a, the eccentricity is never less than one.  In terms of the\neccentricity, the foci are at a distance of ae from the centre.\n10.6.2  Standard equation of  Hyperbola  The equation of a hyperbola is simplest if",
+  "context_sources": [
+    "ncert:grade11/science/ch10",
+    "ncert:grade11/science/ch10"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Force — Concept"
+  ],
+  "prerequisites_descriptions": {
+    "Force — Concept": "Push or pull; contact and non-contact forces; effects of force"
+  },
+  "successors_to_link": [
+    "Spring-Mass System"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Force — Concept",
+    "Spring-Mass System",
+    "Uniform Circular Motion",
+    "Scalars and Vectors",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

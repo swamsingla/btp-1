@@ -1,0 +1,43 @@
+{
+  "concept_slug": "gravitation-intro",
+  "canonical_name": "Gravitation",
+  "subject": "science",
+  "grade": 11,
+  "area": "Gravitation",
+  "description": "Every body attracts every other body; Newton's law of gravitation F = GMm/r²",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Newton's Second Law of Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Newton's Second Law of Motion": "F = ma; net force equals mass times acceleration"
+  },
+  "successors_to_link": [
+    "Acceleration Due to Gravity",
+    "Kepler's Laws of Planetary Motion",
+    "Gravitational Potential Energy"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Newton's Second Law of Motion",
+    "Acceleration Due to Gravity",
+    "Kepler's Laws of Planetary Motion",
+    "Gravitational Potential Energy",
+    "Satellites and Orbital Mechanics"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

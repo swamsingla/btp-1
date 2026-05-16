@@ -1,0 +1,50 @@
+{
+  "concept_slug": "wave-optics-interference",
+  "canonical_name": "Interference of Light",
+  "subject": "science",
+  "grade": 12,
+  "area": "Optics",
+  "description": "Young's double slit experiment; fringe width; coherent sources",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nPhysics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Superposition of Waves",
+    "Dispersion of Light",
+    "Snell's Law"
+  ],
+  "prerequisites_descriptions": {
+    "Superposition of Waves": "Principle of superposition; constructive and destructive interference",
+    "Dispersion of Light": "Splitting of white light by prism; rainbow formation; scattering of light",
+    "Snell's Law": "n₁ sinθ₁ = n₂ sinθ₂; refractive index"
+  },
+  "successors_to_link": [
+    "Diffraction of Light",
+    "Polarisation of Light"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Superposition of Waves",
+    "Dispersion of Light",
+    "Snell's Law",
+    "Diffraction of Light",
+    "Polarisation of Light",
+    "Total Internal Reflection",
+    "Ray Optics — Prism and Optical Instruments"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

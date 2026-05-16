@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { getGrades, getConceptsForGrade, getGraph, getEntryPoints, getAllAreas, areaColor } from '@/lib/knowledge-graph';
 
-export const metadata = { title: 'Mathematics Knowledge Graph — NCERT Learn' };
+export const metadata = { title: 'Mathematics — GraphLearn' };
 
 const GRADE_LABELS = {
   6: { label: 'Grade 6', tier: 'Middle School', color: 'from-sky-500 to-blue-600' },
@@ -35,7 +35,7 @@ export default function MathsHome() {
             <span className="bg-gradient-to-r from-blue-200 to-violet-200 bg-clip-text text-transparent">Graph</span>
           </h1>
           <p className="text-lg md:text-xl text-blue-100 max-w-2xl mx-auto mb-10 leading-relaxed">
-            Every concept linked to its prerequisites. Navigate the full NCERT maths
+            Every concept linked to its prerequisites. Navigate the full school maths
             curriculum from Whole Numbers to Calculus — one step at a time.
           </p>
           {/* Stats */}

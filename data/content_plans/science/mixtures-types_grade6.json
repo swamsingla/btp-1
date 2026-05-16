@@ -1,0 +1,43 @@
+{
+  "concept_slug": "mixtures-types",
+  "canonical_name": "Mixtures — Types and Properties",
+  "subject": "science",
+  "grade": 6,
+  "area": "Matter and Classification",
+  "description": "Homogeneous and heterogeneous mixtures; solutions, suspensions, colloids",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pure Substances"
+  ],
+  "prerequisites_descriptions": {
+    "Pure Substances": "Elements and compounds; homogeneous composition; fixed properties"
+  },
+  "successors_to_link": [
+    "Separation Techniques",
+    "Solutions",
+    "Colloids"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Pure Substances",
+    "Separation Techniques",
+    "Solutions",
+    "Colloids",
+    "Matter and Its Properties",
+    "States of Matter"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

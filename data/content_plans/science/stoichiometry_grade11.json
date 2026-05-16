@@ -1,0 +1,50 @@
+{
+  "concept_slug": "stoichiometry",
+  "canonical_name": "Stoichiometry",
+  "subject": "science",
+  "grade": 11,
+  "area": "Atomic Structure",
+  "description": "Balancing equations; mole ratios; limiting reagent; percentage yield",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mole Concept",
+    "Writing Chemical Formulae",
+    "Chemical Equations",
+    "Law of Conservation of Mass"
+  ],
+  "prerequisites_descriptions": {
+    "Mole Concept": "Avogadro's number; molar mass; mole as counting unit",
+    "Writing Chemical Formulae": "Criss-cross method; molecular and empirical formulae",
+    "Chemical Equations": "Writing and balancing chemical equations; symbols used",
+    "Law of Conservation of Mass": "Mass is neither created nor destroyed in a chemical reaction"
+  },
+  "successors_to_link": [
+    "Molecular Formula Calculations"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mole Concept",
+    "Writing Chemical Formulae",
+    "Chemical Equations",
+    "Law of Conservation of Mass",
+    "Molecular Formula Calculations",
+    "Electronic Configuration",
+    "Bohr's Atomic Model",
+    "Quantum Mechanical Model"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

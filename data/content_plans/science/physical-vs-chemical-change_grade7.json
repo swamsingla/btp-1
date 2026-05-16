@@ -1,0 +1,39 @@
+{
+  "concept_slug": "physical-vs-chemical-change",
+  "canonical_name": "Physical and Chemical Changes",
+  "subject": "science",
+  "grade": 7,
+  "area": "Chemical Reactions",
+  "description": "Reversible vs irreversible; indicators of chemical change",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Matter and Its Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Matter and Its Properties": "Anything that has mass and occupies space"
+  },
+  "successors_to_link": [
+    "Chemical Equations",
+    "Acids, Bases and Indicators"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Matter and Its Properties",
+    "Chemical Equations",
+    "Acids, Bases and Indicators"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

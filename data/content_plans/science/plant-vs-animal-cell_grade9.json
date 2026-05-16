@@ -1,0 +1,37 @@
+{
+  "concept_slug": "plant-vs-animal-cell",
+  "canonical_name": "Plant Cell vs Animal Cell",
+  "subject": "science",
+  "grade": 9,
+  "area": "Cell Biology",
+  "description": "Cell wall, chloroplasts, large central vacuole in plant cells",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cell Organelles"
+  ],
+  "prerequisites_descriptions": {
+    "Cell Organelles": "Nucleus, mitochondria, ER, Golgi, lysosomes, ribosomes, vacuoles, plastids"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Cell Organelles",
+    "Cell — Basic Unit of Life",
+    "Cell Membrane and Transport",
+    "Levels of Organisation",
+    "Tissue Types"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

@@ -1,0 +1,42 @@
+{
+  "concept_slug": "plane-mirrors",
+  "canonical_name": "Plane Mirrors",
+  "subject": "science",
+  "grade": 10,
+  "area": "Optics",
+  "description": "Image formation; lateral inversion; characteristics of image",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nA plane mirror is a mirror with a flat (planar) reflective surface. For light rays striking a plane mirror, the angle of reflection equals the angle of incidence. The angle of the incidence is the angle between the incident ray and the surface normal. Therefore, the angle of reflection is the angle between the reflected ray and the normal and a collimated beam of light does not spread out after reflection from a plane mirror, except for diffraction effects.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Reflection of Light"
+  ],
+  "prerequisites_descriptions": {
+    "Reflection of Light": "Laws of reflection; regular and diffuse reflection"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Reflection of Light",
+    "Rectilinear Propagation of Light",
+    "Spherical Mirrors",
+    "Mirror Formula and Magnification",
+    "Refraction of Light",
+    "Snell's Law",
+    "Total Internal Reflection",
+    "Lenses"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

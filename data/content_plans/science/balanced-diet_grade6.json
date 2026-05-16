@@ -1,0 +1,33 @@
+{
+  "concept_slug": "balanced-diet",
+  "canonical_name": "Balanced Diet",
+  "subject": "science",
+  "grade": 6,
+  "area": "Nutrition and Digestion",
+  "description": "Proportions of nutrients; deficiency diseases: scurvy, rickets, beri-beri",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Components of Food"
+  ],
+  "prerequisites_descriptions": {
+    "Components of Food": "Carbohydrates, proteins, fats, vitamins, minerals, water, dietary fibre"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Components of Food"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

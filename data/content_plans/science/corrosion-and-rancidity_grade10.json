@@ -1,0 +1,40 @@
+{
+  "concept_slug": "corrosion-and-rancidity",
+  "canonical_name": "Corrosion and Rancidity",
+  "subject": "science",
+  "grade": 10,
+  "area": "Chemical Reactions",
+  "description": "Rusting of iron; prevention; rancidity of fats",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Oxidation and Reduction"
+  ],
+  "prerequisites_descriptions": {
+    "Oxidation and Reduction": "Loss/gain of electrons; oxidation number; redox reactions"
+  },
+  "successors_to_link": [
+    "Corrosion — Electrochemical View"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Oxidation and Reduction",
+    "Corrosion — Electrochemical View",
+    "Chemical Equations",
+    "Types of Chemical Reactions",
+    "Reactivity Series",
+    "Extraction of Metals"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

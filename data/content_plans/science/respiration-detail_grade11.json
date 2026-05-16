@@ -1,0 +1,40 @@
+{
+  "concept_slug": "respiration-detail",
+  "canonical_name": "Cellular Respiration — Detail",
+  "subject": "science",
+  "grade": 11,
+  "area": "Human Physiology",
+  "description": "Glycolysis steps; Krebs cycle detail; oxidative phosphorylation; RQ",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cellular Respiration"
+  ],
+  "prerequisites_descriptions": {
+    "Cellular Respiration": "Glycolysis → Krebs cycle → ETC; aerobic vs anaerobic; ATP"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Cellular Respiration",
+    "Human Respiratory System",
+    "Human Circulatory System",
+    "Human Excretory System",
+    "Nervous System",
+    "Endocrine System",
+    "Hormones and Feedback Mechanisms",
+    "Skeletal and Muscular System"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

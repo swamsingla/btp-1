@@ -1,0 +1,44 @@
+{
+  "concept_slug": "population-interactions",
+  "canonical_name": "Population Interactions",
+  "subject": "science",
+  "grade": 12,
+  "area": "Ecology",
+  "description": "Competition, predation, parasitism, mutualism, commensalism, amensalism",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch7 — Integration by Parts]\nIn this section, we describe one more method of integration, that is found quite useful in\nintegrating products of functions.\nIf u and v are any two differentiable functions of a single variable x (say). Then, by\nthe product rule of differentiation, we have\n(\n)\nd\nuv\ndx\n=\ndv\ndu\nu\nv\ndx\ndx\n+\nIntegrating both sides, we get\nuv =\ndv\ndu\nu\ndx\nv\ndx\ndx\ndx\n+\n∫\n∫\nor\ndv\nu\ndx\ndx\n∫\n=\ndu\nuv – v\ndx\ndx\n∫\n... (1)\nLet\nu = f (x) and dv\ndx = g(x). Then\ndu\ndx = f ′(x) and v =\n( )\ng x dx\n∫\nReprint 2025-26\nTherefore, expression (1) can be rewritten as\n( ) ( )\nf x g x dx\n∫\n=\n( )\n( )\n[\n( )\n]\n( )\nf x\ng x dx –\ng x dx f x dx\n′\n∫\n∫∫\ni.e.,\n( ) ( )\nf x g x dx\n∫\n=\n( )\n( )\n[\n( )\n( )\n]\nf x\ng x dx –\nf\nx\ng x dx dx\n′\n∫\n∫\n∫\nIf we take f as the first function and g as the second function, then this formula\nmay be stated as follows:\n“The integral of the product of two functions = (first function) × (integral\nof the second function) – Integral of [(differential coefficient of the first function)\n× (integral of the second functi\n\n[NCERT Grade12 Ch7 — Integration by substitution]\nIn this section, we consider the method of integration by substitution.\nThe given integral\n( )\nf x dx\n∫\ncan be transformed into another form by changing\nthe independent variable x to t by substituting x = g (t).\nReprint 2025-26\nConsider\nI =\n( )\nf x dx\n∫\nPut x = g(t) so that dx\ndt  = g′(t).\nWe write\ndx = g′(t) dt\nThus\nI =\n( )\n( ( ))\n( )\nf x dx\nf g t\ng t dt\n=\n′\n∫\n∫\nThis change of variable formula is one of the important tools available to us in the\nname of integration by substitution. It is often important to guess what will be the useful\nsubstitution. Usually, we make a substitution for a function whose derivative also occurs\nin the integrand as illustrated in the following examples.\nExample 5 Integrate the following functions w.r.t. x:\n(i)\nsin mx\n(ii)\n2x sin (x2 + 1)\n(iii)\ntan\nsec\nx\nx\nx\n(iv)\nsin (tan\n)\n– x\nx\n+\nSolution\n(i)\nWe know that derivative of mx is m. Thus, we make the substitution\nmx = t so that mdx = dt.\nTherefore,\nsin\nsin\nmx dx\nt dt\nm\n=\n∫\n∫\n=  – 1\nm cos t + C  = – 1\nm cos mx",
+  "context_sources": [
+    "ncert:grade12/science/ch7",
+    "ncert:grade12/science/ch7"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Food Chains and Food Webs"
+  ],
+  "prerequisites_descriptions": {
+    "Food Chains and Food Webs": "Producers, consumers, decomposers; trophic levels; food web"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Food Chains and Food Webs",
+    "Energy Flow in an Ecosystem",
+    "Biodiversity",
+    "Biodiversity Conservation",
+    "Environmental Issues",
+    "Ecosystem Services",
+    "Ecological Succession",
+    "Organisms and Their Environment",
+    "Population Attributes and Growth Models"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

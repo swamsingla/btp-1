@@ -1,0 +1,50 @@
+{
+  "concept_slug": "meiosis",
+  "canonical_name": "Meiosis",
+  "subject": "science",
+  "grade": 10,
+  "area": "Cell Biology",
+  "description": "Meiosis I and II; crossing over; independent assortment; significance",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mitosis"
+  ],
+  "prerequisites_descriptions": {
+    "Mitosis": "Prophase, metaphase, anaphase, telophase; cytokinesis; significance"
+  },
+  "successors_to_link": [
+    "Alternation of Generations",
+    "Heredity and Variation",
+    "DNA Structure and Replication",
+    "Darwin's Theory of Natural Selection",
+    "Sexual Reproduction — Overview",
+    "Pollination and Fertilisation in Plants"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mitosis",
+    "Alternation of Generations",
+    "Heredity and Variation",
+    "DNA Structure and Replication",
+    "Darwin's Theory of Natural Selection",
+    "Sexual Reproduction — Overview",
+    "Pollination and Fertilisation in Plants"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,42 @@
+{
+  "concept_slug": "centre-of-mass",
+  "canonical_name": "Centre of Mass",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Position of COM; motion of COM; COM frame; system of particles",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Newton's Second Law of Motion",
+    "Scalars and Vectors"
+  ],
+  "prerequisites_descriptions": {
+    "Newton's Second Law of Motion": "F = ma; net force equals mass times acceleration",
+    "Scalars and Vectors": "Scalar vs vector quantities; vector addition; triangle and parallelogram laws"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Newton's Second Law of Motion",
+    "Scalars and Vectors",
+    "Uniform Circular Motion",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Momentum"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,52 @@
+{
+  "concept_slug": "lens-formula",
+  "canonical_name": "Lens Formula and Magnification",
+  "subject": "science",
+  "grade": 10,
+  "area": "Optics",
+  "description": "1/v − 1/u = 1/f; magnification; power of a lens P = 1/f",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade10 Ch7 — Section Formula]\nLet us recall the situation in Section 7.2.\nSuppose a telephone company wants to\nposition a relay tower at P between A and B\nis such a way that the distance of the tower\nfrom B is twice its distance from A. If P lies\non AB, it will divide AB in the ratio 1 : 2\n(see Fig. 7.9). If we take A as the origin O,\nand 1 km as one unit on both the axis, the\ncoordinates of B will be (36, 15). In order to\nknow the position of the tower, we must know\nthe coordinates of P. How do we find these\ncoordinates?\nLet the coordinates of P be (x, y). Draw perpendiculars from P and B to the\nx-axis, meeting it in D and E, respectively. Draw PC perpendicular to BE. Then, by\nthe AA similarity criterion, studied in Chapter 6,  POD and  BPC are similar.\nTherefore ,\nOD\nOP\nPC\nPB\n\n\n, and PD\nOP\nBC\nPB\n\n\nSo,\nx\nx \n\nand\ny\ny \n\n\nThese equations give x = 12 and y = 5.\nYou can check that P(12, 5) meets the\ncondition that OP : PB = 1 : 2.\nNow let us use the understanding that\nyou may have developed through this\nexam",
+  "context_sources": [
+    "ncert:grade10/science/ch7"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Lenses"
+  ],
+  "prerequisites_descriptions": {
+    "Lenses": "Convex and concave lenses; optical centre, focus, focal length"
+  },
+  "successors_to_link": [
+    "Human Eye and Defects of Vision",
+    "Ray Optics — Prism and Optical Instruments",
+    "Power of a Lens"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Lenses",
+    "Human Eye and Defects of Vision",
+    "Ray Optics — Prism and Optical Instruments",
+    "Power of a Lens",
+    "Rectilinear Propagation of Light",
+    "Reflection of Light",
+    "Plane Mirrors",
+    "Spherical Mirrors",
+    "Mirror Formula and Magnification",
+    "Refraction of Light",
+    "Snell's Law",
+    "Total Internal Reflection"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

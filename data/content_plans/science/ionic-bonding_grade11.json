@@ -1,0 +1,49 @@
+{
+  "concept_slug": "ionic-bonding",
+  "canonical_name": "Ionic Bonding",
+  "subject": "science",
+  "grade": 11,
+  "area": "Chemical Bonding",
+  "description": "Transfer of electrons; formation of ions; properties of ionic compounds",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Chemical Bonding — Introduction",
+    "Properties of Metals and Non-metals"
+  ],
+  "prerequisites_descriptions": {
+    "Chemical Bonding — Introduction": "Why atoms bond; octet rule; Kossel-Lewis approach",
+    "Properties of Metals and Non-metals": "Physical and chemical properties; malleability, ductility, conductivity"
+  },
+  "successors_to_link": [
+    "Electrolysis",
+    "Inorganic Qualitative Analysis"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Chemical Bonding — Introduction",
+    "Properties of Metals and Non-metals",
+    "Electrolysis",
+    "Inorganic Qualitative Analysis",
+    "Covalent Bonding",
+    "Metallic Bonding",
+    "VSEPR Theory",
+    "Hybridisation",
+    "Hydrogen Bonding",
+    "Molecular Orbital Theory"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

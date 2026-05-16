@@ -1,0 +1,43 @@
+{
+  "concept_slug": "heat-and-temperature",
+  "canonical_name": "Heat and Temperature",
+  "subject": "science",
+  "grade": 7,
+  "area": "Heat and Thermodynamics",
+  "description": "Heat as form of energy; distinction between heat and temperature",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Measurement of Temperature"
+  ],
+  "prerequisites_descriptions": {
+    "Measurement of Temperature": "Thermometer; Celsius and Fahrenheit scales; clinical vs laboratory thermometer"
+  },
+  "successors_to_link": [
+    "Modes of Heat Transfer",
+    "Change of State of Matter",
+    "Specific Heat Capacity",
+    "Thermal Expansion"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Measurement of Temperature",
+    "Modes of Heat Transfer",
+    "Change of State of Matter",
+    "Specific Heat Capacity",
+    "Thermal Expansion"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

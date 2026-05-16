@@ -1,0 +1,35 @@
+{
+  "concept_slug": "solar-system",
+  "canonical_name": "Solar System",
+  "subject": "science",
+  "grade": 8,
+  "area": "Ecology",
+  "description": "Sun, planets, moons, asteroids, comets; Earth's place in the solar system",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nThe Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [],
+  "prerequisites_descriptions": {},
+  "successors_to_link": [
+    "Earth's Rotation and Revolution"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Earth's Rotation and Revolution",
+    "Natural Disasters",
+    "Nitrogen Fixation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

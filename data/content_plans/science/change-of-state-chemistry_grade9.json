@@ -1,0 +1,45 @@
+{
+  "concept_slug": "change-of-state-chemistry",
+  "canonical_name": "Change of State",
+  "subject": "science",
+  "grade": 9,
+  "area": "Matter and Classification",
+  "description": "Melting, boiling, sublimation; effect of pressure and temperature; latent heat",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "States of Matter",
+    "Change of State of Matter",
+    "Particle Nature of Matter"
+  ],
+  "prerequisites_descriptions": {
+    "States of Matter": "Solid, liquid, gas; arrangement and movement of particles",
+    "Change of State of Matter": "Melting, freezing, boiling, condensation; latent heat",
+    "Particle Nature of Matter": "Matter is made of tiny particles; diffusion; Brownian motion"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "States of Matter",
+    "Change of State of Matter",
+    "Particle Nature of Matter",
+    "Matter and Its Properties",
+    "Pure Substances",
+    "Mixtures — Types and Properties",
+    "Separation Techniques"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

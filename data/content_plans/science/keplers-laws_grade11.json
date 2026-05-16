@@ -1,0 +1,43 @@
+{
+  "concept_slug": "keplers-laws",
+  "canonical_name": "Kepler's Laws of Planetary Motion",
+  "subject": "science",
+  "grade": 11,
+  "area": "Gravitation",
+  "description": "Elliptical orbits; equal areas in equal times; T² ∝ a³",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Gravitation",
+    "Uniform Circular Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Gravitation": "Every body attracts every other body; Newton's law of gravitation F = GMm/r²",
+    "Uniform Circular Motion": "Motion in a circle at constant speed; centripetal acceleration"
+  },
+  "successors_to_link": [
+    "Satellites and Orbital Mechanics"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Gravitation",
+    "Uniform Circular Motion",
+    "Satellites and Orbital Mechanics",
+    "Acceleration Due to Gravity",
+    "Gravitational Potential Energy"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

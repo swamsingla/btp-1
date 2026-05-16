@@ -1,0 +1,37 @@
+{
+  "concept_slug": "locomotion-in-animals",
+  "canonical_name": "Locomotion in Animals",
+  "subject": "science",
+  "grade": 7,
+  "area": "Human Physiology",
+  "description": "Different modes: walking, swimming, flying; role of skeleton",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Living and Non-Living Things"
+  ],
+  "prerequisites_descriptions": {
+    "Living and Non-Living Things": "Characteristics of living things: growth, respiration, reproduction, response to stimuli"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Living and Non-Living Things",
+    "Human Respiratory System",
+    "Human Circulatory System",
+    "Skeletal and Muscular System",
+    "Breathing and Gas Exchange"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

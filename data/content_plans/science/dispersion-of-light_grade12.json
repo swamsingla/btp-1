@@ -1,0 +1,48 @@
+{
+  "concept_slug": "dispersion-of-light",
+  "canonical_name": "Dispersion of Light",
+  "subject": "science",
+  "grade": 12,
+  "area": "Optics",
+  "description": "Splitting of white light by prism; rainbow formation; scattering of light",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Refraction of Light",
+    "Wave Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Refraction of Light": "Bending of light at interface; optically denser and rarer media",
+    "Wave Properties": "Wavelength, frequency, amplitude, speed; v = fλ"
+  },
+  "successors_to_link": [
+    "Scattering of Light",
+    "Interference of Light"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Refraction of Light",
+    "Wave Properties",
+    "Scattering of Light",
+    "Interference of Light",
+    "Snell's Law",
+    "Total Internal Reflection",
+    "Diffraction of Light",
+    "Polarisation of Light",
+    "Ray Optics — Prism and Optical Instruments"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

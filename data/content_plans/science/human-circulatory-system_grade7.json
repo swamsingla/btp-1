@@ -1,0 +1,43 @@
+{
+  "concept_slug": "human-circulatory-system",
+  "canonical_name": "Human Circulatory System",
+  "subject": "science",
+  "grade": 7,
+  "area": "Human Physiology",
+  "description": "Heart: chambers and valves; arteries, veins, capillaries; blood composition",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Tissue Types"
+  ],
+  "prerequisites_descriptions": {
+    "Tissue Types": "Plant tissues: meristematic, permanent; animal tissues: epithelial, connective, muscular, nervous"
+  },
+  "successors_to_link": [
+    "Blood — Composition and Functions",
+    "Body Fluids and Circulation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Tissue Types",
+    "Blood — Composition and Functions",
+    "Body Fluids and Circulation",
+    "Human Respiratory System",
+    "Skeletal and Muscular System",
+    "Locomotion in Animals",
+    "Breathing and Gas Exchange"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

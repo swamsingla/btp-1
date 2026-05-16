@@ -16,8 +16,7 @@ export default function Home() {
   const grades = getGrades();
   const allAreas = getAllAreas();
 
-  // Get entry-point concepts for Grade 6 as "Start Here" suggestions
-  const starterConcepts = getEntryPoints(6).slice(0, 8);
+  // (starterConcepts removed)
 
   return (
     <div className="min-h-screen">
@@ -34,27 +33,22 @@ export default function Home() {
             Knowledge Graph — {graph.total_concepts} Concepts
           </div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight tracking-tight">
-            NCERT Mathematics<br />
-            <span className="bg-gradient-to-r from-blue-200 to-violet-200 bg-clip-text text-transparent">
-              Knowledge Graph
-            </span>
+            Graph<span className="bg-gradient-to-r from-blue-200 to-violet-200 bg-clip-text text-transparent">Learn</span>
           </h1>
           <p className="text-lg md:text-xl text-blue-100 max-w-2xl mx-auto mb-10 leading-relaxed">
-            Every concept linked to its prerequisites and successors.
-            Navigate the full NCERT maths curriculum from Whole Numbers to Calculus
-            — one concept at a time, like Wikipedia.
+            Every concept linked to its prerequisites and successors — across
+            Mathematics and Science. Navigate the full curriculum from
+            Grade 6 to 12, one concept at a time.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <Link href="/maths"
               className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-blue-700 font-semibold rounded-xl hover:bg-blue-50 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
-              Explore All Grades
+              <span>📐</span> Explore Mathematics
             </Link>
-            <a href="#start-here"
+            <Link href="/science"
               className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white/15 backdrop-blur text-white font-semibold rounded-xl hover:bg-white/25 transition-all border border-white/20">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
-              Start Learning
-            </a>
+              <span>⚗️</span> Explore Science
+            </Link>
           </div>
 
           {/* Stats */}
@@ -163,40 +157,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ═══ Start Here ═══ */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20" id="start-here">
-        <div className="text-center mb-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-gray-100">
-            <span className="text-yellow-500">⭐</span> Start Here — Grade 6 Foundations
-          </h2>
-          <p className="text-gray-500 dark:text-gray-400 mt-2">
-            These concepts have no prerequisites — the perfect starting point
-          </p>
-        </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {starterConcepts.map(concept => {
-            const c = areaColor(concept.area);
-            return (
-              <Link key={concept.slug} href={`/maths/6/${concept.slug}`}
-                className={`group bg-white dark:bg-gray-800 rounded-xl border ${c.border} p-4 hover:shadow-md hover:-translate-y-0.5 transition-all duration-200`}>
-                <div className="flex items-start justify-between mb-2">
-                  <span className={`px-2 py-0.5 rounded-full text-xs font-medium ${c.badge}`}>{concept.area}</span>
-                  <span className="text-yellow-400 text-xs">⭐ Start</span>
-                </div>
-                <h3 className="font-semibold text-sm text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors leading-snug mb-1">
-                  {concept.canonical_name}
-                </h3>
-                <p className="text-xs text-gray-500 dark:text-gray-400 line-clamp-2">{concept.description}</p>
-                {(concept.leads_to || []).length > 0 && (
-                  <div className="mt-2 text-xs text-gray-400">
-                    Unlocks {concept.leads_to.length} concept{concept.leads_to.length !== 1 ? 's' : ''}  →
-                  </div>
-                )}
-              </Link>
-            );
-          })}
-        </div>
-      </section>
     </div>
   );
 }

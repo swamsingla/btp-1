@@ -1,0 +1,48 @@
+{
+  "concept_slug": "kirchhoffs-laws",
+  "canonical_name": "Kirchhoff's Laws",
+  "subject": "science",
+  "grade": 12,
+  "area": "Electricity and Magnetism",
+  "description": "Junction rule (current); loop rule (voltage); Wheatstone bridge",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nKirchhoff's circuit laws are two equalities that deal with the current and potential difference in the lumped element model of electrical circuits. They were first described in 1845 by German physicist Gustav Kirchhoff. This generalized the work of Georg Ohm and preceded the work of James Clerk Maxwell. Widely used in electrical engineering, they are also called Kirchhoff's rules or simply Kirchhoff's laws. These laws can be applied in time and frequency domains and form the basis for network analysis.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Ohm's Law",
+    "Resistance and Resistivity"
+  ],
+  "prerequisites_descriptions": {
+    "Ohm's Law": "V = IR; resistance; V-I characteristics",
+    "Resistance and Resistivity": "Factors affecting resistance; R = ρl/A; series and parallel resistors"
+  },
+  "successors_to_link": [
+    "EMF and Internal Resistance"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "EMF and Internal Resistance",
+    "Electric Charge",
+    "Coulomb's Law",
+    "Electric Field",
+    "Electric Potential and Potential Difference",
+    "Capacitance and Capacitors"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

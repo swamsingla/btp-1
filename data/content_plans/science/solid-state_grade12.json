@@ -1,0 +1,40 @@
+{
+  "concept_slug": "solid-state",
+  "canonical_name": "Solid State",
+  "subject": "science",
+  "grade": 12,
+  "area": "Solid State",
+  "description": "Crystalline and amorphous solids; unit cell; packing efficiency; crystal defects",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nA solid-state battery (SSB) is an electrical battery that uses a solid electrolyte to conduct ions between the electrodes, instead of the liquid or gel polymer electrolytes found in conventional batteries. Theoretically, solid-state batteries offer much higher energy density than the typical lithium-ion or lithium polymer batteries.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Chemical Bonding — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Chemical Bonding — Introduction": "Why atoms bond; octet rule; Kossel-Lewis approach"
+  },
+  "successors_to_link": [
+    "Crystal Lattice and Packing"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Chemical Bonding — Introduction",
+    "Crystal Lattice and Packing",
+    "Crystal Defects",
+    "Band Theory of Solids"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

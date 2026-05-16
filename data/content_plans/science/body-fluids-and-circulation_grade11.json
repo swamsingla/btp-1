@@ -1,0 +1,43 @@
+{
+  "concept_slug": "body-fluids-and-circulation",
+  "canonical_name": "Body Fluids and Circulation",
+  "subject": "science",
+  "grade": 11,
+  "area": "Human Physiology",
+  "description": "Lymph; double circulation; cardiac cycle; ECG; blood pressure",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Human Circulatory System",
+    "Blood — Composition and Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Human Circulatory System": "Heart: chambers and valves; arteries, veins, capillaries; blood composition",
+    "Blood — Composition and Functions": "RBC, WBC, platelets, plasma; blood groups; coagulation"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Human Circulatory System",
+    "Blood — Composition and Functions",
+    "Human Respiratory System",
+    "Cellular Respiration",
+    "Human Excretory System",
+    "Nervous System",
+    "Endocrine System",
+    "Hormones and Feedback Mechanisms",
+    "Skeletal and Muscular System"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

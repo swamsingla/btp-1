@@ -1,0 +1,49 @@
+{
+  "concept_slug": "atomic-number-mass-number",
+  "canonical_name": "Atomic Number and Mass Number",
+  "subject": "science",
+  "grade": 9,
+  "area": "Atomic Structure",
+  "description": "Z = protons; A = protons + neutrons; isotopes and isobars",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Atoms and Molecules"
+  ],
+  "prerequisites_descriptions": {
+    "Atoms and Molecules": "Dalton's atomic theory; atom as smallest particle of element; molecule"
+  },
+  "successors_to_link": [
+    "Nuclear Structure",
+    "Electronic Configuration",
+    "Mendeleev's Periodic Table",
+    "Isotopes and Isobars"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Atoms and Molecules",
+    "Nuclear Structure",
+    "Electronic Configuration",
+    "Mendeleev's Periodic Table",
+    "Isotopes and Isobars",
+    "Valency",
+    "Mole Concept",
+    "Writing Chemical Formulae",
+    "Dalton's Atomic Theory",
+    "Structure of Atom — Subatomic Particles"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

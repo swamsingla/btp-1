@@ -1,0 +1,37 @@
+{
+  "concept_slug": "animal-kingdom",
+  "canonical_name": "Animal Kingdom",
+  "subject": "science",
+  "grade": 9,
+  "area": "Diversity of Life",
+  "description": "Porifera to Chordata; distinguishing features of each phylum",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Five-Kingdom Classification"
+  ],
+  "prerequisites_descriptions": {
+    "Five-Kingdom Classification": "Monera, Protista, Fungi, Plantae, Animalia; criteria: cell type, body organisation, nutrition"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Five-Kingdom Classification",
+    "Classification of Living Organisms",
+    "Plant Kingdom",
+    "Binomial Nomenclature",
+    "Microorganisms"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

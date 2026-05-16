@@ -1,0 +1,51 @@
+{
+  "concept_slug": "chemical-bonding-intro",
+  "canonical_name": "Chemical Bonding — Introduction",
+  "subject": "science",
+  "grade": 10,
+  "area": "Chemical Bonding",
+  "description": "Why atoms bond; octet rule; Kossel-Lewis approach",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Electronic Configuration",
+    "Periodic Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Electronic Configuration": "Shells and subshells; 2n² rule; Aufbau, Pauli, Hund's rules",
+    "Periodic Properties": "Atomic radius, ionisation enthalpy, electron affinity, electronegativity; trends"
+  },
+  "successors_to_link": [
+    "Ionic Bonding",
+    "Covalent Bonding",
+    "Metallic Bonding",
+    "Solid State",
+    "Coordination Compounds"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electronic Configuration",
+    "Periodic Properties",
+    "Ionic Bonding",
+    "Covalent Bonding",
+    "Metallic Bonding",
+    "Solid State",
+    "Coordination Compounds"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

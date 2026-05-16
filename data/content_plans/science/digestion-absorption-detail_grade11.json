@@ -1,0 +1,36 @@
+{
+  "concept_slug": "digestion-absorption-detail",
+  "canonical_name": "Digestion and Absorption — Detail",
+  "subject": "science",
+  "grade": 11,
+  "area": "Nutrition and Digestion",
+  "description": "Detailed enzymatic actions; absorption in intestine; disorders: jaundice, vomiting, PEM",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Human Digestive System",
+    "Enzymes"
+  ],
+  "prerequisites_descriptions": {
+    "Human Digestive System": "Mouth → oesophagus → stomach → small intestine → large intestine; role of enzymes",
+    "Enzymes": "Biological catalysts; specificity; factors affecting enzyme activity; lock-and-key model"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Human Digestive System",
+    "Enzymes"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

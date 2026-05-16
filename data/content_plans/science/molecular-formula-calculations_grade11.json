@@ -1,0 +1,39 @@
+{
+  "concept_slug": "molecular-formula-calculations",
+  "canonical_name": "Molecular Formula Calculations",
+  "subject": "science",
+  "grade": 11,
+  "area": "Atomic Structure",
+  "description": "Empirical to molecular formula; percentage composition; combustion analysis",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mole Concept",
+    "Stoichiometry"
+  ],
+  "prerequisites_descriptions": {
+    "Mole Concept": "Avogadro's number; molar mass; mole as counting unit",
+    "Stoichiometry": "Balancing equations; mole ratios; limiting reagent; percentage yield"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Mole Concept",
+    "Stoichiometry",
+    "Electronic Configuration",
+    "Bohr's Atomic Model",
+    "Quantum Mechanical Model"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

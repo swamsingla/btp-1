@@ -1,0 +1,49 @@
+{
+  "concept_slug": "sex-determination",
+  "canonical_name": "Sex Determination",
+  "subject": "science",
+  "grade": 12,
+  "area": "Genetics and Evolution",
+  "description": "XX-XY system; sex-linked inheritance; colour blindness, haemophilia",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch4 — Introduction]\nIn the previous chapter, we have studied about matrices\nand algebra of matrices. We have also learnt that a system\nof algebraic equations can be expressed in the form of\nmatrices. This means, a system of linear equations like\na1 x + b1 y = c1\na2 x + b2 y = c2\ncan be represented as\na\nb\nc\nx\na\nb\nc\ny\n\n\n\n\n=\n\n\n\n\n\n\n\n\n\n\n. Now, this\nsystem of equations has a unique solution or not, is\ndetermined by the number a1 b2 – a2 b1. (Recall that if\na\nb\na\nb\n≠\nor, a1 b2 – a2 b1 ≠ 0,  then the system of linear\nequations has a unique solution). The number a1 b2 – a2 b1\nwhich determines uniqueness of solution is associated with the matrix\nA\na\nb\na\nb\n\n\n= \n\n\n\nand is called the determinant of A or det A. Determinants have wide applications in\nEngineering, Science, Economics, Social Science, etc.\nIn this chapter, we shall study determinants up to order three only with real entries.\nAlso, we will study various properties of determinants, minors, cofactors and applications\nof determinants in\n\n[NCERT Grade12 Ch4 — Determinant]\nTo every square matrix A = [aij] of order n, we can associate a number (real or\ncomplex) called determinant of the square matrix A, where aij = (i, j)th element of A.\nReprint 2025-26\nDETERMINANTS     77\nThis may be thought of as a function which associates each square matrix with a\nunique number (real or complex). If M is the set of square matrices, K is the set of\nnumbers (real or complex) and f : M → K is defined by f (A) = k, where A ∈ M and\nk ∈ K, then f (A) is called the determinant of A. It is also denoted by |A| or det A or ∆.\nIf A =\na\nb\nc\nd\n\n\n\n\n\n\n, then determinant of A is written as |A| =\na\nb\nc\nd  = det (A)\nRemarks\n(i)\nFor matrix A, |A| is read as determinant of A and not modulus of A.\n(ii)\nOnly square matrices have determinants.\n4.2.1  Determinant of a matrix of order one\n\n[NCERT Grade12 Ch4 — Determinant of a matrix of order one]\nLet A = [a] be the matrix of order 1, then determinant of A is defined to be equal to a\n4.2.2  Determinant of a matrix of order two\n\n[NCERT Grade12 Ch4 — Determinant of a matrix of order two]\nLet\nA =\na\na\na\na\n\n\n\n\n\n\nbe a matrix of order 2 × 2,\nthen the determinant of A is defined as:\ndet (A) = |A| = ∆ =\n= a11a22 – a21a12\nExample 1 Evaluate\n–1\n2 .\nSolution We have\n–1\n2  = 2(2) – 4(–1) = 4 + 4 = 8.\nExample 2 Evaluate\n– 1\nx\nx\nx\nx\n+\nSolution We have\n– 1\nx\nx\nx\nx\n+\n= x (x) – (x + 1) (x – 1)  = x2 – (x2 – 1) = x2 – x2 + 1 = 1\n4.2.3  Determinant of a matrix of order 3 × 3\n\n[NCERT Grade12 Ch4 — Determinant of a matrix of order 3 × 3]\nDeterminant of a matrix of order three can be determined by expressing it in terms of\nsecond order determinants. This is known as expansion of a determinant along\na row (or a column). There are six ways of expanding a determinant of order\nReprint 2025-26\n3 corresponding to each of three rows (R1, R2 and R3) and three columns (C1, C2 and\nC3) giving the same value as shown below.\nConsider the determinant of square matrix A = [aij]3 × 3\ni.e.,\n| A | =\na\na\na\na\na\na\na\na\na\nExpansion along first Row (R1)\nStep 1 Multiply first element a11 of R1 by (–1)(1 + 1) [(–1)sum of suffixes in a11] and with the\nsecond order determinant obtained by deleting the elements of first row (R1) and first\ncolumn (C1) of | A | as a11 lies in R1 and C1,\ni.e.,\n(–1)1 + 1 a11\na\na\na\na\nStep 2 Multiply 2nd element a12 of R1 by (–1)1 + 2 [(–1)sum of suffixes in a12] and the second\norder determinant obtained by deleting elements of first row (R1) and 2nd column (C2)\nof | A | as a12 lies in R1 and C2,\ni.e.,\n(–1)1 + 2 a12\na\na\n\n[Wikipedia]\nThe Nobel Prize in Chemistry is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry. It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel, who died in 1896. These prizes are awarded for outstanding contributions in chemistry, physics, literature, peace, and physiology or medicine. As dictated by Nobel's will, the award is administered by the Nobel Foundation and awarded by the Royal Swedish Academy of Sciences. The first Nobel Prize in Chemistry was awarded in 1901 to Jacobus Henricus van 't Hoff, of the Netherlands. Each recipient receives a medal, a diploma and a monetary award prize that has varied throughout the years. In 1901, van 't Hoff received 150,782 SEK, which is equal to 7,731,004 SEK in December 2007. The award is presented in Stockholm at an annual ceremony on 10 December, the anniversary of Nobel's death.",
+  "context_sources": [
+    "ncert:grade12/science/ch4",
+    "ncert:grade12/science/ch4",
+    "ncert:grade12/science/ch4",
+    "ncert:grade12/science/ch4",
+    "ncert:grade12/science/ch4",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Mendel's Laws of Inheritance"
+  ],
+  "prerequisites_descriptions": {
+    "Mendel's Laws of Inheritance": "Law of dominance, segregation, independent assortment; monohybrid and dihybrid crosses"
+  },
+  "successors_to_link": [
+    "Genetic Disorders"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mendel's Laws of Inheritance",
+    "Genetic Disorders",
+    "Heredity and Variation",
+    "DNA Structure and Replication",
+    "Transcription",
+    "Translation",
+    "Regulation of Gene Expression",
+    "Molecular Basis of Inheritance"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,44 @@
+{
+  "concept_slug": "equilibrium-of-rigid-body",
+  "canonical_name": "Equilibrium of a Rigid Body",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Conditions for translational and rotational equilibrium; centre of gravity",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Torque and Moment of Force",
+    "Conservation of Momentum"
+  ],
+  "prerequisites_descriptions": {
+    "Torque and Moment of Force": "τ = r × F; turning effect of force; couple",
+    "Conservation of Momentum": "Total momentum of isolated system is conserved; applications in collisions"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Torque and Moment of Force",
+    "Conservation of Momentum",
+    "Uniform Circular Motion",
+    "Scalars and Vectors",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

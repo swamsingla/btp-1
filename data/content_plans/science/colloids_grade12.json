@@ -1,0 +1,44 @@
+{
+  "concept_slug": "colloids",
+  "canonical_name": "Colloids",
+  "subject": "science",
+  "grade": 12,
+  "area": "Surface Chemistry",
+  "description": "Types of colloids; Tyndall effect; Brownian motion; coagulation; emulsion",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nA colloid is a mixture in which one substance, consisting of microscopically dispersed insoluble particles, is suspended throughout another substance. Some definitions specify that the particles must be dispersed in a liquid, while others extend the definition to include substances like aerosols and gels. The term colloidal suspension refers unambiguously to the overall mixture. A colloid has a dispersed phase and a continuous phase.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Mixtures — Types and Properties",
+    "Particle Nature of Matter"
+  ],
+  "prerequisites_descriptions": {
+    "Mixtures — Types and Properties": "Homogeneous and heterogeneous mixtures; solutions, suspensions, colloids",
+    "Particle Nature of Matter": "Matter is made of tiny particles; diffusion; Brownian motion"
+  },
+  "successors_to_link": [
+    "Adsorption"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mixtures — Types and Properties",
+    "Particle Nature of Matter",
+    "Adsorption",
+    "Catalysis"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

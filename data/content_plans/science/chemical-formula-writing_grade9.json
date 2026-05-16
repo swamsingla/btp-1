@@ -1,0 +1,49 @@
+{
+  "concept_slug": "chemical-formula-writing",
+  "canonical_name": "Writing Chemical Formulae",
+  "subject": "science",
+  "grade": 9,
+  "area": "Atomic Structure",
+  "description": "Criss-cross method; molecular and empirical formulae",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Valency",
+    "Atoms and Molecules"
+  ],
+  "prerequisites_descriptions": {
+    "Valency": "Combining capacity of an atom; relation to outermost shell electrons",
+    "Atoms and Molecules": "Dalton's atomic theory; atom as smallest particle of element; molecule"
+  },
+  "successors_to_link": [
+    "Stoichiometry",
+    "Chemical Equations"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Valency",
+    "Atoms and Molecules",
+    "Stoichiometry",
+    "Chemical Equations",
+    "Atomic Number and Mass Number",
+    "Electronic Configuration",
+    "Mole Concept",
+    "Dalton's Atomic Theory",
+    "Structure of Atom — Subatomic Particles",
+    "Isotopes and Isobars"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

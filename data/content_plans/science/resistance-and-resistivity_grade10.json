@@ -1,0 +1,49 @@
+{
+  "concept_slug": "resistance-and-resistivity",
+  "canonical_name": "Resistance and Resistivity",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "Factors affecting resistance; R = ρl/A; series and parallel resistors",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade10 Ch9 — Heights and Distances]\nIn the previous chapter, you have studied about trigonometric ratios. In this chapter,\nyou will be studying about some ways in which trigonometry is used in the life around\nyou.\nLet us consider Fig. 8.1 of prvious chapter, which is redrawn below in Fig. 9.1.\nFig. 9.1\nIn this figure, the line AC drawn from the eye of the student to the top of the\nminar is called the line of sight. The student is looking at the top of the minar. The\nangle BAC, so formed by the line of sight with the horizontal, is called the angle of\nelevation of the top of the minar from the eye of the student.\nThus, the line of sight is the line drawn from the eye of an observer to the point\nin the object viewed by the observer. The angle of elevation of the point viewed is\nReprint 2025-26\nthe angle formed by the line of sight with the horizontal when the point being viewed is\nabove the horizontal level, i.e., the case when we raise our head to look at the object\n(see Fig. 9.2).\nFig. 9.2\nNow, consider the situation giv\n\n[Wikipedia]\nElectrical resistivity is a fundamental specific property of a material that measures its electrical resistance or how strongly it resists electric current. A low resistivity indicates a material that readily allows electric current. Resistivity is commonly represented by the Greek letter ρ (rho). The SI unit of electrical resistivity is the ohm-metre (Ω⋅m). For example, if a 1 m3 solid cube of material has sheet contacts on two opposite faces, and the resistance between these contacts is 1 Ω, then the resistivity of the material is 1 Ω⋅m.",
+  "context_sources": [
+    "ncert:grade10/science/ch9",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Ohm's Law"
+  ],
+  "prerequisites_descriptions": {
+    "Ohm's Law": "V = IR; resistance; V-I characteristics"
+  },
+  "successors_to_link": [
+    "Heating Effect of Electric Current",
+    "Kirchhoff's Laws"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Ohm's Law",
+    "Heating Effect of Electric Current",
+    "Kirchhoff's Laws",
+    "Electric Charge",
+    "Electric Potential and Potential Difference",
+    "Electric Current",
+    "Electric Circuit",
+    "Electric Power and Energy",
+    "Magnetic Field and Field Lines"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

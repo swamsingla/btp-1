@@ -1,0 +1,45 @@
+{
+  "concept_slug": "superposition-of-waves",
+  "canonical_name": "Superposition of Waves",
+  "subject": "science",
+  "grade": 11,
+  "area": "Waves and Sound",
+  "description": "Principle of superposition; constructive and destructive interference",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Wave Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Wave Properties": "Wavelength, frequency, amplitude, speed; v = fλ"
+  },
+  "successors_to_link": [
+    "Standing Waves",
+    "Interference of Light",
+    "Beats"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Wave Properties",
+    "Standing Waves",
+    "Interference of Light",
+    "Beats",
+    "Wave Motion",
+    "Doppler Effect",
+    "Resonance"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,40 @@
+{
+  "concept_slug": "resonance",
+  "canonical_name": "Resonance",
+  "subject": "science",
+  "grade": 11,
+  "area": "Waves and Sound",
+  "description": "Natural frequency; forced oscillations; resonance in strings, pipes, bridges",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nResonance is a phenomenon that occurs when an object or system is subjected to an external force or vibration whose frequency matches a resonant frequency of the system, defined as a frequency that generates a maximum amplitude response in the system. When this happens, the object or system absorbs energy from the external force and starts vibrating with a larger amplitude. Resonance can occur in various systems, such as mechanical, electrical, or acoustic systems, and it is often desirable in certain applications, such as musical instruments or radio receivers. However, resonance can also be detrimental, leading to excessive vibrations or even structural failure in some cases.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Standing Waves"
+  ],
+  "prerequisites_descriptions": {
+    "Standing Waves": "Nodes and antinodes; resonance in strings and air columns"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Standing Waves",
+    "Wave Motion",
+    "Wave Properties",
+    "Superposition of Waves",
+    "Doppler Effect",
+    "Beats"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

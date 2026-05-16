@@ -1,0 +1,43 @@
+{
+  "concept_slug": "organisms-and-environment",
+  "canonical_name": "Organisms and Their Environment",
+  "subject": "science",
+  "grade": 12,
+  "area": "Ecology",
+  "description": "Abiotic factors: light, temperature, water; responses: regulation, conformation, migration",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Ecosystem — Concept"
+  ],
+  "prerequisites_descriptions": {
+    "Ecosystem — Concept": "Biotic and abiotic components; types of ecosystems"
+  },
+  "successors_to_link": [
+    "Population Attributes and Growth Models"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Ecosystem — Concept",
+    "Population Attributes and Growth Models",
+    "Energy Flow in an Ecosystem",
+    "Biodiversity",
+    "Biodiversity Conservation",
+    "Environmental Issues",
+    "Ecosystem Services",
+    "Ecological Succession",
+    "Population Interactions"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

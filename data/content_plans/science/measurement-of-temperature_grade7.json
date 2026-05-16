@@ -1,0 +1,41 @@
+{
+  "concept_slug": "measurement-of-temperature",
+  "canonical_name": "Measurement of Temperature",
+  "subject": "science",
+  "grade": 7,
+  "area": "Units and Measurement",
+  "description": "Thermometer; Celsius and Fahrenheit scales; clinical vs laboratory thermometer",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch3 — Units of Measurement]\nLength Conversion\nWe have been using a scale to measure length for a few years. We\nalready know that 1 cm = 10 mm (millimeters).\nHow many cm is 1 mm?\n1 mm = 1\n10 cm = 0.1 cm (i.e., one-tenth of a cm).\nHow many cm is (a) 5 mm? (b) 12 mm?\n5 mm = 5\n10 cm = 0.5 cm\n12 mm = 10 mm + 2 mm\n= 1 cm + 2\n10 cm\n= 1.2 cm.\nA Peek Beyond the Point\nHow many mm is 5.6 cm? Since each cm has 10 mm, 5.6 cm (5 cm +\n0.6 cm) is 56 mm.\nFill in the blanks below (mm <–> cm)\n12 mm = 1.2 cm\n56 mm = 5.6 cm\n70 mm = _______\n________ = 0.9 cm\n134 mm =__________\n________ = 203.6 cm\nThe illustration below shows how small some things are! Try taking\nan approximate measurement of each.\n•\t The three blue stripes represent the typical relative sizes of pen\nstrokes: fine stroke, medium stroke, and bold stroke.\n•\t A human hair is about 0.1 mm in thickness.\n•\t The thickness of a newspaper can range from 0.05 to 0.08 mm.\n•\t Mustard seeds have a thickness of 1 – 2 mm.\n•\t \tThe smallest ant species discovered so far, Carabera Bruni",
+  "context_sources": [
+    "ncert:grade7/science/ch3"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "SI Units"
+  ],
+  "prerequisites_descriptions": {
+    "SI Units": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela"
+  },
+  "successors_to_link": [
+    "Heat and Temperature",
+    "Ideal Gas Laws"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "SI Units",
+    "Heat and Temperature",
+    "Ideal Gas Laws"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

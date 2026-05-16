@@ -1,0 +1,37 @@
+{
+  "concept_slug": "human-health-diseases-detail",
+  "canonical_name": "Human Health and Disease — Detail",
+  "subject": "science",
+  "grade": 12,
+  "area": "Health and Disease",
+  "description": "Cancer; AIDS; drugs and alcohol abuse; common diseases and prevention",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Infectious Diseases",
+    "Immunity — Types and Mechanisms"
+  ],
+  "prerequisites_descriptions": {
+    "Infectious Diseases": "Bacterial, viral, fungal, protozoal diseases; modes of transmission",
+    "Immunity — Types and Mechanisms": "Innate vs adaptive; humoral and cell-mediated; active and passive; allergy; autoimmunity"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Infectious Diseases",
+    "Immunity — Types and Mechanisms",
+    "Immune System"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

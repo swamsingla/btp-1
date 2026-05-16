@@ -1,0 +1,50 @@
+{
+  "concept_slug": "transport-in-plants",
+  "canonical_name": "Transport in Plants",
+  "subject": "science",
+  "grade": 10,
+  "area": "Plant Biology",
+  "description": "Xylem: water and mineral transport; phloem: translocation of food",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cell Membrane and Transport",
+    "Parts of a Plant"
+  ],
+  "prerequisites_descriptions": {
+    "Cell Membrane and Transport": "Fluid mosaic model; diffusion, osmosis, active transport",
+    "Parts of a Plant": "Root, stem, leaf, flower, fruit, seed; functions"
+  },
+  "successors_to_link": [
+    "Transpiration",
+    "Plant Hormones",
+    "Excretion in Plants",
+    "Mineral Nutrition in Plants"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Cell Membrane and Transport",
+    "Parts of a Plant",
+    "Transpiration",
+    "Plant Hormones",
+    "Excretion in Plants",
+    "Mineral Nutrition in Plants",
+    "Photosynthesis"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

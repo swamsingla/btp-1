@@ -71,12 +71,16 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2 text-xl font-bold text-blue-600 dark:text-blue-400">
             <span className="text-2xl">📚</span>
-            <span className="hidden sm:inline">NCERT Learn</span>
+            <span className="hidden sm:inline">GraphLearn</span>
           </Link>
           <div className="hidden md:flex items-center gap-1 ml-4">
             <Link href="/maths"
               className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium text-gray-600 dark:text-gray-300 hover:bg-blue-50 dark:hover:bg-gray-800 hover:text-blue-600 transition-colors">
               <span>📐</span> Mathematics
+            </Link>
+            <Link href="/science"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium text-gray-600 dark:text-gray-300 hover:bg-teal-50 dark:hover:bg-gray-800 hover:text-teal-600 transition-colors">
+              <span>⚗️</span> Science
             </Link>
           </div>
           <div className="flex items-center gap-3">

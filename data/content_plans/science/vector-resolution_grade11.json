@@ -1,0 +1,48 @@
+{
+  "concept_slug": "vector-resolution",
+  "canonical_name": "Resolution of Vectors",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Resolving a vector into rectangular components; unit vectors i, j, k",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Scalars and Vectors"
+  ],
+  "prerequisites_descriptions": {
+    "Scalars and Vectors": "Scalar vs vector quantities; vector addition; triangle and parallelogram laws"
+  },
+  "successors_to_link": [
+    "Projectile Motion",
+    "Torque and Moment of Force",
+    "Motion in a Plane"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Scalars and Vectors",
+    "Projectile Motion",
+    "Torque and Moment of Force",
+    "Motion in a Plane",
+    "Uniform Circular Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum",
+    "Newton's Third Law of Motion"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,39 @@
+{
+  "concept_slug": "heat-engines",
+  "canonical_name": "Heat Engines and Refrigerators",
+  "subject": "science",
+  "grade": 11,
+  "area": "Heat and Thermodynamics",
+  "description": "Efficiency of heat engine; COP of refrigerator; Carnot cycle",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Second Law of Thermodynamics"
+  ],
+  "prerequisites_descriptions": {
+    "Second Law of Thermodynamics": "Entropy; Kelvin-Planck and Clausius statements; Carnot engine"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Second Law of Thermodynamics",
+    "Specific Heat Capacity",
+    "Thermal Expansion",
+    "Ideal Gas Laws",
+    "Kinetic Theory of Gases",
+    "First Law of Thermodynamics",
+    "Thermodynamic Processes"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

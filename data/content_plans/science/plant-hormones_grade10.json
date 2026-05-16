@@ -1,0 +1,44 @@
+{
+  "concept_slug": "plant-hormones",
+  "canonical_name": "Plant Hormones",
+  "subject": "science",
+  "grade": 10,
+  "area": "Plant Biology",
+  "description": "Auxins, gibberellins, cytokinins, abscisic acid, ethylene; tropic movements",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Transport in Plants",
+    "Cell Cycle"
+  ],
+  "prerequisites_descriptions": {
+    "Transport in Plants": "Xylem: water and mineral transport; phloem: translocation of food",
+    "Cell Cycle": "Interphase (G1, S, G2); M phase; regulation of cell cycle"
+  },
+  "successors_to_link": [
+    "Plant Growth and Development"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Transport in Plants",
+    "Cell Cycle",
+    "Plant Growth and Development",
+    "Photosynthesis",
+    "Transpiration",
+    "Excretion in Plants"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

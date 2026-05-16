@@ -1,0 +1,40 @@
+{
+  "concept_slug": "excretory-system-detail",
+  "canonical_name": "Excretory Products and Their Elimination",
+  "subject": "science",
+  "grade": 11,
+  "area": "Human Physiology",
+  "description": "Nephron structure detail; countercurrent mechanism; regulation by ADH and aldosterone",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Human Excretory System"
+  ],
+  "prerequisites_descriptions": {
+    "Human Excretory System": "Kidneys: nephron structure; urine formation; dialysis"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Human Excretory System",
+    "Human Respiratory System",
+    "Cellular Respiration",
+    "Human Circulatory System",
+    "Nervous System",
+    "Endocrine System",
+    "Hormones and Feedback Mechanisms",
+    "Skeletal and Muscular System"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

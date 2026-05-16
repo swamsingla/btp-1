@@ -1,0 +1,38 @@
+{
+  "concept_slug": "enthalpy-changes",
+  "canonical_name": "Enthalpy Changes",
+  "subject": "science",
+  "grade": 11,
+  "area": "Thermochemistry",
+  "description": "Standard enthalpy of formation, combustion, bond enthalpy; Born-Haber cycle",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Thermochemistry"
+  ],
+  "prerequisites_descriptions": {
+    "Thermochemistry": "Enthalpy; exothermic and endothermic reactions; Hess's law"
+  },
+  "successors_to_link": [
+    "Gibbs Free Energy"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Thermochemistry",
+    "Gibbs Free Energy",
+    "Thermodynamic Systems and Processes",
+    "Entropy and Spontaneity"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

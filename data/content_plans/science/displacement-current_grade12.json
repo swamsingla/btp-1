@@ -1,0 +1,43 @@
+{
+  "concept_slug": "displacement-current",
+  "canonical_name": "Displacement Current",
+  "subject": "science",
+  "grade": 12,
+  "area": "Electricity and Magnetism",
+  "description": "Maxwell's correction to Ampere's law; conduction vs displacement current",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Electromagnetic Induction",
+    "Capacitance and Capacitors"
+  ],
+  "prerequisites_descriptions": {
+    "Electromagnetic Induction": "Faraday's law; Lenz's law; induced EMF",
+    "Capacitance and Capacitors": "C = Q/V; parallel plate capacitor; series and parallel combinations; energy stored"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Electromagnetic Induction",
+    "Capacitance and Capacitors",
+    "Electric Charge",
+    "Coulomb's Law",
+    "Electric Field",
+    "Electric Potential and Potential Difference",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Kirchhoff's Laws"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

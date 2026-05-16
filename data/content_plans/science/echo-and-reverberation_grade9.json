@@ -1,0 +1,38 @@
+{
+  "concept_slug": "echo-and-reverberation",
+  "canonical_name": "Echo and Reverberation",
+  "subject": "science",
+  "grade": 9,
+  "area": "Waves and Sound",
+  "description": "Reflection of sound; minimum distance for echo; uses in SONAR",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Sound — Production and Propagation"
+  ],
+  "prerequisites_descriptions": {
+    "Sound — Production and Propagation": "Sound needs a medium; vibrations produce sound; speed of sound in different media"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Sound — Production and Propagation",
+    "Wave Motion",
+    "Wave Properties",
+    "Characteristics of Sound",
+    "Ultrasound and Its Applications",
+    "Structure of the Human Ear"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

@@ -1,0 +1,46 @@
+{
+  "concept_slug": "five-kingdom-classification",
+  "canonical_name": "Five-Kingdom Classification",
+  "subject": "science",
+  "grade": 11,
+  "area": "Diversity of Life",
+  "description": "Monera, Protista, Fungi, Plantae, Animalia; criteria: cell type, body organisation, nutrition",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Classification of Living Organisms",
+    "Microorganisms"
+  ],
+  "prerequisites_descriptions": {
+    "Classification of Living Organisms": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species",
+    "Microorganisms": "Bacteria, viruses, fungi, protozoa; useful and harmful microorganisms"
+  },
+  "successors_to_link": [
+    "Plant Kingdom",
+    "Animal Kingdom",
+    "Biological Classification — Detail"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Classification of Living Organisms",
+    "Microorganisms",
+    "Plant Kingdom",
+    "Animal Kingdom",
+    "Biological Classification — Detail",
+    "Binomial Nomenclature"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

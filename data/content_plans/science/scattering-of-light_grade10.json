@@ -1,0 +1,41 @@
+{
+  "concept_slug": "scattering-of-light",
+  "canonical_name": "Scattering of Light",
+  "subject": "science",
+  "grade": 10,
+  "area": "Optics",
+  "description": "Tyndall effect; why sky is blue; danger signals are red",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Dispersion of Light"
+  ],
+  "prerequisites_descriptions": {
+    "Dispersion of Light": "Splitting of white light by prism; rainbow formation; scattering of light"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Dispersion of Light",
+    "Rectilinear Propagation of Light",
+    "Reflection of Light",
+    "Plane Mirrors",
+    "Spherical Mirrors",
+    "Mirror Formula and Magnification",
+    "Refraction of Light",
+    "Snell's Law",
+    "Total Internal Reflection"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

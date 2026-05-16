@@ -1,0 +1,50 @@
+{
+  "concept_slug": "si-units",
+  "canonical_name": "SI Units",
+  "subject": "science",
+  "grade": 9,
+  "area": "Units and Measurement",
+  "description": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Physical Quantities"
+  ],
+  "prerequisites_descriptions": {
+    "Physical Quantities": "Measurable attributes of the physical world: length, mass, time, temperature"
+  },
+  "successors_to_link": [
+    "Measurement of Length",
+    "Measurement of Mass",
+    "Measurement of Time",
+    "Measurement of Temperature",
+    "Dimensional Analysis",
+    "Ideal Gas Laws"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Physical Quantities",
+    "Measurement of Length",
+    "Measurement of Mass",
+    "Measurement of Time",
+    "Measurement of Temperature",
+    "Dimensional Analysis",
+    "Ideal Gas Laws"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

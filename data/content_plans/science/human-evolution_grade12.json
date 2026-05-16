@@ -1,0 +1,43 @@
+{
+  "concept_slug": "human-evolution",
+  "canonical_name": "Human Evolution",
+  "subject": "science",
+  "grade": 12,
+  "area": "Genetics and Evolution",
+  "description": "Australopithecus → Homo habilis → Homo erectus → Homo sapiens; brain size",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nHomo sapiens is a distinct species of the hominid family of primates, which also includes all the great apes. Over their evolutionary history, humans gradually developed traits such as bipedalism, dexterity, and complex language. Modern humans interbred with archaic humans, indicating that their evolution was not linear but weblike. The study of the origins of humans involves several scientific disciplines, including physical and evolutionary anthropology, paleontology, and genetics; the field is also known by the terms anthropogeny, anthropogenesis, and anthropogony—with the latter two sometimes used to refer to the related subject of hominization.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Darwin's Theory of Natural Selection"
+  ],
+  "prerequisites_descriptions": {
+    "Darwin's Theory of Natural Selection": "Variation, struggle for existence, survival of the fittest; speciation"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Darwin's Theory of Natural Selection",
+    "Heredity and Variation",
+    "Mendel's Laws of Inheritance",
+    "Sex Determination",
+    "DNA Structure and Replication",
+    "Transcription",
+    "Translation",
+    "Regulation of Gene Expression",
+    "Genetic Disorders"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

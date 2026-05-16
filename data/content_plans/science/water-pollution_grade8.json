@@ -1,0 +1,37 @@
+{
+  "concept_slug": "water-pollution",
+  "canonical_name": "Water Pollution",
+  "subject": "science",
+  "grade": 8,
+  "area": "Environmental Chemistry",
+  "description": "Causes, effects and prevention; water treatment; potable water",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Water and Its Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Water and Its Properties": "States of water; water cycle; solvent properties"
+  },
+  "successors_to_link": [
+    "Environmental Issues"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Water and Its Properties",
+    "Environmental Issues",
+    "Air Pollution"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

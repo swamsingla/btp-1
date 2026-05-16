@@ -1,0 +1,44 @@
+{
+  "concept_slug": "hydrogen-bonding",
+  "canonical_name": "Hydrogen Bonding",
+  "subject": "science",
+  "grade": 11,
+  "area": "Chemical Bonding",
+  "description": "Intermolecular H-bonds; effect on boiling point; importance in water, DNA",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nIn chemistry, a hydrogen bond (H-bond) is a specific type of molecular interaction that exhibits partial covalent character and cannot be described as a purely electrostatic force. It occurs when a hydrogen (H) atom, covalently bonded to a more electronegative donor atom or group (Dn), interacts with another electronegative atom bearing a lone pair of electrons—the hydrogen bond acceptor (Ac). Unlike simple dipole–dipole interactions, hydrogen bonding arises from charge transfer, orbital interactions, and quantum mechanical delocalization, making it a resonance-assisted interaction rather than a mere electrostatic attraction.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Covalent Bonding",
+    "Periodic Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Covalent Bonding": "Sharing of electrons; single, double, triple bonds; Lewis structures",
+    "Periodic Properties": "Atomic radius, ionisation enthalpy, electron affinity, electronegativity; trends"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Covalent Bonding",
+    "Periodic Properties",
+    "Chemical Bonding — Introduction",
+    "Ionic Bonding",
+    "Metallic Bonding",
+    "VSEPR Theory",
+    "Hybridisation",
+    "Molecular Orbital Theory"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

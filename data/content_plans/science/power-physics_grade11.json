@@ -1,0 +1,46 @@
+{
+  "concept_slug": "power-physics",
+  "canonical_name": "Power",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Rate of doing work; P = W/t; unit: watt",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch4 — Power of i]\n(\n)\ni\ni i\ni\ni\n=\n= −\n= −,\n( )\n(\n)\ni\ni\n=\n= −\n=\n( )\n(\n)\ni\ni\ni\ni\ni\n=\n= −\n= ,\n( )\n(\n)\ni\ni\n=\n= −\n= −, etc.\nAlso, we have\n,\n1,\ni\ni\ni\ni\ni\ni\ni\ni\n−\n−\n=\n×\n=\n= −\n=\n=\n= −\n−\n−\n,\ni\ni\ni\ni\ni\ni\ni\ni\ni\n−\n−\n=\n=\n×\n=\n=\n=\n=\n=\n−\nIn general, for any integer k, i4k = 1, i4k + 1 = i, i4k + 2 = –1, i4k + 3 = – i\n4.3.6  The square roots of a negative real number",
+  "context_sources": [
+    "ncert:grade11/science/ch4"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Work (Physics)"
+  ],
+  "prerequisites_descriptions": {
+    "Work (Physics)": "W = F·d·cosθ; positive, negative and zero work"
+  },
+  "successors_to_link": [
+    "Electric Power and Energy"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Work (Physics)",
+    "Electric Power and Energy",
+    "Uniform Circular Motion",
+    "Scalars and Vectors",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

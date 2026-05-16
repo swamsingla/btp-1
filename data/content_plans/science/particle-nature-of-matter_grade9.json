@@ -1,0 +1,51 @@
+{
+  "concept_slug": "particle-nature-of-matter",
+  "canonical_name": "Particle Nature of Matter",
+  "subject": "science",
+  "grade": 9,
+  "area": "Matter and Classification",
+  "description": "Matter is made of tiny particles; diffusion; Brownian motion",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "States of Matter"
+  ],
+  "prerequisites_descriptions": {
+    "States of Matter": "Solid, liquid, gas; arrangement and movement of particles"
+  },
+  "successors_to_link": [
+    "Evaporation",
+    "Change of State",
+    "Pure Substances",
+    "Colloids",
+    "Gaseous State — Behaviour of Gases"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "States of Matter",
+    "Evaporation",
+    "Change of State",
+    "Pure Substances",
+    "Colloids",
+    "Gaseous State — Behaviour of Gases",
+    "Matter and Its Properties",
+    "Mixtures — Types and Properties",
+    "Separation Techniques"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

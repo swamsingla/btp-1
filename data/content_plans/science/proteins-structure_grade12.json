@@ -1,0 +1,48 @@
+{
+  "concept_slug": "proteins-structure",
+  "canonical_name": "Proteins — Structure and Function",
+  "subject": "science",
+  "grade": 12,
+  "area": "Biomolecules",
+  "description": "Amino acids; peptide bonds; primary to quaternary structure",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch1 — Introduction]\nRecall that the notion of relations and functions, domain,\nco-domain and range have been introduced in Class XI\nalong with different types of specific real valued functions\nand their graphs. The concept of the term ‘relation’ in\nmathematics has been drawn from the meaning of relation\nin English language, according to which two objects or\nquantities are related if there is a recognisable connection\nor link between the two objects or quantities. Let  A be\nthe set of students of Class XII of a school and B be the\nset of students of Class XI of the same school. Then some\nof the examples of relations from A to B are\n(i)\n{(a, b) ∈A × B: a is brother of b},\n(ii)\n{(a, b) ∈A × B: a is sister of b},\n(iii)\n{(a, b) ∈A × B: age of a is greater than age of b},\n(iv)\n{(a, b) ∈A × B: total marks obtained by a in the final examination is less than\nthe total marks obtained by b in the final examination},\n(v)\n{(a, b) ∈ A × B: a lives in the same locality as b}.  However, abstracting from\nthis, we define m\n\n[NCERT Grade12 Ch1 — Types of Relations]\nIn this section, we would like to study different types of relations. We know that a\nrelation in a set A is a subset of A × A. Thus, the empty set φ and A × A are two\nextreme relations. For illustration, consider a relation R in the set A = {1, 2, 3, 4} given by\nR = {(a, b): a – b = 10}. This is the empty set, as no pair (a, b) satisfies the condition\na – b = 10. Similarly, R′ = {(a, b) : | a – b | ≥ 0} is the whole set A × A, as all pairs\n(a, b) in A × A satisfy | a – b | ≥ 0. These two extreme examples lead us to the\nfollowing definitions.\nDefinition 1 A relation R in a set A is called empty relation, if no element of A is\nrelated to any element of A, i.e., R = φ ⊂ A × A.\nDefinition 2  A relation R in a set A is called universal relation, if each element of A\nis related to every element of A, i.e., R = A × A.\nBoth the empty relation and the universal relation are some times called trivial\nrelations.\nExample 1 Let A be the set of all students of a boys school. Show that the relation R\n\n[NCERT Grade12 Ch1 — Types of Functions]\nThe notion of a function along with some special functions like identity function, constant\nfunction, polynomial function, rational function, modulus function, signum function etc.\nalong with their graphs have been given in Class XI.\nAddition, subtraction, multiplication and division of two functions have also been\nstudied. As the concept of function is of paramount importance in mathematics and\namong other  disciplines as well, we would like to extend our study about function from\nwhere we finished earlier. In this section, we would like to study different types of\nfunctions.\nConsider the functions  f1, f2, f3 and f4 given by the following diagrams.\nIn Fig 1.2, we observe that the images of distinct elements of X1 under the function\nf1 are distinct, but the image of two distinct elements 1 and 2 of X1 under f2 is same,\nnamely b. Further, there are some elements like e and f in X2 which are not images of\nany element of X1 under f1, while all elements of X3 are images of some elements o\n\n[NCERT Grade12 Ch1 — Composition of Functions and Invertible Function]\nDefinition 8 Let f : A → B and g : B → C be two functions. Then the composition of\nf and g, denoted by gof, is defined as the function gof : A → C given by\ngof (x) = g(f (x)), ∀ x ∈ A.\nFig 1.5\nExample 15 Let f : {2, 3, 4, 5} → {3, 4, 5, 9} and g : {3, 4, 5, 9} → {7, 11, 15} be\nfunctions defined as f (2) = 3, f(3) = 4, f(4) =  f(5) = 5 and g (3) = g (4) = 7 and\ng (5) =  g(9) = 11. Find gof.\nSolution We have gof (2) =  g (f (2)) = g (3) = 7, gof (3) =  g (f (3)) = g (4) = 7,\ngof(4) =  g (f(4)) = g (5) = 11 and gof(5) =  g (5) = 11.\nExample 16 Find gof and fog, if f : R → R and g : R → R are given by f(x) = cos x\nand g(x) = 3x2. Show that gof ≠ fog.\nSolution We have gof(x) =  g (f(x)) = g(cos x) = 3 (cos x)2 = 3 cos2 x. Similarly,\nfog(x) =  f(g(x)) =  f (3x2) = cos (3x2). Note that 3cos2 x ≠ cos 3x2, for x = 0. Hence,\ngof ≠ fog.\nDefinition 9 A function f : X → Y is defined to be invertible, if there exists a function\ng : Y → X such that  gof = IX and fog = IY. The function g is called the",
+  "context_sources": [
+    "ncert:grade12/science/ch1",
+    "ncert:grade12/science/ch1",
+    "ncert:grade12/science/ch1",
+    "ncert:grade12/science/ch1"
+  ],
+  "ncert_chunks_found": 4,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Biomolecules — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Biomolecules — Introduction": "Carbohydrates, lipids, proteins, nucleic acids; their biological roles"
+  },
+  "successors_to_link": [
+    "Enzymes",
+    "Translation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Biomolecules — Introduction",
+    "Enzymes",
+    "Translation",
+    "Carbohydrates",
+    "Lipids",
+    "Nucleic Acids"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

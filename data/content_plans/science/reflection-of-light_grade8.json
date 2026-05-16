@@ -1,0 +1,41 @@
+{
+  "concept_slug": "reflection-of-light",
+  "canonical_name": "Reflection of Light",
+  "subject": "science",
+  "grade": 8,
+  "area": "Optics",
+  "description": "Laws of reflection; regular and diffuse reflection",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "[Wikipedia]\nReflection is the change in direction of a wavefront at an interface between two different media so that the wavefront returns into the medium from which it originated. Common examples include the reflection of light, sound and water waves. The law of reflection says that for specular reflection the angle at which the wave is incident on the surface equals the angle at which it is reflected.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Rectilinear Propagation of Light"
+  ],
+  "prerequisites_descriptions": {
+    "Rectilinear Propagation of Light": "Light travels in straight lines; pinhole camera"
+  },
+  "successors_to_link": [
+    "Plane Mirrors",
+    "Spherical Mirrors"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Rectilinear Propagation of Light",
+    "Plane Mirrors",
+    "Spherical Mirrors"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

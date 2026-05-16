@@ -1,0 +1,52 @@
+{
+  "concept_slug": "what-is-matter",
+  "canonical_name": "Matter and Its Properties",
+  "subject": "science",
+  "grade": 9,
+  "area": "Matter and Classification",
+  "description": "Anything that has mass and occupies space",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[NCERT Grade9 Ch8 — Properties of a Parallelogram]\nYou have already studied quadrilaterals and their types in Class VIII. A quadrilateral\nhas four sides, four angles and four vertices. A parallelogram is a quadrilateral in\nwhich both pairs of opposite sides are parallel.\nLet us perform an activity.\nCut out a parallelogram from a sheet of paper\nand cut it along a diagonal (see Fig. 8.1). You obtain\ntwo triangles. What can you say about these\ntriangles?\nPlace one triangle over the other. Turn one around,\nif necessary. What do you observe?\nObserve that the two triangles are congruent to\neach other.\nRepeat this activity with some more parallelograms. Each time you will observe\nthat each diagonal divides the parallelogram into two congruent triangles.\nLet us now prove this result.\nTheorem 8.1 : A diagonal of a parallelogram divides it into two congruent\ntriangles.\nProof : Let ABCD be a parallelogram and AC be a diagonal (see Fig. 8.2). Observe\nthat the diagonal AC divides parallelogram ABCD into two triangles, namely, ∆ ABC\nand ∆ CDA. We ne",
+  "context_sources": [
+    "ncert:grade9/science/ch8"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [],
+  "prerequisites_descriptions": {},
+  "successors_to_link": [
+    "States of Matter",
+    "Physical and Chemical Changes",
+    "Properties of Metals and Non-metals",
+    "Air Pollution",
+    "Soil Types and Formation",
+    "Dalton's Atomic Theory"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "States of Matter",
+    "Physical and Chemical Changes",
+    "Properties of Metals and Non-metals",
+    "Air Pollution",
+    "Soil Types and Formation",
+    "Dalton's Atomic Theory",
+    "Change of State",
+    "Particle Nature of Matter",
+    "Pure Substances",
+    "Mixtures — Types and Properties",
+    "Separation Techniques"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

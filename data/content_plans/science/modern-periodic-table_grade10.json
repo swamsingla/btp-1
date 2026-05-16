@@ -1,0 +1,43 @@
+{
+  "concept_slug": "modern-periodic-table",
+  "canonical_name": "Modern Periodic Table",
+  "subject": "science",
+  "grade": 10,
+  "area": "Periodic Classification",
+  "description": "Arranged by atomic number; 18 groups and 7 periods; s, p, d, f blocks",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mendeleev's Periodic Table",
+    "Electronic Configuration"
+  ],
+  "prerequisites_descriptions": {
+    "Mendeleev's Periodic Table": "Arranged by atomic mass; groups and periods; prediction of elements; limitations",
+    "Electronic Configuration": "Shells and subshells; 2n² rule; Aufbau, Pauli, Hund's rules"
+  },
+  "successors_to_link": [
+    "Periodic Properties"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mendeleev's Periodic Table",
+    "Electronic Configuration",
+    "Periodic Properties",
+    "Early Attempts at Classification",
+    "Properties of Metals and Non-metals"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

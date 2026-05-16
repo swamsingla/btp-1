@@ -1,0 +1,44 @@
+{
+  "concept_slug": "solutions-chemistry",
+  "canonical_name": "Solutions",
+  "subject": "science",
+  "grade": 9,
+  "area": "Solutions",
+  "description": "Solute, solvent, solution; concentration; saturated and unsaturated",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade9 Ch4 — Linear Equations]\nLet us first recall what you have studied so far. Consider the following equation:\n2x + 5 = 0\nIts solution, i.e., the root of the equation, is\n−\n. This can be represented on the\nnumber line as shown below:\nFig. 4.1\nReprint 2025-26\nWhile solving an equation, you must always keep the following points in mind:\nThe solution of a linear equation is not affected when:\n(i)\nthe same number is added to (or subtracted from) both the sides of the equation.\n(ii) you multiply or divide both the sides of the equation by the same non-zero\nnumber.\nLet us now consider the following situation:\nIn a One-day International Cricket match between India and Sri Lanka played in\nNagpur, two Indian batsmen together scored 176 runs. Express this information in the\nform of an equation.\nHere, you can see that the score of neither of them is known, i.e., there are two\nunknown quantities. Let us use x and y to denote them. So, the number of runs scored\nby one of the batsmen is x, and the number of runs scored by the",
+  "context_sources": [
+    "ncert:grade9/science/ch4"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mixtures — Types and Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Mixtures — Types and Properties": "Homogeneous and heterogeneous mixtures; solutions, suspensions, colloids"
+  },
+  "successors_to_link": [
+    "Concentration of Solutions",
+    "pH Scale",
+    "Solubility and Factors Affecting It"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mixtures — Types and Properties",
+    "Concentration of Solutions",
+    "pH Scale",
+    "Solubility and Factors Affecting It"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

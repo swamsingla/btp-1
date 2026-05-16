@@ -1,0 +1,60 @@
+{
+  "concept_slug": "newtons-second-law",
+  "canonical_name": "Newton's Second Law of Motion",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "F = ma; net force equals mass times acceleration",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Newton's First Law of Motion",
+    "Acceleration"
+  ],
+  "prerequisites_descriptions": {
+    "Newton's First Law of Motion": "Law of inertia; objects at rest stay at rest unless acted upon by net force",
+    "Acceleration": "Rate of change of velocity; uniform acceleration; deceleration"
+  },
+  "successors_to_link": [
+    "Momentum",
+    "Newton's Third Law of Motion",
+    "Gravitation",
+    "Free Body Diagrams",
+    "Pulleys and Connected Bodies",
+    "Centre of Mass",
+    "Centripetal Force"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Newton's First Law of Motion",
+    "Acceleration",
+    "Momentum",
+    "Newton's Third Law of Motion",
+    "Gravitation",
+    "Free Body Diagrams",
+    "Pulleys and Connected Bodies",
+    "Centre of Mass",
+    "Centripetal Force",
+    "Uniform Circular Motion",
+    "Scalars and Vectors",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

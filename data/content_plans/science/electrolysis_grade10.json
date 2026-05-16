@@ -1,0 +1,43 @@
+{
+  "concept_slug": "electrolysis",
+  "canonical_name": "Electrolysis",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electrochemistry",
+  "description": "Electrolysis of water, brine; electroplating; Faraday's laws",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Electric Current",
+    "Ionic Bonding"
+  ],
+  "prerequisites_descriptions": {
+    "Electric Current": "Flow of charge; I = Q/t; ammeter; direction of current",
+    "Ionic Bonding": "Transfer of electrons; formation of ions; properties of ionic compounds"
+  },
+  "successors_to_link": [
+    "Electrochemical Cells",
+    "Faraday's Laws of Electrolysis"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electric Current",
+    "Ionic Bonding",
+    "Electrochemical Cells",
+    "Faraday's Laws of Electrolysis"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

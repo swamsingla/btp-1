@@ -1,0 +1,43 @@
+{
+  "concept_slug": "salts-and-their-properties",
+  "canonical_name": "Salts and Their Properties",
+  "subject": "science",
+  "grade": 10,
+  "area": "Acids Bases and Salts",
+  "description": "Types of salts; pH of salt solutions; hydrolysis",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Neutralisation Reaction"
+  ],
+  "prerequisites_descriptions": {
+    "Neutralisation Reaction": "Acid + Base → Salt + Water; exothermic"
+  },
+  "successors_to_link": [
+    "Common Salt and Its Derivatives",
+    "Inorganic Qualitative Analysis"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Neutralisation Reaction",
+    "Common Salt and Its Derivatives",
+    "Inorganic Qualitative Analysis",
+    "Acids, Bases and Indicators",
+    "Properties of Acids and Bases",
+    "pH Scale"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

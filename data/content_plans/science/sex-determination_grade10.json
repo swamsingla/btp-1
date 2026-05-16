@@ -1,0 +1,44 @@
+{
+  "concept_slug": "sex-determination",
+  "canonical_name": "Sex Determination",
+  "subject": "science",
+  "grade": 10,
+  "area": "Genetics and Evolution",
+  "description": "XX-XY system; sex-linked inheritance; colour blindness, haemophilia",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade10 Ch3 — Elimination Method]\nNow let us consider another method of eliminating (i.e., removing) one variable. This\nis sometimes more convenient than the substitution method. Let us see how this method\nworks.\nExample 8 : The ratio of incomes of two persons is 9 : 7 and the ratio of their\nexpenditures is 4 : 3. If each of them manages to save ` 2000 per month, find their\nmonthly incomes.\nSolution : Let us denote the incomes of the two person by ` 9x and ` 7x and their\nexpenditures by ` 4y and ` 3y respectively. Then the equations formed in the situation\nis given by :\n9x – 4y = 2000\n(1)\nand\n7x – 3y = 2000\n(2)\nStep 1 : Multiply Equation (1) by 3 and Equation (2) by 4 to make the coefficients of\ny equal. Then we get the equations:\n27x – 12y = 6000\n(3)\n28x – 12y = 8000\n(4)\nStep 2 : Subtract Equation (3) from Equation (4) to eliminate y, because the coefficients\nof y are the same. So, we get\n(28x – 27x) – (12y – 12y) = 8000 – 6000\ni.e.,\nx = 2000\nStep 3 : Substituting this value of x in (1), we get\n9(2000) – 4y = 2000\ni.e\n\n[Wikipedia]\nThe Nobel Prize in Chemistry is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry. It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel, who died in 1896. These prizes are awarded for outstanding contributions in chemistry, physics, literature, peace, and physiology or medicine. As dictated by Nobel's will, the award is administered by the Nobel Foundation and awarded by the Royal Swedish Academy of Sciences. The first Nobel Prize in Chemistry was awarded in 1901 to Jacobus Henricus van 't Hoff, of the Netherlands. Each recipient receives a medal, a diploma and a monetary award prize that has varied throughout the years. In 1901, van 't Hoff received 150,782 SEK, which is equal to 7,731,004 SEK in December 2007. The award is presented in Stockholm at an annual ceremony on 10 December, the anniversary of Nobel's death.",
+  "context_sources": [
+    "ncert:grade10/science/ch3",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Mendel's Laws of Inheritance"
+  ],
+  "prerequisites_descriptions": {
+    "Mendel's Laws of Inheritance": "Law of dominance, segregation, independent assortment; monohybrid and dihybrid crosses"
+  },
+  "successors_to_link": [
+    "Genetic Disorders"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mendel's Laws of Inheritance",
+    "Genetic Disorders",
+    "Heredity and Variation",
+    "Origin of Life",
+    "Evidence of Evolution",
+    "Darwin's Theory of Natural Selection",
+    "Speciation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

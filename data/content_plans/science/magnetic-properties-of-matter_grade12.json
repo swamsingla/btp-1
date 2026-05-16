@@ -1,0 +1,46 @@
+{
+  "concept_slug": "magnetic-properties-of-matter",
+  "canonical_name": "Magnetic Properties of Matter",
+  "subject": "science",
+  "grade": 12,
+  "area": "Electricity and Magnetism",
+  "description": "Dia-, para-, ferromagnetism; hysteresis; Curie temperature",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch3 — Properties of matrix addition]\nThe addition of matrices satisfy the following properties:\n(i)\nCommutative Law  If A = [aij], B = [bij] are matrices of the same order, say\nm × n, then A + B = B + A.\nNow\nA + B = [aij] + [bij] = [aij + bij]\n= [bij + aij] (addition of numbers is commutative)\n= ([bij] + [aij]) = B + A\n(ii)\nAssociative Law  For any three matrices A = [aij], B = [bij], C = [cij] of the\nsame order, say m × n, (A + B) + C = A + (B + C).\nNow\n(A + B) + C = ([aij] + [bij]) + [cij]\n= [aij + bij] + [cij] = [(aij + bij) + cij]\n= [aij + (bij + cij)]\n(Why?)\n= [aij] + [(bij + cij)] = [aij] + ([bij] + [cij]) = A + (B + C)\nReprint 2025-26\nMATRICES         47\n(iii)\nExistence of additive identity Let A = [aij] be an m × n matrix and\nO be an m × n zero matrix, then A + O = O  + A = A. In other words, O is the\nadditive identity for matrix addition.\n(iv)\nThe existence of additive inverse Let A = [aij]m × n be any matrix, then we\nhave another matrix as – A = [– aij]m × n such that A + (– A) = (– A) + A= O. So\n– A is the addi\n\n[NCERT Grade12 Ch3 — Properties of multiplication of matrices]\nThe multiplication of matrices possesses the following properties, which we state without\nproof.\n1.\nThe associative law For any three matrices A, B and C. We have\n(AB) C = A (BC), whenever both sides of the equality are defined.\n2.\nThe distributive law For three matrices A, B and C.\n(i) A (B+C) = AB + AC\n(ii) (A+B) C = AC + BC, whenever both sides of equality are defined.\n3.\nThe existence of multiplicative identity For every square matrix A, there\nexist an identity matrix of same order such that IA = AI = A.\nNow, we shall verify these properties by examples.\nExample 16 If\n1 3\nA\n3 , B\n0 2\nand C\n1 4\n−\n\n\n\n\n−\n\n\n\n\n\n\n=\n=\n= \n\n\n\n\n\n−\n\n\n\n\n\n\n−\n−\n\n\n\n\n, find\nA(BC), (AB)C and show that (AB)C = A(BC).\nReprint 2025-26\nMATRICES         55\nSolution We have\n1 3\n0 1 3\nAB\n0 2\n3 6\n0 12\n1 18\n1 4\n2 9\n1 15\n−\n+\n+\n+\n−\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n=\n=\n+\n−\n+\n+\n= −\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−\n−\n+\n−\n−\n+\n\n\n\n\n\n\n\n(AB) (C)\n1 18\n1 15\n+\n+\n−\n−\n+\n\n\n\n\n−\n\n\n\n\n\n\n= −\n= −+\n−+\n−−\n+\n\n\n[NCERT Grade12 Ch3 — Operations on Matrices]\nIn this section, we shall introduce certain operations on matrices, namely, addition of\nmatrices, multiplication of a matrix by a scalar, difference and multiplication of matrices.\n3.4.1  Addition of matrices\n\n[NCERT Grade12 Ch7 — Some properties of indefinite integral]\nIn this sub section, we shall derive some properties of indefinite integrals.\n(I)\nThe process of differentiation and integration are inverses of each other in the\nsense of the following results :\n( )\nd\nf x dx\ndx ∫\n= f (x)\nand\n( )\nf x dx\n′\n∫\n= f (x) + C, where C is any arbitrary constant.\nProof Let F be any anti derivative of f, i.e.,\nF( )\nd\nx\ndx\n= f (x)\nThen\n( )\nf x dx\n∫\n= F(x) + C\nTherefore\n( )\nd\nf x dx\ndx ∫\n=\n(\n)\nF ( ) + C\nd\nx\ndx\n=\nF ( ) =\n( )\nd\nx\nf x\ndx\nSimilarly, we note that\nf ′(x) =\n( )\nd f x\ndx\nand hence\n( )\nf x dx\n′\n∫\n= f (x) + C\nwhere C is arbitrary constant called constant of integration.\n(II)\nTwo indefinite integrals with the same derivative lead to the same family of\ncurves and so they are equivalent.\nReprint 2025-26\nProof Let f and g be two functions such that\n( )\nd\nf x dx\ndx ∫\n=\n( )\nd\ng x dx\ndx ∫\nor\n( )\n( )\nd\nf x dx –\ng x dx\ndx\n\n\n\n\n∫\n∫\n= 0\nHence\n( )\n( )\nf x dx –\ng x dx\n∫\n∫\n= C, where C is any real number\n(Why?)\nor\n( )\nf x dx\n∫\n=\n( )\nC\ng x dx +\n∫\nSo the families of cur",
+  "context_sources": [
+    "ncert:grade12/science/ch3",
+    "ncert:grade12/science/ch3",
+    "ncert:grade12/science/ch3",
+    "ncert:grade12/science/ch7"
+  ],
+  "ncert_chunks_found": 4,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Magnetic Field and Field Lines"
+  ],
+  "prerequisites_descriptions": {
+    "Magnetic Field and Field Lines": "Magnetic field lines; properties; Earth's magnetic field"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Magnetic Field and Field Lines",
+    "Electric Charge",
+    "Coulomb's Law",
+    "Electric Field",
+    "Electric Potential and Potential Difference",
+    "Capacitance and Capacitors",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Kirchhoff's Laws"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

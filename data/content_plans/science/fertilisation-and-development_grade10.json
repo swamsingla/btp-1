@@ -1,0 +1,43 @@
+{
+  "concept_slug": "fertilisation-and-development",
+  "canonical_name": "Fertilisation and Embryonic Development",
+  "subject": "science",
+  "grade": 10,
+  "area": "Reproduction",
+  "description": "Fertilisation; implantation; placenta; embryonic development",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Menstrual Cycle"
+  ],
+  "prerequisites_descriptions": {
+    "Menstrual Cycle": "Phases; hormonal control; ovulation"
+  },
+  "successors_to_link": [
+    "Embryonic Development"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Menstrual Cycle",
+    "Embryonic Development",
+    "Asexual Reproduction in Plants",
+    "Flower Structure and Function",
+    "Seed Formation and Dispersal",
+    "Asexual Reproduction",
+    "Sexual Reproduction — Overview",
+    "Human Reproductive System",
+    "Reproductive Health"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

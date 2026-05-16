@@ -1,0 +1,44 @@
+{
+  "concept_slug": "inertia",
+  "canonical_name": "Inertia",
+  "subject": "science",
+  "grade": 9,
+  "area": "Mechanics",
+  "description": "Property of matter to resist change in state of rest or uniform motion",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Newton's First Law of Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Newton's First Law of Motion": "Law of inertia; objects at rest stay at rest unless acted upon by net force"
+  },
+  "successors_to_link": [
+    "Mass and Inertia"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Newton's First Law of Motion",
+    "Mass and Inertia",
+    "Rest and Motion",
+    "Distance and Displacement",
+    "Speed and Velocity",
+    "Acceleration",
+    "Equations of Motion",
+    "Distance-Time and Velocity-Time Graphs",
+    "Uniform Circular Motion",
+    "Force — Concept"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

@@ -1,0 +1,42 @@
+{
+  "concept_slug": "biodiversity-conservation",
+  "canonical_name": "Biodiversity Conservation",
+  "subject": "science",
+  "grade": 12,
+  "area": "Ecology",
+  "description": "In-situ: national parks, sanctuaries; ex-situ: botanical gardens, zoos; endangered species",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Biodiversity",
+    "Environmental Issues"
+  ],
+  "prerequisites_descriptions": {
+    "Biodiversity": "Genetic, species, ecosystem diversity; hotspots; importance",
+    "Environmental Issues": "Pollution; deforestation; greenhouse effect; solid waste management"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Biodiversity",
+    "Environmental Issues",
+    "Energy Flow in an Ecosystem",
+    "Ecosystem Services",
+    "Ecological Succession",
+    "Population Interactions",
+    "Organisms and Their Environment",
+    "Population Attributes and Growth Models"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,45 @@
+{
+  "concept_slug": "plant-respiration",
+  "canonical_name": "Respiration in Plants",
+  "subject": "science",
+  "grade": 11,
+  "area": "Plant Biology",
+  "description": "Aerobic and anaerobic; fermentation; compensation point",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nEnergy is the quantitative property that is transferred to a body or to a physical system, recognizable in the capacity to do work and in the form of heat and light. Energy is a conserved quantity—the law of conservation of energy states that energy can be converted in form, but not created or destroyed. The unit of measurement for energy in the International System of Units (SI) is the joule (J).",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Photosynthesis",
+    "Cellular Respiration"
+  ],
+  "prerequisites_descriptions": {
+    "Photosynthesis": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; light and dark reactions; chlorophyll",
+    "Cellular Respiration": "Glycolysis → Krebs cycle → ETC; aerobic vs anaerobic; ATP"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Photosynthesis",
+    "Cellular Respiration",
+    "Photosynthesis — Light and Dark Reactions",
+    "Transport in Plants",
+    "Plant Hormones",
+    "Alternation of Generations",
+    "Mineral Nutrition in Plants",
+    "Plant Growth and Development",
+    "Anatomy of Flowering Plants"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

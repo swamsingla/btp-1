@@ -1,0 +1,44 @@
+{
+  "concept_slug": "work-energy-theorem",
+  "canonical_name": "Work-Energy Theorem",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Net work = change in KE; applications in variable force problems",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Work (Physics)",
+    "Kinetic Energy"
+  ],
+  "prerequisites_descriptions": {
+    "Work (Physics)": "W = F·d·cosθ; positive, negative and zero work",
+    "Kinetic Energy": "KE = ½mv²; work-energy theorem"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Work (Physics)",
+    "Kinetic Energy",
+    "Uniform Circular Motion",
+    "Scalars and Vectors",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

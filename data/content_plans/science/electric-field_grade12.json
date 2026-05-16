@@ -1,0 +1,50 @@
+{
+  "concept_slug": "electric-field",
+  "canonical_name": "Electric Field",
+  "subject": "science",
+  "grade": 12,
+  "area": "Electricity and Magnetism",
+  "description": "E = F/q; field lines; field due to point charge, dipole",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nAn electric field is a physical field that surrounds electrically charged particles such as electrons. In classical electromagnetism, the electric field of a single charge describes their capacity to exert attractive or repulsive forces on another charged object. Charged particles exert attractive forces on each other when the sign of their charges are opposite, one being positive while the other is negative, and repel each other when the signs of the charges are the same. Because these forces are exerted mutually, two charges must be present for the forces to take place. These forces are described by Coulomb's law, which says that the greater the magnitude of the charges, the greater the force, and the greater the distance between them, the weaker the force. Informally, the greater the charge of an object, the stronger its electric field. Similarly, an electric field is stronger nearer charged objects and weaker further away. Electric fields originate from electric charges and time-varying electric currents. Electric fields and magnetic fields are both manifestations of the electromagnetic field. Electromagnetism is one of the four fundamental interactions of nature.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Coulomb's Law"
+  ],
+  "prerequisites_descriptions": {
+    "Coulomb's Law": "F = kq₁q₂/r²; permittivity; superposition principle"
+  },
+  "successors_to_link": [
+    "Electric Potential and Potential Difference",
+    "Electromagnetic Waves",
+    "Gauss's Law"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Coulomb's Law",
+    "Electric Potential and Potential Difference",
+    "Electromagnetic Waves",
+    "Gauss's Law",
+    "Electric Charge",
+    "Capacitance and Capacitors",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Kirchhoff's Laws",
+    "EMF and Internal Resistance"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,59 @@
+{
+  "concept_slug": "nervous-system",
+  "canonical_name": "Nervous System",
+  "subject": "science",
+  "grade": 10,
+  "area": "Human Physiology",
+  "description": "CNS and PNS; neuron structure; reflex arc; synapse",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "[Wikipedia]\nChemistry is the scientific study of the properties and behavior of matter. It is a physical science within the natural sciences that studies matter: composition, structure, properties, behavior and the changes they undergo during reactions with other substances. Chemistry also addresses the nature of chemical bonds in chemical compounds.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Cell — Basic Unit of Life",
+    "Cell Organelles"
+  ],
+  "prerequisites_descriptions": {
+    "Cell — Basic Unit of Life": "Discovery of cells; cell theory; unicellular and multicellular organisms",
+    "Cell Organelles": "Nucleus, mitochondria, ER, Golgi, lysosomes, ribosomes, vacuoles, plastids"
+  },
+  "successors_to_link": [
+    "Reflex Actions",
+    "Endocrine System",
+    "Sense Organs",
+    "Control and Coordination in Animals",
+    "Neural Control and Coordination"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Cell — Basic Unit of Life",
+    "Cell Organelles",
+    "Reflex Actions",
+    "Endocrine System",
+    "Sense Organs",
+    "Control and Coordination in Animals",
+    "Neural Control and Coordination",
+    "Human Respiratory System",
+    "Cellular Respiration",
+    "Human Circulatory System",
+    "Blood — Composition and Functions",
+    "Human Excretory System",
+    "Breathing and Gas Exchange"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

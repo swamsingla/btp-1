@@ -1,0 +1,38 @@
+{
+  "concept_slug": "diseases-types",
+  "canonical_name": "Diseases — Types",
+  "subject": "science",
+  "grade": 9,
+  "area": "Health and Disease",
+  "description": "Infectious vs non-infectious; acute vs chronic; causes of disease",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Health and Hygiene"
+  ],
+  "prerequisites_descriptions": {
+    "Health and Hygiene": "Personal and community health; cleanliness; immunisation"
+  },
+  "successors_to_link": [
+    "Infectious Diseases"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Health and Hygiene",
+    "Infectious Diseases",
+    "Immune System",
+    "Antibiotics and Vaccines"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

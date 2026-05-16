@@ -1,0 +1,42 @@
+{
+  "concept_slug": "heating-effect-of-current",
+  "canonical_name": "Heating Effect of Electric Current",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "H = I²Rt; electric fuse; applications: heater, iron, bulb",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Resistance and Resistivity"
+  ],
+  "prerequisites_descriptions": {
+    "Resistance and Resistivity": "Factors affecting resistance; R = ρl/A; series and parallel resistors"
+  },
+  "successors_to_link": [
+    "Electric Power and Energy"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Resistance and Resistivity",
+    "Electric Power and Energy",
+    "Electric Charge",
+    "Electric Potential and Potential Difference",
+    "Electric Current",
+    "Electric Circuit",
+    "Ohm's Law",
+    "Magnetic Field and Field Lines"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

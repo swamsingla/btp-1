@@ -1,0 +1,51 @@
+{
+  "concept_slug": "biomolecules-intro",
+  "canonical_name": "Biomolecules — Introduction",
+  "subject": "science",
+  "grade": 11,
+  "area": "Biomolecules",
+  "description": "Carbohydrates, lipids, proteins, nucleic acids; their biological roles",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade11 Ch1 — Introduction]\nGeorg Cantor\n(1845-1918)\nThe concept of set serves as a fundamental part of the\npresent day mathematics. Today this concept is being used\nin almost every branch of mathematics. Sets are used to\ndefine the concepts of relations and functions. The study of\ngeometry, sequences, probability, etc. requires the knowledge\nof sets.\nThe theory of sets was developed by German\nmathematician Georg Cantor (1845-1918). He first\nencountered sets while working on “problems on trigonometric\nseries”. In this Chapter, we discuss some basic definitions\nand operations involving sets.\n1.2  Sets and their Representations\n\n[NCERT Grade11 Ch11 — Introduction]\nYou may recall that to locate the position of a point in a\nplane, we need two intersecting mutually perpendicular lines\nin the plane. These lines are called the coordinate axes\nand the two numbers are called the coordinates of the\npoint with respect to the axes. In actual life, we do not\nhave to deal with points lying in a plane only. For example,\nconsider the position of a ball thrown in space at different\npoints of time or the position of an aeroplane as it flies\nfrom one place to another at different times during its flight.\nSimilarly, if we were to locate the position of the\nlowest tip of an electric bulb hanging from the ceiling of a\nroom or the position of the central tip of the ceiling fan in a room, we will not only\nrequire the perpendicular distances of the point to be located from two perpendicular\nwalls of the room but also the height of the point from the floor of the room. Therefore,\nwe need not only two but three numbers representing the perpendicular distances of\nthe poi\n\n[NCERT Grade11 Ch12 — Introduction]\nThis chapter is an introduction to Calculus. Calculus is that\nbranch of mathematics which mainly deals with the study\nof change in the value of a function as the points in the\ndomain change. First, we give an intuitive idea of derivative\n(without actually defining it). Then we give a naive definition\nof limit and study some algebra of limits. Then we come\nback to a definition of derivative and study some algebra\nof derivatives. We also obtain derivatives of certain\nstandard functions.\n12.2  Intuitive Idea of Derivatives\nSir Issac Newton\n\n[NCERT Grade11 Ch13 — Introduction]\nWe know that statistics deals with data collected for specific\npurposes. We can make decisions about the data by\nanalysing and interpreting it. In earlier classes, we have\nstudied methods of representing data graphically and in\ntabular form. This representation reveals certain salient\nfeatures or characteristics of the data. We have also studied\nthe methods of finding a representative value for the given\ndata. This value is called the measure of central tendency.\nRecall mean (arithmetic mean), median and mode are three\nmeasures of central tendency. A measure of central\ntendency gives us a rough idea where data points are\ncentred. But, in order to make better interpretation from the\ndata, we should also have an idea how the data are scattered or how much they are\nbunched around a measure of central tendency.\nConsider now the runs scored by two batsmen in their last ten matches as follows:\nBatsman A : 30, 91,  0, 64, 42, 80, 30, 5, 117,  71\nBatsman B : 53, 46, 48, 50, 53, 53, 58, 60, 57,\n\n[NCERT Grade11 Ch2 — Introduction]\nMuch of mathematics is about finding a pattern – a\nrecognisable link between quantities that change. In our\ndaily life, we come across many patterns that characterise\nrelations such as brother and sister, father and son, teacher\nand student. In mathematics also, we come across many\nrelations such as number m is less than number n, line l is\nparallel to line m, set A is a subset of set B. In all these, we\nnotice that a relation involves pairs of objects in certain\norder. In this Chapter, we will learn how to link pairs of\nobjects from two sets and then introduce relations between\nthe two objects in the pair. Finally, we will learn about\nspecial relations which will qualify to be functions. The\nconcept of function is very important in mathematics since it captures the idea of a\nmathematically precise correspondence between one quantity with the other.\n2.2  Cartesian Products of Sets\nG . W.  Leibnitz\n(1646–1716)",
+  "context_sources": [
+    "ncert:grade11/science/ch1",
+    "ncert:grade11/science/ch11",
+    "ncert:grade11/science/ch12",
+    "ncert:grade11/science/ch13",
+    "ncert:grade11/science/ch2"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Components of Food"
+  ],
+  "prerequisites_descriptions": {
+    "Components of Food": "Carbohydrates, proteins, fats, vitamins, minerals, water, dietary fibre"
+  },
+  "successors_to_link": [
+    "Carbohydrates",
+    "Proteins — Structure and Function",
+    "Lipids",
+    "Nucleic Acids"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Components of Food",
+    "Carbohydrates",
+    "Proteins — Structure and Function",
+    "Lipids",
+    "Nucleic Acids",
+    "Enzymes"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

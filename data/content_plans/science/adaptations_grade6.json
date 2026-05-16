@@ -1,0 +1,41 @@
+{
+  "concept_slug": "adaptations",
+  "canonical_name": "Adaptations",
+  "subject": "science",
+  "grade": 6,
+  "area": "Ecology",
+  "description": "How organisms are suited to their environment; desert, aquatic, mountain adaptations",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Diversity of Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Diversity of Organisms": "Plants and animals around us; variety of habitats"
+  },
+  "successors_to_link": [
+    "Food Chains and Food Webs"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Diversity of Organisms",
+    "Food Chains and Food Webs",
+    "Ecosystem — Concept",
+    "Water Cycle",
+    "Soil Types and Formation",
+    "Solar System",
+    "Earth's Rotation and Revolution"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

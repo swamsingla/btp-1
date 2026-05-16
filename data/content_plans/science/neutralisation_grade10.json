@@ -1,0 +1,39 @@
+{
+  "concept_slug": "neutralisation",
+  "canonical_name": "Neutralisation Reaction",
+  "subject": "science",
+  "grade": 10,
+  "area": "Acids Bases and Salts",
+  "description": "Acid + Base → Salt + Water; exothermic",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Properties of Acids and Bases"
+  ],
+  "prerequisites_descriptions": {
+    "Properties of Acids and Bases": "Taste, conductivity, reaction with metals, carbonates; Arrhenius definition"
+  },
+  "successors_to_link": [
+    "Salts and Their Properties"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Properties of Acids and Bases",
+    "Salts and Their Properties",
+    "Acids, Bases and Indicators",
+    "pH Scale",
+    "Common Salt and Its Derivatives"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

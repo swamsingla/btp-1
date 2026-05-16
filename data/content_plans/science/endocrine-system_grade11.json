@@ -1,0 +1,55 @@
+{
+  "concept_slug": "endocrine-system",
+  "canonical_name": "Endocrine System",
+  "subject": "science",
+  "grade": 11,
+  "area": "Human Physiology",
+  "description": "Glands: pituitary, thyroid, adrenal, pancreas; hormones and their functions",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Nervous System",
+    "Blood — Composition and Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Nervous System": "CNS and PNS; neuron structure; reflex arc; synapse",
+    "Blood — Composition and Functions": "RBC, WBC, platelets, plasma; blood groups; coagulation"
+  },
+  "successors_to_link": [
+    "Hormones and Feedback Mechanisms",
+    "Human Reproductive System",
+    "Control and Coordination in Animals",
+    "Chemical Coordination and Integration"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Nervous System",
+    "Blood — Composition and Functions",
+    "Hormones and Feedback Mechanisms",
+    "Human Reproductive System",
+    "Control and Coordination in Animals",
+    "Chemical Coordination and Integration",
+    "Human Respiratory System",
+    "Cellular Respiration",
+    "Human Circulatory System",
+    "Human Excretory System",
+    "Skeletal and Muscular System",
+    "Body Fluids and Circulation"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,42 @@
+{
+  "concept_slug": "common-salt-derivatives",
+  "canonical_name": "Common Salt and Its Derivatives",
+  "subject": "science",
+  "grade": 10,
+  "area": "Acids Bases and Salts",
+  "description": "NaCl; bleaching powder, baking soda, washing soda; Plaster of Paris",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nChemistry is the scientific study of the properties and behavior of matter. It is a physical science within the natural sciences that studies matter: composition, structure, properties, behavior and the changes they undergo during reactions with other substances. Chemistry also addresses the nature of chemical bonds in chemical compounds.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Salts and Their Properties",
+    "Chemical Equations"
+  ],
+  "prerequisites_descriptions": {
+    "Salts and Their Properties": "Types of salts; pH of salt solutions; hydrolysis",
+    "Chemical Equations": "Writing and balancing chemical equations; symbols used"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Salts and Their Properties",
+    "Chemical Equations",
+    "Acids, Bases and Indicators",
+    "Properties of Acids and Bases",
+    "pH Scale",
+    "Neutralisation Reaction"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

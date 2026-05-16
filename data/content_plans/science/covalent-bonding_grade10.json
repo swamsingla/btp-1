@@ -1,0 +1,49 @@
+{
+  "concept_slug": "covalent-bonding",
+  "canonical_name": "Covalent Bonding",
+  "subject": "science",
+  "grade": 10,
+  "area": "Chemical Bonding",
+  "description": "Sharing of electrons; single, double, triple bonds; Lewis structures",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Chemical Bonding — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Chemical Bonding — Introduction": "Why atoms bond; octet rule; Kossel-Lewis approach"
+  },
+  "successors_to_link": [
+    "VSEPR Theory",
+    "Hydrogen Bonding",
+    "Carbon and Its Compounds",
+    "Reaction Mechanisms",
+    "Molecular Orbital Theory"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Chemical Bonding — Introduction",
+    "VSEPR Theory",
+    "Hydrogen Bonding",
+    "Carbon and Its Compounds",
+    "Reaction Mechanisms",
+    "Molecular Orbital Theory",
+    "Ionic Bonding"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

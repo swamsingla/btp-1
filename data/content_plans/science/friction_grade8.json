@@ -1,0 +1,40 @@
+{
+  "concept_slug": "friction",
+  "canonical_name": "Friction",
+  "subject": "science",
+  "grade": 8,
+  "area": "Mechanics",
+  "description": "Static, sliding, rolling friction; factors affecting friction; advantages and disadvantages",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nFriction is the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding or grinding against each other. Types of friction include dry, fluid, lubricated, skin, and internal – an incomplete list. The study of the processes involved is called tribology, and has a history of more than 2,000 years.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Types of Forces"
+  ],
+  "prerequisites_descriptions": {
+    "Types of Forces": "Muscular, frictional, gravitational, magnetic, electrostatic forces"
+  },
+  "successors_to_link": [
+    "Motion on an Inclined Plane"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Types of Forces",
+    "Motion on an Inclined Plane",
+    "Force — Concept",
+    "Pressure"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

@@ -1,0 +1,44 @@
+{
+  "concept_slug": "beats",
+  "canonical_name": "Beats",
+  "subject": "science",
+  "grade": 11,
+  "area": "Waves and Sound",
+  "description": "Beat frequency = |f₁ − f₂|; applications in tuning",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch1 — Introduction]\nGeorg Cantor\n(1845-1918)\nThe concept of set serves as a fundamental part of the\npresent day mathematics. Today this concept is being used\nin almost every branch of mathematics. Sets are used to\ndefine the concepts of relations and functions. The study of\ngeometry, sequences, probability, etc. requires the knowledge\nof sets.\nThe theory of sets was developed by German\nmathematician Georg Cantor (1845-1918). He first\nencountered sets while working on “problems on trigonometric\nseries”. In this Chapter, we discuss some basic definitions\nand operations involving sets.\n1.2  Sets and their Representations\n\n[NCERT Grade11 Ch1 — Sets and their Representations]\nIn everyday life, we often speak of collections of objects of a particular kind, such as,\na pack of cards, a crowd of people, a cricket team, etc. In mathematics also, we come\nacross collections, for example, of natural numbers, points, prime numbers, etc. More\nspecially, we examine the following collections:\n(i)\nOdd natural numbers less than 10, i.e., 1, 3, 5, 7, 9\n(ii)\nThe rivers of India\n(iii)\nThe vowels in the English alphabet, namely, a, e, i, o, u\n(iv)\nVarious kinds of triangles\n(v)\nPrime factors of 210, namely, 2,3,5 and 7\n(vi)\nThe solution of the equation: x2 – 5x + 6 = 0, viz, 2 and 3.\nWe note that each of the above example is a well-defined collection of objects in\nReprint 2025-26\n2       MATHEMATICS\nthe sense that we can definitely decide whether a given particular object belongs to a\ngiven collection or not. For example, we can say that the river Nile does not belong to\nthe collection of rivers of India. On the other hand, the river Ganga does belong to this\ncolleciton.\nWe \n\n[NCERT Grade11 Ch1 — The Empty Set]\nConsider the set\nA = { x : x is a student of Class XI presently studying in a school }\nWe can go to the school and count the number of students presently studying in\nClass XI in the school. Thus, the set A contains a finite number of elements.\nWe now write another set B as follows:\nReprint 2025-26\n6       MATHEMATICS\nB = { x : x is a student presently studying in both Classes X and XI }\nWe observe that a student cannot study simultaneously in both Classes X and XI.\nThus, the set B contains no element at all.\nDefinition 1 A set which does not contain any element is called the empty set or the\nnull set or the void set.\nAccording to this definition, B is an empty set while A is not an empty set. The\nempty set is denoted by the symbol φ or {   }.\nWe give below a few examples of empty sets.\n(i)\nLet A = {x : 1 < x < 2, x is a natural number}. Then A is the empty set,\nbecause there is no natural number between 1 and 2.\n(ii)\nB = {x : x2 – 2 = 0 and x is rational number}. Then B is the empty se\n\n[NCERT Grade11 Ch1 — Finite and Infinite Sets]\nLet\nA = {1, 2, 3, 4, 5},\nB = {a, b, c, d, e, g}\nand\nC = { men living presently in different parts of the world}\nWe observe that A contains 5 elements and B contains 6 elements. How many elements\ndoes C contain? As it is, we do not know the number of elements in C, but it is some\nnatural number which may be quite a big number. By number of elements of a set S,\nwe mean the number of distinct elements of the set and we denote it by n (S). If n (S)\nis a natural number, then S is non-empty finite set.\nConsider the set of natural numbers. We see that the number of elements of this\nset is not finite since there are infinite number of natural numbers. We say that the set\nof natural numbers is an infinite set. The sets A, B and C given above are finite sets\nand n(A) = 5, n(B) = 6 and n(C) = some finite number.\nDefinition 2 A set which is empty or consists of a definite number of elements is\ncalled finite otherwise, the set is called infinite.\nConsider some examples :\n(i)\nLet W be the set of the\n\n[NCERT Grade11 Ch1 — Equal Sets]\nGiven two sets A and B, if every element of A is also an element of B and if every\nelement of B is also an element of A, then the sets A and B are said to be equal.\nClearly, the two sets have exactly the same elements.\nDefinition 3 Two sets A and B are said to be equal if they have exactly the same\nelements and we write A = B. Otherwise, the sets are said to be unequal and we write\nA ≠ B.\nWe consider the following examples :\n(i)\nLet A = {1, 2, 3, 4} and\nB = {3, 1, 4, 2}. Then A = B.\n(ii)\nLet A be the set of prime numbers less than 6 and P the set of prime factors\nof 30. Then A and P are equal, since 2, 3 and 5 are the only prime factors of\n30 and also these are less than 6.\nANote  A set does not change if one or more elements of the set are repeated.\nFor example, the sets A = {1, 2, 3} and B = {2, 2, 1, 3, 3} are equal, since each\nReprint 2025-26\n8       MATHEMATICS\nelement of A is in B and vice-versa. That is why we generally do not repeat any\nelement in describing a set.\nExample 7  F",
+  "context_sources": [
+    "ncert:grade11/science/ch1",
+    "ncert:grade11/science/ch1",
+    "ncert:grade11/science/ch1",
+    "ncert:grade11/science/ch1",
+    "ncert:grade11/science/ch1"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Superposition of Waves"
+  ],
+  "prerequisites_descriptions": {
+    "Superposition of Waves": "Principle of superposition; constructive and destructive interference"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Superposition of Waves",
+    "Wave Motion",
+    "Wave Properties",
+    "Standing Waves",
+    "Doppler Effect",
+    "Resonance"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

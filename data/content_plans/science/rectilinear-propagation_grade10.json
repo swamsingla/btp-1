@@ -1,0 +1,46 @@
+{
+  "concept_slug": "rectilinear-propagation",
+  "canonical_name": "Rectilinear Propagation of Light",
+  "subject": "science",
+  "grade": 10,
+  "area": "Optics",
+  "description": "Light travels in straight lines; pinhole camera",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Light — Sources and Shadows"
+  ],
+  "prerequisites_descriptions": {
+    "Light — Sources and Shadows": "Luminous and non-luminous objects; opaque, translucent, transparent; shadow formation"
+  },
+  "successors_to_link": [
+    "Reflection of Light",
+    "Refraction of Light"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Light — Sources and Shadows",
+    "Reflection of Light",
+    "Refraction of Light",
+    "Plane Mirrors",
+    "Spherical Mirrors",
+    "Mirror Formula and Magnification",
+    "Snell's Law",
+    "Total Internal Reflection",
+    "Lenses"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

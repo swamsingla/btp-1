@@ -1,0 +1,43 @@
+{
+  "concept_slug": "sound-production",
+  "canonical_name": "Sound — Production and Propagation",
+  "subject": "science",
+  "grade": 8,
+  "area": "Waves and Sound",
+  "description": "Sound needs a medium; vibrations produce sound; speed of sound in different media",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Wave Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Wave Motion": "Mechanical and electromagnetic waves; transverse and longitudinal"
+  },
+  "successors_to_link": [
+    "Characteristics of Sound",
+    "Echo and Reverberation",
+    "Structure of the Human Ear",
+    "Standing Waves"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Wave Motion",
+    "Characteristics of Sound",
+    "Echo and Reverberation",
+    "Structure of the Human Ear",
+    "Standing Waves"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

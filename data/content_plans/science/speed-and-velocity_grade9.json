@@ -1,0 +1,56 @@
+{
+  "concept_slug": "speed-and-velocity",
+  "canonical_name": "Speed and Velocity",
+  "subject": "science",
+  "grade": 9,
+  "area": "Mechanics",
+  "description": "Speed = distance/time; velocity = displacement/time; uniform and non-uniform motion",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Distance and Displacement"
+  ],
+  "prerequisites_descriptions": {
+    "Distance and Displacement": "Scalar (distance) vs vector (displacement); path length vs shortest path"
+  },
+  "successors_to_link": [
+    "Acceleration",
+    "Distance-Time and Velocity-Time Graphs",
+    "Uniform Circular Motion",
+    "Kinetic Energy",
+    "Wave Motion",
+    "Doppler Effect",
+    "Motion in a Plane"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Distance and Displacement",
+    "Acceleration",
+    "Distance-Time and Velocity-Time Graphs",
+    "Uniform Circular Motion",
+    "Kinetic Energy",
+    "Wave Motion",
+    "Doppler Effect",
+    "Motion in a Plane",
+    "Rest and Motion",
+    "Equations of Motion",
+    "Force — Concept",
+    "Newton's First Law of Motion"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

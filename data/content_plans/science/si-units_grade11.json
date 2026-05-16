@@ -1,0 +1,52 @@
+{
+  "concept_slug": "si-units",
+  "canonical_name": "SI Units",
+  "subject": "science",
+  "grade": 11,
+  "area": "Units and Measurement",
+  "description": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Physical Quantities"
+  ],
+  "prerequisites_descriptions": {
+    "Physical Quantities": "Measurable attributes of the physical world: length, mass, time, temperature"
+  },
+  "successors_to_link": [
+    "Measurement of Length",
+    "Measurement of Mass",
+    "Measurement of Time",
+    "Measurement of Temperature",
+    "Dimensional Analysis",
+    "Ideal Gas Laws"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Physical Quantities",
+    "Measurement of Length",
+    "Measurement of Mass",
+    "Measurement of Time",
+    "Measurement of Temperature",
+    "Dimensional Analysis",
+    "Ideal Gas Laws",
+    "Significant Figures and Errors",
+    "Dimensional Formula — Applications"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

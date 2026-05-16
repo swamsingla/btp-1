@@ -1,0 +1,46 @@
+{
+  "concept_slug": "vsepr-theory",
+  "canonical_name": "VSEPR Theory",
+  "subject": "science",
+  "grade": 11,
+  "area": "Chemical Bonding",
+  "description": "Predicting shapes of molecules; linear, trigonal planar, tetrahedral, etc.",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Covalent Bonding",
+    "Electronic Configuration"
+  ],
+  "prerequisites_descriptions": {
+    "Covalent Bonding": "Sharing of electrons; single, double, triple bonds; Lewis structures",
+    "Electronic Configuration": "Shells and subshells; 2n² rule; Aufbau, Pauli, Hund's rules"
+  },
+  "successors_to_link": [
+    "Hybridisation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Covalent Bonding",
+    "Electronic Configuration",
+    "Hybridisation",
+    "Chemical Bonding — Introduction",
+    "Ionic Bonding",
+    "Metallic Bonding",
+    "Hydrogen Bonding",
+    "Molecular Orbital Theory"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,51 @@
+{
+  "concept_slug": "parts-of-a-plant",
+  "canonical_name": "Parts of a Plant",
+  "subject": "science",
+  "grade": 7,
+  "area": "Plant Biology",
+  "description": "Root, stem, leaf, flower, fruit, seed; functions",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[NCERT Grade7 Ch3 — A Tenth Part]\nThe length of the pencil shown in the figure below is 3 4\n10 units, which can\nalso be read as 3 units and four one-tenths, i.e., (3 × 1) + (4 × 1\n10) units.\n= 10 times 1\n10 = 10 × 1\n10 = 1 unit\nThis length is the same as 34 one-tenths units because 10 one-tenths\nunits make one unit.\n10 + 1\n10 + 1\n10 + 1\n10 + 1\n10 + 1\n10 + 1\n10 + 1\n10 + 1\n10 + 1\nA Peek Beyond the Point\n34 × 1\n10 = 34\n10 = 10\n10 + 10\n10 + 10\n10 + 4\n10 (34 one-tenths)\n= 1 + 1 + 1 + 4\n10 (3 and 4 one-tenths)\nA few numbers with fractional units are shown below along with\nhow to read them.\n4 1\n‘four and one-tenth’\n‘four one-tenths’ or ‘four-tenths’\n‘forty-one one-tenths’ or ‘forty-one tenths’\n41 1\n‘forty-one and one-tenth’\nFor the objects shown below, write their lengths in two ways and\nread them aloud. An example is given for the USB cable. (Note that the\nunit length used in each diagram is not the same).\nThe length of the USB cable is 4 and 8\n10 units or 48\n10 units.\nArrange these lengths in  increasing order:\n(a)\t \t9\n(b)\n\n[Wikipedia]\nNatural science or empirical science is a branch of science concerned with the description, understanding, and prediction of natural phenomena, based on empirical evidence from observation and experimentation. Mechanisms such as peer review and reproducibility of findings are used to try to ensure the validity of scientific advances.",
+  "context_sources": [
+    "ncert:grade7/science/ch3",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Diversity of Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Diversity of Organisms": "Plants and animals around us; variety of habitats"
+  },
+  "successors_to_link": [
+    "Photosynthesis",
+    "Transport in Plants",
+    "Asexual Reproduction in Plants",
+    "Flower Structure and Function",
+    "Anatomy of Flowering Plants"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Diversity of Organisms",
+    "Photosynthesis",
+    "Transport in Plants",
+    "Asexual Reproduction in Plants",
+    "Flower Structure and Function",
+    "Anatomy of Flowering Plants",
+    "Respiration in Plants",
+    "Transpiration"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

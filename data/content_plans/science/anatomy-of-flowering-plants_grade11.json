@@ -1,0 +1,44 @@
+{
+  "concept_slug": "anatomy-of-flowering-plants",
+  "canonical_name": "Anatomy of Flowering Plants",
+  "subject": "science",
+  "grade": 11,
+  "area": "Plant Biology",
+  "description": "Internal structure: root, stem, leaf; secondary growth; cambium",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Parts of a Plant",
+    "Tissue Types"
+  ],
+  "prerequisites_descriptions": {
+    "Parts of a Plant": "Root, stem, leaf, flower, fruit, seed; functions",
+    "Tissue Types": "Plant tissues: meristematic, permanent; animal tissues: epithelial, connective, muscular, nervous"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Parts of a Plant",
+    "Tissue Types",
+    "Photosynthesis",
+    "Photosynthesis — Light and Dark Reactions",
+    "Respiration in Plants",
+    "Transport in Plants",
+    "Plant Hormones",
+    "Alternation of Generations",
+    "Mineral Nutrition in Plants",
+    "Plant Growth and Development"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

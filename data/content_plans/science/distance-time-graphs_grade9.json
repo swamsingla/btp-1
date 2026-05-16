@@ -1,0 +1,42 @@
+{
+  "concept_slug": "distance-time-graphs",
+  "canonical_name": "Distance-Time and Velocity-Time Graphs",
+  "subject": "science",
+  "grade": 9,
+  "area": "Mechanics",
+  "description": "Interpreting motion graphs; area under v-t graph = displacement; slope = acceleration",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Equations of Motion",
+    "Speed and Velocity"
+  ],
+  "prerequisites_descriptions": {
+    "Equations of Motion": "v = u + at; s = ut + ½at²; v² = u² + 2as; graphical derivation",
+    "Speed and Velocity": "Speed = distance/time; velocity = displacement/time; uniform and non-uniform motion"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Equations of Motion",
+    "Speed and Velocity",
+    "Rest and Motion",
+    "Distance and Displacement",
+    "Acceleration",
+    "Uniform Circular Motion",
+    "Force — Concept",
+    "Newton's First Law of Motion"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

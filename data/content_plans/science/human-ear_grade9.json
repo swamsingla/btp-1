@@ -1,0 +1,40 @@
+{
+  "concept_slug": "human-ear",
+  "canonical_name": "Structure of the Human Ear",
+  "subject": "science",
+  "grade": 9,
+  "area": "Waves and Sound",
+  "description": "Outer, middle, inner ear; auditory range 20 Hz to 20 kHz",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nEach entry on this list of common misconceptions is worded as a correction; the misconceptions themselves are implied rather than stated. These entries are concise summaries; the main subject articles can be consulted for more detail.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Sound — Production and Propagation"
+  ],
+  "prerequisites_descriptions": {
+    "Sound — Production and Propagation": "Sound needs a medium; vibrations produce sound; speed of sound in different media"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Sound — Production and Propagation",
+    "Wave Motion",
+    "Wave Properties",
+    "Characteristics of Sound",
+    "Echo and Reverberation",
+    "Ultrasound and Its Applications"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

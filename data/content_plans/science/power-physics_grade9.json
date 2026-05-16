@@ -1,0 +1,44 @@
+{
+  "concept_slug": "power-physics",
+  "canonical_name": "Power",
+  "subject": "science",
+  "grade": 9,
+  "area": "Mechanics",
+  "description": "Rate of doing work; P = W/t; unit: watt",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Work (Physics)"
+  ],
+  "prerequisites_descriptions": {
+    "Work (Physics)": "W = F·d·cosθ; positive, negative and zero work"
+  },
+  "successors_to_link": [
+    "Electric Power and Energy"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Work (Physics)",
+    "Electric Power and Energy",
+    "Rest and Motion",
+    "Distance and Displacement",
+    "Speed and Velocity",
+    "Acceleration",
+    "Equations of Motion",
+    "Distance-Time and Velocity-Time Graphs",
+    "Uniform Circular Motion",
+    "Force — Concept"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

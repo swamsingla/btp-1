@@ -1,0 +1,45 @@
+{
+  "concept_slug": "what-is-matter",
+  "canonical_name": "Matter and Its Properties",
+  "subject": "science",
+  "grade": 6,
+  "area": "Matter and Classification",
+  "description": "Anything that has mass and occupies space",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [],
+  "prerequisites_descriptions": {},
+  "successors_to_link": [
+    "States of Matter",
+    "Physical and Chemical Changes",
+    "Properties of Metals and Non-metals",
+    "Air Pollution",
+    "Soil Types and Formation",
+    "Dalton's Atomic Theory"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "States of Matter",
+    "Physical and Chemical Changes",
+    "Properties of Metals and Non-metals",
+    "Air Pollution",
+    "Soil Types and Formation",
+    "Dalton's Atomic Theory",
+    "Mixtures — Types and Properties",
+    "Separation Techniques"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

@@ -1,0 +1,35 @@
+{
+  "concept_slug": "s-block-elements",
+  "canonical_name": "s-Block Elements",
+  "subject": "science",
+  "grade": 11,
+  "area": "Periodic Classification",
+  "description": "Alkali and alkaline earth metals; properties; compounds: NaOH, Na₂CO₃, CaO",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Periodic Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Periodic Properties": "Atomic radius, ionisation enthalpy, electron affinity, electronegativity; trends"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Periodic Properties",
+    "Modern Periodic Table",
+    "p-Block Elements"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

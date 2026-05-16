@@ -1,0 +1,41 @@
+{
+  "concept_slug": "origin-of-life",
+  "canonical_name": "Origin of Life",
+  "subject": "science",
+  "grade": 10,
+  "area": "Genetics and Evolution",
+  "description": "Oparin-Haldane hypothesis; Miller-Urey experiment; chemical evolution",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Diversity of Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Diversity of Organisms": "Plants and animals around us; variety of habitats"
+  },
+  "successors_to_link": [
+    "Evidence of Evolution"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Diversity of Organisms",
+    "Evidence of Evolution",
+    "Heredity and Variation",
+    "Mendel's Laws of Inheritance",
+    "Sex Determination",
+    "Darwin's Theory of Natural Selection",
+    "Speciation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,54 @@
+{
+  "concept_slug": "conservation-of-momentum",
+  "canonical_name": "Conservation of Momentum",
+  "subject": "science",
+  "grade": 9,
+  "area": "Mechanics",
+  "description": "Total momentum of isolated system is conserved; applications in collisions",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Momentum",
+    "Newton's Third Law of Motion",
+    "Conservation of Energy"
+  ],
+  "prerequisites_descriptions": {
+    "Momentum": "p = mv; impulse = change in momentum; F = dp/dt",
+    "Newton's Third Law of Motion": "Every action has an equal and opposite reaction; action-reaction pairs",
+    "Conservation of Energy": "Energy can neither be created nor destroyed; transformation between forms"
+  },
+  "successors_to_link": [
+    "Equilibrium of a Rigid Body",
+    "Elastic and Inelastic Collisions"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Momentum",
+    "Newton's Third Law of Motion",
+    "Conservation of Energy",
+    "Equilibrium of a Rigid Body",
+    "Elastic and Inelastic Collisions",
+    "Rest and Motion",
+    "Distance and Displacement",
+    "Speed and Velocity",
+    "Acceleration",
+    "Equations of Motion",
+    "Distance-Time and Velocity-Time Graphs",
+    "Uniform Circular Motion",
+    "Force — Concept"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

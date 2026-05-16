@@ -1,0 +1,41 @@
+{
+  "concept_slug": "buoyancy-and-archimedes",
+  "canonical_name": "Buoyancy and Archimedes' Principle",
+  "subject": "science",
+  "grade": 9,
+  "area": "Fluid Mechanics",
+  "description": "Upthrust = weight of displaced fluid; floating and sinking; relative density",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pressure in Fluids",
+    "Weight",
+    "Acceleration Due to Gravity"
+  ],
+  "prerequisites_descriptions": {
+    "Pressure in Fluids": "Pressure in liquids; pressure increases with depth; Pascal's law",
+    "Weight": "W = mg; weight vs mass; weightlessness",
+    "Acceleration Due to Gravity": "g = GM/R²; variation with altitude, depth and latitude"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Pressure in Fluids",
+    "Weight",
+    "Acceleration Due to Gravity"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

@@ -1,0 +1,43 @@
+{
+  "concept_slug": "fertilisation-and-development",
+  "canonical_name": "Fertilisation and Embryonic Development",
+  "subject": "science",
+  "grade": 12,
+  "area": "Reproduction",
+  "description": "Fertilisation; implantation; placenta; embryonic development",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Menstrual Cycle"
+  ],
+  "prerequisites_descriptions": {
+    "Menstrual Cycle": "Phases; hormonal control; ovulation"
+  },
+  "successors_to_link": [
+    "Embryonic Development"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Menstrual Cycle",
+    "Embryonic Development",
+    "Flower Structure and Function",
+    "Asexual Reproduction",
+    "Sexual Reproduction — Overview",
+    "Human Reproductive System",
+    "Reproductive Health",
+    "Pollination and Fertilisation in Plants",
+    "Reproduction in Animals"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

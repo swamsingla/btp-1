@@ -1,0 +1,49 @@
+{
+  "concept_slug": "states-of-matter-chemistry",
+  "canonical_name": "States of Matter",
+  "subject": "science",
+  "grade": 11,
+  "area": "Matter and Classification",
+  "description": "Solid, liquid, gas; arrangement and movement of particles",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Matter and Its Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Matter and Its Properties": "Anything that has mass and occupies space"
+  },
+  "successors_to_link": [
+    "Thermal Expansion",
+    "Change of State",
+    "Particle Nature of Matter",
+    "Water and Its Properties",
+    "Liquid State"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Matter and Its Properties",
+    "Thermal Expansion",
+    "Change of State",
+    "Particle Nature of Matter",
+    "Water and Its Properties",
+    "Liquid State",
+    "Gaseous State — Behaviour of Gases"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

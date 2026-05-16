@@ -1,0 +1,53 @@
+{
+  "concept_slug": "functional-groups",
+  "canonical_name": "Functional Groups",
+  "subject": "science",
+  "grade": 11,
+  "area": "Organic Chemistry",
+  "description": "Alcohol, aldehyde, ketone, carboxylic acid, amine; homologous series",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Hydrocarbons — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Hydrocarbons — Introduction": "Saturated and unsaturated; alkanes, alkenes, alkynes; nomenclature"
+  },
+  "successors_to_link": [
+    "IUPAC Nomenclature",
+    "Alcohols, Phenols and Ethers",
+    "Aldehydes, Ketones and Carboxylic Acids",
+    "Amines",
+    "Polymers",
+    "Chemistry in Everyday Life"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Hydrocarbons — Introduction",
+    "IUPAC Nomenclature",
+    "Alcohols, Phenols and Ethers",
+    "Aldehydes, Ketones and Carboxylic Acids",
+    "Amines",
+    "Polymers",
+    "Chemistry in Everyday Life",
+    "Isomerism",
+    "Reactions of Hydrocarbons",
+    "Reaction Mechanisms"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

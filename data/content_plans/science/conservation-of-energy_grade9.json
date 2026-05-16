@@ -1,0 +1,63 @@
+{
+  "concept_slug": "conservation-of-energy",
+  "canonical_name": "Conservation of Energy",
+  "subject": "science",
+  "grade": 9,
+  "area": "Mechanics",
+  "description": "Energy can neither be created nor destroyed; transformation between forms",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Kinetic Energy",
+    "Potential Energy"
+  ],
+  "prerequisites_descriptions": {
+    "Kinetic Energy": "KE = ½mv²; work-energy theorem",
+    "Potential Energy": "Gravitational PE = mgh; elastic PE; zero reference"
+  },
+  "successors_to_link": [
+    "Conservation of Momentum",
+    "Forms of Energy",
+    "Angular Momentum",
+    "Oscillations and Periodic Motion",
+    "Specific Heat Capacity",
+    "First Law of Thermodynamics",
+    "EMF and Internal Resistance",
+    "Bernoulli's Principle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Kinetic Energy",
+    "Potential Energy",
+    "Conservation of Momentum",
+    "Forms of Energy",
+    "Angular Momentum",
+    "Oscillations and Periodic Motion",
+    "Specific Heat Capacity",
+    "First Law of Thermodynamics",
+    "EMF and Internal Resistance",
+    "Bernoulli's Principle",
+    "Rest and Motion",
+    "Distance and Displacement",
+    "Speed and Velocity",
+    "Acceleration",
+    "Equations of Motion",
+    "Distance-Time and Velocity-Time Graphs"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

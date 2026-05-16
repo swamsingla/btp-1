@@ -1,0 +1,52 @@
+{
+  "concept_slug": "atoms-and-molecules",
+  "canonical_name": "Atoms and Molecules",
+  "subject": "science",
+  "grade": 9,
+  "area": "Atomic Structure",
+  "description": "Dalton's atomic theory; atom as smallest particle of element; molecule",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pure Substances"
+  ],
+  "prerequisites_descriptions": {
+    "Pure Substances": "Elements and compounds; homogeneous composition; fixed properties"
+  },
+  "successors_to_link": [
+    "Atomic Number and Mass Number",
+    "Mole Concept",
+    "Writing Chemical Formulae",
+    "Early Attempts at Classification",
+    "Structure of Atom — Subatomic Particles"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Pure Substances",
+    "Atomic Number and Mass Number",
+    "Mole Concept",
+    "Writing Chemical Formulae",
+    "Early Attempts at Classification",
+    "Structure of Atom — Subatomic Particles",
+    "Electronic Configuration",
+    "Valency",
+    "Dalton's Atomic Theory",
+    "Isotopes and Isobars"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

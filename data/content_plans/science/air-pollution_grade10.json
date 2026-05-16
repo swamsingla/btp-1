@@ -1,0 +1,48 @@
+{
+  "concept_slug": "air-pollution",
+  "canonical_name": "Air Pollution",
+  "subject": "science",
+  "grade": 10,
+  "area": "Environmental Chemistry",
+  "description": "Pollutants; smog; acid rain; greenhouse effect; ozone depletion",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade10 Ch1 — Introduction]\nIn Class IX, you began your exploration of the world of real numbers and encountered\nirrational numbers. We continue our discussion on real numbers in this chapter. We\nbegin with very important properties of positive integers in Sections 1.2, namely the\nEuclid’s division algorithm and the Fundamental Theorem of Arithmetic.\nEuclid’s division algorithm, as the name suggests, has to do with divisibility of\nintegers. Stated simply, it says any positive integer a can be divided by another positive\ninteger b in such a way that it leaves a remainder r that is smaller than b. Many of you\nprobably recognise this as the usual long division process. Although this result is quite\neasy to state and understand, it has many applications related to the divisibility properties\nof integers. We touch upon a few of them, and use it mainly to compute the HCF of\ntwo positive integers.\nThe Fundamental Theorem of Arithmetic, on the other hand, has to do something\nwith multiplication of positive integers. You \n\n[NCERT Grade10 Ch10 — Introduction]\nYou have studied in Class IX that a circle is a collection of all points in a plane\nwhich are at a constant distance (radius) from a fixed point (centre). You have\nalso studied various terms related to a circle like chord, segment, sector, arc etc.\nLet us now examine the different situations that can arise when a circle and a line\nare given in a plane.\nSo, let us consider a circle and a line PQ. There can be three possibilities given\nin Fig. 10.1 below:\nFig. 10.1\nIn Fig. 10.1 (i), the line PQ and the circle have no common point. In this case,\nPQ is called a non-intersecting line with respect to the circle. In Fig. 10.1 (ii), there\nare two common points A and B that the line PQ and the circle have. In this case, we\ncall the line PQ a secant of the circle. In Fig. 10.1 (iii), there is only one point A which\nis common to the line PQ and the circle. In this case, the line is called a tangent to the\ncircle.\nReprint 2025-26\nCIRCLES\nYou might have seen a pulley fitted over a well which is use\n\n[NCERT Grade10 Ch12 — Introduction]\nFrom Class IX, you are familiar with some of the solids like cuboid, cone, cylinder, and\nsphere (see Fig. 12.1). You have also learnt how to find their surface areas and volumes.\nFig. 12.1\nIn our day-to-day life, we come across a number of solids made up of combinations\nof two or more of the basic solids as shown above.\nYou must have seen a truck with a\ncontainer fitted on its back (see Fig. 12.2),\ncarrying oil or water from one place to\nanother. Is it in the shape of any of the four\nbasic solids mentioned above? You may\nguess that it is made of a cylinder with two\nhemispheres as its ends.\nFig. 12.2\nReprint 2025-26\nAgain, you may have seen an object like the\none in Fig. 12.3. Can you name it? A test tube, right!\nYou would have used one in your science laboratory.\nThis tube is also a combination of a cylinder and a\nhemisphere. Similarly, while travelling, you may have\nseen some big and beautiful buildings or monuments\nmade up of a combination of solids mentioned above.\nIf for some reaso\n\n[NCERT Grade10 Ch13 — Introduction]\nIn Class IX, you have studied the classification of given data into ungrouped as well as\ngrouped frequency distributions. You have also learnt to represent the data pictorially\nin the form of various graphs such as bar graphs, histograms (including those of varying\nwidths) and frequency polygons. In fact, you went a step further by studying certain\nnumerical representatives of the ungrouped data, also called measures of central\ntendency, namely, mean, median and mode. In this chapter, we shall extend the study\nof these three measures, i.e., mean, median and mode from ungrouped data to that of\ngrouped data. We shall also discuss the concept of cumulative frequency, the\ncumulative frequency distribution and how to draw cumulative frequency curves, called\nogives.\n13.2 Mean of Grouped Data\n\n[NCERT Grade10 Ch2 — Introduction]\nIn Class IX, you have studied polynomials in one variable and their degrees. Recall\nthat if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of\nthe polynomial p(x). For example, 4x + 2 is a polynomial in the variable x of\ndegree 1, 2y2 – 3y + 4 is a polynomial in the variable y of degree 2, 5x3 – 4x2 + x –\nis a polynomial in the variable x of degree 3 and 7u6 –\n2u\nu\nu\n\n\n\nis a polynomial\nin the variable u of degree 6. Expressions like\nx \n,\nx \n,\nx\nx\n\n\netc., are\nnot polynomials.\nA polynomial of degree 1 is called a linear polynomial. For example, 2x – 3,\n5,\nx \ny\n,\nx \n, 3z + 4, 2\n3u , etc.,  are all linear polynomials. Polynomials\nsuch as 2x + 5 – x2, x3 + 1, etc., are not linear polynomials.\nA polynomial of degree 2 is called a quadratic polynomial. The name ‘quadratic’\nhas been derived from the word ‘quadrate’, which means ‘square’.\n2,\nx\nx\n\n\ny2 – 2,\n3 ,\nx\nx\n\n\n5,\n, 4\nu\nu\nv\nv\nz\n\n\n\n\nare some examples of\nquadratic polynomials (whose coefficien\n\n[Wikipedia]\nAir pollution is the presence of substances in the air that are harmful to humans, other living beings or the environment. Pollutants can be gases, like ozone or nitrogen oxides, or small particles like soot and dust. Both outdoor and indoor air can be polluted.",
+  "context_sources": [
+    "ncert:grade10/science/ch1",
+    "ncert:grade10/science/ch10",
+    "ncert:grade10/science/ch12",
+    "ncert:grade10/science/ch13",
+    "ncert:grade10/science/ch2",
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Matter and Its Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Matter and Its Properties": "Anything that has mass and occupies space"
+  },
+  "successors_to_link": [
+    "Ozone Layer Depletion",
+    "Environmental Issues"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Matter and Its Properties",
+    "Ozone Layer Depletion",
+    "Environmental Issues",
+    "Water Pollution"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

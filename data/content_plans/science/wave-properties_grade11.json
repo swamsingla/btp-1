@@ -1,0 +1,47 @@
+{
+  "concept_slug": "wave-properties",
+  "canonical_name": "Wave Properties",
+  "subject": "science",
+  "grade": 11,
+  "area": "Waves and Sound",
+  "description": "Wavelength, frequency, amplitude, speed; v = fλ",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Wave Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Wave Motion": "Mechanical and electromagnetic waves; transverse and longitudinal"
+  },
+  "successors_to_link": [
+    "Characteristics of Sound",
+    "Superposition of Waves",
+    "Doppler Effect",
+    "Dispersion of Light"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Wave Motion",
+    "Characteristics of Sound",
+    "Superposition of Waves",
+    "Doppler Effect",
+    "Dispersion of Light",
+    "Standing Waves",
+    "Beats",
+    "Resonance"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

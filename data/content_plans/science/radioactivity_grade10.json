@@ -1,0 +1,42 @@
+{
+  "concept_slug": "radioactivity",
+  "canonical_name": "Radioactivity",
+  "subject": "science",
+  "grade": 10,
+  "area": "Modern Physics",
+  "description": "Alpha, beta, gamma decay; half-life; decay law N = N₀e⁻λt",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Nuclear Structure",
+    "Electric Charge"
+  ],
+  "prerequisites_descriptions": {
+    "Nuclear Structure": "Nucleus: protons and neutrons; atomic number, mass number; isotopes",
+    "Electric Charge": "Positive and negative charge; conservation of charge; charging by rubbing"
+  },
+  "successors_to_link": [
+    "Nuclear Fission and Fusion"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Nuclear Structure",
+    "Electric Charge",
+    "Nuclear Fission and Fusion",
+    "Nuclear Energy — Reactor and Applications"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

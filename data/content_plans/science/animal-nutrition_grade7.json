@@ -1,0 +1,35 @@
+{
+  "concept_slug": "animal-nutrition",
+  "canonical_name": "Nutrition in Animals",
+  "subject": "science",
+  "grade": 7,
+  "area": "Nutrition and Digestion",
+  "description": "Feeding mechanisms; digestion in amoeba, grasshopper; ruminants",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Modes of Nutrition"
+  ],
+  "prerequisites_descriptions": {
+    "Modes of Nutrition": "Autotrophic and heterotrophic; saprophytic, parasitic, holozoic"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Modes of Nutrition",
+    "Balanced Diet",
+    "Human Digestive System"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

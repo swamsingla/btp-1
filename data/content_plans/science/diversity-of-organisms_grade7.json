@@ -1,0 +1,46 @@
+{
+  "concept_slug": "diversity-of-organisms",
+  "canonical_name": "Diversity of Organisms",
+  "subject": "science",
+  "grade": 7,
+  "area": "Diversity of Life",
+  "description": "Plants and animals around us; variety of habitats",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Living and Non-Living Things"
+  ],
+  "prerequisites_descriptions": {
+    "Living and Non-Living Things": "Characteristics of living things: growth, respiration, reproduction, response to stimuli"
+  },
+  "successors_to_link": [
+    "Classification of Living Organisms",
+    "Parts of a Plant",
+    "Origin of Life",
+    "Ecosystem — Concept",
+    "Adaptations"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Living and Non-Living Things",
+    "Classification of Living Organisms",
+    "Parts of a Plant",
+    "Origin of Life",
+    "Ecosystem — Concept",
+    "Adaptations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

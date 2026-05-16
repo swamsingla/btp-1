@@ -1,0 +1,40 @@
+{
+  "concept_slug": "mineral-nutrition-in-plants",
+  "canonical_name": "Mineral Nutrition in Plants",
+  "subject": "science",
+  "grade": 11,
+  "area": "Plant Biology",
+  "description": "Essential elements; macro and micro nutrients; deficiency symptoms; nitrogen metabolism",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Transport in Plants"
+  ],
+  "prerequisites_descriptions": {
+    "Transport in Plants": "Xylem: water and mineral transport; phloem: translocation of food"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Transport in Plants",
+    "Photosynthesis",
+    "Photosynthesis — Light and Dark Reactions",
+    "Respiration in Plants",
+    "Plant Hormones",
+    "Alternation of Generations",
+    "Plant Growth and Development",
+    "Anatomy of Flowering Plants"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,43 @@
+{
+  "concept_slug": "modern-periodic-table",
+  "canonical_name": "Modern Periodic Table",
+  "subject": "science",
+  "grade": 11,
+  "area": "Periodic Classification",
+  "description": "Arranged by atomic number; 18 groups and 7 periods; s, p, d, f blocks",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mendeleev's Periodic Table",
+    "Electronic Configuration"
+  ],
+  "prerequisites_descriptions": {
+    "Mendeleev's Periodic Table": "Arranged by atomic mass; groups and periods; prediction of elements; limitations",
+    "Electronic Configuration": "Shells and subshells; 2n² rule; Aufbau, Pauli, Hund's rules"
+  },
+  "successors_to_link": [
+    "Periodic Properties"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mendeleev's Periodic Table",
+    "Electronic Configuration",
+    "Periodic Properties",
+    "p-Block Elements",
+    "s-Block Elements"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

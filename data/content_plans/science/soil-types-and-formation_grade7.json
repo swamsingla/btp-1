@@ -1,0 +1,35 @@
+{
+  "concept_slug": "soil-types-and-formation",
+  "canonical_name": "Soil Types and Formation",
+  "subject": "science",
+  "grade": 7,
+  "area": "Ecology",
+  "description": "Weathering; soil profile; types: sandy, clayey, loamy",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Matter and Its Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Matter and Its Properties": "Anything that has mass and occupies space"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Matter and Its Properties",
+    "Natural Disasters",
+    "Adaptations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

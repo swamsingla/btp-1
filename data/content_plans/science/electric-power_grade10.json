@@ -1,0 +1,45 @@
+{
+  "concept_slug": "electric-power",
+  "canonical_name": "Electric Power and Energy",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "P = VI = I²R = V²/R; kWh; household electricity bills",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nPhysics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Heating Effect of Electric Current",
+    "Power"
+  ],
+  "prerequisites_descriptions": {
+    "Heating Effect of Electric Current": "H = I²Rt; electric fuse; applications: heater, iron, bulb",
+    "Power": "Rate of doing work; P = W/t; unit: watt"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Heating Effect of Electric Current",
+    "Power",
+    "Electric Charge",
+    "Electric Potential and Potential Difference",
+    "Electric Current",
+    "Electric Circuit",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Magnetic Field and Field Lines"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

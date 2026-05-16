@@ -1,0 +1,45 @@
+{
+  "concept_slug": "thermal-expansion",
+  "canonical_name": "Thermal Expansion",
+  "subject": "science",
+  "grade": 11,
+  "area": "Heat and Thermodynamics",
+  "description": "Linear, area and volume expansion; coefficients; anomalous expansion of water",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nThermal expansion is the tendency of matter to increase in length, area, or volume, changing its size and density, in response to an increase in temperature .\nIn simple words, the change in size of a body due to heating is called thermal expansion. Substances usually contract with decreasing temperature, with rare exceptions within limited temperature ranges. The International System of Units|SI] unit of thermal expansion is the inverse kelvin (K−1).",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Heat and Temperature",
+    "States of Matter"
+  ],
+  "prerequisites_descriptions": {
+    "Heat and Temperature": "Heat as form of energy; distinction between heat and temperature",
+    "States of Matter": "Solid, liquid, gas; arrangement and movement of particles"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Heat and Temperature",
+    "States of Matter",
+    "Specific Heat Capacity",
+    "Ideal Gas Laws",
+    "Kinetic Theory of Gases",
+    "First Law of Thermodynamics",
+    "Thermodynamic Processes",
+    "Second Law of Thermodynamics",
+    "Heat Engines and Refrigerators"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

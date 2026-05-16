@@ -1,0 +1,36 @@
+{
+  "concept_slug": "components-of-food",
+  "canonical_name": "Components of Food",
+  "subject": "science",
+  "grade": 6,
+  "area": "Nutrition and Digestion",
+  "description": "Carbohydrates, proteins, fats, vitamins, minerals, water, dietary fibre",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [],
+  "prerequisites_descriptions": {},
+  "successors_to_link": [
+    "Balanced Diet",
+    "Human Digestive System",
+    "Biomolecules — Introduction"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Balanced Diet",
+    "Human Digestive System",
+    "Biomolecules — Introduction"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

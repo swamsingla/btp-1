@@ -1,0 +1,47 @@
+{
+  "concept_slug": "cell-cycle",
+  "canonical_name": "Cell Cycle",
+  "subject": "science",
+  "grade": 11,
+  "area": "Cell Biology",
+  "description": "Interphase (G1, S, G2); M phase; regulation of cell cycle",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cell Organelles"
+  ],
+  "prerequisites_descriptions": {
+    "Cell Organelles": "Nucleus, mitochondria, ER, Golgi, lysosomes, ribosomes, vacuoles, plastids"
+  },
+  "successors_to_link": [
+    "Mitosis",
+    "Plant Hormones",
+    "Heredity and Variation",
+    "Plant Growth and Development"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Cell Organelles",
+    "Mitosis",
+    "Plant Hormones",
+    "Heredity and Variation",
+    "Plant Growth and Development",
+    "Cell — Basic Unit of Life",
+    "Cell Membrane and Transport",
+    "Meiosis"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

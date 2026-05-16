@@ -1,0 +1,44 @@
+{
+  "concept_slug": "modes-of-nutrition",
+  "canonical_name": "Modes of Nutrition",
+  "subject": "science",
+  "grade": 10,
+  "area": "Nutrition and Digestion",
+  "description": "Autotrophic and heterotrophic; saprophytic, parasitic, holozoic",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nEach entry on this list of common misconceptions is worded as a correction; the misconceptions themselves are implied rather than stated. These entries are concise summaries; the main subject articles can be consulted for more detail.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Living and Non-Living Things"
+  ],
+  "prerequisites_descriptions": {
+    "Living and Non-Living Things": "Characteristics of living things: growth, respiration, reproduction, response to stimuli"
+  },
+  "successors_to_link": [
+    "Human Digestive System",
+    "Food Chains and Food Webs",
+    "Nutrition in Animals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Living and Non-Living Things",
+    "Human Digestive System",
+    "Food Chains and Food Webs",
+    "Nutrition in Animals"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

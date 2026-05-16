@@ -1,0 +1,47 @@
+{
+  "concept_slug": "ph-scale",
+  "canonical_name": "pH Scale",
+  "subject": "science",
+  "grade": 10,
+  "area": "Acids Bases and Salts",
+  "description": "pH = −log[H⁺]; acidic < 7, neutral = 7, basic > 7; pH meter; universal indicator",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nIn chemistry, pH is a logarithmic scale used to specify the acidity or basicity of aqueous solutions. Acidic solutions are measured to have lower pH values than basic or alkaline solutions. While the origin of the symbol 'pH' can be traced back to its original inventor, and the 'H' refers clearly to hydrogen, the exact original meaning of the letter 'p' in pH is still disputed; it has since acquired a more general technical meaning that is used in numerous other contexts.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Properties of Acids and Bases",
+    "Solutions"
+  ],
+  "prerequisites_descriptions": {
+    "Properties of Acids and Bases": "Taste, conductivity, reaction with metals, carbonates; Arrhenius definition",
+    "Solutions": "Solute, solvent, solution; concentration; saturated and unsaturated"
+  },
+  "successors_to_link": [
+    "Ionic Equilibrium"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Properties of Acids and Bases",
+    "Solutions",
+    "Ionic Equilibrium",
+    "Acids, Bases and Indicators",
+    "Neutralisation Reaction",
+    "Salts and Their Properties",
+    "Common Salt and Its Derivatives"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

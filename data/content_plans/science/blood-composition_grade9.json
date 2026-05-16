@@ -1,0 +1,44 @@
+{
+  "concept_slug": "blood-composition",
+  "canonical_name": "Blood — Composition and Functions",
+  "subject": "science",
+  "grade": 9,
+  "area": "Human Physiology",
+  "description": "RBC, WBC, platelets, plasma; blood groups; coagulation",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Human Circulatory System"
+  ],
+  "prerequisites_descriptions": {
+    "Human Circulatory System": "Heart: chambers and valves; arteries, veins, capillaries; blood composition"
+  },
+  "successors_to_link": [
+    "Human Excretory System",
+    "Endocrine System",
+    "Immune System",
+    "Body Fluids and Circulation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Human Circulatory System",
+    "Human Excretory System",
+    "Endocrine System",
+    "Immune System",
+    "Body Fluids and Circulation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

@@ -1,0 +1,36 @@
+{
+  "concept_slug": "entropy-chemistry",
+  "canonical_name": "Entropy and Spontaneity",
+  "subject": "science",
+  "grade": 11,
+  "area": "Thermochemistry",
+  "description": "Entropy change in processes; second law in chemistry; ΔG = ΔH − TΔS application",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Gibbs Free Energy"
+  ],
+  "prerequisites_descriptions": {
+    "Gibbs Free Energy": "ΔG = ΔH − TΔS; spontaneity; equilibrium condition ΔG = 0"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Gibbs Free Energy",
+    "Thermochemistry",
+    "Enthalpy Changes",
+    "Thermodynamic Systems and Processes"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

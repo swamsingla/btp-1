@@ -1,0 +1,50 @@
+{
+  "concept_slug": "classification-of-organisms",
+  "canonical_name": "Classification of Living Organisms",
+  "subject": "science",
+  "grade": 9,
+  "area": "Diversity of Life",
+  "description": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Diversity of Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Diversity of Organisms": "Plants and animals around us; variety of habitats"
+  },
+  "successors_to_link": [
+    "Five-Kingdom Classification",
+    "Binomial Nomenclature",
+    "Speciation",
+    "Biodiversity",
+    "Microorganisms"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Diversity of Organisms",
+    "Five-Kingdom Classification",
+    "Binomial Nomenclature",
+    "Speciation",
+    "Biodiversity",
+    "Microorganisms",
+    "Plant Kingdom",
+    "Animal Kingdom"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

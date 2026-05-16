@@ -1,0 +1,38 @@
+{
+  "concept_slug": "le-chateliers-principle",
+  "canonical_name": "Le Chatelier's Principle",
+  "subject": "science",
+  "grade": 11,
+  "area": "Chemical Reactions",
+  "description": "Effect of concentration, temperature, pressure on equilibrium position",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nIn chemistry, Le Chatelier's principle is a principle used to predict the effect of a change in conditions on chemical equilibrium. Other names include Chatelier's principle, Braun–Le Chatelier principle, Le Chatelier–Braun principle or the equilibrium law.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Chemical Equilibrium"
+  ],
+  "prerequisites_descriptions": {
+    "Chemical Equilibrium": "Reversible reactions; equilibrium constant Kc, Kp; Le Chatelier's principle"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Chemical Equilibrium",
+    "Oxidation and Reduction",
+    "Redox Reactions — Balancing",
+    "Inorganic Qualitative Analysis"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

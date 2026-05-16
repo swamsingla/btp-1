@@ -1,0 +1,43 @@
+{
+  "concept_slug": "centripetal-force",
+  "canonical_name": "Centripetal Force",
+  "subject": "science",
+  "grade": 9,
+  "area": "Mechanics",
+  "description": "F = mv²/r; banking of roads; conical pendulum; vertical circular motion",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Uniform Circular Motion",
+    "Newton's Second Law of Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Uniform Circular Motion": "Motion in a circle at constant speed; centripetal acceleration",
+    "Newton's Second Law of Motion": "F = ma; net force equals mass times acceleration"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Uniform Circular Motion",
+    "Newton's Second Law of Motion",
+    "Rest and Motion",
+    "Distance and Displacement",
+    "Speed and Velocity",
+    "Acceleration",
+    "Equations of Motion",
+    "Distance-Time and Velocity-Time Graphs",
+    "Force — Concept"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

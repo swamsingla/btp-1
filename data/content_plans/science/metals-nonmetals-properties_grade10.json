@@ -1,0 +1,43 @@
+{
+  "concept_slug": "metals-nonmetals-properties",
+  "canonical_name": "Properties of Metals and Non-metals",
+  "subject": "science",
+  "grade": 10,
+  "area": "Periodic Classification",
+  "description": "Physical and chemical properties; malleability, ductility, conductivity",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Matter and Its Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Matter and Its Properties": "Anything that has mass and occupies space"
+  },
+  "successors_to_link": [
+    "Ionic Bonding",
+    "Reactivity Series"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Matter and Its Properties",
+    "Ionic Bonding",
+    "Reactivity Series",
+    "Early Attempts at Classification",
+    "Mendeleev's Periodic Table",
+    "Modern Periodic Table"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

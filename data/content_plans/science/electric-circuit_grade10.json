@@ -1,0 +1,43 @@
+{
+  "concept_slug": "electric-circuit",
+  "canonical_name": "Electric Circuit",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "Open and closed circuits; circuit diagrams; symbols",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Electric Current"
+  ],
+  "prerequisites_descriptions": {
+    "Electric Current": "Flow of charge; I = Q/t; ammeter; direction of current"
+  },
+  "successors_to_link": [
+    "Solenoid and Electromagnet"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electric Current",
+    "Solenoid and Electromagnet",
+    "Electric Charge",
+    "Electric Potential and Potential Difference",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Heating Effect of Electric Current",
+    "Electric Power and Energy",
+    "Magnetic Field and Field Lines"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

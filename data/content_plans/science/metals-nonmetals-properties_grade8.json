@@ -1,0 +1,39 @@
+{
+  "concept_slug": "metals-nonmetals-properties",
+  "canonical_name": "Properties of Metals and Non-metals",
+  "subject": "science",
+  "grade": 8,
+  "area": "Periodic Classification",
+  "description": "Physical and chemical properties; malleability, ductility, conductivity",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Matter and Its Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Matter and Its Properties": "Anything that has mass and occupies space"
+  },
+  "successors_to_link": [
+    "Ionic Bonding",
+    "Reactivity Series"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Matter and Its Properties",
+    "Ionic Bonding",
+    "Reactivity Series"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

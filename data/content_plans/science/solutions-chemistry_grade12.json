@@ -1,0 +1,50 @@
+{
+  "concept_slug": "solutions-chemistry",
+  "canonical_name": "Solutions",
+  "subject": "science",
+  "grade": 12,
+  "area": "Solutions",
+  "description": "Solute, solvent, solution; concentration; saturated and unsaturated",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch12 — Introduction]\nIn earlier classes, we have discussed systems of linear\nequations and their applications in day to day problems. In\nClass XI, we have studied linear inequalities and systems\nof linear inequalities in two variables and their solutions by\ngraphical method. Many applications in mathematics\ninvolve systems of inequalities/equations. In this chapter,\nwe shall apply the systems of linear inequalities/equations\nto solve some real life problems of the type as given below:\nA furniture dealer deals in only two items–tables and\nchairs. He has Rs 50,000 to invest and has storage space\nof at most 60 pieces. A table costs Rs 2500 and a chair\nRs 500. He estimates that from the sale of one table, he\ncan make a profit of Rs 250 and that from the sale of one\nchair a profit of Rs 75. He wants to know how many tables and chairs he should buy\nfrom the available money so as to maximise his total profit, assuming that he can sell all\nthe items which he buys.\nSuch type of problems which seek to maximise (or, \n\n[NCERT Grade12 Ch9 — Introduction]\nIn Class XI and in Chapter 5 of the present book, we\ndiscussed how to differentiate a given function f with respect\nto an independent variable, i.e., how to find f ′(x) for a given\nfunction f at each x in its domain of definition. Further, in\nthe chapter on Integral Calculus, we discussed  how to find\na function f whose derivative is the function g, which may\nalso be formulated as follows:\nFor a given function g, find a function f such that\ndy\ndx  = g(x), where y = f(x)                   ... (1)\nAn equation of the form (1) is known as a differential\nequation. A formal definition will be given later.\nThese equations arise in a variety of applications, may it be in Physics, Chemistry,\nBiology, Anthropology, Geology,  Economics etc. Hence, an indepth study of differential\nequations has assumed prime importance in all modern scientific investigations.\nIn this chapter, we will study some basic concepts related to differential equation,\ngeneral and particular solutions of a differential equa\n\n[NCERT Grade12 Ch9 — Degree of a differential equation]\nTo study the degree of a differential equation, the key point is that the differential\nequation must be a polynomial equation in derivatives, i.e., y′, y″, y″′ etc. Consider the\nfollowing differential equations:\nd y\nd y\ndy\ny\ndx\ndx\ndx\n\n\n+\n−\n+\n\n\n\n\n= 0\n... (9)\nsin\ndy\ndy\ny\ndx\ndx\n\n\n\n\n+\n−\n\n\n\n\n\n\n\n\n= 0\n... (10)\nsin\ndy\ndy\ndx\ndx\n\n\n+\n\n\n\n = 0\n... (11)\nWe observe that equation (9) is a polynomial equation in y″′,  y″ and y′, equation (10)\nis a polynomial equation in y′ (not a polynomial in y though). Degree of such differential\nequations can be defined. But equation (11) is not a polynomial equation in y′ and\ndegree of such a differential equation can not be defined.\nBy the degree of a differential equation, when it is a polynomial equation in\nderivatives, we mean the highest power (positive integral index) of the highest order\nderivative involved in the given differential equation.\nIn view of the above definition, one may observe that differential equations (6), (7),\n(8) an\n\n[NCERT Grade12 Ch9 — Differential equations with variables separable]\nA first order-first degree differential equation is of the form\ndy\ndx  = F(x, y)\n... (1)\nReprint 2025-26\nDIFFERENTIAL EQUATIONS\nIf F(x, y) can be expressed as a product g (x) h(y), where, g(x) is a function of x\nand h(y) is a function of y, then the differential equation (1) is said to be of variable\nseparable type. The differential equation (1) then has the form\ndy\ndx  = h (y) . g(x)\n... (2)\nIf h(y) ≠ 0, separating the variables, (2) can be rewritten as\n( )\nh y  dy = g(x) dx\n... (3)\nIntegrating both sides of (3), we get\n( ) dy\nh y\n∫\n=\n( )\ng x dx\n∫\n... (4)\nThus, (4) provides the solutions of given differential equation in the form\nH(y) = G(x) + C\nHere, H (y) and G (x) are the anti derivatives of\n( )\nh y  and g(x) respectively and\nC is the arbitrary constant.\nExample 4 Find the general solution of the differential equation\ndy\nx\ndx\ny\n+\n=\n−\n, (y ≠ 2)\nSolution We have\ndy\ndx  =\nx\ny\n+\n−\n... (1)\nSeparating the variables in equation (1), we get\n(2 – y) dy = (x + 1) dx\n... (2)\nIntegrating both \n\n[NCERT Grade12 Ch9 — Linear differential equations]\nA differential equation of the from\nP\ndy\ny\ndx +\n= Q\nwhere, P and Q are constants or functions of x only, is known as a first order linear\ndifferential equation. Some examples of the first order linear differential equation are\ndy\ny\ndx +\n= sin x\ndy\ny\ndx\nx\n\n\n+ \n\n\n\n= ex\nlog\ndy\ny\ndx\nx\nx\n\n\n+ \n\n\n\n= 1\nx\nAnother form of first order linear differential equation is\n1P\ndx\nx\ndy\n+\n= Q1\nwhere, P1 and Q1 are constants or functions of y only. Some examples of this type of\ndifferential equation are\ndx\nx\ndy +\n= cos y\ndx\nx\ndy\ny\n−\n+\n= y2e – y\nTo solve the first order linear differential equation of the type\nP\ndy\ny\ndx +\n= Q\n... (1)\nMultiply both sides of the equation by a function of x say g (x) to get\ng(x) dy\ndx  + P.(g(x)) y = Q . g (x)\n... (2)\nReprint 2025-26\nDIFFERENTIAL EQUATIONS\nChoose g (x) in such a way that R.H.S. becomes a derivative of y . g (x).\ni.e.\ng(x) dy\ndx  + P. g(x) y = d\ndx  [y .g (x)]\nor\ng(x) dy\ndx  + P. g(x) y = g(x) dy\ndx  + y g′ (x)\n⇒\nP. g(x) = g′ (x)\nor\nP =\n( )\n( )\ng\nx\ng",
+  "context_sources": [
+    "ncert:grade12/science/ch12",
+    "ncert:grade12/science/ch9",
+    "ncert:grade12/science/ch9",
+    "ncert:grade12/science/ch9",
+    "ncert:grade12/science/ch9"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mixtures — Types and Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Mixtures — Types and Properties": "Homogeneous and heterogeneous mixtures; solutions, suspensions, colloids"
+  },
+  "successors_to_link": [
+    "Concentration of Solutions",
+    "pH Scale",
+    "Solubility and Factors Affecting It"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Mixtures — Types and Properties",
+    "Concentration of Solutions",
+    "pH Scale",
+    "Solubility and Factors Affecting It",
+    "Colligative Properties",
+    "Raoult's Law"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

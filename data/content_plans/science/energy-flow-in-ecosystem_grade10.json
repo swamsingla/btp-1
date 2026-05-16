@@ -1,0 +1,51 @@
+{
+  "concept_slug": "energy-flow-in-ecosystem",
+  "canonical_name": "Energy Flow in an Ecosystem",
+  "subject": "science",
+  "grade": 10,
+  "area": "Ecology",
+  "description": "10% rule; ecological pyramids: numbers, biomass, energy",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Food Chains and Food Webs",
+    "Photosynthesis",
+    "Cellular Respiration"
+  ],
+  "prerequisites_descriptions": {
+    "Food Chains and Food Webs": "Producers, consumers, decomposers; trophic levels; food web",
+    "Photosynthesis": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; light and dark reactions; chlorophyll",
+    "Cellular Respiration": "Glycolysis → Krebs cycle → ETC; aerobic vs anaerobic; ATP"
+  },
+  "successors_to_link": [
+    "Ecosystem Services"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Food Chains and Food Webs",
+    "Photosynthesis",
+    "Cellular Respiration",
+    "Ecosystem Services",
+    "Ecosystem — Concept",
+    "Biogeochemical Cycles",
+    "Carbon Cycle",
+    "Biodiversity",
+    "Biodiversity Conservation",
+    "Natural Resources and Management",
+    "Sustainable Development"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

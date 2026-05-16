@@ -1,0 +1,45 @@
+{
+  "concept_slug": "biodiversity",
+  "canonical_name": "Biodiversity",
+  "subject": "science",
+  "grade": 12,
+  "area": "Ecology",
+  "description": "Genetic, species, ecosystem diversity; hotspots; importance",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nBiodiversity is the variability of life on Earth. It can be measured on various levels, for example, genetic variability, species diversity, ecosystem diversity and phylogenetic diversity. Diversity is not distributed evenly on Earth—it is greater in the tropics as a result of the warm climate and high primary productivity in the region near the equator. Tropical forest ecosystems cover less than one-fifth of Earth's terrestrial area and contain about 50% of the world's species. There are latitudinal gradients in species diversity for both marine and terrestrial taxa.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Classification of Living Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Classification of Living Organisms": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species"
+  },
+  "successors_to_link": [
+    "Biodiversity Conservation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Classification of Living Organisms",
+    "Biodiversity Conservation",
+    "Energy Flow in an Ecosystem",
+    "Environmental Issues",
+    "Ecosystem Services",
+    "Ecological Succession",
+    "Population Interactions",
+    "Organisms and Their Environment",
+    "Population Attributes and Growth Models"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

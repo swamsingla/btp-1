@@ -1,0 +1,45 @@
+{
+  "concept_slug": "electrochemical-cells",
+  "canonical_name": "Electrochemical Cells",
+  "subject": "science",
+  "grade": 12,
+  "area": "Electrochemistry",
+  "description": "Galvanic vs electrolytic cells; salt bridge; cell notation",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Electrolysis",
+    "Oxidation and Reduction"
+  ],
+  "prerequisites_descriptions": {
+    "Electrolysis": "Electrolysis of water, brine; electroplating; Faraday's laws",
+    "Oxidation and Reduction": "Loss/gain of electrons; oxidation number; redox reactions"
+  },
+  "successors_to_link": [
+    "Electrode Potential",
+    "Batteries and Fuel Cells"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electrolysis",
+    "Oxidation and Reduction",
+    "Electrode Potential",
+    "Batteries and Fuel Cells",
+    "Faraday's Laws of Electrolysis",
+    "Corrosion — Electrochemical View"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

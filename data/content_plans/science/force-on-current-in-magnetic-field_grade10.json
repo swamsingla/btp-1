@@ -1,0 +1,44 @@
+{
+  "concept_slug": "force-on-current-in-magnetic-field",
+  "canonical_name": "Force on Current-Carrying Conductor in Magnetic Field",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "F = BIl sinθ; Fleming's left-hand rule",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Magnetic Effect of Electric Current"
+  ],
+  "prerequisites_descriptions": {
+    "Magnetic Effect of Electric Current": "Oersted's experiment; field due to straight conductor; right-hand thumb rule"
+  },
+  "successors_to_link": [
+    "Electric Motor"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Magnetic Effect of Electric Current",
+    "Electric Motor",
+    "Electric Charge",
+    "Electric Potential and Potential Difference",
+    "Electric Current",
+    "Electric Circuit",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Heating Effect of Electric Current",
+    "Electric Power and Energy"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

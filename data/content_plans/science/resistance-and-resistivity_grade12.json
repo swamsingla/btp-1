@@ -1,0 +1,48 @@
+{
+  "concept_slug": "resistance-and-resistivity",
+  "canonical_name": "Resistance and Resistivity",
+  "subject": "science",
+  "grade": 12,
+  "area": "Electricity and Magnetism",
+  "description": "Factors affecting resistance; R = ρl/A; series and parallel resistors",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nElectrical resistivity is a fundamental specific property of a material that measures its electrical resistance or how strongly it resists electric current. A low resistivity indicates a material that readily allows electric current. Resistivity is commonly represented by the Greek letter ρ (rho). The SI unit of electrical resistivity is the ohm-metre (Ω⋅m). For example, if a 1 m3 solid cube of material has sheet contacts on two opposite faces, and the resistance between these contacts is 1 Ω, then the resistivity of the material is 1 Ω⋅m.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Ohm's Law"
+  ],
+  "prerequisites_descriptions": {
+    "Ohm's Law": "V = IR; resistance; V-I characteristics"
+  },
+  "successors_to_link": [
+    "Heating Effect of Electric Current",
+    "Kirchhoff's Laws"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Ohm's Law",
+    "Heating Effect of Electric Current",
+    "Kirchhoff's Laws",
+    "Electric Charge",
+    "Coulomb's Law",
+    "Electric Field",
+    "Electric Potential and Potential Difference",
+    "Capacitance and Capacitors",
+    "EMF and Internal Resistance"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

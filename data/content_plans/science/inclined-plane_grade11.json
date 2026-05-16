@@ -1,0 +1,44 @@
+{
+  "concept_slug": "inclined-plane",
+  "canonical_name": "Motion on an Inclined Plane",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Component of gravity along and perpendicular to plane; acceleration on incline",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Free Body Diagrams",
+    "Friction"
+  ],
+  "prerequisites_descriptions": {
+    "Free Body Diagrams": "Drawing all forces acting on a body; resolving forces; equilibrium problems",
+    "Friction": "Static, sliding, rolling friction; factors affecting friction; advantages and disadvantages"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Free Body Diagrams",
+    "Friction",
+    "Uniform Circular Motion",
+    "Scalars and Vectors",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,46 @@
+{
+  "concept_slug": "semiconductor-basics",
+  "canonical_name": "Semiconductors — Basics",
+  "subject": "science",
+  "grade": 12,
+  "area": "Modern Physics",
+  "description": "Intrinsic and extrinsic semiconductors; n-type and p-type; band theory",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch2 — Basic Concepts]\nIn Class XI, we have studied trigonometric functions, which are defined as follows:\nsine function, i.e., sine : R → [– 1, 1]\ncosine function, i.e., cos : R → [– 1, 1]\ntangent function, i.e., tan : R – { x : x = (2n + 1) 2\nπ , n ∈ Z} → R\ncotangent function, i.e., cot : R – { x : x = nπ, n ∈ Z} → R\nsecant function, i.e., sec : R – { x : x = (2n + 1) 2\nπ , n ∈ Z} → R – (– 1, 1)\ncosecant function, i.e., cosec : R – { x : x = nπ,  n ∈ Z} → R – (– 1, 1)\nReprint 2025-26\nINVERSE TRIGONOMETRIC FUNCTIONS     19\nWe have also learnt in Chapter 1 that if f : X→Y such that f (x) = y is one-one and\nonto, then we can define a unique function g : Y→X such that g(y) = x, where x ∈ X\nand y = f (x), y ∈ Y. Here, the domain of g = range of f and the range of g =  domain\nof f. The function g is called the inverse of f and is denoted by f –1. Further, g is also\none-one and onto and inverse of g is f. Thus, g–1 = (f –1)–1 = f. We also have\n(f –1 o f ) (x) = f –1 (f (x)) = f –1(y) = x\nand\n(f o f –1) (y) = f (f\n\n[NCERT Grade12 Ch9 — Basic Concepts]\nWe are already familiar with the equations of the type:\nx2 – 3x + 3 = 0\n... (1)\nsin x + cos x = 0\n... (2)\nx + y = 7\n... (3)\nReprint 2025-26\nDIFFERENTIAL EQUATIONS\nLet us consider the equation:\ndy\nx\ny\ndx +\n= 0\n... (4)\nWe see that equations (1), (2) and (3) involve independent and/or dependent variable\n(variables) only but equation (4) involves variables as well as derivative of the dependent\nvariable y with respect to the independent variable x. Such an equation is called a\ndifferential equation.\nIn general, an equation involving  derivative (derivatives) of the dependent variable\nwith respect to independent variable (variables) is called a differential equation.\nA differential equation involving derivatives of the dependent variable with respect\nto only one independent variable is called an ordinary differential equation, e.g.,\n2 d y\ndy\ndx\ndx\n\n\n+ \n\n\n\n= 0  is an ordinary differential equation\n.... (5)\nOf course, there are differential equations involving derivatives with respect t",
+  "context_sources": [
+    "ncert:grade12/science/ch2",
+    "ncert:grade12/science/ch9"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Band Theory of Solids"
+  ],
+  "prerequisites_descriptions": {
+    "Band Theory of Solids": "Valence and conduction bands; conductors, semiconductors, insulators"
+  },
+  "successors_to_link": [
+    "p-n Junction Diode"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Band Theory of Solids",
+    "p-n Junction Diode",
+    "Atomic Models (Physics)",
+    "Bohr's Model of Hydrogen Atom",
+    "Photoelectric Effect",
+    "Dual Nature of Matter and Radiation",
+    "Nuclear Structure",
+    "Radioactivity",
+    "Nuclear Fission and Fusion"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

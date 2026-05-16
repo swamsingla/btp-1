@@ -1,0 +1,48 @@
+{
+  "concept_slug": "scalars-and-vectors",
+  "canonical_name": "Scalars and Vectors",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Scalar vs vector quantities; vector addition; triangle and parallelogram laws",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Distance and Displacement"
+  ],
+  "prerequisites_descriptions": {
+    "Distance and Displacement": "Scalar (distance) vs vector (displacement); path length vs shortest path"
+  },
+  "successors_to_link": [
+    "Resolution of Vectors",
+    "Relative Motion",
+    "Centre of Mass"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Distance and Displacement",
+    "Resolution of Vectors",
+    "Relative Motion",
+    "Centre of Mass",
+    "Uniform Circular Motion",
+    "Projectile Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum",
+    "Newton's Third Law of Motion"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

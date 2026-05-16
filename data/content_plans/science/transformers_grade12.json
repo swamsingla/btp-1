@@ -1,0 +1,46 @@
+{
+  "concept_slug": "transformers",
+  "canonical_name": "Transformers",
+  "subject": "science",
+  "grade": 12,
+  "area": "Electricity and Magnetism",
+  "description": "Step-up and step-down; Vₛ/Vₚ = Nₛ/Nₚ; power transmission",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nTransformers is a mecha media franchise produced by American toy company Hasbro and Japanese toy company Takara Tomy. It primarily follows the heroic Autobots and the villainous Decepticons, two alien robot factions at war that can transform into other forms, such as vehicles and animals. The franchise encompasses toys, animation, comic books, video games and films. As of 2011, it generated more than ¥2 trillion in revenue, making it one of the highest-grossing media franchises of all time.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Alternating Current",
+    "Solenoid and Electromagnet"
+  ],
+  "prerequisites_descriptions": {
+    "Alternating Current": "AC vs DC; peak and rms values; AC circuits with R, L, C",
+    "Solenoid and Electromagnet": "Field inside solenoid; electromagnet; applications: bell, crane"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Alternating Current",
+    "Solenoid and Electromagnet",
+    "Electric Charge",
+    "Coulomb's Law",
+    "Electric Field",
+    "Electric Potential and Potential Difference",
+    "Capacitance and Capacitors",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Kirchhoff's Laws"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

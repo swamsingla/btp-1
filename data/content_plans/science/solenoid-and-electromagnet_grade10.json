@@ -1,0 +1,48 @@
+{
+  "concept_slug": "solenoid-and-electromagnet",
+  "canonical_name": "Solenoid and Electromagnet",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "Field inside solenoid; electromagnet; applications: bell, crane",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Magnetic Effect of Electric Current",
+    "Electric Circuit"
+  ],
+  "prerequisites_descriptions": {
+    "Magnetic Effect of Electric Current": "Oersted's experiment; field due to straight conductor; right-hand thumb rule",
+    "Electric Circuit": "Open and closed circuits; circuit diagrams; symbols"
+  },
+  "successors_to_link": [
+    "Transformers"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Magnetic Effect of Electric Current",
+    "Electric Circuit",
+    "Transformers",
+    "Electric Charge",
+    "Electric Potential and Potential Difference",
+    "Electric Current",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Heating Effect of Electric Current",
+    "Electric Power and Energy"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

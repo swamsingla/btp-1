@@ -1,0 +1,45 @@
+{
+  "concept_slug": "biodiversity",
+  "canonical_name": "Biodiversity",
+  "subject": "science",
+  "grade": 10,
+  "area": "Ecology",
+  "description": "Genetic, species, ecosystem diversity; hotspots; importance",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nBiodiversity is the variability of life on Earth. It can be measured on various levels, for example, genetic variability, species diversity, ecosystem diversity and phylogenetic diversity. Diversity is not distributed evenly on Earth—it is greater in the tropics as a result of the warm climate and high primary productivity in the region near the equator. Tropical forest ecosystems cover less than one-fifth of Earth's terrestrial area and contain about 50% of the world's species. There are latitudinal gradients in species diversity for both marine and terrestrial taxa.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Classification of Living Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Classification of Living Organisms": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species"
+  },
+  "successors_to_link": [
+    "Biodiversity Conservation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Classification of Living Organisms",
+    "Biodiversity Conservation",
+    "Ecosystem — Concept",
+    "Food Chains and Food Webs",
+    "Energy Flow in an Ecosystem",
+    "Biogeochemical Cycles",
+    "Carbon Cycle",
+    "Natural Resources and Management",
+    "Sustainable Development"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

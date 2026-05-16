@@ -1,0 +1,42 @@
+{
+  "concept_slug": "reproductive-health",
+  "canonical_name": "Reproductive Health",
+  "subject": "science",
+  "grade": 10,
+  "area": "Reproduction",
+  "description": "Family planning; contraception; STIs; infertility; ART",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Human Reproductive System",
+    "Menstrual Cycle"
+  ],
+  "prerequisites_descriptions": {
+    "Human Reproductive System": "Male and female reproductive organs; gametogenesis",
+    "Menstrual Cycle": "Phases; hormonal control; ovulation"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Human Reproductive System",
+    "Menstrual Cycle",
+    "Asexual Reproduction in Plants",
+    "Flower Structure and Function",
+    "Seed Formation and Dispersal",
+    "Asexual Reproduction",
+    "Sexual Reproduction — Overview",
+    "Fertilisation and Embryonic Development"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

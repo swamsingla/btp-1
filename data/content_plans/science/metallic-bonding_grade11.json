@@ -1,0 +1,39 @@
+{
+  "concept_slug": "metallic-bonding",
+  "canonical_name": "Metallic Bonding",
+  "subject": "science",
+  "grade": 11,
+  "area": "Chemical Bonding",
+  "description": "Sea of electrons model; properties of metals explained",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Chemical Bonding — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Chemical Bonding — Introduction": "Why atoms bond; octet rule; Kossel-Lewis approach"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Chemical Bonding — Introduction",
+    "Ionic Bonding",
+    "Covalent Bonding",
+    "VSEPR Theory",
+    "Hybridisation",
+    "Hydrogen Bonding",
+    "Molecular Orbital Theory"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

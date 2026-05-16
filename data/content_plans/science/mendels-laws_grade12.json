@@ -1,0 +1,49 @@
+{
+  "concept_slug": "mendels-laws",
+  "canonical_name": "Mendel's Laws of Inheritance",
+  "subject": "science",
+  "grade": 12,
+  "area": "Genetics and Evolution",
+  "description": "Law of dominance, segregation, independent assortment; monohybrid and dihybrid crosses",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Heredity and Variation"
+  ],
+  "prerequisites_descriptions": {
+    "Heredity and Variation": "Inherited vs acquired traits; role of DNA"
+  },
+  "successors_to_link": [
+    "Sex Determination",
+    "Genetic Disorders",
+    "Applications of Biotechnology",
+    "Strategies for Enhancement in Food Production"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Heredity and Variation",
+    "Sex Determination",
+    "Genetic Disorders",
+    "Applications of Biotechnology",
+    "Strategies for Enhancement in Food Production",
+    "DNA Structure and Replication",
+    "Transcription",
+    "Translation",
+    "Regulation of Gene Expression",
+    "Molecular Basis of Inheritance"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

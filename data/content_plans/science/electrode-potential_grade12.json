@@ -1,0 +1,42 @@
+{
+  "concept_slug": "electrode-potential",
+  "canonical_name": "Electrode Potential",
+  "subject": "science",
+  "grade": 12,
+  "area": "Electrochemistry",
+  "description": "Standard electrode potential; electrochemical series; Nernst equation",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Electrochemical Cells"
+  ],
+  "prerequisites_descriptions": {
+    "Electrochemical Cells": "Galvanic vs electrolytic cells; salt bridge; cell notation"
+  },
+  "successors_to_link": [
+    "Batteries and Fuel Cells",
+    "Corrosion — Electrochemical View"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electrochemical Cells",
+    "Batteries and Fuel Cells",
+    "Corrosion — Electrochemical View",
+    "Electrolysis",
+    "Faraday's Laws of Electrolysis"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

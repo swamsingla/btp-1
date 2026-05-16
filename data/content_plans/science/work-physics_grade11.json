@@ -1,0 +1,61 @@
+{
+  "concept_slug": "work-physics",
+  "canonical_name": "Work (Physics)",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "W = F·d·cosθ; positive, negative and zero work",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Force — Concept",
+    "Distance and Displacement"
+  ],
+  "prerequisites_descriptions": {
+    "Force — Concept": "Push or pull; contact and non-contact forces; effects of force",
+    "Distance and Displacement": "Scalar (distance) vs vector (displacement); path length vs shortest path"
+  },
+  "successors_to_link": [
+    "Kinetic Energy",
+    "Potential Energy",
+    "Power",
+    "Gravitational Potential Energy",
+    "Electric Potential and Potential Difference",
+    "Work-Energy Theorem"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Force — Concept",
+    "Distance and Displacement",
+    "Kinetic Energy",
+    "Potential Energy",
+    "Power",
+    "Gravitational Potential Energy",
+    "Electric Potential and Potential Difference",
+    "Work-Energy Theorem",
+    "Uniform Circular Motion",
+    "Scalars and Vectors",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,45 @@
+{
+  "concept_slug": "translation-biology",
+  "canonical_name": "Translation",
+  "subject": "science",
+  "grade": 12,
+  "area": "Genetics and Evolution",
+  "description": "mRNA → protein; codons; tRNA; ribosome; genetic code",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nTranslation, in reference to language, is the communication of the meaning of a source-language text by means of an equivalent target-language text. The English language draws a terminological distinction between translating written texts and interpreting oral or signed communications between languages.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Transcription",
+    "Proteins — Structure and Function"
+  ],
+  "prerequisites_descriptions": {
+    "Transcription": "DNA → mRNA; RNA polymerase; promoter; terminator; processing",
+    "Proteins — Structure and Function": "Amino acids; peptide bonds; primary to quaternary structure"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Transcription",
+    "Proteins — Structure and Function",
+    "Heredity and Variation",
+    "Mendel's Laws of Inheritance",
+    "Sex Determination",
+    "DNA Structure and Replication",
+    "Regulation of Gene Expression",
+    "Genetic Disorders",
+    "Molecular Basis of Inheritance"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

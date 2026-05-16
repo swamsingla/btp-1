@@ -1,0 +1,47 @@
+{
+  "concept_slug": "flower-structure",
+  "canonical_name": "Flower Structure and Function",
+  "subject": "science",
+  "grade": 12,
+  "area": "Reproduction",
+  "description": "Sepals, petals, stamens, carpels; pollination; self and cross pollination",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Parts of a Plant"
+  ],
+  "prerequisites_descriptions": {
+    "Parts of a Plant": "Root, stem, leaf, flower, fruit, seed; functions"
+  },
+  "successors_to_link": [
+    "Seed Formation and Dispersal",
+    "Pollination and Fertilisation in Plants"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Parts of a Plant",
+    "Seed Formation and Dispersal",
+    "Pollination and Fertilisation in Plants",
+    "Asexual Reproduction",
+    "Sexual Reproduction — Overview",
+    "Human Reproductive System",
+    "Menstrual Cycle",
+    "Fertilisation and Embryonic Development",
+    "Reproductive Health",
+    "Reproduction in Animals"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

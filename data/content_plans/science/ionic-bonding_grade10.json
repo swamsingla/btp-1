@@ -1,0 +1,44 @@
+{
+  "concept_slug": "ionic-bonding",
+  "canonical_name": "Ionic Bonding",
+  "subject": "science",
+  "grade": 10,
+  "area": "Chemical Bonding",
+  "description": "Transfer of electrons; formation of ions; properties of ionic compounds",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Chemical Bonding — Introduction",
+    "Properties of Metals and Non-metals"
+  ],
+  "prerequisites_descriptions": {
+    "Chemical Bonding — Introduction": "Why atoms bond; octet rule; Kossel-Lewis approach",
+    "Properties of Metals and Non-metals": "Physical and chemical properties; malleability, ductility, conductivity"
+  },
+  "successors_to_link": [
+    "Electrolysis",
+    "Inorganic Qualitative Analysis"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Chemical Bonding — Introduction",
+    "Properties of Metals and Non-metals",
+    "Electrolysis",
+    "Inorganic Qualitative Analysis",
+    "Covalent Bonding"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,55 @@
+{
+  "concept_slug": "endocrine-system",
+  "canonical_name": "Endocrine System",
+  "subject": "science",
+  "grade": 10,
+  "area": "Human Physiology",
+  "description": "Glands: pituitary, thyroid, adrenal, pancreas; hormones and their functions",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Nervous System",
+    "Blood — Composition and Functions"
+  ],
+  "prerequisites_descriptions": {
+    "Nervous System": "CNS and PNS; neuron structure; reflex arc; synapse",
+    "Blood — Composition and Functions": "RBC, WBC, platelets, plasma; blood groups; coagulation"
+  },
+  "successors_to_link": [
+    "Hormones and Feedback Mechanisms",
+    "Human Reproductive System",
+    "Control and Coordination in Animals",
+    "Chemical Coordination and Integration"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Nervous System",
+    "Blood — Composition and Functions",
+    "Hormones and Feedback Mechanisms",
+    "Human Reproductive System",
+    "Control and Coordination in Animals",
+    "Chemical Coordination and Integration",
+    "Human Respiratory System",
+    "Cellular Respiration",
+    "Human Circulatory System",
+    "Human Excretory System",
+    "Reflex Actions",
+    "Breathing and Gas Exchange"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,48 @@
+{
+  "concept_slug": "mendels-laws",
+  "canonical_name": "Mendel's Laws of Inheritance",
+  "subject": "science",
+  "grade": 10,
+  "area": "Genetics and Evolution",
+  "description": "Law of dominance, segregation, independent assortment; monohybrid and dihybrid crosses",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Heredity and Variation"
+  ],
+  "prerequisites_descriptions": {
+    "Heredity and Variation": "Inherited vs acquired traits; role of DNA"
+  },
+  "successors_to_link": [
+    "Sex Determination",
+    "Genetic Disorders",
+    "Applications of Biotechnology",
+    "Strategies for Enhancement in Food Production"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Heredity and Variation",
+    "Sex Determination",
+    "Genetic Disorders",
+    "Applications of Biotechnology",
+    "Strategies for Enhancement in Food Production",
+    "Origin of Life",
+    "Evidence of Evolution",
+    "Darwin's Theory of Natural Selection",
+    "Speciation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

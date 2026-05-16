@@ -1,0 +1,43 @@
+{
+  "concept_slug": "speciation",
+  "canonical_name": "Speciation",
+  "subject": "science",
+  "grade": 10,
+  "area": "Genetics and Evolution",
+  "description": "Geographical and reproductive isolation; allopatric and sympatric speciation",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nSpeciation is the evolutionary process by which populations evolve to become distinct species. The biologist Orator F. Cook coined the term in 1906 for cladogenesis, the splitting of lineages, as opposed to anagenesis, phyletic evolution within lineages. Charles Darwin was the first to describe the role of natural selection in speciation in his 1859 book On the Origin of Species. He also identified sexual selection as a likely mechanism, but found it problematic.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Darwin's Theory of Natural Selection",
+    "Classification of Living Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Darwin's Theory of Natural Selection": "Variation, struggle for existence, survival of the fittest; speciation",
+    "Classification of Living Organisms": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Darwin's Theory of Natural Selection",
+    "Classification of Living Organisms",
+    "Heredity and Variation",
+    "Mendel's Laws of Inheritance",
+    "Sex Determination",
+    "Origin of Life",
+    "Evidence of Evolution"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

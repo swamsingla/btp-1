@@ -1,0 +1,40 @@
+{
+  "concept_slug": "evidence-of-evolution",
+  "canonical_name": "Evidence of Evolution",
+  "subject": "science",
+  "grade": 10,
+  "area": "Genetics and Evolution",
+  "description": "Fossils; homologous and analogous organs; vestigial organs; embryology",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Origin of Life"
+  ],
+  "prerequisites_descriptions": {
+    "Origin of Life": "Oparin-Haldane hypothesis; Miller-Urey experiment; chemical evolution"
+  },
+  "successors_to_link": [
+    "Darwin's Theory of Natural Selection"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Origin of Life",
+    "Darwin's Theory of Natural Selection",
+    "Heredity and Variation",
+    "Mendel's Laws of Inheritance",
+    "Sex Determination",
+    "Speciation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

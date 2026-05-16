@@ -1,0 +1,56 @@
+{
+  "concept_slug": "mole-concept",
+  "canonical_name": "Mole Concept",
+  "subject": "science",
+  "grade": 11,
+  "area": "Atomic Structure",
+  "description": "Avogadro's number; molar mass; mole as counting unit",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Atoms and Molecules",
+    "Dalton's Atomic Theory"
+  ],
+  "prerequisites_descriptions": {
+    "Atoms and Molecules": "Dalton's atomic theory; atom as smallest particle of element; molecule",
+    "Dalton's Atomic Theory": "Atoms are indivisible; atoms of same element are identical; compounds in fixed ratios"
+  },
+  "successors_to_link": [
+    "Concentration of Solutions",
+    "Colligative Properties",
+    "Stoichiometry",
+    "Types of Chemical Reactions",
+    "Molecular Formula Calculations",
+    "Faraday's Laws of Electrolysis"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Atoms and Molecules",
+    "Dalton's Atomic Theory",
+    "Concentration of Solutions",
+    "Colligative Properties",
+    "Stoichiometry",
+    "Types of Chemical Reactions",
+    "Molecular Formula Calculations",
+    "Faraday's Laws of Electrolysis",
+    "Electronic Configuration",
+    "Bohr's Atomic Model",
+    "Quantum Mechanical Model"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

@@ -1,0 +1,52 @@
+{
+  "concept_slug": "tissue-types",
+  "canonical_name": "Tissue Types",
+  "subject": "science",
+  "grade": 9,
+  "area": "Cell Biology",
+  "description": "Plant tissues: meristematic, permanent; animal tissues: epithelial, connective, muscular, nervous",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Levels of Organisation"
+  ],
+  "prerequisites_descriptions": {
+    "Levels of Organisation": "Cell → Tissue → Organ → Organ System → Organism"
+  },
+  "successors_to_link": [
+    "Human Respiratory System",
+    "Human Circulatory System",
+    "Skeletal and Muscular System",
+    "Structural Organisation in Animals",
+    "Anatomy of Flowering Plants"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Levels of Organisation",
+    "Human Respiratory System",
+    "Human Circulatory System",
+    "Skeletal and Muscular System",
+    "Structural Organisation in Animals",
+    "Anatomy of Flowering Plants",
+    "Cell — Basic Unit of Life",
+    "Cell Organelles",
+    "Plant Cell vs Animal Cell",
+    "Cell Membrane and Transport"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

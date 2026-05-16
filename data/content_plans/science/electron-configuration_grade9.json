@@ -1,0 +1,60 @@
+{
+  "concept_slug": "electron-configuration",
+  "canonical_name": "Electronic Configuration",
+  "subject": "science",
+  "grade": 9,
+  "area": "Atomic Structure",
+  "description": "Shells and subshells; 2n² rule; Aufbau, Pauli, Hund's rules",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Atomic Number and Mass Number"
+  ],
+  "prerequisites_descriptions": {
+    "Atomic Number and Mass Number": "Z = protons; A = protons + neutrons; isotopes and isobars"
+  },
+  "successors_to_link": [
+    "Valency",
+    "Bohr's Atomic Model",
+    "Modern Periodic Table",
+    "Periodic Properties",
+    "Chemical Bonding — Introduction",
+    "VSEPR Theory",
+    "Reactivity Series",
+    "Carbon and Its Compounds"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Atomic Number and Mass Number",
+    "Valency",
+    "Bohr's Atomic Model",
+    "Modern Periodic Table",
+    "Periodic Properties",
+    "Chemical Bonding — Introduction",
+    "VSEPR Theory",
+    "Reactivity Series",
+    "Carbon and Its Compounds",
+    "Atoms and Molecules",
+    "Mole Concept",
+    "Writing Chemical Formulae",
+    "Dalton's Atomic Theory",
+    "Structure of Atom — Subatomic Particles",
+    "Isotopes and Isobars"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

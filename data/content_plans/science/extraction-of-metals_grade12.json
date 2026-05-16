@@ -1,0 +1,41 @@
+{
+  "concept_slug": "extraction-of-metals",
+  "canonical_name": "Extraction of Metals",
+  "subject": "science",
+  "grade": 12,
+  "area": "Chemical Reactions",
+  "description": "Reduction of ores; roasting, calcination, electrolytic refining",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch7 — Methods of Integration]\nIn previous section, we discussed integrals of those functions which were readily\nobtainable from derivatives of some functions. It was based on inspection, i.e., on the\nsearch of a function F whose derivative is f which led us to the integral of f. However,\nthis method, which depends on inspection, is not very suitable for many functions.\nHence, we need to develop additional techniques or methods for finding the integrals\nby reducing them into standard forms. Prominent among them are methods based on:\n1.\nIntegration by Substitution\n2.\nIntegration using Partial Fractions\n3.\nIntegration by Parts\n7.3.1 Integration by substitution\n\n[NCERT Grade12 Ch8 — Introduction]\nIn geometry, we have learnt formulae to calculate areas\nof various geometrical figures including triangles,\nrectangles, trapezias and circles. Such formulae are\nfundamental in the applications of mathematics to many\nreal life problems. The formulae of elementary geometry\nallow us to calculate areas of many simple figures.\nHowever, they are inadequate for calculating the areas\nenclosed by curves. For that we shall need some concepts\nof Integral Calculus.\nIn the previous chapter, we have studied to find the\narea bounded by the curve y = f (x), the ordinates x = a,\nx = b and x-axis, while calculating definite integral as the\nlimit of a sum. Here, in this chapter, we shall study a specific\napplication of integrals to find the area under simple curves,\narea between lines and arcs of circles, parabolas and\nellipses (standard forms only). We shall also deal with finding\nthe area bounded by the above said curves.\n8.2 Area under Simple Curves\nA.L. Cauchy\n(1789-1857)\n\n[NCERT Grade12 Ch8 — Area under Simple Curves]\nFig 8.1\nIn the previous chapter, we have studied\ndefinite integral as the limit of a sum and\nhow to evaluate definite integral using\nFundamental Theorem of Calculus. Now,\nwe consider the easy and intuitive way of\nfinding the area bounded by the curve\ny = f (x), x-axis and the ordinates x = a and\nx = b. From Fig 8.1, we can think of area\nunder the curve as composed of large\nnumber of very thin vertical strips. Consider\nan arbitrary strip of height y and width dx,\nthen dA (area of the elementary strip)= ydx,\nwhere, y = f (x).\nReprint 2025-26\nAPPLICATION OF INTEGRALS         293\nFig  8.2\nThis area is called the elementary area which is located at an arbitrary position\nwithin the region which is specified by some value of x between a and b. We can think\nof the total area A of the region between x-axis, ordinates x = a, x = b and the curve\ny = f (x) as the result of adding up the elementary areas of thin strips across the region\nPQRSP. Symbolically, we express\nA =\nA\n( )\nb\nb\nb\na\na\na\nd\nydx\nf",
+  "context_sources": [
+    "ncert:grade12/science/ch7",
+    "ncert:grade12/science/ch8",
+    "ncert:grade12/science/ch8"
+  ],
+  "ncert_chunks_found": 3,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Reactivity Series",
+    "Chemical Equations"
+  ],
+  "prerequisites_descriptions": {
+    "Reactivity Series": "Ordering metals by reactivity; displacement reactions; extraction principles",
+    "Chemical Equations": "Writing and balancing chemical equations; symbols used"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Reactivity Series",
+    "Chemical Equations",
+    "Inorganic Qualitative Analysis"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

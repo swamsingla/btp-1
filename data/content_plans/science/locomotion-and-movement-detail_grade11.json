@@ -1,0 +1,40 @@
+{
+  "concept_slug": "locomotion-and-movement-detail",
+  "canonical_name": "Locomotion and Movement — Detail",
+  "subject": "science",
+  "grade": 11,
+  "area": "Human Physiology",
+  "description": "Sliding filament theory; joints; skeletal disorders: arthritis, osteoporosis",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Skeletal and Muscular System"
+  ],
+  "prerequisites_descriptions": {
+    "Skeletal and Muscular System": "Bones, joints, cartilage; skeletal, smooth, cardiac muscle; movement"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Skeletal and Muscular System",
+    "Human Respiratory System",
+    "Cellular Respiration",
+    "Human Circulatory System",
+    "Human Excretory System",
+    "Nervous System",
+    "Endocrine System",
+    "Hormones and Feedback Mechanisms"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

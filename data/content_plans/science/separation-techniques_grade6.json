@@ -1,0 +1,35 @@
+{
+  "concept_slug": "separation-techniques",
+  "canonical_name": "Separation Techniques",
+  "subject": "science",
+  "grade": 6,
+  "area": "Matter and Classification",
+  "description": "Filtration, evaporation, distillation, chromatography, crystallisation; sublimation",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Mixtures — Types and Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Mixtures — Types and Properties": "Homogeneous and heterogeneous mixtures; solutions, suspensions, colloids"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Mixtures — Types and Properties",
+    "Matter and Its Properties",
+    "States of Matter"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

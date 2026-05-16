@@ -1,0 +1,40 @@
+{
+  "concept_slug": "bernoullis-principle",
+  "canonical_name": "Bernoulli's Principle",
+  "subject": "science",
+  "grade": 11,
+  "area": "Fluid Mechanics",
+  "description": "P + ½ρv² + ρgh = constant; applications: Venturi meter, airplane lift",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nBernoulli's principle is a key concept in fluid dynamics that relates pressure, speed and height. For example, for a fluid flowing horizontally, Bernoulli's principle states that an increase in the speed occurs simultaneously with a decrease in pressure. The principle is named after the Swiss mathematician and physicist Daniel Bernoulli, who published it in his book Hydrodynamica in 1738. Although Bernoulli deduced that pressure decreases when the flow speed increases, it was Leonhard Euler in 1752 who derived Bernoulli's equation in its usual form.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Pressure in Fluids",
+    "Conservation of Energy"
+  ],
+  "prerequisites_descriptions": {
+    "Pressure in Fluids": "Pressure in liquids; pressure increases with depth; Pascal's law",
+    "Conservation of Energy": "Energy can neither be created nor destroyed; transformation between forms"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Pressure in Fluids",
+    "Conservation of Energy",
+    "Viscosity",
+    "Surface Tension"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

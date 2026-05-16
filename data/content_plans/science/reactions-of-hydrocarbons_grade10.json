@@ -1,0 +1,43 @@
+{
+  "concept_slug": "reactions-of-hydrocarbons",
+  "canonical_name": "Reactions of Hydrocarbons",
+  "subject": "science",
+  "grade": 10,
+  "area": "Organic Chemistry",
+  "description": "Combustion, addition, substitution reactions; tests for saturation",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Hydrocarbons — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Hydrocarbons — Introduction": "Saturated and unsaturated; alkanes, alkenes, alkynes; nomenclature"
+  },
+  "successors_to_link": [
+    "Polymers",
+    "Reaction Mechanisms"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Hydrocarbons — Introduction",
+    "Polymers",
+    "Reaction Mechanisms",
+    "Carbon and Its Compounds",
+    "Functional Groups",
+    "Soaps and Detergents"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

@@ -1,0 +1,49 @@
+{
+  "concept_slug": "electric-current",
+  "canonical_name": "Electric Current",
+  "subject": "science",
+  "grade": 8,
+  "area": "Electricity and Magnetism",
+  "description": "Flow of charge; I = Q/t; ammeter; direction of current",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Electric Charge"
+  ],
+  "prerequisites_descriptions": {
+    "Electric Charge": "Positive and negative charge; conservation of charge; charging by rubbing"
+  },
+  "successors_to_link": [
+    "Electric Circuit",
+    "Ohm's Law",
+    "Magnetic Effect of Electric Current",
+    "Electromagnetic Induction",
+    "Electrolysis",
+    "Force on a Moving Charge in Magnetic Field"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electric Charge",
+    "Electric Circuit",
+    "Ohm's Law",
+    "Magnetic Effect of Electric Current",
+    "Electromagnetic Induction",
+    "Electrolysis",
+    "Force on a Moving Charge in Magnetic Field",
+    "Magnets and Magnetism"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

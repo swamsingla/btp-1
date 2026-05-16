@@ -1,0 +1,40 @@
+{
+  "concept_slug": "simple-harmonic-motion",
+  "canonical_name": "Simple Harmonic Motion",
+  "subject": "science",
+  "grade": 11,
+  "area": "Oscillations",
+  "description": "SHM as projection of uniform circular motion; x = A sin(ωt + φ)",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Oscillations and Periodic Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Oscillations and Periodic Motion": "Periodic, oscillatory motion; time period, frequency, amplitude"
+  },
+  "successors_to_link": [
+    "Simple Pendulum",
+    "Spring-Mass System"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Oscillations and Periodic Motion",
+    "Simple Pendulum",
+    "Spring-Mass System"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

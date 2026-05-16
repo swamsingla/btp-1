@@ -1,0 +1,38 @@
+{
+  "concept_slug": "satellites",
+  "canonical_name": "Satellites and Orbital Mechanics",
+  "subject": "science",
+  "grade": 11,
+  "area": "Gravitation",
+  "description": "Geostationary and polar satellites; orbital velocity; binding energy",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Gravitational Potential Energy",
+    "Kepler's Laws of Planetary Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Gravitational Potential Energy": "U = −GMm/r; escape velocity; orbital velocity",
+    "Kepler's Laws of Planetary Motion": "Elliptical orbits; equal areas in equal times; T² ∝ a³"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Gravitational Potential Energy",
+    "Kepler's Laws of Planetary Motion",
+    "Gravitation",
+    "Acceleration Due to Gravity"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

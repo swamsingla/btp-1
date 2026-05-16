@@ -1,0 +1,43 @@
+{
+  "concept_slug": "relative-motion",
+  "canonical_name": "Relative Motion",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Velocity of one object as seen from another; rain-umbrella problems",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Scalars and Vectors"
+  ],
+  "prerequisites_descriptions": {
+    "Scalars and Vectors": "Scalar vs vector quantities; vector addition; triangle and parallelogram laws"
+  },
+  "successors_to_link": [
+    "Doppler Effect"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Scalars and Vectors",
+    "Doppler Effect",
+    "Uniform Circular Motion",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum",
+    "Newton's Third Law of Motion"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

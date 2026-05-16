@@ -1,0 +1,39 @@
+{
+  "concept_slug": "lipids",
+  "canonical_name": "Lipids",
+  "subject": "science",
+  "grade": 11,
+  "area": "Biomolecules",
+  "description": "Fats, oils, phospholipids; cell membrane structure; energy storage",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch12 — Limits]\nThe above discussion clearly points towards the fact that we need to understand limit-\ning process in greater clarity. We study a few illustrative examples to gain some famil-\niarity with the concept of limits.\nConsider the function f(x) = x2. Observe that as x takes values very close to 0,\nthe value of f(x) also moves towards 0 (See Fig 2.10 Chapter 2). We say\n( )\nlim\nx\nf\nx\n→\n=\n(to be read as limit of f (x) as x tends to zero equals zero).  The limit of f (x) as x tends\nto zero is to be thought of as the value f (x) should assume at x = 0.\nIn general as x → a, f (x) → l, then l is called limit of the function f (x) which is\nsymbolically written as\n( )\nlim\nx\na f\nx\nl\n→\n= .\nConsider the following function g(x) = |x|, x ≠0. Observe that g(0) is not defined.\nComputing the value of g(x) for values of x very\nnear to 0, we see that the value of g(x) moves\ntowards 0. So,\nlim\nx→ g(x) = 0. This is intuitively\nclear from the graph of y = |x| for x ≠0.\n(See Fig 2.13, Chapter 2).\nConsider the follo",
+  "context_sources": [
+    "ncert:grade11/science/ch12"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Biomolecules — Introduction"
+  ],
+  "prerequisites_descriptions": {
+    "Biomolecules — Introduction": "Carbohydrates, lipids, proteins, nucleic acids; their biological roles"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Biomolecules — Introduction",
+    "Enzymes",
+    "Carbohydrates",
+    "Proteins — Structure and Function",
+    "Nucleic Acids"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

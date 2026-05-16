@@ -1,0 +1,48 @@
+{
+  "concept_slug": "menstrual-cycle",
+  "canonical_name": "Menstrual Cycle",
+  "subject": "science",
+  "grade": 10,
+  "area": "Reproduction",
+  "description": "Phases; hormonal control; ovulation",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Human Reproductive System",
+    "Hormones and Feedback Mechanisms"
+  ],
+  "prerequisites_descriptions": {
+    "Human Reproductive System": "Male and female reproductive organs; gametogenesis",
+    "Hormones and Feedback Mechanisms": "Positive and negative feedback; hypothalamic-pituitary axis"
+  },
+  "successors_to_link": [
+    "Fertilisation and Embryonic Development",
+    "Reproductive Health"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Human Reproductive System",
+    "Hormones and Feedback Mechanisms",
+    "Fertilisation and Embryonic Development",
+    "Reproductive Health",
+    "Asexual Reproduction in Plants",
+    "Flower Structure and Function",
+    "Seed Formation and Dispersal",
+    "Asexual Reproduction",
+    "Sexual Reproduction — Overview"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

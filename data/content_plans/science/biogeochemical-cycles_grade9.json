@@ -1,0 +1,42 @@
+{
+  "concept_slug": "biogeochemical-cycles",
+  "canonical_name": "Biogeochemical Cycles",
+  "subject": "science",
+  "grade": 9,
+  "area": "Ecology",
+  "description": "Water cycle, carbon cycle, nitrogen cycle, oxygen cycle",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Ecosystem — Concept"
+  ],
+  "prerequisites_descriptions": {
+    "Ecosystem — Concept": "Biotic and abiotic components; types of ecosystems"
+  },
+  "successors_to_link": [
+    "Nitrogen Cycle",
+    "Carbon Cycle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Ecosystem — Concept",
+    "Nitrogen Cycle",
+    "Carbon Cycle",
+    "Water Cycle",
+    "Nitrogen Fixation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

@@ -1,0 +1,43 @@
+{
+  "concept_slug": "nuclear-energy-sources",
+  "canonical_name": "Nuclear Energy — Reactor and Applications",
+  "subject": "science",
+  "grade": 12,
+  "area": "Modern Physics",
+  "description": "Nuclear reactor: fuel, moderator, control rods; advantages and hazards",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade12 Ch4 — Applications of Determinants and Matrices]\nIn this section, we shall discuss application of determinants and matrices for solving the\nsystem of linear equations in two or three variables and for checking the consistency of\nthe system of linear equations.\nReprint 2025-26\nConsistent system A system of equations is said to be consistent if its solution (one\nor more) exists.\nInconsistent system A system of equations is said to be inconsistent if its solution\ndoes not exist.\nANote In this chapter, we restrict ourselves to the system of linear equations\nhaving unique solutions only.\n4.6.1  Solution of system of linear equations using inverse of a matrix\nLet us express the system of linear equations as matrix equations and solve them using\ninverse of the coefficient matrix.\nConsider the system of equations\na1 x + b1 y + c1 z =  d1\na2 x + b2 y + c2 z = d 2\na3 x + b3 y + c3 z = d 3\nLet\nA =\n, X\nand B\na\nb\nc\nx\nd\na\nb\nc\ny\nd\na\nb\nc\nz\nd\n\n\n\n\n\n\n\n\n\n\n=\n=\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThen, the system of equations can be written as, A\n\n[NCERT Grade12 Ch10 — Multiplication of a Vector by a Scalar]\na\na\na\n–2\na\na\nLet  be a given vector and λ a scalar. Then the product of the vector  by the scalar\nλ, denoted as λ , is called the multiplication of vector  by the scalar λ. Note that, λ\nis also a vector, collinear to the vector . The vector λ  has the direction same (or\nopposite) to that of vector  according as the value of λ is positive (or negative). Also,\nthe magnitude of vector λ  is |λ| times the magnitude of the vector , i.e.,\n|λ | = |λ|| |\nA geometric visualisation of multiplication of a vector by a scalar is given\nin Fig 10.12.\nFig 10.12\nWhen λ = –1, then λ = – , which is a vector having magnitude equal to the\nmagnitude of  and direction opposite to that of the direction of . The vector –  is\ncalled the negative (or additive inverse) of vector  and we always have\n+ (– ) = (– ) +  =\nAlso, if\n= |\n|\na\nλ\n, provided  ≠ 0 i.e.  is not a null vector, then\n|λ | =|λ|| | =\nReprint 2025-26\nVECTOR ALGEBRA\nSo, λ  represents the unit vector in the direction of . We write it as\nˆa  =\n|\n|\nr\nr",
+  "context_sources": [
+    "ncert:grade12/science/ch4",
+    "ncert:grade12/science/ch10"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Nuclear Fission and Fusion"
+  ],
+  "prerequisites_descriptions": {
+    "Nuclear Fission and Fusion": "Fission: splitting heavy nucleus; fusion: combining light nuclei; mass-energy equivalence"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Nuclear Fission and Fusion",
+    "Atomic Models (Physics)",
+    "Bohr's Model of Hydrogen Atom",
+    "Photoelectric Effect",
+    "Dual Nature of Matter and Radiation",
+    "Nuclear Structure",
+    "Radioactivity",
+    "Semiconductors — Basics"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

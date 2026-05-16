@@ -1,0 +1,48 @@
+{
+  "concept_slug": "projectile-motion",
+  "canonical_name": "Projectile Motion",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "Motion in 2D under gravity; range, maximum height, time of flight",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Resolution of Vectors",
+    "Equations of Motion",
+    "Acceleration Due to Gravity"
+  ],
+  "prerequisites_descriptions": {
+    "Resolution of Vectors": "Resolving a vector into rectangular components; unit vectors i, j, k",
+    "Equations of Motion": "v = u + at; s = ut + ½at²; v² = u² + 2as; graphical derivation",
+    "Acceleration Due to Gravity": "g = GM/R²; variation with altitude, depth and latitude"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Resolution of Vectors",
+    "Equations of Motion",
+    "Acceleration Due to Gravity",
+    "Uniform Circular Motion",
+    "Scalars and Vectors",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Newton's Second Law of Motion",
+    "Momentum",
+    "Newton's Third Law of Motion"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

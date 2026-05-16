@@ -17,7 +17,7 @@ export async function generateMetadata({ params }) {
   const concept = getConcept(slug);
   if (!concept) return { title: 'Not Found' };
   return {
-    title: `${concept.canonical_name} · Grade ${grade} Maths — NCERT Learn`,
+    title: `${concept.canonical_name} · Grade ${grade} Maths — GraphLearn`,
     description: concept.description,
   };
 }

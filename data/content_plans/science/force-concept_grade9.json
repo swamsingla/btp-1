@@ -1,0 +1,56 @@
+{
+  "concept_slug": "force-concept",
+  "canonical_name": "Force — Concept",
+  "subject": "science",
+  "grade": 9,
+  "area": "Mechanics",
+  "description": "Push or pull; contact and non-contact forces; effects of force",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Rest and Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Rest and Motion": "Relative nature of rest and motion; types: rectilinear, circular, oscillatory"
+  },
+  "successors_to_link": [
+    "Types of Forces",
+    "Pressure",
+    "Newton's First Law of Motion",
+    "Work (Physics)",
+    "Torque and Moment of Force",
+    "Elasticity"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Rest and Motion",
+    "Types of Forces",
+    "Pressure",
+    "Newton's First Law of Motion",
+    "Work (Physics)",
+    "Torque and Moment of Force",
+    "Elasticity",
+    "Distance and Displacement",
+    "Speed and Velocity",
+    "Acceleration",
+    "Equations of Motion",
+    "Distance-Time and Velocity-Time Graphs",
+    "Uniform Circular Motion"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

@@ -1,0 +1,43 @@
+{
+  "concept_slug": "dual-nature-of-matter",
+  "canonical_name": "Dual Nature of Matter and Radiation",
+  "subject": "science",
+  "grade": 12,
+  "area": "Modern Physics",
+  "description": "de Broglie wavelength λ = h/mv; wave-particle duality",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Photoelectric Effect",
+    "Momentum"
+  ],
+  "prerequisites_descriptions": {
+    "Photoelectric Effect": "Einstein's equation; threshold frequency; stopping potential; photon",
+    "Momentum": "p = mv; impulse = change in momentum; F = dp/dt"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Photoelectric Effect",
+    "Momentum",
+    "Atomic Models (Physics)",
+    "Bohr's Model of Hydrogen Atom",
+    "Nuclear Structure",
+    "Radioactivity",
+    "Nuclear Fission and Fusion",
+    "Semiconductors — Basics",
+    "p-n Junction Diode"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

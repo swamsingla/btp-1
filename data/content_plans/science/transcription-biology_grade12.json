@@ -1,0 +1,48 @@
+{
+  "concept_slug": "transcription-biology",
+  "canonical_name": "Transcription",
+  "subject": "science",
+  "grade": 12,
+  "area": "Genetics and Evolution",
+  "description": "DNA → mRNA; RNA polymerase; promoter; terminator; processing",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[NCERT Grade12 Ch7 — Area function]\nWe have defined\n( )\nb\na f x dx\n∫\nas the area of\nthe region bounded by the curve y = f(x),\nthe ordinates x = a and x = b and x-axis. Let x\nbe a given point in [a, b]. Then\n( )\nx\na f x dx\n∫\nrepresents the area of the light shaded region\nin Fig 7.1 [Here it is assumed that f(x) > 0 for\nx ∈ [a, b], the assertion made below is\nequally true for other functions as well].\nThe area of this shaded region depends upon\nthe value of x.\nIn other words, the area of this shaded region is a function of x. We denote this\nfunction of x by A(x). We call the function A(x) as Area function and is given by\nA (x) = ∫\n( )\nx\na f x dx\n... (1)\nBased on this definition, the two basic fundamental theorems have been given.\nHowever, we only state them as their proofs are beyond the scope of this text book.\n7.8.2  First fundamental theorem of integral calculus\nFig 7.1",
+  "context_sources": [
+    "ncert:grade12/science/ch7"
+  ],
+  "ncert_chunks_found": 1,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "DNA Structure and Replication"
+  ],
+  "prerequisites_descriptions": {
+    "DNA Structure and Replication": "Watson-Crick model; semiconservative replication; Meselson-Stahl experiment"
+  },
+  "successors_to_link": [
+    "Translation",
+    "Regulation of Gene Expression",
+    "Molecular Basis of Inheritance"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "DNA Structure and Replication",
+    "Translation",
+    "Regulation of Gene Expression",
+    "Molecular Basis of Inheritance",
+    "Heredity and Variation",
+    "Mendel's Laws of Inheritance",
+    "Sex Determination",
+    "Genetic Disorders"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

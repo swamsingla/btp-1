@@ -1,0 +1,46 @@
+{
+  "concept_slug": "spherical-mirrors",
+  "canonical_name": "Spherical Mirrors",
+  "subject": "science",
+  "grade": 10,
+  "area": "Optics",
+  "description": "Concave and convex mirrors; focus, centre of curvature, principal axis",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Reflection of Light"
+  ],
+  "prerequisites_descriptions": {
+    "Reflection of Light": "Laws of reflection; regular and diffuse reflection"
+  },
+  "successors_to_link": [
+    "Mirror Formula and Magnification",
+    "Human Eye and Defects of Vision"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Reflection of Light",
+    "Mirror Formula and Magnification",
+    "Human Eye and Defects of Vision",
+    "Rectilinear Propagation of Light",
+    "Plane Mirrors",
+    "Refraction of Light",
+    "Snell's Law",
+    "Total Internal Reflection",
+    "Lenses"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

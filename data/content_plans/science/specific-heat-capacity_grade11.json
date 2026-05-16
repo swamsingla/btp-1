@@ -1,0 +1,45 @@
+{
+  "concept_slug": "specific-heat-capacity",
+  "canonical_name": "Specific Heat Capacity",
+  "subject": "science",
+  "grade": 11,
+  "area": "Heat and Thermodynamics",
+  "description": "Q = mcΔT; specific heat; calorimetry",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nIn thermodynamics, the specific heat capacity of a substance is the amount of heat that must be added to one unit of mass of the substance in order to cause an increase of one unit in temperature. It is also referred to as massic heat capacity or as the specific heat. More formally it is the heat capacity of a sample of the substance divided by the mass of the sample. The SI unit of specific heat capacity is joule per kelvin per kilogram, J⋅kg−1⋅K−1. For example, the heat required to raise the temperature of 1 kg of water by 1 K is 4184 joules, so the specific heat capacity of water is 4184 J⋅kg−1⋅K−1.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Heat and Temperature",
+    "Conservation of Energy"
+  ],
+  "prerequisites_descriptions": {
+    "Heat and Temperature": "Heat as form of energy; distinction between heat and temperature",
+    "Conservation of Energy": "Energy can neither be created nor destroyed; transformation between forms"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Heat and Temperature",
+    "Conservation of Energy",
+    "Thermal Expansion",
+    "Ideal Gas Laws",
+    "Kinetic Theory of Gases",
+    "First Law of Thermodynamics",
+    "Thermodynamic Processes",
+    "Second Law of Thermodynamics",
+    "Heat Engines and Refrigerators"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

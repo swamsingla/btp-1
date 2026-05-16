@@ -1,0 +1,46 @@
+{
+  "concept_slug": "mixtures-types",
+  "canonical_name": "Mixtures — Types and Properties",
+  "subject": "science",
+  "grade": 9,
+  "area": "Matter and Classification",
+  "description": "Homogeneous and heterogeneous mixtures; solutions, suspensions, colloids",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Pure Substances"
+  ],
+  "prerequisites_descriptions": {
+    "Pure Substances": "Elements and compounds; homogeneous composition; fixed properties"
+  },
+  "successors_to_link": [
+    "Separation Techniques",
+    "Solutions",
+    "Colloids"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Pure Substances",
+    "Separation Techniques",
+    "Solutions",
+    "Colloids",
+    "Matter and Its Properties",
+    "States of Matter",
+    "Change of State",
+    "Particle Nature of Matter"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

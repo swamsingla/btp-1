@@ -1,0 +1,41 @@
+{
+  "concept_slug": "nuclear-fission-fusion",
+  "canonical_name": "Nuclear Fission and Fusion",
+  "subject": "science",
+  "grade": 10,
+  "area": "Modern Physics",
+  "description": "Fission: splitting heavy nucleus; fusion: combining light nuclei; mass-energy equivalence",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Radioactivity",
+    "Mass-Energy Equivalence"
+  ],
+  "prerequisites_descriptions": {
+    "Radioactivity": "Alpha, beta, gamma decay; half-life; decay law N = N₀e⁻λt",
+    "Mass-Energy Equivalence": "E = mc²; binding energy per nucleon; mass defect"
+  },
+  "successors_to_link": [
+    "Nuclear Energy — Reactor and Applications"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Radioactivity",
+    "Mass-Energy Equivalence",
+    "Nuclear Energy — Reactor and Applications"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

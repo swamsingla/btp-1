@@ -1,0 +1,42 @@
+{
+  "concept_slug": "centripetal-force",
+  "canonical_name": "Centripetal Force",
+  "subject": "science",
+  "grade": 11,
+  "area": "Mechanics",
+  "description": "F = mv²/r; banking of roads; conical pendulum; vertical circular motion",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Uniform Circular Motion",
+    "Newton's Second Law of Motion"
+  ],
+  "prerequisites_descriptions": {
+    "Uniform Circular Motion": "Motion in a circle at constant speed; centripetal acceleration",
+    "Newton's Second Law of Motion": "F = ma; net force equals mass times acceleration"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Uniform Circular Motion",
+    "Newton's Second Law of Motion",
+    "Scalars and Vectors",
+    "Resolution of Vectors",
+    "Projectile Motion",
+    "Relative Motion",
+    "Newton's First Law of Motion",
+    "Momentum"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

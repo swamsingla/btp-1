@@ -1,0 +1,39 @@
+{
+  "concept_slug": "bohrs-model-chemistry",
+  "canonical_name": "Bohr's Atomic Model",
+  "subject": "science",
+  "grade": 11,
+  "area": "Atomic Structure",
+  "description": "Quantised energy levels; line spectra of hydrogen; limitations",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Electronic Configuration"
+  ],
+  "prerequisites_descriptions": {
+    "Electronic Configuration": "Shells and subshells; 2n² rule; Aufbau, Pauli, Hund's rules"
+  },
+  "successors_to_link": [
+    "Quantum Mechanical Model"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electronic Configuration",
+    "Quantum Mechanical Model",
+    "Mole Concept",
+    "Stoichiometry",
+    "Molecular Formula Calculations"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

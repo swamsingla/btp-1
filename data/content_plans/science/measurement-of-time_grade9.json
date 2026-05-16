@@ -1,0 +1,38 @@
+{
+  "concept_slug": "measurement-of-time",
+  "canonical_name": "Measurement of Time",
+  "subject": "science",
+  "grade": 9,
+  "area": "Units and Measurement",
+  "description": "Measuring time using clock, stopwatch; units: second, minute, hour",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "SI Units"
+  ],
+  "prerequisites_descriptions": {
+    "SI Units": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela"
+  },
+  "successors_to_link": [
+    "Rest and Motion"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "SI Units",
+    "Rest and Motion",
+    "Physical Quantities",
+    "Measurement of Mass"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

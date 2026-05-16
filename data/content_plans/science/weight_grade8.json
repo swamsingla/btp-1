@@ -1,0 +1,40 @@
+{
+  "concept_slug": "weight",
+  "canonical_name": "Weight",
+  "subject": "science",
+  "grade": 8,
+  "area": "Gravitation",
+  "description": "W = mg; weight vs mass; weightlessness",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Acceleration Due to Gravity",
+    "Mass and Inertia"
+  ],
+  "prerequisites_descriptions": {
+    "Acceleration Due to Gravity": "g = GM/R²; variation with altitude, depth and latitude",
+    "Mass and Inertia": "Mass as measure of inertia; distinction between mass and weight"
+  },
+  "successors_to_link": [
+    "Buoyancy and Archimedes' Principle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Acceleration Due to Gravity",
+    "Mass and Inertia",
+    "Buoyancy and Archimedes' Principle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

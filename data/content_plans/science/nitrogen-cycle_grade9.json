@@ -1,0 +1,38 @@
+{
+  "concept_slug": "nitrogen-cycle",
+  "canonical_name": "Nitrogen Cycle",
+  "subject": "science",
+  "grade": 9,
+  "area": "Ecology",
+  "description": "Nitrogen fixation, nitrification, denitrification; role of bacteria",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Biogeochemical Cycles"
+  ],
+  "prerequisites_descriptions": {
+    "Biogeochemical Cycles": "Water cycle, carbon cycle, nitrogen cycle, oxygen cycle"
+  },
+  "successors_to_link": [
+    "Nitrogen Fixation"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Biogeochemical Cycles",
+    "Nitrogen Fixation",
+    "Water Cycle",
+    "Carbon Cycle"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

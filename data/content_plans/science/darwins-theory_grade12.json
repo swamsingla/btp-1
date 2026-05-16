@@ -1,0 +1,53 @@
+{
+  "concept_slug": "darwins-theory",
+  "canonical_name": "Darwin's Theory of Natural Selection",
+  "subject": "science",
+  "grade": 12,
+  "area": "Genetics and Evolution",
+  "description": "Variation, struggle for existence, survival of the fittest; speciation",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Evidence of Evolution",
+    "Heredity and Variation",
+    "Meiosis"
+  ],
+  "prerequisites_descriptions": {
+    "Evidence of Evolution": "Fossils; homologous and analogous organs; vestigial organs; embryology",
+    "Heredity and Variation": "Inherited vs acquired traits; role of DNA",
+    "Meiosis": "Meiosis I and II; crossing over; independent assortment; significance"
+  },
+  "successors_to_link": [
+    "Speciation",
+    "Human Evolution"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Evidence of Evolution",
+    "Heredity and Variation",
+    "Meiosis",
+    "Speciation",
+    "Human Evolution",
+    "Mendel's Laws of Inheritance",
+    "Sex Determination",
+    "DNA Structure and Replication",
+    "Transcription",
+    "Translation",
+    "Regulation of Gene Expression",
+    "Genetic Disorders"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

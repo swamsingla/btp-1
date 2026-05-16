@@ -1,0 +1,36 @@
+{
+  "concept_slug": "dimensional-formula-applications",
+  "canonical_name": "Dimensional Formula — Applications",
+  "subject": "science",
+  "grade": 11,
+  "area": "Units and Measurement",
+  "description": "Deriving relations; converting between unit systems; checking homogeneity",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Dimensional Analysis"
+  ],
+  "prerequisites_descriptions": {
+    "Dimensional Analysis": "Dimensions of physical quantities; dimensional formulae; checking equations"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Dimensional Analysis",
+    "Physical Quantities",
+    "SI Units",
+    "Significant Figures and Errors"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

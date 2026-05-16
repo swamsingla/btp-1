@@ -1,0 +1,43 @@
+{
+  "concept_slug": "lenses",
+  "canonical_name": "Lenses",
+  "subject": "science",
+  "grade": 10,
+  "area": "Optics",
+  "description": "Convex and concave lenses; optical centre, focus, focal length",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Refraction of Light"
+  ],
+  "prerequisites_descriptions": {
+    "Refraction of Light": "Bending of light at interface; optically denser and rarer media"
+  },
+  "successors_to_link": [
+    "Lens Formula and Magnification"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Refraction of Light",
+    "Lens Formula and Magnification",
+    "Rectilinear Propagation of Light",
+    "Reflection of Light",
+    "Plane Mirrors",
+    "Spherical Mirrors",
+    "Mirror Formula and Magnification",
+    "Snell's Law",
+    "Total Internal Reflection"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

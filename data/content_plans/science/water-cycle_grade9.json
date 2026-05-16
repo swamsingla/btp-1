@@ -1,0 +1,40 @@
+{
+  "concept_slug": "water-cycle",
+  "canonical_name": "Water Cycle",
+  "subject": "science",
+  "grade": 9,
+  "area": "Ecology",
+  "description": "Evaporation, condensation, precipitation; groundwater",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 9 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Water and Its Properties"
+  ],
+  "prerequisites_descriptions": {
+    "Water and Its Properties": "States of water; water cycle; solvent properties"
+  },
+  "successors_to_link": [
+    "Transpiration"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Water and Its Properties",
+    "Transpiration",
+    "Biogeochemical Cycles",
+    "Nitrogen Cycle",
+    "Carbon Cycle",
+    "Nitrogen Fixation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

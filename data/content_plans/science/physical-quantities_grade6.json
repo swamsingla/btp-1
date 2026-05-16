@@ -1,0 +1,35 @@
+{
+  "concept_slug": "physical-quantities",
+  "canonical_name": "Physical Quantities",
+  "subject": "science",
+  "grade": 6,
+  "area": "Units and Measurement",
+  "description": "Measurable attributes of the physical world: length, mass, time, temperature",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 6 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [],
+  "prerequisites_descriptions": {},
+  "successors_to_link": [
+    "SI Units"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "SI Units",
+    "Measurement of Length",
+    "Measurement of Mass",
+    "Measurement of Time",
+    "Measurement of Temperature"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

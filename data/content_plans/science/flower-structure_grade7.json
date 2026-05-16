@@ -1,0 +1,40 @@
+{
+  "concept_slug": "flower-structure",
+  "canonical_name": "Flower Structure and Function",
+  "subject": "science",
+  "grade": 7,
+  "area": "Reproduction",
+  "description": "Sepals, petals, stamens, carpels; pollination; self and cross pollination",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 7 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Parts of a Plant"
+  ],
+  "prerequisites_descriptions": {
+    "Parts of a Plant": "Root, stem, leaf, flower, fruit, seed; functions"
+  },
+  "successors_to_link": [
+    "Seed Formation and Dispersal",
+    "Pollination and Fertilisation in Plants"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Parts of a Plant",
+    "Seed Formation and Dispersal",
+    "Pollination and Fertilisation in Plants",
+    "Asexual Reproduction in Plants"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

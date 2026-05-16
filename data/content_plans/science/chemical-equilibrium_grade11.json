@@ -1,0 +1,45 @@
+{
+  "concept_slug": "chemical-equilibrium",
+  "canonical_name": "Chemical Equilibrium",
+  "subject": "science",
+  "grade": 11,
+  "area": "Chemical Reactions",
+  "description": "Reversible reactions; equilibrium constant Kc, Kp; Le Chatelier's principle",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Rate of Chemical Reaction"
+  ],
+  "prerequisites_descriptions": {
+    "Rate of Chemical Reaction": "Factors affecting rate; rate law; order of reaction"
+  },
+  "successors_to_link": [
+    "Gibbs Free Energy",
+    "Ionic Equilibrium",
+    "Le Chatelier's Principle"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Rate of Chemical Reaction",
+    "Gibbs Free Energy",
+    "Ionic Equilibrium",
+    "Le Chatelier's Principle",
+    "Oxidation and Reduction",
+    "Redox Reactions — Balancing",
+    "Inorganic Qualitative Analysis"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

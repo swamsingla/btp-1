@@ -1,0 +1,37 @@
+{
+  "concept_slug": "biological-classification-detail",
+  "canonical_name": "Biological Classification — Detail",
+  "subject": "science",
+  "grade": 11,
+  "area": "Diversity of Life",
+  "description": "Fungi: types; Protista: classification; viruses, viroids, lichens, prions",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Five-Kingdom Classification"
+  ],
+  "prerequisites_descriptions": {
+    "Five-Kingdom Classification": "Monera, Protista, Fungi, Plantae, Animalia; criteria: cell type, body organisation, nutrition"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Five-Kingdom Classification",
+    "Classification of Living Organisms",
+    "Plant Kingdom",
+    "Animal Kingdom",
+    "Binomial Nomenclature"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

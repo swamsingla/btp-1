@@ -1,0 +1,52 @@
+{
+  "concept_slug": "magnetic-field",
+  "canonical_name": "Magnetic Field and Field Lines",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "Magnetic field lines; properties; Earth's magnetic field",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Magnets and Magnetism"
+  ],
+  "prerequisites_descriptions": {
+    "Magnets and Magnetism": "Natural and artificial magnets; poles; attraction and repulsion; compass"
+  },
+  "successors_to_link": [
+    "Magnetic Effect of Electric Current",
+    "Electromagnetic Induction",
+    "Magnetic Properties of Matter",
+    "Force on a Moving Charge in Magnetic Field"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Magnets and Magnetism",
+    "Magnetic Effect of Electric Current",
+    "Electromagnetic Induction",
+    "Magnetic Properties of Matter",
+    "Force on a Moving Charge in Magnetic Field",
+    "Electric Charge",
+    "Electric Potential and Potential Difference",
+    "Electric Current",
+    "Electric Circuit",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Heating Effect of Electric Current",
+    "Electric Power and Energy"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

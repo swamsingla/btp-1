@@ -1,0 +1,48 @@
+{
+  "concept_slug": "chemical-coordination",
+  "canonical_name": "Chemical Coordination and Integration",
+  "subject": "science",
+  "grade": 11,
+  "area": "Human Physiology",
+  "description": "Detailed hormones of all glands; mechanism of hormone action; disorders",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch6 — Introduction]\nSuppose you have a suitcase with a number lock. The number\nlock has 4 wheels each labelled with 10 digits from 0 to 9.\nThe lock can be opened if 4 specific digits are arranged in a\nparticular sequence with no repetition. Some how, you have\nforgotten this specific sequence of digits. You remember only\nthe first digit which is 7. In order to open  the lock, how\nmany sequences of 3-digits you may have to check with? To\nanswer this question, you may, immediately, start listing all\npossible arrangements of  9 remaining digits taken 3 at a\ntime. But, this method will be tedious, because the number\nof possible sequences may be large. Here, in this Chapter,\nwe shall learn some basic counting techniques which will\nenable us to answer this question without actually listing 3-digit arrangements. In fact,\nthese techniques will be useful in determining the number of different ways of arranging\nand selecting objects without actually listing them. As a first step, we shall examine a\nprinciple which i\n\n[NCERT Grade11 Ch6 — Fundamental Principle of Counting]\nLet us consider the following problem. Mohan has 3 pants and 2 shirts. How many\ndifferent pairs of a pant and a shirt, can he dress up with? There are 3 ways in which\na pant can be chosen, because there are 3 pants available. Similarly, a shirt can be\nchosen in 2 ways. For every choice of a pant, there are 2 choices of a shirt. Therefore,\nthere are 3 × 2 = 6 pairs of a pant and a shirt.\nReprint 2025-26\nPERMUTATIONS AND COMBINATIONS       101\nLet us name the three pants as P1, P2, P3  and the two shirts as S1, S2. Then,\nthese six possibilities can be illustrated in the Fig. 6.1.\nLet us consider another problem\nof the same type.\nSabnam has 2 school bags, 3 tiffin boxes\nand 2 water bottles. In how many ways\ncan she carry these items (choosing one\neach).\nA school  bag can be chosen in 2\ndifferent ways. After a school bag is\nchosen, a tiffin box can be chosen in 3\ndifferent ways. Hence, there are\n2 × 3 = 6 pairs of school bag and a tiffin\nbox. For each of these pairs a water\nbottle can be c\n\n[NCERT Grade11 Ch6 — Permutations]\nIn Example 1 of  the previous Section, we are actually counting the different possible\narrangements of the letters such as ROSE, REOS, ..., etc. Here, in this list, each\narrangement is different from other. In other words, the order of writing the letters is\nimportant. Each arrangement is called a permutation of 4 different letters taken all\nat a time. Now, if we have to determine the number of 3-letter words, with or without\nmeaning, which can be formed out of the letters of the word NUMBER, where the\nrepetition of the letters is not allowed, we need to count the arrangements NUM,\nNMU, MUN, NUB, ..., etc. Here, we are counting the permutations of 6 different\nletters taken 3 at a time. The required number of words = 6 × 5 × 4 = 120 (by using\nmultiplication principle).\nIf the repetition of the letters was allowed, the required number of words would\nbe 6 × 6 × 6 = 216.\nReprint 2025-26\nPERMUTATIONS AND COMBINATIONS       105\nDefinition 1 A permutation is an arrangement in a definite order\n\n[NCERT Grade11 Ch6 — Permutations when all the objects are distinct]\nTheorem 1  The number of permutations of n different objects taken r at a time,\nwhere 0 < r ≤ n  and the objects do not repeat  is n ( n – 1) ( n – 2). . .( n – r + 1),\nwhich is denoted by nPr.\nProof There will be as many permutations as there are ways of filling in r vacant\nplaces\n. . .\nby\n←r vacant places →\nthe n objects. The first place can be filled in n ways; following which, the second place\ncan be filled in (n – 1) ways, following which the third place can be filled in (n – 2)\nways,..., the rth place can be filled in (n – (r – 1)) ways. Therefore, the number of\nways of filling in r vacant places in succession is n(n – 1) (n – 2) . . .   (n – (r – 1)) or\nn ( n – 1) (n – 2) ... (n – r + 1)\nThis expression for nPr is cumbersome and we need a notation which will help to\nreduce the size of this expression. The symbol n! (read as factorial n or n factorial )\ncomes to our rescue. In the following text we will learn what actually n! means.\n6.3.2  Factorial notation  The notation n! repr\n\n[NCERT Grade11 Ch6 — Factorial notation]\nnumbers, i.e., the product 1 × 2 × 3 × . . . × (n – 1) × n is denoted as n!. We read this\nsymbol as ‘n factorial’. Thus, 1 × 2 × 3 × 4 . . .  × (n – 1) × n = n !\n1 = 1 !\n1 × 2 = 2 !\n1× 2 × 3 = 3 !\n1 × 2 × 3 × 4 = 4 ! and so on.\nWe define 0 ! = 1\nWe can write   5 ! = 5 × 4 ! = 5 × 4 × 3 ! = 5 × 4 × 3 × 2 !\n= 5 × 4 × 3 × 2 × 1!\nClearly, for a natural number n\nn ! = n (n  –  1) !\n= n (n  –  1) (n  –  2) !\n[provided (n ≥ 2)]\n= n (n  –  1) (n  –  2)  (n  –  3) !\n[provided (n ≥ 3)]\nand so on.\nReprint 2025-26\n106       MATHEMATICS\nExample 5 Evaluate (i) 5 !\n(ii) 7 !\n(iii) 7 ! – 5!\nSolution\n(i) 5 ! = 1 × 2 × 3 × 4 × 5 = 120\n(ii) 7 ! = 1 × 2 × 3 × 4 × 5 × 6 ×7 = 5040\nand\n(iii) 7 !  –  5! = 5040  –  120 = 4920.\nExample 6 Compute (i)\n7!\n5!\n(ii) (\n)\n12!\n10! (2!)\nSolution\n(i) We have 7!\n5!  =\n6 5!\n5!\n× ×\n= 7 × 6 = 42\nand\n(ii) (\n) ( )\n12!\n10!\n2!   =\n(\n)\n(\n) ( )\n12 11\n10!\n10!\n×\n×\n×\n= 6 × 11 = 66.\nExample 7 Evaluate\n(\n)\n!\n!\n!\nn\nr\nn\nr\n−\n, when n = 5, r = 2.\nSolution\nWe have to evaluate\n(\n)\n5!\n2! 5\n2 !",
+  "context_sources": [
+    "ncert:grade11/science/ch6",
+    "ncert:grade11/science/ch6",
+    "ncert:grade11/science/ch6",
+    "ncert:grade11/science/ch6",
+    "ncert:grade11/science/ch6"
+  ],
+  "ncert_chunks_found": 5,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Endocrine System",
+    "Hormones and Feedback Mechanisms"
+  ],
+  "prerequisites_descriptions": {
+    "Endocrine System": "Glands: pituitary, thyroid, adrenal, pancreas; hormones and their functions",
+    "Hormones and Feedback Mechanisms": "Positive and negative feedback; hypothalamic-pituitary axis"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Endocrine System",
+    "Hormones and Feedback Mechanisms",
+    "Human Respiratory System",
+    "Cellular Respiration",
+    "Human Circulatory System",
+    "Human Excretory System",
+    "Nervous System",
+    "Skeletal and Muscular System"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

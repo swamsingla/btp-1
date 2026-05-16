@@ -1,0 +1,56 @@
+{
+  "concept_slug": "electromagnetic-induction",
+  "canonical_name": "Electromagnetic Induction",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "Faraday's law; Lenz's law; induced EMF",
+  "page_depth": "deep-dive",
+  "target_words": 1500,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Magnetic Field and Field Lines",
+    "Electric Current"
+  ],
+  "prerequisites_descriptions": {
+    "Magnetic Field and Field Lines": "Magnetic field lines; properties; Earth's magnetic field",
+    "Electric Current": "Flow of charge; I = Q/t; ammeter; direction of current"
+  },
+  "successors_to_link": [
+    "Electric Generator",
+    "Alternating Current",
+    "Electromagnetic Waves",
+    "Displacement Current"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Magnetic Field and Field Lines",
+    "Electric Current",
+    "Electric Generator",
+    "Alternating Current",
+    "Electromagnetic Waves",
+    "Displacement Current",
+    "Electric Charge",
+    "Electric Potential and Potential Difference",
+    "Electric Circuit",
+    "Ohm's Law",
+    "Resistance and Resistivity",
+    "Heating Effect of Electric Current",
+    "Electric Power and Energy"
+  ],
+  "sections": [
+    "Lead",
+    "Background",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

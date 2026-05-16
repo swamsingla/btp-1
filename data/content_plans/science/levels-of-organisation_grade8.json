@@ -1,0 +1,40 @@
+{
+  "concept_slug": "levels-of-organisation",
+  "canonical_name": "Levels of Organisation",
+  "subject": "science",
+  "grade": 8,
+  "area": "Cell Biology",
+  "description": "Cell → Tissue → Organ → Organ System → Organism",
+  "page_depth": "standard",
+  "target_words": 900,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 8 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Cell — Basic Unit of Life"
+  ],
+  "prerequisites_descriptions": {
+    "Cell — Basic Unit of Life": "Discovery of cells; cell theory; unicellular and multicellular organisms"
+  },
+  "successors_to_link": [
+    "Tissue Types",
+    "Structural Organisation in Animals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Cell — Basic Unit of Life",
+    "Tissue Types",
+    "Structural Organisation in Animals",
+    "Plant Cell vs Animal Cell"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Conceptual understanding with simple numericals and diagrams. Include real-world applications. Target: Class 8-9 student.",
+  "aliases": []
+}

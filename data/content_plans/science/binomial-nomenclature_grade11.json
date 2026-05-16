@@ -1,0 +1,40 @@
+{
+  "concept_slug": "binomial-nomenclature",
+  "canonical_name": "Binomial Nomenclature",
+  "subject": "science",
+  "grade": 11,
+  "area": "Diversity of Life",
+  "description": "Two-part naming system; Linnaeus; rules of nomenclature",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[NCERT Grade11 Ch7 — Introduction]\nIn earlier classes, we have learnt how to find the squares\nand cubes of binomials like a + b and a – b. Using them, we\ncould evaluate the numerical values of numbers like\n(98)2 = (100 – 2)2, (999)3 = (1000 – 1)3, etc. However, for\nhigher powers like (98)5, (101)6, etc., the calculations become\ndifficult by using repeated multiplication. This difficulty was\novercome by a theorem known as binomial theorem. It gives\nan easier way to expand (a + b)n, where n is an integer or a\nrational number. In this Chapter, we study binomial theorem\nfor positive integral indices only.\n7.2 Binomial Theorem for Positive Integral Indices\nBlaise Pascal\n(1623-1662)\n\n[NCERT Grade11 Ch7 — Binomial Theorem for Positive Integral Indices]\nLet us have a look at the following identities done earlier:\n(a+ b)0 = 1\na + b ≠ 0\n(a+ b)1 = a + b\n(a+ b)2 = a2 + 2ab + b2\n(a+ b)3 = a3 + 3a2b + 3ab2 + b3\n(a+ b)4 = (a + b)3 (a + b) = a4 + 4a3b + 6a2b2 + 4ab3 + b4\nIn these expansions, we observe that\n(i)\nThe total number of terms in the expansion is one more than the index. For\nexample, in the expansion of (a + b)2 , number of terms is 3 whereas the index of\n(a + b)2 is 2.\n(ii)\nPowers of the first quantity ‘a’ go on decreasing by 1 whereas the powers of the\nsecond quantity ‘b’ increase by 1, in the successive terms.\n(iii)\nIn each term of the expansion, the sum of the indices of a and b is the same and\nis equal to the index of a + b.\nReprint 2025-26\nBINOMIAL THEOREM       127\nWe now arrange the coefficients in these expansions as follows (Fig 7.1):\nDo we observe any pattern in this table that will help us to write the next row? Yes we\ndo. It can be seen that the addition of 1’s in the row for index 1 gives rise to 2 in the row\nfor index",
+  "context_sources": [
+    "ncert:grade11/science/ch7",
+    "ncert:grade11/science/ch7"
+  ],
+  "ncert_chunks_found": 2,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Classification of Living Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Classification of Living Organisms": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Classification of Living Organisms",
+    "Five-Kingdom Classification",
+    "Plant Kingdom",
+    "Animal Kingdom",
+    "Biological Classification — Detail"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

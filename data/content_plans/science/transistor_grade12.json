@@ -1,0 +1,46 @@
+{
+  "concept_slug": "transistor",
+  "canonical_name": "Transistor",
+  "subject": "science",
+  "grade": 12,
+  "area": "Modern Physics",
+  "description": "npn and pnp; common emitter configuration; amplifier; switch",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "[Wikipedia]\nA transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics. It is composed of semiconductor material, usually with at least three terminals for connection to an electronic circuit. A voltage or current applied to one pair of the transistor's terminals controls the current through another pair of terminals. Because the controlled (output) power can be higher than the controlling (input) power, a transistor can amplify a signal. Some transistors are packaged individually, but many more in miniature form are found embedded in integrated circuits. Because transistors are the key active components in practically all modern electronics, they are considered one of the 20th century's greatest inventions.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "p-n Junction Diode"
+  ],
+  "prerequisites_descriptions": {
+    "p-n Junction Diode": "Depletion region; forward and reverse bias; V-I characteristics"
+  },
+  "successors_to_link": [
+    "Logic Gates"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "p-n Junction Diode",
+    "Logic Gates",
+    "Atomic Models (Physics)",
+    "Bohr's Model of Hydrogen Atom",
+    "Photoelectric Effect",
+    "Dual Nature of Matter and Radiation",
+    "Nuclear Structure",
+    "Radioactivity",
+    "Nuclear Fission and Fusion",
+    "Semiconductors — Basics"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

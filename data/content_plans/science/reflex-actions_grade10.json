@@ -1,0 +1,40 @@
+{
+  "concept_slug": "reflex-actions",
+  "canonical_name": "Reflex Actions",
+  "subject": "science",
+  "grade": 10,
+  "area": "Human Physiology",
+  "description": "Reflex arc; voluntary vs involuntary actions; spinal reflexes",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Nervous System"
+  ],
+  "prerequisites_descriptions": {
+    "Nervous System": "CNS and PNS; neuron structure; reflex arc; synapse"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Nervous System",
+    "Human Respiratory System",
+    "Cellular Respiration",
+    "Human Circulatory System",
+    "Blood — Composition and Functions",
+    "Human Excretory System",
+    "Endocrine System",
+    "Breathing and Gas Exchange"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

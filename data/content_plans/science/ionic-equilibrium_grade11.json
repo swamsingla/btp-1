@@ -1,0 +1,36 @@
+{
+  "concept_slug": "ionic-equilibrium",
+  "canonical_name": "Ionic Equilibrium",
+  "subject": "science",
+  "grade": 11,
+  "area": "Solutions",
+  "description": "Buffer solutions; Henderson-Hasselbalch equation; solubility product Ksp",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Chemical Equilibrium",
+    "pH Scale"
+  ],
+  "prerequisites_descriptions": {
+    "Chemical Equilibrium": "Reversible reactions; equilibrium constant Kc, Kp; Le Chatelier's principle",
+    "pH Scale": "pH = −log[H⁺]; acidic < 7, neutral = 7, basic > 7; pH meter; universal indicator"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "Chemical Equilibrium",
+    "pH Scale"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

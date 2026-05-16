@@ -1,0 +1,47 @@
+{
+  "concept_slug": "sexual-reproduction-overview",
+  "canonical_name": "Sexual Reproduction — Overview",
+  "subject": "science",
+  "grade": 10,
+  "area": "Reproduction",
+  "description": "Gametes; fertilisation; zygote; advantage of sexual reproduction",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 10 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Meiosis"
+  ],
+  "prerequisites_descriptions": {
+    "Meiosis": "Meiosis I and II; crossing over; independent assortment; significance"
+  },
+  "successors_to_link": [
+    "Human Reproductive System",
+    "Reproduction in Animals"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Meiosis",
+    "Human Reproductive System",
+    "Reproduction in Animals",
+    "Asexual Reproduction in Plants",
+    "Flower Structure and Function",
+    "Seed Formation and Dispersal",
+    "Asexual Reproduction",
+    "Menstrual Cycle",
+    "Fertilisation and Embryonic Development",
+    "Reproductive Health"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

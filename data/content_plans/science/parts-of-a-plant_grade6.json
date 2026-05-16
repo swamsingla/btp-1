@@ -1,0 +1,48 @@
+{
+  "concept_slug": "parts-of-a-plant",
+  "canonical_name": "Parts of a Plant",
+  "subject": "science",
+  "grade": 6,
+  "area": "Plant Biology",
+  "description": "Root, stem, leaf, flower, fruit, seed; functions",
+  "page_depth": "deep-dive",
+  "target_words": 900,
+  "context_summary": "[Wikipedia]\nNatural science or empirical science is a branch of science concerned with the description, understanding, and prediction of natural phenomena, based on empirical evidence from observation and experimentation. Mechanisms such as peer review and reproducibility of findings are used to try to ensure the validity of scientific advances.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Diversity of Organisms"
+  ],
+  "prerequisites_descriptions": {
+    "Diversity of Organisms": "Plants and animals around us; variety of habitats"
+  },
+  "successors_to_link": [
+    "Photosynthesis",
+    "Transport in Plants",
+    "Asexual Reproduction in Plants",
+    "Flower Structure and Function",
+    "Anatomy of Flowering Plants"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Diversity of Organisms",
+    "Photosynthesis",
+    "Transport in Plants",
+    "Asexual Reproduction in Plants",
+    "Flower Structure and Function",
+    "Anatomy of Flowering Plants"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "Applications",
+    "Common Mistakes",
+    "See Also"
+  ],
+  "grade_note": "Very basic introduction. Use everyday observations and simple experiments. Avoid formulas. Target: Class 6-7 student.",
+  "aliases": []
+}

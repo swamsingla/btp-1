@@ -1,0 +1,52 @@
+{
+  "concept_slug": "ohms-law",
+  "canonical_name": "Ohm's Law",
+  "subject": "science",
+  "grade": 10,
+  "area": "Electricity and Magnetism",
+  "description": "V = IR; resistance; V-I characteristics",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "[Wikipedia]\nScientific laws or laws of science are statements, based on repeated experiments or observations, that describe or predict a range of natural phenomena. The term law has diverse usage in many cases across all fields of natural science. Laws are developed from data and can be further developed through mathematics; in all cases they are directly or indirectly based on empirical evidence. It is generally understood that they implicitly reflect, though they do not explicitly assert, causal relationships fundamental to reality, and are discovered rather than invented.",
+  "context_sources": [
+    "wikipedia"
+  ],
+  "ncert_chunks_found": 0,
+  "wiki_found": true,
+  "prerequisites_to_link": [
+    "Electric Current",
+    "Electric Potential and Potential Difference"
+  ],
+  "prerequisites_descriptions": {
+    "Electric Current": "Flow of charge; I = Q/t; ammeter; direction of current",
+    "Electric Potential and Potential Difference": "V = W/q; potential due to point charge; equipotential surfaces"
+  },
+  "successors_to_link": [
+    "Resistance and Resistivity",
+    "Kirchhoff's Laws",
+    "Alternating Current"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Electric Current",
+    "Electric Potential and Potential Difference",
+    "Resistance and Resistivity",
+    "Kirchhoff's Laws",
+    "Alternating Current",
+    "Electric Charge",
+    "Electric Circuit",
+    "Heating Effect of Electric Current",
+    "Electric Power and Energy",
+    "Magnetic Field and Field Lines"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full conceptual and numerical treatment at CBSE Board-exam level. Use equations where standard. Target: Class 10 student.",
+  "aliases": []
+}

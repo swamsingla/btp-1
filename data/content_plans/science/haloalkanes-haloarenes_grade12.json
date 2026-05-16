@@ -1,0 +1,41 @@
+{
+  "concept_slug": "haloalkanes-haloarenes",
+  "canonical_name": "Haloalkanes and Haloarenes",
+  "subject": "science",
+  "grade": 12,
+  "area": "Organic Chemistry",
+  "description": "Preparation; SN1, SN2 reactions; elimination; Grignard reagent",
+  "page_depth": "standard",
+  "target_words": 800,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 12 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "IUPAC Nomenclature",
+    "Reaction Mechanisms"
+  ],
+  "prerequisites_descriptions": {
+    "IUPAC Nomenclature": "Systematic naming rules for organic compounds",
+    "Reaction Mechanisms": "Homolytic and heterolytic fission; carbocations; free radical mechanism"
+  },
+  "successors_to_link": [],
+  "related_to_link": [],
+  "see_also": [
+    "IUPAC Nomenclature",
+    "Reaction Mechanisms",
+    "Alcohols, Phenols and Ethers",
+    "Aldehydes, Ketones and Carboxylic Acids",
+    "Amines",
+    "Polymers",
+    "Chemistry in Everyday Life"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Worked Examples",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}

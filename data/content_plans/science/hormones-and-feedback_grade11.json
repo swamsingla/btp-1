@@ -1,0 +1,47 @@
+{
+  "concept_slug": "hormones-and-feedback",
+  "canonical_name": "Hormones and Feedback Mechanisms",
+  "subject": "science",
+  "grade": 11,
+  "area": "Human Physiology",
+  "description": "Positive and negative feedback; hypothalamic-pituitary axis",
+  "page_depth": "standard",
+  "target_words": 1100,
+  "context_summary": "No external source material found. Generate based on NCERT curriculum knowledge for Grade 11 Science.",
+  "context_sources": [],
+  "ncert_chunks_found": 0,
+  "wiki_found": false,
+  "prerequisites_to_link": [
+    "Endocrine System"
+  ],
+  "prerequisites_descriptions": {
+    "Endocrine System": "Glands: pituitary, thyroid, adrenal, pancreas; hormones and their functions"
+  },
+  "successors_to_link": [
+    "Menstrual Cycle",
+    "Chemical Coordination and Integration"
+  ],
+  "related_to_link": [],
+  "see_also": [
+    "Endocrine System",
+    "Menstrual Cycle",
+    "Chemical Coordination and Integration",
+    "Human Respiratory System",
+    "Cellular Respiration",
+    "Human Circulatory System",
+    "Human Excretory System",
+    "Nervous System",
+    "Skeletal and Muscular System",
+    "Body Fluids and Circulation"
+  ],
+  "sections": [
+    "Lead",
+    "Explanation",
+    "Mathematical Formulation",
+    "Worked Examples",
+    "Applications",
+    "See Also"
+  ],
+  "grade_note": "Full scientific rigour with derivations and numerical problems. NEET/JEE-level depth where appropriate. Target: Class 11-12 student.",
+  "aliases": []
+}
