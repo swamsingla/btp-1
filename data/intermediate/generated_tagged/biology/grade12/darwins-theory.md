@@ -1,0 +1,42 @@
+# Darwin's Theory of Natural Selection
+
+Charles Darwin's Theory of Natural Selection is the fundamental mechanism driving biological evolution, explaining how life forms gradually change over vast timescales to become better suited to their environments [S1]. Before Darwin, the dominant idea was the theory of special creation, which suggested that all species were created exactly as they exist today and that the Earth was only a few thousand years old [S1]. However, Darwin's extensive observations, particularly during his sea voyage on the H.M.S. Beagle, revealed that existing living forms share similarities with life forms that existed millions of years ago, and that many of those ancient forms are now extinct [S1]. The theory matters because it provides a scientific explanation for the diversity of life, the extinction of species, and the geological history of the Earth, which is billions of years old, rather than a few thousand [S1]. It establishes that all existing life forms share common ancestors, but these ancestors existed at different periods in Earth's history, correlating closely with the planet's geological history [S1].
+
+## The Essence of Natural Selection
+
+The core of Darwin's theory is natural selection, which is fundamentally about reproductive fitness [S1, S2]. Fitness, according to Darwin, refers ultimately and only to reproductive fitness [S1]. This means that the characteristics of an individual or population that enable them to survive better in natural conditions—such as climate, food availability, and physical factors—will allow them to outbreed others that are less endowed [S1]. Those who are better fit in a specific environment leave more progeny than others, and therefore, they survive more and are selected by nature [S1]. It is crucial to remember that this so-called fitness is based on characteristics which are inherited [S2]. Consequently, there must be a genetic basis for getting selected and to evolve [S2]. Fitness is the end result of the ability to adapt and get selected by nature [S2].
+
+A clear example of this principle can be seen in microbes. Evolution by natural selection, in a true sense, would have started when cellular forms of life with differences in metabolic capability originated on earth [S2]. Microbes that divide fast have the ability to multiply and become millions of individuals within hours [S2]. Imagine a colony of bacteria (say A) growing on a given medium. This colony has built-in variation in terms of the ability to utilize a feed component [S2]. If the medium composition changes, bringing out only that part of the population (say B) that can survive under the new conditions, this variant population will outgrow the others in due course of time and appear as a new species [S2]. This entire process would happen within days. For a larger organism like a fish or fowl to undergo a similar change would take millions of years because their life spans are measured in years [S2]. In both cases, the rate of appearance of new forms is linked to the life cycle or the life span [S2].
+
+## Variation and the Struggle for Existence
+
+Natural selection is based on certain factual observations about the world [S2]. For instance, natural resources are limited, and populations are stable in size except for seasonal fluctuations [S2]. Members of a population vary in characteristics, and no two individuals are exactly alike, even if they look superficially similar [S2]. Most importantly, these variations are inherited [S2]. The fact that theoretically, population size will grow exponentially if everybody reproduced maximally—a fact easily seen in a growing bacterial population—and the fact that population sizes in reality are limited, means that there has been competition for resources [S2].
+
+Only some organisms survive and grow at the expense of others that could not flourish [S2]. This is the struggle for existence. The novelty and brilliant insight of Darwin was asserting that variations, which are heritable and which make resource utilization better for a few (adapted to the habitat better), will enable only those to reproduce and leave more progeny [S2]. Hence, over many generations, survivors will leave more progeny, resulting in a change in population characteristics and the appearance of new forms [S2].
+
+## Speciation and Branching Descent
+
+Branching descent and natural selection are the two key concepts of Darwinian Theory of Evolution [S2]. Over time, apparently new types of organisms become recognizable [S1]. All existing life forms share similarities and share common ancestors; however, these ancestors were present at different periods in the history of Earth [S1]. As populations evolve to maximize their reproductive fitness, also called Darwinian fitness (high r value), in the habitat in which they live, they may develop different life history strategies [S3]. Under a particular set of selection pressures, organisms evolve towards the most efficient reproductive strategy [S3].
+
+Some organisms breed only once in their lifetime, such as the Pacific salmon fish or bamboo, while others breed many times during their lifetime, like most birds and mammals [S3]. Similarly, some produce a large number of small-sized offspring, such as oysters and pelagic fishes, while others produce a small number of large-sized offspring, like birds and mammals [S3]. Ecologists suggest that these life history traits have evolved in relation to the constraints imposed by the abiotic and biotic components of the habitat [S3].
+
+## Historical Context and Alternative Theories
+
+Even before Darwin, a French naturalist named Lamarck had proposed that evolution of life forms had occurred but was driven by the use and disuse of organs [S2]. Lamarck gave the example of giraffes who, in an attempt to forage leaves on tall trees, had to adapt by elongating their necks; as they passed on this acquired character of an elongated neck to succeeding generations, giraffes slowly acquired long necks over the years [S2]. However, nobody believes this conjecture any more [S2].
+
+The work of Thomas Malthus on populations also influenced Darwin [S2]. Malthus's observations on population growth and resource limitations helped Darwin formulate his theory of competition.
+
+## Worked Example
+
+Consider a population of bacteria dividing on a standard nutrient medium. This population has built-in variation in terms of its ability to utilize a specific feed component [S2]. If the medium composition is altered to remove that specific feed component, the original population (A) will struggle to survive [S2]. However, a subpopulation (B) that possesses a genetic mutation allowing it to survive on the new medium will thrive. Over the course of a few days, population B will outgrow population A and appear as a new, distinct species adapted to the new conditions [S2]. This demonstrates how fitness, based on inherited characteristics, allows a variant population to outcompete the original population when environmental conditions change [S2].
+
+## Key points
+*   All living organisms share similarities with life forms that existed millions of years ago, and many ancient forms have gone extinct [S1].
+*   Natural selection is the mechanism of evolution, where individuals with heritable traits that better suit their environment leave more progeny [S1, S2].
+*   Fitness refers ultimately and only to reproductive fitness, meaning better-fit individuals outbreed less-endowed ones [S1].
+*   The rate of appearance of new forms is linked to the life cycle or life span of the organism, with microbes evolving much faster than larger animals [S2].
+*   Natural selection is based on the factual observation that populations vary in characteristics and that natural resources are limited, leading to a struggle for existence [S2].
+*   Branching descent is a key concept, where new types of organisms become recognizable over time from common ancestors [S2].
+*   Life history traits, such as breeding frequency and offspring size, have evolved in relation to environmental constraints to maximize reproductive fitness [S3].
+
+<!-- TERMS: natural selection, reproductive fitness, variation, struggle for existence, branching descent, speciation, Lamarckism, Thomas Malthus -->

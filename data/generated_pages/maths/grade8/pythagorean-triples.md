@@ -1,0 +1,157 @@
+---
+{
+  "concept": "Pythagorean Triples",
+  "slug": "pythagorean-triples",
+  "grade": 8,
+  "language": "en",
+  "subject": "maths",
+  "area": "Number Theory",
+  "model": "sarvam-105b",
+  "settings": {
+    "temperature": 0.3,
+    "max_tokens": 8000,
+    "reasoning_effort": "none"
+  },
+  "usage": {
+    "completion_tokens": 1738,
+    "prompt_tokens": 5055,
+    "total_tokens": 6793,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "prompt_tokens_details": null
+  },
+  "target_words": [
+    950,
+    1300
+  ],
+  "generated_at": "2026-10-12T21:48:58",
+  "source_grade": 8,
+  "grade_delta": 0,
+  "hand_edited": "2026-10-12: line-by-line hand audit against the textbook, edited directly: the intro promised a 'famous unsolved puzzle' that was never delivered (and Fermat's Last Theorem is proved, by Wiles in 1994) - added the textbook's Fermat section; the odd-number method no longer claimed to give every primitive triple (8, 15, 17 is a counterexample); removed the 'In Grade 8' self-reference; Sulba-Sutra attribution.",
+  "sources": [
+    {
+      "ref": "S1",
+      "passage_id": "g8_maths_part2_chapter2_019",
+      "chapter": "chapter2",
+      "section": "2.6 A Long-Standing Open Problem"
+    },
+    {
+      "ref": "S2",
+      "passage_id": "g8_maths_part2_chapter2_014",
+      "chapter": "chapter2",
+      "section": "2.5 Right-Triangles Having Integer Sidelengths"
+    }
+  ],
+  "citation_check": {
+    "cited": [
+      "2"
+    ],
+    "invented_citations": [],
+    "unused_sources": [
+      "1"
+    ],
+    "explanatory_paragraphs_without_a_citation": 1,
+    "words": 1014,
+    "target_words": [
+      950,
+      1300
+    ],
+    "untraceable_sections": 0,
+    "ok": true,
+    "structural_problems": [],
+    "verification": {
+      "verdict": "ok",
+      "checks": 1,
+      "tokens": 2271
+    }
+  },
+  "terms": [
+    "pythagorean triples",
+    "baudhāyana triples",
+    "right-angled triangle",
+    "positive integers",
+    "scaled version",
+    "primitive triple",
+    "highest common factor",
+    "consecutive odd numbers",
+    "square numbers",
+    "algebraic relationship",
+    "equation",
+    "natural numbers",
+    "right-triangle",
+    "pythagorean theorem"
+  ]
+}
+---
+
+# Pythagorean Triples
+
+Pythagorean triples are sets of three positive integers $(a, b, c)$ that satisfy the equation $a^2 + b^2 = c^2$. These sets are incredibly useful because they represent the exact side lengths of a right-angled triangle. You already know how to find the length of the longest side of a right triangle using the Pythagorean theorem. Pythagorean triples simply give you a shortcut: instead of calculating square roots, you can instantly identify the side lengths if they happen to be whole numbers. This page explains what these triples are, how to find them, and how they led to a famous problem in mathematics.
+
+## What Are Baudhāyana Triples?
+
+In ancient India, the mathematician Baudhāyana listed, in his Śulba-Sūtra, several integer triples $(a, b, c)$ that form the side lengths of a right-angled triangle. Because they satisfy the equation $a^2 + b^2 = c^2$, these are called Baudhāyana triples. They are also known as Pythagorean triples or right-angled triangle triples.
+
+Some well-known examples of these triples are $(3, 4, 5)$, $(5, 12, 13)$, $(8, 15, 17)$, $(7, 24, 25)$, $(12, 35, 37)$, and $(15, 36, 39)$. You can easily check that they work using the Pythagorean theorem. For example, $3^2 + 4^2 = 9 + 16 = 25$, which is exactly $5^2$.
+
+## Scaled Versions of Triples
+
+There are infinitely many Pythagorean triples. One way to generate them is by taking an existing triple and multiplying all three numbers by the same positive integer $k$. For example, if we multiply $(3, 4, 5)$ by $3$, we get $(9, 12, 15)$. If we multiply it by $10$, we get $(30, 40, 50)$. 
+
+If $(a, b, c)$ is a Pythagorean triple, then $(ka, kb, kc)$ is also a Pythagorean triple for any positive integer $k$. We call this new set a scaled version of the original triple. To prove this, we check the equation: $(ka)^2 + (kb)^2 = k^2a^2 + k^2b^2 = k^2(a^2 + b^2)$. Since $a^2 + b^2 = c^2$, this becomes $k^2c^2$, which is exactly $(kc)^2$.
+
+For example, if we take the triple $(5, 12, 13)$ and multiply it by $2$, we get $(10, 24, 26)$. Checking the equation, $10^2 + 24^2 = 100 + 576 = 676$, which is exactly $26^2$.
+
+## Primitive Triples
+
+Some Pythagorean triples have a common factor greater than 1, while others do not. A Pythagorean triple that does not have any common factor greater than 1 is called a primitive Pythagorean triple. 
+
+The triple $(3, 4, 5)$ is primitive because the only number that divides 3, 4, and 5 is 1. However, $(9, 12, 15)$ is not primitive, because they are all divisible by 3. 
+
+If we have a non-primitive triple like $(9, 12, 15)$ and divide each number by their Highest Common Factor (HCF), which is 3, we get $(3, 4, 5)$. This resulting triple is primitive. If we can find all the primitive triples, we can find all the other triples by scaling them up.
+
+## Generating Primitive Triples
+
+One way to generate primitive Pythagorean triples uses the relationship between consecutive odd numbers and square numbers. The sum of the first $n$ odd numbers is always $n^2$. 
+
+We can express this algebraically. The $n$-th odd number is $2n - 1$. Therefore, the sum of the first $(n - 1)$ odd numbers is $(n - 1)^2$, and adding the $n$-th odd number gives us $n^2$. This gives us the equation:
+$$ (n - 1)^2 + (2n - 1) = n^2 $$
+If the $n$-th odd number, $2n - 1$, is also a perfect square, then we have a sum of two square numbers equal to another square number, which gives us a Pythagorean triple.
+
+Let us look at the number 9. It is the 5th odd number, and it is also a square number ($3 \times 3 = 9$). So, we can substitute $n = 5$ into the equation to get:
+$$ (5 - 1)^2 + 9 = 5^2 $$
+$$ 4^2 + 3^2 = 5^2 $$
+This gives us the primitive triple $(3, 4, 5)$.
+
+Similarly, 25 is an odd square. It is the 13th odd number, so $n = 13$. Substituting this into the equation gives:
+$$ (13 - 1)^2 + 25 = 13^2 $$
+$$ 12^2 + 5^2 = 13^2 $$
+This gives us the primitive triple $(5, 12, 13)$.
+
+This method does not give every primitive triple. For example, $(8, 15, 17)$ is primitive, but none of its sides is one less than the hypotenuse, so it cannot come from this method.
+
+## Fermat and a Famous Problem
+
+We have seen that infinitely many square numbers can be written as a sum of two square numbers. This made the French mathematician Fermat, who lived in the 17th century, wonder whether a perfect cube can be a sum of two perfect cubes, a fourth power a sum of two fourth powers, and so on. In other words, does $x^n + y^n = z^n$ have a solution in natural numbers when $n > 2$? Fermat wrote in the margin of a book that it does not, and that he had a marvellous proof which the margin was too small to hold. No one ever found his proof, and more than 300 years of attempts followed. The statement, known as Fermat's Last Theorem, was finally proved by Andrew Wiles in 1994.
+
+## Worked Example
+
+Let us apply the scaling rule to a larger number. Suppose we want to find a Pythagorean triple using the primitive triple $(8, 15, 17)$ and a scaling factor of $5$. 
+
+According to the rule, if $(a, b, c)$ is a Pythagorean triple, then $(ka, kb, kc)$ is also a Pythagorean triple. We multiply each number by $5$:
+$$ (8 \times 5, 15 \times 5, 17 \times 5) = (40, 75, 85) $$
+To check our answer, we substitute these values back into the equation $a^2 + b^2 = c^2$:
+$$ 40^2 + 75^2 = 1600 + 5625 = 7225 $$
+$$ 85^2 = 7225 $$
+Since both sides are equal, $(40, 75, 85)$ is indeed a Pythagorean triple.
+
+## Key points
+- A Pythagorean triple is a set of three positive integers $(a, b, c)$ that satisfy the equation $a^2 + b^2 = c^2$.
+- If $(a, b, c)$ is a Pythagorean triple, then $(ka, kb, kc)$ is also a Pythagorean triple for any positive integer $k$.
+- A Pythagorean triple with no common factor greater than 1 is called a primitive Pythagorean triple.
+- Primitive triples can be generated using the algebraic relationship between odd numbers and square numbers: $(n - 1)^2 + (2n - 1) = n^2$.
+- Finding all primitive triples allows you to find all possible Pythagorean triples by scaling them up.

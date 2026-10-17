@@ -5,7 +5,7 @@ let _cache = null;
 
 export function getGraph() {
   if (_cache) return _cache;
-  const filePath = join(process.cwd(), 'public', 'maths_v2.json');
+  const filePath = join(process.cwd(), 'public', 'maths.json');
   const raw = readFileSync(filePath, 'utf-8');
   _cache = JSON.parse(raw);
   return _cache;

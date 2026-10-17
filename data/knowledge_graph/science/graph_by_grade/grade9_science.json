@@ -1,1230 +1,1647 @@
 {
   "grade": 9,
   "subject": "science",
+  "total_concepts": 85,
   "concepts": {
-    "what-we-eat": {
-      "canonical_name": "What We Eat",
-      "slug": "what-we-eat",
-      "aliases": [
-        "Food Habits",
-        "Nutrition"
-      ],
-      "domain": "Human Nutrition",
-      "area": "Components of Food",
-      "parent": "",
+    "physical-quantities": {
+      "canonical_name": "Physical Quantities",
+      "slug": "physical-quantities",
       "grades": [
         6,
-        7,
-        8,
         9,
-        10
+        11
       ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 1,
-        "8": 2,
-        "9": 3,
-        "10": 4
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "diversity-in-plants-and-animal-around-us",
-        "leaves-as-food-factories",
-        "life-cycle-of-plants",
-        "natural-resource-management",
-        "water-pollution",
-        "what-sets-the-living-apart-from-the-non-living"
-      ],
-      "leads_to": [],
-      "related": [
-        "balanced-diet",
-        "diversity-in-plants-and-animal-around-us",
-        "human-impact-on-the-environmental-conservation",
-        "natural-resource-management",
-        "our-solar-system"
-      ],
-      "see_also": []
-    },
-    "measuring-temperature": {
-      "canonical_name": "Measuring Temperature",
-      "slug": "measuring-temperature",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Temperature Measurement",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 5,
-        "7": 4,
-        "8": 3,
-        "9": 2,
-        "10": 1
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-environmental-conservation",
-        "earths-natural-resources",
-        "states-of-water"
-      ],
-      "leads_to": [],
-      "related": [
-        "food-chain-dynamics",
-        "leaves-as-food-factories"
-      ],
-      "see_also": []
-    },
-    "soil-erosion": {
-      "canonical_name": "Soil Erosion",
-      "slug": "soil-erosion",
-      "_aliases": [
-        "Land Degradation",
-        "Water Pollution"
-      ],
-      "domain": "Environmental Science",
-      "area": "Geography and Environment",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 5,
-        "7": 4,
-        "8": 3,
-        "9": 2,
-        "10": 1
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "natural-resource-management",
-        "plate-tectoncs"
-      ],
-      "leads_to": [],
-      "related": [
-        "diversity-in-plants-and-animal-around-us",
-        "earths-natural-resources",
-        "human-impact-on-the-environmental-conservation"
-      ],
-      "see_also": []
-    },
-    "food-chain-dynamics": {
-      "canonical_name": "Food Chain Dynamics",
-      "slug": "food-chain-dynamics",
-      "aliases": [],
-      "domain": "Ecology",
-      "area": "Ecosystem Processes",
-      "parent": "ecological-processes",
-      "grades": [
-        7,
-        9
-      ],
-      "importance_BY_GRADE": {
-        "7": 5,
-        "9": 4
-      },
-      "source_BOARDS": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "food-chain",
-        "interactions-that-maintain-ecosystems"
-      ],
-      "leads_to": [
-        "cellular-respiration",
-        "energy",
-        "population-dynamics",
-        "valency",
-        "water-pollution"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "climate-change": {
-      "canonical_name": "Climate Change",
-      "slug": "climate-change",
-      "aliases": [
-        "Global Warming",
-        "Environmental Issue"
-      ],
-      "domain": "Earth Sciences",
-      "area": "Atmospheric Science",
-      "parent": "",
-      "grades": [
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance_BY_GRADE": {
-        "7": 5,
-        "8": 4,
-        "9": 5,
-        "10": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-environmental-conservation",
-        "earths-natural-resources",
-        "human-impact-on-the-environmental-conservation",
-        "natural-disasters"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "heat-generation-in-electrical-devices": {
-      "canonical_name": "Heat Generation in Electrical Devices",
-      "slug": "heat-generation-in-electrical-devices",
-      "_aliases": [
-        "Thermal Energy Transfer",
-        "Resistance and Heat"
-      ],
-      "domain": "Science",
-      "area": "Electric Circuits",
-      "parent": "electric-circuits",
-      "grades": [
-        8,
-        9,
-        10
-      ],
-      "importance_by-grade": {
-        "8": "4",
-        "9": "5",
-        "10": "3"
-      },
-      "source_Boads": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "force": {
-      "canonical_name": "Force",
-      "slug": "force",
-      "aliases": [
-        "Fictitious force",
-        "Contact force",
-        "Non-contact force"
-      ],
-      "domain": "Physics",
-      "area": "Forces and Newton's laws",
-      "parent": "",
-      "grades": [
-        8,
-        9,
-        10
-      ],
-      "importance_BY_GRADE": {
-        "8": 5,
-        "9": 4,
-        "10": 3
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-natural-resources",
-        "earths-pedosphere-and-interactions-with-other-components-of-the-environment"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "mixtures": {
-      "canonical_name": "Mixtures",
-      "slug": "mixtures",
-      "_aliases": [
-        "Mixture",
-        "Blends"
-      ],
-      "domain": "Chemistry",
-      "area": "States of Matter",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 4,
-        "9": 5,
-        "10": 3
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "leaves-as-food-factories",
-        "natural-resource-management",
-        "states-of-water",
-        "what-is-matter"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "vapor-compression-refrigeration-cycle": {
-      "canonical_name": "Vapor Compression Refrigeration Cycle",
-      "slug": "vapor-compression-refrigeration-cycle",
-      "aliases": [
-        "Refrigeration Cycle"
-      ],
-      "domain": "Science",
-      "Area": "Chemistry",
-      "Parent": null,
-      "grades": [
-        8,
-        9,
-        10
-      ],
-      "Importance_By_Grade": {
-        "8": 4,
-        "9": 3,
-        "10": 5
-      },
-      "Source_Boards": [
-        "State Boards"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "physical-nature-of-matter": {
-      "canonical_name": "Physical Nature of Matter",
-      "slug": "physical-nature-of-matter",
-      "aliases": [],
-      "domain": "Chemistry",
-      "area": "",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance_BY_GRADE": {
-        "9": 5
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Units and Measurement",
+      "description": "Measurable attributes of the physical world: length, mass, time, temperature",
       "prerequisites": [],
       "leads_to": [
-        "states-of-matter"
+        "si-units"
       ],
-      "related": [],
-      "see_also": []
+      "subject": "physics"
     },
-    "change-of-state-of-matter": {
-      "canonical_name": "Change of State of Matter",
-      "slug": "change-of-state-of-matter",
+    "si-units": {
+      "canonical_name": "SI Units",
+      "slug": "si-units",
+      "grades": [
+        6,
+        9,
+        11
+      ],
+      "area": "Units and Measurement",
+      "description": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela",
+      "prerequisites": [
+        "physical-quantities"
+      ],
+      "leads_to": [
+        "measurement-of-length",
+        "measurement-of-mass",
+        "measurement-of-time",
+        "measurement-of-temperature",
+        "dimensional-analysis",
+        "ideal-gas-laws"
+      ],
+      "subject": "physics"
+    },
+    "measurement-of-mass": {
+      "canonical_name": "Measurement of Mass",
+      "slug": "measurement-of-mass",
+      "grades": [
+        6,
+        9
+      ],
+      "area": "Units and Measurement",
+      "description": "Measuring mass using beam balance; units: gram, kilogram",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [
+        "mass-and-inertia"
+      ],
       "aliases": [
-        "Matter Changing Its State"
+        "measuring mass",
+        "beam balance",
+        "gram and kilogram",
+        "how heavy an object is"
       ],
-      "domain": "Thermodynamics",
-      "area": "States of Matter",
-      "parent": "states-of-matter",
-      "grades": [
-        9
-      ],
-      "importance_BY_GRADE": {
-        "9": 5
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
+      "subject": "physics"
     },
-    "energy": {
-      "canonical_name": "Energy",
-      "slug": "energy",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Thermodynamics",
-      "parent": null,
+    "measurement-of-time": {
+      "canonical_name": "Measurement of Time",
+      "slug": "measurement-of-time",
       "grades": [
         6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-environmental-conservation",
-        "earths-natural-resources",
-        "food-chain-dynamics",
-        "natural-disasters"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "propagation-of-sound": {
-      "canonical_name": "Propagation of Sound",
-      "slug": "propagation-of-sound",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Sound Waves",
-      "parent": "",
-      "grades": [
         9
       ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Units and Measurement",
+      "description": "Measuring time using clock, stopwatch; units: second, minute, hour",
       "prerequisites": [
-        "earths-environmental-conservation"
+        "si-units"
       ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "applications-of-ultrasound": {
-      "canonical_name": "Applications of Ultrasound",
-      "slug": "applications-of-ultrasound",
-      "_aliases": [
-        "Ultrasound Technology",
-        "Medical Imaging Techniques"
+      "leads_to": [
+        "rest-and-motion"
       ],
-      "domain": "Physics",
-      "area": "Wave Properties",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "human-impact-on-the-environmental-conservation"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "types-of-pure-elements-and-compounds": {
-      "canonical_name": "Types of Pure Elements and Compounds",
-      "slug": "types-of-pure-elements-and-compounds",
-      "_aliases": [
-        "Pure Elements",
-        "Elements",
-        "Compounds"
-      ],
-      "domain": "Chemistry",
-      "area": "Atomic Structure and Properties",
-      "parent": "chemistry",
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "molecules": {
-      "canonical_name": "Molecules",
-      "slug": "molecules",
-      "_aliases": [
-        "MOLECULES",
-        "Chemical Molecules"
-      ],
-      "domain": "Chemistry",
-      "area": "Atomic Structure",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "states-of-water",
-        "what-is-matter"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "charged-particles-in-matters": {
-      "canonical_name": "Charged Particles in Matters",
-      "slug": "charged-particles-in-matters",
       "aliases": [
-        "charged particles",
-        "matter"
+        "measuring time",
+        "stopwatch",
+        "second minute and hour",
+        "time interval"
       ],
-      "domain": "Physics",
-      "area": "Atomic Physics",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5,
-        "6": null,
-        "7": null,
-        "8": null,
-        "10": null
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
+      "subject": "physics"
     },
-    "valency": {
-      "canonical_name": "Valency",
-      "slug": "valency",
-      "_aliases": [
-        "Definition of valency",
-        "Types of valency",
-        "Valency of metals",
-        "Valency of non-metalls",
-        "Electron Configuration",
-        "Chemical Reactivity",
-        "Chemistry Bonding"
-      ],
-      "domain": "Atomic Structure",
-      "area": "Periodic Table and Elements",
-      "parent": "periodic-table-and-elements",
+    "rest-and-motion": {
+      "canonical_name": "Rest and Motion",
+      "slug": "rest-and-motion",
       "grades": [
         6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance by grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "food-chain-dynamics",
-        "leaves-as-food-factories",
-        "natural-resource-management",
-        "states-of-matter"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "living-organisms": {
-      "canonical_name": "Living Organisms",
-      "slug": "living-organisms",
-      "aliases": [],
-      "domain": "Biology",
-      "area": "Characteristics of Living Organisms",
-      "parents": [
-        {
-          "name": "biology",
-          "level": "Domain"
-        },
-        {
-          "value": "characteristics-of-living-organisms",
-          "level": "Area"
-        }
-      ],
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 1,
-        "8": 2,
-        "9": 3,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "diversity-in-plants-and-animal-around-us",
-        "leaves-as-food-factories",
-        "life-cycle-of-plants",
-        "what-sets-the-living-apart-from-the-non-living"
-      ],
-      "leads_to": [],
-      "related": [
-        "climate-change",
-        "food-chain-dynamics",
-        "plate-tectoncs"
-      ],
-      "see_also": []
-    },
-    "measuring-the-rate-of-motion": {
-      "canonical_name": "Measuring the Rate Of Motion",
-      "slug": "measuring-the-rate-of-motion",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Motion And Speed",
-      "parent": "",
-      "grades": [
         9
       ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "equation-of-motion": {
-      "canonical_name": "Equation of Motion",
-      "slug": "equation-of-motion",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Motion",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Mechanics",
+      "description": "Relative nature of rest and motion; types: rectilinear, circular, oscillatory",
       "prerequisites": [
-        "earths-natural-resources"
+        "measurement-of-length",
+        "measurement-of-time"
       ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "first-law-of-motion-newton-s-first-law": {
-      "canonical_name": "First Law of Motion Newton's First Law",
-      "slug": "first-law-of-motion-newton-s-first-law",
+      "leads_to": [
+        "distance-and-displacement",
+        "force-concept"
+      ],
       "aliases": [
-        "Law of Motion",
-        "Inertia"
+        "moving things",
+        "types of motion",
+        "at rest or in motion",
+        "rectilinear and circular motion"
       ],
-      "domain": "Physics",
-      "area": "Newton's Law of Motion and Universal Gravitation",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 5,
-        "10": 4
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
+      "subject": "physics"
     },
-    "third-law-of-motion-newton": {
-      "canonical_name": "Third Law of Motion (Newton)",
-      "slug": "third-law-of-motion-newton",
-      "aliases": [
-        "Action-Reaction Principle",
-        "Newton's Third Law"
-      ],
-      "domain": "Physics",
-      "area": "Motion",
-      "parent": "",
+    "distance-and-displacement": {
+      "canonical_name": "Distance and Displacement",
+      "slug": "distance-and-displacement",
       "grades": [
         9
       ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "mass": {
-      "canonical_name": "Mass",
-      "slug": "mass",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Properties of Matter",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Mechanics",
+      "description": "Scalar (distance) vs vector (displacement); path length vs shortest path",
       "prerequisites": [
-        "earths-natural-resources",
-        "states-of-water",
-        "what-is-matter"
+        "rest-and-motion"
+      ],
+      "leads_to": [
+        "speed-and-velocity",
+        "scalars-and-vectors",
+        "work-physics"
+      ],
+      "aliases": [
+        "path length",
+        "motion along a straight line",
+        "describing motion",
+        "scalar and vector quantities"
+      ],
+      "subject": "physics"
+    },
+    "speed-and-velocity": {
+      "canonical_name": "Speed and Velocity",
+      "slug": "speed-and-velocity",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Speed = distance/time; velocity = displacement/time; uniform and non-uniform motion",
+      "prerequisites": [
+        "distance-and-displacement"
+      ],
+      "leads_to": [
+        "acceleration",
+        "distance-time-graphs",
+        "uniform-circular-motion",
+        "kinetic-energy",
+        "wave-motion",
+        "doppler-effect",
+        "motion-in-a-plane"
+      ],
+      "subject": "physics"
+    },
+    "acceleration": {
+      "canonical_name": "Acceleration",
+      "slug": "acceleration",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Rate of change of velocity; uniform acceleration; deceleration",
+      "prerequisites": [
+        "speed-and-velocity"
+      ],
+      "leads_to": [
+        "equations-of-motion",
+        "newtons-second-law",
+        "oscillations"
+      ],
+      "subject": "physics"
+    },
+    "equations-of-motion": {
+      "canonical_name": "Equations of Motion",
+      "slug": "equations-of-motion",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "v = u + at; s = ut + ½at²; v² = u² + 2as; graphical derivation",
+      "prerequisites": [
+        "acceleration"
+      ],
+      "leads_to": [
+        "distance-time-graphs",
+        "projectile-motion",
+        "rotational-kinematics"
+      ],
+      "subject": "physics"
+    },
+    "distance-time-graphs": {
+      "canonical_name": "Distance-Time and Velocity-Time Graphs",
+      "slug": "distance-time-graphs",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Interpreting motion graphs; area under v-t graph = displacement; slope = acceleration",
+      "prerequisites": [
+        "equations-of-motion",
+        "speed-and-velocity"
       ],
       "leads_to": [],
-      "related": [],
-      "see_also": []
+      "subject": "physics"
     },
-    "archimedes-principal": {
-      "canonical_name": "Archimedes' Principal",
-      "slug": "archimedes-principal",
-      "aliases": [
-        "Buoyancy"
+    "uniform-circular-motion": {
+      "canonical_name": "Uniform Circular Motion",
+      "slug": "uniform-circular-motion",
+      "grades": [
+        9,
+        11
       ],
-      "domain": "Physics",
+      "area": "Mechanics",
+      "description": "Motion in a circle at constant speed; centripetal acceleration",
+      "prerequisites": [
+        "speed-and-velocity"
+      ],
+      "leads_to": [
+        "keplers-laws",
+        "rotational-kinematics",
+        "centripetal-force"
+      ],
+      "subject": "physics"
+    },
+    "force-concept": {
+      "canonical_name": "Force — Concept",
+      "slug": "force-concept",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Push or pull; contact and non-contact forces; effects of force",
+      "prerequisites": [
+        "rest-and-motion"
+      ],
+      "leads_to": [
+        "types-of-forces",
+        "pressure-concept",
+        "newtons-first-law",
+        "work-physics",
+        "torque",
+        "elasticity-physics"
+      ],
+      "aliases": [
+        "push or pull",
+        "effects of force",
+        "contact and non-contact forces"
+      ],
+      "subject": "physics"
+    },
+    "newtons-first-law": {
+      "canonical_name": "Newton's First Law of Motion",
+      "slug": "newtons-first-law",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Law of inertia; objects at rest stay at rest unless acted upon by net force",
+      "prerequisites": [
+        "force-concept"
+      ],
+      "leads_to": [
+        "inertia",
+        "newtons-second-law"
+      ],
+      "subject": "physics"
+    },
+    "inertia": {
+      "canonical_name": "Inertia",
+      "slug": "inertia",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Property of matter to resist change in state of rest or uniform motion",
+      "prerequisites": [
+        "newtons-first-law"
+      ],
+      "leads_to": [
+        "mass-and-inertia"
+      ],
+      "aliases": [
+        "inertia and mass",
+        "resistance to change in motion",
+        "Newton's first law of motion"
+      ],
+      "subject": "physics"
+    },
+    "mass-and-inertia": {
+      "canonical_name": "Mass and Inertia",
+      "slug": "mass-and-inertia",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Mass as measure of inertia; distinction between mass and weight",
+      "prerequisites": [
+        "inertia",
+        "measurement-of-mass"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "newtons-second-law": {
+      "canonical_name": "Newton's Second Law of Motion",
+      "slug": "newtons-second-law",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "F = ma; net force equals mass times acceleration",
+      "prerequisites": [
+        "newtons-first-law",
+        "acceleration"
+      ],
+      "leads_to": [
+        "momentum",
+        "newtons-third-law",
+        "gravitation-intro",
+        "free-body-diagrams",
+        "pulleys-and-strings",
+        "centre-of-mass",
+        "centripetal-force"
+      ],
+      "subject": "physics"
+    },
+    "momentum": {
+      "canonical_name": "Momentum",
+      "slug": "momentum",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "p = mv; impulse = change in momentum; F = dp/dt",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [
+        "conservation-of-momentum",
+        "angular-momentum",
+        "kinetic-theory-of-gases",
+        "dual-nature-of-matter"
+      ],
+      "aliases": [
+        "linear momentum",
+        "impulse",
+        "conservation of momentum",
+        "mass times velocity"
+      ],
+      "subject": "physics"
+    },
+    "newtons-third-law": {
+      "canonical_name": "Newton's Third Law of Motion",
+      "slug": "newtons-third-law",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Every action has an equal and opposite reaction; action-reaction pairs",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [
+        "conservation-of-momentum"
+      ],
+      "subject": "physics"
+    },
+    "conservation-of-momentum": {
+      "canonical_name": "Conservation of Momentum",
+      "slug": "conservation-of-momentum",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Total momentum of isolated system is conserved; applications in collisions",
+      "prerequisites": [
+        "momentum",
+        "newtons-third-law",
+        "conservation-of-energy"
+      ],
+      "leads_to": [
+        "equilibrium-of-rigid-body",
+        "elastic-collisions"
+      ],
+      "subject": "physics"
+    },
+    "work-physics": {
+      "canonical_name": "Work (Physics)",
+      "slug": "work-physics",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "W = F·d·cosθ; positive, negative and zero work",
+      "prerequisites": [
+        "force-concept",
+        "distance-and-displacement"
+      ],
+      "leads_to": [
+        "kinetic-energy",
+        "potential-energy",
+        "power-physics",
+        "gravitational-potential-energy",
+        "electric-potential",
+        "work-energy-theorem"
+      ],
+      "subject": "physics"
+    },
+    "kinetic-energy": {
+      "canonical_name": "Kinetic Energy",
+      "slug": "kinetic-energy",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "KE = ½mv²; work-energy theorem",
+      "prerequisites": [
+        "work-physics",
+        "speed-and-velocity",
+        "forms-of-energy"
+      ],
+      "leads_to": [
+        "conservation-of-energy",
+        "elastic-collisions",
+        "work-energy-theorem"
+      ],
+      "subject": "physics"
+    },
+    "potential-energy": {
+      "canonical_name": "Potential Energy",
+      "slug": "potential-energy",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Gravitational PE = mgh; elastic PE; zero reference",
+      "prerequisites": [
+        "work-physics",
+        "forms-of-energy"
+      ],
+      "leads_to": [
+        "conservation-of-energy",
+        "gravitational-potential-energy"
+      ],
+      "subject": "physics"
+    },
+    "conservation-of-energy": {
+      "canonical_name": "Conservation of Energy",
+      "slug": "conservation-of-energy",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Energy can neither be created nor destroyed; transformation between forms",
+      "prerequisites": [
+        "kinetic-energy",
+        "potential-energy",
+        "forms-of-energy"
+      ],
+      "leads_to": [
+        "conservation-of-momentum",
+        "angular-momentum",
+        "oscillations",
+        "specific-heat-capacity",
+        "first-law-of-thermodynamics",
+        "emf-and-internal-resistance",
+        "bernoullis-principle"
+      ],
+      "subject": "physics"
+    },
+    "power-physics": {
+      "canonical_name": "Power",
+      "slug": "power-physics",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Rate of doing work; P = W/t; unit: watt",
+      "prerequisites": [
+        "work-physics"
+      ],
+      "leads_to": [
+        "electric-power"
+      ],
+      "subject": "physics"
+    },
+    "forms-of-energy": {
+      "canonical_name": "Forms of Energy",
+      "slug": "forms-of-energy",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Kinetic, potential, heat, light, sound, chemical, electrical, nuclear energy",
+      "prerequisites": [],
+      "leads_to": [
+        "conservation-of-energy",
+        "kinetic-energy",
+        "potential-energy"
+      ],
+      "subject": "physics"
+    },
+    "gravitation-intro": {
+      "canonical_name": "Gravitation",
+      "slug": "gravitation-intro",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Gravitation",
+      "description": "Every body attracts every other body; Newton's law of gravitation F = GMm/r²",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [
+        "acceleration-due-to-gravity",
+        "keplers-laws",
+        "gravitational-potential-energy"
+      ],
+      "subject": "physics"
+    },
+    "acceleration-due-to-gravity": {
+      "canonical_name": "Acceleration Due to Gravity",
+      "slug": "acceleration-due-to-gravity",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Gravitation",
+      "description": "g = GM/R²; variation with altitude, depth and latitude",
+      "prerequisites": [
+        "gravitation-intro"
+      ],
+      "leads_to": [
+        "projectile-motion",
+        "buoyancy-and-archimedes",
+        "simple-pendulum"
+      ],
+      "subject": "physics"
+    },
+    "weight": {
+      "canonical_name": "Weight",
+      "slug": "weight",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Gravitation",
+      "description": "W = mg; weight vs mass; weightlessness",
+      "prerequisites": [],
+      "leads_to": [
+        "buoyancy-and-archimedes"
+      ],
+      "aliases": [
+        "weight of an object",
+        "mass versus weight",
+        "force of gravity on a body",
+        "weightlessness"
+      ],
+      "subject": "physics"
+    },
+    "buoyancy-and-archimedes": {
+      "canonical_name": "Buoyancy and Archimedes' Principle",
+      "slug": "buoyancy-and-archimedes",
+      "grades": [
+        9
+      ],
       "area": "Fluid Mechanics",
-      "parent": null,
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "nuclear-reactions": {
-      "canonical_name": "Nuclear Reactions",
-      "slug": "nuclear-reactions",
-      "_aliases": [
-        "Radioactivity",
-        "Chain Reaction"
-      ],
-      "domain": "Physics",
-      "area": "Atomic Structure and Properties",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance_BY_GRADE": {
-        "9": 5
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "description": "Upthrust = weight of displaced fluid; floating and sinking; relative density",
       "prerequisites": [
-        "atomic-structure"
+        "fluid-pressure",
+        "weight",
+        "acceleration-due-to-gravity"
       ],
       "leads_to": [],
-      "related": [],
-      "see_also": []
+      "subject": "physics"
     },
-    "mendelian-inheritance-patterns-and-laws": {
-      "canonical_name": "Mendelian Inheritance Patterns and Laws",
-      "slug": "mendelian-inheritance-patterns-and-laws",
-      "aliases": [],
-      "domain": "Genetics",
-      "area": "Heredity",
-      "parent": "",
+    "wave-motion": {
+      "canonical_name": "Wave Motion",
+      "slug": "wave-motion",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Mechanical and electromagnetic waves; transverse and longitudinal",
+      "prerequisites": [
+        "speed-and-velocity"
+      ],
+      "leads_to": [
+        "wave-properties"
+      ],
+      "subject": "physics"
+    },
+    "wave-properties": {
+      "canonical_name": "Wave Properties",
+      "slug": "wave-properties",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Wavelength, frequency, amplitude, speed; v = fλ",
+      "prerequisites": [
+        "wave-motion"
+      ],
+      "leads_to": [
+        "characteristics-of-sound",
+        "superposition-of-waves",
+        "doppler-effect",
+        "dispersion-of-light"
+      ],
+      "subject": "physics"
+    },
+    "sound-production": {
+      "canonical_name": "Sound — Production and Propagation",
+      "slug": "sound-production",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Waves and Sound",
+      "description": "Sound needs a medium; vibrations produce sound; speed of sound in different media",
+      "prerequisites": [],
+      "leads_to": [
+        "characteristics-of-sound",
+        "echo-and-reverberation",
+        "human-ear",
+        "standing-waves"
+      ],
+      "subject": "physics"
+    },
+    "characteristics-of-sound": {
+      "canonical_name": "Characteristics of Sound",
+      "slug": "characteristics-of-sound",
       "grades": [
         9
       ],
-      "importance_BY_GRADE": {
-        "9": 5
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
+      "area": "Waves and Sound",
+      "description": "Pitch (frequency), loudness (amplitude), quality (timbre)",
+      "prerequisites": [
+        "sound-production",
+        "wave-properties"
       ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
+      "leads_to": [
+        "ultrasound-applications"
+      ],
+      "subject": "physics"
     },
-    "evolution": {
-      "canonical_name": "Evolution",
-      "slug": "evolution",
-      "_aliases": [
-        "Species Change And Fossil Record",
-        "Mechanisms Of Evolution",
-        "Evolutionary Adaptations And Speciation",
-        "Phylogenetic Trees And Cladistics",
-        "Evolution Relationships And Homologous Structures"
+    "echo-and-reverberation": {
+      "canonical_name": "Echo and Reverberation",
+      "slug": "echo-and-reverberation",
+      "grades": [
+        9
       ],
-      "domain": "Biology",
-      "area": "Ecology And Evolution",
-      "parent": null,
+      "area": "Waves and Sound",
+      "description": "Reflection of sound; minimum distance for echo; uses in SONAR",
+      "prerequisites": [
+        "sound-production"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "ultrasound-applications": {
+      "canonical_name": "Ultrasound and Its Applications",
+      "slug": "ultrasound-applications",
+      "grades": [
+        9
+      ],
+      "area": "Waves and Sound",
+      "description": "Ultrasound in medical imaging, cleaning, SONAR",
+      "prerequisites": [
+        "characteristics-of-sound"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "human-ear": {
+      "canonical_name": "Structure of the Human Ear",
+      "slug": "human-ear",
+      "grades": [
+        9
+      ],
+      "area": "Waves and Sound",
+      "description": "Outer, middle, inner ear; auditory range 20 Hz to 20 kHz",
+      "prerequisites": [
+        "sound-production"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "change-of-state": {
+      "canonical_name": "Change of State of Matter",
+      "slug": "change-of-state",
+      "grades": [
+        9
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Melting, freezing, boiling, condensation; latent heat",
+      "prerequisites": [
+        "heat-and-temperature"
+      ],
+      "leads_to": [
+        "evaporation",
+        "change-of-state-chemistry"
+      ],
+      "subject": "physics"
+    },
+    "evaporation": {
+      "canonical_name": "Evaporation",
+      "slug": "evaporation",
+      "grades": [
+        9
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Factors affecting evaporation; cooling effect of evaporation",
+      "prerequisites": [
+        "change-of-state",
+        "particle-nature-of-matter"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "specific-heat-capacity": {
+      "canonical_name": "Specific Heat Capacity",
+      "slug": "specific-heat-capacity",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Q = mcΔT; specific heat; calorimetry",
+      "prerequisites": [
+        "heat-and-temperature",
+        "conservation-of-energy"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "atomic-models-physics": {
+      "canonical_name": "Atomic Models (Physics)",
+      "slug": "atomic-models-physics",
+      "grades": [
+        9,
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Thomson, Rutherford, Bohr models; alpha-particle scattering",
+      "prerequisites": [
+        "electric-charge"
+      ],
+      "leads_to": [
+        "bohrs-model",
+        "nuclear-structure"
+      ],
+      "subject": "physics"
+    },
+    "what-is-matter": {
+      "canonical_name": "Matter and Its Properties",
+      "slug": "what-is-matter",
       "grades": [
         6,
-        7,
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Anything that has mass and occupies space",
+      "prerequisites": [],
+      "leads_to": [
+        "states-of-matter-chemistry",
+        "physical-vs-chemical-change",
+        "metals-nonmetals-properties",
+        "air-pollution",
+        "daltons-atomic-theory"
+      ],
+      "subject": "chemistry"
+    },
+    "states-of-matter-chemistry": {
+      "canonical_name": "States of Matter",
+      "slug": "states-of-matter-chemistry",
+      "grades": [
+        6,
+        9,
+        11
+      ],
+      "area": "Matter and Classification",
+      "description": "Solid, liquid, gas; arrangement and movement of particles",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [
+        "thermal-expansion",
+        "change-of-state-chemistry",
+        "particle-nature-of-matter",
+        "water-and-its-properties",
+        "liquid-state"
+      ],
+      "subject": "chemistry"
+    },
+    "change-of-state-chemistry": {
+      "canonical_name": "Change of State",
+      "slug": "change-of-state-chemistry",
+      "grades": [
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Melting, boiling, sublimation; effect of pressure and temperature; latent heat",
+      "prerequisites": [
+        "states-of-matter-chemistry",
+        "change-of-state",
+        "particle-nature-of-matter"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "particle-nature-of-matter": {
+      "canonical_name": "Particle Nature of Matter",
+      "slug": "particle-nature-of-matter",
+      "grades": [
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Matter is made of tiny particles; diffusion; Brownian motion",
+      "prerequisites": [
+        "states-of-matter-chemistry"
+      ],
+      "leads_to": [
+        "evaporation",
+        "change-of-state-chemistry",
+        "pure-substances",
+        "colloids",
+        "gaseous-state"
+      ],
+      "subject": "chemistry"
+    },
+    "pure-substances": {
+      "canonical_name": "Pure Substances",
+      "slug": "pure-substances",
+      "grades": [
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Elements and compounds; homogeneous composition; fixed properties",
+      "prerequisites": [
+        "particle-nature-of-matter"
+      ],
+      "leads_to": [
+        "atoms-and-molecules"
+      ],
+      "subject": "chemistry"
+    },
+    "mixtures-types": {
+      "canonical_name": "Mixtures — Types and Properties",
+      "slug": "mixtures-types",
+      "grades": [
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Homogeneous and heterogeneous mixtures; solutions, suspensions, colloids",
+      "prerequisites": [],
+      "leads_to": [
+        "separation-techniques",
+        "solutions-chemistry",
+        "colloids"
+      ],
+      "subject": "chemistry"
+    },
+    "separation-techniques": {
+      "canonical_name": "Separation Techniques",
+      "slug": "separation-techniques",
+      "grades": [
+        6,
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Filtration, evaporation, distillation, chromatography, crystallisation; sublimation",
+      "prerequisites": [
+        "mixtures-types"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "filtration evaporation and distillation",
+        "separation of mixtures",
+        "methods of separation",
+        "sieving and winnowing"
+      ],
+      "subject": "chemistry"
+    },
+    "solutions-chemistry": {
+      "canonical_name": "Solutions",
+      "slug": "solutions-chemistry",
+      "grades": [
+        9,
+        12
+      ],
+      "area": "Solutions",
+      "description": "Solute, solvent, solution; concentration; saturated and unsaturated",
+      "prerequisites": [
+        "mixtures-types"
+      ],
+      "leads_to": [
+        "concentration-of-solutions",
+        "ph-scale",
+        "solubility-and-factors"
+      ],
+      "subject": "chemistry"
+    },
+    "atoms-and-molecules": {
+      "canonical_name": "Atoms and Molecules",
+      "slug": "atoms-and-molecules",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Dalton's atomic theory; atom as smallest particle of element; molecule",
+      "prerequisites": [
+        "pure-substances"
+      ],
+      "leads_to": [
+        "atomic-number-mass-number",
+        "mole-concept",
+        "chemical-formula-writing",
+        "elements-classification-early",
+        "structure-of-atom-grade9"
+      ],
+      "subject": "chemistry"
+    },
+    "atomic-number-mass-number": {
+      "canonical_name": "Atomic Number and Mass Number",
+      "slug": "atomic-number-mass-number",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Z = protons; A = protons + neutrons; isotopes and isobars",
+      "prerequisites": [
+        "atoms-and-molecules"
+      ],
+      "leads_to": [
+        "nuclear-structure",
+        "electron-configuration",
+        "mendeleevs-periodic-table",
+        "isotopes-isobars"
+      ],
+      "subject": "chemistry"
+    },
+    "electron-configuration": {
+      "canonical_name": "Electronic Configuration",
+      "slug": "electron-configuration",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Shells and subshells; 2n² rule; Aufbau, Pauli, Hund's rules",
+      "prerequisites": [
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [
+        "bohrs-model-chemistry",
+        "modern-periodic-table",
+        "periodic-properties",
+        "chemical-bonding-intro",
+        "vsepr-theory",
+        "reactivity-series",
+        "carbon-and-its-compounds"
+      ],
+      "subject": "chemistry"
+    },
+    "valency-chemistry": {
+      "canonical_name": "Valency",
+      "slug": "valency-chemistry",
+      "grades": [
         8,
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Combining capacity of an atom; relation to outermost shell electrons",
+      "prerequisites": [],
+      "leads_to": [
+        "chemical-formula-writing"
+      ],
+      "subject": "chemistry"
+    },
+    "mole-concept": {
+      "canonical_name": "Mole Concept",
+      "slug": "mole-concept",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Avogadro's number; molar mass; mole as counting unit",
+      "prerequisites": [
+        "atoms-and-molecules",
+        "daltons-atomic-theory"
+      ],
+      "leads_to": [
+        "concentration-of-solutions",
+        "colligative-properties",
+        "stoichiometry",
+        "types-of-chemical-reactions",
+        "molecular-formula-calculations",
+        "faradays-laws-of-electrolysis"
+      ],
+      "subject": "chemistry"
+    },
+    "chemical-formula-writing": {
+      "canonical_name": "Writing Chemical Formulae",
+      "slug": "chemical-formula-writing",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Criss-cross method; molecular and empirical formulae",
+      "prerequisites": [
+        "valency-chemistry",
+        "atoms-and-molecules"
+      ],
+      "leads_to": [
+        "stoichiometry",
+        "chemical-equations"
+      ],
+      "subject": "chemistry"
+    },
+    "colloids": {
+      "canonical_name": "Colloids",
+      "slug": "colloids",
+      "grades": [
+        9
+      ],
+      "area": "Surface Chemistry",
+      "description": "Types of colloids; Tyndall effect; Brownian motion; coagulation; emulsion",
+      "prerequisites": [
+        "mixtures-types",
+        "particle-nature-of-matter"
+      ],
+      "leads_to": [
+        "adsorption"
+      ],
+      "subject": "chemistry"
+    },
+    "classification-of-organisms": {
+      "canonical_name": "Classification of Living Organisms",
+      "slug": "classification-of-organisms",
+      "grades": [
+        7,
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species",
+      "prerequisites": [
+        "diversity-of-organisms"
+      ],
+      "leads_to": [
+        "five-kingdom-classification",
+        "binomial-nomenclature",
+        "speciation",
+        "biodiversity",
+        "microorganisms"
+      ],
+      "subject": "biology"
+    },
+    "five-kingdom-classification": {
+      "canonical_name": "Five-Kingdom Classification",
+      "slug": "five-kingdom-classification",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Monera, Protista, Fungi, Plantae, Animalia; criteria: cell type, body organisation, nutrition",
+      "prerequisites": [
+        "classification-of-organisms",
+        "microorganisms"
+      ],
+      "leads_to": [
+        "plant-kingdom",
+        "animal-kingdom",
+        "biological-classification-detail"
+      ],
+      "subject": "biology"
+    },
+    "plant-kingdom": {
+      "canonical_name": "Plant Kingdom",
+      "slug": "plant-kingdom",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Thallophyta, Bryophyta, Pteridophyta, Gymnosperms, Angiosperms",
+      "prerequisites": [
+        "five-kingdom-classification"
+      ],
+      "leads_to": [
+        "alternation-of-generations"
+      ],
+      "subject": "biology"
+    },
+    "animal-kingdom": {
+      "canonical_name": "Animal Kingdom",
+      "slug": "animal-kingdom",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Porifera to Chordata; distinguishing features of each phylum",
+      "prerequisites": [
+        "five-kingdom-classification"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "binomial-nomenclature": {
+      "canonical_name": "Binomial Nomenclature",
+      "slug": "binomial-nomenclature",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Two-part naming system; Linnaeus; rules of nomenclature",
+      "prerequisites": [
+        "classification-of-organisms"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "cell-basic-unit": {
+      "canonical_name": "Cell — Basic Unit of Life",
+      "slug": "cell-basic-unit",
+      "grades": [
+        8,
+        9,
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Discovery of cells; cell theory; unicellular and multicellular organisms",
+      "prerequisites": [
+        "living-vs-nonliving"
+      ],
+      "leads_to": [
+        "cell-organelles",
+        "levels-of-organisation",
+        "nervous-system",
+        "asexual-reproduction",
+        "plant-vs-animal-cell"
+      ],
+      "subject": "biology"
+    },
+    "cell-organelles": {
+      "canonical_name": "Cell Organelles",
+      "slug": "cell-organelles",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Nucleus, mitochondria, ER, Golgi, lysosomes, ribosomes, vacuoles, plastids",
+      "prerequisites": [
+        "cell-basic-unit",
+        "plant-vs-animal-cell"
+      ],
+      "leads_to": [
+        "cell-membrane",
+        "cell-cycle",
+        "cellular-respiration",
+        "nervous-system"
+      ],
+      "subject": "biology"
+    },
+    "plant-vs-animal-cell": {
+      "canonical_name": "Plant Cell vs Animal Cell",
+      "slug": "plant-vs-animal-cell",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Cell Biology",
+      "description": "Cell wall, chloroplasts, large central vacuole in plant cells",
+      "prerequisites": [
+        "cell-basic-unit"
+      ],
+      "leads_to": [
+        "cell-organelles"
+      ],
+      "subject": "biology"
+    },
+    "cell-membrane": {
+      "canonical_name": "Cell Membrane and Transport",
+      "slug": "cell-membrane",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Fluid mosaic model; diffusion, osmosis, active transport",
+      "prerequisites": [
+        "cell-organelles"
+      ],
+      "leads_to": [
+        "transport-in-plants",
+        "excretory-system",
+        "human-reproductive-system"
+      ],
+      "subject": "biology"
+    },
+    "levels-of-organisation": {
+      "canonical_name": "Levels of Organisation",
+      "slug": "levels-of-organisation",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Cell Biology",
+      "description": "Cell → Tissue → Organ → Organ System → Organism",
+      "prerequisites": [
+        "cell-basic-unit"
+      ],
+      "leads_to": [
+        "tissue-types",
+        "animal-morphology"
+      ],
+      "subject": "biology"
+    },
+    "tissue-types": {
+      "canonical_name": "Tissue Types",
+      "slug": "tissue-types",
+      "grades": [
+        9
+      ],
+      "area": "Cell Biology",
+      "description": "Plant tissues: meristematic, permanent; animal tissues: epithelial, connective, muscular, nervous",
+      "prerequisites": [
+        "levels-of-organisation"
+      ],
+      "leads_to": [
+        "animal-morphology",
+        "anatomy-of-flowering-plants"
+      ],
+      "subject": "biology"
+    },
+    "blood-composition": {
+      "canonical_name": "Blood — Composition and Functions",
+      "slug": "blood-composition",
+      "grades": [
         9,
         10
       ],
-      "importance by grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 5,
-        "10": 4
-      },
-      "source boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Human Physiology",
+      "description": "RBC, WBC, platelets, plasma; blood groups; coagulation",
       "prerequisites": [
-        "diversity-in-plants-and-animal-around-us",
-        "earths-biodversity-hotspots",
-        "life-cycle-of-plants"
+        "human-circulatory-system"
       ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "food-web": {
-      "canonical_name": "Food Web",
-      "slug": "food-web",
+      "leads_to": [
+        "excretory-system",
+        "endocrine-system",
+        "body-fluids-and-circulation"
+      ],
       "aliases": [
-        "Web of Life",
-        "Ecological Network"
+        "red blood cells",
+        "white blood cells",
+        "platelets and plasma",
+        "blood groups",
+        "body fluids and circulation"
       ],
-      "domain": "Biology",
-      "area": "Ecosystems",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "food-chain",
-        "life-cycle-of-plants"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
+      "subject": "biology"
     },
-    "population-dynamics": {
-      "canonical_name": "Population Dynamics",
-      "slug": "population-dynamics",
-      "aliases": [
-        "Demography",
-        "Population Growth"
-      ],
-      "domain": "Science",
-      "area": "Biology/Ecology",
-      "parent": "",
+    "biogeochemical-cycles": {
+      "canonical_name": "Biogeochemical Cycles",
+      "slug": "biogeochemical-cycles",
       "grades": [
-        6,
-        7,
-        8,
         9,
         10
       ],
-      "importance_By_Grade": {
-        "6": 1,
-        "7": 1,
-        "8": 2,
-        "9": 4,
-        "10": 5
-      },
-      "Source_Boards": [
-        "NCERT",
-        "state Boards"
-      ],
-      "subject": "science",
+      "area": "Ecology",
+      "description": "Water cycle, carbon cycle, nitrogen cycle, oxygen cycle",
       "prerequisites": [
-        "earths-biodversity-hotspots",
-        "earths-environmental-conservation",
-        "food-chain-dynamics",
-        "human-impact-on-the-environmental-conservation",
-        "leaves-as-food-factories",
-        "life-cycle-of-plants",
-        "natural-resource-management",
-        "water-pollution"
-      ],
-      "leads_to": [],
-      "related": [
-        "food-chain-dynamics",
-        "human-impact-on-the-environmental-conservation"
-      ],
-      "see_also": []
-    },
-    "energy-conservation": {
-      "canonical_name": "Energy Conservation",
-      "slug": "energy-conservation",
-      "aliases": [],
-      "domain": "Science",
-      "area": "Environmental Science",
-      "parent": null,
-      "grades": [
-        9
-      ],
-      "importance_BY_GRADE": {
-        "9": 5
-      },
-      "source_BOARDS": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-environmental-conservation"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "tides-and-current": {
-      "canonical_name": "Tides and Current",
-      "slug": "tides-and-current",
-      "aliases": [
-        "Tide and Current"
-      ],
-      "domain": "Oceanography",
-      "area": "Coastal Processes",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance_BY_GRADE": {
-        "9": 5
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-oceans"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "earths-rotation": {
-      "canonical_name": "Earth's Rotation",
-      "slug": "earths-rotation",
-      "aliases": [],
-      "domain": "Astronomy",
-      "area": "Planetary Motions",
-      "parent": null,
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "our-solar-system"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "earths-water-cycle": {
-      "canonical_name": "Earth's Water Cycle",
-      "slug": "earths-water-cycle",
-      "aliases": [],
-      "domain": "Hydrology",
-      "area": "Geography",
-      "parent": "earth-s-hydrosphere",
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source-boards": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-geological-time-scales",
-        "our-solar-system"
+        "ecosystem-concept"
       ],
       "leads_to": [
-        "states-of-water"
+        "carbon-cycle"
       ],
-      "related": [],
-      "see_also": []
-    },
-    "earths-hydrospher-and-atmosphere": {
-      "canonical_name": "Earth's Hydrospher and Atmosphere",
-      "slug": "earths-hydrospher-and-atmosphere",
-      "_aliases": [
-        "Water Cycle",
-        "Atmospheric Processes"
-      ],
-      "domain": "Geography",
-      "area": "Earth Systems",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "earths-pedosphere-and-its-interactions-with-other-spheres": {
-      "canonical_name": "Earth's Pedosphere and its Interactions with Other Spheres",
-      "slug": "earths-pedosphere-and-its-interactions-with-other-spheres",
-      "_aliases": [
-        "Pedosphere-Lithosphere-Hydrosphere-Cryosphere Interactions"
-      ],
-      "domain": "Geography",
-      "area": "Physical Geography",
-      "parent": "",
-      "grades": [
-        9
-      ],
-      "importance-by-grade": {
-        "9": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "earths-pedosphere-and-interactions-with-other-components-of-the-environment": {
-      "canonical_name": "Earth's Pedosphere and its interactions with other components of the environment",
-      "slug": "earths-pedosphere-and-interactions-with-other-components-of-the-environment",
       "aliases": [
-        "Pedosphere-Ecosystems",
-        "Soil-Biosphere-Cryosphere"
+        "nutrient cycling",
+        "water carbon and nitrogen cycle",
+        "cycling of materials in an ecosystem"
       ],
-      "domain": "Science",
-      "area": "Geography and Environment",
-      "parent": "",
+      "subject": "biology"
+    },
+    "water-cycle": {
+      "canonical_name": "Water Cycle",
+      "slug": "water-cycle",
+      "grades": [
+        6,
+        9
+      ],
+      "area": "Ecology",
+      "description": "Evaporation, condensation, precipitation; groundwater",
+      "prerequisites": [
+        "water-and-its-properties"
+      ],
+      "leads_to": [
+        "transpiration"
+      ],
+      "subject": "biology"
+    },
+    "nitrogen-cycle": {
+      "canonical_name": "Nitrogen Cycle",
+      "slug": "nitrogen-cycle",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Ecology",
+      "description": "Nitrogen fixation, nitrification, denitrification; role of bacteria",
+      "prerequisites": [
+        "decomposition-and-recycling"
+      ],
+      "leads_to": [
+        "nitrogen-fixation"
+      ],
+      "aliases": [
+        "nitrogen fixation",
+        "nitrification and denitrification",
+        "nitrogen in nature"
+      ],
+      "subject": "biology"
+    },
+    "carbon-cycle": {
+      "canonical_name": "Carbon Cycle",
+      "slug": "carbon-cycle",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Ecology",
+      "description": "Carbon in atmosphere, biosphere, lithosphere, hydrosphere",
+      "prerequisites": [
+        "biogeochemical-cycles",
+        "photosynthesis",
+        "decomposition-and-recycling"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "carbon in nature",
+        "photosynthesis and respiration cycle",
+        "cycling of carbon dioxide"
+      ],
+      "subject": "biology"
+    },
+    "health-and-hygiene": {
+      "canonical_name": "Health and Hygiene",
+      "slug": "health-and-hygiene",
       "grades": [
         9
       ],
-      "importance_BY_GRADE": {
-        "9": 5
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
+      "area": "Health and Disease",
+      "description": "Personal and community health; cleanliness; immunisation",
+      "prerequisites": [
+        "living-vs-nonliving"
       ],
-      "subject": "science",
+      "leads_to": [
+        "diseases-types",
+        "adolescence-and-puberty"
+      ],
+      "aliases": [
+        "personal hygiene",
+        "cleanliness",
+        "staying healthy",
+        "immunisation"
+      ],
+      "subject": "biology"
+    },
+    "diseases-types": {
+      "canonical_name": "Diseases — Types",
+      "slug": "diseases-types",
+      "grades": [
+        9
+      ],
+      "area": "Health and Disease",
+      "description": "Infectious vs non-infectious; acute vs chronic; causes of disease",
+      "prerequisites": [
+        "health-and-hygiene"
+      ],
+      "leads_to": [
+        "infectious-diseases"
+      ],
+      "aliases": [
+        "communicable and non-communicable diseases",
+        "causes of disease",
+        "what makes us ill",
+        "acute and chronic illness"
+      ],
+      "subject": "biology"
+    },
+    "centripetal-force": {
+      "canonical_name": "Centripetal Force",
+      "slug": "centripetal-force",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "F = mv²/r; banking of roads; conical pendulum; vertical circular motion",
+      "prerequisites": [
+        "uniform-circular-motion",
+        "newtons-second-law"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "daltons-atomic-theory": {
+      "canonical_name": "Dalton's Atomic Theory",
+      "slug": "daltons-atomic-theory",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Atoms are indivisible; atoms of same element are identical; compounds in fixed ratios",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [
+        "mole-concept",
+        "law-of-conservation-of-mass",
+        "law-of-constant-proportions"
+      ],
+      "subject": "chemistry"
+    },
+    "law-of-conservation-of-mass": {
+      "canonical_name": "Law of Conservation of Mass",
+      "slug": "law-of-conservation-of-mass",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Chemical Reactions",
+      "description": "Mass is neither created nor destroyed in a chemical reaction",
+      "prerequisites": [
+        "daltons-atomic-theory"
+      ],
+      "leads_to": [
+        "stoichiometry"
+      ],
+      "subject": "chemistry"
+    },
+    "law-of-constant-proportions": {
+      "canonical_name": "Law of Constant Proportions",
+      "slug": "law-of-constant-proportions",
+      "grades": [
+        9
+      ],
+      "area": "Chemical Reactions",
+      "description": "A compound always contains same elements in same proportion by mass",
+      "prerequisites": [
+        "daltons-atomic-theory"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "structure-of-atom-grade9": {
+      "canonical_name": "Structure of Atom — Subatomic Particles",
+      "slug": "structure-of-atom-grade9",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Electron, proton, neutron; Thomson, Rutherford models; discovery experiments",
+      "prerequisites": [
+        "atoms-and-molecules"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "isotopes-isobars": {
+      "canonical_name": "Isotopes and Isobars",
+      "slug": "isotopes-isobars",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Same Z different A (isotopes); same A different Z (isobars); applications",
+      "prerequisites": [
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "isotopes",
+        "isobars",
+        "atomic number and mass number",
+        "structure of the atom"
+      ],
+      "subject": "chemistry"
+    },
+    "solubility-and-factors": {
+      "canonical_name": "Solubility and Factors Affecting It",
+      "slug": "solubility-and-factors",
+      "grades": [
+        9,
+        12
+      ],
+      "area": "Solutions",
+      "description": "Temperature, pressure effects; Henry's law; solubility curves",
+      "prerequisites": [
+        "solutions-chemistry"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "microorganisms": {
+      "canonical_name": "Microorganisms",
+      "slug": "microorganisms",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Diversity of Life",
+      "description": "Bacteria, viruses, fungi, protozoa; useful and harmful microorganisms",
+      "prerequisites": [
+        "classification-of-organisms"
+      ],
+      "leads_to": [
+        "five-kingdom-classification",
+        "infectious-diseases",
+        "immune-system",
+        "nitrogen-fixation",
+        "microbes-in-human-welfare",
+        "decomposition-and-recycling"
+      ],
+      "aliases": [
+        "bacteria virus fungi and protozoa",
+        "microbes",
+        "useful and harmful microorganisms"
+      ],
+      "subject": "biology"
+    },
+    "nitrogen-fixation": {
+      "canonical_name": "Nitrogen Fixation",
+      "slug": "nitrogen-fixation",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Ecology",
+      "description": "Biological fixation by Rhizobium; lightning fixation; industrial Haber process",
+      "prerequisites": [
+        "nitrogen-cycle",
+        "microorganisms"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "Rhizobium",
+        "root nodules of legumes",
+        "fixing atmospheric nitrogen",
+        "Haber process"
+      ],
+      "subject": "biology"
+    },
+    "crop-improvement": {
+      "canonical_name": "Crop Variety Improvement",
+      "slug": "crop-improvement",
+      "grades": [
+        9
+      ],
+      "area": "Agriculture and Food Resources",
+      "description": "Breeding crop varieties for higher yield, disease resistance and better quality",
+      "aliases": [
+        "crop variety improvement",
+        "hybridisation of crops",
+        "improvement in crop yields",
+        "plant breeding for yield"
+      ],
       "prerequisites": [],
       "leads_to": [
-        "force"
+        "crop-production-management"
       ],
-      "related": [],
-      "see_also": []
+      "subject": "biology"
+    },
+    "crop-production-management": {
+      "canonical_name": "Crop Production and Management",
+      "slug": "crop-production-management",
+      "grades": [
+        9
+      ],
+      "area": "Agriculture and Food Resources",
+      "description": "Nutrient management, irrigation, cropping patterns and protection of crops from pests and weeds",
+      "aliases": [
+        "nutrient management",
+        "irrigation",
+        "cropping patterns",
+        "crop protection management",
+        "manure and fertilisers"
+      ],
+      "prerequisites": [
+        "crop-improvement"
+      ],
+      "leads_to": [
+        "strategies-for-food-enhancement"
+      ],
+      "subject": "biology"
+    },
+    "animal-husbandry": {
+      "canonical_name": "Animal Husbandry",
+      "slug": "animal-husbandry",
+      "grades": [
+        9
+      ],
+      "area": "Agriculture and Food Resources",
+      "description": "Scientific rearing of cattle, poultry, fish and bees for food and other produce",
+      "aliases": [
+        "cattle farming",
+        "poultry farming",
+        "fish production",
+        "bee-keeping",
+        "marine and inland fisheries"
+      ],
+      "prerequisites": [
+        "components-of-food"
+      ],
+      "leads_to": [
+        "strategies-for-food-enhancement"
+      ],
+      "subject": "biology"
     }
-  },
-  "edges": [
-    {
-      "from": "food-chain-dynamics",
-      "to": "energy",
-      "type": "prerequisite"
-    },
-    {
-      "from": "food-chain-dynamics",
-      "to": "valency",
-      "type": "prerequisite"
-    },
-    {
-      "from": "food-chain-dynamics",
-      "to": "population-dynamics",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-pedosphere-and-interactions-with-other-components-of-the-environment",
-      "to": "force",
-      "type": "prerequisite"
-    }
-  ],
-  "entry_points": [
-    "what-we-eat",
-    "measuring-temperature",
-    "soil-erosion",
-    "food-chain-dynamics",
-    "climate-change",
-    "heat-generation-in-electrical-devices",
-    "mixtures",
-    "vapor-compression-refrigeration-cycle",
-    "physical-nature-of-matter",
-    "change-of-state-of-matter",
-    "propagation-of-sound",
-    "applications-of-ultrasound",
-    "types-of-pure-elements-and-compounds",
-    "molecules",
-    "charged-particles-in-matters",
-    "living-organisms",
-    "measuring-the-rate-of-motion",
-    "equation-of-motion",
-    "first-law-of-motion-newton-s-first-law",
-    "third-law-of-motion-newton",
-    "mass",
-    "archimedes-principal",
-    "nuclear-reactions",
-    "mendelian-inheritance-patterns-and-laws",
-    "evolution",
-    "food-web",
-    "energy-conservation",
-    "tides-and-current",
-    "earths-rotation",
-    "earths-water-cycle",
-    "earths-hydrospher-and-atmosphere",
-    "earths-pedosphere-and-its-interactions-with-other-spheres",
-    "earths-pedosphere-and-interactions-with-other-components-of-the-environment"
-  ]
+  }
 }

@@ -1,6 +1,10 @@
 import { Inter } from "next/font/google";
-import Script from "next/script";
 import "./globals.css";
+// Maths is typeset on the server now (see lib/markdown.js), so the only thing still
+// needed from KaTeX is its stylesheet. Imported from the package rather than a CDN: the
+// bundler emits the font files alongside it, so equations render with no network request
+// and no client-side script at all.
+import "katex/dist/katex.min.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ThemeProvider from "@/components/ThemeProvider";
@@ -15,17 +19,12 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${inter.className} h-full`} suppressHydrationWarning>
-      <head>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
-      </head>
       <body className="min-h-full flex flex-col bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-gray-100">
         <ThemeProvider>
           <Navbar />
           <main className="flex-1">{children}</main>
           <Footer />
         </ThemeProvider>
-        <Script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" strategy="beforeInteractive" />
-        <Script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" strategy="beforeInteractive" />
       </body>
     </html>
   );

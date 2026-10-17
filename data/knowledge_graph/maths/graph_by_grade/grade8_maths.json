@@ -1,7 +1,7 @@
 {
   "grade": 8,
   "subject": "maths",
-  "total_concepts": 46,
+  "total_concepts": 47,
   "concepts": {
     "divisibility-rules": {
       "canonical_name": "Divisibility Rules",
@@ -11,7 +11,7 @@
         8
       ],
       "area": "Number Theory",
-      "description": "Quick tests for divisibility by 2, 3, 4, 5, 6, 8, 9, 10, 11",
+      "description": "Quick tests for checking whether one number divides another without doing the division",
       "prerequisites": [
         "factors-and-multiples"
       ],
@@ -24,8 +24,6 @@
       "canonical_name": "Percentage",
       "slug": "percentage",
       "grades": [
-        6,
-        7,
         8
       ],
       "area": "Proportional Reasoning",
@@ -39,13 +37,40 @@
         "percentage-change",
         "profit-loss-percentage",
         "simple-interest"
+      ],
+      "aliases": [
+        "per cent",
+        "fractions as percentages",
+        "using percentages",
+        "out of hundred"
+      ]
+    },
+    "percentage-change": {
+      "canonical_name": "Percentage Increase and Decrease",
+      "slug": "percentage-change",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Computing and interpreting percentage change",
+      "prerequisites": [
+        "percentage"
+      ],
+      "leads_to": [
+        "tax-and-vat"
+      ],
+      "aliases": [
+        "per cent",
+        "percentage change",
+        "using percentages",
+        "fractions as percentages",
+        "discount"
       ]
     },
     "rational-numbers": {
       "canonical_name": "Rational Numbers",
       "slug": "rational-numbers",
       "grades": [
-        7,
         8
       ],
       "area": "Number Systems",
@@ -62,13 +87,17 @@
         "exponents-and-powers",
         "irrational-numbers",
         "real-numbers"
+      ],
+      "aliases": [
+        "p by q form",
+        "numbers expressible as a fraction",
+        "integers and fractions"
       ]
     },
     "rational-number-operations": {
       "canonical_name": "Operations on Rational Numbers",
       "slug": "rational-number-operations",
       "grades": [
-        7,
         8
       ],
       "area": "Number Systems",
@@ -86,7 +115,6 @@
       "canonical_name": "Rational Numbers on the Number Line",
       "slug": "number-line-rational",
       "grades": [
-        7,
         8
       ],
       "area": "Number Systems",
@@ -95,13 +123,16 @@
         "rational-numbers",
         "number-line"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "ordering rational numbers",
+        "rational numbers between two numbers"
+      ]
     },
     "algebraic-identities": {
       "canonical_name": "Algebraic Identities",
       "slug": "algebraic-identities",
       "grades": [
-        7,
         8,
         9
       ],
@@ -135,6 +166,12 @@
       ],
       "leads_to": [
         "linear-equations-two-variables"
+      ],
+      "aliases": [
+        "finding the unknown",
+        "solving equations",
+        "simple equations",
+        "solving equations systematically"
       ]
     },
     "area-of-triangles": {
@@ -156,11 +193,38 @@
         "heron-s-formula"
       ]
     },
+    "area-of-parallelogram": {
+      "canonical_name": "Area of Parallelogram",
+      "slug": "area-of-parallelogram",
+      "grades": [
+        8
+      ],
+      "area": "Mensuration",
+      "description": "Area = base × height",
+      "prerequisites": [
+        "area-of-triangles"
+      ],
+      "leads_to": [
+        "area-of-trapezium"
+      ]
+    },
+    "area-of-trapezium": {
+      "canonical_name": "Area of Trapezium",
+      "slug": "area-of-trapezium",
+      "grades": [
+        8
+      ],
+      "area": "Mensuration",
+      "description": "Area = ½ × (sum of parallel sides) × height",
+      "prerequisites": [
+        "area-of-parallelogram"
+      ],
+      "leads_to": []
+    },
     "area-of-circle": {
       "canonical_name": "Area of a Circle",
       "slug": "area-of-circle",
       "grades": [
-        7,
         8
       ],
       "area": "Mensuration",
@@ -170,13 +234,16 @@
       ],
       "leads_to": [
         "circumference-and-area-of-circle"
+      ],
+      "aliases": [
+        "pi r squared",
+        "area enclosed by a circle"
       ]
     },
     "mean-median-mode": {
       "canonical_name": "Mean, Median and Mode",
       "slug": "mean-median-mode",
       "grades": [
-        7,
         8
       ],
       "area": "Statistics",
@@ -188,13 +255,18 @@
       "leads_to": [
         "range",
         "statistics-measures"
+      ],
+      "aliases": [
+        "representative values",
+        "measures of central tendency",
+        "arithmetic mean",
+        "average"
       ]
     },
     "range": {
       "canonical_name": "Range",
       "slug": "range",
       "grades": [
-        7,
         8
       ],
       "area": "Statistics",
@@ -202,13 +274,18 @@
       "prerequisites": [
         "mean-median-mode"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "range of data",
+        "highest and lowest value",
+        "spread of data",
+        "representative values"
+      ]
     },
     "unitary-method-and-direct-proportion": {
       "canonical_name": "Unitary Method and Direct Proportion",
       "slug": "unitary-method-and-direct-proportion",
       "grades": [
-        7,
         8
       ],
       "area": "Proportional Reasoning",
@@ -218,16 +295,19 @@
       ],
       "leads_to": [
         "simple-interest",
-        "speed-distance-time",
         "inverse-proportion",
         "direct-and-inverse-variation"
+      ],
+      "aliases": [
+        "unitary method",
+        "cost of one unit",
+        "direct proportion"
       ]
     },
     "profit-loss-percentage": {
       "canonical_name": "Profit, Loss and Discount",
       "slug": "profit-loss-percentage",
       "grades": [
-        7,
         8
       ],
       "area": "Proportional Reasoning",
@@ -252,6 +332,11 @@
       ],
       "leads_to": [
         "compound-interest"
+      ],
+      "aliases": [
+        "interest",
+        "principal and rate",
+        "rate of interest per annum"
       ]
     },
     "square-numbers": {
@@ -317,7 +402,12 @@
         "cube-numbers",
         "prime-factorisation"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "cubic numbers",
+        "cubes and cube roots",
+        "perfect cube"
+      ]
     },
     "exponents-and-powers": {
       "canonical_name": "Exponents and Powers",
@@ -353,6 +443,12 @@
       ],
       "leads_to": [
         "laws-of-exponents-real"
+      ],
+      "aliases": [
+        "laws of exponents",
+        "powers with negative exponents",
+        "standard form",
+        "exponential notation"
       ]
     },
     "factorisation-expressions": {
@@ -368,6 +464,12 @@
       ],
       "leads_to": [
         "division-of-polynomials"
+      ],
+      "aliases": [
+        "factorisation",
+        "taking out common factors",
+        "algebraic identities",
+        "grouping terms"
       ]
     },
     "division-of-polynomials": {
@@ -384,6 +486,11 @@
       "leads_to": [
         "remainder-theorem",
         "synthetic-division"
+      ],
+      "aliases": [
+        "dividing algebraic expressions",
+        "monomial",
+        "factorisation of expressions"
       ]
     },
     "linear-equations-two-variables": {
@@ -396,8 +503,7 @@
       "area": "Algebra",
       "description": "ax + by + c = 0; graphing; solution as ordered pair",
       "prerequisites": [
-        "linear-equations-one-variable",
-        "cartesian-coordinate-system"
+        "linear-equations-one-variable"
       ],
       "leads_to": [
         "pair-of-linear-equations",
@@ -533,6 +639,12 @@
       "leads_to": [
         "circle-theorems",
         "circle-equation"
+      ],
+      "aliases": [
+        "chord",
+        "arc and sector",
+        "segment of a circle",
+        "radius and diameter"
       ]
     },
     "heron-s-formula": {
@@ -550,26 +662,6 @@
       ],
       "leads_to": []
     },
-    "circumference-and-area-of-circle": {
-      "canonical_name": "Circumference and Area of Circle",
-      "slug": "circumference-and-area-of-circle",
-      "grades": [
-        8,
-        10
-      ],
-      "area": "Mensuration",
-      "description": "Advanced problems involving circles; sector and segment intro",
-      "prerequisites": [
-        "area-of-circle",
-        "circumference-of-circle"
-      ],
-      "leads_to": [
-        "surface-area-cylinder",
-        "surface-area-cone",
-        "surface-area-sphere",
-        "area-of-sector-and-segment"
-      ]
-    },
     "visualising-3d-shapes": {
       "canonical_name": "Visualising 3D Shapes",
       "slug": "visualising-3d-shapes",
@@ -583,6 +675,12 @@
       ],
       "leads_to": [
         "surface-area-cuboid-cube"
+      ],
+      "aliases": [
+        "visualising solids",
+        "faces edges and vertices",
+        "Euler's formula",
+        "nets of solids"
       ]
     },
     "surface-area-cuboid-cube": {
@@ -630,6 +728,11 @@
       ],
       "leads_to": [
         "direct-and-inverse-variation"
+      ],
+      "aliases": [
+        "inverse proportions",
+        "indirect variation",
+        "product stays constant"
       ]
     },
     "compound-interest": {
@@ -662,6 +765,12 @@
       "leads_to": [
         "histogram",
         "statistics-measures"
+      ],
+      "aliases": [
+        "histogram",
+        "frequency polygon",
+        "graphical representation of data",
+        "class intervals"
       ]
     },
     "histogram": {
@@ -710,6 +819,11 @@
       ],
       "leads_to": [
         "circumcentre"
+      ],
+      "aliases": [
+        "right bisector",
+        "equidistant from two points",
+        "construction of a bisector"
       ]
     },
     "modular-arithmetic": {
@@ -738,7 +852,13 @@
       "prerequisites": [
         "percentage-change"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "GST",
+        "sales tax",
+        "using percentages",
+        "profit and loss"
+      ]
     },
     "direct-and-inverse-variation": {
       "canonical_name": "Direct and Inverse Variation",
@@ -752,22 +872,13 @@
         "unitary-method-and-direct-proportion",
         "inverse-proportion"
       ],
-      "leads_to": []
-    },
-    "representing-linear-equations-graphically": {
-      "canonical_name": "Graphing Linear Equations",
-      "slug": "representing-linear-equations-graphically",
-      "grades": [
-        8,
-        9
-      ],
-      "area": "Algebra",
-      "description": "Plotting y=mx+c; interpreting slope and intercept",
-      "prerequisites": [
-        "linear-equations-two-variables",
-        "cartesian-coordinate-system"
-      ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "direct proportion",
+        "inverse proportion",
+        "varies directly",
+        "varies inversely"
+      ]
     }
   }
 }

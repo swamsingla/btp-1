@@ -1,0 +1,155 @@
+{
+  "science/grade6/balanced-diet": [
+    {
+      "claim": "It matters because every person has different nutritional needs based on their age, gender, physical activity, and overall health status .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.369
+    },
+    {
+      "claim": "A growing child needs different amounts and types of nutrients compared to their grandparents or a professional athlete .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.206
+    }
+  ],
+  "science/grade6/forests-and-their-importance": [
+    {
+      "claim": "Therefore, we must use timber responsibly and ensure we do not cut down trees faster than they can grow back .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.025
+    }
+  ],
+  "science/grade6/fossil-fuels": [
+    {
+      "claim": "Fossil fuels are made from the remains of ancient organisms .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.099
+    },
+    {
+      "claim": "There are three main types of fossil fuels: coal, petroleum, and natural gas .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.037
+    }
+  ],
+  "science/grade6/separation-techniques": [
+    {
+      "claim": "This simple action is called handpicking, and it is a very useful way to separate unwanted items from food .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.018
+    },
+    {
+      "claim": "After the dirt has settled, you can carefully pour the clean water into another container without disturbing the mud at the bottom .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.039
+    },
+    {
+      "claim": "This happens because the water turns into a gas and leaves the salt behind .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.021
+    },
+    {
+      "claim": "This method is very useful for separating solid dirt from water .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.015
+    },
+    {
+      "claim": "The plastic beads will stay behind because they are not magnetic .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.023
+    }
+  ],
+  "science/grade6/states-of-matter-chemistry": [
+    {
+      "claim": "If you drop a solid, it will keep its shape because the bits are locked in place .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.032
+    },
+    {
+      "claim": "This happens because the heat makes the tightly packed bits start to move a little bit .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.345
+    },
+    {
+      "claim": "Because the bits are so far apart, gases do not have a fixed shape or a fixed volume .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.123
+    }
+  ],
+  "science/grade6/water-and-its-properties": [
+    {
+      "claim": "If you heat the liquid water even more, it changes into its gaseous state, which we call water vapour .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.475
+    }
+  ],
+  "science/grade6/magnets-and-magnetism": [
+    {
+      "claim": "Artificial magnets are often stronger than natural magnets .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.026
+    },
+    {
+      "claim": "This pushing force is called repulsion .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.144
+    }
+  ],
+  "science/grade6/measurement-of-length": [
+    {
+      "claim": "For example, if the reading at one end is 1.0 cm and at the other end, it is 10.4 cm, the length of the object is $10.4\\ \\text{cm} - 1.0\\ \\text{cm} = 9.4\\ \\text{cm}$ .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.274
+    }
+  ],
+  "science/grade6/measurement-of-time": [
+    {
+      "claim": "There are exactly 60 minutes in one hour .",
+      "cites": [
+        "S2"
+      ],
+      "support_probability": 0.201
+    }
+  ],
+  "science/grade6/si-units": [
+    {
+      "claim": "The seven base units are the metre for length, the kilogram for mass, the second for time, the ampere for electric current, the kelvin for temperature, the mole for amount of substance, and the candela for luminous intensity .",
+      "cites": [
+        "S1"
+      ],
+      "support_probability": 0.019
+    }
+  ]
+}

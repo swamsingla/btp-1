@@ -1,0 +1,14 @@
+[
+  {
+    "verdict": "fail",
+    "first_fault": "- The worked example states: \"Imagine a village collects rain from a roof that is $100$ square metres in size. If a storm drops $1$ centimetre of rain, the village collects $100$ cubic metres of water.\" 100 square metres × 0.01 metres = 1 cubic metre, not 100 cubic metres.",
+    "tokens": 923,
+    "said": "VERDICT: fail\n- The worked example states: \"Imagine a village collects rain from a roof that is $100$ square metres in size. If a storm drops $1$ centimetre of rain, the village collects $100$ cubic metres of water.\" 100 square metres × 0.01 metres = 1 cubic metre, not 100 cubic metres.\n- The \"Key points\" section lists five bullet points, but the page's \"The Three Rs\" section claims there are three rules, while the total number of bullet points in \"Key points\" is five."
+  },
+  {
+    "verdict": "ok",
+    "first_fault": "(no fault named)",
+    "tokens": 956,
+    "said": "VERDICT: ok"
+  }
+]

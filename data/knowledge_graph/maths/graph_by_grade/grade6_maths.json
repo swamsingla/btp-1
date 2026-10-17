@@ -1,7 +1,7 @@
 {
   "grade": 6,
   "subject": "maths",
-  "total_concepts": 40,
+  "total_concepts": 34,
   "concepts": {
     "natural-numbers": {
       "canonical_name": "Natural Numbers",
@@ -38,7 +38,13 @@
         "even-and-odd-numbers",
         "factors-and-multiples",
         "number-patterns",
-        "perimeter"
+        "perimeter",
+        "estimation"
+      ],
+      "aliases": [
+        "natural numbers and zero",
+        "counting numbers",
+        "successor and predecessor"
       ]
     },
     "place-value": {
@@ -53,7 +59,15 @@
         "whole-numbers"
       ],
       "leads_to": [
-        "decimals"
+        "decimals",
+        "estimation",
+        "palindromic-numbers"
+      ],
+      "aliases": [
+        "Indian system of numeration",
+        "international system",
+        "lakhs and crores",
+        "large numbers around us"
       ]
     },
     "number-line": {
@@ -71,14 +85,18 @@
         "integers",
         "number-line-rational",
         "cartesian-coordinate-system"
+      ],
+      "aliases": [
+        "numbers on a line",
+        "patterns of numbers on the number line",
+        "representing numbers"
       ]
     },
     "integers": {
       "canonical_name": "Integers",
       "slug": "integers",
       "grades": [
-        6,
-        7
+        6
       ],
       "area": "Number Systems",
       "description": "Positive and negative whole numbers including zero",
@@ -89,7 +107,15 @@
       "leads_to": [
         "integer-operations",
         "rational-numbers"
-      ]
+      ],
+      "source_sections": {
+        "6": [
+          "g6_maths_chapter10_000",
+          "10.1 Bela's Building of Fun",
+          "10.3 Integers in Other Places",
+          "g6_maths_chapter10_034"
+        ]
+      }
     },
     "integer-operations": {
       "canonical_name": "Operations on Integers",
@@ -108,7 +134,23 @@
         "rational-number-operations",
         "algebraic-expressions",
         "cartesian-coordinate-system"
-      ]
+      ],
+      "source_sections": {
+        "6": [
+          "10.2 The Token Model",
+          "g6_maths_chapter10_003",
+          "g6_maths_chapter10_031",
+          "g6_maths_chapter10_032",
+          "g6_maths_chapter10_035"
+        ],
+        "7": [
+          "2.2 Multiplication of Integers",
+          "g7_maths_part2_chapter2_014",
+          "g7_maths_part2_chapter2_015",
+          "g7_maths_part2_chapter2_019",
+          "g7_maths_part2_chapter2_038"
+        ]
+      }
     },
     "fractions": {
       "canonical_name": "Fractions",
@@ -190,47 +232,7 @@
         "comparing-fractions",
         "lcm-and-gcd"
       ],
-      "leads_to": [
-        "multiplication-division-of-fractions"
-      ]
-    },
-    "decimals": {
-      "canonical_name": "Decimals",
-      "slug": "decimals",
-      "grades": [
-        6,
-        7
-      ],
-      "area": "Number Systems",
-      "description": "Representing fractions with denominators as powers of 10",
-      "prerequisites": [
-        "fractions",
-        "place-value"
-      ],
-      "leads_to": [
-        "conversion-fractions-decimals",
-        "percentage",
-        "decimal-operations",
-        "rational-numbers",
-        "circumference-of-circle"
-      ]
-    },
-    "conversion-fractions-decimals": {
-      "canonical_name": "Conversion Between Fractions and Decimals",
-      "slug": "conversion-fractions-decimals",
-      "grades": [
-        6,
-        7
-      ],
-      "area": "Number Systems",
-      "description": "Converting fractions to decimals and vice versa",
-      "prerequisites": [
-        "decimals",
-        "fractions"
-      ],
-      "leads_to": [
-        "decimal-expansions-of-real-numbers"
-      ]
+      "leads_to": []
     },
     "even-and-odd-numbers": {
       "canonical_name": "Even and Odd Numbers",
@@ -243,7 +245,12 @@
       "prerequisites": [
         "whole-numbers"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "parity",
+        "divisible by 2",
+        "multiples of 2"
+      ]
     },
     "factors-and-multiples": {
       "canonical_name": "Factors and Multiples",
@@ -259,6 +266,12 @@
       "leads_to": [
         "prime-numbers",
         "divisibility-rules"
+      ],
+      "aliases": [
+        "divisibility tests",
+        "prime factorisation",
+        "common factors",
+        "HCF and LCM"
       ]
     },
     "prime-numbers": {
@@ -312,7 +325,7 @@
         8
       ],
       "area": "Number Theory",
-      "description": "Quick tests for divisibility by 2, 3, 4, 5, 6, 8, 9, 10, 11",
+      "description": "Quick tests for checking whether one number divides another without doing the division",
       "prerequisites": [
         "factors-and-multiples"
       ],
@@ -340,42 +353,6 @@
         "fundamental-theorem-of-arithmetic"
       ]
     },
-    "lcm-and-gcd": {
-      "canonical_name": "LCM and GCD (HCF)",
-      "slug": "lcm-and-gcd",
-      "grades": [
-        6,
-        7
-      ],
-      "area": "Number Theory",
-      "description": "Least Common Multiple and Greatest Common Divisor using prime factorisation",
-      "prerequisites": [
-        "prime-factorisation"
-      ],
-      "leads_to": [
-        "comparing-fractions",
-        "addition-subtraction-of-fractions",
-        "euclidean-algorithm",
-        "fundamental-theorem-of-arithmetic"
-      ]
-    },
-    "euclidean-algorithm": {
-      "canonical_name": "Euclidean Algorithm",
-      "slug": "euclidean-algorithm",
-      "grades": [
-        6,
-        10
-      ],
-      "area": "Number Theory",
-      "description": "Efficient method for computing GCD using repeated division",
-      "prerequisites": [
-        "lcm-and-gcd"
-      ],
-      "leads_to": [
-        "euclidean-division-lemma",
-        "modular-arithmetic"
-      ]
-    },
     "number-patterns": {
       "canonical_name": "Number Patterns and Sequences",
       "slug": "number-patterns",
@@ -390,15 +367,15 @@
       "leads_to": [
         "fibonacci-virahanka-sequence",
         "square-numbers",
-        "arithmetic-progressions"
+        "arithmetic-progressions",
+        "palindromic-numbers"
       ]
     },
     "fibonacci-virahanka-sequence": {
       "canonical_name": "Fibonacci–Virahanka Sequence",
       "slug": "fibonacci-virahanka-sequence",
       "grades": [
-        6,
-        7
+        6
       ],
       "area": "Patterns and Sequences",
       "description": "The sequence where each term is the sum of the two preceding terms",
@@ -429,8 +406,7 @@
       "canonical_name": "Angles",
       "slug": "angles",
       "grades": [
-        6,
-        7
+        6
       ],
       "area": "Geometry",
       "description": "Amount of rotation between two rays sharing a common endpoint",
@@ -443,6 +419,12 @@
         "basic-constructions",
         "parallel-lines-and-transversals",
         "types-of-triangles"
+      ],
+      "aliases": [
+        "measuring angles",
+        "degrees",
+        "acute obtuse and right angle",
+        "using a protractor"
       ]
     },
     "measuring-angles": {
@@ -465,8 +447,7 @@
       "canonical_name": "Types of Angles and Angle Pairs",
       "slug": "types-of-angles",
       "grades": [
-        6,
-        7
+        6
       ],
       "area": "Geometry",
       "description": "Acute, right, obtuse, straight, reflex; complementary and supplementary",
@@ -526,7 +507,21 @@
         "perpendicular-bisector",
         "constructions-advanced",
         "construction-of-tangents"
-      ]
+      ],
+      "source_sections": {
+        "6": [
+          "8.1 Artwork",
+          "8.2 Squares and Rectangles",
+          "8.3 Constructing Squares and Rectangles",
+          "8.6 Points Equidistant from Two Given Points"
+        ],
+        "7": [
+          "6.1 Geometric Constructions",
+          "g7_maths_part2_chapter6_008",
+          "g7_maths_part2_chapter6_015",
+          "g7_maths_part2_chapter6_022"
+        ]
+      }
     },
     "perimeter": {
       "canonical_name": "Perimeter",
@@ -564,8 +559,7 @@
       "canonical_name": "Area of 2D Figures",
       "slug": "area",
       "grades": [
-        6,
-        7
+        6
       ],
       "area": "Mensuration",
       "description": "Measuring the region enclosed by a plane figure",
@@ -574,6 +568,12 @@
       ],
       "leads_to": [
         "area-of-triangles"
+      ],
+      "aliases": [
+        "area of plane figures",
+        "square units",
+        "perimeter and area",
+        "region enclosed by a figure"
       ]
     },
     "data-collection-and-organisation": {
@@ -591,6 +591,12 @@
         "mean-median-mode",
         "probability-basic",
         "scatter-plot"
+      ],
+      "aliases": [
+        "collecting and organising data",
+        "tally marks",
+        "data handling",
+        "raw data"
       ]
     },
     "bar-graphs-and-pictographs": {
@@ -608,81 +614,51 @@
       ],
       "leads_to": [
         "data-representation-grouped"
-      ]
+      ],
+      "source_sections": {
+        "7": [
+          "5.3 Visualising Data"
+        ]
+      }
     },
-    "frequency-distribution": {
-      "canonical_name": "Frequency Distribution Table",
-      "slug": "frequency-distribution",
+    "estimation": {
+      "canonical_name": "Estimation and Approximation",
+      "slug": "estimation",
       "grades": [
-        6,
-        7
+        6
       ],
-      "area": "Statistics",
-      "description": "Organising data into classes with frequencies",
+      "area": "Number Systems",
+      "description": "Judging a value quickly by rounding to convenient numbers, and checking whether an answer is reasonable",
+      "aliases": [
+        "simple estimation",
+        "rounding off",
+        "approximate value",
+        "mental math"
+      ],
       "prerequisites": [
-        "data-collection-and-organisation"
+        "place-value",
+        "whole-numbers"
       ],
-      "leads_to": [
-        "data-representation-grouped"
-      ]
+      "leads_to": []
     },
-    "ratios-and-proportions": {
-      "canonical_name": "Ratios and Proportions",
-      "slug": "ratios-and-proportions",
+    "palindromic-numbers": {
+      "canonical_name": "Palindromic Numbers",
+      "slug": "palindromic-numbers",
       "grades": [
-        6,
-        7
+        6
       ],
-      "area": "Proportional Reasoning",
-      "description": "Comparing quantities; equivalent ratios; proportion as equality of ratios",
+      "area": "Number Theory",
+      "description": "Numbers that read the same forwards and backwards, and the patterns made while building them",
+      "aliases": [
+        "palindrome",
+        "pretty palindromic patterns",
+        "numbers that read the same both ways"
+      ],
       "prerequisites": [
-        "fractions"
+        "place-value",
+        "number-patterns"
       ],
-      "leads_to": [
-        "percentage",
-        "similar-triangles",
-        "circumference-of-circle",
-        "unitary-method-and-direct-proportion",
-        "trigonometric-ratios",
-        "section-formula"
-      ]
-    },
-    "percentage": {
-      "canonical_name": "Percentage",
-      "slug": "percentage",
-      "grades": [
-        6,
-        7,
-        8
-      ],
-      "area": "Proportional Reasoning",
-      "description": "A ratio expressed per hundred",
-      "prerequisites": [
-        "decimals",
-        "fractions",
-        "ratios-and-proportions"
-      ],
-      "leads_to": [
-        "percentage-change",
-        "profit-loss-percentage",
-        "simple-interest"
-      ]
-    },
-    "percentage-change": {
-      "canonical_name": "Percentage Increase and Decrease",
-      "slug": "percentage-change",
-      "grades": [
-        6,
-        7
-      ],
-      "area": "Proportional Reasoning",
-      "description": "Computing and interpreting percentage change",
-      "prerequisites": [
-        "percentage"
-      ],
-      "leads_to": [
-        "tax-and-vat"
-      ]
+      "leads_to": []
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "grade": 12,
   "subject": "maths",
-  "total_concepts": 79,
+  "total_concepts": 80,
   "concepts": {
     "types-of-functions": {
       "canonical_name": "Types of Functions",
@@ -35,6 +35,23 @@
       ],
       "leads_to": [
         "inverse-functions"
+      ]
+    },
+    "system-of-inequalities": {
+      "canonical_name": "System of Linear Inequalities",
+      "slug": "system-of-inequalities",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Algebra",
+      "description": "Graphical solution of system of inequalities; feasible region",
+      "prerequisites": [
+        "linear-inequalities",
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": [
+        "linear-programming"
       ]
     },
     "types-of-relations": {
@@ -78,6 +95,11 @@
       ],
       "leads_to": [
         "inverse-trigonometric-functions"
+      ],
+      "aliases": [
+        "inverse of a function",
+        "bijective function",
+        "one-one and onto"
       ]
     },
     "inverse-trigonometric-functions": {
@@ -260,7 +282,12 @@
         "adjoint-and-inverse-matrix",
         "pair-of-linear-equations"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "determinants",
+        "applications of determinants",
+        "solving a system using determinants"
+      ]
     },
     "area-using-determinants": {
       "canonical_name": "Area of Triangle Using Determinants",
@@ -307,7 +334,12 @@
       "prerequisites": [
         "continuity-of-functions"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "discontinuous function",
+        "point of discontinuity",
+        "continuity at a point"
+      ]
     },
     "differentiability": {
       "canonical_name": "Differentiability",
@@ -325,6 +357,11 @@
         "chain-rule",
         "rolles-theorem",
         "l-hopital-s-rule"
+      ],
+      "aliases": [
+        "continuity and differentiability",
+        "derivative exists",
+        "differentiable function"
       ]
     },
     "chain-rule": {
@@ -347,6 +384,11 @@
         "rate-of-change",
         "integration-by-substitution",
         "integration-by-parts"
+      ],
+      "aliases": [
+        "derivative of composite functions",
+        "function of a function",
+        "composite function differentiation"
       ]
     },
     "implicit-differentiation": {
@@ -446,6 +488,10 @@
       ],
       "leads_to": [
         "mean-value-theorem"
+      ],
+      "aliases": [
+        "mean value theorem",
+        "derivative vanishes"
       ]
     },
     "mean-value-theorem": {
@@ -459,7 +505,11 @@
       "prerequisites": [
         "rolles-theorem"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "Lagrange's mean value theorem",
+        "Rolle's theorem"
+      ]
     },
     "rate-of-change": {
       "canonical_name": "Rate of Change of Quantities",
@@ -503,7 +553,12 @@
         "slope-of-a-line",
         "derivatives-rules-basic"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "slope of the tangent",
+        "application of derivatives",
+        "equation of the tangent line"
+      ]
     },
     "maxima-and-minima": {
       "canonical_name": "Maxima and Minima",
@@ -614,6 +669,11 @@
       ],
       "leads_to": [
         "special-integrals"
+      ],
+      "aliases": [
+        "integration of a product of functions",
+        "ILATE rule",
+        "indefinite integral"
       ]
     },
     "special-integrals": {
@@ -734,6 +794,11 @@
       ],
       "leads_to": [
         "homogeneous-differential-equations"
+      ],
+      "aliases": [
+        "separation of variables",
+        "variables separable",
+        "differential equation"
       ]
     },
     "homogeneous-differential-equations": {
@@ -872,7 +937,12 @@
         "cross-product",
         "determinants"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "box product",
+        "volume of a parallelepiped",
+        "coplanarity of vectors"
+      ]
     },
     "direction-cosines-ratios": {
       "canonical_name": "Direction Cosines and Direction Ratios",
@@ -951,6 +1021,11 @@
       "leads_to": [
         "angle-between-planes",
         "distance-point-to-plane"
+      ],
+      "aliases": [
+        "plane in three dimensional space",
+        "normal to a plane",
+        "vector equation of a plane"
       ]
     },
     "angle-between-planes": {
@@ -977,7 +1052,12 @@
       "prerequisites": [
         "equation-of-plane"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "perpendicular distance from a plane",
+        "three dimensional geometry",
+        "equation of a plane"
+      ]
     },
     "linear-programming": {
       "canonical_name": "Linear Programming",
@@ -1096,6 +1176,10 @@
       ],
       "leads_to": [
         "probability-distribution"
+      ],
+      "aliases": [
+        "random variable and its probability distribution",
+        "discrete random variable"
       ]
     },
     "probability-distribution": {
@@ -1112,6 +1196,11 @@
       "leads_to": [
         "mean-variance-rv",
         "bernoulli-trials"
+      ],
+      "aliases": [
+        "random variable",
+        "probability mass function",
+        "distribution of a random variable"
       ]
     },
     "mean-variance-rv": {
@@ -1126,7 +1215,12 @@
         "probability-distribution",
         "variance-and-standard-deviation"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "expected value",
+        "expectation of a random variable",
+        "variance of a distribution"
+      ]
     },
     "bernoulli-trials": {
       "canonical_name": "Bernoulli Trials",
@@ -1142,6 +1236,11 @@
       ],
       "leads_to": [
         "binomial-distribution"
+      ],
+      "aliases": [
+        "independent trials",
+        "success and failure",
+        "binomial distribution"
       ]
     },
     "binomial-distribution": {
@@ -1156,7 +1255,12 @@
         "bernoulli-trials",
         "binomial-theorem"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "Bernoulli trials",
+        "binomial probability",
+        "n independent trials"
+      ]
     },
     "partial-fractions": {
       "canonical_name": "Partial Fractions",
@@ -1171,7 +1275,11 @@
         "factorisation-of-polynomials",
         "rational-number-operations"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "integration by partial fractions",
+        "decomposing a rational function"
+      ]
     },
     "l-hopital-s-rule": {
       "canonical_name": "L'Hôpital's Rule",
@@ -1185,7 +1293,11 @@
         "differentiability",
         "limits-algebra"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "indeterminate form",
+        "limit of a quotient"
+      ]
     },
     "regression-line": {
       "canonical_name": "Regression Line",
@@ -1200,7 +1312,11 @@
         "correlation",
         "straight-lines"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "line of best fit",
+        "least squares line"
+      ]
     }
   }
 }

@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- No arithmetic operations (addition, subtraction, multiplication, division) are present on the page.",
+    "tokens": 1255,
+    "said": "VERDICT: ok\n- No arithmetic operations (addition, subtraction, multiplication, division) are present on the page.\n- The page states there are two terminals on a cell and two terminals on a lamp, and the worked example describes connecting one wire from the positive terminal of the cell to one terminal of the lamp, and a second wire from the other terminal of the lamp to the negative terminal of the cell. This forms a single closed loop with exactly two wires connecting the two components.\n- The page claims there are two terminals on a cell (positive and negative) and two terminals on a lamp. The worked example uses two wires to connect them in a closed loop.\n- The page states that for an incandescent lamp, swapping the wires at the lamp's base does not affect whether the lamp glows, because the lamp is a two-terminal device and current direction does not matter for its function. This is internally consistent with the earlier statement that the current direction is taken from positive to negative.\n- No numerical counts (e.g., \"four lines of symmetry\") are made on the page.\n- The heading \"Worked Example\" is followed by a worked example.\n- The heading \"Key points\" is followed by a list of key points.\n- The page does not contain any contradictions.\n- The page does not contain any arithmetic errors, as there is no arithmetic."
+  }
+]

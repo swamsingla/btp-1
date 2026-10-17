@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- 12x^3 / 3x = 4x^2 ✓",
+    "tokens": 1364,
+    "said": "VERDICT: ok\n- 12x^3 / 3x = 4x^2 ✓\n- -6x^2 / 3x = -2x ✓\n- x^2 + 5x + 6 divided by x + 2: x^2/x = x; x(x+2) = x^2 + 2x; subtract: (x^2+5x+6) - (x^2+2x) = 3x + 6 ✓; 3x/x = 3; 3(x+2) = 3x+6; subtract: (3x+6) - (3x+6) = 0 ✓\n- (10x^2)/(5x) = 2x ✓\n- (-5x)/(5x) = -1 ✓\n- 2x - 1 multiplied by 5x = 10x^2 - 5x ✓\n- 25/4 x^2 - y^2/9 rewritten as (5/2 x)^2 - (y/3)^2 ✓\n- 25/4 = 6.25, but (5/2)^2 = 25/4 ✓\n- y^2/9 = (y/3)^2 ✓\n- No contradictions found between sections.\n- All worked examples follow the stated rules.\n- No internal arithmetic or counting errors detected."
+  }
+]

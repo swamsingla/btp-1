@@ -1,0 +1,520 @@
+{
+  "scale": "2 = correct, 1 = minor defect (meaning intact), 0 = wrong or missing",
+  "pymupdf_baseline": {
+    "M1": [
+      0,
+      "fraction -b/2a shattered across lines"
+    ],
+    "M2": [
+      0,
+      "'both 2 b a'"
+    ],
+    "M3": [
+      1,
+      "b2 – 4ac: superscript flattened but readable"
+    ],
+    "M4": [
+      1,
+      "(– 4)2 flattened"
+    ],
+    "M5": [
+      0,
+      "13^2 became '132'"
+    ],
+    "M6": [
+      1,
+      "x2 flattened"
+    ],
+    "M7": [
+      0,
+      "7^2 became '72'"
+    ],
+    "M8": [
+      0,
+      "quadratic formula shattered"
+    ],
+    "M9": [
+      0,
+      "1/3 shattered"
+    ],
+    "M10": [
+      0,
+      "1/3 shattered"
+    ],
+    "M11": [
+      0,
+      "all fractions shattered"
+    ],
+    "P1": [
+      0,
+      "shattered"
+    ],
+    "P2": [
+      0,
+      "shattered"
+    ],
+    "P3": [
+      0,
+      "shattered"
+    ],
+    "P4": [
+      0,
+      "shattered"
+    ],
+    "P5": [
+      0,
+      "shattered"
+    ],
+    "P6": [
+      0,
+      "shattered"
+    ],
+    "P7": [
+      0,
+      "shattered"
+    ],
+    "P8": [
+      0,
+      "shattered"
+    ],
+    "P9": [
+      0,
+      "integral limits scattered"
+    ],
+    "P10": [
+      0,
+      "scattered"
+    ],
+    "P11": [
+      0,
+      "scattered"
+    ],
+    "P12": [
+      1,
+      "m s–1 superscript flattened"
+    ],
+    "P13": [
+      1,
+      "(20)2 flattened"
+    ],
+    "P14": [
+      1,
+      "column order mostly right, figure captions interleaved"
+    ],
+    "C1": [
+      0,
+      "table flattened to one cell per line, rows lost"
+    ],
+    "C2": [
+      0,
+      "equations (1.8)/(1.9) missing from text layer"
+    ],
+    "C3": [
+      0,
+      "(1.10) missing"
+    ],
+    "C4": [
+      0,
+      "(1.11) missing"
+    ],
+    "C5": [
+      0,
+      "(1.12) missing"
+    ],
+    "C6": [
+      1,
+      "CuSO4 subscripts flattened"
+    ],
+    "C7": [
+      1,
+      "subscripts flattened"
+    ],
+    "C8": [
+      1,
+      "subscripts flattened"
+    ],
+    "C9": [
+      1,
+      "subscripts flattened"
+    ],
+    "C10": [
+      0,
+      "no heading markup; 'Activity 1.10' repeated 5 times (shadow text)"
+    ],
+    "F1": [
+      0,
+      "'1\\n5 or 1\\n9'"
+    ],
+    "F2": [
+      0,
+      "shattered"
+    ],
+    "F3": [
+      0,
+      "shattered"
+    ],
+    "F4": [
+      0,
+      "shattered"
+    ],
+    "F5": [
+      0,
+      "shattered"
+    ],
+    "F6": [
+      0,
+      "shattered"
+    ]
+  },
+  "mineru_4_standard": {
+    "M1": [
+      1,
+      "whole sentence wrapped in one display-math block with \\text; renders correctly"
+    ],
+    "M2": [
+      2,
+      ""
+    ],
+    "M3": [
+      2,
+      ""
+    ],
+    "M4": [
+      2,
+      ""
+    ],
+    "M5": [
+      2,
+      ""
+    ],
+    "M6": [
+      2,
+      ""
+    ],
+    "M7": [
+      2,
+      ""
+    ],
+    "M8": [
+      2,
+      ""
+    ],
+    "M9": [
+      2,
+      ""
+    ],
+    "M10": [
+      2,
+      ""
+    ],
+    "M11": [
+      2,
+      ""
+    ],
+    "P1": [
+      1,
+      "formula correct but grouped with next line in one array; label (2.5) displaced"
+    ],
+    "P2": [
+      2,
+      ""
+    ],
+    "P3": [
+      2,
+      ""
+    ],
+    "P4": [
+      2,
+      ""
+    ],
+    "P5": [
+      2,
+      ""
+    ],
+    "P6": [
+      2,
+      ""
+    ],
+    "P7": [
+      2,
+      ""
+    ],
+    "P8": [
+      2,
+      ""
+    ],
+    "P9": [
+      1,
+      "integral correct; side note '(a is constant)' mangled into \\tag"
+    ],
+    "P10": [
+      2,
+      ""
+    ],
+    "P11": [
+      2,
+      ""
+    ],
+    "P12": [
+      2,
+      ""
+    ],
+    "P13": [
+      2,
+      ""
+    ],
+    "P14": [
+      2,
+      "two-column order correct"
+    ],
+    "C1": [
+      2,
+      "proper markdown table"
+    ],
+    "C2": [
+      2,
+      ""
+    ],
+    "C3": [
+      2,
+      ""
+    ],
+    "C4": [
+      2,
+      "340 atm over arrow via \\xrightarrow"
+    ],
+    "C5": [
+      1,
+      "content correct but two \\tag commands -> KaTeX 'Multiple \\tag' render error (fixable in post-processing)"
+    ],
+    "C6": [
+      2,
+      ""
+    ],
+    "C7": [
+      2,
+      ""
+    ],
+    "C8": [
+      2,
+      ""
+    ],
+    "C9": [
+      1,
+      "equation correct; label (1.27) displaced below an image block"
+    ],
+    "C10": [
+      2,
+      "heading and Activity heading detected"
+    ],
+    "F1": [
+      2,
+      ""
+    ],
+    "F2": [
+      2,
+      ""
+    ],
+    "F3": [
+      2,
+      ""
+    ],
+    "F4": [
+      2,
+      ""
+    ],
+    "F5": [
+      2,
+      ""
+    ],
+    "F6": [
+      2,
+      "boxed 1/2 > 1/4"
+    ]
+  },
+  "mineru_other_findings": [
+    "Watermark '© NCERT not to be republished' removed in all files",
+    "Running headers, page numbers and 'Reprint 2025-26' kept as isolated lines -> strip in step 3",
+    "Adjacent inline math in a table cell ('$a$$b$') is ambiguous for markdown math parsers -> insert a space in post-processing",
+    "Figures become '![Image block](doc:...)' placeholders with captions kept"
+  ],
+  "marker_2_0_balanced": {
+    "M1": [
+      2,
+      ""
+    ],
+    "M2": [
+      0,
+      "'are both 2 b a'"
+    ],
+    "M3": [
+      0,
+      "minus signs turned into bullet points: 'b² / 4ac > 0'"
+    ],
+    "M4": [
+      2,
+      ""
+    ],
+    "M5": [
+      1,
+      "13^2 line ok; AP^2 + PB^2 = AB^2 split into a broken table with 'PB2'"
+    ],
+    "M6": [
+      2,
+      ""
+    ],
+    "M7": [
+      2,
+      ""
+    ],
+    "M8": [
+      2,
+      ""
+    ],
+    "M9": [
+      0,
+      "'3x<sup>2</sup> – 2x + 1 3 = 0'"
+    ],
+    "M10": [
+      0,
+      "'× 1 3'"
+    ],
+    "M11": [
+      0,
+      "'22 11 ,, ,, i.e., , i.e., . 2 2 66 33 bb aa'"
+    ],
+    "P1": [
+      2,
+      ""
+    ],
+    "P2": [
+      2,
+      ""
+    ],
+    "P3": [
+      2,
+      ""
+    ],
+    "P4": [
+      1,
+      "(2.7b) lost the bar: 'v = (v+v0)/2'"
+    ],
+    "P5": [
+      2,
+      "but wrongly labelled (2.8)"
+    ],
+    "P6": [
+      0,
+      "v^2 = v0^2 + 2ax (2.8) missing"
+    ],
+    "P7": [
+      2,
+      ""
+    ],
+    "P8": [
+      2,
+      ""
+    ],
+    "P9": [
+      1,
+      "'(a is' / 'constant)' split out of the equation"
+    ],
+    "P10": [
+      2,
+      ""
+    ],
+    "P11": [
+      0,
+      "dropped the dx/dt factor: 'dv/dt = dv/dx = v dv/dx'"
+    ],
+    "P12": [
+      1,
+      "'20 m s–1' flattened in question text"
+    ],
+    "P13": [
+      1,
+      "HTML <sup> instead of LaTeX"
+    ],
+    "P14": [
+      1,
+      "Example 2.2 and 2.3 boxes interleaved into the wrong places"
+    ],
+    "C1": [
+      1,
+      "'iron' dropped from header; 'Fe 3 O 4' flattened"
+    ],
+    "C2": [
+      1,
+      "(1.9) present but wrapped in a table next to leaked raw HTML; Step VI placed before Step V"
+    ],
+    "C3": [
+      0,
+      "'^3Fe(s)' — coefficient rendered as a superscript"
+    ],
+    "C4": [
+      2,
+      ""
+    ],
+    "C5": [
+      1,
+      "'Chlorophyll' missing under the arrow"
+    ],
+    "C6": [
+      1,
+      "equation split across table cells with HTML <sub>"
+    ],
+    "C7": [
+      1,
+      "split across table cells"
+    ],
+    "C8": [
+      1,
+      "split across table cells with HTML <sub>"
+    ],
+    "C9": [
+      2,
+      ""
+    ],
+    "C10": [
+      1,
+      "activity bullets rendered as '<sup>n</sup>'"
+    ],
+    "F1": [
+      0,
+      "'<sup>1</sup> 5 or <sup>1</sup> 9'"
+    ],
+    "F2": [
+      0,
+      "<sup> fragments"
+    ],
+    "F3": [
+      0,
+      "'<sup>1</sup> 9 < <sup>1</sup> 5'"
+    ],
+    "F4": [
+      1,
+      "correct fractions but first one forced into a display block mid-sentence"
+    ],
+    "F5": [
+      2,
+      ""
+    ],
+    "F6": [
+      1,
+      "sentence fractions broken; boxed 1/2 > 1/4 correct but moved to end of page"
+    ]
+  },
+  "timing_seconds": {
+    "note": "RTX 3050 Laptop 4GB; 41 pages = quadratic(11) + motion(14) + chemical reactions(16); each run includes model start-up",
+    "mineru_4_standard": {
+      "g10_maths_ch4_quadratic": 241,
+      "g11_physics_ch2_motion": 256,
+      "g10_science_ch1_chemical_reactions": 248
+    },
+    "marker_2_0_balanced": {
+      "g10_maths_ch4_quadratic": 149,
+      "g11_physics_ch2_motion": 234,
+      "g10_science_ch1_chemical_reactions": 194
+    }
+  }
+}

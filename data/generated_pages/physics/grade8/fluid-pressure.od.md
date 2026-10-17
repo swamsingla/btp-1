@@ -1,0 +1,108 @@
+---
+{
+  "concept": "Pressure in Fluids",
+  "slug": "fluid-pressure",
+  "grade": 8,
+  "language": "od",
+  "hand_edited": "2026-10-13: read line by line against the English tagged copy; fixed in both copies: the generator used one word (taralo padartha) for BOTH 'fluid' and 'liquid', so 'a fluid includes both liquids and gases' read as 'a liquid includes liquids and gases' and the page title equalled a heading. Fluid is now prabahi (English in brackets at first use), liquid taralo padartha, gas gyas. Also 'hull' left as a transliteration (now bahara kabacha), 'tight-fitting' left as an English word. Odia has no earlier fluid term in the repo, so prabahi is my own choice, unverified by a native speaker. The English page is thin (about 430 words, one 4-sentence Grade 9 source), inherited.",
+  "subject": "physics",
+  "area": "Fluid Mechanics",
+  "model": "sarvam-105b",
+  "settings": {
+    "temperature": 0.3,
+    "max_tokens": 8000,
+    "reasoning_effort": "none"
+  },
+  "usage": {
+    "completion_tokens": 754,
+    "prompt_tokens": 1104,
+    "total_tokens": 1858,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "prompt_tokens_details": null
+  },
+  "target_words": [
+    350,
+    675
+  ],
+  "generated_at": "2026-10-13T21:27:44",
+  "source_grade": 9,
+  "grade_delta": 1,
+  "sources": [
+    {
+      "ref": "S1",
+      "passage_id": "g9_science_chapter9_024",
+      "chapter": "chapter9",
+      "section": "9.5.1 PRESSURE IN FLUIDS"
+    },
+    {
+      "ref": "S2",
+      "passage_id": "g9_science_chapter1_024",
+      "chapter": "chapter1",
+      "section": "1.4.2 EFFECT OF CHANGE OF PRESSURE"
+    }
+  ],
+  "citation_check": {
+    "cited": [
+      "1"
+    ],
+    "invented_citations": [],
+    "unused_sources": [
+      "2"
+    ],
+    "explanatory_paragraphs_without_a_citation": 0,
+    "words": 430,
+    "target_words": [
+      350,
+      675
+    ],
+    "untraceable_sections": 1,
+    "ok": true,
+    "tags_vs_english": "8/8",
+    "localisation_problems": [],
+    "not_harvestable": [
+      "brackets: 6/6 declared terms are not bracketed with their English word (['pressure', 'fluid', 'liquid', 'gas'])"
+    ]
+  },
+  "terms": [
+    "pressure",
+    "fluid",
+    "liquid",
+    "gas",
+    "pascal's law",
+    "confined mass"
+  ]
+}
+---
+
+# ପ୍ରବାହୀରେ ଚାପ
+
+ଆପଣ ଆଗରୁ ଜାଣିଛନ୍ତି ଯେ ଏକ ଭାରୀ କଠିନ ବସ୍ତୁ ଏହାର ଓଜନ କାରଣରୁ ଏକ ଟେବୁଲ ଉପରେ ତଳକୁ ଚାପ ପକାଏ। ପ୍ରବାହୀ (fluid) କଠିନ ପଦାର୍ଥଠାରୁ ଭିନ୍ନ, କିନ୍ତୁ ସେଗୁଡ଼ିକର ମଧ୍ୟ ଓଜନ ଥାଏ। ଯେତେବେଳେ ଏକ ପ୍ରବାହୀକୁ ଏକ ପାତ୍ରରେ ରଖାଯାଏ, ଏହା ସେହି ପାତ୍ରର ତଳ ଏବଂ ପାର୍ଶ୍ୱ ଉପରେ ଚାପ ପକାଏ। ପୃଷ୍ଠର ପ୍ରତ୍ୟେକ ଏକକ କ୍ଷେତ୍ରଫଳ ଉପରେ ଏହି ଚାପ ପ୍ରୟୋଗ କରୁଥିବା ବଳକୁ ଚାପ କୁହାଯାଏ। ପ୍ରବାହୀ କିପରି ଚାପ ପକାଏ ତାହା ବୁଝିବା ଅନେକ ଦୈନନ୍ଦିନ ଜିନିଷ ପାଇଁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ, ଯେପରିକି ପାଣି ପମ୍ପ କିପରି କାମ କରେ କିମ୍ବା ଗଭୀର ସମୁଦ୍ରରେ ଯାଉଥିବା ବୁଡ଼ାଜାହାଜ ପାଇଁ କାହିଁକି ଏକ ବହୁତ ଶକ୍ତିଶାଳୀ ବାହାର କବଚ ଆବଶ୍ୟକ।
+
+## ପ୍ରବାହୀ କ'ଣ?
+
+ପ୍ରବାହୀ ହେଉଛି ଯେକୌଣସି ପଦାର୍ଥ ଯାହା ସହଜରେ ପ୍ରବାହିତ ହୋଇପାରେ। ଏଥିରେ ଉଭୟ ତରଳ ପଦାର୍ଥ (liquid) ଏବଂ ଗ୍ୟାସ୍ (gas) ଅନ୍ତର୍ଭୁକ୍ତ। ଯେହେତୁ ପ୍ରବାହୀଗୁଡ଼ିକର ଓଜନ ଥାଏ, ସେମାନେ ଯେଉଁ ପାତ୍ରରେ ଆବଦ୍ଧ ହୋଇ ରହିଥାନ୍ତି, ତାହାର ଆଧାର ଏବଂ କାନ୍ଥ ଉପରେ ଚାପ ପ୍ରୟୋଗ କରନ୍ତି। ଏହା ଠିକ୍ ସେହିପରି ଯେପରି ଏକ କଠିନ ବସ୍ତୁ ଏହାର ଓଜନ କାରଣରୁ ଏକ ପୃଷ୍ଠ ଉପରେ ଚାପ ପ୍ରୟୋଗ କରେ।
+
+## ତରଳ ପଦାର୍ଥରେ ଚାପ
+
+ପାଣି ହେଉଛି ଏକ ପ୍ରବାହୀ ଯାହା ଆମେ ପ୍ରତିଦିନ ଦେଖୁ। ଯେତେବେଳେ ଆପଣ ଏକ ଗ୍ଲାସ୍ ପାଣି ଭର୍ତ୍ତି କରନ୍ତି, ପାଣି ଗ୍ଲାସ୍ ଉପରେ ଚାପ ପକାଏ। ଏକ ତରଳ ପଦାର୍ଥ କେତେ ଚାପ ପ୍ରୟୋଗ କରେ ତାହା ଏହା କେତେ ଗଭୀର ତାହା ଉପରେ ନିର୍ଭର କରେ। ଆପଣ ତରଳ ପଦାର୍ଥ ଭିତରେ ଯେତେ ଗଭୀରକୁ ଯାଆନ୍ତି, ଚାପ ସେତେ ଶକ୍ତିଶାଳୀ ହୁଏ। ଏହା ଘଟେ କାରଣ ଆପଣଙ୍କ ଉପରେ ଅଧିକ ତରଳ ପଦାର୍ଥ ଥାଏ, ଯାହା ସମୁଦାୟ ଓଜନ ଏବଂ ଚାପ ପକାଉଥିବା ବଳ ବୃଦ୍ଧି କରେ।
+
+## ପାସ୍କାଲଙ୍କ ନିୟମ
+
+ପାସ୍କାଲଙ୍କ ନିୟମ ଆମକୁ ଏକ ଆବଦ୍ଧ ପ୍ରବାହୀ ଭିତରେ ଚାପ କିପରି କାମ କରେ ସେ ବିଷୟରେ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ନିୟମ କହିଥାଏ। ଏହି ନିୟମ ଅନୁଯାୟୀ, କୌଣସି ଆବଦ୍ଧ ପ୍ରବାହୀରେ ପ୍ରୟୋଗ କରାଯାଇଥିବା ଚାପ ସମସ୍ତ ଦିଗରେ ଅପରିବର୍ତ୍ତିତ ଭାବରେ ପ୍ରସାରିତ ହୁଏ। ଏହାର ଅର୍ଥ ହେଉଛି ଯଦି ଆପଣ ଗୋଟିଏ ସ୍ଥାନରେ ପ୍ରବାହୀ ଉପରେ ଚାପ ପକାନ୍ତି, ତେବେ ସେହି ଚାପ ସବୁ ଦିଗରେ ସମାନ ଭାବରେ ବ୍ୟାପିଯାଏ। ଏହା ପ୍ରବାହୀ ଦେଇ ଗତି କରିବା ସମୟରେ ଦୁର୍ବଳ ହୁଏ ନାହିଁ।
+
+## ସମାଧାନ କରାଯାଇଥିବା ଉଦାହରଣ
+
+ଆସନ୍ତୁ ଦେଖିବା ଏକ ସରଳ ପରିସ୍ଥିତିରେ ଏହି ନିୟମ କିପରି କାମ କରେ। କଳ୍ପନା କରନ୍ତୁ ଏକ ବନ୍ଦ ପାତ୍ର ଯାହା ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ପାଣିରେ ଭର୍ତ୍ତି ହୋଇଛି, ଯାହାର ଏକ ଠିକ୍‌ଭାବେ ଲାଗୁଥିବା ଢାଙ୍କୁଣୀ ଅଛି ଯାହାକୁ ଆପଣ ତଳକୁ ଚାପି ପାରିବେ। ଯେତେବେଳେ ଆପଣ ଢାଙ୍କୁଣୀକୁ ଚାପନ୍ତି, ଆପଣ ପାଣି ଉପରେ ଚାପ ପ୍ରୟୋଗ କରନ୍ତି। ପାସ୍କାଲଙ୍କ ନିୟମ କାରଣରୁ, ଏହି ଚାପ ସମସ୍ତ ଦିଗରେ ଅପରିବର୍ତ୍ତିତ ଭାବରେ (ଛୋଟ ନହୋଇ) ପ୍ରସାରିତ ହୁଏ। ତେଣୁ ସମାନ ଚାପ ପାତ୍ରର ତଳ ଏବଂ ପାର୍ଶ୍ୱରେ ପହଞ୍ଚେ, ଏହାର କୌଣସି ଶକ୍ତି ନହରାଇ।
+
+## ମୁଖ୍ୟ ବିନ୍ଦୁ
+
+*   ସମସ୍ତ ତରଳ ପଦାର୍ଥ ଏବଂ ଗ୍ୟାସ୍‌କୁ ପ୍ରବାହୀ କୁହାଯାଏ କାରଣ ସେଗୁଡ଼ିକ ପ୍ରବାହିତ ହୋଇପାରନ୍ତି।
+*   ପ୍ରବାହୀଗୁଡ଼ିକର ଓଜନ ଥାଏ, ତେଣୁ ସେମାନେ ସେମାନଙ୍କର ପାତ୍ରର ଆଧାର ଏବଂ କାନ୍ଥ ଉପରେ ଚାପ ପ୍ରୟୋଗ କରନ୍ତି।
+*   କୌଣସି ଆବଦ୍ଧ ପ୍ରବାହୀରେ ପ୍ରୟୋଗ କରାଯାଇଥିବା ଚାପ ସମସ୍ତ ଦିଗରେ ଅପରିବର୍ତ୍ତିତ ଭାବରେ ପ୍ରସାରିତ ହୁଏ।
+*   ତରଳ ପଦାର୍ଥର ଗଭୀରତା ବଢ଼ିବା ସହିତ ଏକ ତରଳ ପଦାର୍ଥ ଦ୍ୱାରା ପ୍ରୟୋଗ କରାଯାଉଥିବା ଚାପ ବୃଦ୍ଧି ପାଏ।
+*   ଚାପ ହେଉଛି ଏକ ପୃଷ୍ଠର ପ୍ରତ୍ୟେକ ଏକକ କ୍ଷେତ୍ରଫଳ ଉପରେ କାର୍ଯ୍ୟ କରୁଥିବା ବଳ।

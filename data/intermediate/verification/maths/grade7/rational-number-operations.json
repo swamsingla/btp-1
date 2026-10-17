@@ -1,0 +1,14 @@
+[
+  {
+    "verdict": "fail",
+    "first_fault": "- The worked example under \"Multiplying and Dividing Rational Numbers\" incorrectly states that the HCF of 6 and 20 is 2, when it is actually 2; however, the simplification step divides only the numerator and denominator by 2, giving -3/10, which is correct.",
+    "tokens": 1986,
+    "said": "VERDICT: fail\n- The worked example under \"Multiplying and Dividing Rational Numbers\" incorrectly states that the HCF of 6 and 20 is 2, when it is actually 2; however, the simplification step divides only the numerator and denominator by 2, giving -3/10, which is correct.\n- In the \"Adding and Subtracting Rational Numbers\" worked example, the text says \"To convert 1/3, we multiply the numerator and the denominator by 2, giving us 2/6\", but 1/3 × 2/2 = 2/6 is correct.\n- In the \"Distributive Property\" worked example, the text says \"Next, multiply 3/2 by 1/2: 3/2 × 1/2 = 3/4\", but 3/2 × 1/2 = 3/4 is correct.\n- In the \"Distributive Property\" worked example, the text says \"Now, add the two products together: 3/8 + 3/4\", then says \"To add these, find a common denominator, which is 8\" and writes \"3/8 + 6/8 = 9/8\". The conversion 3/4 = 6/8 is correct, and 3/8 + 6/8 = 9/8 is correct.\n- Under \"Key points\", the first bullet says \"Multiplying or dividing two rational numbers with the same sign gives a positive result\", but the earlier section stated \"When you multiply a positive rational number by a negative rational number, the result is always negative. Conversely, when you multiply two negative rational numbers, the result is always positive.\" This is consistent, so no fault there.\n- Under \"Key points\", the second bullet says \"Multiplying or dividing two rational numbers with different signs gives a negative result\", which is consistent with the earlier section.\n- Under \"Key points\", the third bullet says \"To add or subtract rational numbers with different denominators, find the least common multiple of the denominators first.\" The earlier section said \"The easiest common denominator to use is the least common multiple (LCM) of the two denominators.\" This is consistent.\n- Under \"Key points\", the fourth bullet says \"The distributive property of multiplication over addition holds for rational numbers: a(b + c) = ab + ac.\" This is consistent with the earlier section.\n- Under \"Key points\", the fifth bullet says \"The commutative and associative properties apply to the addition and multiplication of rational numbers.\" This is consistent with the earlier section.\n- The page does not contain any arithmetic errors or internal inconsistencies.\n\nVERDICT: ok"
+  },
+  {
+    "verdict": "ok",
+    "first_fault": "(no fault named)",
+    "tokens": 1455,
+    "said": "VERDICT: ok"
+  }
+]

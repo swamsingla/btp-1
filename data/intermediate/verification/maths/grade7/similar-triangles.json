@@ -1,0 +1,14 @@
+[
+  {
+    "verdict": "fail",
+    "first_fault": "- The worked example claims the second triangle is similar to the first with a scale factor of 2, and calculates the corresponding sides to the 7 cm and 5 cm sides as 14 cm and 10 cm respectively.",
+    "tokens": 1388,
+    "said": "VERDICT: fail\n- The worked example claims the second triangle is similar to the first with a scale factor of 2, and calculates the corresponding sides to the 7 cm and 5 cm sides as 14 cm and 10 cm respectively.\n- It then lists the side lengths of the second triangle as 10 cm, 14 cm, and 20 cm.\n- However, the side corresponding to the 5 cm side is 10 cm, which equals the side corresponding to the 10 cm side.\n- This means the second triangle has two equal sides (10 cm and 10 cm) and a third side of 14 cm, which is not similar to the first triangle (5 cm, 7 cm, 10 cm) because the ratios of corresponding sides are not consistent (10/5 = 2, 14/7 = 2, but 20/10 = 2, so actually the ratios are consistent, but the triangle with sides 10, 10, 14 is isosceles while the first triangle is scalene, so they cannot be similar).\nVERDICT: ok"
+  },
+  {
+    "verdict": "ok",
+    "first_fault": "(no fault named)",
+    "tokens": 1153,
+    "said": "VERDICT: ok\n- what the page says, and what it should be\n- (one line per fault)"
+  }
+]

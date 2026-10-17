@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- The page contains no numerical calculations, sums, divisions, or counts to verify.",
+    "tokens": 1612,
+    "said": "VERDICT: ok\n\n- The page contains no numerical calculations, sums, divisions, or counts to verify.\n- The worked example correctly applies Rule 1 (fish/external fertilisation) and Rule 3 (mammals/internal fertilisation) as stated in the preceding text.\n- The key points list accurately summarizes the rules and examples given in the page without internal contradictions."
+  }
+]

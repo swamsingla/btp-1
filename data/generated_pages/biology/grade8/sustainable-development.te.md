@@ -1,0 +1,107 @@
+---
+{
+  "concept": "Sustainable Development",
+  "slug": "sustainable-development",
+  "grade": 8,
+  "language": "te",
+  "hand_edited": "2026-10-13: line-by-line hand audit against the English tagged copy, edited directly in both copies: Recycle had been rendered with the Telugu word for 'reproduction' (punarutpatti) and is now punahchakreekarana; watershed had been rendered as jalasamrakshana (water conservation) and is now pareevahaka pradesham; English now follows the Telugu term in the Three Rs paragraph; 'year after year' had become 'all year long'; rainwater harvesting worded as sekarana (collection); jar, landfills, topsoil, rain-fed area, vrutha spelling; the two fixed headings no longer carry English brackets",
+  "subject": "biology",
+  "area": "Ecology",
+  "model": "sarvam-105b",
+  "settings": {
+    "temperature": 0.3,
+    "max_tokens": 8000,
+    "reasoning_effort": "none"
+  },
+  "usage": {
+    "completion_tokens": 1087,
+    "prompt_tokens": 1259,
+    "total_tokens": 2346,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "prompt_tokens_details": null
+  },
+  "target_words": [
+    475,
+    900
+  ],
+  "generated_at": "2026-10-13T13:29:28",
+  "source_grade": 9,
+  "grade_delta": 1,
+  "sources": [
+    {
+      "ref": "S1",
+      "passage_id": "g9_science_chapter12_013",
+      "chapter": "chapter12",
+      "section": "12.1.2 (ii) IRRIGATION"
+    }
+  ],
+  "citation_check": {
+    "cited": [
+      "1"
+    ],
+    "invented_citations": [],
+    "unused_sources": [],
+    "explanatory_paragraphs_without_a_citation": 0,
+    "words": 470,
+    "target_words": [
+      475,
+      900
+    ],
+    "untraceable_sections": 2,
+    "ok": true,
+    "tags_vs_english": "8/8",
+    "localisation_problems": [],
+    "not_harvestable": [
+      "brackets: 6/13 declared terms are not bracketed with their English word (['reduce', 'reuse', 'recycle', 'drought'])"
+    ]
+  },
+  "terms": [
+    "sustainable development",
+    "three rs",
+    "reduce",
+    "reuse",
+    "recycle",
+    "rainwater harvesting",
+    "watershed management",
+    "check-dams",
+    "irrigation",
+    "drought",
+    "soil erosion",
+    "groundwater level",
+    "run-off"
+  ]
+}
+---
+
+# స్థిరమైన అభివృద్ధి (Sustainable development)
+
+భవిష్యత్ తరాలకు అందేలా మన సహజ వనరులను జాగ్రత్తగా ఉపయోగించడాన్ని స్థిరమైన అభివృద్ధి (sustainable development) అంటారు. మనం ఈ రోజున ప్రతిదానినీ వృథా చేస్తే, భవిష్యత్తులో మొక్కలు, జంతువులు, మనుషులు జీవించడానికి అవసరమైనవి ఉండవు కాబట్టి ఇది చాలా ముఖ్యం. ఈ ఆలోచన జీవశాస్త్రంతో ముడిపడి ఉంది, ఎందుకంటే అడవులు, నదుల వంటి ఆరోగ్యకరమైన పర్యావరణ వ్యవస్థలకు (ecosystems) అన్ని జీవులను పోషించడానికి స్వచ్ఛమైన నీరు, నేల అవసరం. వనరులను తెలివిగా నిర్వహించడం ద్వారా, మనం పర్యావరణాన్ని రక్షిస్తాము, మన సమాజాలను బలంగా ఉంచుతాము.
+
+## మూడు R లు (The Three Rs)
+
+మూడు R లు (Three Rs) అంటే తగ్గించడం (Reduce), పునర్వినియోగం (Reuse), పునఃచక్రీకరణ (Recycle) అని అర్థం. ఇవి మనం తక్కువ వృథా చేయడానికి, శక్తిని ఆదా చేయడానికి సహాయపడే సాధారణ అలవాట్లు. తగ్గించడం (Reduce) అంటే తక్కువ వస్తువులను ఉపయోగించడం. ఉదాహరణకు, మీరు దుకాణానికి మీ స్వంత గుడ్డ సంచిని తీసుకువెళితే, ప్లాస్టిక్ సంచుల అవసరాన్ని మీరు తగ్గిస్తారు. పునర్వినియోగం (Reuse) అంటే ఒక వస్తువును పారేయడానికి బదులుగా మళ్లీ ఉపయోగించడం. ఒక గాజు జాడీని బిస్కెట్లు లేదా పెన్సిళ్లను నిల్వ చేయడానికి మళ్లీ ఉపయోగించవచ్చు. పునఃచక్రీకరణ (Recycle) అంటే పాత వస్తువులను కొత్త ఉత్పత్తులుగా మార్చడం. పాత వార్తాపత్రికలు కొత్త కాగితంగా మారుతాయి, ప్లాస్టిక్ సీసాలు కొత్త బొమ్మలుగా మారుతాయి. ఈ చర్యలు మనం చెత్త నింపే స్థలాలకు (landfills) పంపే చెత్త పరిమాణాన్ని తగ్గిస్తాయి, కొత్త వస్తువులను తయారు చేయడానికి అవసరమైన ముడి పదార్థాలను ఆదా చేస్తాయి.
+
+## వర్షపు నీటి సేకరణ (Rainwater Harvesting)
+
+వర్షపు నీటిని వృథాగా పోనివ్వకుండా సేకరించి నిల్వ చేసే పద్ధతిని వర్షపు నీటి సేకరణ (rainwater harvesting) అంటారు. వ్యవసాయానికి అందుబాటులో ఉన్న నీటిని పెంచే కొత్త పద్ధతుల్లో ఇది ఒకటి. భారతదేశంలో ఎక్కువ వ్యవసాయం రుతుపవనాల వర్షాలపై ఆధారపడి ఉంటుంది, కాబట్టి రుతుపవన వర్షాలు సరిగ్గా కురవకపోతే పంటలు విఫలమవుతాయి. వర్షాలు తక్కువగా లేదా అసమానంగా కురిసినప్పుడు కరువులు (droughts) సంభవిస్తాయి. తేలికపాటి నేలలు తక్కువ నీటిని నిలుపుకుంటాయి, కాబట్టి అలాంటి ప్రాంతాల్లో కరువు సమయంలో పంటలు ఎక్కువగా నష్టపోతాయి. వర్షపు నీటిని సేకరించడం ద్వారా, మనం పొడి రోజులకు ఒక అదనపు నీటి నిల్వను సృష్టిస్తాము. ఆకాశం నిర్మలంగా ఉన్నప్పుడు రైతులు ఈ నిల్వ ఉన్న నీటిని తమ పంటలకు అందించడానికి ఉపయోగించవచ్చు. ఈ సాధారణ పద్ధతి నేలను తేమగా ఉంచడానికి సహాయపడుతుంది, మొక్కలు చనిపోకుండా కాపాడుతుంది.
+
+## పరీవాహక ప్రాంత నిర్వహణ (Watershed Management)
+
+పరీవాహక ప్రాంతం (watershed) అంటే వర్షపు నీరు అంతా ఒకే చోటికి ప్రవహించే భూమి ప్రాంతం. నీటిని స్వచ్ఛంగా, అందుబాటులో ఉంచడానికి ఈ మొత్తం ప్రాంతాన్ని జాగ్రత్తగా చూసుకోవడం పరీవాహక ప్రాంత నిర్వహణలో (watershed management) ఉంటుంది. ఇందులో ఒక ముఖ్యమైన భాగం చిన్న చెక్-డ్యామ్‌లను (check-dams) నిర్మించడం. చెక్-డ్యామ్‌లు వర్షపు నీరు కొట్టుకుపోకుండా ఆపుతాయి, దీనివల్ల భూగర్భ జలమట్టం పెరుగుతుంది. చెక్-డ్యామ్‌లు నేల కోతను (soil erosion) కూడా తగ్గిస్తాయి, అంటే తక్కువ నేల కొట్టుకుపోతుంది.
+
+## సాధించిన ఉదాహరణ
+
+వర్షాధార ప్రాంతంలో (rain-fed area) ఉన్న ఒక చిన్న పొలాన్ని ఊహించుకోండి. ఆ రైతు ఎండిపోయిన వాగులో ఒక చిన్న చెక్-డ్యామ్‌ను నిర్మించాడు. వర్షాకాలంలో, చెక్-డ్యామ్ వర్షపు నీరు కొట్టుకుపోకుండా ఆపుతుంది. కాలక్రమేణా, పొలం చుట్టూ భూగర్భ జలమట్టం పెరుగుతుంది. మరుసటి వేసవిలో, వర్షాలు ఆలస్యమైనప్పుడు, రైతు నీటిపారుదల (irrigation) కోసం బావి నుండి నీటిని తోడగలడు. నేలలో తగినంత తేమ ఉన్నందున పంటలు బతికి ఉంటాయి. చెక్-డ్యామ్ పై మట్టి (topsoil) కొట్టుకుపోకుండా ఆపుతుంది, కాబట్టి పొలం ఏటా ఉత్పాదకంగా ఉంటుంది.
+
+## ముఖ్య అంశాలు
+
+- స్థిరమైన అభివృద్ధి (Sustainable development) అంటే భవిష్యత్తుకు హాని కలగకుండా నేటి అవసరాలను తీర్చడానికి వనరులను జాగ్రత్తగా ఉపయోగించడం.
+- మూడు R లు (తగ్గించడం, పునర్వినియోగం, పునఃచక్రీకరణ - Reduce, Reuse, Recycle) వృథాను తగ్గించడానికి, ముడి పదార్థాలను ఆదా చేయడానికి సహాయపడతాయి.
+- వర్షపు నీటి సేకరణ (Rainwater harvesting) పొడి కాలంలో, కరువుల సమయంలో నీటిని అందించడానికి వర్షపు నీటిని సేకరించి నిల్వ చేస్తుంది.
+- చిన్న చెక్-డ్యామ్‌లను (check-dams) నిర్మించడం వల్ల వర్షపు నీరు కొట్టుకుపోకుండా ఆగుతుంది, భూగర్భ జలాలు పెరుగుతాయి, నేల కోత తగ్గుతుంది.
+- ఆరోగ్యకరమైన నీటి నిర్వహణ వర్షాధార వ్యవసాయానికి మద్దతు ఇస్తుంది, పర్యావరణ వ్యవస్థలను సజీవంగా ఉంచుతుంది.

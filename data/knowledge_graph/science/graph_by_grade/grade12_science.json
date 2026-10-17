@@ -1,0 +1,2203 @@
+{
+  "grade": 12,
+  "subject": "science",
+  "total_concepts": 125,
+  "concepts": {
+    "snells-law": {
+      "canonical_name": "Snell's Law",
+      "slug": "snells-law",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Optics",
+      "description": "n₁ sinθ₁ = n₂ sinθ₂; refractive index",
+      "prerequisites": [
+        "refraction-of-light"
+      ],
+      "leads_to": [
+        "total-internal-reflection",
+        "wave-optics-interference",
+        "ray-optics-advanced"
+      ],
+      "subject": "physics"
+    },
+    "total-internal-reflection": {
+      "canonical_name": "Total Internal Reflection",
+      "slug": "total-internal-reflection",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Optics",
+      "description": "Critical angle; conditions for TIR; applications: optical fibre, mirage",
+      "prerequisites": [
+        "snells-law"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "dispersion-of-light": {
+      "canonical_name": "Dispersion of Light",
+      "slug": "dispersion-of-light",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Optics",
+      "description": "Splitting of white light by prism; rainbow formation; scattering of light",
+      "prerequisites": [
+        "refraction-of-light",
+        "wave-properties"
+      ],
+      "leads_to": [
+        "scattering-of-light",
+        "wave-optics-interference"
+      ],
+      "subject": "physics"
+    },
+    "wave-optics-interference": {
+      "canonical_name": "Interference of Light",
+      "slug": "wave-optics-interference",
+      "grades": [
+        12
+      ],
+      "area": "Optics",
+      "description": "Young's double slit experiment; fringe width; coherent sources",
+      "prerequisites": [
+        "superposition-of-waves",
+        "dispersion-of-light",
+        "snells-law"
+      ],
+      "leads_to": [
+        "diffraction",
+        "polarisation"
+      ],
+      "subject": "physics"
+    },
+    "diffraction": {
+      "canonical_name": "Diffraction of Light",
+      "slug": "diffraction",
+      "grades": [
+        12
+      ],
+      "area": "Optics",
+      "description": "Bending of light around obstacles; single slit diffraction pattern",
+      "prerequisites": [
+        "wave-optics-interference"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "polarisation": {
+      "canonical_name": "Polarisation of Light",
+      "slug": "polarisation",
+      "grades": [
+        12
+      ],
+      "area": "Optics",
+      "description": "Plane polarised light; Brewster's law; Malus's law; polaroids",
+      "prerequisites": [
+        "wave-optics-interference"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "electric-charge": {
+      "canonical_name": "Electric Charge",
+      "slug": "electric-charge",
+      "grades": [
+        8,
+        10,
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Positive and negative charge; conservation of charge; charging by rubbing",
+      "prerequisites": [],
+      "leads_to": [
+        "coulombs-law",
+        "electric-current",
+        "atomic-models-physics",
+        "radioactivity"
+      ],
+      "subject": "physics"
+    },
+    "coulombs-law": {
+      "canonical_name": "Coulomb's Law",
+      "slug": "coulombs-law",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "F = kq₁q₂/r²; permittivity; superposition principle",
+      "prerequisites": [
+        "electric-charge"
+      ],
+      "leads_to": [
+        "electric-field",
+        "capacitance"
+      ],
+      "subject": "physics"
+    },
+    "electric-field": {
+      "canonical_name": "Electric Field",
+      "slug": "electric-field",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "E = F/q; field lines; field due to point charge, dipole",
+      "prerequisites": [
+        "coulombs-law"
+      ],
+      "leads_to": [
+        "electromagnetic-waves",
+        "gauss-law"
+      ],
+      "subject": "physics"
+    },
+    "electric-potential": {
+      "canonical_name": "Electric Potential and Potential Difference",
+      "slug": "electric-potential",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "V = W/q; potential due to point charge; equipotential surfaces",
+      "prerequisites": [
+        "work-physics"
+      ],
+      "leads_to": [
+        "capacitance",
+        "ohms-law",
+        "bohrs-model",
+        "photoelectric-effect"
+      ],
+      "subject": "physics"
+    },
+    "capacitance": {
+      "canonical_name": "Capacitance and Capacitors",
+      "slug": "capacitance",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "C = Q/V; parallel plate capacitor; series and parallel combinations; energy stored",
+      "prerequisites": [
+        "electric-potential",
+        "coulombs-law"
+      ],
+      "leads_to": [
+        "ac-circuits-lcr",
+        "displacement-current"
+      ],
+      "subject": "physics"
+    },
+    "ohms-law": {
+      "canonical_name": "Ohm's Law",
+      "slug": "ohms-law",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "V = IR; resistance; V-I characteristics",
+      "prerequisites": [
+        "electric-current",
+        "electric-potential"
+      ],
+      "leads_to": [
+        "resistance-and-resistivity",
+        "kirchhoffs-laws",
+        "alternating-current"
+      ],
+      "subject": "physics"
+    },
+    "resistance-and-resistivity": {
+      "canonical_name": "Resistance and Resistivity",
+      "slug": "resistance-and-resistivity",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Factors affecting resistance; R = ρl/A; series and parallel resistors",
+      "prerequisites": [
+        "ohms-law"
+      ],
+      "leads_to": [
+        "heating-effect-of-current",
+        "kirchhoffs-laws"
+      ],
+      "subject": "physics"
+    },
+    "kirchhoffs-laws": {
+      "canonical_name": "Kirchhoff's Laws",
+      "slug": "kirchhoffs-laws",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Junction rule (current); loop rule (voltage); Wheatstone bridge",
+      "prerequisites": [
+        "ohms-law",
+        "resistance-and-resistivity"
+      ],
+      "leads_to": [
+        "emf-and-internal-resistance"
+      ],
+      "subject": "physics"
+    },
+    "emf-and-internal-resistance": {
+      "canonical_name": "EMF and Internal Resistance",
+      "slug": "emf-and-internal-resistance",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "EMF vs terminal voltage; V = ε − Ir; cells in series and parallel",
+      "prerequisites": [
+        "kirchhoffs-laws",
+        "conservation-of-energy"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "magnetic-field": {
+      "canonical_name": "Magnetic Field and Field Lines",
+      "slug": "magnetic-field",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Magnetic field lines; properties; Earth's magnetic field",
+      "prerequisites": [
+        "magnets-and-magnetism"
+      ],
+      "leads_to": [
+        "magnetic-effect-of-current",
+        "electromagnetic-induction",
+        "magnetic-properties-of-matter",
+        "moving-charges-and-magnetism"
+      ],
+      "subject": "physics"
+    },
+    "force-on-current-in-magnetic-field": {
+      "canonical_name": "Force on Current-Carrying Conductor in Magnetic Field",
+      "slug": "force-on-current-in-magnetic-field",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "F = BIl sinθ; Fleming's left-hand rule",
+      "prerequisites": [
+        "magnetic-effect-of-current"
+      ],
+      "leads_to": [
+        "electric-motor"
+      ],
+      "subject": "physics"
+    },
+    "electromagnetic-induction": {
+      "canonical_name": "Electromagnetic Induction",
+      "slug": "electromagnetic-induction",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Faraday's law; Lenz's law; induced EMF",
+      "prerequisites": [
+        "magnetic-field",
+        "electric-current"
+      ],
+      "leads_to": [
+        "electric-generator",
+        "alternating-current",
+        "electromagnetic-waves",
+        "displacement-current"
+      ],
+      "subject": "physics"
+    },
+    "electric-generator": {
+      "canonical_name": "Electric Generator",
+      "slug": "electric-generator",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "AC and DC generator; principle of working",
+      "prerequisites": [
+        "electromagnetic-induction",
+        "electric-motor"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "alternating-current": {
+      "canonical_name": "Alternating Current",
+      "slug": "alternating-current",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "AC vs DC; peak and rms values; AC circuits with R, L, C",
+      "prerequisites": [
+        "electromagnetic-induction",
+        "ohms-law"
+      ],
+      "leads_to": [
+        "transformers",
+        "electromagnetic-waves",
+        "ac-circuits-lcr"
+      ],
+      "subject": "physics"
+    },
+    "transformers": {
+      "canonical_name": "Transformers",
+      "slug": "transformers",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Step-up and step-down; Vₛ/Vₚ = Nₛ/Nₚ; power transmission",
+      "prerequisites": [
+        "alternating-current",
+        "solenoid-and-electromagnet"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "biot-savart-law": {
+      "canonical_name": "Biot-Savart Law",
+      "slug": "biot-savart-law",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "dB = (μ₀/4π)(Idl × r̂)/r²; field due to circular loop",
+      "prerequisites": [
+        "magnetic-effect-of-current"
+      ],
+      "leads_to": [
+        "amperes-law"
+      ],
+      "subject": "physics"
+    },
+    "amperes-law": {
+      "canonical_name": "Ampere's Circuital Law",
+      "slug": "amperes-law",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "∮B·dl = μ₀I; applications to solenoid and toroid",
+      "prerequisites": [
+        "biot-savart-law"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "electromagnetic-waves": {
+      "canonical_name": "Electromagnetic Waves",
+      "slug": "electromagnetic-waves",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Maxwell's equations (qualitative); EM spectrum; properties",
+      "prerequisites": [
+        "electromagnetic-induction",
+        "alternating-current",
+        "electric-field"
+      ],
+      "leads_to": [
+        "photoelectric-effect"
+      ],
+      "subject": "physics"
+    },
+    "atomic-models-physics": {
+      "canonical_name": "Atomic Models (Physics)",
+      "slug": "atomic-models-physics",
+      "grades": [
+        9,
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Thomson, Rutherford, Bohr models; alpha-particle scattering",
+      "prerequisites": [
+        "electric-charge"
+      ],
+      "leads_to": [
+        "bohrs-model",
+        "nuclear-structure"
+      ],
+      "subject": "physics"
+    },
+    "bohrs-model": {
+      "canonical_name": "Bohr's Model of Hydrogen Atom",
+      "slug": "bohrs-model",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Quantised orbits; energy levels; spectral series",
+      "prerequisites": [
+        "atomic-models-physics",
+        "electric-potential"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "photoelectric-effect": {
+      "canonical_name": "Photoelectric Effect",
+      "slug": "photoelectric-effect",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Einstein's equation; threshold frequency; stopping potential; photon",
+      "prerequisites": [
+        "electromagnetic-waves",
+        "electric-potential"
+      ],
+      "leads_to": [
+        "dual-nature-of-matter"
+      ],
+      "subject": "physics"
+    },
+    "dual-nature-of-matter": {
+      "canonical_name": "Dual Nature of Matter and Radiation",
+      "slug": "dual-nature-of-matter",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "de Broglie wavelength λ = h/mv; wave-particle duality",
+      "prerequisites": [
+        "photoelectric-effect",
+        "momentum"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "nuclear-structure": {
+      "canonical_name": "Nuclear Structure",
+      "slug": "nuclear-structure",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Nucleus: protons and neutrons; atomic number, mass number; isotopes",
+      "prerequisites": [
+        "atomic-models-physics",
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [
+        "mass-energy-equivalence"
+      ],
+      "subject": "physics"
+    },
+    "radioactivity": {
+      "canonical_name": "Radioactivity",
+      "slug": "radioactivity",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Alpha, beta, gamma decay; half-life; decay law N = N₀e⁻λt",
+      "prerequisites": [
+        "electric-charge"
+      ],
+      "leads_to": [
+        "nuclear-fission-fusion"
+      ],
+      "aliases": [
+        "alpha beta and gamma decay",
+        "half life",
+        "radioactive decay",
+        "nuclei"
+      ],
+      "subject": "physics"
+    },
+    "nuclear-fission-fusion": {
+      "canonical_name": "Nuclear Fission and Fusion",
+      "slug": "nuclear-fission-fusion",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Fission: splitting heavy nucleus; fusion: combining light nuclei; mass-energy equivalence",
+      "prerequisites": [
+        "radioactivity"
+      ],
+      "leads_to": [
+        "nuclear-energy-sources"
+      ],
+      "subject": "physics"
+    },
+    "semiconductor-basics": {
+      "canonical_name": "Semiconductors — Basics",
+      "slug": "semiconductor-basics",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Intrinsic and extrinsic semiconductors; n-type and p-type; band theory",
+      "prerequisites": [
+        "band-theory"
+      ],
+      "leads_to": [
+        "pn-junction-diode"
+      ],
+      "subject": "physics"
+    },
+    "pn-junction-diode": {
+      "canonical_name": "p-n Junction Diode",
+      "slug": "pn-junction-diode",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Depletion region; forward and reverse bias; V-I characteristics",
+      "prerequisites": [
+        "semiconductor-basics"
+      ],
+      "leads_to": [
+        "transistor"
+      ],
+      "subject": "physics"
+    },
+    "transistor": {
+      "canonical_name": "Transistor",
+      "slug": "transistor",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "npn and pnp; common emitter configuration; amplifier; switch",
+      "prerequisites": [
+        "pn-junction-diode"
+      ],
+      "leads_to": [
+        "logic-gates"
+      ],
+      "aliases": [
+        "npn and pnp",
+        "junction transistor",
+        "semiconductor device",
+        "amplifier"
+      ],
+      "subject": "physics"
+    },
+    "logic-gates": {
+      "canonical_name": "Logic Gates",
+      "slug": "logic-gates",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "AND, OR, NOT, NAND, NOR gates; truth tables; Boolean algebra",
+      "prerequisites": [
+        "transistor"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "AND OR NOT gate",
+        "truth table",
+        "digital electronics"
+      ],
+      "subject": "physics"
+    },
+    "solutions-chemistry": {
+      "canonical_name": "Solutions",
+      "slug": "solutions-chemistry",
+      "grades": [
+        9,
+        12
+      ],
+      "area": "Solutions",
+      "description": "Solute, solvent, solution; concentration; saturated and unsaturated",
+      "prerequisites": [
+        "mixtures-types"
+      ],
+      "leads_to": [
+        "concentration-of-solutions",
+        "ph-scale",
+        "solubility-and-factors"
+      ],
+      "subject": "chemistry"
+    },
+    "concentration-of-solutions": {
+      "canonical_name": "Concentration of Solutions",
+      "slug": "concentration-of-solutions",
+      "grades": [
+        12
+      ],
+      "area": "Solutions",
+      "description": "Molarity, molality, mole fraction, normality; dilution",
+      "prerequisites": [
+        "solutions-chemistry",
+        "mole-concept"
+      ],
+      "leads_to": [
+        "colligative-properties"
+      ],
+      "subject": "chemistry"
+    },
+    "colligative-properties": {
+      "canonical_name": "Colligative Properties",
+      "slug": "colligative-properties",
+      "grades": [
+        12
+      ],
+      "area": "Solutions",
+      "description": "Vapour pressure lowering, boiling point elevation, freezing point depression, osmotic pressure",
+      "prerequisites": [
+        "concentration-of-solutions",
+        "mole-concept"
+      ],
+      "leads_to": [
+        "raoults-law"
+      ],
+      "subject": "chemistry"
+    },
+    "rate-of-reaction": {
+      "canonical_name": "Rate of Chemical Reaction",
+      "slug": "rate-of-reaction",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Chemical Kinetics",
+      "description": "Factors affecting rate; rate law; order of reaction",
+      "prerequisites": [
+        "types-of-chemical-reactions"
+      ],
+      "leads_to": [
+        "collision-theory",
+        "chemical-equilibrium",
+        "catalysis"
+      ],
+      "subject": "chemistry"
+    },
+    "collision-theory": {
+      "canonical_name": "Collision Theory",
+      "slug": "collision-theory",
+      "grades": [
+        12
+      ],
+      "area": "Chemical Kinetics",
+      "description": "Activation energy; effective collisions; Arrhenius equation",
+      "prerequisites": [
+        "rate-of-reaction",
+        "kinetic-theory-of-gases"
+      ],
+      "leads_to": [
+        "catalysis"
+      ],
+      "subject": "chemistry"
+    },
+    "extraction-of-metals": {
+      "canonical_name": "Extraction of Metals",
+      "slug": "extraction-of-metals",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Chemical Reactions",
+      "description": "Reduction of ores; roasting, calcination, electrolytic refining",
+      "prerequisites": [
+        "reactivity-series",
+        "chemical-equations"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "alcohols-phenols-ethers": {
+      "canonical_name": "Alcohols, Phenols and Ethers",
+      "slug": "alcohols-phenols-ethers",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Preparation, properties and reactions; dehydration; acidity of phenols",
+      "prerequisites": [
+        "functional-groups",
+        "reaction-mechanisms"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "aldehydes-ketones-carboxylic-acids": {
+      "canonical_name": "Aldehydes, Ketones and Carboxylic Acids",
+      "slug": "aldehydes-ketones-carboxylic-acids",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Nucleophilic addition; Cannizzaro, aldol reactions; acidity of carboxylic acids",
+      "prerequisites": [
+        "functional-groups",
+        "reaction-mechanisms"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "amines": {
+      "canonical_name": "Amines",
+      "slug": "amines",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Classification; basicity; preparation; diazonium salts",
+      "prerequisites": [
+        "functional-groups",
+        "reaction-mechanisms"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "polymers": {
+      "canonical_name": "Polymers",
+      "slug": "polymers",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Addition and condensation polymers; rubber; biodegradable polymers",
+      "prerequisites": [
+        "reactions-of-hydrocarbons",
+        "functional-groups"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "addition polymerisation",
+        "condensation polymer",
+        "macromolecules",
+        "plastics and rubber"
+      ],
+      "subject": "chemistry"
+    },
+    "gibbs-free-energy": {
+      "canonical_name": "Gibbs Free Energy",
+      "slug": "gibbs-free-energy",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Thermochemistry",
+      "description": "ΔG = ΔH − TΔS; spontaneity; equilibrium condition ΔG = 0",
+      "prerequisites": [
+        "enthalpy-changes",
+        "second-law-of-thermodynamics",
+        "chemical-equilibrium"
+      ],
+      "leads_to": [
+        "entropy-chemistry"
+      ],
+      "subject": "chemistry"
+    },
+    "electrolysis": {
+      "canonical_name": "Electrolysis",
+      "slug": "electrolysis",
+      "grades": [
+        8,
+        10,
+        12
+      ],
+      "area": "Electrochemistry",
+      "description": "Electrolysis of water, brine; electroplating; Faraday's laws",
+      "prerequisites": [
+        "electric-current"
+      ],
+      "leads_to": [
+        "electrochemical-cells",
+        "faradays-laws-of-electrolysis"
+      ],
+      "subject": "chemistry"
+    },
+    "electrochemical-cells": {
+      "canonical_name": "Electrochemical Cells",
+      "slug": "electrochemical-cells",
+      "grades": [
+        12
+      ],
+      "area": "Electrochemistry",
+      "description": "Galvanic vs electrolytic cells; salt bridge; cell notation",
+      "prerequisites": [
+        "electrolysis",
+        "oxidation-reduction"
+      ],
+      "leads_to": [
+        "electrode-potential",
+        "batteries-and-fuel-cells"
+      ],
+      "subject": "chemistry"
+    },
+    "electrode-potential": {
+      "canonical_name": "Electrode Potential",
+      "slug": "electrode-potential",
+      "grades": [
+        12
+      ],
+      "area": "Electrochemistry",
+      "description": "Standard electrode potential; electrochemical series; Nernst equation",
+      "prerequisites": [
+        "electrochemical-cells"
+      ],
+      "leads_to": [
+        "batteries-and-fuel-cells",
+        "corrosion-electrochemistry"
+      ],
+      "subject": "chemistry"
+    },
+    "batteries-and-fuel-cells": {
+      "canonical_name": "Batteries and Fuel Cells",
+      "slug": "batteries-and-fuel-cells",
+      "grades": [
+        12
+      ],
+      "area": "Electrochemistry",
+      "description": "Primary and secondary cells; lead-acid, lithium-ion; hydrogen fuel cell",
+      "prerequisites": [
+        "electrochemical-cells",
+        "electrode-potential"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "adsorption": {
+      "canonical_name": "Adsorption",
+      "slug": "adsorption",
+      "grades": [
+        12
+      ],
+      "area": "Surface Chemistry",
+      "description": "Physical and chemical adsorption; factors affecting; Freundlich isotherm",
+      "prerequisites": [
+        "colloids"
+      ],
+      "leads_to": [
+        "catalysis"
+      ],
+      "aliases": [
+        "surface chemistry",
+        "physisorption and chemisorption",
+        "adsorbent and adsorbate"
+      ],
+      "subject": "chemistry"
+    },
+    "catalysis": {
+      "canonical_name": "Catalysis",
+      "slug": "catalysis",
+      "grades": [
+        12
+      ],
+      "area": "Surface Chemistry",
+      "description": "Homogeneous and heterogeneous catalysis; enzyme catalysis; catalytic converter",
+      "prerequisites": [
+        "rate-of-reaction",
+        "adsorption",
+        "collision-theory"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "catalyst",
+        "enzyme catalysis",
+        "heterogeneous catalyst",
+        "speeding up a reaction"
+      ],
+      "subject": "chemistry"
+    },
+    "solid-state": {
+      "canonical_name": "Solid State",
+      "slug": "solid-state",
+      "grades": [
+        12
+      ],
+      "area": "Solid State",
+      "description": "Crystalline and amorphous solids; unit cell; packing efficiency; crystal defects",
+      "prerequisites": [
+        "chemical-bonding-intro"
+      ],
+      "leads_to": [
+        "crystal-lattice-and-packing"
+      ],
+      "aliases": [
+        "crystalline and amorphous solids",
+        "unit cell",
+        "packing efficiency"
+      ],
+      "subject": "chemistry"
+    },
+    "flower-structure": {
+      "canonical_name": "Flower Structure and Function",
+      "slug": "flower-structure",
+      "grades": [
+        7,
+        10,
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Sepals, petals, stamens, carpels; pollination; self and cross pollination",
+      "prerequisites": [],
+      "leads_to": [
+        "seed-formation",
+        "pollination-and-fertilisation-plants"
+      ],
+      "subject": "biology"
+    },
+    "alternation-of-generations": {
+      "canonical_name": "Alternation of Generations",
+      "slug": "alternation-of-generations",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Plant Biology",
+      "description": "Haploid gametophyte and diploid sporophyte phases",
+      "prerequisites": [
+        "plant-kingdom",
+        "meiosis"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "biomolecules-intro": {
+      "canonical_name": "Biomolecules — Introduction",
+      "slug": "biomolecules-intro",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "Carbohydrates, lipids, proteins, nucleic acids; their biological roles",
+      "prerequisites": [
+        "components-of-food"
+      ],
+      "leads_to": [
+        "carbohydrates",
+        "proteins-structure",
+        "lipids",
+        "nucleic-acids"
+      ],
+      "subject": "biology"
+    },
+    "carbohydrates": {
+      "canonical_name": "Carbohydrates",
+      "slug": "carbohydrates",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "Mono-, di-, polysaccharides; glucose, sucrose, starch, cellulose",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "proteins-structure": {
+      "canonical_name": "Proteins — Structure and Function",
+      "slug": "proteins-structure",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "Amino acids; peptide bonds; primary to quaternary structure",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [
+        "translation-biology"
+      ],
+      "subject": "biology"
+    },
+    "lipids": {
+      "canonical_name": "Lipids",
+      "slug": "lipids",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "Fats, oils, phospholipids; cell membrane structure; energy storage",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "fats and oils",
+        "phospholipids",
+        "biomolecules",
+        "cell membrane"
+      ],
+      "subject": "biology"
+    },
+    "nucleic-acids": {
+      "canonical_name": "Nucleic Acids",
+      "slug": "nucleic-acids",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "DNA and RNA structure; nucleotides; double helix",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [
+        "dna-structure-replication"
+      ],
+      "subject": "biology"
+    },
+    "heredity-and-variation": {
+      "canonical_name": "Heredity and Variation",
+      "slug": "heredity-and-variation",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Inherited vs acquired traits; role of DNA",
+      "prerequisites": [
+        "meiosis"
+      ],
+      "leads_to": [
+        "mendels-laws",
+        "darwins-theory"
+      ],
+      "subject": "biology"
+    },
+    "mendels-laws": {
+      "canonical_name": "Mendel's Laws of Inheritance",
+      "slug": "mendels-laws",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Law of dominance, segregation, independent assortment; monohybrid and dihybrid crosses",
+      "prerequisites": [
+        "heredity-and-variation"
+      ],
+      "leads_to": [
+        "sex-determination",
+        "genetic-disorders",
+        "applications-of-biotechnology",
+        "strategies-for-food-enhancement"
+      ],
+      "subject": "biology"
+    },
+    "sex-determination": {
+      "canonical_name": "Sex Determination",
+      "slug": "sex-determination",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "XX-XY system; sex-linked inheritance; colour blindness, haemophilia",
+      "prerequisites": [
+        "mendels-laws"
+      ],
+      "leads_to": [
+        "genetic-disorders"
+      ],
+      "subject": "biology"
+    },
+    "dna-structure-replication": {
+      "canonical_name": "DNA Structure and Replication",
+      "slug": "dna-structure-replication",
+      "grades": [
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Watson-Crick model; semiconservative replication; Meselson-Stahl experiment",
+      "prerequisites": [
+        "nucleic-acids",
+        "meiosis"
+      ],
+      "leads_to": [
+        "transcription-biology",
+        "genetic-disorders",
+        "molecular-basis-of-inheritance",
+        "biotechnology-principles"
+      ],
+      "subject": "biology"
+    },
+    "transcription-biology": {
+      "canonical_name": "Transcription",
+      "slug": "transcription-biology",
+      "grades": [
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "DNA → mRNA; RNA polymerase; promoter; terminator; processing",
+      "prerequisites": [
+        "dna-structure-replication"
+      ],
+      "leads_to": [
+        "translation-biology",
+        "gene-expression-regulation",
+        "molecular-basis-of-inheritance"
+      ],
+      "subject": "biology"
+    },
+    "translation-biology": {
+      "canonical_name": "Translation",
+      "slug": "translation-biology",
+      "grades": [
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "mRNA → protein; codons; tRNA; ribosome; genetic code",
+      "prerequisites": [
+        "transcription-biology",
+        "proteins-structure"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "gene-expression-regulation": {
+      "canonical_name": "Regulation of Gene Expression",
+      "slug": "gene-expression-regulation",
+      "grades": [
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Lac operon; positive and negative regulation; gene silencing",
+      "prerequisites": [
+        "transcription-biology"
+      ],
+      "leads_to": [
+        "recombinant-dna-technology"
+      ],
+      "subject": "biology"
+    },
+    "genetic-disorders": {
+      "canonical_name": "Genetic Disorders",
+      "slug": "genetic-disorders",
+      "grades": [
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Down syndrome, Turner syndrome, Klinefelter; sickle-cell anaemia; PKU",
+      "prerequisites": [
+        "sex-determination",
+        "dna-structure-replication",
+        "mendels-laws"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "molecular-basis-of-inheritance": {
+      "canonical_name": "Molecular Basis of Inheritance",
+      "slug": "molecular-basis-of-inheritance",
+      "grades": [
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Central dogma; Human Genome Project; DNA fingerprinting",
+      "prerequisites": [
+        "dna-structure-replication",
+        "transcription-biology"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "origin-of-life": {
+      "canonical_name": "Origin of Life",
+      "slug": "origin-of-life",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Oparin-Haldane hypothesis; Miller-Urey experiment; chemical evolution",
+      "prerequisites": [
+        "diversity-of-organisms"
+      ],
+      "leads_to": [
+        "evidence-of-evolution"
+      ],
+      "subject": "biology"
+    },
+    "evidence-of-evolution": {
+      "canonical_name": "Evidence of Evolution",
+      "slug": "evidence-of-evolution",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Fossils; homologous and analogous organs; vestigial organs; embryology",
+      "prerequisites": [
+        "origin-of-life"
+      ],
+      "leads_to": [
+        "darwins-theory"
+      ],
+      "subject": "biology"
+    },
+    "darwins-theory": {
+      "canonical_name": "Darwin's Theory of Natural Selection",
+      "slug": "darwins-theory",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Variation, struggle for existence, survival of the fittest; speciation",
+      "prerequisites": [
+        "evidence-of-evolution",
+        "heredity-and-variation",
+        "meiosis"
+      ],
+      "leads_to": [
+        "speciation",
+        "human-evolution"
+      ],
+      "subject": "biology"
+    },
+    "speciation": {
+      "canonical_name": "Speciation",
+      "slug": "speciation",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Geographical and reproductive isolation; allopatric and sympatric speciation",
+      "prerequisites": [
+        "darwins-theory",
+        "classification-of-organisms"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "formation of new species",
+        "reproductive isolation",
+        "geographical isolation",
+        "evolution"
+      ],
+      "subject": "biology"
+    },
+    "human-evolution": {
+      "canonical_name": "Human Evolution",
+      "slug": "human-evolution",
+      "grades": [
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Australopithecus → Homo habilis → Homo erectus → Homo sapiens; brain size",
+      "prerequisites": [
+        "darwins-theory"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "asexual-reproduction": {
+      "canonical_name": "Asexual Reproduction",
+      "slug": "asexual-reproduction",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Binary fission, budding, fragmentation, spore formation, regeneration",
+      "prerequisites": [
+        "cell-basic-unit"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "sexual-reproduction-overview": {
+      "canonical_name": "Sexual Reproduction — Overview",
+      "slug": "sexual-reproduction-overview",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Gametes; fertilisation; zygote; advantage of sexual reproduction",
+      "prerequisites": [
+        "meiosis",
+        "animal-reproduction"
+      ],
+      "leads_to": [
+        "human-reproductive-system"
+      ],
+      "subject": "biology"
+    },
+    "human-reproductive-system": {
+      "canonical_name": "Human Reproductive System",
+      "slug": "human-reproductive-system",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Male and female reproductive organs; gametogenesis",
+      "prerequisites": [
+        "endocrine-system",
+        "sexual-reproduction-overview",
+        "cell-membrane",
+        "adolescence-and-puberty",
+        "animal-reproduction"
+      ],
+      "leads_to": [
+        "menstrual-cycle",
+        "reproductive-health"
+      ],
+      "subject": "biology"
+    },
+    "menstrual-cycle": {
+      "canonical_name": "Menstrual Cycle",
+      "slug": "menstrual-cycle",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Phases; hormonal control; ovulation",
+      "prerequisites": [
+        "human-reproductive-system"
+      ],
+      "leads_to": [
+        "fertilisation-and-development",
+        "reproductive-health"
+      ],
+      "subject": "biology"
+    },
+    "fertilisation-and-development": {
+      "canonical_name": "Fertilisation and Embryonic Development",
+      "slug": "fertilisation-and-development",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Fertilisation; implantation; placenta; embryonic development",
+      "prerequisites": [
+        "menstrual-cycle"
+      ],
+      "leads_to": [
+        "embryo-development"
+      ],
+      "subject": "biology"
+    },
+    "reproductive-health": {
+      "canonical_name": "Reproductive Health",
+      "slug": "reproductive-health",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Family planning; contraception; STIs; infertility; ART",
+      "prerequisites": [
+        "human-reproductive-system",
+        "menstrual-cycle",
+        "adolescence-and-puberty"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "pollination-and-fertilisation-plants": {
+      "canonical_name": "Pollination and Fertilisation in Plants",
+      "slug": "pollination-and-fertilisation-plants",
+      "grades": [
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Agents of pollination; pollen-pistil interaction; double fertilisation",
+      "prerequisites": [
+        "flower-structure",
+        "meiosis"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "energy-flow-in-ecosystem": {
+      "canonical_name": "Energy Flow in an Ecosystem",
+      "slug": "energy-flow-in-ecosystem",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Ecology",
+      "description": "10% rule; ecological pyramids: numbers, biomass, energy",
+      "prerequisites": [
+        "food-chains-and-webs",
+        "photosynthesis",
+        "cellular-respiration",
+        "decomposition-and-recycling"
+      ],
+      "leads_to": [
+        "ecosystem-services"
+      ],
+      "subject": "biology"
+    },
+    "biodiversity": {
+      "canonical_name": "Biodiversity",
+      "slug": "biodiversity",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Ecology",
+      "description": "Genetic, species, ecosystem diversity; hotspots; importance",
+      "prerequisites": [
+        "classification-of-organisms",
+        "forests-and-their-importance"
+      ],
+      "leads_to": [
+        "biodiversity-conservation"
+      ],
+      "subject": "biology"
+    },
+    "biodiversity-conservation": {
+      "canonical_name": "Biodiversity Conservation",
+      "slug": "biodiversity-conservation",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Ecology",
+      "description": "In-situ: national parks, sanctuaries; ex-situ: botanical gardens, zoos; endangered species",
+      "prerequisites": [
+        "biodiversity",
+        "environmental-issues"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "environmental-issues": {
+      "canonical_name": "Environmental Issues",
+      "slug": "environmental-issues",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Ecology",
+      "description": "Pollution; deforestation; greenhouse effect; solid waste management",
+      "prerequisites": [
+        "air-pollution",
+        "water-pollution",
+        "ozone-depletion",
+        "sustainable-development"
+      ],
+      "leads_to": [
+        "biodiversity-conservation"
+      ],
+      "aliases": [
+        "pollution",
+        "deforestation",
+        "greenhouse effect",
+        "waste management"
+      ],
+      "subject": "biology"
+    },
+    "infectious-diseases": {
+      "canonical_name": "Infectious Diseases",
+      "slug": "infectious-diseases",
+      "grades": [
+        12
+      ],
+      "area": "Health and Disease",
+      "description": "Bacterial, viral, fungal, protozoal diseases; modes of transmission",
+      "prerequisites": [
+        "diseases-types",
+        "microorganisms"
+      ],
+      "leads_to": [
+        "human-health-diseases-detail"
+      ],
+      "aliases": [
+        "common diseases in humans",
+        "communicable diseases",
+        "pathogens",
+        "modes of transmission"
+      ],
+      "subject": "biology"
+    },
+    "immune-system": {
+      "canonical_name": "Immune System",
+      "slug": "immune-system",
+      "grades": [
+        8,
+        12
+      ],
+      "area": "Health and Disease",
+      "description": "Innate and adaptive immunity; antigens and antibodies; vaccination",
+      "prerequisites": [
+        "microorganisms"
+      ],
+      "leads_to": [
+        "antibiotics-and-vaccines",
+        "immunity-types"
+      ],
+      "aliases": [
+        "immunity",
+        "antigens and antibodies",
+        "vaccination and immunisation",
+        "lymphocytes"
+      ],
+      "subject": "biology"
+    },
+    "biotechnology-principles": {
+      "canonical_name": "Biotechnology — Principles",
+      "slug": "biotechnology-principles",
+      "grades": [
+        12
+      ],
+      "area": "Biotechnology",
+      "description": "Genetic engineering; restriction enzymes; DNA ligase; vectors",
+      "prerequisites": [
+        "dna-structure-replication"
+      ],
+      "leads_to": [
+        "recombinant-dna-technology"
+      ],
+      "subject": "biology"
+    },
+    "recombinant-dna-technology": {
+      "canonical_name": "Recombinant DNA Technology",
+      "slug": "recombinant-dna-technology",
+      "grades": [
+        12
+      ],
+      "area": "Biotechnology",
+      "description": "Steps: isolation, cutting, amplification (PCR), ligation, transformation",
+      "prerequisites": [
+        "biotechnology-principles",
+        "gene-expression-regulation"
+      ],
+      "leads_to": [
+        "applications-of-biotechnology",
+        "bioprocessing"
+      ],
+      "subject": "biology"
+    },
+    "applications-of-biotechnology": {
+      "canonical_name": "Applications of Biotechnology",
+      "slug": "applications-of-biotechnology",
+      "grades": [
+        12
+      ],
+      "area": "Biotechnology",
+      "description": "GM crops; gene therapy; DNA fingerprinting; transgenic animals",
+      "prerequisites": [
+        "recombinant-dna-technology",
+        "mendels-laws"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "bioprocessing": {
+      "canonical_name": "Bioprocess Engineering",
+      "slug": "bioprocessing",
+      "grades": [
+        12
+      ],
+      "area": "Biotechnology",
+      "description": "Bioreactors; downstream processing; fermentation",
+      "prerequisites": [
+        "recombinant-dna-technology"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "bioreactor",
+        "fermentation",
+        "downstream processing"
+      ],
+      "subject": "biology"
+    },
+    "ray-optics-advanced": {
+      "canonical_name": "Ray Optics — Prism and Optical Instruments",
+      "slug": "ray-optics-advanced",
+      "grades": [
+        12
+      ],
+      "area": "Optics",
+      "description": "Prism: deviation and dispersion; microscope; telescope; resolving power",
+      "prerequisites": [
+        "snells-law",
+        "lens-formula"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "ac-circuits-lcr": {
+      "canonical_name": "LCR Circuits and Resonance",
+      "slug": "ac-circuits-lcr",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Impedance; phase; series LCR; resonance frequency; Q-factor; power factor",
+      "prerequisites": [
+        "alternating-current",
+        "capacitance"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "gauss-law": {
+      "canonical_name": "Gauss's Law",
+      "slug": "gauss-law",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Electric flux; Gauss's theorem; field of sphere, plane, cylinder",
+      "prerequisites": [
+        "electric-field"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "magnetic-properties-of-matter": {
+      "canonical_name": "Magnetic Properties of Matter",
+      "slug": "magnetic-properties-of-matter",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Dia-, para-, ferromagnetism; hysteresis; Curie temperature",
+      "prerequisites": [
+        "magnetic-field"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "moving-charges-and-magnetism": {
+      "canonical_name": "Force on a Moving Charge in Magnetic Field",
+      "slug": "moving-charges-and-magnetism",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "F = qv × B; Lorentz force; cyclotron; velocity selector",
+      "prerequisites": [
+        "magnetic-field",
+        "electric-current"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "displacement-current": {
+      "canonical_name": "Displacement Current",
+      "slug": "displacement-current",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Maxwell's correction to Ampere's law; conduction vs displacement current",
+      "prerequisites": [
+        "electromagnetic-induction",
+        "capacitance"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "mass-energy-equivalence": {
+      "canonical_name": "Mass-Energy Equivalence",
+      "slug": "mass-energy-equivalence",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "E = mc²; binding energy per nucleon; mass defect",
+      "prerequisites": [
+        "nuclear-structure"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "nuclear-energy-sources": {
+      "canonical_name": "Nuclear Energy — Reactor and Applications",
+      "slug": "nuclear-energy-sources",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Nuclear reactor: fuel, moderator, control rods; advantages and hazards",
+      "prerequisites": [
+        "nuclear-fission-fusion"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "nuclear reactor",
+        "nuclear fission",
+        "moderator and control rods",
+        "atomic energy"
+      ],
+      "subject": "physics"
+    },
+    "coordination-compounds": {
+      "canonical_name": "Coordination Compounds",
+      "slug": "coordination-compounds",
+      "grades": [
+        12
+      ],
+      "area": "Chemical Bonding",
+      "description": "Werner's theory; ligands; coordination number; isomerism; crystal field theory",
+      "prerequisites": [
+        "d-and-f-block-elements",
+        "chemical-bonding-intro"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "d-and-f-block-elements": {
+      "canonical_name": "d-Block and f-Block Elements",
+      "slug": "d-and-f-block-elements",
+      "grades": [
+        12
+      ],
+      "area": "Periodic Classification",
+      "description": "Transition metals; variable oxidation states; colour; magnetic properties; lanthanoids",
+      "prerequisites": [
+        "periodic-properties"
+      ],
+      "leads_to": [
+        "coordination-compounds"
+      ],
+      "subject": "chemistry"
+    },
+    "p-block-elements": {
+      "canonical_name": "p-Block Elements",
+      "slug": "p-block-elements",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Periodic Classification",
+      "description": "Groups 13-18; boron, carbon, nitrogen, oxygen, halogen, noble gas families",
+      "prerequisites": [
+        "periodic-properties"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "haloalkanes-haloarenes": {
+      "canonical_name": "Haloalkanes and Haloarenes",
+      "slug": "haloalkanes-haloarenes",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Preparation; SN1, SN2 reactions; elimination; Grignard reagent",
+      "prerequisites": [
+        "nomenclature-iupac",
+        "reaction-mechanisms"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "reaction-mechanisms": {
+      "canonical_name": "Reaction Mechanisms",
+      "slug": "reaction-mechanisms",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Homolytic and heterolytic fission; carbocations; free radical mechanism",
+      "prerequisites": [
+        "reactions-of-hydrocarbons",
+        "covalent-bonding"
+      ],
+      "leads_to": [
+        "alcohols-phenols-ethers",
+        "aldehydes-ketones-carboxylic-acids",
+        "amines",
+        "haloalkanes-haloarenes"
+      ],
+      "subject": "chemistry"
+    },
+    "solubility-and-factors": {
+      "canonical_name": "Solubility and Factors Affecting It",
+      "slug": "solubility-and-factors",
+      "grades": [
+        9,
+        12
+      ],
+      "area": "Solutions",
+      "description": "Temperature, pressure effects; Henry's law; solubility curves",
+      "prerequisites": [
+        "solutions-chemistry"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "raoults-law": {
+      "canonical_name": "Raoult's Law",
+      "slug": "raoults-law",
+      "grades": [
+        12
+      ],
+      "area": "Solutions",
+      "description": "Vapour pressure of solution; ideal and non-ideal solutions; positive and negative deviations",
+      "prerequisites": [
+        "colligative-properties"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "faradays-laws-of-electrolysis": {
+      "canonical_name": "Faraday's Laws of Electrolysis",
+      "slug": "faradays-laws-of-electrolysis",
+      "grades": [
+        12
+      ],
+      "area": "Electrochemistry",
+      "description": "First and second laws; electrochemical equivalent; applications",
+      "prerequisites": [
+        "electrolysis",
+        "mole-concept"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "corrosion-electrochemistry": {
+      "canonical_name": "Corrosion — Electrochemical View",
+      "slug": "corrosion-electrochemistry",
+      "grades": [
+        12
+      ],
+      "area": "Electrochemistry",
+      "description": "Electrochemical theory of rusting; cathodic protection; galvanisation",
+      "prerequisites": [
+        "electrode-potential",
+        "corrosion-and-rancidity"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "crystal-lattice-and-packing": {
+      "canonical_name": "Crystal Lattice and Packing",
+      "slug": "crystal-lattice-and-packing",
+      "grades": [
+        12
+      ],
+      "area": "Solid State",
+      "description": "Unit cell types: sc, bcc, fcc; packing efficiency; voids; coordination number",
+      "prerequisites": [
+        "solid-state"
+      ],
+      "leads_to": [
+        "crystal-defects",
+        "band-theory"
+      ],
+      "aliases": [
+        "unit cell",
+        "body centred and face centred cubic",
+        "close packing",
+        "coordination number"
+      ],
+      "subject": "chemistry"
+    },
+    "crystal-defects": {
+      "canonical_name": "Crystal Defects",
+      "slug": "crystal-defects",
+      "grades": [
+        12
+      ],
+      "area": "Solid State",
+      "description": "Schottky and Frenkel defects; non-stoichiometric defects; electrical properties",
+      "prerequisites": [
+        "crystal-lattice-and-packing"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "Schottky and Frenkel defect",
+        "imperfections in solids",
+        "point defects"
+      ],
+      "subject": "chemistry"
+    },
+    "band-theory": {
+      "canonical_name": "Band Theory of Solids",
+      "slug": "band-theory",
+      "grades": [
+        12
+      ],
+      "area": "Solid State",
+      "description": "Valence and conduction bands; conductors, semiconductors, insulators",
+      "prerequisites": [
+        "crystal-lattice-and-packing"
+      ],
+      "leads_to": [
+        "semiconductor-basics"
+      ],
+      "aliases": [
+        "energy bands",
+        "conductors semiconductors and insulators",
+        "valence and conduction band"
+      ],
+      "subject": "physics"
+    },
+    "chemistry-in-everyday-life": {
+      "canonical_name": "Chemistry in Everyday Life",
+      "slug": "chemistry-in-everyday-life",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Drugs; soaps and detergents; food additives; types of medicines",
+      "prerequisites": [
+        "functional-groups"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "drugs and medicines",
+        "soaps and detergents",
+        "food additives"
+      ],
+      "subject": "chemistry"
+    },
+    "inorganic-qualitative-analysis": {
+      "canonical_name": "Inorganic Qualitative Analysis",
+      "slug": "inorganic-qualitative-analysis",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Chemical Reactions",
+      "description": "Identification of cations and anions; flame test; wet analysis",
+      "prerequisites": [
+        "salts-and-their-properties",
+        "ionic-bonding"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "identification of cations and anions",
+        "flame test",
+        "salt analysis"
+      ],
+      "subject": "chemistry"
+    },
+    "entropy-chemistry": {
+      "canonical_name": "Entropy and Spontaneity",
+      "slug": "entropy-chemistry",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Thermochemistry",
+      "description": "Entropy change in processes; second law in chemistry; ΔG = ΔH − TΔS application",
+      "prerequisites": [
+        "gibbs-free-energy"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "animal-reproduction": {
+      "canonical_name": "Reproduction in Animals",
+      "slug": "animal-reproduction",
+      "grades": [
+        8,
+        12
+      ],
+      "area": "Reproduction",
+      "description": "External and internal fertilisation; oviparous and viviparous; metamorphosis",
+      "prerequisites": [],
+      "leads_to": [
+        "sexual-reproduction-overview",
+        "human-reproductive-system"
+      ],
+      "subject": "biology"
+    },
+    "embryo-development": {
+      "canonical_name": "Embryonic Development",
+      "slug": "embryo-development",
+      "grades": [
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Cleavage, gastrulation; germ layers; organogenesis",
+      "prerequisites": [
+        "fertilisation-and-development"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "embryonic development",
+        "cleavage and gastrulation",
+        "pregnancy",
+        "germ layers"
+      ],
+      "subject": "biology"
+    },
+    "ecosystem-services": {
+      "canonical_name": "Ecosystem Services",
+      "slug": "ecosystem-services",
+      "grades": [
+        12
+      ],
+      "area": "Ecology",
+      "description": "Provisioning, regulating, supporting, cultural services",
+      "prerequisites": [
+        "energy-flow-in-ecosystem"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "benefits we get from ecosystems",
+        "ecosystem functions"
+      ],
+      "subject": "biology"
+    },
+    "ecological-succession": {
+      "canonical_name": "Ecological Succession",
+      "slug": "ecological-succession",
+      "grades": [
+        12
+      ],
+      "area": "Ecology",
+      "description": "Primary and secondary succession; pioneer and climax communities",
+      "prerequisites": [
+        "ecosystem-concept"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "primary and secondary succession",
+        "pioneer and climax community"
+      ],
+      "subject": "biology"
+    },
+    "population-interactions": {
+      "canonical_name": "Population Interactions",
+      "slug": "population-interactions",
+      "grades": [
+        12
+      ],
+      "area": "Ecology",
+      "description": "Competition, predation, parasitism, mutualism, commensalism, amensalism",
+      "prerequisites": [
+        "food-chains-and-webs",
+        "organism-interactions"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "organisms-and-environment": {
+      "canonical_name": "Organisms and Their Environment",
+      "slug": "organisms-and-environment",
+      "grades": [
+        12
+      ],
+      "area": "Ecology",
+      "description": "Abiotic factors: light, temperature, water; responses: regulation, conformation, migration",
+      "prerequisites": [
+        "ecosystem-concept"
+      ],
+      "leads_to": [
+        "population-attributes"
+      ],
+      "aliases": [
+        "organisms and populations",
+        "abiotic factors",
+        "adaptations to the environment"
+      ],
+      "subject": "biology"
+    },
+    "immunity-types": {
+      "canonical_name": "Immunity — Types and Mechanisms",
+      "slug": "immunity-types",
+      "grades": [
+        12
+      ],
+      "area": "Health and Disease",
+      "description": "Innate vs adaptive; humoral and cell-mediated; active and passive; allergy; autoimmunity",
+      "prerequisites": [
+        "immune-system"
+      ],
+      "leads_to": [
+        "human-health-diseases-detail"
+      ],
+      "aliases": [
+        "innate and acquired immunity",
+        "active and passive immunity",
+        "humoral and cell mediated immunity"
+      ],
+      "subject": "biology"
+    },
+    "human-health-diseases-detail": {
+      "canonical_name": "Human Health and Disease — Detail",
+      "slug": "human-health-diseases-detail",
+      "grades": [
+        12
+      ],
+      "area": "Health and Disease",
+      "description": "Cancer; AIDS; drugs and alcohol abuse; common diseases and prevention",
+      "prerequisites": [
+        "infectious-diseases",
+        "immunity-types"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "strategies-for-food-enhancement": {
+      "canonical_name": "Strategies for Enhancement in Food Production",
+      "slug": "strategies-for-food-enhancement",
+      "grades": [
+        12
+      ],
+      "area": "Biotechnology",
+      "description": "Plant breeding; single cell protein; tissue culture; animal husbandry",
+      "prerequisites": [
+        "plant-reproduction-asexual",
+        "mendels-laws",
+        "animal-husbandry",
+        "crop-production-management"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "plant breeding",
+        "animal husbandry",
+        "tissue culture",
+        "improvement in food production"
+      ],
+      "subject": "biology"
+    },
+    "microbes-in-human-welfare": {
+      "canonical_name": "Microbes in Human Welfare",
+      "slug": "microbes-in-human-welfare",
+      "grades": [
+        12
+      ],
+      "area": "Biotechnology",
+      "description": "Industrial products; biogas; sewage treatment; biocontrol agents; biofertilisers",
+      "prerequisites": [
+        "microorganisms"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "population-attributes": {
+      "canonical_name": "Population Attributes and Growth Models",
+      "slug": "population-attributes",
+      "grades": [
+        12
+      ],
+      "area": "Ecology",
+      "description": "Natality, mortality, age structure; exponential and logistic growth; carrying capacity",
+      "prerequisites": [
+        "organisms-and-environment"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    }
+  }
+}

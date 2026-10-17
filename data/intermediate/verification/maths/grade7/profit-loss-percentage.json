@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- cost price ₹600 + profit ₹125 = selling price ₹725, matches worked example",
+    "tokens": 1594,
+    "said": "VERDICT: ok\n- cost price ₹600 + profit ₹125 = selling price ₹725, matches worked example\n- discount 10% of ₹750 = ₹75, matches worked example\n- selling price ₹725 > cost price ₹600, so profit is correct\n- profit percentage = (125/600)×100 = 20.8333...%, rounded to 20.83% is acceptable\n- all formulas and examples internally consistent with definitions\n- no contradictions between sections\n- all counts and lists match stated numbers"
+  }
+]

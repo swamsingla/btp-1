@@ -1,0 +1,5447 @@
+{
+  "subject": "mathematics",
+  "version": "v4-v2-own-grade",
+  "description": "Dense knowledge graph for Grades 6-12 NCERT Mathematics — v2: only concept-grade pairs whose own grade's book teaches them (see graph_v2_report.json)",
+  "total_concepts": 216,
+  "total_edges": 323,
+  "concepts": {
+    "addition-subtraction-of-fractions": {
+      "canonical_name": "Addition and Subtraction of Fractions",
+      "slug": "addition-subtraction-of-fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Adding/subtracting fractions with like and unlike denominators",
+      "prerequisites": [
+        "comparing-fractions"
+      ],
+      "leads_to": []
+    },
+    "adjoint-and-inverse-matrix": {
+      "canonical_name": "Adjoint and Inverse of a Matrix",
+      "slug": "adjoint-and-inverse-matrix",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "adj(A); A⁻¹ = adj(A)/det(A) when det(A)≠0",
+      "prerequisites": [
+        "determinants"
+      ],
+      "leads_to": []
+    },
+    "algebraic-expressions": {
+      "canonical_name": "Algebraic Expressions",
+      "slug": "algebraic-expressions",
+      "grades": [
+        7
+      ],
+      "area": "Algebra",
+      "description": "Expressions built from variables and constants using arithmetic operations",
+      "prerequisites": [
+        "integer-operations"
+      ],
+      "leads_to": [
+        "arithmetic-progressions",
+        "polynomials-in-one-variable",
+        "simple-equations",
+        "terms-coefficients-degree"
+      ]
+    },
+    "algebraic-identities": {
+      "canonical_name": "Algebraic Identities",
+      "slug": "algebraic-identities",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Algebra",
+      "description": "Standard identities: (a±b)², a²−b², (a+b+c)², (x+a)(x+b)",
+      "prerequisites": [
+        "simplification-of-algebraic-expressions"
+      ],
+      "leads_to": [
+        "binomial-theorem",
+        "factorisation-expressions",
+        "factorisation-of-polynomials",
+        "quadratic-equations",
+        "surds-and-rationalisation",
+        "trigonometric-identities"
+      ]
+    },
+    "angle-between-lines-3d": {
+      "canonical_name": "Angle Between Two Lines in 3D",
+      "slug": "angle-between-lines-3d",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Using direction ratios or direction cosines",
+      "prerequisites": [
+        "dot-product",
+        "equation-of-line-3d"
+      ],
+      "leads_to": []
+    },
+    "angle-sum-property-triangle": {
+      "canonical_name": "Angle Sum Property of a Triangle",
+      "slug": "angle-sum-property-triangle",
+      "grades": [
+        7
+      ],
+      "area": "Geometry",
+      "description": "Sum of interior angles of a triangle equals 180°",
+      "prerequisites": [
+        "types-of-angles",
+        "types-of-triangles"
+      ],
+      "leads_to": [
+        "properties-of-triangles",
+        "quadrilaterals"
+      ]
+    },
+    "angles": {
+      "canonical_name": "Angles",
+      "slug": "angles",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "Amount of rotation between two rays sharing a common endpoint",
+      "prerequisites": [
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "basic-constructions",
+        "measuring-angles",
+        "parallel-lines-and-transversals",
+        "rotational-symmetry",
+        "types-of-triangles"
+      ],
+      "aliases": [
+        "measuring angles",
+        "degrees",
+        "acute obtuse and right angle",
+        "using a protractor"
+      ]
+    },
+    "ap-nth-term": {
+      "canonical_name": "nth Term of an AP",
+      "slug": "ap-nth-term",
+      "grades": [
+        10
+      ],
+      "area": "Sequences",
+      "description": "aₙ = a + (n−1)d",
+      "prerequisites": [
+        "arithmetic-progressions"
+      ],
+      "leads_to": [
+        "ap-sum-of-n-terms"
+      ]
+    },
+    "ap-sum-of-n-terms": {
+      "canonical_name": "Sum of First n Terms of an AP",
+      "slug": "ap-sum-of-n-terms",
+      "grades": [
+        10
+      ],
+      "area": "Sequences",
+      "description": "Sₙ = n/2 [2a + (n−1)d]",
+      "prerequisites": [
+        "ap-nth-term"
+      ],
+      "leads_to": []
+    },
+    "arc-chord-properties": {
+      "canonical_name": "Arc and Chord Properties",
+      "slug": "arc-chord-properties",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Angle subtended by arc; perpendicular from centre bisects chord",
+      "prerequisites": [
+        "circle-theorems"
+      ],
+      "leads_to": []
+    },
+    "area": {
+      "canonical_name": "Area of 2D Figures",
+      "slug": "area",
+      "grades": [
+        6
+      ],
+      "area": "Mensuration",
+      "description": "Measuring the region enclosed by a plane figure",
+      "prerequisites": [
+        "area-rectangle-square"
+      ],
+      "leads_to": [
+        "area-of-triangles"
+      ],
+      "aliases": [
+        "area of plane figures",
+        "square units",
+        "perimeter and area",
+        "region enclosed by a figure"
+      ]
+    },
+    "area-of-circle": {
+      "canonical_name": "Area of a Circle",
+      "slug": "area-of-circle",
+      "grades": [
+        8
+      ],
+      "area": "Mensuration",
+      "description": "A = πr²",
+      "prerequisites": [
+        "circumference-of-circle"
+      ],
+      "leads_to": [
+        "area-of-sector-and-segment",
+        "surface-area-cone",
+        "surface-area-sphere"
+      ],
+      "aliases": [
+        "pi r squared",
+        "area enclosed by a circle"
+      ]
+    },
+    "area-of-parallelogram": {
+      "canonical_name": "Area of Parallelogram",
+      "slug": "area-of-parallelogram",
+      "grades": [
+        8
+      ],
+      "area": "Mensuration",
+      "description": "Area = base × height",
+      "prerequisites": [
+        "area-of-triangles"
+      ],
+      "leads_to": [
+        "area-of-trapezium"
+      ]
+    },
+    "area-of-sector-and-segment": {
+      "canonical_name": "Area of Sector and Segment of a Circle",
+      "slug": "area-of-sector-and-segment",
+      "grades": [
+        10
+      ],
+      "area": "Mensuration",
+      "description": "Area of sector = (θ/360°)πr²; segment = sector − triangle",
+      "prerequisites": [
+        "area-of-circle",
+        "trigonometric-ratios"
+      ],
+      "leads_to": []
+    },
+    "area-of-trapezium": {
+      "canonical_name": "Area of Trapezium",
+      "slug": "area-of-trapezium",
+      "grades": [
+        8
+      ],
+      "area": "Mensuration",
+      "description": "Area = ½ × (sum of parallel sides) × height",
+      "prerequisites": [
+        "area-of-parallelogram"
+      ],
+      "leads_to": []
+    },
+    "area-of-triangles": {
+      "canonical_name": "Area of Triangles",
+      "slug": "area-of-triangles",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Mensuration",
+      "description": "Area = ½ × base × height for any triangle",
+      "prerequisites": [
+        "area",
+        "types-of-triangles"
+      ],
+      "leads_to": [
+        "area-of-parallelogram",
+        "heron-s-formula",
+        "pythagorean-theorem"
+      ]
+    },
+    "area-rectangle-square": {
+      "canonical_name": "Area of Rectangle and Square",
+      "slug": "area-rectangle-square",
+      "grades": [
+        6
+      ],
+      "area": "Mensuration",
+      "description": "Length × width for rectangle; side² for square",
+      "prerequisites": [
+        "perimeter"
+      ],
+      "leads_to": [
+        "area"
+      ]
+    },
+    "area-under-curves": {
+      "canonical_name": "Area Under Curves",
+      "slug": "area-under-curves",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Area between curves using definite integrals",
+      "prerequisites": [
+        "conic-sections",
+        "fundamental-theorem-of-calculus"
+      ],
+      "leads_to": []
+    },
+    "area-using-determinants": {
+      "canonical_name": "Area of Triangle Using Determinants",
+      "slug": "area-using-determinants",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "½|det([x₁ y₁ 1; x₂ y₂ 1; x₃ y₃ 1])|",
+      "prerequisites": [
+        "determinants",
+        "section-formula"
+      ],
+      "leads_to": []
+    },
+    "argand-plane": {
+      "canonical_name": "Argand Plane and Polar Representation",
+      "slug": "argand-plane",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Geometric representation of complex numbers",
+      "prerequisites": [
+        "cartesian-coordinate-system",
+        "modulus-and-argument"
+      ],
+      "leads_to": []
+    },
+    "arithmetic-progressions": {
+      "canonical_name": "Arithmetic Progressions",
+      "slug": "arithmetic-progressions",
+      "grades": [
+        10
+      ],
+      "area": "Sequences",
+      "description": "Sequence with constant common difference d",
+      "prerequisites": [
+        "algebraic-expressions",
+        "number-patterns"
+      ],
+      "leads_to": [
+        "ap-nth-term",
+        "geometric-progressions"
+      ]
+    },
+    "axiomatic-probability": {
+      "canonical_name": "Axiomatic Approach to Probability",
+      "slug": "axiomatic-probability",
+      "grades": [
+        11
+      ],
+      "area": "Probability",
+      "description": "Kolmogorov axioms; P(A∪B) = P(A)+P(B)−P(A∩B)",
+      "prerequisites": [
+        "sample-space-events"
+      ],
+      "leads_to": [
+        "conditional-probability"
+      ]
+    },
+    "bar-graphs-and-pictographs": {
+      "canonical_name": "Bar Graphs, Pictographs and Pie Charts",
+      "slug": "bar-graphs-and-pictographs",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Statistics",
+      "description": "Visual representations of categorical data",
+      "prerequisites": [
+        "data-collection-and-organisation",
+        "fractions"
+      ],
+      "leads_to": [
+        "data-representation-grouped"
+      ],
+      "source_sections": {
+        "7": [
+          "5.3 Visualising Data"
+        ]
+      }
+    },
+    "basic-constructions": {
+      "canonical_name": "Basic Geometric Constructions",
+      "slug": "basic-constructions",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Geometry",
+      "description": "Using compass and straightedge to construct angles, bisectors and perpendiculars",
+      "prerequisites": [
+        "angles",
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "perpendicular-bisector"
+      ],
+      "source_sections": {
+        "6": [
+          "8.1 Artwork",
+          "8.2 Squares and Rectangles",
+          "8.3 Constructing Squares and Rectangles",
+          "8.6 Points Equidistant from Two Given Points"
+        ],
+        "7": [
+          "6.1 Geometric Constructions",
+          "g7_maths_part2_chapter6_008",
+          "g7_maths_part2_chapter6_015",
+          "g7_maths_part2_chapter6_022"
+        ]
+      }
+    },
+    "basic-geometrical-concepts": {
+      "canonical_name": "Points, Lines and Planes",
+      "slug": "basic-geometrical-concepts",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "Fundamental undefined terms: point, line, ray, line segment, plane",
+      "prerequisites": [],
+      "leads_to": [
+        "angles",
+        "basic-constructions",
+        "euclid-definitions-axioms-postulates",
+        "line-of-symmetry",
+        "perimeter"
+      ]
+    },
+    "basic-proportionality-theorem": {
+      "canonical_name": "Basic Proportionality Theorem (Thales)",
+      "slug": "basic-proportionality-theorem",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "A line parallel to one side divides the other two proportionally",
+      "prerequisites": [
+        "similar-triangles"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "Thales theorem",
+        "BPT",
+        "line parallel to a side of a triangle",
+        "similarity of triangles"
+      ],
+      "source_sections": {
+        "10": [
+          "6.3 Similarity of Triangles"
+        ]
+      }
+    },
+    "bayes-theorem": {
+      "canonical_name": "Bayes' Theorem",
+      "slug": "bayes-theorem",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(Bᵢ|A) = P(Bᵢ)P(A|Bᵢ)/P(A)",
+      "prerequisites": [
+        "total-probability-theorem"
+      ],
+      "leads_to": []
+    },
+    "binomial-theorem": {
+      "canonical_name": "Binomial Theorem",
+      "slug": "binomial-theorem",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "(a+b)ⁿ expansion; general term; middle term",
+      "prerequisites": [
+        "algebraic-identities",
+        "combinations",
+        "exponents-and-powers"
+      ],
+      "leads_to": []
+    },
+    "cartesian-coordinate-system": {
+      "canonical_name": "Cartesian Coordinate System",
+      "slug": "cartesian-coordinate-system",
+      "grades": [
+        9
+      ],
+      "area": "Coordinate Geometry",
+      "description": "x-y plane; quadrants; plotting ordered pairs",
+      "prerequisites": [
+        "integer-operations",
+        "number-line",
+        "real-numbers"
+      ],
+      "leads_to": [
+        "argand-plane",
+        "distance-formula",
+        "introduction-3d-geometry",
+        "pair-of-linear-equations",
+        "representing-linear-equations-graphically"
+      ]
+    },
+    "cartesian-product-of-sets": {
+      "canonical_name": "Cartesian Product of Sets",
+      "slug": "cartesian-product-of-sets",
+      "grades": [
+        11
+      ],
+      "area": "Set Theory",
+      "description": "A × B = {(a,b) : a∈A, b∈B}",
+      "prerequisites": [
+        "set-operations"
+      ],
+      "leads_to": [
+        "relations"
+      ]
+    },
+    "chain-rule": {
+      "canonical_name": "Chain Rule",
+      "slug": "chain-rule",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "d/dx[f(g(x))] = f′(g(x))·g′(x)",
+      "prerequisites": [
+        "continuity-of-functions",
+        "derivatives-rules-basic"
+      ],
+      "leads_to": [
+        "implicit-differentiation",
+        "integration-by-parts",
+        "integration-by-substitution",
+        "second-order-derivative"
+      ],
+      "aliases": [
+        "derivative of composite functions",
+        "function of a function",
+        "composite function differentiation"
+      ]
+    },
+    "circle-equation": {
+      "canonical_name": "Equation of a Circle",
+      "slug": "circle-equation",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "(x−h)²+(y−k)²=r²; general form",
+      "prerequisites": [
+        "distance-formula"
+      ],
+      "leads_to": [
+        "conic-sections"
+      ]
+    },
+    "circle-theorems": {
+      "canonical_name": "Circle Theorems",
+      "slug": "circle-theorems",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Equal chords equidistant from centre; angle in semicircle; inscribed angle theorem",
+      "prerequisites": [
+        "congruence-of-triangles"
+      ],
+      "leads_to": [
+        "arc-chord-properties",
+        "cyclic-quadrilaterals",
+        "tangent-to-a-circle"
+      ]
+    },
+    "circumference-of-circle": {
+      "canonical_name": "Circumference of a Circle",
+      "slug": "circumference-of-circle",
+      "grades": [
+        7
+      ],
+      "area": "Mensuration",
+      "description": "C = 2πr or πd; introduction of π",
+      "prerequisites": [
+        "decimals",
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "area-of-circle",
+        "radian-measure"
+      ],
+      "aliases": [
+        "perimeter of a circle",
+        "2 pi r",
+        "value of pi"
+      ]
+    },
+    "combinations": {
+      "canonical_name": "Combinations",
+      "slug": "combinations",
+      "grades": [
+        11
+      ],
+      "area": "Combinatorics",
+      "description": "Selections: C(n,r) = n!/[r!(n−r)!]",
+      "prerequisites": [
+        "permutations"
+      ],
+      "leads_to": [
+        "binomial-theorem"
+      ]
+    },
+    "comparing-fractions": {
+      "canonical_name": "Comparing and Ordering Fractions",
+      "slug": "comparing-fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Using common denominators or cross-multiplication to compare fractions",
+      "prerequisites": [
+        "equivalent-fractions"
+      ],
+      "leads_to": [
+        "addition-subtraction-of-fractions"
+      ]
+    },
+    "complex-numbers": {
+      "canonical_name": "Complex Numbers",
+      "slug": "complex-numbers",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Numbers of the form a+bi where i²=−1",
+      "prerequisites": [
+        "quadratic-equations",
+        "real-numbers"
+      ],
+      "leads_to": [
+        "modulus-and-argument"
+      ]
+    },
+    "composite-numbers": {
+      "canonical_name": "Composite Numbers",
+      "slug": "composite-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Numbers with more than two factors",
+      "prerequisites": [
+        "prime-numbers"
+      ],
+      "leads_to": []
+    },
+    "conditional-probability": {
+      "canonical_name": "Conditional Probability",
+      "slug": "conditional-probability",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(A|B) = P(A∩B)/P(B)",
+      "prerequisites": [
+        "axiomatic-probability"
+      ],
+      "leads_to": [
+        "independent-events",
+        "total-probability-theorem"
+      ]
+    },
+    "congruence-of-triangles": {
+      "canonical_name": "Congruence of Triangles",
+      "slug": "congruence-of-triangles",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "SSS, SAS, ASA, AAS, RHS criteria for triangle congruence",
+      "prerequisites": [
+        "properties-of-triangles"
+      ],
+      "leads_to": [
+        "circle-theorems",
+        "properties-of-parallelogram"
+      ]
+    },
+    "conic-sections": {
+      "canonical_name": "Conic Sections — Introduction",
+      "slug": "conic-sections",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Circle, parabola, ellipse, hyperbola as sections of a cone",
+      "prerequisites": [
+        "circle-equation"
+      ],
+      "leads_to": [
+        "area-under-curves",
+        "ellipse",
+        "hyperbola",
+        "parabola"
+      ],
+      "source_sections": {
+        "11": [
+          "10.1 Introduction",
+          "10.2 Sections of a Cone"
+        ]
+      }
+    },
+    "continuity-of-functions": {
+      "canonical_name": "Continuity of Functions",
+      "slug": "continuity-of-functions",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "f continuous at a iff lim f(x) = f(a); algebra of continuous functions",
+      "prerequisites": [
+        "functions",
+        "limits-algebra"
+      ],
+      "leads_to": [
+        "chain-rule",
+        "exponential-and-log-functions",
+        "fundamental-theorem-of-calculus"
+      ]
+    },
+    "converse-of-pythagorean-theorem": {
+      "canonical_name": "Converse of Pythagorean Theorem",
+      "slug": "converse-of-pythagorean-theorem",
+      "grades": [
+        8
+      ],
+      "area": "Geometry",
+      "description": "If a²+b²=c² then the triangle is right-angled",
+      "prerequisites": [
+        "pythagorean-theorem"
+      ],
+      "leads_to": []
+    },
+    "conversion-fractions-decimals": {
+      "canonical_name": "Conversion Between Fractions and Decimals",
+      "slug": "conversion-fractions-decimals",
+      "grades": [
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Converting fractions to decimals and vice versa",
+      "prerequisites": [
+        "decimals",
+        "fractions"
+      ],
+      "leads_to": [
+        "decimal-expansions-of-real-numbers"
+      ]
+    },
+    "coprime-numbers": {
+      "canonical_name": "Co-prime Numbers",
+      "slug": "coprime-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Pairs of numbers whose GCD is 1",
+      "prerequisites": [
+        "prime-numbers"
+      ],
+      "leads_to": []
+    },
+    "cross-product": {
+      "canonical_name": "Cross (Vector) Product",
+      "slug": "cross-product",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "a⃗×b⃗ = |a||b|sinθ n̂; properties; area of parallelogram/triangle",
+      "prerequisites": [
+        "dot-product"
+      ],
+      "leads_to": [
+        "shortest-distance-two-lines"
+      ]
+    },
+    "cube-numbers": {
+      "canonical_name": "Cube Numbers",
+      "slug": "cube-numbers",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Perfect cubes and their properties",
+      "prerequisites": [
+        "square-numbers"
+      ],
+      "leads_to": [
+        "cube-roots"
+      ]
+    },
+    "cube-roots": {
+      "canonical_name": "Cube Roots",
+      "slug": "cube-roots",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Finding cube roots by prime factorisation",
+      "prerequisites": [
+        "cube-numbers",
+        "prime-factorisation"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "cubic numbers",
+        "cubes and cube roots",
+        "perfect cube"
+      ]
+    },
+    "cyclic-quadrilaterals": {
+      "canonical_name": "Cyclic Quadrilaterals",
+      "slug": "cyclic-quadrilaterals",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Opposite angles sum to 180°; exterior angle equals remote interior",
+      "prerequisites": [
+        "circle-theorems",
+        "quadrilaterals"
+      ],
+      "leads_to": []
+    },
+    "data-collection-and-organisation": {
+      "canonical_name": "Data Collection and Organisation",
+      "slug": "data-collection-and-organisation",
+      "grades": [
+        6
+      ],
+      "area": "Statistics",
+      "description": "Gathering, recording and organising raw data; tally marks",
+      "prerequisites": [],
+      "leads_to": [
+        "bar-graphs-and-pictographs",
+        "frequency-distribution",
+        "mean-median-mode"
+      ],
+      "aliases": [
+        "collecting and organising data",
+        "tally marks",
+        "data handling",
+        "raw data"
+      ]
+    },
+    "data-representation-grouped": {
+      "canonical_name": "Data Representation — Grouped Data",
+      "slug": "data-representation-grouped",
+      "grades": [
+        9
+      ],
+      "area": "Statistics",
+      "description": "Histograms, frequency polygons for grouped data",
+      "prerequisites": [
+        "bar-graphs-and-pictographs",
+        "frequency-distribution"
+      ],
+      "leads_to": [
+        "mean-of-grouped-data"
+      ],
+      "aliases": [
+        "histogram",
+        "frequency polygon",
+        "graphical representation of data",
+        "class intervals"
+      ]
+    },
+    "decimal-expansions-of-real-numbers": {
+      "canonical_name": "Decimal Expansions of Real Numbers",
+      "slug": "decimal-expansions-of-real-numbers",
+      "grades": [
+        9
+      ],
+      "area": "Number Systems",
+      "description": "Terminating, non-terminating repeating, and non-repeating decimals",
+      "prerequisites": [
+        "conversion-fractions-decimals",
+        "real-numbers"
+      ],
+      "leads_to": []
+    },
+    "decimal-operations": {
+      "canonical_name": "Decimal Operations",
+      "slug": "decimal-operations",
+      "grades": [
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Addition, subtraction, multiplication and division of decimals",
+      "prerequisites": [
+        "decimals",
+        "integer-operations"
+      ],
+      "leads_to": []
+    },
+    "decimals": {
+      "canonical_name": "Decimals",
+      "slug": "decimals",
+      "grades": [
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Representing fractions with denominators as powers of 10",
+      "prerequisites": [
+        "fractions",
+        "place-value"
+      ],
+      "leads_to": [
+        "circumference-of-circle",
+        "conversion-fractions-decimals",
+        "decimal-operations",
+        "percentage",
+        "rational-numbers"
+      ],
+      "aliases": [
+        "a peek beyond the point",
+        "decimal numbers",
+        "tenths and hundredths",
+        "decimal place value"
+      ]
+    },
+    "definite-integrals": {
+      "canonical_name": "Definite Integrals",
+      "slug": "definite-integrals",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫ₐᵇ f(x)dx; as limit of a sum",
+      "prerequisites": [
+        "integration-indefinite"
+      ],
+      "leads_to": [
+        "fundamental-theorem-of-calculus"
+      ]
+    },
+    "derivatives-first-principles": {
+      "canonical_name": "Derivatives — First Principles",
+      "slug": "derivatives-first-principles",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "f′(x) = lim[h→0] [f(x+h)−f(x)]/h",
+      "prerequisites": [
+        "limits-algebra"
+      ],
+      "leads_to": [
+        "derivatives-rules-basic"
+      ]
+    },
+    "derivatives-rules-basic": {
+      "canonical_name": "Basic Differentiation Rules",
+      "slug": "derivatives-rules-basic",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "Power rule, constant multiple, sum/difference rules",
+      "prerequisites": [
+        "derivatives-first-principles"
+      ],
+      "leads_to": [
+        "chain-rule",
+        "differential-equations-intro",
+        "increasing-decreasing-functions",
+        "integration-indefinite"
+      ],
+      "aliases": [
+        "derivatives",
+        "differentiation",
+        "power rule",
+        "derivative from first principle"
+      ]
+    },
+    "determinants": {
+      "canonical_name": "Determinants",
+      "slug": "determinants",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "det(A) for 2×2 and 3×3; Sarrus' rule; cofactor expansion",
+      "prerequisites": [
+        "matrix-operations"
+      ],
+      "leads_to": [
+        "adjoint-and-inverse-matrix",
+        "area-using-determinants"
+      ]
+    },
+    "differential-equations-intro": {
+      "canonical_name": "Differential Equations — Introduction",
+      "slug": "differential-equations-intro",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Order and degree; formation of DE from general solution",
+      "prerequisites": [
+        "derivatives-rules-basic",
+        "integration-indefinite"
+      ],
+      "leads_to": [
+        "variable-separable"
+      ]
+    },
+    "direct-and-inverse-variation": {
+      "canonical_name": "Direct and Inverse Variation",
+      "slug": "direct-and-inverse-variation",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "y=kx vs y=k/x; identifying from data",
+      "prerequisites": [
+        "inverse-proportion",
+        "unitary-method-and-direct-proportion"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "direct proportion",
+        "inverse proportion",
+        "varies directly",
+        "varies inversely"
+      ]
+    },
+    "direction-cosines-ratios": {
+      "canonical_name": "Direction Cosines and Direction Ratios",
+      "slug": "direction-cosines-ratios",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "l,m,n; l²+m²+n²=1; direction ratios a,b,c",
+      "prerequisites": [
+        "introduction-3d-geometry",
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "equation-of-line-3d"
+      ]
+    },
+    "distance-formula": {
+      "canonical_name": "Distance Formula",
+      "slug": "distance-formula",
+      "grades": [
+        10
+      ],
+      "area": "Coordinate Geometry",
+      "description": "d = √[(x₂−x₁)² + (y₂−y₁)²]",
+      "prerequisites": [
+        "cartesian-coordinate-system",
+        "pythagorean-theorem"
+      ],
+      "leads_to": [
+        "circle-equation",
+        "introduction-3d-geometry",
+        "section-formula",
+        "slope-of-a-line"
+      ]
+    },
+    "distance-point-to-line": {
+      "canonical_name": "Distance of a Point from a Line",
+      "slug": "distance-point-to-line",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "|ax₁+by₁+c|/√(a²+b²)",
+      "prerequisites": [
+        "straight-lines"
+      ],
+      "leads_to": [],
+      "source_sections": {
+        "11": [
+          "9.4 Distance of a Point From a Line",
+          "9.4.1 Distance between two"
+        ]
+      }
+    },
+    "divisibility-rules": {
+      "canonical_name": "Divisibility Rules",
+      "slug": "divisibility-rules",
+      "grades": [
+        6,
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Quick tests for checking whether one number divides another without doing the division",
+      "prerequisites": [
+        "factors-and-multiples"
+      ],
+      "leads_to": [
+        "modular-arithmetic",
+        "prime-factorisation"
+      ]
+    },
+    "division-of-polynomials": {
+      "canonical_name": "Division of Algebraic Expressions",
+      "slug": "division-of-polynomials",
+      "grades": [
+        8
+      ],
+      "area": "Algebra",
+      "description": "Dividing a polynomial by a monomial or polynomial",
+      "prerequisites": [
+        "factorisation-expressions"
+      ],
+      "leads_to": [
+        "factor-theorem"
+      ],
+      "aliases": [
+        "dividing algebraic expressions",
+        "monomial",
+        "factorisation of expressions"
+      ]
+    },
+    "dot-product": {
+      "canonical_name": "Dot (Scalar) Product",
+      "slug": "dot-product",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "a⃗·b⃗ = |a||b|cosθ; properties; projection",
+      "prerequisites": [
+        "trigonometric-functions",
+        "vector-addition"
+      ],
+      "leads_to": [
+        "angle-between-lines-3d",
+        "cross-product"
+      ]
+    },
+    "elimination-method": {
+      "canonical_name": "Elimination Method",
+      "slug": "elimination-method",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Solving simultaneous equations by eliminating one variable",
+      "prerequisites": [
+        "pair-of-linear-equations"
+      ],
+      "leads_to": [],
+      "source_sections": {
+        "10": [
+          "3.3.2 Elimination Method"
+        ]
+      }
+    },
+    "ellipse": {
+      "canonical_name": "Ellipse",
+      "slug": "ellipse",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "x²/a²+y²/b²=1; foci, vertices, eccentricity, latus rectum",
+      "prerequisites": [
+        "conic-sections"
+      ],
+      "leads_to": [
+        "hyperbola"
+      ]
+    },
+    "equation-of-line-3d": {
+      "canonical_name": "Equation of a Line in 3D",
+      "slug": "equation-of-line-3d",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Vector and Cartesian forms; parametric equations",
+      "prerequisites": [
+        "direction-cosines-ratios",
+        "vectors"
+      ],
+      "leads_to": [
+        "angle-between-lines-3d",
+        "shortest-distance-two-lines"
+      ]
+    },
+    "equivalent-fractions": {
+      "canonical_name": "Equivalent Fractions",
+      "slug": "equivalent-fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Fractions representing the same value; cross-multiplication test",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": [
+        "comparing-fractions"
+      ]
+    },
+    "estimation": {
+      "canonical_name": "Estimation and Approximation",
+      "slug": "estimation",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Judging a value quickly by rounding to convenient numbers, and checking whether an answer is reasonable",
+      "aliases": [
+        "simple estimation",
+        "rounding off",
+        "approximate value",
+        "mental math"
+      ],
+      "prerequisites": [
+        "place-value",
+        "whole-numbers"
+      ],
+      "leads_to": []
+    },
+    "euclid-definitions-axioms-postulates": {
+      "canonical_name": "Euclid's Definitions, Axioms and Postulates",
+      "slug": "euclid-definitions-axioms-postulates",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Euclid's 5 postulates and axioms; foundation of deductive geometry",
+      "prerequisites": [
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "lines-angles-theorems"
+      ]
+    },
+    "even-and-odd-numbers": {
+      "canonical_name": "Even and Odd Numbers",
+      "slug": "even-and-odd-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Classification of whole numbers by divisibility by 2; parity",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "parity",
+        "divisible by 2",
+        "multiples of 2"
+      ]
+    },
+    "exponential-and-log-functions": {
+      "canonical_name": "Exponential and Logarithmic Functions",
+      "slug": "exponential-and-log-functions",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "e^x, log x; their derivatives and properties",
+      "prerequisites": [
+        "continuity-of-functions",
+        "exponents-and-powers"
+      ],
+      "leads_to": []
+    },
+    "exponents-and-powers": {
+      "canonical_name": "Exponents and Powers",
+      "slug": "exponents-and-powers",
+      "grades": [
+        8
+      ],
+      "area": "Algebra",
+      "description": "aⁿ notation; laws of exponents for integer exponents",
+      "prerequisites": [
+        "rational-numbers",
+        "square-numbers"
+      ],
+      "leads_to": [
+        "binomial-theorem",
+        "exponential-and-log-functions",
+        "geometric-progressions",
+        "laws-of-exponents-real",
+        "negative-and-zero-exponents",
+        "special-functions"
+      ]
+    },
+    "factor-theorem": {
+      "canonical_name": "Factor Theorem",
+      "slug": "factor-theorem",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "p(a) = 0 ⟹ (x−a) is a factor of p(x)",
+      "prerequisites": [
+        "division-of-polynomials",
+        "polynomials-in-one-variable"
+      ],
+      "leads_to": [
+        "factorisation-of-polynomials",
+        "zeroes-of-a-polynomial"
+      ]
+    },
+    "factorisation-expressions": {
+      "canonical_name": "Factorisation of Algebraic Expressions",
+      "slug": "factorisation-expressions",
+      "grades": [
+        8
+      ],
+      "area": "Algebra",
+      "description": "Taking out common factors; grouping; using identities",
+      "prerequisites": [
+        "algebraic-identities"
+      ],
+      "leads_to": [
+        "division-of-polynomials"
+      ],
+      "aliases": [
+        "factorisation",
+        "taking out common factors",
+        "algebraic identities",
+        "grouping terms"
+      ]
+    },
+    "factorisation-of-polynomials": {
+      "canonical_name": "Factorisation of Polynomials",
+      "slug": "factorisation-of-polynomials",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "Factorising using splitting middle term, identities, factor theorem",
+      "prerequisites": [
+        "algebraic-identities",
+        "factor-theorem"
+      ],
+      "leads_to": [
+        "integration-by-partial-fractions",
+        "quadratic-equations"
+      ]
+    },
+    "factors-and-multiples": {
+      "canonical_name": "Factors and Multiples",
+      "slug": "factors-and-multiples",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Factor as a divisor; multiple as a product; factor pairs",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "divisibility-rules",
+        "prime-numbers"
+      ],
+      "aliases": [
+        "divisibility tests",
+        "prime factorisation",
+        "common factors",
+        "HCF and LCM"
+      ]
+    },
+    "fibonacci-virahanka-sequence": {
+      "canonical_name": "Fibonacci–Virahanka Sequence",
+      "slug": "fibonacci-virahanka-sequence",
+      "grades": [
+        6
+      ],
+      "area": "Patterns and Sequences",
+      "description": "The sequence where each term is the sum of the two preceding terms",
+      "prerequisites": [
+        "number-patterns"
+      ],
+      "leads_to": []
+    },
+    "fractions": {
+      "canonical_name": "Fractions",
+      "slug": "fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Numbers of the form a/b representing parts of a whole",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "bar-graphs-and-pictographs",
+        "conversion-fractions-decimals",
+        "decimals",
+        "equivalent-fractions",
+        "mean-median-mode",
+        "percentage",
+        "rational-numbers",
+        "ratios-and-proportions",
+        "theoretical-probability",
+        "types-of-fractions"
+      ]
+    },
+    "frequency-distribution": {
+      "canonical_name": "Frequency Distribution Table",
+      "slug": "frequency-distribution",
+      "grades": [
+        7
+      ],
+      "area": "Statistics",
+      "description": "Organising data into classes with frequencies",
+      "prerequisites": [
+        "data-collection-and-organisation"
+      ],
+      "leads_to": [
+        "data-representation-grouped"
+      ],
+      "aliases": [
+        "tally marks",
+        "frequency table",
+        "class intervals",
+        "grouping data",
+        "organising data"
+      ]
+    },
+    "functions": {
+      "canonical_name": "Functions",
+      "slug": "functions",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "A relation where each input has exactly one output",
+      "prerequisites": [
+        "relations"
+      ],
+      "leads_to": [
+        "continuity-of-functions",
+        "limits-intuitive",
+        "sequences-introduction",
+        "trigonometric-functions",
+        "types-of-functions"
+      ],
+      "aliases": [
+        "relation and function",
+        "domain and range",
+        "real valued function",
+        "mapping"
+      ]
+    },
+    "fundamental-principle-of-counting": {
+      "canonical_name": "Fundamental Principle of Counting",
+      "slug": "fundamental-principle-of-counting",
+      "grades": [
+        11
+      ],
+      "area": "Combinatorics",
+      "description": "Addition and multiplication principles",
+      "prerequisites": [
+        "sets"
+      ],
+      "leads_to": [
+        "permutations"
+      ]
+    },
+    "fundamental-theorem-of-arithmetic": {
+      "canonical_name": "Fundamental Theorem of Arithmetic",
+      "slug": "fundamental-theorem-of-arithmetic",
+      "grades": [
+        10
+      ],
+      "area": "Number Theory",
+      "description": "Every integer > 1 is uniquely expressible as a product of primes",
+      "prerequisites": [
+        "lcm-and-gcd",
+        "prime-factorisation"
+      ],
+      "leads_to": [
+        "proof-irrationality"
+      ]
+    },
+    "fundamental-theorem-of-calculus": {
+      "canonical_name": "Fundamental Theorem of Calculus",
+      "slug": "fundamental-theorem-of-calculus",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫ₐᵇ f(x)dx = F(b)−F(a)",
+      "prerequisites": [
+        "continuity-of-functions",
+        "definite-integrals"
+      ],
+      "leads_to": [
+        "area-under-curves"
+      ]
+    },
+    "geometric-progressions": {
+      "canonical_name": "Geometric Progressions",
+      "slug": "geometric-progressions",
+      "grades": [
+        11
+      ],
+      "area": "Sequences",
+      "description": "Sequence with constant common ratio r",
+      "prerequisites": [
+        "arithmetic-progressions",
+        "exponents-and-powers"
+      ],
+      "leads_to": []
+    },
+    "heights-and-distances": {
+      "canonical_name": "Heights and Distances",
+      "slug": "heights-and-distances",
+      "grades": [
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "Applying trig ratios to find heights and distances; angles of elevation and depression",
+      "prerequisites": [
+        "trigonometric-identities",
+        "trigonometric-ratios-specific-angles"
+      ],
+      "leads_to": []
+    },
+    "heron-s-formula": {
+      "canonical_name": "Heron's Formula",
+      "slug": "heron-s-formula",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "Area = √[s(s−a)(s−b)(s−c)] where s is the semi-perimeter",
+      "prerequisites": [
+        "area-of-triangles",
+        "square-roots"
+      ],
+      "leads_to": []
+    },
+    "hyperbola": {
+      "canonical_name": "Hyperbola",
+      "slug": "hyperbola",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "x²/a²−y²/b²=1; transverse/conjugate axes; asymptotes",
+      "prerequisites": [
+        "conic-sections",
+        "ellipse"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "conic sections",
+        "transverse and conjugate axes",
+        "eccentricity",
+        "asymptotes"
+      ]
+    },
+    "implicit-differentiation": {
+      "canonical_name": "Implicit Differentiation",
+      "slug": "implicit-differentiation",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Differentiating equations not solved for y",
+      "prerequisites": [
+        "chain-rule"
+      ],
+      "leads_to": []
+    },
+    "increasing-decreasing-functions": {
+      "canonical_name": "Increasing and Decreasing Functions",
+      "slug": "increasing-decreasing-functions",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "f′(x)>0 ⟹ increasing; f′(x)<0 ⟹ decreasing",
+      "prerequisites": [
+        "derivatives-rules-basic"
+      ],
+      "leads_to": [
+        "maxima-and-minima"
+      ]
+    },
+    "independent-events": {
+      "canonical_name": "Independent Events",
+      "slug": "independent-events",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(A∩B) = P(A)·P(B); distinction from mutually exclusive",
+      "prerequisites": [
+        "conditional-probability"
+      ],
+      "leads_to": []
+    },
+    "integer-operations": {
+      "canonical_name": "Operations on Integers",
+      "slug": "integer-operations",
+      "grades": [
+        6,
+        7
+      ],
+      "area": "Number Systems",
+      "description": "Addition, subtraction, multiplication and division of integers; sign rules",
+      "prerequisites": [
+        "integers"
+      ],
+      "leads_to": [
+        "algebraic-expressions",
+        "cartesian-coordinate-system",
+        "decimal-operations",
+        "rational-number-operations"
+      ],
+      "source_sections": {
+        "6": [
+          "10.2 The Token Model",
+          "g6_maths_chapter10_003",
+          "g6_maths_chapter10_031",
+          "g6_maths_chapter10_032",
+          "g6_maths_chapter10_035"
+        ],
+        "7": [
+          "2.2 Multiplication of Integers",
+          "g7_maths_part2_chapter2_014",
+          "g7_maths_part2_chapter2_015",
+          "g7_maths_part2_chapter2_019",
+          "g7_maths_part2_chapter2_038"
+        ]
+      }
+    },
+    "integers": {
+      "canonical_name": "Integers",
+      "slug": "integers",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Positive and negative whole numbers including zero",
+      "prerequisites": [
+        "number-line",
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "integer-operations",
+        "rational-numbers"
+      ],
+      "source_sections": {
+        "6": [
+          "g6_maths_chapter10_000",
+          "10.1 Bela's Building of Fun",
+          "10.3 Integers in Other Places",
+          "g6_maths_chapter10_034"
+        ]
+      }
+    },
+    "integration-by-partial-fractions": {
+      "canonical_name": "Integration by Partial Fractions",
+      "slug": "integration-by-partial-fractions",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Decomposing rational functions before integrating",
+      "prerequisites": [
+        "factorisation-of-polynomials",
+        "integration-indefinite"
+      ],
+      "leads_to": []
+    },
+    "integration-by-parts": {
+      "canonical_name": "Integration by Parts",
+      "slug": "integration-by-parts",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫u dv = uv − ∫v du; LIATE rule",
+      "prerequisites": [
+        "chain-rule",
+        "integration-indefinite"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "integration of a product of functions",
+        "ILATE rule",
+        "indefinite integral"
+      ]
+    },
+    "integration-by-substitution": {
+      "canonical_name": "Integration by Substitution",
+      "slug": "integration-by-substitution",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "∫f(g(x))g′(x)dx = ∫f(u)du",
+      "prerequisites": [
+        "chain-rule",
+        "integration-indefinite"
+      ],
+      "leads_to": []
+    },
+    "integration-indefinite": {
+      "canonical_name": "Integration — Indefinite Integrals",
+      "slug": "integration-indefinite",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Anti-derivative; ∫f(x)dx = F(x)+C; standard integrals",
+      "prerequisites": [
+        "derivatives-rules-basic",
+        "trigonometric-functions"
+      ],
+      "leads_to": [
+        "definite-integrals",
+        "differential-equations-intro",
+        "integration-by-partial-fractions",
+        "integration-by-parts",
+        "integration-by-substitution"
+      ]
+    },
+    "introduction-3d-geometry": {
+      "canonical_name": "Introduction to 3D Geometry",
+      "slug": "introduction-3d-geometry",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "3D coordinate system; octants; distance between two points in 3D",
+      "prerequisites": [
+        "cartesian-coordinate-system",
+        "distance-formula"
+      ],
+      "leads_to": [
+        "direction-cosines-ratios",
+        "vectors"
+      ],
+      "source_sections": {
+        "11": [
+          "11.1 Introduction",
+          "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space",
+          "11.3 Coordinates of a Point in Space"
+        ]
+      }
+    },
+    "inverse-proportion": {
+      "canonical_name": "Inverse Proportion",
+      "slug": "inverse-proportion",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "xy = k; as one quantity increases the other decreases",
+      "prerequisites": [
+        "unitary-method-and-direct-proportion"
+      ],
+      "leads_to": [
+        "direct-and-inverse-variation"
+      ],
+      "aliases": [
+        "inverse proportions",
+        "indirect variation",
+        "product stays constant"
+      ]
+    },
+    "inverse-trigonometric-functions": {
+      "canonical_name": "Inverse Trigonometric Functions",
+      "slug": "inverse-trigonometric-functions",
+      "grades": [
+        12
+      ],
+      "area": "Trigonometry",
+      "description": "sin⁻¹, cos⁻¹, tan⁻¹; principal value branches",
+      "prerequisites": [
+        "trigonometric-functions",
+        "types-of-functions"
+      ],
+      "leads_to": [],
+      "source_sections": {
+        "12": [
+          "2.2 Basic Concepts"
+        ]
+      }
+    },
+    "irrational-numbers": {
+      "canonical_name": "Irrational Numbers",
+      "slug": "irrational-numbers",
+      "grades": [
+        9
+      ],
+      "area": "Number Systems",
+      "description": "Numbers that cannot be expressed as p/q; non-terminating non-repeating decimals",
+      "prerequisites": [
+        "rational-numbers",
+        "square-roots"
+      ],
+      "leads_to": [
+        "proof-irrationality",
+        "real-numbers",
+        "surds-and-rationalisation"
+      ]
+    },
+    "kite-and-trapezium": {
+      "canonical_name": "Kite and Trapezium Properties",
+      "slug": "kite-and-trapezium",
+      "grades": [
+        8
+      ],
+      "area": "Geometry",
+      "description": "Properties of non-parallelogram quadrilaterals",
+      "prerequisites": [
+        "quadrilaterals"
+      ],
+      "leads_to": []
+    },
+    "laws-of-exponents-real": {
+      "canonical_name": "Laws of Exponents for Real Numbers",
+      "slug": "laws-of-exponents-real",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "Extending exponent laws to rational exponents on positive reals",
+      "prerequisites": [
+        "exponents-and-powers",
+        "negative-and-zero-exponents",
+        "real-numbers"
+      ],
+      "leads_to": [],
+      "source_sections": {
+        "9": [
+          "1.5 Laws of Exponents for Real Numbers"
+        ]
+      }
+    },
+    "lcm-and-gcd": {
+      "canonical_name": "LCM and GCD (HCF)",
+      "slug": "lcm-and-gcd",
+      "grades": [
+        7
+      ],
+      "area": "Number Theory",
+      "description": "Least Common Multiple and Greatest Common Divisor using prime factorisation",
+      "prerequisites": [
+        "prime-factorisation"
+      ],
+      "leads_to": [
+        "fundamental-theorem-of-arithmetic",
+        "modular-arithmetic"
+      ]
+    },
+    "limits-algebra": {
+      "canonical_name": "Algebra of Limits",
+      "slug": "limits-algebra",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "Limit laws: sum, product, quotient; squeeze theorem",
+      "prerequisites": [
+        "limits-intuitive"
+      ],
+      "leads_to": [
+        "continuity-of-functions",
+        "derivatives-first-principles"
+      ],
+      "source_sections": {
+        "11": [
+          "g11_maths_chapter12_019",
+          "g11_maths_chapter12_020",
+          "g11_maths_chapter12_021",
+          "g11_maths_chapter12_022",
+          "g11_maths_chapter12_023",
+          "g11_maths_chapter12_024",
+          "g11_maths_chapter12_025"
+        ]
+      }
+    },
+    "limits-intuitive": {
+      "canonical_name": "Limits — Intuitive Idea",
+      "slug": "limits-intuitive",
+      "grades": [
+        11
+      ],
+      "area": "Calculus",
+      "description": "Left/right-hand limits; limit of a function at a point",
+      "prerequisites": [
+        "functions",
+        "real-numbers"
+      ],
+      "leads_to": [
+        "limits-algebra"
+      ],
+      "source_sections": {
+        "11": [
+          "12.3 Limits",
+          "g11_maths_chapter12_009",
+          "g11_maths_chapter12_010",
+          "g11_maths_chapter12_011",
+          "g11_maths_chapter12_012",
+          "g11_maths_chapter12_013",
+          "g11_maths_chapter12_014"
+        ]
+      }
+    },
+    "line-of-symmetry": {
+      "canonical_name": "Line Symmetry and Reflection",
+      "slug": "line-of-symmetry",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "A line dividing a figure into two congruent halves that are mirror images",
+      "prerequisites": [
+        "basic-geometrical-concepts"
+      ],
+      "leads_to": [
+        "rotational-symmetry"
+      ]
+    },
+    "linear-differential-equations": {
+      "canonical_name": "Linear Differential Equations",
+      "slug": "linear-differential-equations",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "dy/dx + Py = Q; integrating factor e^(∫Pdx)",
+      "prerequisites": [
+        "variable-separable"
+      ],
+      "leads_to": []
+    },
+    "linear-equations-one-variable": {
+      "canonical_name": "Linear Equations in One Variable",
+      "slug": "linear-equations-one-variable",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Algebra",
+      "description": "Equations reducible to the form ax + b = 0 with rational coefficients",
+      "prerequisites": [
+        "simple-equations"
+      ],
+      "leads_to": [
+        "linear-equations-two-variables"
+      ],
+      "aliases": [
+        "finding the unknown",
+        "solving equations",
+        "simple equations",
+        "solving equations systematically"
+      ]
+    },
+    "linear-equations-two-variables": {
+      "canonical_name": "Linear Equations in Two Variables",
+      "slug": "linear-equations-two-variables",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "ax + by + c = 0; graphing; solution as ordered pair",
+      "prerequisites": [
+        "linear-equations-one-variable"
+      ],
+      "leads_to": [
+        "pair-of-linear-equations",
+        "representing-linear-equations-graphically"
+      ]
+    },
+    "linear-inequalities": {
+      "canonical_name": "Linear Inequalities",
+      "slug": "linear-inequalities",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Solving and graphing linear inequalities in one and two variables",
+      "prerequisites": [
+        "real-numbers",
+        "simple-equations"
+      ],
+      "leads_to": [
+        "linear-programming"
+      ]
+    },
+    "linear-programming": {
+      "canonical_name": "Linear Programming",
+      "slug": "linear-programming",
+      "grades": [
+        12
+      ],
+      "area": "Optimisation",
+      "description": "Objective function; constraints; feasible region; corner point method",
+      "prerequisites": [
+        "linear-inequalities",
+        "straight-lines"
+      ],
+      "leads_to": []
+    },
+    "lines-angles-theorems": {
+      "canonical_name": "Lines and Angles — Theorems",
+      "slug": "lines-angles-theorems",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Vertically opposite angles; linear pair; angle sum at a point",
+      "prerequisites": [
+        "euclid-definitions-axioms-postulates",
+        "parallel-lines-and-transversals"
+      ],
+      "leads_to": []
+    },
+    "matrices": {
+      "canonical_name": "Matrices",
+      "slug": "matrices",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "Ordered rectangular array of numbers; order m×n",
+      "prerequisites": [
+        "pair-of-linear-equations"
+      ],
+      "leads_to": [
+        "types-of-matrices"
+      ],
+      "source_sections": {
+        "12": [
+          "3.1 Introduction",
+          "3.2 Matrix",
+          "3.2.1 Order of a matrix"
+        ]
+      }
+    },
+    "matrix-operations": {
+      "canonical_name": "Operations on Matrices",
+      "slug": "matrix-operations",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "Addition, scalar multiplication, matrix multiplication; properties",
+      "prerequisites": [
+        "types-of-matrices"
+      ],
+      "leads_to": [
+        "determinants"
+      ]
+    },
+    "maxima-and-minima": {
+      "canonical_name": "Maxima and Minima",
+      "slug": "maxima-and-minima",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "First and second derivative tests; absolute max/min on closed interval",
+      "prerequisites": [
+        "increasing-decreasing-functions",
+        "second-order-derivative"
+      ],
+      "leads_to": []
+    },
+    "mean-median-mode": {
+      "canonical_name": "Mean, Median and Mode",
+      "slug": "mean-median-mode",
+      "grades": [
+        8
+      ],
+      "area": "Statistics",
+      "description": "Three measures of central tendency for ungrouped data",
+      "prerequisites": [
+        "data-collection-and-organisation",
+        "fractions"
+      ],
+      "leads_to": [
+        "mean-of-grouped-data",
+        "range"
+      ],
+      "aliases": [
+        "representative values",
+        "measures of central tendency",
+        "arithmetic mean",
+        "average"
+      ]
+    },
+    "mean-of-grouped-data": {
+      "canonical_name": "Mean of Grouped Data",
+      "slug": "mean-of-grouped-data",
+      "grades": [
+        10
+      ],
+      "area": "Statistics",
+      "description": "Direct, assumed mean and step deviation methods",
+      "prerequisites": [
+        "data-representation-grouped",
+        "mean-median-mode"
+      ],
+      "leads_to": [
+        "measures-of-dispersion",
+        "median-of-grouped-data",
+        "mode-of-grouped-data"
+      ]
+    },
+    "measures-of-dispersion": {
+      "canonical_name": "Measures of Dispersion",
+      "slug": "measures-of-dispersion",
+      "grades": [
+        11
+      ],
+      "area": "Statistics",
+      "description": "Range, mean deviation, variance, standard deviation",
+      "prerequisites": [
+        "mean-of-grouped-data"
+      ],
+      "leads_to": [
+        "variance-and-standard-deviation"
+      ],
+      "source_sections": {
+        "11": [
+          "13.2 Measures of Dispersion",
+          "13.3 Range",
+          "g11_maths_chapter13_005",
+          "g11_maths_chapter13_006",
+          "g11_maths_chapter13_007"
+        ]
+      }
+    },
+    "measuring-angles": {
+      "canonical_name": "Measuring Angles with Protractor",
+      "slug": "measuring-angles",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "Using a protractor to measure angles in degrees",
+      "prerequisites": [
+        "angles"
+      ],
+      "leads_to": [
+        "radian-measure",
+        "types-of-angles"
+      ]
+    },
+    "median-of-grouped-data": {
+      "canonical_name": "Median of Grouped Data",
+      "slug": "median-of-grouped-data",
+      "grades": [
+        10
+      ],
+      "area": "Statistics",
+      "description": "Median class; interpolation formula; graphical method via ogives",
+      "prerequisites": [
+        "mean-of-grouped-data"
+      ],
+      "leads_to": []
+    },
+    "mid-point-theorem": {
+      "canonical_name": "Mid-Point Theorem",
+      "slug": "mid-point-theorem",
+      "grades": [
+        9
+      ],
+      "area": "Geometry",
+      "description": "Line joining midpoints of two sides is parallel to and half of the third side",
+      "prerequisites": [
+        "properties-of-parallelogram",
+        "similar-triangles"
+      ],
+      "leads_to": []
+    },
+    "mode-of-grouped-data": {
+      "canonical_name": "Mode of Grouped Data",
+      "slug": "mode-of-grouped-data",
+      "grades": [
+        10
+      ],
+      "area": "Statistics",
+      "description": "Modal class and interpolation formula",
+      "prerequisites": [
+        "mean-of-grouped-data"
+      ],
+      "leads_to": []
+    },
+    "modular-arithmetic": {
+      "canonical_name": "Modular Arithmetic",
+      "slug": "modular-arithmetic",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "a ≡ b (mod n); clock arithmetic; applications to divisibility",
+      "prerequisites": [
+        "divisibility-rules",
+        "lcm-and-gcd"
+      ],
+      "leads_to": []
+    },
+    "modulus-and-argument": {
+      "canonical_name": "Modulus and Argument of a Complex Number",
+      "slug": "modulus-and-argument",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "|z|=√(a²+b²); arg(z)=tan⁻¹(b/a); polar form",
+      "prerequisites": [
+        "complex-numbers",
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "argand-plane"
+      ]
+    },
+    "natural-numbers": {
+      "canonical_name": "Natural Numbers",
+      "slug": "natural-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Counting numbers 1, 2, 3, … — the most basic number set",
+      "prerequisites": [],
+      "leads_to": [
+        "permutations",
+        "sequences-introduction",
+        "whole-numbers"
+      ]
+    },
+    "nature-of-roots": {
+      "canonical_name": "Nature of Roots — Discriminant",
+      "slug": "nature-of-roots",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "D=b²−4ac; real/equal/imaginary roots based on sign of D",
+      "prerequisites": [
+        "quadratic-equations",
+        "square-roots"
+      ],
+      "leads_to": []
+    },
+    "negative-and-zero-exponents": {
+      "canonical_name": "Negative and Zero Exponents",
+      "slug": "negative-and-zero-exponents",
+      "grades": [
+        8
+      ],
+      "area": "Algebra",
+      "description": "a⁰ = 1; a⁻ⁿ = 1/aⁿ; standard form / scientific notation",
+      "prerequisites": [
+        "exponents-and-powers"
+      ],
+      "leads_to": [
+        "laws-of-exponents-real"
+      ],
+      "aliases": [
+        "laws of exponents",
+        "powers with negative exponents",
+        "standard form",
+        "exponential notation"
+      ]
+    },
+    "number-line": {
+      "canonical_name": "Number Line",
+      "slug": "number-line",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Representation of numbers as points on a straight line; ordering and spacing",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "cartesian-coordinate-system",
+        "integers",
+        "number-line-rational"
+      ],
+      "aliases": [
+        "numbers on a line",
+        "patterns of numbers on the number line",
+        "representing numbers"
+      ]
+    },
+    "number-line-rational": {
+      "canonical_name": "Rational Numbers on the Number Line",
+      "slug": "number-line-rational",
+      "grades": [
+        8
+      ],
+      "area": "Number Systems",
+      "description": "Locating and ordering rational numbers on the number line",
+      "prerequisites": [
+        "number-line",
+        "rational-numbers"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "ordering rational numbers",
+        "rational numbers between two numbers"
+      ]
+    },
+    "number-patterns": {
+      "canonical_name": "Number Patterns and Sequences",
+      "slug": "number-patterns",
+      "grades": [
+        6
+      ],
+      "area": "Patterns and Sequences",
+      "description": "Identifying, extending and describing rules for number sequences",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "arithmetic-progressions",
+        "fibonacci-virahanka-sequence",
+        "palindromic-numbers",
+        "square-numbers"
+      ]
+    },
+    "pair-of-linear-equations": {
+      "canonical_name": "Pair of Linear Equations in Two Variables",
+      "slug": "pair-of-linear-equations",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Solving systems graphically and algebraically",
+      "prerequisites": [
+        "cartesian-coordinate-system",
+        "linear-equations-two-variables"
+      ],
+      "leads_to": [
+        "elimination-method",
+        "matrices",
+        "substitution-method"
+      ]
+    },
+    "palindromic-numbers": {
+      "canonical_name": "Palindromic Numbers",
+      "slug": "palindromic-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Numbers that read the same forwards and backwards, and the patterns made while building them",
+      "aliases": [
+        "palindrome",
+        "pretty palindromic patterns",
+        "numbers that read the same both ways"
+      ],
+      "prerequisites": [
+        "number-patterns",
+        "place-value"
+      ],
+      "leads_to": []
+    },
+    "parabola": {
+      "canonical_name": "Parabola",
+      "slug": "parabola",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "y²=4ax; focus, directrix, vertex, axis, latus rectum",
+      "prerequisites": [
+        "conic-sections"
+      ],
+      "leads_to": []
+    },
+    "parallel-lines-and-transversals": {
+      "canonical_name": "Parallel Lines and Transversals",
+      "slug": "parallel-lines-and-transversals",
+      "grades": [
+        7
+      ],
+      "area": "Geometry",
+      "description": "Angle relationships when a transversal cuts parallel lines",
+      "prerequisites": [
+        "angles",
+        "types-of-angles"
+      ],
+      "leads_to": [
+        "lines-angles-theorems",
+        "properties-of-triangles"
+      ]
+    },
+    "percentage": {
+      "canonical_name": "Percentage",
+      "slug": "percentage",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "A ratio expressed per hundred",
+      "prerequisites": [
+        "decimals",
+        "fractions",
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "percentage-change",
+        "profit-loss-percentage"
+      ],
+      "aliases": [
+        "per cent",
+        "fractions as percentages",
+        "using percentages",
+        "out of hundred"
+      ]
+    },
+    "percentage-change": {
+      "canonical_name": "Percentage Increase and Decrease",
+      "slug": "percentage-change",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Computing and interpreting percentage change",
+      "prerequisites": [
+        "percentage"
+      ],
+      "leads_to": [
+        "tax-and-vat"
+      ],
+      "aliases": [
+        "per cent",
+        "percentage change",
+        "using percentages",
+        "fractions as percentages",
+        "discount"
+      ]
+    },
+    "perimeter": {
+      "canonical_name": "Perimeter",
+      "slug": "perimeter",
+      "grades": [
+        6
+      ],
+      "area": "Mensuration",
+      "description": "Total length of the boundary of a 2D shape",
+      "prerequisites": [
+        "basic-geometrical-concepts",
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "area-rectangle-square"
+      ]
+    },
+    "permutations": {
+      "canonical_name": "Permutations",
+      "slug": "permutations",
+      "grades": [
+        11
+      ],
+      "area": "Combinatorics",
+      "description": "Arrangements of objects: P(n,r) = n!/(n−r)!",
+      "prerequisites": [
+        "fundamental-principle-of-counting",
+        "natural-numbers"
+      ],
+      "leads_to": [
+        "combinations"
+      ],
+      "source_sections": {
+        "11": [
+          "6.3 Permutations",
+          "6.3.1 Permutations when all the objects are distinct",
+          "g11_maths_chapter6_012",
+          "g11_maths_chapter6_013"
+        ]
+      }
+    },
+    "perpendicular-bisector": {
+      "canonical_name": "Perpendicular Bisector",
+      "slug": "perpendicular-bisector",
+      "grades": [
+        8
+      ],
+      "area": "Geometry",
+      "description": "Locus of points equidistant from two given points",
+      "prerequisites": [
+        "basic-constructions"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "right bisector",
+        "equidistant from two points",
+        "construction of a bisector"
+      ]
+    },
+    "place-value": {
+      "canonical_name": "Place Value and Indian Numeration",
+      "slug": "place-value",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Value of each digit determined by position; Indian and International systems up to crores",
+      "prerequisites": [
+        "whole-numbers"
+      ],
+      "leads_to": [
+        "decimals",
+        "estimation",
+        "palindromic-numbers"
+      ],
+      "aliases": [
+        "Indian system of numeration",
+        "international system",
+        "lakhs and crores",
+        "large numbers around us"
+      ]
+    },
+    "polynomials-in-one-variable": {
+      "canonical_name": "Polynomials in One Variable",
+      "slug": "polynomials-in-one-variable",
+      "grades": [
+        9
+      ],
+      "area": "Algebra",
+      "description": "Polynomial definition; degree; types — monomial, binomial, trinomial",
+      "prerequisites": [
+        "algebraic-expressions",
+        "terms-coefficients-degree"
+      ],
+      "leads_to": [
+        "factor-theorem",
+        "special-functions",
+        "zeroes-of-a-polynomial"
+      ]
+    },
+    "prime-factorisation": {
+      "canonical_name": "Prime Factorisation",
+      "slug": "prime-factorisation",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Expressing a number as a product of prime factors; factor trees",
+      "prerequisites": [
+        "divisibility-rules",
+        "prime-numbers"
+      ],
+      "leads_to": [
+        "cube-roots",
+        "fundamental-theorem-of-arithmetic",
+        "lcm-and-gcd",
+        "square-numbers"
+      ],
+      "source_sections": {
+        "6": [
+          "5.4 Prime Factorisation"
+        ]
+      }
+    },
+    "prime-numbers": {
+      "canonical_name": "Prime Numbers",
+      "slug": "prime-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Theory",
+      "description": "Numbers greater than 1 with exactly two distinct factors",
+      "prerequisites": [
+        "factors-and-multiples"
+      ],
+      "leads_to": [
+        "composite-numbers",
+        "coprime-numbers",
+        "prime-factorisation"
+      ],
+      "source_sections": {
+        "6": [
+          "5.2 Prime Numbers"
+        ]
+      }
+    },
+    "profit-loss-percentage": {
+      "canonical_name": "Profit, Loss and Discount",
+      "slug": "profit-loss-percentage",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Computing profit/loss/discount as percentages of cost/selling price",
+      "prerequisites": [
+        "percentage"
+      ],
+      "leads_to": []
+    },
+    "proof-irrationality": {
+      "canonical_name": "Proof of Irrationality",
+      "slug": "proof-irrationality",
+      "grades": [
+        10
+      ],
+      "area": "Number Theory",
+      "description": "Proving √2, √3 etc. are irrational using contradiction",
+      "prerequisites": [
+        "fundamental-theorem-of-arithmetic",
+        "irrational-numbers"
+      ],
+      "leads_to": []
+    },
+    "properties-of-parallelogram": {
+      "canonical_name": "Properties of Parallelogram",
+      "slug": "properties-of-parallelogram",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Opposite sides/angles equal; diagonals bisect each other",
+      "prerequisites": [
+        "congruence-of-triangles",
+        "quadrilaterals"
+      ],
+      "leads_to": [
+        "mid-point-theorem",
+        "properties-of-rhombus-rectangle-square"
+      ]
+    },
+    "properties-of-rhombus-rectangle-square": {
+      "canonical_name": "Properties of Rhombus, Rectangle and Square",
+      "slug": "properties-of-rhombus-rectangle-square",
+      "grades": [
+        8
+      ],
+      "area": "Geometry",
+      "description": "Special parallelograms and their diagonal properties",
+      "prerequisites": [
+        "properties-of-parallelogram"
+      ],
+      "leads_to": []
+    },
+    "properties-of-triangles": {
+      "canonical_name": "Properties of Triangles",
+      "slug": "properties-of-triangles",
+      "grades": [
+        7,
+        9
+      ],
+      "area": "Geometry",
+      "description": "Triangle inequality; angle-side relationships",
+      "prerequisites": [
+        "angle-sum-property-triangle",
+        "parallel-lines-and-transversals"
+      ],
+      "leads_to": [
+        "congruence-of-triangles"
+      ],
+      "source_sections": {
+        "7": [
+          "7.1 Equilateral Triangles",
+          "7.2 Constructing a Triangle When its Sides are Given",
+          "1.3 Angles of Isosceles and Equilateral Triangles"
+        ]
+      }
+    },
+    "pythagorean-theorem": {
+      "canonical_name": "Pythagorean Theorem",
+      "slug": "pythagorean-theorem",
+      "grades": [
+        8
+      ],
+      "area": "Geometry",
+      "description": "In a right triangle: a² + b² = c²",
+      "prerequisites": [
+        "area-of-triangles",
+        "square-roots"
+      ],
+      "leads_to": [
+        "converse-of-pythagorean-theorem",
+        "distance-formula",
+        "pythagorean-triples",
+        "surface-area-cone",
+        "tangent-to-a-circle",
+        "trigonometric-ratios"
+      ]
+    },
+    "pythagorean-triples": {
+      "canonical_name": "Pythagorean Triples",
+      "slug": "pythagorean-triples",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Sets of three positive integers (a,b,c) satisfying a²+b²=c²",
+      "prerequisites": [
+        "pythagorean-theorem"
+      ],
+      "leads_to": []
+    },
+    "quadratic-equations": {
+      "canonical_name": "Quadratic Equations",
+      "slug": "quadratic-equations",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Standard form ax²+bx+c=0; solving by factorisation",
+      "prerequisites": [
+        "algebraic-identities",
+        "factorisation-of-polynomials"
+      ],
+      "leads_to": [
+        "complex-numbers",
+        "nature-of-roots"
+      ]
+    },
+    "quadrilaterals": {
+      "canonical_name": "Quadrilaterals",
+      "slug": "quadrilaterals",
+      "grades": [
+        8
+      ],
+      "area": "Geometry",
+      "description": "Four-sided polygons; angle sum = 360°; types of quadrilaterals",
+      "prerequisites": [
+        "angle-sum-property-triangle",
+        "types-of-angles"
+      ],
+      "leads_to": [
+        "cyclic-quadrilaterals",
+        "kite-and-trapezium",
+        "properties-of-parallelogram",
+        "visualising-3d-shapes"
+      ]
+    },
+    "radian-measure": {
+      "canonical_name": "Radian Measure",
+      "slug": "radian-measure",
+      "grades": [
+        11
+      ],
+      "area": "Trigonometry",
+      "description": "Arc length = rθ; conversion between degrees and radians",
+      "prerequisites": [
+        "circumference-of-circle",
+        "measuring-angles"
+      ],
+      "leads_to": [
+        "trigonometric-functions"
+      ]
+    },
+    "range": {
+      "canonical_name": "Range",
+      "slug": "range",
+      "grades": [
+        8
+      ],
+      "area": "Statistics",
+      "description": "Difference between maximum and minimum values in a dataset",
+      "prerequisites": [
+        "mean-median-mode"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "range of data",
+        "highest and lowest value",
+        "spread of data",
+        "representative values"
+      ]
+    },
+    "rational-number-operations": {
+      "canonical_name": "Operations on Rational Numbers",
+      "slug": "rational-number-operations",
+      "grades": [
+        8
+      ],
+      "area": "Number Systems",
+      "description": "Addition, subtraction, multiplication, division; properties",
+      "prerequisites": [
+        "integer-operations",
+        "rational-numbers"
+      ],
+      "leads_to": []
+    },
+    "rational-numbers": {
+      "canonical_name": "Rational Numbers",
+      "slug": "rational-numbers",
+      "grades": [
+        8
+      ],
+      "area": "Number Systems",
+      "description": "Numbers expressible as p/q where p, q are integers and q ≠ 0",
+      "prerequisites": [
+        "decimals",
+        "fractions",
+        "integers"
+      ],
+      "leads_to": [
+        "exponents-and-powers",
+        "irrational-numbers",
+        "number-line-rational",
+        "rational-number-operations",
+        "real-numbers"
+      ],
+      "aliases": [
+        "p by q form",
+        "numbers expressible as a fraction",
+        "integers and fractions"
+      ]
+    },
+    "ratios-and-proportions": {
+      "canonical_name": "Ratios and Proportions",
+      "slug": "ratios-and-proportions",
+      "grades": [
+        7
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Comparing quantities; equivalent ratios; proportion as equality of ratios",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": [
+        "circumference-of-circle",
+        "percentage",
+        "section-formula",
+        "similar-triangles",
+        "simple-interest",
+        "trigonometric-ratios",
+        "unitary-method-and-direct-proportion"
+      ],
+      "aliases": [
+        "comparing quantities",
+        "equivalent ratios",
+        "ratio and proportion",
+        "unitary method"
+      ]
+    },
+    "real-numbers": {
+      "canonical_name": "Real Numbers",
+      "slug": "real-numbers",
+      "grades": [
+        9
+      ],
+      "area": "Number Systems",
+      "description": "Union of rational and irrational numbers",
+      "prerequisites": [
+        "irrational-numbers",
+        "rational-numbers"
+      ],
+      "leads_to": [
+        "cartesian-coordinate-system",
+        "complex-numbers",
+        "decimal-expansions-of-real-numbers",
+        "laws-of-exponents-real",
+        "limits-intuitive",
+        "linear-inequalities",
+        "special-functions"
+      ],
+      "source_sections": {
+        "9": [
+          "1.1 Introduction",
+          "1.4 Operations on Real Numbers"
+        ]
+      }
+    },
+    "relations": {
+      "canonical_name": "Relations",
+      "slug": "relations",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "A relation R from A to B is a subset of A × B",
+      "prerequisites": [
+        "cartesian-product-of-sets"
+      ],
+      "leads_to": [
+        "functions",
+        "types-of-relations"
+      ]
+    },
+    "representing-linear-equations-graphically": {
+      "canonical_name": "Graphing Linear Equations",
+      "slug": "representing-linear-equations-graphically",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Plotting y=mx+c; interpreting slope and intercept",
+      "prerequisites": [
+        "cartesian-coordinate-system",
+        "linear-equations-two-variables"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "graphical method of solution",
+        "straight line graph",
+        "slope and intercept"
+      ]
+    },
+    "rotational-symmetry": {
+      "canonical_name": "Rotational Symmetry",
+      "slug": "rotational-symmetry",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "Symmetry under rotation; order of rotational symmetry",
+      "prerequisites": [
+        "angles",
+        "line-of-symmetry"
+      ],
+      "leads_to": []
+    },
+    "sample-space-events": {
+      "canonical_name": "Sample Space and Events",
+      "slug": "sample-space-events",
+      "grades": [
+        11
+      ],
+      "area": "Probability",
+      "description": "Sample space as a set; simple, compound, mutually exclusive, exhaustive events",
+      "prerequisites": [
+        "set-operations",
+        "theoretical-probability"
+      ],
+      "leads_to": [
+        "axiomatic-probability"
+      ]
+    },
+    "second-order-derivative": {
+      "canonical_name": "Second Order Derivative",
+      "slug": "second-order-derivative",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "d²y/dx²; physical interpretation as acceleration/concavity",
+      "prerequisites": [
+        "chain-rule"
+      ],
+      "leads_to": [
+        "maxima-and-minima"
+      ]
+    },
+    "section-formula": {
+      "canonical_name": "Section Formula and Midpoint",
+      "slug": "section-formula",
+      "grades": [
+        10
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Internal and external division of a line segment in a given ratio",
+      "prerequisites": [
+        "distance-formula",
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "area-using-determinants",
+        "straight-lines"
+      ]
+    },
+    "sequences-introduction": {
+      "canonical_name": "Sequences — Introduction",
+      "slug": "sequences-introduction",
+      "grades": [
+        11
+      ],
+      "area": "Sequences",
+      "description": "Finite and infinite sequences; notation aₙ",
+      "prerequisites": [
+        "functions",
+        "natural-numbers"
+      ],
+      "leads_to": [
+        "series-introduction"
+      ]
+    },
+    "series-introduction": {
+      "canonical_name": "Series — Introduction",
+      "slug": "series-introduction",
+      "grades": [
+        11
+      ],
+      "area": "Sequences",
+      "description": "Sum of terms of a sequence; sigma notation",
+      "prerequisites": [
+        "sequences-introduction"
+      ],
+      "leads_to": []
+    },
+    "set-operations": {
+      "canonical_name": "Set Operations and Venn Diagrams",
+      "slug": "set-operations",
+      "grades": [
+        11
+      ],
+      "area": "Set Theory",
+      "description": "Union, intersection, difference, complement; Venn diagrams; De Morgan's laws",
+      "prerequisites": [
+        "subsets"
+      ],
+      "leads_to": [
+        "cartesian-product-of-sets",
+        "sample-space-events"
+      ]
+    },
+    "sets": {
+      "canonical_name": "Sets",
+      "slug": "sets",
+      "grades": [
+        11
+      ],
+      "area": "Set Theory",
+      "description": "Well-defined collection of objects; roster and set-builder notation",
+      "prerequisites": [],
+      "leads_to": [
+        "fundamental-principle-of-counting",
+        "subsets"
+      ]
+    },
+    "shortest-distance-two-lines": {
+      "canonical_name": "Shortest Distance Between Two Lines",
+      "slug": "shortest-distance-two-lines",
+      "grades": [
+        12
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Distance between skew lines and parallel lines",
+      "prerequisites": [
+        "cross-product",
+        "equation-of-line-3d"
+      ],
+      "leads_to": []
+    },
+    "similar-triangles": {
+      "canonical_name": "Similar Triangles",
+      "slug": "similar-triangles",
+      "grades": [
+        7,
+        10
+      ],
+      "area": "Geometry",
+      "description": "AA, SAS, SSS similarity criteria; corresponding sides proportional",
+      "prerequisites": [
+        "ratios-and-proportions",
+        "types-of-triangles"
+      ],
+      "leads_to": [
+        "basic-proportionality-theorem",
+        "mid-point-theorem",
+        "trigonometric-ratios"
+      ]
+    },
+    "simple-equations": {
+      "canonical_name": "Simple Equations in One Variable",
+      "slug": "simple-equations",
+      "grades": [
+        7
+      ],
+      "area": "Algebra",
+      "description": "Solving linear equations of the form ax + b = c",
+      "prerequisites": [
+        "algebraic-expressions"
+      ],
+      "leads_to": [
+        "linear-equations-one-variable",
+        "linear-inequalities"
+      ],
+      "aliases": [
+        "finding the unknown",
+        "solving equations systematically",
+        "balancing an equation",
+        "linear equation"
+      ]
+    },
+    "simple-interest": {
+      "canonical_name": "Simple Interest",
+      "slug": "simple-interest",
+      "grades": [
+        7
+      ],
+      "area": "Proportional Reasoning",
+      "description": "I = PRT/100",
+      "prerequisites": [
+        "ratios-and-proportions"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "interest",
+        "principal and rate",
+        "rate of interest per annum"
+      ]
+    },
+    "simplification-of-algebraic-expressions": {
+      "canonical_name": "Simplification of Algebraic Expressions",
+      "slug": "simplification-of-algebraic-expressions",
+      "grades": [
+        7
+      ],
+      "area": "Algebra",
+      "description": "Collecting like terms; simplifying using properties",
+      "prerequisites": [
+        "terms-coefficients-degree"
+      ],
+      "leads_to": [
+        "algebraic-identities"
+      ]
+    },
+    "slope-of-a-line": {
+      "canonical_name": "Slope of a Line",
+      "slug": "slope-of-a-line",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "m = (y₂−y₁)/(x₂−x₁); angle of inclination",
+      "prerequisites": [
+        "distance-formula",
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "straight-lines"
+      ]
+    },
+    "special-functions": {
+      "canonical_name": "Special Functions and Their Graphs",
+      "slug": "special-functions",
+      "grades": [
+        11
+      ],
+      "area": "Algebra",
+      "description": "Modulus, greatest integer, signum, polynomial, rational functions",
+      "prerequisites": [
+        "exponents-and-powers",
+        "polynomials-in-one-variable",
+        "real-numbers"
+      ],
+      "leads_to": []
+    },
+    "square-numbers": {
+      "canonical_name": "Square Numbers",
+      "slug": "square-numbers",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Perfect squares; properties of square numbers",
+      "prerequisites": [
+        "number-patterns",
+        "prime-factorisation"
+      ],
+      "leads_to": [
+        "cube-numbers",
+        "exponents-and-powers",
+        "square-roots"
+      ]
+    },
+    "square-roots": {
+      "canonical_name": "Square Roots",
+      "slug": "square-roots",
+      "grades": [
+        8
+      ],
+      "area": "Number Theory",
+      "description": "Finding square roots by prime factorisation and long division",
+      "prerequisites": [
+        "square-numbers"
+      ],
+      "leads_to": [
+        "heron-s-formula",
+        "irrational-numbers",
+        "nature-of-roots",
+        "pythagorean-theorem"
+      ]
+    },
+    "straight-lines": {
+      "canonical_name": "Equation of a Straight Line",
+      "slug": "straight-lines",
+      "grades": [
+        11
+      ],
+      "area": "Coordinate Geometry",
+      "description": "Point-slope, slope-intercept, two-point, intercept forms",
+      "prerequisites": [
+        "section-formula",
+        "slope-of-a-line"
+      ],
+      "leads_to": [
+        "distance-point-to-line",
+        "linear-programming"
+      ]
+    },
+    "subsets": {
+      "canonical_name": "Subsets and Power Set",
+      "slug": "subsets",
+      "grades": [
+        11
+      ],
+      "area": "Set Theory",
+      "description": "A ⊆ B; power set P(A); number of subsets = 2ⁿ",
+      "prerequisites": [
+        "sets"
+      ],
+      "leads_to": [
+        "set-operations"
+      ],
+      "aliases": [
+        "power set",
+        "subset of a set",
+        "intervals as subsets of R"
+      ]
+    },
+    "substitution-method": {
+      "canonical_name": "Substitution Method",
+      "slug": "substitution-method",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Solving simultaneous equations by expressing one variable in terms of the other",
+      "prerequisites": [
+        "pair-of-linear-equations"
+      ],
+      "leads_to": [],
+      "source_sections": {
+        "10": [
+          "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
+        ]
+      }
+    },
+    "surds-and-rationalisation": {
+      "canonical_name": "Surds and Rationalisation",
+      "slug": "surds-and-rationalisation",
+      "grades": [
+        9
+      ],
+      "area": "Number Systems",
+      "description": "Simplifying surds; rationalising the denominator",
+      "prerequisites": [
+        "algebraic-identities",
+        "irrational-numbers"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "rationalising the denominator",
+        "irrational numbers",
+        "operations on real numbers",
+        "square root of 2"
+      ]
+    },
+    "surface-area-cone": {
+      "canonical_name": "Surface Area of Cone",
+      "slug": "surface-area-cone",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "CSA = πrl; TSA = πr(r+l)",
+      "prerequisites": [
+        "area-of-circle",
+        "pythagorean-theorem"
+      ],
+      "leads_to": [
+        "surface-area-volume-combinations",
+        "volume-cone"
+      ],
+      "source_sections": {
+        "9": [
+          "11.1 Surface Area of a Right Circular Cone"
+        ]
+      }
+    },
+    "surface-area-sphere": {
+      "canonical_name": "Surface Area of Sphere",
+      "slug": "surface-area-sphere",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "SA = 4πr²",
+      "prerequisites": [
+        "area-of-circle"
+      ],
+      "leads_to": [
+        "surface-area-volume-combinations",
+        "volume-sphere"
+      ],
+      "source_sections": {
+        "9": [
+          "11.2 Surface Area of a Sphere"
+        ]
+      }
+    },
+    "surface-area-volume-combinations": {
+      "canonical_name": "Surface Area and Volume of Combined Solids",
+      "slug": "surface-area-volume-combinations",
+      "grades": [
+        10
+      ],
+      "area": "Mensuration",
+      "description": "Frustum; combined shapes; conversion of solids",
+      "prerequisites": [
+        "surface-area-cone",
+        "surface-area-sphere",
+        "volume-cone",
+        "volume-sphere"
+      ],
+      "leads_to": []
+    },
+    "tangent-properties": {
+      "canonical_name": "Properties of Tangents from External Point",
+      "slug": "tangent-properties",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "Two tangents from an external point are equal in length",
+      "prerequisites": [
+        "tangent-to-a-circle"
+      ],
+      "leads_to": []
+    },
+    "tangent-to-a-circle": {
+      "canonical_name": "Tangent to a Circle",
+      "slug": "tangent-to-a-circle",
+      "grades": [
+        10
+      ],
+      "area": "Geometry",
+      "description": "Tangent is perpendicular to radius at point of contact",
+      "prerequisites": [
+        "circle-theorems",
+        "pythagorean-theorem"
+      ],
+      "leads_to": [
+        "tangent-properties"
+      ]
+    },
+    "tax-and-vat": {
+      "canonical_name": "Tax, VAT and GST",
+      "slug": "tax-and-vat",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Computing tax amounts; GST structure",
+      "prerequisites": [
+        "percentage-change"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "GST",
+        "sales tax",
+        "using percentages",
+        "profit and loss"
+      ]
+    },
+    "terms-coefficients-degree": {
+      "canonical_name": "Terms, Coefficients and Degree",
+      "slug": "terms-coefficients-degree",
+      "grades": [
+        7
+      ],
+      "area": "Algebra",
+      "description": "Identifying terms, numerical coefficients, and degree of an expression",
+      "prerequisites": [
+        "algebraic-expressions"
+      ],
+      "leads_to": [
+        "polynomials-in-one-variable",
+        "simplification-of-algebraic-expressions"
+      ]
+    },
+    "theoretical-probability": {
+      "canonical_name": "Theoretical Probability",
+      "slug": "theoretical-probability",
+      "grades": [
+        10
+      ],
+      "area": "Probability",
+      "description": "P(E) = favourable outcomes / total outcomes",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": [
+        "sample-space-events"
+      ]
+    },
+    "total-probability-theorem": {
+      "canonical_name": "Theorem of Total Probability",
+      "slug": "total-probability-theorem",
+      "grades": [
+        12
+      ],
+      "area": "Probability",
+      "description": "P(A) = ΣP(Bᵢ)P(A|Bᵢ) over a partition",
+      "prerequisites": [
+        "conditional-probability"
+      ],
+      "leads_to": [
+        "bayes-theorem"
+      ]
+    },
+    "trigonometric-addition-formulas": {
+      "canonical_name": "Sum and Difference Formulas",
+      "slug": "trigonometric-addition-formulas",
+      "grades": [
+        11
+      ],
+      "area": "Trigonometry",
+      "description": "sin(A±B), cos(A±B), tan(A±B)",
+      "prerequisites": [
+        "trigonometric-functions"
+      ],
+      "leads_to": []
+    },
+    "trigonometric-functions": {
+      "canonical_name": "Trigonometric Functions",
+      "slug": "trigonometric-functions",
+      "grades": [
+        11
+      ],
+      "area": "Trigonometry",
+      "description": "Domain, range, period and graphs of sin, cos, tan etc.",
+      "prerequisites": [
+        "functions",
+        "radian-measure",
+        "trigonometric-identities"
+      ],
+      "leads_to": [
+        "dot-product",
+        "integration-indefinite",
+        "inverse-trigonometric-functions",
+        "trigonometric-addition-formulas"
+      ]
+    },
+    "trigonometric-identities": {
+      "canonical_name": "Trigonometric Identities",
+      "slug": "trigonometric-identities",
+      "grades": [
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "sin²θ+cos²θ=1; 1+tan²θ=sec²θ; 1+cot²θ=cosec²θ",
+      "prerequisites": [
+        "algebraic-identities",
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "heights-and-distances",
+        "trigonometric-functions"
+      ]
+    },
+    "trigonometric-ratios": {
+      "canonical_name": "Trigonometric Ratios",
+      "slug": "trigonometric-ratios",
+      "grades": [
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "sin, cos, tan, cosec, sec, cot in a right triangle",
+      "prerequisites": [
+        "pythagorean-theorem",
+        "ratios-and-proportions",
+        "similar-triangles"
+      ],
+      "leads_to": [
+        "area-of-sector-and-segment",
+        "direction-cosines-ratios",
+        "modulus-and-argument",
+        "slope-of-a-line",
+        "trigonometric-identities",
+        "trigonometric-ratios-specific-angles",
+        "vectors"
+      ]
+    },
+    "trigonometric-ratios-specific-angles": {
+      "canonical_name": "Trigonometric Ratios of Standard Angles",
+      "slug": "trigonometric-ratios-specific-angles",
+      "grades": [
+        10
+      ],
+      "area": "Trigonometry",
+      "description": "Values at 0°, 30°, 45°, 60°, 90°",
+      "prerequisites": [
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "heights-and-distances"
+      ]
+    },
+    "types-of-angles": {
+      "canonical_name": "Types of Angles and Angle Pairs",
+      "slug": "types-of-angles",
+      "grades": [
+        6
+      ],
+      "area": "Geometry",
+      "description": "Acute, right, obtuse, straight, reflex; complementary and supplementary",
+      "prerequisites": [
+        "measuring-angles"
+      ],
+      "leads_to": [
+        "angle-sum-property-triangle",
+        "parallel-lines-and-transversals",
+        "quadrilaterals"
+      ]
+    },
+    "types-of-fractions": {
+      "canonical_name": "Types of Fractions",
+      "slug": "types-of-fractions",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Proper, improper and mixed fractions; unit fractions",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": []
+    },
+    "types-of-functions": {
+      "canonical_name": "Types of Functions",
+      "slug": "types-of-functions",
+      "grades": [
+        12
+      ],
+      "area": "Algebra",
+      "description": "One-one, onto, bijective, constant, identity functions",
+      "prerequisites": [
+        "functions"
+      ],
+      "leads_to": [
+        "inverse-trigonometric-functions"
+      ],
+      "source_sections": {
+        "12": [
+          "1.3 Types of Functions"
+        ]
+      }
+    },
+    "types-of-matrices": {
+      "canonical_name": "Types of Matrices",
+      "slug": "types-of-matrices",
+      "grades": [
+        12
+      ],
+      "area": "Linear Algebra",
+      "description": "Row, column, square, diagonal, scalar, identity, zero matrices",
+      "prerequisites": [
+        "matrices"
+      ],
+      "leads_to": [
+        "matrix-operations"
+      ]
+    },
+    "types-of-relations": {
+      "canonical_name": "Types of Relations",
+      "slug": "types-of-relations",
+      "grades": [
+        12
+      ],
+      "area": "Set Theory",
+      "description": "Reflexive, symmetric, transitive, equivalence relations",
+      "prerequisites": [
+        "relations"
+      ],
+      "leads_to": []
+    },
+    "types-of-triangles": {
+      "canonical_name": "Types of Triangles",
+      "slug": "types-of-triangles",
+      "grades": [
+        7
+      ],
+      "area": "Geometry",
+      "description": "Classification by sides (scalene, isosceles, equilateral) and angles",
+      "prerequisites": [
+        "angles"
+      ],
+      "leads_to": [
+        "angle-sum-property-triangle",
+        "area-of-triangles",
+        "similar-triangles"
+      ]
+    },
+    "types-of-vectors": {
+      "canonical_name": "Types of Vectors",
+      "slug": "types-of-vectors",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "Zero, unit, equal, negative, collinear, coplanar vectors",
+      "prerequisites": [
+        "vectors"
+      ],
+      "leads_to": [
+        "vector-addition"
+      ]
+    },
+    "unitary-method-and-direct-proportion": {
+      "canonical_name": "Unitary Method and Direct Proportion",
+      "slug": "unitary-method-and-direct-proportion",
+      "grades": [
+        8
+      ],
+      "area": "Proportional Reasoning",
+      "description": "Finding value of one unit; y = kx",
+      "prerequisites": [
+        "ratios-and-proportions"
+      ],
+      "leads_to": [
+        "direct-and-inverse-variation",
+        "inverse-proportion"
+      ],
+      "aliases": [
+        "unitary method",
+        "cost of one unit",
+        "direct proportion"
+      ]
+    },
+    "variable-separable": {
+      "canonical_name": "Variable Separable Method",
+      "slug": "variable-separable",
+      "grades": [
+        12
+      ],
+      "area": "Calculus",
+      "description": "Separating variables and integrating both sides",
+      "prerequisites": [
+        "differential-equations-intro"
+      ],
+      "leads_to": [
+        "linear-differential-equations"
+      ],
+      "aliases": [
+        "separation of variables",
+        "variables separable",
+        "differential equation"
+      ]
+    },
+    "variance-and-standard-deviation": {
+      "canonical_name": "Variance and Standard Deviation",
+      "slug": "variance-and-standard-deviation",
+      "grades": [
+        11
+      ],
+      "area": "Statistics",
+      "description": "σ² = Σ(xᵢ−x̄)²/n; shortcut formula; for frequency distributions",
+      "prerequisites": [
+        "measures-of-dispersion"
+      ],
+      "leads_to": []
+    },
+    "vector-addition": {
+      "canonical_name": "Addition of Vectors",
+      "slug": "vector-addition",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "Triangle and parallelogram laws; properties",
+      "prerequisites": [
+        "types-of-vectors"
+      ],
+      "leads_to": [
+        "dot-product"
+      ]
+    },
+    "vectors": {
+      "canonical_name": "Vectors — Introduction",
+      "slug": "vectors",
+      "grades": [
+        12
+      ],
+      "area": "Vectors",
+      "description": "Directed line segment; magnitude and direction; position vectors",
+      "prerequisites": [
+        "introduction-3d-geometry",
+        "trigonometric-ratios"
+      ],
+      "leads_to": [
+        "equation-of-line-3d",
+        "types-of-vectors"
+      ],
+      "source_sections": {
+        "12": [
+          "10.1 Introduction",
+          "10.2 Some Basic Concepts"
+        ]
+      }
+    },
+    "visualising-3d-shapes": {
+      "canonical_name": "Visualising 3D Shapes",
+      "slug": "visualising-3d-shapes",
+      "grades": [
+        8
+      ],
+      "area": "Mensuration",
+      "description": "Faces, edges, vertices of polyhedra; Euler's formula F+V−E=2",
+      "prerequisites": [
+        "quadrilaterals"
+      ],
+      "leads_to": [
+        "volume-cone"
+      ],
+      "aliases": [
+        "visualising solids",
+        "faces edges and vertices",
+        "Euler's formula",
+        "nets of solids"
+      ]
+    },
+    "volume-cone": {
+      "canonical_name": "Volume of Cone",
+      "slug": "volume-cone",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "V = ⅓πr²h",
+      "prerequisites": [
+        "surface-area-cone",
+        "visualising-3d-shapes"
+      ],
+      "leads_to": [
+        "surface-area-volume-combinations",
+        "volume-sphere"
+      ]
+    },
+    "volume-sphere": {
+      "canonical_name": "Volume of Sphere",
+      "slug": "volume-sphere",
+      "grades": [
+        9
+      ],
+      "area": "Mensuration",
+      "description": "V = (4/3)πr³",
+      "prerequisites": [
+        "surface-area-sphere",
+        "volume-cone"
+      ],
+      "leads_to": [
+        "surface-area-volume-combinations"
+      ]
+    },
+    "whole-numbers": {
+      "canonical_name": "Whole Numbers",
+      "slug": "whole-numbers",
+      "grades": [
+        6
+      ],
+      "area": "Number Systems",
+      "description": "Natural numbers together with zero: 0, 1, 2, 3, …",
+      "prerequisites": [
+        "natural-numbers"
+      ],
+      "leads_to": [
+        "estimation",
+        "even-and-odd-numbers",
+        "factors-and-multiples",
+        "fractions",
+        "integers",
+        "number-line",
+        "number-patterns",
+        "perimeter",
+        "place-value"
+      ],
+      "aliases": [
+        "natural numbers and zero",
+        "counting numbers",
+        "successor and predecessor"
+      ]
+    },
+    "zeroes-coefficients-relationship": {
+      "canonical_name": "Relationship Between Zeroes and Coefficients",
+      "slug": "zeroes-coefficients-relationship",
+      "grades": [
+        10
+      ],
+      "area": "Algebra",
+      "description": "Sum and product of zeroes related to coefficients (Vieta's formulas for quadratics/cubics)",
+      "prerequisites": [
+        "zeroes-of-a-polynomial"
+      ],
+      "leads_to": []
+    },
+    "zeroes-of-a-polynomial": {
+      "canonical_name": "Zeroes of a Polynomial",
+      "slug": "zeroes-of-a-polynomial",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Algebra",
+      "description": "Values of x for which p(x) = 0",
+      "prerequisites": [
+        "factor-theorem",
+        "polynomials-in-one-variable"
+      ],
+      "leads_to": [
+        "zeroes-coefficients-relationship"
+      ],
+      "source_sections": {
+        "10": [
+          "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
+        ]
+      }
+    }
+  },
+  "edges": [
+    {
+      "from": "comparing-fractions",
+      "to": "addition-subtraction-of-fractions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "determinants",
+      "to": "adjoint-and-inverse-matrix",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integer-operations",
+      "to": "algebraic-expressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "simplification-of-algebraic-expressions",
+      "to": "algebraic-identities",
+      "type": "prerequisite"
+    },
+    {
+      "from": "dot-product",
+      "to": "angle-between-lines-3d",
+      "type": "prerequisite"
+    },
+    {
+      "from": "equation-of-line-3d",
+      "to": "angle-between-lines-3d",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-angles",
+      "to": "angle-sum-property-triangle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-triangles",
+      "to": "angle-sum-property-triangle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "basic-geometrical-concepts",
+      "to": "angles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "arithmetic-progressions",
+      "to": "ap-nth-term",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ap-nth-term",
+      "to": "ap-sum-of-n-terms",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circle-theorems",
+      "to": "arc-chord-properties",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-rectangle-square",
+      "to": "area",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circumference-of-circle",
+      "to": "area-of-circle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-of-triangles",
+      "to": "area-of-parallelogram",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-of-circle",
+      "to": "area-of-sector-and-segment",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-ratios",
+      "to": "area-of-sector-and-segment",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-of-parallelogram",
+      "to": "area-of-trapezium",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area",
+      "to": "area-of-triangles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-triangles",
+      "to": "area-of-triangles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perimeter",
+      "to": "area-rectangle-square",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conic-sections",
+      "to": "area-under-curves",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fundamental-theorem-of-calculus",
+      "to": "area-under-curves",
+      "type": "prerequisite"
+    },
+    {
+      "from": "determinants",
+      "to": "area-using-determinants",
+      "type": "prerequisite"
+    },
+    {
+      "from": "section-formula",
+      "to": "area-using-determinants",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cartesian-coordinate-system",
+      "to": "argand-plane",
+      "type": "prerequisite"
+    },
+    {
+      "from": "modulus-and-argument",
+      "to": "argand-plane",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-expressions",
+      "to": "arithmetic-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-patterns",
+      "to": "arithmetic-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sample-space-events",
+      "to": "axiomatic-probability",
+      "type": "prerequisite"
+    },
+    {
+      "from": "data-collection-and-organisation",
+      "to": "bar-graphs-and-pictographs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "bar-graphs-and-pictographs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angles",
+      "to": "basic-constructions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "basic-geometrical-concepts",
+      "to": "basic-constructions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "similar-triangles",
+      "to": "basic-proportionality-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "total-probability-theorem",
+      "to": "bayes-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-identities",
+      "to": "binomial-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "combinations",
+      "to": "binomial-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "exponents-and-powers",
+      "to": "binomial-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integer-operations",
+      "to": "cartesian-coordinate-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-line",
+      "to": "cartesian-coordinate-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "real-numbers",
+      "to": "cartesian-coordinate-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "set-operations",
+      "to": "cartesian-product-of-sets",
+      "type": "prerequisite"
+    },
+    {
+      "from": "continuity-of-functions",
+      "to": "chain-rule",
+      "type": "prerequisite"
+    },
+    {
+      "from": "derivatives-rules-basic",
+      "to": "chain-rule",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distance-formula",
+      "to": "circle-equation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "congruence-of-triangles",
+      "to": "circle-theorems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "decimals",
+      "to": "circumference-of-circle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ratios-and-proportions",
+      "to": "circumference-of-circle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "permutations",
+      "to": "combinations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "equivalent-fractions",
+      "to": "comparing-fractions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "quadratic-equations",
+      "to": "complex-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "real-numbers",
+      "to": "complex-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "prime-numbers",
+      "to": "composite-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "axiomatic-probability",
+      "to": "conditional-probability",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-triangles",
+      "to": "congruence-of-triangles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circle-equation",
+      "to": "conic-sections",
+      "type": "prerequisite"
+    },
+    {
+      "from": "functions",
+      "to": "continuity-of-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "limits-algebra",
+      "to": "continuity-of-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pythagorean-theorem",
+      "to": "converse-of-pythagorean-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "decimals",
+      "to": "conversion-fractions-decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "conversion-fractions-decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "prime-numbers",
+      "to": "coprime-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "dot-product",
+      "to": "cross-product",
+      "type": "prerequisite"
+    },
+    {
+      "from": "square-numbers",
+      "to": "cube-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cube-numbers",
+      "to": "cube-roots",
+      "type": "prerequisite"
+    },
+    {
+      "from": "prime-factorisation",
+      "to": "cube-roots",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circle-theorems",
+      "to": "cyclic-quadrilaterals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "quadrilaterals",
+      "to": "cyclic-quadrilaterals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "bar-graphs-and-pictographs",
+      "to": "data-representation-grouped",
+      "type": "prerequisite"
+    },
+    {
+      "from": "frequency-distribution",
+      "to": "data-representation-grouped",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conversion-fractions-decimals",
+      "to": "decimal-expansions-of-real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "real-numbers",
+      "to": "decimal-expansions-of-real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "decimals",
+      "to": "decimal-operations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integer-operations",
+      "to": "decimal-operations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "place-value",
+      "to": "decimals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integration-indefinite",
+      "to": "definite-integrals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "limits-algebra",
+      "to": "derivatives-first-principles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "derivatives-first-principles",
+      "to": "derivatives-rules-basic",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matrix-operations",
+      "to": "determinants",
+      "type": "prerequisite"
+    },
+    {
+      "from": "derivatives-rules-basic",
+      "to": "differential-equations-intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integration-indefinite",
+      "to": "differential-equations-intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "inverse-proportion",
+      "to": "direct-and-inverse-variation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "unitary-method-and-direct-proportion",
+      "to": "direct-and-inverse-variation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "introduction-3d-geometry",
+      "to": "direction-cosines-ratios",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-ratios",
+      "to": "direction-cosines-ratios",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cartesian-coordinate-system",
+      "to": "distance-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pythagorean-theorem",
+      "to": "distance-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "straight-lines",
+      "to": "distance-point-to-line",
+      "type": "prerequisite"
+    },
+    {
+      "from": "factors-and-multiples",
+      "to": "divisibility-rules",
+      "type": "prerequisite"
+    },
+    {
+      "from": "factorisation-expressions",
+      "to": "division-of-polynomials",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-functions",
+      "to": "dot-product",
+      "type": "prerequisite"
+    },
+    {
+      "from": "vector-addition",
+      "to": "dot-product",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pair-of-linear-equations",
+      "to": "elimination-method",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conic-sections",
+      "to": "ellipse",
+      "type": "prerequisite"
+    },
+    {
+      "from": "direction-cosines-ratios",
+      "to": "equation-of-line-3d",
+      "type": "prerequisite"
+    },
+    {
+      "from": "vectors",
+      "to": "equation-of-line-3d",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "equivalent-fractions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "place-value",
+      "to": "estimation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "whole-numbers",
+      "to": "estimation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "basic-geometrical-concepts",
+      "to": "euclid-definitions-axioms-postulates",
+      "type": "prerequisite"
+    },
+    {
+      "from": "whole-numbers",
+      "to": "even-and-odd-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "continuity-of-functions",
+      "to": "exponential-and-log-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "exponents-and-powers",
+      "to": "exponential-and-log-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rational-numbers",
+      "to": "exponents-and-powers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "square-numbers",
+      "to": "exponents-and-powers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "division-of-polynomials",
+      "to": "factor-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "polynomials-in-one-variable",
+      "to": "factor-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-identities",
+      "to": "factorisation-expressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-identities",
+      "to": "factorisation-of-polynomials",
+      "type": "prerequisite"
+    },
+    {
+      "from": "factor-theorem",
+      "to": "factorisation-of-polynomials",
+      "type": "prerequisite"
+    },
+    {
+      "from": "whole-numbers",
+      "to": "factors-and-multiples",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-patterns",
+      "to": "fibonacci-virahanka-sequence",
+      "type": "prerequisite"
+    },
+    {
+      "from": "whole-numbers",
+      "to": "fractions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "data-collection-and-organisation",
+      "to": "frequency-distribution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relations",
+      "to": "functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sets",
+      "to": "fundamental-principle-of-counting",
+      "type": "prerequisite"
+    },
+    {
+      "from": "lcm-and-gcd",
+      "to": "fundamental-theorem-of-arithmetic",
+      "type": "prerequisite"
+    },
+    {
+      "from": "prime-factorisation",
+      "to": "fundamental-theorem-of-arithmetic",
+      "type": "prerequisite"
+    },
+    {
+      "from": "continuity-of-functions",
+      "to": "fundamental-theorem-of-calculus",
+      "type": "prerequisite"
+    },
+    {
+      "from": "definite-integrals",
+      "to": "fundamental-theorem-of-calculus",
+      "type": "prerequisite"
+    },
+    {
+      "from": "arithmetic-progressions",
+      "to": "geometric-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "exponents-and-powers",
+      "to": "geometric-progressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-identities",
+      "to": "heights-and-distances",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-ratios-specific-angles",
+      "to": "heights-and-distances",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-of-triangles",
+      "to": "heron-s-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "square-roots",
+      "to": "heron-s-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conic-sections",
+      "to": "hyperbola",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ellipse",
+      "to": "hyperbola",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chain-rule",
+      "to": "implicit-differentiation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "derivatives-rules-basic",
+      "to": "increasing-decreasing-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conditional-probability",
+      "to": "independent-events",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integers",
+      "to": "integer-operations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-line",
+      "to": "integers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "whole-numbers",
+      "to": "integers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "factorisation-of-polynomials",
+      "to": "integration-by-partial-fractions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integration-indefinite",
+      "to": "integration-by-partial-fractions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chain-rule",
+      "to": "integration-by-parts",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integration-indefinite",
+      "to": "integration-by-parts",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chain-rule",
+      "to": "integration-by-substitution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integration-indefinite",
+      "to": "integration-by-substitution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "derivatives-rules-basic",
+      "to": "integration-indefinite",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-functions",
+      "to": "integration-indefinite",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cartesian-coordinate-system",
+      "to": "introduction-3d-geometry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distance-formula",
+      "to": "introduction-3d-geometry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "unitary-method-and-direct-proportion",
+      "to": "inverse-proportion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-functions",
+      "to": "inverse-trigonometric-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-functions",
+      "to": "inverse-trigonometric-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rational-numbers",
+      "to": "irrational-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "square-roots",
+      "to": "irrational-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "quadrilaterals",
+      "to": "kite-and-trapezium",
+      "type": "prerequisite"
+    },
+    {
+      "from": "exponents-and-powers",
+      "to": "laws-of-exponents-real",
+      "type": "prerequisite"
+    },
+    {
+      "from": "negative-and-zero-exponents",
+      "to": "laws-of-exponents-real",
+      "type": "prerequisite"
+    },
+    {
+      "from": "real-numbers",
+      "to": "laws-of-exponents-real",
+      "type": "prerequisite"
+    },
+    {
+      "from": "prime-factorisation",
+      "to": "lcm-and-gcd",
+      "type": "prerequisite"
+    },
+    {
+      "from": "limits-intuitive",
+      "to": "limits-algebra",
+      "type": "prerequisite"
+    },
+    {
+      "from": "functions",
+      "to": "limits-intuitive",
+      "type": "prerequisite"
+    },
+    {
+      "from": "real-numbers",
+      "to": "limits-intuitive",
+      "type": "prerequisite"
+    },
+    {
+      "from": "basic-geometrical-concepts",
+      "to": "line-of-symmetry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "variable-separable",
+      "to": "linear-differential-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "simple-equations",
+      "to": "linear-equations-one-variable",
+      "type": "prerequisite"
+    },
+    {
+      "from": "linear-equations-one-variable",
+      "to": "linear-equations-two-variables",
+      "type": "prerequisite"
+    },
+    {
+      "from": "real-numbers",
+      "to": "linear-inequalities",
+      "type": "prerequisite"
+    },
+    {
+      "from": "simple-equations",
+      "to": "linear-inequalities",
+      "type": "prerequisite"
+    },
+    {
+      "from": "linear-inequalities",
+      "to": "linear-programming",
+      "type": "prerequisite"
+    },
+    {
+      "from": "straight-lines",
+      "to": "linear-programming",
+      "type": "prerequisite"
+    },
+    {
+      "from": "euclid-definitions-axioms-postulates",
+      "to": "lines-angles-theorems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "parallel-lines-and-transversals",
+      "to": "lines-angles-theorems",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pair-of-linear-equations",
+      "to": "matrices",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-matrices",
+      "to": "matrix-operations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "increasing-decreasing-functions",
+      "to": "maxima-and-minima",
+      "type": "prerequisite"
+    },
+    {
+      "from": "second-order-derivative",
+      "to": "maxima-and-minima",
+      "type": "prerequisite"
+    },
+    {
+      "from": "data-collection-and-organisation",
+      "to": "mean-median-mode",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "mean-median-mode",
+      "type": "prerequisite"
+    },
+    {
+      "from": "data-representation-grouped",
+      "to": "mean-of-grouped-data",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mean-median-mode",
+      "to": "mean-of-grouped-data",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mean-of-grouped-data",
+      "to": "measures-of-dispersion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angles",
+      "to": "measuring-angles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mean-of-grouped-data",
+      "to": "median-of-grouped-data",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-parallelogram",
+      "to": "mid-point-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "similar-triangles",
+      "to": "mid-point-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mean-of-grouped-data",
+      "to": "mode-of-grouped-data",
+      "type": "prerequisite"
+    },
+    {
+      "from": "divisibility-rules",
+      "to": "modular-arithmetic",
+      "type": "prerequisite"
+    },
+    {
+      "from": "lcm-and-gcd",
+      "to": "modular-arithmetic",
+      "type": "prerequisite"
+    },
+    {
+      "from": "complex-numbers",
+      "to": "modulus-and-argument",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-ratios",
+      "to": "modulus-and-argument",
+      "type": "prerequisite"
+    },
+    {
+      "from": "quadratic-equations",
+      "to": "nature-of-roots",
+      "type": "prerequisite"
+    },
+    {
+      "from": "square-roots",
+      "to": "nature-of-roots",
+      "type": "prerequisite"
+    },
+    {
+      "from": "exponents-and-powers",
+      "to": "negative-and-zero-exponents",
+      "type": "prerequisite"
+    },
+    {
+      "from": "whole-numbers",
+      "to": "number-line",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-line",
+      "to": "number-line-rational",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rational-numbers",
+      "to": "number-line-rational",
+      "type": "prerequisite"
+    },
+    {
+      "from": "whole-numbers",
+      "to": "number-patterns",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cartesian-coordinate-system",
+      "to": "pair-of-linear-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "linear-equations-two-variables",
+      "to": "pair-of-linear-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-patterns",
+      "to": "palindromic-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "place-value",
+      "to": "palindromic-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conic-sections",
+      "to": "parabola",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angles",
+      "to": "parallel-lines-and-transversals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-angles",
+      "to": "parallel-lines-and-transversals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "decimals",
+      "to": "percentage",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "percentage",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ratios-and-proportions",
+      "to": "percentage",
+      "type": "prerequisite"
+    },
+    {
+      "from": "percentage",
+      "to": "percentage-change",
+      "type": "prerequisite"
+    },
+    {
+      "from": "basic-geometrical-concepts",
+      "to": "perimeter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "whole-numbers",
+      "to": "perimeter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fundamental-principle-of-counting",
+      "to": "permutations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-numbers",
+      "to": "permutations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "basic-constructions",
+      "to": "perpendicular-bisector",
+      "type": "prerequisite"
+    },
+    {
+      "from": "whole-numbers",
+      "to": "place-value",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-expressions",
+      "to": "polynomials-in-one-variable",
+      "type": "prerequisite"
+    },
+    {
+      "from": "terms-coefficients-degree",
+      "to": "polynomials-in-one-variable",
+      "type": "prerequisite"
+    },
+    {
+      "from": "divisibility-rules",
+      "to": "prime-factorisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "prime-numbers",
+      "to": "prime-factorisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "factors-and-multiples",
+      "to": "prime-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "percentage",
+      "to": "profit-loss-percentage",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fundamental-theorem-of-arithmetic",
+      "to": "proof-irrationality",
+      "type": "prerequisite"
+    },
+    {
+      "from": "irrational-numbers",
+      "to": "proof-irrationality",
+      "type": "prerequisite"
+    },
+    {
+      "from": "congruence-of-triangles",
+      "to": "properties-of-parallelogram",
+      "type": "prerequisite"
+    },
+    {
+      "from": "quadrilaterals",
+      "to": "properties-of-parallelogram",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-parallelogram",
+      "to": "properties-of-rhombus-rectangle-square",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle-sum-property-triangle",
+      "to": "properties-of-triangles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "parallel-lines-and-transversals",
+      "to": "properties-of-triangles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-of-triangles",
+      "to": "pythagorean-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "square-roots",
+      "to": "pythagorean-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pythagorean-theorem",
+      "to": "pythagorean-triples",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-identities",
+      "to": "quadratic-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "factorisation-of-polynomials",
+      "to": "quadratic-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angle-sum-property-triangle",
+      "to": "quadrilaterals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-angles",
+      "to": "quadrilaterals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circumference-of-circle",
+      "to": "radian-measure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measuring-angles",
+      "to": "radian-measure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mean-median-mode",
+      "to": "range",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integer-operations",
+      "to": "rational-number-operations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rational-numbers",
+      "to": "rational-number-operations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "decimals",
+      "to": "rational-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "rational-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "integers",
+      "to": "rational-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "ratios-and-proportions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "irrational-numbers",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rational-numbers",
+      "to": "real-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cartesian-product-of-sets",
+      "to": "relations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cartesian-coordinate-system",
+      "to": "representing-linear-equations-graphically",
+      "type": "prerequisite"
+    },
+    {
+      "from": "linear-equations-two-variables",
+      "to": "representing-linear-equations-graphically",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angles",
+      "to": "rotational-symmetry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "line-of-symmetry",
+      "to": "rotational-symmetry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "set-operations",
+      "to": "sample-space-events",
+      "type": "prerequisite"
+    },
+    {
+      "from": "theoretical-probability",
+      "to": "sample-space-events",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chain-rule",
+      "to": "second-order-derivative",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distance-formula",
+      "to": "section-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ratios-and-proportions",
+      "to": "section-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "functions",
+      "to": "sequences-introduction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-numbers",
+      "to": "sequences-introduction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sequences-introduction",
+      "to": "series-introduction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "subsets",
+      "to": "set-operations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cross-product",
+      "to": "shortest-distance-two-lines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "equation-of-line-3d",
+      "to": "shortest-distance-two-lines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ratios-and-proportions",
+      "to": "similar-triangles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-triangles",
+      "to": "similar-triangles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-expressions",
+      "to": "simple-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ratios-and-proportions",
+      "to": "simple-interest",
+      "type": "prerequisite"
+    },
+    {
+      "from": "terms-coefficients-degree",
+      "to": "simplification-of-algebraic-expressions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distance-formula",
+      "to": "slope-of-a-line",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-ratios",
+      "to": "slope-of-a-line",
+      "type": "prerequisite"
+    },
+    {
+      "from": "exponents-and-powers",
+      "to": "special-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "polynomials-in-one-variable",
+      "to": "special-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "real-numbers",
+      "to": "special-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "number-patterns",
+      "to": "square-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "prime-factorisation",
+      "to": "square-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "square-numbers",
+      "to": "square-roots",
+      "type": "prerequisite"
+    },
+    {
+      "from": "section-formula",
+      "to": "straight-lines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "slope-of-a-line",
+      "to": "straight-lines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sets",
+      "to": "subsets",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pair-of-linear-equations",
+      "to": "substitution-method",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-identities",
+      "to": "surds-and-rationalisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "irrational-numbers",
+      "to": "surds-and-rationalisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-of-circle",
+      "to": "surface-area-cone",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pythagorean-theorem",
+      "to": "surface-area-cone",
+      "type": "prerequisite"
+    },
+    {
+      "from": "area-of-circle",
+      "to": "surface-area-sphere",
+      "type": "prerequisite"
+    },
+    {
+      "from": "surface-area-cone",
+      "to": "surface-area-volume-combinations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "surface-area-sphere",
+      "to": "surface-area-volume-combinations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "volume-cone",
+      "to": "surface-area-volume-combinations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "volume-sphere",
+      "to": "surface-area-volume-combinations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "tangent-to-a-circle",
+      "to": "tangent-properties",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circle-theorems",
+      "to": "tangent-to-a-circle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pythagorean-theorem",
+      "to": "tangent-to-a-circle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "percentage-change",
+      "to": "tax-and-vat",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-expressions",
+      "to": "terms-coefficients-degree",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "theoretical-probability",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conditional-probability",
+      "to": "total-probability-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-functions",
+      "to": "trigonometric-addition-formulas",
+      "type": "prerequisite"
+    },
+    {
+      "from": "functions",
+      "to": "trigonometric-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "radian-measure",
+      "to": "trigonometric-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-identities",
+      "to": "trigonometric-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "algebraic-identities",
+      "to": "trigonometric-identities",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-ratios",
+      "to": "trigonometric-identities",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pythagorean-theorem",
+      "to": "trigonometric-ratios",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ratios-and-proportions",
+      "to": "trigonometric-ratios",
+      "type": "prerequisite"
+    },
+    {
+      "from": "similar-triangles",
+      "to": "trigonometric-ratios",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-ratios",
+      "to": "trigonometric-ratios-specific-angles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measuring-angles",
+      "to": "types-of-angles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fractions",
+      "to": "types-of-fractions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "functions",
+      "to": "types-of-functions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "matrices",
+      "to": "types-of-matrices",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relations",
+      "to": "types-of-relations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "angles",
+      "to": "types-of-triangles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "vectors",
+      "to": "types-of-vectors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ratios-and-proportions",
+      "to": "unitary-method-and-direct-proportion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "differential-equations-intro",
+      "to": "variable-separable",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measures-of-dispersion",
+      "to": "variance-and-standard-deviation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-vectors",
+      "to": "vector-addition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "introduction-3d-geometry",
+      "to": "vectors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "trigonometric-ratios",
+      "to": "vectors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "quadrilaterals",
+      "to": "visualising-3d-shapes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "surface-area-cone",
+      "to": "volume-cone",
+      "type": "prerequisite"
+    },
+    {
+      "from": "visualising-3d-shapes",
+      "to": "volume-cone",
+      "type": "prerequisite"
+    },
+    {
+      "from": "surface-area-sphere",
+      "to": "volume-sphere",
+      "type": "prerequisite"
+    },
+    {
+      "from": "volume-cone",
+      "to": "volume-sphere",
+      "type": "prerequisite"
+    },
+    {
+      "from": "natural-numbers",
+      "to": "whole-numbers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "zeroes-of-a-polynomial",
+      "to": "zeroes-coefficients-relationship",
+      "type": "prerequisite"
+    },
+    {
+      "from": "factor-theorem",
+      "to": "zeroes-of-a-polynomial",
+      "type": "prerequisite"
+    },
+    {
+      "from": "polynomials-in-one-variable",
+      "to": "zeroes-of-a-polynomial",
+      "type": "prerequisite"
+    }
+  ]
+}

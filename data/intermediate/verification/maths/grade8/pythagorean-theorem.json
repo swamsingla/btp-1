@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- 3² + 4² = 9 + 16 = 25, and √25 = 5, so the hypotenuse is 5 cm (correct).",
+    "tokens": 1806,
+    "said": "VERDICT: ok\n- 3² + 4² = 9 + 16 = 25, and √25 = 5, so the hypotenuse is 5 cm (correct).\n- The lotus stem equation: 3² + x² = (x + 1)² → 9 + x² = x² + 2x + 1 → 9 = 2x + 1 → 2x = 8 → x = 4, so depth is 4 units (correct).\n- The worked example: a² + 36 = 100 → a² = 64 → a = 8, so missing side is 8 cm (correct).\n- The isosceles right triangle with legs 1: hypotenuse = √2, which is irrational and non-repeating (correct).\n- The page states the theorem connects areas of squares drawn on the sides, and the example with squares of side 3 and 4 gives area 25 for the square on the hypotenuse (consistent with a² + b² = c²).\n- The key points section lists five bullet points; no count is claimed, so no check needed.\n- No internal contradictions found between sections."
+  }
+]

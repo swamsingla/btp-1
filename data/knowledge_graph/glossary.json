@@ -1,0 +1,1249 @@
+{
+  "_comment": "English technical term -> the agreed rendering in each language. Pinned so the same term reads the same on every page: pages are localised one at a time, and without this the Odia pages called refraction ରିଫ୍ରାକ୍ସନ୍ on one page and ପ୍ରତିସରଣ on another. Prefer the established term used in that language's school textbooks over transliterating the English word. Grow this file as terms come up; scripts/build_glossary.py proposes additions from generated pages.",
+  "terms": {
+    "angle of incidence": {
+      "hi": "आपतन कोण",
+      "te": "పతన కోణం",
+      "od": "ଆପତନ କୋଣ"
+    },
+    "angle of refraction": {
+      "hi": "अपवर्तन कोण",
+      "te": "వక్రీభవన కోణం",
+      "od": "ପ୍ରତିସରଣ କୋଣ"
+    },
+    "co-prime": {
+      "od": "ସହ-ମୌଳିକ"
+    },
+    "critical angle": {
+      "hi": "क्रांतिक कोण",
+      "te": "సందిగ్ధ కోణం",
+      "od": "ସଙ୍କଟ କୋଣ"
+    },
+    "crown glass": {
+      "hi": "क्राउन काँच",
+      "te": "క్రౌన్ గాజు",
+      "od": "କ୍ରାଉନ୍ କାଚ"
+    },
+    "denominator": {
+      "hi": "हर"
+    },
+    "denser medium": {
+      "hi": "सघन माध्यम",
+      "te": "సాంద్రతర యానకం",
+      "od": "ଘନ ମାଧ୍ୟମ"
+    },
+    "digit": {
+      "hi": "अंक",
+      "te": "అంకె",
+      "od": "ଅଙ୍କ"
+    },
+    "divisibility": {
+      "hi": "विभाज्यता",
+      "te": "భాజ్యత",
+      "od": "ବିଭାଜ୍ୟତା"
+    },
+    "divisibility rules": {
+      "hi": "विभाज्यता के नियम",
+      "te": "భాజ్యతా నియమాలు",
+      "od": "ବିଭାଜ୍ୟତାର ନିୟମ"
+    },
+    "divisible": {
+      "hi": "विभाज्य",
+      "te": "భాజ్యం",
+      "od": "ବିଭାଜ୍ୟ"
+    },
+    "even": {
+      "hi": "सम",
+      "od": "ଯୁଗ୍ମ"
+    },
+    "even number": {
+      "hi": "सम संख्या",
+      "te": "సరి సంఖ్య",
+      "od": "ଯୁଗ୍ମ ସଂଖ୍ୟା"
+    },
+    "factor": {
+      "hi": "गुणनखंड",
+      "te": "కారణాంకం",
+      "od": "ଗୁଣନୀୟକ"
+    },
+    "flint glass": {
+      "hi": "फ्लिंट काँच",
+      "te": "ఫ్లింట్ గాజు",
+      "od": "ଫ୍ଲିଣ୍ଟ୍ କାଚ"
+    },
+    "fractions": {
+      "hi": "भिन्न",
+      "te": "భిన్నాలు"
+    },
+    "frequency": {
+      "hi": "आवृत्ति",
+      "te": "పౌనఃపున్యం",
+      "od": "ଆବୃତ୍ତି"
+    },
+    "inverse sine": {
+      "te": "విలోమ సైన్"
+    },
+    "key points": {
+      "hi": "मुख्य बिंदु",
+      "te": "ముఖ్య అంశాలు",
+      "od": "ମୁଖ୍ୟ ବିନ୍ଦୁ"
+    },
+    "lenses": {
+      "te": "కటకాలు"
+    },
+    "light ray": {
+      "hi": "प्रकाश किरण",
+      "te": "కాంతి కిరణం",
+      "od": "ଆଲୋକ କିରଣ"
+    },
+    "long division": {
+      "hi": "दीर्घ विभाजन",
+      "te": "దీర్ఘ భాగాహారం",
+      "od": "ଦୀର୍ଘ ବିଭାଜନ"
+    },
+    "medium": {
+      "hi": "माध्यम",
+      "te": "యానకం",
+      "od": "ମାଧ୍ୟମ"
+    },
+    "multiple": {
+      "hi": "गुणज",
+      "te": "గుణిజం",
+      "od": "ଗୁଣିତକ"
+    },
+    "non-zero": {
+      "hi": "गैर-शून्य"
+    },
+    "normal": {
+      "hi": "अभिलंब",
+      "te": "లంబం",
+      "od": "ଅଭିଲମ୍ବ"
+    },
+    "numerator": {
+      "hi": "अंश"
+    },
+    "optical density": {
+      "hi": "प्रकाशीय घनत्व",
+      "te": "దృశ్య సాంద్రత",
+      "od": "ଆଲୋକୀୟ ଘନତ୍ୱ"
+    },
+    "optically denser medium": {
+      "hi": "प्रकाशीय रूप से सघन माध्यम",
+      "te": "దృశ్యపరంగా సాంద్రతర యానకం",
+      "od": "ଆଲୋକୀୟ ଘନ ମାଧ୍ୟମ"
+    },
+    "optically rarer medium": {
+      "hi": "प्रकाशीय रूप से विरल माध्यम",
+      "te": "దృశ్యపరంగా విరళ యానకం",
+      "od": "ଆଲୋକୀୟ ବିରଳ ମାଧ୍ୟମ"
+    },
+    "optics": {
+      "hi": "प्रकाशिकी",
+      "te": "కాంతిశాస్త్రం",
+      "od": "ଆଲୋକ ବିଜ୍ଞାନ"
+    },
+    "perpendicular": {
+      "hi": "लंबवत"
+    },
+    "physics": {
+      "hi": "भौतिकी"
+    },
+    "place value": {
+      "hi": "स्थानीय मान",
+      "te": "స్థాన విలువ",
+      "od": "ସ୍ଥାନୀୟ ମାନ"
+    },
+    "product": {
+      "hi": "गुणनफल"
+    },
+    "rarer medium": {
+      "hi": "विरल माध्यम",
+      "te": "విరళ యానకం",
+      "od": "ବିରଳ ମାଧ୍ୟମ"
+    },
+    "ratio": {
+      "hi": "अनुपात"
+    },
+    "reflection": {
+      "hi": "परावर्तन",
+      "te": "పరావర్తనం",
+      "od": "ପ୍ରତିଫଳନ"
+    },
+    "refract": {
+      "od": "ପ୍ରତିସରଣ"
+    },
+    "refraction": {
+      "hi": "अपवर्तन",
+      "te": "వక్రీభవనం",
+      "od": "ପ୍ରତିସରଣ"
+    },
+    "refractive index": {
+      "hi": "अपवर्तनांक",
+      "te": "వక్రీభవన గుణకం",
+      "od": "ପ୍ରତିସରଣାଙ୍କ"
+    },
+    "remainder": {
+      "hi": "शेषफल",
+      "te": "శేషం",
+      "od": "ଅବଶିଷ୍ଟ"
+    },
+    "sine": {
+      "hi": "साइन",
+      "te": "సైన్",
+      "od": "ସାଇନ୍"
+    },
+    "speed of light": {
+      "hi": "प्रकाश की चाल",
+      "te": "కాంతి వేగం",
+      "od": "ଆଲୋକର ବେଗ"
+    },
+    "straw": {
+      "hi": "नली",
+      "te": "గొట్టం",
+      "od": "ନଳୀ"
+    },
+    "sum of digits": {
+      "hi": "अंकों का योग",
+      "te": "అంకెల మొత్తం",
+      "od": "ଅଙ୍କଗୁଡ଼ିକର ଯୋଗଫଳ"
+    },
+    "tens digit": {
+      "hi": "दहाई का अंक",
+      "te": "పదుల అంకె",
+      "od": "ଦଶକ ଅଙ୍କ"
+    },
+    "total internal reflection": {
+      "hi": "पूर्ण आंतरिक परावर्तन",
+      "te": "సంపూర్ణ అంతర్గత పరావర్తనం",
+      "od": "ସମ୍ପୂର୍ଣ୍ଣ ଆଭ୍ୟନ୍ତରୀଣ ପ୍ରତିଫଳନ"
+    },
+    "unit": {
+      "hi": "इकाई"
+    },
+    "units digit": {
+      "hi": "इकाई का अंक",
+      "te": "ఒకట్ల అంకె",
+      "od": "ଏକକ ଅଙ୍କ"
+    },
+    "vacuum": {
+      "hi": "निर्वात",
+      "te": "శూన్యం",
+      "od": "ଶୂନ୍ୟସ୍ଥାନ"
+    },
+    "wavelength": {
+      "hi": "तरंगदैर्घ्य",
+      "te": "తరంగదైర్ఘ్యం",
+      "od": "ତରଙ୍ଗଦୈର୍ଘ୍ୟ"
+    },
+    "worked example": {
+      "hi": "हल किया गया उदाहरण",
+      "te": "సాధించిన ఉదాహరణ",
+      "od": "ସମାଧାନ କରାଯାଇଥିବା ଉଦାହରଣ"
+    }
+  },
+  "subjects": {
+    "absolute refractive index": [
+      "physics"
+    ],
+    "adapt": [
+      "biology"
+    ],
+    "adaptation": [
+      "biology"
+    ],
+    "alcohol": [
+      "physics"
+    ],
+    "algae": [
+      "biology"
+    ],
+    "ampere": [
+      "physics"
+    ],
+    "ancient remains": [
+      "biology"
+    ],
+    "angle of incidence": [
+      "physics"
+    ],
+    "angle of refraction": [
+      "physics"
+    ],
+    "anti-clockwise": [
+      "physics"
+    ],
+    "aquatic": [
+      "biology"
+    ],
+    "aquatic environments": [
+      "biology"
+    ],
+    "aquatic organisms": [
+      "biology"
+    ],
+    "aquifers": [
+      "biology"
+    ],
+    "astronomical unit": [
+      "biology"
+    ],
+    "attraction": [
+      "physics"
+    ],
+    "axis": [
+      "biology",
+      "physics"
+    ],
+    "balanced diet": [
+      "biology"
+    ],
+    "base units": [
+      "physics"
+    ],
+    "beam balance": [
+      "physics"
+    ],
+    "bits": [
+      "chemistry"
+    ],
+    "blue planet": [
+      "biology"
+    ],
+    "bob": [
+      "physics"
+    ],
+    "body-building foods": [
+      "biology"
+    ],
+    "building blocks": [
+      "maths"
+    ],
+    "bulb": [
+      "physics"
+    ],
+    "candela": [
+      "physics"
+    ],
+    "candle clock": [
+      "physics"
+    ],
+    "candle clocks": [
+      "physics"
+    ],
+    "carbohydrates": [
+      "biology"
+    ],
+    "celsius scale": [
+      "physics"
+    ],
+    "chemical bond": [
+      "chemistry"
+    ],
+    "chipko": [
+      "biology"
+    ],
+    "chipko movement": [
+      "biology"
+    ],
+    "churning": [
+      "chemistry"
+    ],
+    "circular": [
+      "physics"
+    ],
+    "circular motion": [
+      "physics"
+    ],
+    "clinical thermometers": [
+      "physics"
+    ],
+    "clockwise": [
+      "physics"
+    ],
+    "co-prime": [
+      "maths"
+    ],
+    "co-prime numbers": [
+      "maths"
+    ],
+    "coal": [
+      "biology"
+    ],
+    "common denominator": [
+      "maths"
+    ],
+    "common factor": [
+      "maths"
+    ],
+    "common multiple": [
+      "maths"
+    ],
+    "compass": [
+      "physics"
+    ],
+    "composite factors": [
+      "maths"
+    ],
+    "composite number": [
+      "maths"
+    ],
+    "composite numbers": [
+      "maths"
+    ],
+    "condensation": [
+      "biology",
+      "chemistry"
+    ],
+    "critical angle": [
+      "physics"
+    ],
+    "cross-multiplication": [
+      "maths"
+    ],
+    "cross-multiplication test": [
+      "maths"
+    ],
+    "crown glass": [
+      "physics"
+    ],
+    "cubic": [
+      "chemistry"
+    ],
+    "cubic metre": [
+      "chemistry",
+      "physics"
+    ],
+    "curd": [
+      "chemistry"
+    ],
+    "curved line": [
+      "physics"
+    ],
+    "decantation": [
+      "chemistry"
+    ],
+    "decimal point": [
+      "maths"
+    ],
+    "decimals": [
+      "maths"
+    ],
+    "deforestation": [
+      "biology"
+    ],
+    "degree celsius": [
+      "physics"
+    ],
+    "degrees celsius": [
+      "physics"
+    ],
+    "denominator": [
+      "maths"
+    ],
+    "denominators": [
+      "maths"
+    ],
+    "denser material": [
+      "physics"
+    ],
+    "denser medium": [
+      "physics"
+    ],
+    "desert": [
+      "biology"
+    ],
+    "dhanusa": [
+      "physics"
+    ],
+    "diameter": [
+      "biology"
+    ],
+    "dietary fibre": [
+      "biology"
+    ],
+    "digit": [
+      "maths"
+    ],
+    "digital thermometers": [
+      "physics"
+    ],
+    "dividend": [
+      "maths"
+    ],
+    "division": [
+      "maths"
+    ],
+    "division method": [
+      "maths"
+    ],
+    "divisor": [
+      "maths"
+    ],
+    "dwarf planet": [
+      "biology"
+    ],
+    "dwarf planets": [
+      "biology"
+    ],
+    "earth": [
+      "biology"
+    ],
+    "ecosystem": [
+      "biology"
+    ],
+    "electric current": [
+      "physics"
+    ],
+    "environment": [
+      "biology"
+    ],
+    "equinox": [
+      "physics"
+    ],
+    "equivalent fraction": [
+      "maths"
+    ],
+    "equivalent fractions": [
+      "maths"
+    ],
+    "evaporation": [
+      "biology",
+      "chemistry"
+    ],
+    "even": [
+      "maths"
+    ],
+    "even prime number": [
+      "maths"
+    ],
+    "evening star": [
+      "biology"
+    ],
+    "exhaustible resources": [
+      "biology"
+    ],
+    "extreme position": [
+      "physics"
+    ],
+    "factor": [
+      "maths"
+    ],
+    "factor pairs": [
+      "maths"
+    ],
+    "factors": [
+      "maths"
+    ],
+    "fats": [
+      "biology"
+    ],
+    "filter paper": [
+      "chemistry"
+    ],
+    "filtration": [
+      "chemistry"
+    ],
+    "fins": [
+      "biology"
+    ],
+    "flint glass": [
+      "physics"
+    ],
+    "foot": [
+      "physics"
+    ],
+    "fossil fuels": [
+      "biology"
+    ],
+    "fraction": [
+      "physics"
+    ],
+    "fraction wall": [
+      "maths"
+    ],
+    "fractional unit": [
+      "maths"
+    ],
+    "fractional units": [
+      "maths"
+    ],
+    "fractions": [
+      "maths"
+    ],
+    "freezing": [
+      "chemistry"
+    ],
+    "frequency": [
+      "physics"
+    ],
+    "full stop": [
+      "chemistry",
+      "physics"
+    ],
+    "fur": [
+      "biology"
+    ],
+    "gaseous": [
+      "chemistry"
+    ],
+    "gaseous state": [
+      "chemistry"
+    ],
+    "gills": [
+      "biology"
+    ],
+    "glucose": [
+      "biology"
+    ],
+    "goitre": [
+      "biology"
+    ],
+    "gravity": [
+      "chemistry"
+    ],
+    "groundwater": [
+      "biology"
+    ],
+    "habitat": [
+      "biology"
+    ],
+    "handpicking": [
+      "chemistry"
+    ],
+    "handspan": [
+      "physics"
+    ],
+    "heat": [
+      "chemistry"
+    ],
+    "heat sensors": [
+      "physics"
+    ],
+    "hoof": [
+      "biology"
+    ],
+    "hooves": [
+      "biology"
+    ],
+    "horizontal": [
+      "physics"
+    ],
+    "hour": [
+      "physics"
+    ],
+    "hourglass": [
+      "physics"
+    ],
+    "hourglasses": [
+      "physics"
+    ],
+    "hundredths": [
+      "maths"
+    ],
+    "iau": [
+      "biology"
+    ],
+    "improper fraction": [
+      "maths"
+    ],
+    "improper fractions": [
+      "maths"
+    ],
+    "inch": [
+      "physics"
+    ],
+    "increasing order": [
+      "maths"
+    ],
+    "infiltration": [
+      "biology"
+    ],
+    "infrared thermometers": [
+      "physics"
+    ],
+    "insoluble": [
+      "chemistry"
+    ],
+    "integer": [
+      "maths"
+    ],
+    "international system of units": [
+      "chemistry",
+      "physics"
+    ],
+    "inverse sine": [
+      "physics"
+    ],
+    "iodine": [
+      "biology"
+    ],
+    "iodised salt": [
+      "biology"
+    ],
+    "jupiter": [
+      "biology"
+    ],
+    "kelvin": [
+      "physics"
+    ],
+    "key points": [
+      "biology",
+      "maths",
+      "physics"
+    ],
+    "kilogram": [
+      "physics"
+    ],
+    "kilometre": [
+      "physics"
+    ],
+    "laboratory thermometers": [
+      "physics"
+    ],
+    "least common multiple": [
+      "maths"
+    ],
+    "legs": [
+      "biology"
+    ],
+    "length": [
+      "physics"
+    ],
+    "lenses": [
+      "physics"
+    ],
+    "level": [
+      "physics"
+    ],
+    "light ray": [
+      "physics"
+    ],
+    "liquid": [
+      "chemistry",
+      "physics"
+    ],
+    "liquid column": [
+      "physics"
+    ],
+    "long division": [
+      "maths"
+    ],
+    "lower case": [
+      "chemistry",
+      "physics"
+    ],
+    "lowercase": [
+      "physics"
+    ],
+    "lowest terms": [
+      "maths"
+    ],
+    "magnetic compass": [
+      "physics"
+    ],
+    "magnetic separation": [
+      "chemistry"
+    ],
+    "magnetism": [
+      "physics"
+    ],
+    "magnetite": [
+      "physics"
+    ],
+    "magnets": [
+      "physics"
+    ],
+    "mars": [
+      "biology"
+    ],
+    "mass": [
+      "chemistry",
+      "physics"
+    ],
+    "mass density": [
+      "physics"
+    ],
+    "matter": [
+      "chemistry",
+      "physics"
+    ],
+    "mean position": [
+      "physics"
+    ],
+    "measuring tape": [
+      "physics"
+    ],
+    "media": [
+      "physics"
+    ],
+    "medium": [
+      "physics"
+    ],
+    "melting": [
+      "chemistry"
+    ],
+    "mercury": [
+      "biology",
+      "physics"
+    ],
+    "merry-go-round": [
+      "physics"
+    ],
+    "metre": [
+      "physics"
+    ],
+    "minerals": [
+      "biology"
+    ],
+    "minute": [
+      "physics"
+    ],
+    "mixed fraction": [
+      "maths"
+    ],
+    "mixed fractions": [
+      "maths"
+    ],
+    "mixture": [
+      "chemistry"
+    ],
+    "mole": [
+      "physics"
+    ],
+    "morning star": [
+      "biology"
+    ],
+    "motion": [
+      "physics"
+    ],
+    "mountain": [
+      "biology"
+    ],
+    "multiple": [
+      "maths"
+    ],
+    "multiples": [
+      "maths"
+    ],
+    "multiples of angula": [
+      "physics"
+    ],
+    "natural gas": [
+      "biology"
+    ],
+    "neptune": [
+      "biology"
+    ],
+    "non-contact thermometers": [
+      "physics"
+    ],
+    "non-renewable resources": [
+      "biology"
+    ],
+    "non-uniform motion": [
+      "physics"
+    ],
+    "non-zero": [
+      "maths"
+    ],
+    "normal": [
+      "physics"
+    ],
+    "north pole": [
+      "physics"
+    ],
+    "northern hemisphere": [
+      "physics"
+    ],
+    "number line": [
+      "maths"
+    ],
+    "numerator": [
+      "maths"
+    ],
+    "numerators": [
+      "maths"
+    ],
+    "nutritional requirements": [
+      "biology"
+    ],
+    "oil": [
+      "biology"
+    ],
+    "optical density": [
+      "physics"
+    ],
+    "optically denser medium": [
+      "physics"
+    ],
+    "optically rarer medium": [
+      "physics"
+    ],
+    "optics": [
+      "physics"
+    ],
+    "orbit": [
+      "physics"
+    ],
+    "organism": [
+      "biology"
+    ],
+    "oscillation": [
+      "physics"
+    ],
+    "oscillatory motion": [
+      "physics"
+    ],
+    "oxygen": [
+      "biology"
+    ],
+    "particle size": [
+      "chemistry"
+    ],
+    "perpendicular": [
+      "physics"
+    ],
+    "petroleum": [
+      "biology"
+    ],
+    "photosynthesis": [
+      "biology"
+    ],
+    "physical force": [
+      "chemistry"
+    ],
+    "physical quantities": [
+      "physics"
+    ],
+    "physical quantity": [
+      "physics"
+    ],
+    "physics": [
+      "physics"
+    ],
+    "place value": [
+      "maths"
+    ],
+    "pluto": [
+      "biology"
+    ],
+    "point": [
+      "maths"
+    ],
+    "poles": [
+      "physics"
+    ],
+    "power": [
+      "maths"
+    ],
+    "precipitation": [
+      "biology"
+    ],
+    "prime factorisation": [
+      "maths"
+    ],
+    "prime factors": [
+      "maths"
+    ],
+    "prime number": [
+      "maths"
+    ],
+    "prime numbers": [
+      "maths"
+    ],
+    "prisms": [
+      "physics"
+    ],
+    "product": [
+      "maths",
+      "physics"
+    ],
+    "proper fraction": [
+      "maths"
+    ],
+    "proper fractions": [
+      "maths"
+    ],
+    "proteins": [
+      "biology"
+    ],
+    "ramp": [
+      "physics"
+    ],
+    "rarer medium": [
+      "physics"
+    ],
+    "ratio": [
+      "physics"
+    ],
+    "rectilinear motion": [
+      "physics"
+    ],
+    "recycling": [
+      "biology"
+    ],
+    "red planet": [
+      "biology"
+    ],
+    "reflection": [
+      "physics"
+    ],
+    "refract": [
+      "physics"
+    ],
+    "refraction": [
+      "physics"
+    ],
+    "refractive index": [
+      "physics"
+    ],
+    "relative": [
+      "physics"
+    ],
+    "remainder": [
+      "maths"
+    ],
+    "remains": [
+      "biology"
+    ],
+    "repulsion": [
+      "physics"
+    ],
+    "rest": [
+      "physics"
+    ],
+    "revolution": [
+      "biology",
+      "physics"
+    ],
+    "rotation": [
+      "physics"
+    ],
+    "roughage": [
+      "biology"
+    ],
+    "saturn": [
+      "biology"
+    ],
+    "scurvy": [
+      "biology"
+    ],
+    "sealed": [
+      "physics"
+    ],
+    "second": [
+      "physics"
+    ],
+    "sedimentation": [
+      "chemistry"
+    ],
+    "sediments": [
+      "biology"
+    ],
+    "shaded": [
+      "maths"
+    ],
+    "si units": [
+      "physics"
+    ],
+    "sieving": [
+      "chemistry"
+    ],
+    "sine": [
+      "physics"
+    ],
+    "singular": [
+      "physics"
+    ],
+    "smallest common multiple": [
+      "maths"
+    ],
+    "solid": [
+      "chemistry"
+    ],
+    "solid state": [
+      "chemistry"
+    ],
+    "solution": [
+      "chemistry"
+    ],
+    "solvent": [
+      "chemistry"
+    ],
+    "south pole": [
+      "physics"
+    ],
+    "southern hemisphere": [
+      "physics"
+    ],
+    "space": [
+      "chemistry",
+      "physics"
+    ],
+    "spinning top": [
+      "physics"
+    ],
+    "spring and autumn equinox": [
+      "physics"
+    ],
+    "square": [
+      "maths"
+    ],
+    "standard": [
+      "physics"
+    ],
+    "standard units": [
+      "physics"
+    ],
+    "standard weights": [
+      "physics"
+    ],
+    "start": [
+      "physics"
+    ],
+    "states": [
+      "chemistry"
+    ],
+    "stop": [
+      "physics"
+    ],
+    "stopwatch": [
+      "physics"
+    ],
+    "straight line": [
+      "physics"
+    ],
+    "straw": [
+      "physics"
+    ],
+    "streamlined": [
+      "biology"
+    ],
+    "subpart": [
+      "maths"
+    ],
+    "summer solstice": [
+      "physics"
+    ],
+    "sun": [
+      "biology"
+    ],
+    "sundial": [
+      "physics"
+    ],
+    "sundials": [
+      "physics"
+    ],
+    "surroundings": [
+      "physics"
+    ],
+    "temperature": [
+      "physics"
+    ],
+    "tenths": [
+      "maths"
+    ],
+    "thermometer": [
+      "physics"
+    ],
+    "thousandths": [
+      "maths"
+    ],
+    "timber": [
+      "biology"
+    ],
+    "time": [
+      "physics"
+    ],
+    "to-and-fro": [
+      "physics"
+    ],
+    "total internal reflection": [
+      "physics"
+    ],
+    "toxic": [
+      "physics"
+    ],
+    "types of fossil fuels": [
+      "biology"
+    ],
+    "uniform motion": [
+      "physics"
+    ],
+    "unit": [
+      "maths"
+    ],
+    "unit fraction": [
+      "maths"
+    ],
+    "unit fractions": [
+      "maths"
+    ],
+    "upright": [
+      "physics"
+    ],
+    "uranus": [
+      "biology"
+    ],
+    "vacuum": [
+      "physics"
+    ],
+    "van mahotsav": [
+      "biology"
+    ],
+    "vapour": [
+      "chemistry"
+    ],
+    "venus": [
+      "biology"
+    ],
+    "vitamin c": [
+      "biology"
+    ],
+    "volume": [
+      "chemistry",
+      "physics"
+    ],
+    "water clock": [
+      "physics"
+    ],
+    "water clocks": [
+      "physics"
+    ],
+    "water vapour": [
+      "chemistry"
+    ],
+    "wave theory of light": [
+      "physics"
+    ],
+    "wavelength": [
+      "physics"
+    ],
+    "whole": [
+      "maths"
+    ],
+    "whole number of feet": [
+      "maths"
+    ],
+    "winter solstice": [
+      "physics"
+    ],
+    "worked example": [
+      "biology",
+      "maths",
+      "physics"
+    ],
+    "yojana": [
+      "physics"
+    ],
+    "zero": [
+      "maths"
+    ],
+    "zero marking": [
+      "physics"
+    ],
+    "zeroes": [
+      "maths"
+    ]
+  }
+}

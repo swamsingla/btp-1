@@ -1,1451 +1,417 @@
 {
   "grade": 6,
   "subject": "science",
+  "total_concepts": 21,
   "concepts": {
-    "what-sets-the-living-apart-from-the-non-living": {
-      "canonical_name": "What Sets the Living apart from the Non-Living",
-      "slug": "what-sets-the-living-apart-from-the-non-living",
-      "_aliases": [
-        "Living vs Non-Living"
-      ],
-      "domain": "Biology",
-      "area": "Cellular Structure and Function",
-      "parent": "",
-      "grades": [
-        6
-      ],
-      "importance_BY_Grade": {
-        "6": 1
-      },
-      "source_Boards": [
-        "NCERT",
-        "state board"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [
-        "living-organisms",
-        "what-we-eat"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "life-cycle-of-plants": {
-      "canonical_name": "Life Cycle of Plants",
-      "slug": "life-cycle-of-plants",
-      "aliases": [],
-      "domain": "Biology",
-      "area": "Plant Biology",
-      "parent": null,
-      "grades": [
-        6
-      ],
-      "importance_BY_GRADE": {
-        "6": 5
-      },
-      "source_BOARDS": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [
-        "evolution",
-        "food-chain",
-        "food-web",
-        "living-organisms",
-        "population-dynamics",
-        "what-we-eat"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "water-pollution": {
-      "canonical_name": "Water Pollution",
-      "slug": "water-pollution",
-      "aliases": [
-        "Types of water pollution",
-        "Effects of water pollution"
-      ],
-      "domain": "Environmental Science",
-      "area": "Water Resources Management",
-      "parent": "water-resources-management",
+    "physical-quantities": {
+      "canonical_name": "Physical Quantities",
+      "slug": "physical-quantities",
       "grades": [
         6,
-        8
-      ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "8": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "state board"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "food-chain-dynamics",
-        "leaves-as-food-factories",
-        "natural-resource-management"
-      ],
-      "leads_to": [
-        "population-dynamics",
-        "what-we-eat"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "soil-composition": {
-      "canonical_name": "Soil Composition",
-      "slug": "soil-composition",
-      "aliases": [],
-      "domain": "Geology",
-      "area": "Earth Materials",
-      "parent": null,
-      "grades": [
-        6
-      ],
-      "importance_BY_Grade": {
-        "6": 5
-      },
-      "source_Boards": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "leaves-as-food-factories"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "natural-resource-management": {
-      "canonical_name": "Natural Resource Management",
-      "slug": "natural-resource-management",
-      "aliases": [],
-      "domain": "Science",
-      "area": "Environmental Science",
-      "parent": "environmental-science",
-      "grades": [
-        6
-      ],
-      "importance-by-grade": {
-        "6": 5
-      },
-      "source_Boards": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "leaves-as-food-factories"
-      ],
-      "leads_to": [
-        "electrolysis",
-        "elements-compounds",
-        "mixtures",
-        "population-dynamics",
-        "soil-erosion",
-        "valency",
-        "water-pollution",
-        "what-we-eat"
-      ],
-      "related": [
-        "climate-change",
-        "food-chain-dynamics"
-      ],
-      "see_also": []
-    },
-    "our-solar-system": {
-      "canonical_name": "Our Solar System",
-      "slug": "our-solar-system",
-      "aliases": [],
-      "domain": "Astronomy",
-      "area": "Solar System",
-      "_parent": "",
-      "grades": [
-        6,
-        8
-      ],
-      "importance-by-grade": {
-        "6": 5,
-        "8": 4
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-rotation-and-revolutions",
-        "plate-tectoncs"
-      ],
-      "leads_to": [
-        "earths-rotation",
-        "earths-water-cycle"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "diversity-in-plants-and-animal-around-us": {
-      "canonical_name": "Diversity in Plants and Animials Around Us",
-      "slug": "diversity-in-plants-and-animal-around-us",
-      "aliases": [],
-      "domain": "Biology",
-      "area": "Ecology",
-      "parent": null,
-      "grades": [
-        6
-      ],
-      "importance-by-grade": {
-        "6": 5
-      },
-      "source_Boards": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [
-        "evolution",
-        "living-organisms",
-        "what-we-eat"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "what-we-eat": {
-      "canonical_name": "What We Eat",
-      "slug": "what-we-eat",
-      "aliases": [
-        "Food Habits",
-        "Nutrition"
-      ],
-      "domain": "Human Nutrition",
-      "area": "Components of Food",
-      "parent": "",
-      "grades": [
-        6,
-        7,
-        8,
         9,
-        10
+        11
       ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 1,
-        "8": 2,
-        "9": 3,
-        "10": 4
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
+      "area": "Units and Measurement",
+      "description": "Measurable attributes of the physical world: length, mass, time, temperature",
+      "prerequisites": [],
+      "leads_to": [
+        "si-units"
       ],
-      "subject": "science",
+      "subject": "physics"
+    },
+    "si-units": {
+      "canonical_name": "SI Units",
+      "slug": "si-units",
+      "grades": [
+        6,
+        9,
+        11
+      ],
+      "area": "Units and Measurement",
+      "description": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela",
       "prerequisites": [
-        "diversity-in-plants-and-animal-around-us",
-        "leaves-as-food-factories",
-        "life-cycle-of-plants",
-        "natural-resource-management",
-        "water-pollution",
-        "what-sets-the-living-apart-from-the-non-living"
+        "physical-quantities"
+      ],
+      "leads_to": [
+        "measurement-of-length",
+        "measurement-of-mass",
+        "measurement-of-time",
+        "measurement-of-temperature",
+        "dimensional-analysis",
+        "ideal-gas-laws"
+      ],
+      "subject": "physics"
+    },
+    "measurement-of-length": {
+      "canonical_name": "Measurement of Length",
+      "slug": "measurement-of-length",
+      "grades": [
+        6
+      ],
+      "area": "Units and Measurement",
+      "description": "Measuring length using ruler, metre scale; unit conversions",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [
+        "rest-and-motion"
+      ],
+      "subject": "physics"
+    },
+    "measurement-of-mass": {
+      "canonical_name": "Measurement of Mass",
+      "slug": "measurement-of-mass",
+      "grades": [
+        6,
+        9
+      ],
+      "area": "Units and Measurement",
+      "description": "Measuring mass using beam balance; units: gram, kilogram",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [
+        "mass-and-inertia"
+      ],
+      "aliases": [
+        "measuring mass",
+        "beam balance",
+        "gram and kilogram",
+        "how heavy an object is"
+      ],
+      "subject": "physics"
+    },
+    "measurement-of-time": {
+      "canonical_name": "Measurement of Time",
+      "slug": "measurement-of-time",
+      "grades": [
+        6,
+        9
+      ],
+      "area": "Units and Measurement",
+      "description": "Measuring time using clock, stopwatch; units: second, minute, hour",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [
+        "rest-and-motion"
+      ],
+      "aliases": [
+        "measuring time",
+        "stopwatch",
+        "second minute and hour",
+        "time interval"
+      ],
+      "subject": "physics"
+    },
+    "measurement-of-temperature": {
+      "canonical_name": "Measurement of Temperature",
+      "slug": "measurement-of-temperature",
+      "grades": [
+        6
+      ],
+      "area": "Units and Measurement",
+      "description": "Thermometer; Celsius and Fahrenheit scales; clinical vs laboratory thermometer",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [
+        "heat-and-temperature",
+        "ideal-gas-laws"
+      ],
+      "subject": "physics"
+    },
+    "rest-and-motion": {
+      "canonical_name": "Rest and Motion",
+      "slug": "rest-and-motion",
+      "grades": [
+        6,
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Relative nature of rest and motion; types: rectilinear, circular, oscillatory",
+      "prerequisites": [
+        "measurement-of-length",
+        "measurement-of-time"
+      ],
+      "leads_to": [
+        "distance-and-displacement",
+        "force-concept"
+      ],
+      "aliases": [
+        "moving things",
+        "types of motion",
+        "at rest or in motion",
+        "rectilinear and circular motion"
+      ],
+      "subject": "physics"
+    },
+    "magnets-and-magnetism": {
+      "canonical_name": "Magnets and Magnetism",
+      "slug": "magnets-and-magnetism",
+      "grades": [
+        6,
+        8
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Natural and artificial magnets; poles; attraction and repulsion; compass",
+      "prerequisites": [],
+      "leads_to": [
+        "magnetic-field"
+      ],
+      "subject": "physics"
+    },
+    "what-is-matter": {
+      "canonical_name": "Matter and Its Properties",
+      "slug": "what-is-matter",
+      "grades": [
+        6,
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Anything that has mass and occupies space",
+      "prerequisites": [],
+      "leads_to": [
+        "states-of-matter-chemistry",
+        "physical-vs-chemical-change",
+        "metals-nonmetals-properties",
+        "air-pollution",
+        "daltons-atomic-theory"
+      ],
+      "subject": "chemistry"
+    },
+    "states-of-matter-chemistry": {
+      "canonical_name": "States of Matter",
+      "slug": "states-of-matter-chemistry",
+      "grades": [
+        6,
+        9,
+        11
+      ],
+      "area": "Matter and Classification",
+      "description": "Solid, liquid, gas; arrangement and movement of particles",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [
+        "thermal-expansion",
+        "change-of-state-chemistry",
+        "particle-nature-of-matter",
+        "water-and-its-properties",
+        "liquid-state"
+      ],
+      "subject": "chemistry"
+    },
+    "separation-techniques": {
+      "canonical_name": "Separation Techniques",
+      "slug": "separation-techniques",
+      "grades": [
+        6,
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Filtration, evaporation, distillation, chromatography, crystallisation; sublimation",
+      "prerequisites": [
+        "mixtures-types"
       ],
       "leads_to": [],
-      "related": [
-        "balanced-diet",
-        "diversity-in-plants-and-animal-around-us",
-        "human-impact-on-the-environmental-conservation",
-        "natural-resource-management",
-        "our-solar-system"
+      "aliases": [
+        "filtration evaporation and distillation",
+        "separation of mixtures",
+        "methods of separation",
+        "sieving and winnowing"
       ],
-      "see_also": []
+      "subject": "chemistry"
+    },
+    "water-and-its-properties": {
+      "canonical_name": "Water and Its Properties",
+      "slug": "water-and-its-properties",
+      "grades": [
+        6,
+        8
+      ],
+      "area": "Environmental Chemistry",
+      "description": "States of water; water cycle; solvent properties",
+      "prerequisites": [
+        "states-of-matter-chemistry"
+      ],
+      "leads_to": [
+        "water-pollution",
+        "water-cycle"
+      ],
+      "aliases": [
+        "states of water",
+        "the water cycle",
+        "water as a solvent"
+      ],
+      "subject": "chemistry"
+    },
+    "living-vs-nonliving": {
+      "canonical_name": "Living and Non-Living Things",
+      "slug": "living-vs-nonliving",
+      "grades": [
+        6
+      ],
+      "area": "Diversity of Life",
+      "description": "Characteristics of living things: growth, respiration, reproduction, response to stimuli",
+      "prerequisites": [],
+      "leads_to": [
+        "diversity-of-organisms",
+        "cell-basic-unit",
+        "modes-of-nutrition",
+        "health-and-hygiene"
+      ],
+      "subject": "biology"
+    },
+    "components-of-food": {
+      "canonical_name": "Components of Food",
+      "slug": "components-of-food",
+      "grades": [
+        6
+      ],
+      "area": "Nutrition and Digestion",
+      "description": "Carbohydrates, proteins, fats, vitamins, minerals, water, dietary fibre",
+      "prerequisites": [],
+      "leads_to": [
+        "balanced-diet",
+        "human-digestive-system",
+        "biomolecules-intro",
+        "animal-husbandry"
+      ],
+      "subject": "biology"
     },
     "balanced-diet": {
       "canonical_name": "Balanced Diet",
       "slug": "balanced-diet",
-      "aliases": [],
-      "domain": "Human Biology",
-      "area": "Nutrition and Health",
-      "parent": null,
       "grades": [
         6
       ],
-      "importance_BY_GRADE": {
-        "6": 5
-      },
-      "source_BOARDS": [
-        "NCERT"
-      ],
-      "subject": "science",
+      "area": "Nutrition and Digestion",
+      "description": "Proportions of nutrients; deficiency diseases: scurvy, rickets, beri-beri",
       "prerequisites": [
-        "leaves-as-food-factories"
+        "components-of-food"
       ],
       "leads_to": [],
-      "related": [],
-      "see_also": []
+      "subject": "biology"
     },
-    "magnetic-and-non-magnetic-materials": {
-      "canonical_name": "Magnetic and Non-Magnetic Materials",
-      "slug": "magnetic-and-non-magnetic-materials",
-      "aliases": [
-        "Magnets",
-        "Materials"
-      ],
-      "domain": "Physics",
-      "area": "Electricity and Magnetism",
-      "parent": "",
+    "water-cycle": {
+      "canonical_name": "Water Cycle",
+      "slug": "water-cycle",
       "grades": [
         6,
-        8
+        9
       ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "8": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "attraction-and-repulsion-between-magnets": {
-      "canonical_name": "Attraction and Repulsion Between Magnets",
-      "slug": "attraction-and-repulsion-between-magnets",
-      "_aliases": [
-        "Magnetic Attraction andRepulsion",
-        "Magnets"
-      ],
-      "domain": "Physics",
-      "area": "Electricity and Magnetism",
-      "parent": "",
-      "grades": [
-        6,
-        8
-      ],
-      "importance-by-grade": {
-        "6": 5,
-        "8": 4
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "standard-units": {
-      "canonical_name": "Standard Units",
-      "slug": "standard-units",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "",
-      "parent": "",
-      "grades": [
-        6,
-        8
-      ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "8": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Ecology",
+      "description": "Evaporation, condensation, precipitation; groundwater",
       "prerequisites": [
-        "earths-natural-resources",
-        "leaves-as-food-factories"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "position-in-a-coordinate-system": {
-      "canonical_name": "Position in a Coordinate System",
-      "slug": "position-in-a-coordinate-system",
-      "aliases": [],
-      "domain": "Science",
-      "area": "Motion and Rest",
-      "parent": null,
-      "grades": [
-        6
-      ],
-      "importance-by-grade": {
-        "6": 5
-      },
-      "source_Boards": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "observing-everyday-objects": {
-      "canonical_name": "Observing Everyday Objects",
-      "slug": "observing-everyday-objects",
-      "aliases": [],
-      "domain": "Science",
-      "area": "Classifying and Sorting",
-      "parent": "",
-      "grades": [
-        6
-      ],
-      "importance_BY_GRADE": {
-        "6": 5
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "what-is-matter": {
-      "canonical_name": "What is Matter?",
-      "slug": "what-is-matter",
-      "aliases": [],
-      "domain": "Chemistry",
-      "area": "",
-      "parent": "",
-      "grades": [
-        6,
-        8
-      ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "8": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "state board"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-natural-resources"
+        "water-and-its-properties"
       ],
       "leads_to": [
-        "mass",
-        "mixtures",
-        "molecules"
+        "transpiration"
       ],
-      "related": [],
-      "see_also": []
+      "subject": "biology"
     },
-    "measuring-temperature": {
-      "canonical_name": "Measuring Temperature",
-      "slug": "measuring-temperature",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Temperature Measurement",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 5,
-        "7": 4,
-        "8": 3,
-        "9": 2,
-        "10": 1
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-environmental-conservation",
-        "earths-natural-resources",
-        "states-of-water"
-      ],
-      "leads_to": [],
-      "related": [
-        "food-chain-dynamics",
-        "leaves-as-food-factories"
-      ],
-      "see_also": []
-    },
-    "states-of-water": {
-      "canonical_name": "States of Water",
-      "slug": "states-of-water",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "",
-      "parent": "",
+    "solar-system": {
+      "canonical_name": "Solar System",
+      "slug": "solar-system",
       "grades": [
         6,
         8
       ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "8": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-water-cycle",
-        "leaves-as-food-factories"
-      ],
-      "leads_to": [
-        "mass",
-        "measuring-temperature",
-        "mixtures",
-        "molecules",
-        "ph-scale"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "cooling-effect": {
-      "canonical_name": "Cooling Effect",
-      "slug": "cooling-effect",
-      "aliases": [],
-      "domain": "Science",
-      "area": "Heat Transfer",
-      "parent": "",
-      "grades": [
-        6
-      ],
-      "importance_BY_GRADE": {
-        "6": 5
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "leaves-as-food-factories"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "cellular-respiration": {
-      "canonical_name": "Cellular Respiration",
-      "slug": "cellular-respiration",
-      "_aliases": [
-        "Respiration"
-      ],
-      "domain": "Biology",
-      "area": "Metabolism",
-      "parent": "",
-      "grades": [
-        6
-      ],
-      "importance-by-grade": {
-        "6": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "food-chain-dynamics",
-        "leaves-as-food-factories"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "soil-erosion": {
-      "canonical_name": "Soil Erosion",
-      "slug": "soil-erosion",
-      "_aliases": [
-        "Land Degradation",
-        "Water Pollution"
-      ],
-      "domain": "Environmental Science",
-      "area": "Geography and Environment",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 5,
-        "7": 4,
-        "8": 3,
-        "9": 2,
-        "10": 1
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "natural-resource-management",
-        "plate-tectoncs"
-      ],
-      "leads_to": [],
-      "related": [
-        "diversity-in-plants-and-animal-around-us",
-        "earths-natural-resources",
-        "human-impact-on-the-environmental-conservation"
-      ],
-      "see_also": []
-    },
-    "human-impact-on-the-environmental-conservation": {
-      "canonical_name": "Human Impact on the Environmental Conservation",
-      "slug": "human-impact-on-the-environmental-conservation",
-      "aliases": [
-        "Environmental Pollution",
-        "Greenhouse Gases"
-      ],
-      "domain": "Ecology",
-      "area": "Human Impact",
-      "parent": "",
-      "grades": [
-        6,
-        8
-      ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "8": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Ecology",
+      "description": "Sun, planets, moons, asteroids, comets; Earth's place in the solar system",
       "prerequisites": [],
       "leads_to": [
-        "applications-of-ultrasound",
-        "climate-change",
-        "population-dynamics"
+        "earths-rotation-revolution"
       ],
-      "related": [],
-      "see_also": []
+      "subject": "biology"
     },
-    "natural-disasters": {
-      "canonical_name": "Natural Disasters",
-      "slug": "natural-disasters",
-      "_aliases": [
-        "Disaster Management",
-        "Earthquake Flood Landslide"
-      ],
-      "domain": "Geography",
-      "area": "Environmental Studies",
-      "parent": "",
-      "grades": [
-        6
-      ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "7": "",
-        "8": "",
-        "9": "",
-        "10": ""
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "plate-tectoncs"
-      ],
-      "leads_to": [
-        "climate-change",
-        "earths-oceans",
-        "energy",
-        "measurement-errors",
-        "spherical-mirrors",
-        "work-energy-and-power"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "earths-rotation-and-revolutions": {
-      "canonical_name": "Earth's Rotation and Revolutions",
-      "slug": "earths-rotation-and-revolutions",
-      "aliases": [],
-      "domain": "Astronomy",
-      "area": "",
-      "parent": "",
-      "grades": [
-        6
-      ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [
-        "our-solar-system",
-        "spherical-mirrors"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "earths-oceans": {
-      "canonical_name": "Earth's Oceans",
-      "slug": "earths-oceans",
-      "_aliases": [
-        "Ocean Characteristics",
-        "Major Ocean Basins",
-        "Ocean Currents"
-      ],
-      "domain": "Geography",
-      "area": "Physical Geography",
-      "parent": "",
+    "earths-rotation-revolution": {
+      "canonical_name": "Earth's Rotation and Revolution",
+      "slug": "earths-rotation-revolution",
       "grades": [
         6,
         8
       ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "8": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Ecology",
+      "description": "Day-night cycle; seasons; equinox and solstice",
       "prerequisites": [
-        "earths-natural-resources",
+        "solar-system"
+      ],
+      "leads_to": [
         "natural-disasters",
-        "plate-tectoncs"
+        "solar-eclipse",
+        "lunar-eclipse"
       ],
-      "leads_to": [
-        "tides-and-current"
+      "aliases": [
+        "day and night",
+        "the seasons",
+        "our solar system",
+        "movement of the earth"
       ],
-      "related": [],
-      "see_also": []
+      "subject": "physics"
     },
-    "earths-geological-time-scales": {
-      "canonical_name": "Earth's Geological Time Scales",
-      "slug": "earths-geological-time-scales",
-      "_aliases": [
-        "Geologic Time Scale",
-        "Geological Time Scale"
-      ],
-      "domain": "Geology",
-      "area": "Earth's History",
-      "parent": "",
-      "grades": [
-        6,
-        8
-      ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "8": 4
-      },
-      "source_BOARDS": [
-        "NCERT"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [
-        "earths-water-cycle"
-      ],
-      "related": [],
-      "see_also": []
-    },
-    "earths-natural-resources": {
-      "canonical_name": "Earth's Natural Resources",
-      "slug": "earths-natural-resources",
-      "aliases": [],
-      "domain": "Environmental Science",
-      "area": "Natural Resources Management",
-      "parent": null,
+    "adaptations": {
+      "canonical_name": "Adaptations",
+      "slug": "adaptations",
       "grades": [
         6
       ],
-      "importance-by-grade": {
-        "6": 5
-      },
-      "source_Boards": [
-        "NCERT"
-      ],
-      "subject": "science",
+      "area": "Ecology",
+      "description": "How organisms are suited to their environment; desert, aquatic, mountain adaptations",
       "prerequisites": [
-        "plate-tectoncs"
+        "diversity-of-organisms"
       ],
       "leads_to": [
-        "atomic-structure",
-        "climate-change",
-        "density",
-        "earths-oceans",
-        "energy",
-        "equation-of-motion",
-        "force",
-        "mass",
-        "measurement-errors",
-        "measuring-temperature",
-        "solar-power-systems",
-        "standard-units",
-        "types-of-thermometers",
-        "what-is-matter",
-        "working-of-a-generator"
+        "food-chains-and-webs"
       ],
-      "related": [],
-      "see_also": []
+      "aliases": [
+        "habitat and adaptation",
+        "how organisms survive where they live",
+        "desert and aquatic animals"
+      ],
+      "subject": "biology"
     },
-    "earths-biodversity-hotspots": {
-      "canonical_name": "Earth's Biodversity Hotspots",
-      "slug": "earths-biodversity-hotspots",
-      "_aliases": [
-        "Biodiversity hotspots",
-        "Ecosystems"
-      ],
-      "domain": "Ecology",
-      "area": "Conservation Biology",
-      "parent": null,
+    "fossil-fuels": {
+      "canonical_name": "Fossil Fuels",
+      "slug": "fossil-fuels",
       "grades": [
         6
       ],
-      "importance-by-grade": {
-        "6": 5
-      },
-      "source_Boards": [
-        "NCERT"
+      "area": "Ecology",
+      "description": "Coal, petroleum and natural gas formed from the remains of ancient organisms; exhaustible",
+      "aliases": [
+        "coal and petroleum",
+        "natural gas",
+        "non-renewable fuels"
       ],
-      "subject": "science",
       "prerequisites": [],
       "leads_to": [
-        "evolution",
-        "population-dynamics"
+        "natural-resources-management",
+        "air-pollution",
+        "sustainable-development"
       ],
-      "related": [],
-      "see_also": []
+      "subject": "biology"
     },
-    "earths-environmental-conservation": {
-      "canonical_name": "Earth's Environmental Conservation",
-      "slug": "earths-environmental-conservation",
-      "aliases": [
-        "Environmental Conservation",
-        "Conserving Our Environment"
-      ],
-      "domain": "Science",
-      "area": "Environmental Studies",
-      "parent": "",
+    "forests-and-their-importance": {
+      "canonical_name": "Forests and Their Importance",
+      "slug": "forests-and-their-importance",
       "grades": [
-        6,
-        8
+        6
       ],
-      "importance_BY_GRADE": {
-        "6": 5,
-        "8": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "state board"
+      "area": "Ecology",
+      "description": "Forests as a resource: oxygen, timber, habitat for wildlife and protection of soil",
+      "aliases": [
+        "forests",
+        "why forests matter",
+        "deforestation"
       ],
-      "subject": "science",
       "prerequisites": [],
       "leads_to": [
-        "climate-change",
-        "energy",
-        "energy-conservation",
-        "measuring-temperature",
-        "population-dynamics",
-        "propagation-of-sound",
-        "work-energy-and-power"
+        "biodiversity",
+        "natural-resources-management"
       ],
-      "related": [],
-      "see_also": []
-    },
-    "mixtures": {
-      "canonical_name": "Mixtures",
-      "slug": "mixtures",
-      "_aliases": [
-        "Mixture",
-        "Blends"
-      ],
-      "domain": "Chemistry",
-      "area": "States of Matter",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 4,
-        "9": 5,
-        "10": 3
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "leaves-as-food-factories",
-        "natural-resource-management",
-        "states-of-water",
-        "what-is-matter"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "energy": {
-      "canonical_name": "Energy",
-      "slug": "energy",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Thermodynamics",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-environmental-conservation",
-        "earths-natural-resources",
-        "food-chain-dynamics",
-        "natural-disasters"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "types-of-pure-elements-and-compounds": {
-      "canonical_name": "Types of Pure Elements and Compounds",
-      "slug": "types-of-pure-elements-and-compounds",
-      "_aliases": [
-        "Pure Elements",
-        "Elements",
-        "Compounds"
-      ],
-      "domain": "Chemistry",
-      "area": "Atomic Structure and Properties",
-      "parent": "chemistry",
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "valency": {
-      "canonical_name": "Valency",
-      "slug": "valency",
-      "_aliases": [
-        "Definition of valency",
-        "Types of valency",
-        "Valency of metals",
-        "Valency of non-metalls",
-        "Electron Configuration",
-        "Chemical Reactivity",
-        "Chemistry Bonding"
-      ],
-      "domain": "Atomic Structure",
-      "area": "Periodic Table and Elements",
-      "parent": "periodic-table-and-elements",
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance by grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "food-chain-dynamics",
-        "leaves-as-food-factories",
-        "natural-resource-management",
-        "states-of-matter"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "living-organisms": {
-      "canonical_name": "Living Organisms",
-      "slug": "living-organisms",
-      "aliases": [],
-      "domain": "Biology",
-      "area": "Characteristics of Living Organisms",
-      "parents": [
-        {
-          "name": "biology",
-          "level": "Domain"
-        },
-        {
-          "value": "characteristics-of-living-organisms",
-          "level": "Area"
-        }
-      ],
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 1,
-        "8": 2,
-        "9": 3,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "diversity-in-plants-and-animal-around-us",
-        "leaves-as-food-factories",
-        "life-cycle-of-plants",
-        "what-sets-the-living-apart-from-the-non-living"
-      ],
-      "leads_to": [],
-      "related": [
-        "climate-change",
-        "food-chain-dynamics",
-        "plate-tectoncs"
-      ],
-      "see_also": []
-    },
-    "first-law-of-motion-newton-s-first-law": {
-      "canonical_name": "First Law of Motion Newton's First Law",
-      "slug": "first-law-of-motion-newton-s-first-law",
-      "aliases": [
-        "Law of Motion",
-        "Inertia"
-      ],
-      "domain": "Physics",
-      "area": "Newton's Law of Motion and Universal Gravitation",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 5,
-        "10": 4
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "mass": {
-      "canonical_name": "Mass",
-      "slug": "mass",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Properties of Matter",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-natural-resources",
-        "states-of-water",
-        "what-is-matter"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "evolution": {
-      "canonical_name": "Evolution",
-      "slug": "evolution",
-      "_aliases": [
-        "Species Change And Fossil Record",
-        "Mechanisms Of Evolution",
-        "Evolutionary Adaptations And Speciation",
-        "Phylogenetic Trees And Cladistics",
-        "Evolution Relationships And Homologous Structures"
-      ],
-      "domain": "Biology",
-      "area": "Ecology And Evolution",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance by grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 5,
-        "10": 4
-      },
-      "source boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "diversity-in-plants-and-animal-around-us",
-        "earths-biodversity-hotspots",
-        "life-cycle-of-plants"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "population-dynamics": {
-      "canonical_name": "Population Dynamics",
-      "slug": "population-dynamics",
-      "aliases": [
-        "Demography",
-        "Population Growth"
-      ],
-      "domain": "Science",
-      "area": "Biology/Ecology",
-      "parent": "",
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance_By_Grade": {
-        "6": 1,
-        "7": 1,
-        "8": 2,
-        "9": 4,
-        "10": 5
-      },
-      "Source_Boards": [
-        "NCERT",
-        "state Boards"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-biodversity-hotspots",
-        "earths-environmental-conservation",
-        "food-chain-dynamics",
-        "human-impact-on-the-environmental-conservation",
-        "leaves-as-food-factories",
-        "life-cycle-of-plants",
-        "natural-resource-management",
-        "water-pollution"
-      ],
-      "leads_to": [],
-      "related": [
-        "food-chain-dynamics",
-        "human-impact-on-the-environmental-conservation"
-      ],
-      "see_also": []
+      "subject": "biology"
     }
-  },
-  "edges": [
-    {
-      "from": "what-sets-the-living-apart-from-the-non-living",
-      "to": "what-we-eat",
-      "type": "prerequisite"
-    },
-    {
-      "from": "what-sets-the-living-apart-from-the-non-living",
-      "to": "living-organisms",
-      "type": "prerequisite"
-    },
-    {
-      "from": "life-cycle-of-plants",
-      "to": "what-we-eat",
-      "type": "prerequisite"
-    },
-    {
-      "from": "life-cycle-of-plants",
-      "to": "living-organisms",
-      "type": "prerequisite"
-    },
-    {
-      "from": "life-cycle-of-plants",
-      "to": "evolution",
-      "type": "prerequisite"
-    },
-    {
-      "from": "life-cycle-of-plants",
-      "to": "population-dynamics",
-      "type": "prerequisite"
-    },
-    {
-      "from": "water-pollution",
-      "to": "what-we-eat",
-      "type": "prerequisite"
-    },
-    {
-      "from": "water-pollution",
-      "to": "population-dynamics",
-      "type": "prerequisite"
-    },
-    {
-      "from": "natural-resource-management",
-      "to": "water-pollution",
-      "type": "prerequisite"
-    },
-    {
-      "from": "natural-resource-management",
-      "to": "what-we-eat",
-      "type": "prerequisite"
-    },
-    {
-      "from": "natural-resource-management",
-      "to": "soil-erosion",
-      "type": "prerequisite"
-    },
-    {
-      "from": "natural-resource-management",
-      "to": "mixtures",
-      "type": "prerequisite"
-    },
-    {
-      "from": "natural-resource-management",
-      "to": "valency",
-      "type": "prerequisite"
-    },
-    {
-      "from": "natural-resource-management",
-      "to": "population-dynamics",
-      "type": "prerequisite"
-    },
-    {
-      "from": "diversity-in-plants-and-animal-around-us",
-      "to": "what-we-eat",
-      "type": "prerequisite"
-    },
-    {
-      "from": "diversity-in-plants-and-animal-around-us",
-      "to": "living-organisms",
-      "type": "prerequisite"
-    },
-    {
-      "from": "diversity-in-plants-and-animal-around-us",
-      "to": "evolution",
-      "type": "prerequisite"
-    },
-    {
-      "from": "what-is-matter",
-      "to": "mixtures",
-      "type": "prerequisite"
-    },
-    {
-      "from": "what-is-matter",
-      "to": "mass",
-      "type": "prerequisite"
-    },
-    {
-      "from": "states-of-water",
-      "to": "measuring-temperature",
-      "type": "prerequisite"
-    },
-    {
-      "from": "states-of-water",
-      "to": "mixtures",
-      "type": "prerequisite"
-    },
-    {
-      "from": "states-of-water",
-      "to": "mass",
-      "type": "prerequisite"
-    },
-    {
-      "from": "human-impact-on-the-environmental-conservation",
-      "to": "population-dynamics",
-      "type": "prerequisite"
-    },
-    {
-      "from": "natural-disasters",
-      "to": "earths-oceans",
-      "type": "prerequisite"
-    },
-    {
-      "from": "natural-disasters",
-      "to": "energy",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-rotation-and-revolutions",
-      "to": "our-solar-system",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-natural-resources",
-      "to": "standard-units",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-natural-resources",
-      "to": "what-is-matter",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-natural-resources",
-      "to": "measuring-temperature",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-natural-resources",
-      "to": "earths-oceans",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-natural-resources",
-      "to": "energy",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-natural-resources",
-      "to": "mass",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-biodversity-hotspots",
-      "to": "evolution",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-biodversity-hotspots",
-      "to": "population-dynamics",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-environmental-conservation",
-      "to": "measuring-temperature",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-environmental-conservation",
-      "to": "energy",
-      "type": "prerequisite"
-    },
-    {
-      "from": "earths-environmental-conservation",
-      "to": "population-dynamics",
-      "type": "prerequisite"
-    }
-  ],
-  "entry_points": [
-    "what-sets-the-living-apart-from-the-non-living",
-    "life-cycle-of-plants",
-    "soil-composition",
-    "natural-resource-management",
-    "diversity-in-plants-and-animal-around-us",
-    "balanced-diet",
-    "magnetic-and-non-magnetic-materials",
-    "attraction-and-repulsion-between-magnets",
-    "position-in-a-coordinate-system",
-    "observing-everyday-objects",
-    "states-of-water",
-    "cooling-effect",
-    "cellular-respiration",
-    "human-impact-on-the-environmental-conservation",
-    "natural-disasters",
-    "earths-rotation-and-revolutions",
-    "earths-geological-time-scales",
-    "earths-natural-resources",
-    "earths-biodversity-hotspots",
-    "earths-environmental-conservation",
-    "types-of-pure-elements-and-compounds",
-    "first-law-of-motion-newton-s-first-law"
-  ]
+  }
 }

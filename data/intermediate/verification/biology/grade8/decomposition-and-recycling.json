@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- no arithmetic errors",
+    "tokens": 1170,
+    "said": "VERDICT: ok\n- no arithmetic errors\n- no internal inconsistencies\n- all claims, counts, and rules align with the page's own content\n- the worked example follows the stated decomposition process\n- the key points match the explanations given above\n- no contradictions between sections\n- no unsupported counts or rules"
+  }
+]

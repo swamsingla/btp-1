@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- The arithmetic 500 − 50 = 450 is correct.",
+    "tokens": 971,
+    "said": "VERDICT: ok\n\n- The arithmetic 500 − 50 = 450 is correct.\n- The page states the rest of the water is released through leaves, and the worked example subtracts 50 from 500 to get 450, which matches.\n- The page mentions four key points in the \"Key points\" list (transpiration, stomata, minerals, leaves), and the list contains exactly four bullet points.\n- The page does not claim any other specific counts (e.g., number of factors, number of rules) that would require verification against the text."
+  }
+]

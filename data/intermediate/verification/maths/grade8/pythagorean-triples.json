@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- 3² + 4² = 9 + 16 = 25 = 5² (correct)",
+    "tokens": 2271,
+    "said": "VERDICT: ok\n- 3² + 4² = 9 + 16 = 25 = 5² (correct)\n- 5² + 12² = 25 + 144 = 169 = 13² (correct)\n- 8² + 15² = 64 + 225 = 289 = 17² (correct)\n- 7² + 24² = 49 + 576 = 625 = 25² (correct)\n- 12² + 35² = 144 + 1225 = 1369 = 37² (correct)\n- 15² + 36² = 225 + 1296 = 1521 = 39² (correct)\n- 3 × 4 × 5 = 12, 9 × 12 × 15 = 162 (common factor 3, correct)\n- (5-1)² + 9 = 16 + 9 = 25 = 5² (correct)\n- (13-1)² + 25 = 144 + 25 = 169 = 13² (correct)\n- 8 × 5 = 40, 15 × 5 = 75, 17 × 5 = 85 (correct)\n- 40² + 75² = 1600 + 5625 = 7225 = 85² (correct)\n- Sum of first n odd numbers = n² (stated correctly, examples consistent)\n- All internal definitions and examples match each other consistently."
+  }
+]

@@ -1,0 +1,5122 @@
+{
+  "subject": "science",
+  "version": "v1-v2-own-grade",
+  "description": "Dense knowledge graph for Grades 6-12 NCERT Science (Physics + Chemistry + Biology) — v2: only concept-grade pairs whose own grade's book teaches them (see graph_v2_report.json)",
+  "total_concepts": 197,
+  "total_edges": 237,
+  "concepts": {
+    "ac-circuits-lcr": {
+      "canonical_name": "LCR Circuits and Resonance",
+      "slug": "ac-circuits-lcr",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Impedance; phase; series LCR; resonance frequency; Q-factor; power factor",
+      "prerequisites": [
+        "alternating-current",
+        "capacitance"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "acceleration": {
+      "canonical_name": "Acceleration",
+      "slug": "acceleration",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Rate of change of velocity; uniform acceleration; deceleration",
+      "prerequisites": [
+        "speed-and-velocity"
+      ],
+      "leads_to": [
+        "equations-of-motion",
+        "newtons-second-law",
+        "simple-harmonic-motion"
+      ],
+      "subject": "physics"
+    },
+    "acceleration-due-to-gravity": {
+      "canonical_name": "Acceleration Due to Gravity",
+      "slug": "acceleration-due-to-gravity",
+      "grades": [
+        9
+      ],
+      "area": "Gravitation",
+      "description": "g = GM/R²; variation with altitude, depth and latitude",
+      "prerequisites": [
+        "gravitation-intro"
+      ],
+      "leads_to": [
+        "buoyancy-and-archimedes",
+        "projectile-motion"
+      ],
+      "subject": "physics"
+    },
+    "acids-bases-indicators": {
+      "canonical_name": "Acids, Bases and Indicators",
+      "slug": "acids-bases-indicators",
+      "grades": [
+        7,
+        10
+      ],
+      "area": "Acids Bases and Salts",
+      "description": "Acidic, basic, neutral substances; litmus, phenolphthalein, methyl orange",
+      "prerequisites": [
+        "physical-vs-chemical-change"
+      ],
+      "leads_to": [
+        "properties-of-acids-bases"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter2_000",
+          "g10_science_chapter2_001",
+          "g10_science_chapter2_002",
+          "g10_science_chapter2_003"
+        ]
+      }
+    },
+    "adaptations": {
+      "canonical_name": "Adaptations",
+      "slug": "adaptations",
+      "grades": [
+        6
+      ],
+      "area": "Ecology",
+      "description": "How organisms are suited to their environment; desert, aquatic, mountain adaptations",
+      "prerequisites": [],
+      "leads_to": [
+        "food-chains-and-webs"
+      ],
+      "aliases": [
+        "habitat and adaptation",
+        "how organisms survive where they live",
+        "desert and aquatic animals"
+      ],
+      "subject": "biology"
+    },
+    "adolescence-and-puberty": {
+      "canonical_name": "Adolescence and Puberty",
+      "slug": "adolescence-and-puberty",
+      "grades": [
+        7
+      ],
+      "area": "Reproduction",
+      "description": "Physical and emotional changes of the teenage years and the onset of reproductive capability",
+      "aliases": [
+        "puberty",
+        "growing with age",
+        "the teenage years",
+        "changes at adolescence"
+      ],
+      "prerequisites": [],
+      "leads_to": [
+        "human-reproductive-system",
+        "reproductive-health"
+      ],
+      "subject": "biology"
+    },
+    "air-pollution": {
+      "canonical_name": "Air Pollution",
+      "slug": "air-pollution",
+      "grades": [
+        8
+      ],
+      "area": "Environmental Chemistry",
+      "description": "Pollutants; smog; acid rain; greenhouse effect; ozone depletion",
+      "prerequisites": [
+        "fossil-fuels",
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "polluted air",
+        "smog and acid rain",
+        "greenhouse gases",
+        "quality of the air"
+      ],
+      "subject": "chemistry"
+    },
+    "alcohols-phenols-ethers": {
+      "canonical_name": "Alcohols, Phenols and Ethers",
+      "slug": "alcohols-phenols-ethers",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Preparation, properties and reactions; dehydration; acidity of phenols",
+      "prerequisites": [
+        "covalent-bonding",
+        "functional-groups",
+        "reactions-of-hydrocarbons"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "aldehydes-ketones-carboxylic-acids": {
+      "canonical_name": "Aldehydes, Ketones and Carboxylic Acids",
+      "slug": "aldehydes-ketones-carboxylic-acids",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Nucleophilic addition; Cannizzaro, aldol reactions; acidity of carboxylic acids",
+      "prerequisites": [
+        "covalent-bonding",
+        "functional-groups",
+        "reactions-of-hydrocarbons"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "alternating-current": {
+      "canonical_name": "Alternating Current",
+      "slug": "alternating-current",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "AC vs DC; peak and rms values; AC circuits with R, L, C",
+      "prerequisites": [
+        "electromagnetic-induction",
+        "ohms-law"
+      ],
+      "leads_to": [
+        "ac-circuits-lcr",
+        "photoelectric-effect"
+      ],
+      "subject": "physics"
+    },
+    "amines": {
+      "canonical_name": "Amines",
+      "slug": "amines",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Classification; basicity; preparation; diazonium salts",
+      "prerequisites": [
+        "covalent-bonding",
+        "functional-groups",
+        "reactions-of-hydrocarbons"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "animal-husbandry": {
+      "canonical_name": "Animal Husbandry",
+      "slug": "animal-husbandry",
+      "grades": [
+        9
+      ],
+      "area": "Agriculture and Food Resources",
+      "description": "Scientific rearing of cattle, poultry, fish and bees for food and other produce",
+      "aliases": [
+        "cattle farming",
+        "poultry farming",
+        "fish production",
+        "bee-keeping",
+        "marine and inland fisheries"
+      ],
+      "prerequisites": [
+        "components-of-food"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "animal-kingdom": {
+      "canonical_name": "Animal Kingdom",
+      "slug": "animal-kingdom",
+      "grades": [
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Porifera to Chordata; distinguishing features of each phylum",
+      "prerequisites": [
+        "five-kingdom-classification"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "animal-nutrition": {
+      "canonical_name": "Nutrition in Animals",
+      "slug": "animal-nutrition",
+      "grades": [
+        7
+      ],
+      "area": "Nutrition and Digestion",
+      "description": "Feeding mechanisms; digestion in amoeba, grasshopper; ruminants",
+      "prerequisites": [
+        "components-of-food",
+        "modes-of-nutrition"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "nutrition in animals",
+        "digestion in animals",
+        "ruminants",
+        "how animals obtain food"
+      ],
+      "subject": "biology"
+    },
+    "animal-reproduction": {
+      "canonical_name": "Reproduction in Animals",
+      "slug": "animal-reproduction",
+      "grades": [
+        8
+      ],
+      "area": "Reproduction",
+      "description": "External and internal fertilisation; oviparous and viviparous; metamorphosis",
+      "prerequisites": [],
+      "leads_to": [
+        "human-reproductive-system",
+        "sexual-reproduction-overview"
+      ],
+      "subject": "biology"
+    },
+    "antibiotics-and-vaccines": {
+      "canonical_name": "Antibiotics and Vaccines",
+      "slug": "antibiotics-and-vaccines",
+      "grades": [
+        8
+      ],
+      "area": "Health and Disease",
+      "description": "Antibiotics: penicillin; vaccines: how they work; importance of immunisation",
+      "prerequisites": [
+        "microorganisms"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "treatment of diseases",
+        "penicillin",
+        "vaccine",
+        "immunisation"
+      ],
+      "subject": "biology"
+    },
+    "applications-of-biotechnology": {
+      "canonical_name": "Applications of Biotechnology",
+      "slug": "applications-of-biotechnology",
+      "grades": [
+        12
+      ],
+      "area": "Biotechnology",
+      "description": "GM crops; gene therapy; DNA fingerprinting; transgenic animals",
+      "prerequisites": [
+        "mendels-laws",
+        "recombinant-dna-technology"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "asexual-reproduction": {
+      "canonical_name": "Asexual Reproduction",
+      "slug": "asexual-reproduction",
+      "grades": [
+        10
+      ],
+      "area": "Reproduction",
+      "description": "Binary fission, budding, fragmentation, spore formation, regeneration",
+      "prerequisites": [
+        "cell-basic-unit",
+        "plant-reproduction-asexual"
+      ],
+      "leads_to": [],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "7.2.1 Fission",
+          "g10_science_chapter7_009",
+          "7.2.3 Regeneration",
+          "7.2.4 Budding",
+          "7.2.5 Vegetative Propagation",
+          "7.2.6 Spore Formation"
+        ]
+      }
+    },
+    "atmospheric-pressure": {
+      "canonical_name": "Atmospheric Pressure",
+      "slug": "atmospheric-pressure",
+      "grades": [
+        8
+      ],
+      "area": "Fluid Mechanics",
+      "description": "Air exerts pressure; barometer; effects of atmospheric pressure",
+      "prerequisites": [
+        "fluid-pressure",
+        "pressure-concept"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "atomic-models-physics": {
+      "canonical_name": "Atomic Models (Physics)",
+      "slug": "atomic-models-physics",
+      "grades": [
+        9,
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Thomson, Rutherford, Bohr models; alpha-particle scattering",
+      "prerequisites": [],
+      "leads_to": [
+        "nuclear-structure"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "9": [
+          "4.2 The Structure of an Atom",
+          "4.2.1 THOMSON'S MODEL OF AN ATOM",
+          "4.2.2 RUTHERFORD'S MODEL OF AN ATOM",
+          "4.2.3 BOHR'S MODEL OF ATOM"
+        ],
+        "12": [
+          "12.1 INTRODUCTION",
+          "12.2 ALPHA-PARTICLE SCATTERING AND",
+          "12.2.1 Alpha-particle trajectory"
+        ]
+      }
+    },
+    "atomic-number-mass-number": {
+      "canonical_name": "Atomic Number and Mass Number",
+      "slug": "atomic-number-mass-number",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Z = protons; A = protons + neutrons; isotopes and isobars",
+      "prerequisites": [
+        "atoms-and-molecules"
+      ],
+      "leads_to": [
+        "bohrs-model-chemistry",
+        "carbon-and-its-compounds",
+        "chemical-bonding-intro",
+        "isotopes-isobars",
+        "nuclear-structure",
+        "periodic-properties",
+        "reactivity-series",
+        "vsepr-theory"
+      ],
+      "subject": "chemistry"
+    },
+    "atoms-and-molecules": {
+      "canonical_name": "Atoms and Molecules",
+      "slug": "atoms-and-molecules",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Dalton's atomic theory; atom as smallest particle of element; molecule",
+      "prerequisites": [
+        "pure-substances"
+      ],
+      "leads_to": [
+        "atomic-number-mass-number",
+        "chemical-formula-writing",
+        "mole-concept"
+      ],
+      "subject": "chemistry"
+    },
+    "balanced-diet": {
+      "canonical_name": "Balanced Diet",
+      "slug": "balanced-diet",
+      "grades": [
+        6
+      ],
+      "area": "Nutrition and Digestion",
+      "description": "Proportions of nutrients; deficiency diseases: scurvy, rickets, beri-beri",
+      "prerequisites": [
+        "components-of-food"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "band-theory": {
+      "canonical_name": "Band Theory of Solids",
+      "slug": "band-theory",
+      "grades": [
+        12
+      ],
+      "area": "Solid State",
+      "description": "Valence and conduction bands; conductors, semiconductors, insulators",
+      "prerequisites": [
+        "chemical-bonding-intro"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "energy bands",
+        "conductors semiconductors and insulators",
+        "valence and conduction band"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "12": [
+          "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
+        ]
+      }
+    },
+    "batteries-and-fuel-cells": {
+      "canonical_name": "Batteries and Fuel Cells",
+      "slug": "batteries-and-fuel-cells",
+      "grades": [
+        12
+      ],
+      "area": "Electrochemistry",
+      "description": "Primary and secondary cells; lead-acid, lithium-ion; hydrogen fuel cell",
+      "prerequisites": [
+        "electrode-potential"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "bernoullis-principle": {
+      "canonical_name": "Bernoulli's Principle",
+      "slug": "bernoullis-principle",
+      "grades": [
+        11
+      ],
+      "area": "Fluid Mechanics",
+      "description": "P + ½ρv² + ρgh = constant; applications: Venturi meter, airplane lift",
+      "prerequisites": [
+        "conservation-of-energy",
+        "fluid-pressure"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "Bernoulli's equation",
+        "pressure and velocity of a fluid",
+        "streamline flow"
+      ],
+      "subject": "physics"
+    },
+    "biodiversity": {
+      "canonical_name": "Biodiversity",
+      "slug": "biodiversity",
+      "grades": [
+        12
+      ],
+      "area": "Ecology",
+      "description": "Genetic, species, ecosystem diversity; hotspots; importance",
+      "prerequisites": [
+        "classification-of-organisms",
+        "forests-and-their-importance"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "biomolecules-intro": {
+      "canonical_name": "Biomolecules — Introduction",
+      "slug": "biomolecules-intro",
+      "grades": [
+        11
+      ],
+      "area": "Biomolecules",
+      "description": "Carbohydrates, lipids, proteins, nucleic acids; their biological roles",
+      "prerequisites": [
+        "components-of-food"
+      ],
+      "leads_to": [
+        "carbohydrates",
+        "dna-structure-replication"
+      ],
+      "subject": "biology"
+    },
+    "biot-savart-law": {
+      "canonical_name": "Biot-Savart Law",
+      "slug": "biot-savart-law",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "dB = (μ₀/4π)(Idl × r̂)/r²; field due to circular loop",
+      "prerequisites": [
+        "magnetic-effect-of-current"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "bohrs-model-chemistry": {
+      "canonical_name": "Bohr's Atomic Model",
+      "slug": "bohrs-model-chemistry",
+      "grades": [
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Quantised energy levels; line spectra of hydrogen; limitations",
+      "prerequisites": [
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [
+        "quantum-mechanical-model"
+      ],
+      "subject": "chemistry"
+    },
+    "breathing-and-gas-exchange": {
+      "canonical_name": "Breathing and Gas Exchange",
+      "slug": "breathing-and-gas-exchange",
+      "grades": [
+        7
+      ],
+      "area": "Human Physiology",
+      "description": "Mechanism of breathing; exchange of gases in alveoli; role of diaphragm",
+      "prerequisites": [
+        "human-respiratory-system"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "buoyancy-and-archimedes": {
+      "canonical_name": "Buoyancy and Archimedes' Principle",
+      "slug": "buoyancy-and-archimedes",
+      "grades": [
+        9
+      ],
+      "area": "Fluid Mechanics",
+      "description": "Upthrust = weight of displaced fluid; floating and sinking; relative density",
+      "prerequisites": [
+        "acceleration-due-to-gravity",
+        "fluid-pressure"
+      ],
+      "leads_to": [],
+      "subject": "physics",
+      "source_sections": {
+        "9": [
+          "g9_science_chapter9_025",
+          "g9_science_chapter9_026",
+          "g9_science_chapter9_027",
+          "g9_science_chapter9_028",
+          "g9_science_chapter9_029",
+          "g9_science_chapter9_030",
+          "g9_science_chapter9_032",
+          "g9_science_chapter9_033"
+        ]
+      }
+    },
+    "capacitance": {
+      "canonical_name": "Capacitance and Capacitors",
+      "slug": "capacitance",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "C = Q/V; parallel plate capacitor; series and parallel combinations; energy stored",
+      "prerequisites": [
+        "coulombs-law",
+        "electric-potential"
+      ],
+      "leads_to": [
+        "ac-circuits-lcr"
+      ],
+      "subject": "physics"
+    },
+    "carbohydrates": {
+      "canonical_name": "Carbohydrates",
+      "slug": "carbohydrates",
+      "grades": [
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "Mono-, di-, polysaccharides; glucose, sucrose, starch, cellulose",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [],
+      "subject": "biology",
+      "source_sections": {
+        "12": [
+          "10.1 Carbohydrates"
+        ]
+      }
+    },
+    "carbon-and-its-compounds": {
+      "canonical_name": "Carbon and Its Compounds",
+      "slug": "carbon-and-its-compounds",
+      "grades": [
+        10
+      ],
+      "area": "Organic Chemistry",
+      "description": "Versatile nature of carbon; tetravalency; catenation",
+      "prerequisites": [
+        "atomic-number-mass-number",
+        "covalent-bonding"
+      ],
+      "leads_to": [
+        "hydrocarbons-intro"
+      ],
+      "subject": "chemistry"
+    },
+    "cell-basic-unit": {
+      "canonical_name": "Cell — Basic Unit of Life",
+      "slug": "cell-basic-unit",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Cell Biology",
+      "description": "Discovery of cells; cell theory; unicellular and multicellular organisms",
+      "prerequisites": [
+        "living-vs-nonliving"
+      ],
+      "leads_to": [
+        "asexual-reproduction",
+        "cell-organelles",
+        "levels-of-organisation",
+        "nervous-system"
+      ],
+      "subject": "biology"
+    },
+    "cell-cycle": {
+      "canonical_name": "Cell Cycle",
+      "slug": "cell-cycle",
+      "grades": [
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Interphase (G1, S, G2); M phase; regulation of cell cycle",
+      "prerequisites": [
+        "cell-organelles"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "cell-organelles": {
+      "canonical_name": "Cell Organelles",
+      "slug": "cell-organelles",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Nucleus, mitochondria, ER, Golgi, lysosomes, ribosomes, vacuoles, plastids",
+      "prerequisites": [
+        "cell-basic-unit"
+      ],
+      "leads_to": [
+        "cell-cycle",
+        "cellular-respiration",
+        "excretory-system",
+        "nervous-system",
+        "plant-hormones"
+      ],
+      "subject": "biology"
+    },
+    "cellular-respiration": {
+      "canonical_name": "Cellular Respiration",
+      "slug": "cellular-respiration",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Glycolysis → Krebs cycle → ETC; aerobic vs anaerobic; ATP",
+      "prerequisites": [
+        "cell-organelles",
+        "human-digestive-system",
+        "photosynthesis",
+        "plant-respiration"
+      ],
+      "leads_to": [],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter5_020",
+          "g10_science_chapter5_021"
+        ],
+        "11": [
+          "12.4 AEROBIC RESPIRATION",
+          "12.5 THE RESPIRATORY BALANCE SHEET",
+          "12.6 AMPHIBOLIC PATHWAY",
+          "12.7 RESPIRATORY QUOTIENT"
+        ]
+      }
+    },
+    "centre-of-mass": {
+      "canonical_name": "Centre of Mass",
+      "slug": "centre-of-mass",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Position of COM; motion of COM; COM frame; system of particles",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "characteristics-of-sound": {
+      "canonical_name": "Characteristics of Sound",
+      "slug": "characteristics-of-sound",
+      "grades": [
+        9
+      ],
+      "area": "Waves and Sound",
+      "description": "Pitch (frequency), loudness (amplitude), quality (timbre)",
+      "prerequisites": [
+        "sound-production"
+      ],
+      "leads_to": [
+        "ultrasound-applications"
+      ],
+      "subject": "physics"
+    },
+    "chemical-bonding-intro": {
+      "canonical_name": "Chemical Bonding — Introduction",
+      "slug": "chemical-bonding-intro",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "Why atoms bond; octet rule; Kossel-Lewis approach",
+      "prerequisites": [
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [
+        "band-theory",
+        "coordination-compounds"
+      ],
+      "subject": "chemistry"
+    },
+    "chemical-equations": {
+      "canonical_name": "Chemical Equations",
+      "slug": "chemical-equations",
+      "grades": [
+        10
+      ],
+      "area": "Chemical Reactions",
+      "description": "Writing and balancing chemical equations; symbols used",
+      "prerequisites": [
+        "chemical-formula-writing",
+        "physical-vs-chemical-change"
+      ],
+      "leads_to": [
+        "enthalpy-changes",
+        "types-of-chemical-reactions"
+      ],
+      "subject": "chemistry"
+    },
+    "chemical-equilibrium": {
+      "canonical_name": "Chemical Equilibrium",
+      "slug": "chemical-equilibrium",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Reactions",
+      "description": "Reversible reactions; equilibrium constant Kc, Kp; Le Chatelier's principle",
+      "prerequisites": [
+        "types-of-chemical-reactions"
+      ],
+      "leads_to": [
+        "ionic-equilibrium"
+      ],
+      "subject": "chemistry"
+    },
+    "chemical-formula-writing": {
+      "canonical_name": "Writing Chemical Formulae",
+      "slug": "chemical-formula-writing",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Criss-cross method; molecular and empirical formulae",
+      "prerequisites": [
+        "atoms-and-molecules",
+        "valency-chemistry"
+      ],
+      "leads_to": [
+        "chemical-equations"
+      ],
+      "subject": "chemistry"
+    },
+    "circuit-diagrams-symbols": {
+      "canonical_name": "Circuit Diagrams and Symbols",
+      "slug": "circuit-diagrams-symbols",
+      "grades": [
+        7
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Standard symbols for a cell, switch, bulb and wires, and drawing a circuit from them",
+      "aliases": [
+        "circuit diagram",
+        "symbols for circuit components",
+        "electric switch",
+        "drawing an electric circuit"
+      ],
+      "prerequisites": [],
+      "leads_to": [
+        "electric-circuit"
+      ],
+      "subject": "physics"
+    },
+    "classification-of-organisms": {
+      "canonical_name": "Classification of Living Organisms",
+      "slug": "classification-of-organisms",
+      "grades": [
+        7
+      ],
+      "area": "Diversity of Life",
+      "description": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species",
+      "prerequisites": [
+        "diversity-of-organisms"
+      ],
+      "leads_to": [
+        "biodiversity",
+        "five-kingdom-classification",
+        "microorganisms"
+      ],
+      "subject": "biology"
+    },
+    "colligative-properties": {
+      "canonical_name": "Colligative Properties",
+      "slug": "colligative-properties",
+      "grades": [
+        12
+      ],
+      "area": "Solutions",
+      "description": "Vapour pressure lowering, boiling point elevation, freezing point depression, osmotic pressure",
+      "prerequisites": [
+        "mole-concept",
+        "solutions-chemistry"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "collision-theory": {
+      "canonical_name": "Collision Theory",
+      "slug": "collision-theory",
+      "grades": [
+        12
+      ],
+      "area": "Chemical Kinetics",
+      "description": "Activation energy; effective collisions; Arrhenius equation",
+      "prerequisites": [
+        "kinetic-theory-of-gases",
+        "types-of-chemical-reactions"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "components-of-food": {
+      "canonical_name": "Components of Food",
+      "slug": "components-of-food",
+      "grades": [
+        6
+      ],
+      "area": "Nutrition and Digestion",
+      "description": "Carbohydrates, proteins, fats, vitamins, minerals, water, dietary fibre",
+      "prerequisites": [],
+      "leads_to": [
+        "animal-husbandry",
+        "animal-nutrition",
+        "balanced-diet",
+        "biomolecules-intro",
+        "human-digestive-system"
+      ],
+      "subject": "biology"
+    },
+    "conservation-of-energy": {
+      "canonical_name": "Conservation of Energy",
+      "slug": "conservation-of-energy",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Energy can neither be created nor destroyed; transformation between forms",
+      "prerequisites": [
+        "kinetic-energy",
+        "potential-energy"
+      ],
+      "leads_to": [
+        "bernoullis-principle",
+        "first-law-of-thermodynamics",
+        "simple-harmonic-motion"
+      ],
+      "subject": "physics"
+    },
+    "coordination-compounds": {
+      "canonical_name": "Coordination Compounds",
+      "slug": "coordination-compounds",
+      "grades": [
+        12
+      ],
+      "area": "Chemical Bonding",
+      "description": "Werner's theory; ligands; coordination number; isomerism; crystal field theory",
+      "prerequisites": [
+        "chemical-bonding-intro",
+        "d-and-f-block-elements"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "coulombs-law": {
+      "canonical_name": "Coulomb's Law",
+      "slug": "coulombs-law",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "F = kq₁q₂/r²; permittivity; superposition principle",
+      "prerequisites": [],
+      "leads_to": [
+        "capacitance",
+        "photoelectric-effect"
+      ],
+      "subject": "physics"
+    },
+    "covalent-bonding": {
+      "canonical_name": "Covalent Bonding",
+      "slug": "covalent-bonding",
+      "grades": [
+        10
+      ],
+      "area": "Chemical Bonding",
+      "description": "Sharing of electrons; single, double, triple bonds; Lewis structures",
+      "prerequisites": [],
+      "leads_to": [
+        "alcohols-phenols-ethers",
+        "aldehydes-ketones-carboxylic-acids",
+        "amines",
+        "carbon-and-its-compounds",
+        "haloalkanes-haloarenes",
+        "vsepr-theory"
+      ],
+      "subject": "chemistry"
+    },
+    "crop-improvement": {
+      "canonical_name": "Crop Variety Improvement",
+      "slug": "crop-improvement",
+      "grades": [
+        9
+      ],
+      "area": "Agriculture and Food Resources",
+      "description": "Breeding crop varieties for higher yield, disease resistance and better quality",
+      "aliases": [
+        "crop variety improvement",
+        "hybridisation of crops",
+        "improvement in crop yields",
+        "plant breeding for yield"
+      ],
+      "prerequisites": [
+        "seed-formation"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "d-and-f-block-elements": {
+      "canonical_name": "d-Block and f-Block Elements",
+      "slug": "d-and-f-block-elements",
+      "grades": [
+        12
+      ],
+      "area": "Periodic Classification",
+      "description": "Transition metals; variable oxidation states; colour; magnetic properties; lanthanoids",
+      "prerequisites": [
+        "periodic-properties"
+      ],
+      "leads_to": [
+        "coordination-compounds"
+      ],
+      "subject": "chemistry"
+    },
+    "darwins-theory": {
+      "canonical_name": "Darwin's Theory of Natural Selection",
+      "slug": "darwins-theory",
+      "grades": [
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Variation, struggle for existence, survival of the fittest; speciation",
+      "prerequisites": [
+        "diversity-of-organisms",
+        "heredity-and-variation"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "decomposition-and-recycling": {
+      "canonical_name": "Decomposition and Nutrient Recycling",
+      "slug": "decomposition-and-recycling",
+      "grades": [
+        8
+      ],
+      "area": "Ecology",
+      "description": "Decomposers break down dead matter and return nutrients to the soil",
+      "aliases": [
+        "what happens to waste in nature",
+        "decomposers",
+        "breakdown of dead matter",
+        "composting"
+      ],
+      "prerequisites": [
+        "microorganisms"
+      ],
+      "leads_to": [],
+      "subject": "biology",
+      "source_sections": {
+        "8": [
+          "12.6 What Happens to Waste in Nature?",
+          "13.4.2 Soil, rocks, and minerals",
+          "13.4.3 Plants, animals, and microorganisms"
+        ]
+      }
+    },
+    "diffraction": {
+      "canonical_name": "Diffraction of Light",
+      "slug": "diffraction",
+      "grades": [
+        12
+      ],
+      "area": "Optics",
+      "description": "Bending of light around obstacles; single slit diffraction pattern",
+      "prerequisites": [
+        "wave-optics-interference"
+      ],
+      "leads_to": [],
+      "subject": "physics",
+      "source_sections": {
+        "12": [
+          "10.6 DIFFRACTION",
+          "10.6.1 The single slit",
+          "10.6.2 Seeing the single slit diffraction pattern"
+        ]
+      }
+    },
+    "dimensional-analysis": {
+      "canonical_name": "Dimensional Analysis",
+      "slug": "dimensional-analysis",
+      "grades": [
+        11
+      ],
+      "area": "Units and Measurement",
+      "description": "Dimensions of physical quantities; dimensional formulae; checking equations",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "diseases-types": {
+      "canonical_name": "Diseases — Types",
+      "slug": "diseases-types",
+      "grades": [
+        8
+      ],
+      "area": "Health and Disease",
+      "description": "Infectious vs non-infectious; acute vs chronic; causes of disease",
+      "prerequisites": [
+        "living-vs-nonliving"
+      ],
+      "leads_to": [
+        "infectious-diseases"
+      ],
+      "aliases": [
+        "communicable and non-communicable diseases",
+        "causes of disease",
+        "what makes us ill",
+        "acute and chronic illness"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter3_009",
+          "g8_science_chapter3_010",
+          "g8_science_chapter3_011",
+          "g8_science_chapter3_012",
+          "g8_science_chapter3_013",
+          "g8_science_chapter3_014",
+          "g8_science_chapter3_015",
+          "g8_science_chapter3_016",
+          "g8_science_chapter3_017"
+        ]
+      }
+    },
+    "dispersion-of-light": {
+      "canonical_name": "Dispersion of Light",
+      "slug": "dispersion-of-light",
+      "grades": [
+        10
+      ],
+      "area": "Optics",
+      "description": "Splitting of white light by prism; rainbow formation; scattering of light",
+      "prerequisites": [
+        "light-sources-and-shadows"
+      ],
+      "leads_to": [
+        "wave-optics-interference"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter10_008",
+          "g10_science_chapter10_009",
+          "g10_science_chapter10_010",
+          "g10_science_chapter10_011",
+          "g10_science_chapter10_012",
+          "g10_science_chapter10_013"
+        ]
+      }
+    },
+    "distance-and-displacement": {
+      "canonical_name": "Distance and Displacement",
+      "slug": "distance-and-displacement",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Scalar (distance) vs vector (displacement); path length vs shortest path",
+      "prerequisites": [
+        "rest-and-motion"
+      ],
+      "leads_to": [
+        "speed-and-velocity",
+        "torque",
+        "work-physics"
+      ],
+      "aliases": [
+        "path length",
+        "motion along a straight line",
+        "describing motion",
+        "scalar and vector quantities"
+      ],
+      "subject": "physics"
+    },
+    "diversity-of-organisms": {
+      "canonical_name": "Diversity of Organisms",
+      "slug": "diversity-of-organisms",
+      "grades": [
+        7
+      ],
+      "area": "Diversity of Life",
+      "description": "Plants and animals around us; variety of habitats",
+      "prerequisites": [
+        "living-vs-nonliving"
+      ],
+      "leads_to": [
+        "classification-of-organisms",
+        "darwins-theory",
+        "ecosystem-concept"
+      ],
+      "subject": "biology"
+    },
+    "dna-structure-replication": {
+      "canonical_name": "DNA Structure and Replication",
+      "slug": "dna-structure-replication",
+      "grades": [
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Watson-Crick model; semiconservative replication; Meselson-Stahl experiment",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [
+        "recombinant-dna-technology"
+      ],
+      "subject": "biology"
+    },
+    "earths-rotation-revolution": {
+      "canonical_name": "Earth's Rotation and Revolution",
+      "slug": "earths-rotation-revolution",
+      "grades": [
+        6
+      ],
+      "area": "Ecology",
+      "description": "Day-night cycle; seasons; equinox and solstice",
+      "prerequisites": [
+        "solar-system"
+      ],
+      "leads_to": [
+        "lunar-eclipse",
+        "natural-disasters",
+        "solar-eclipse"
+      ],
+      "aliases": [
+        "day and night",
+        "the seasons",
+        "our solar system",
+        "movement of the earth"
+      ],
+      "subject": "physics"
+    },
+    "echo-and-reverberation": {
+      "canonical_name": "Echo and Reverberation",
+      "slug": "echo-and-reverberation",
+      "grades": [
+        9
+      ],
+      "area": "Waves and Sound",
+      "description": "Reflection of sound; minimum distance for echo; uses in SONAR",
+      "prerequisites": [
+        "sound-production"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "ecosystem-concept": {
+      "canonical_name": "Ecosystem — Concept",
+      "slug": "ecosystem-concept",
+      "grades": [
+        10
+      ],
+      "area": "Ecology",
+      "description": "Biotic and abiotic components; types of ecosystems",
+      "prerequisites": [
+        "diversity-of-organisms"
+      ],
+      "leads_to": [
+        "food-chains-and-webs"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter13_001",
+          "g10_science_chapter13_002",
+          "g10_science_chapter13_003",
+          "g10_science_chapter13_004"
+        ]
+      }
+    },
+    "elasticity-physics": {
+      "canonical_name": "Elasticity",
+      "slug": "elasticity-physics",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Stress, strain; Hooke's law; Young's modulus; bulk and shear moduli",
+      "prerequisites": [
+        "force-concept"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "electric-circuit": {
+      "canonical_name": "Electric Circuit",
+      "slug": "electric-circuit",
+      "grades": [
+        8
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Open and closed circuits; circuit diagrams; symbols",
+      "prerequisites": [
+        "circuit-diagrams-symbols",
+        "electrical-conductors-insulators"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "electric-current": {
+      "canonical_name": "Electric Current",
+      "slug": "electric-current",
+      "grades": [
+        10
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Flow of charge; I = Q/t; ammeter; direction of current",
+      "prerequisites": [
+        "electrical-conductors-insulators"
+      ],
+      "leads_to": [
+        "electrode-potential",
+        "electromagnetic-induction",
+        "ohms-law"
+      ],
+      "subject": "physics"
+    },
+    "electric-potential": {
+      "canonical_name": "Electric Potential and Potential Difference",
+      "slug": "electric-potential",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "V = W/q; potential due to point charge; equipotential surfaces",
+      "prerequisites": [
+        "work-physics"
+      ],
+      "leads_to": [
+        "capacitance",
+        "ohms-law",
+        "photoelectric-effect"
+      ],
+      "subject": "physics"
+    },
+    "electrical-conductors-insulators": {
+      "canonical_name": "Electrical Conductors and Insulators",
+      "slug": "electrical-conductors-insulators",
+      "grades": [
+        7
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Materials that let electric current pass through them and materials that do not",
+      "aliases": [
+        "conductors and insulators",
+        "materials that conduct electricity",
+        "testing whether a material conducts"
+      ],
+      "prerequisites": [],
+      "leads_to": [
+        "electric-circuit",
+        "electric-current"
+      ],
+      "subject": "physics"
+    },
+    "electrode-potential": {
+      "canonical_name": "Electrode Potential",
+      "slug": "electrode-potential",
+      "grades": [
+        12
+      ],
+      "area": "Electrochemistry",
+      "description": "Standard electrode potential; electrochemical series; Nernst equation",
+      "prerequisites": [
+        "electric-current",
+        "oxidation-reduction"
+      ],
+      "leads_to": [
+        "batteries-and-fuel-cells"
+      ],
+      "subject": "chemistry"
+    },
+    "electromagnetic-induction": {
+      "canonical_name": "Electromagnetic Induction",
+      "slug": "electromagnetic-induction",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Faraday's law; Lenz's law; induced EMF",
+      "prerequisites": [
+        "electric-current",
+        "magnetic-field"
+      ],
+      "leads_to": [
+        "alternating-current"
+      ],
+      "subject": "physics"
+    },
+    "endocrine-system": {
+      "canonical_name": "Endocrine System",
+      "slug": "endocrine-system",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Glands: pituitary, thyroid, adrenal, pancreas; hormones and their functions",
+      "prerequisites": [
+        "nervous-system"
+      ],
+      "leads_to": [
+        "human-reproductive-system"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter6_022",
+          "g10_science_chapter6_023",
+          "g10_science_chapter6_024",
+          "g10_science_chapter6_025",
+          "g10_science_chapter6_026"
+        ]
+      }
+    },
+    "enthalpy-changes": {
+      "canonical_name": "Enthalpy Changes",
+      "slug": "enthalpy-changes",
+      "grades": [
+        11
+      ],
+      "area": "Thermochemistry",
+      "description": "Standard enthalpy of formation, combustion, bond enthalpy; Born-Haber cycle",
+      "prerequisites": [
+        "chemical-equations",
+        "first-law-of-thermodynamics"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "equations-of-motion": {
+      "canonical_name": "Equations of Motion",
+      "slug": "equations-of-motion",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "v = u + at; s = ut + ½at²; v² = u² + 2as; graphical derivation",
+      "prerequisites": [
+        "acceleration"
+      ],
+      "leads_to": [
+        "projectile-motion"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "11": [
+          "2.4 KINEMATIC EQUATIONS FOR UNIFORMLY ACCELERATED MOTION"
+        ]
+      }
+    },
+    "excretory-system": {
+      "canonical_name": "Human Excretory System",
+      "slug": "excretory-system",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Kidneys: nephron structure; urine formation; dialysis",
+      "prerequisites": [
+        "cell-organelles",
+        "human-circulatory-system"
+      ],
+      "leads_to": [],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "5.5 EXCRETION",
+          "5.5.1 Excretion in Human Beings"
+        ],
+        "11": [
+          "16.1 HUMAN EXCRETORY SYSTEM",
+          "16.2 URINE FORMATION",
+          "16.3 FUNCTION OF THE TUBULES",
+          "16.4 MECHANISM OF CONCENTRATION OF THE FILTRATE",
+          "16.6 MICTURITION",
+          "16.8 DISORDERS OF THE EXCRETORY SYSTEM"
+        ]
+      }
+    },
+    "first-law-of-thermodynamics": {
+      "canonical_name": "First Law of Thermodynamics",
+      "slug": "first-law-of-thermodynamics",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "ΔU = Q − W; internal energy; work done by gas; thermodynamic processes",
+      "prerequisites": [
+        "conservation-of-energy",
+        "measurement-of-temperature"
+      ],
+      "leads_to": [
+        "enthalpy-changes"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "11": [
+          "11.4 HEAT, INTERNAL ENERGY AND WORK",
+          "11.5 FIRST LAW OF THERMODYNAMICS",
+          "11.8.2 Isothermal process",
+          "11.8.3 Adiabatic process"
+        ]
+      }
+    },
+    "five-kingdom-classification": {
+      "canonical_name": "Five-Kingdom Classification",
+      "slug": "five-kingdom-classification",
+      "grades": [
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Monera, Protista, Fungi, Plantae, Animalia; criteria: cell type, body organisation, nutrition",
+      "prerequisites": [
+        "classification-of-organisms",
+        "microorganisms"
+      ],
+      "leads_to": [
+        "animal-kingdom",
+        "plant-kingdom"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "11": [
+          "g11_biology_chapter2_000",
+          "g11_biology_chapter2_001",
+          "g11_biology_chapter2_002",
+          "g11_biology_chapter2_003",
+          "2.1 KINGDOM MONERA",
+          "2.2 KINGDOM PROTISTA",
+          "2.3 KINGDOM FUNGI",
+          "2.4 KINGDOM PLANTAE",
+          "2.5 KINGDOM ANIMALIA"
+        ]
+      }
+    },
+    "flower-structure": {
+      "canonical_name": "Flower Structure and Function",
+      "slug": "flower-structure",
+      "grades": [
+        7
+      ],
+      "area": "Reproduction",
+      "description": "Sepals, petals, stamens, carpels; pollination; self and cross pollination",
+      "prerequisites": [],
+      "leads_to": [
+        "pollination-and-fertilisation-plants",
+        "seed-formation"
+      ],
+      "subject": "biology"
+    },
+    "fluid-pressure": {
+      "canonical_name": "Pressure in Fluids",
+      "slug": "fluid-pressure",
+      "grades": [
+        8
+      ],
+      "area": "Fluid Mechanics",
+      "description": "Pressure in liquids; pressure increases with depth; Pascal's law",
+      "prerequisites": [
+        "pressure-concept"
+      ],
+      "leads_to": [
+        "atmospheric-pressure",
+        "bernoullis-principle",
+        "buoyancy-and-archimedes"
+      ],
+      "subject": "physics"
+    },
+    "food-chains-and-webs": {
+      "canonical_name": "Food Chains and Food Webs",
+      "slug": "food-chains-and-webs",
+      "grades": [
+        10
+      ],
+      "area": "Ecology",
+      "description": "Producers, consumers, decomposers; trophic levels; food web",
+      "prerequisites": [
+        "adaptations",
+        "ecosystem-concept"
+      ],
+      "leads_to": [
+        "population-interactions"
+      ],
+      "subject": "biology"
+    },
+    "force-concept": {
+      "canonical_name": "Force — Concept",
+      "slug": "force-concept",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Push or pull; contact and non-contact forces; effects of force",
+      "prerequisites": [
+        "rest-and-motion"
+      ],
+      "leads_to": [
+        "elasticity-physics",
+        "newtons-first-law",
+        "pressure-concept",
+        "torque",
+        "types-of-forces",
+        "work-physics"
+      ],
+      "aliases": [
+        "push or pull",
+        "effects of force",
+        "contact and non-contact forces"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "9": [
+          "8.1 Balanced and Unbalanced Forces"
+        ]
+      }
+    },
+    "forests-and-their-importance": {
+      "canonical_name": "Forests and Their Importance",
+      "slug": "forests-and-their-importance",
+      "grades": [
+        6
+      ],
+      "area": "Ecology",
+      "description": "Forests as a resource: oxygen, timber, habitat for wildlife and protection of soil",
+      "aliases": [
+        "forests",
+        "why forests matter",
+        "deforestation"
+      ],
+      "prerequisites": [],
+      "leads_to": [
+        "biodiversity"
+      ],
+      "subject": "biology"
+    },
+    "fossil-fuels": {
+      "canonical_name": "Fossil Fuels",
+      "slug": "fossil-fuels",
+      "grades": [
+        6
+      ],
+      "area": "Ecology",
+      "description": "Coal, petroleum and natural gas formed from the remains of ancient organisms; exhaustible",
+      "aliases": [
+        "coal and petroleum",
+        "natural gas",
+        "non-renewable fuels"
+      ],
+      "prerequisites": [],
+      "leads_to": [
+        "air-pollution",
+        "sustainable-development"
+      ],
+      "subject": "biology"
+    },
+    "friction": {
+      "canonical_name": "Friction",
+      "slug": "friction",
+      "grades": [
+        8
+      ],
+      "area": "Mechanics",
+      "description": "Static, sliding, rolling friction; factors affecting friction; advantages and disadvantages",
+      "prerequisites": [
+        "types-of-forces"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "force of friction",
+        "static and sliding friction",
+        "rolling friction",
+        "force opposing motion"
+      ],
+      "subject": "physics"
+    },
+    "functional-groups": {
+      "canonical_name": "Functional Groups",
+      "slug": "functional-groups",
+      "grades": [
+        10
+      ],
+      "area": "Organic Chemistry",
+      "description": "Alcohol, aldehyde, ketone, carboxylic acid, amine; homologous series",
+      "prerequisites": [],
+      "leads_to": [
+        "alcohols-phenols-ethers",
+        "aldehydes-ketones-carboxylic-acids",
+        "amines",
+        "nomenclature-iupac"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "10": [
+          "4.2.3 Will you be my Friend?",
+          "4.2.4 Homologous Series"
+        ]
+      }
+    },
+    "gravitation-intro": {
+      "canonical_name": "Gravitation",
+      "slug": "gravitation-intro",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Gravitation",
+      "description": "Every body attracts every other body; Newton's law of gravitation F = GMm/r²",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [
+        "acceleration-due-to-gravity"
+      ],
+      "subject": "physics"
+    },
+    "haloalkanes-haloarenes": {
+      "canonical_name": "Haloalkanes and Haloarenes",
+      "slug": "haloalkanes-haloarenes",
+      "grades": [
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Preparation; SN1, SN2 reactions; elimination; Grignard reagent",
+      "prerequisites": [
+        "covalent-bonding",
+        "nomenclature-iupac",
+        "reactions-of-hydrocarbons"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "heat-and-temperature": {
+      "canonical_name": "Heat and Temperature",
+      "slug": "heat-and-temperature",
+      "grades": [
+        7
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Heat as form of energy; distinction between heat and temperature",
+      "prerequisites": [
+        "measurement-of-temperature"
+      ],
+      "leads_to": [
+        "heat-transfer-modes",
+        "thermal-expansion"
+      ],
+      "aliases": [
+        "hot and cold",
+        "measuring temperature",
+        "thermometer",
+        "heat as a form of energy"
+      ],
+      "subject": "physics"
+    },
+    "heat-transfer-modes": {
+      "canonical_name": "Modes of Heat Transfer",
+      "slug": "heat-transfer-modes",
+      "grades": [
+        7
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Conduction, convection, radiation; conductors and insulators",
+      "prerequisites": [
+        "heat-and-temperature"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "conduction convection and radiation",
+        "conductors and insulators of heat",
+        "transfer of heat"
+      ],
+      "subject": "physics"
+    },
+    "heredity-and-variation": {
+      "canonical_name": "Heredity and Variation",
+      "slug": "heredity-and-variation",
+      "grades": [
+        10
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Inherited vs acquired traits; role of DNA",
+      "prerequisites": [],
+      "leads_to": [
+        "darwins-theory",
+        "mendels-laws"
+      ],
+      "subject": "biology"
+    },
+    "human-circulatory-system": {
+      "canonical_name": "Human Circulatory System",
+      "slug": "human-circulatory-system",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Heart: chambers and valves; arteries, veins, capillaries; blood composition",
+      "prerequisites": [],
+      "leads_to": [
+        "excretory-system"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter5_028",
+          "g10_science_chapter5_029",
+          "g10_science_chapter5_030",
+          "g10_science_chapter5_031",
+          "g10_science_chapter5_032"
+        ],
+        "11": [
+          "15.1 BLOOD",
+          "15.1.1 Plasma",
+          "15.1.2 Formed Elements",
+          "15.3 CIRCULATORY PATHWAYS",
+          "15.3.1 Human Circulatory System",
+          "15.3.2 Cardiac Cycle",
+          "15.4 DOUBLE CIRCULATION",
+          "15.6 DISORDERS OF CIRCULATORY SYSTEM"
+        ]
+      }
+    },
+    "human-digestive-system": {
+      "canonical_name": "Human Digestive System",
+      "slug": "human-digestive-system",
+      "grades": [
+        7,
+        10
+      ],
+      "area": "Nutrition and Digestion",
+      "description": "Mouth → oesophagus → stomach → small intestine → large intestine; role of enzymes",
+      "prerequisites": [
+        "components-of-food",
+        "modes-of-nutrition"
+      ],
+      "leads_to": [
+        "cellular-respiration"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter5_014",
+          "g10_science_chapter5_015",
+          "g10_science_chapter5_016",
+          "g10_science_chapter5_017",
+          "g10_science_chapter5_018"
+        ]
+      }
+    },
+    "human-eye-defects": {
+      "canonical_name": "Human Eye and Defects of Vision",
+      "slug": "human-eye-defects",
+      "grades": [
+        10
+      ],
+      "area": "Optics",
+      "description": "Structure of eye; myopia, hypermetropia, presbyopia; corrective lenses",
+      "prerequisites": [
+        "lens-formula",
+        "spherical-mirrors"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "human-health-diseases-detail": {
+      "canonical_name": "Human Health and Disease — Detail",
+      "slug": "human-health-diseases-detail",
+      "grades": [
+        12
+      ],
+      "area": "Health and Disease",
+      "description": "Cancer; AIDS; drugs and alcohol abuse; common diseases and prevention",
+      "prerequisites": [
+        "infectious-diseases"
+      ],
+      "leads_to": [],
+      "subject": "biology",
+      "source_sections": {
+        "12": [
+          "7.3 AIDS",
+          "7.5 DRUGS AND ALCOHOL ABUSE",
+          "7.5.3 Effects of Drug/Alcohol Abuse"
+        ]
+      }
+    },
+    "human-reproductive-system": {
+      "canonical_name": "Human Reproductive System",
+      "slug": "human-reproductive-system",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Male and female reproductive organs; gametogenesis",
+      "prerequisites": [
+        "adolescence-and-puberty",
+        "animal-reproduction",
+        "endocrine-system",
+        "sexual-reproduction-overview"
+      ],
+      "leads_to": [
+        "reproductive-health"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "7.3.3 (a) Male Reproductive System",
+          "7.3.3 (b) Female Reproductive System",
+          "7.3.3 Reproduction in Human Beings"
+        ]
+      }
+    },
+    "human-respiratory-system": {
+      "canonical_name": "Human Respiratory System",
+      "slug": "human-respiratory-system",
+      "grades": [
+        7,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Nose → pharynx → trachea → bronchi → lungs; alveoli; gas exchange",
+      "prerequisites": [],
+      "leads_to": [
+        "breathing-and-gas-exchange"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "11": [
+          "14.1 RESPIRATORY ORGANS",
+          "14.1.1 Human Respiratory System",
+          "14.2 MECHANISM OF BREATHING",
+          "14.2.1 Respiratory Volumes and Capacities"
+        ]
+      }
+    },
+    "hydrocarbons-intro": {
+      "canonical_name": "Hydrocarbons — Introduction",
+      "slug": "hydrocarbons-intro",
+      "grades": [
+        11
+      ],
+      "area": "Organic Chemistry",
+      "description": "Saturated and unsaturated; alkanes, alkenes, alkynes; nomenclature",
+      "prerequisites": [
+        "carbon-and-its-compounds"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "infectious-diseases": {
+      "canonical_name": "Infectious Diseases",
+      "slug": "infectious-diseases",
+      "grades": [
+        12
+      ],
+      "area": "Health and Disease",
+      "description": "Bacterial, viral, fungal, protozoal diseases; modes of transmission",
+      "prerequisites": [
+        "diseases-types",
+        "microorganisms"
+      ],
+      "leads_to": [
+        "human-health-diseases-detail"
+      ],
+      "aliases": [
+        "common diseases in humans",
+        "communicable diseases",
+        "pathogens",
+        "modes of transmission"
+      ],
+      "subject": "biology"
+    },
+    "ionic-equilibrium": {
+      "canonical_name": "Ionic Equilibrium",
+      "slug": "ionic-equilibrium",
+      "grades": [
+        11
+      ],
+      "area": "Solutions",
+      "description": "Buffer solutions; Henderson-Hasselbalch equation; solubility product Ksp",
+      "prerequisites": [
+        "chemical-equilibrium",
+        "ph-scale"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "isotopes-isobars": {
+      "canonical_name": "Isotopes and Isobars",
+      "slug": "isotopes-isobars",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Same Z different A (isotopes); same A different Z (isobars); applications",
+      "prerequisites": [
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "isotopes",
+        "isobars",
+        "atomic number and mass number",
+        "structure of the atom"
+      ],
+      "subject": "chemistry"
+    },
+    "kinetic-energy": {
+      "canonical_name": "Kinetic Energy",
+      "slug": "kinetic-energy",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "KE = ½mv²; work-energy theorem",
+      "prerequisites": [
+        "speed-and-velocity",
+        "work-physics"
+      ],
+      "leads_to": [
+        "conservation-of-energy",
+        "work-energy-theorem"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "9": [
+          "g9_science_chapter10_015",
+          "g9_science_chapter10_016",
+          "g9_science_chapter10_017",
+          "g9_science_chapter10_018",
+          "g9_science_chapter10_019"
+        ]
+      }
+    },
+    "kinetic-theory-of-gases": {
+      "canonical_name": "Kinetic Theory of Gases",
+      "slug": "kinetic-theory-of-gases",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Molecular model; pressure from molecular collisions; rms speed; degrees of freedom",
+      "prerequisites": [
+        "measurement-of-temperature",
+        "newtons-second-law"
+      ],
+      "leads_to": [
+        "collision-theory"
+      ],
+      "subject": "physics"
+    },
+    "kirchhoffs-laws": {
+      "canonical_name": "Kirchhoff's Laws",
+      "slug": "kirchhoffs-laws",
+      "grades": [
+        12
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Junction rule (current); loop rule (voltage); Wheatstone bridge",
+      "prerequisites": [
+        "ohms-law",
+        "resistance-and-resistivity"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "law-of-conservation-of-mass": {
+      "canonical_name": "Law of Conservation of Mass",
+      "slug": "law-of-conservation-of-mass",
+      "grades": [
+        9
+      ],
+      "area": "Chemical Reactions",
+      "description": "Mass is neither created nor destroyed in a chemical reaction",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "subject": "chemistry",
+      "source_sections": {
+        "9": [
+          "3.1 Laws of Chemical Combination",
+          "3.1.1 LAW OF CONSERVATION OF MASS",
+          "3.1.2 LAW OF CONSTANT PROPORTIONS"
+        ]
+      }
+    },
+    "lens-formula": {
+      "canonical_name": "Lens Formula and Magnification",
+      "slug": "lens-formula",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Optics",
+      "description": "1/v − 1/u = 1/f; magnification; power of a lens P = 1/f",
+      "prerequisites": [
+        "lenses"
+      ],
+      "leads_to": [
+        "human-eye-defects"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "12": [
+          "9.5 REFRACTION AT SPHERICAL SURFACES AND BY LENSES",
+          "9.5.2 Refraction by a lens"
+        ]
+      }
+    },
+    "lenses": {
+      "canonical_name": "Lenses",
+      "slug": "lenses",
+      "grades": [
+        8,
+        10
+      ],
+      "area": "Optics",
+      "description": "Convex and concave lenses; optical centre, focus, focal length",
+      "prerequisites": [
+        "light-sources-and-shadows"
+      ],
+      "leads_to": [
+        "lens-formula"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter10_020",
+          "g8_science_chapter10_021",
+          "g8_science_chapter10_022",
+          "g8_science_chapter10_023",
+          "g8_science_chapter10_024",
+          "g8_science_chapter10_025"
+        ]
+      }
+    },
+    "levels-of-organisation": {
+      "canonical_name": "Levels of Organisation",
+      "slug": "levels-of-organisation",
+      "grades": [
+        8
+      ],
+      "area": "Cell Biology",
+      "description": "Cell → Tissue → Organ → Organ System → Organism",
+      "prerequisites": [
+        "cell-basic-unit"
+      ],
+      "leads_to": [
+        "tissue-types"
+      ],
+      "subject": "biology"
+    },
+    "light-sources-and-shadows": {
+      "canonical_name": "Light — Sources and Shadows",
+      "slug": "light-sources-and-shadows",
+      "grades": [
+        7
+      ],
+      "area": "Optics",
+      "description": "Luminous and non-luminous objects; opaque, translucent, transparent; shadow formation",
+      "prerequisites": [],
+      "leads_to": [
+        "dispersion-of-light",
+        "lenses",
+        "lunar-eclipse",
+        "reflection-of-light",
+        "snells-law",
+        "solar-eclipse"
+      ],
+      "aliases": [
+        "shadow formation",
+        "luminous and non-luminous",
+        "opaque transparent and translucent",
+        "light shadows and reflections"
+      ],
+      "subject": "physics"
+    },
+    "living-vs-nonliving": {
+      "canonical_name": "Living and Non-Living Things",
+      "slug": "living-vs-nonliving",
+      "grades": [
+        6
+      ],
+      "area": "Diversity of Life",
+      "description": "Characteristics of living things: growth, respiration, reproduction, response to stimuli",
+      "prerequisites": [],
+      "leads_to": [
+        "cell-basic-unit",
+        "diseases-types",
+        "diversity-of-organisms",
+        "modes-of-nutrition"
+      ],
+      "subject": "biology"
+    },
+    "lunar-eclipse": {
+      "canonical_name": "Lunar Eclipse",
+      "slug": "lunar-eclipse",
+      "grades": [
+        7
+      ],
+      "area": "Optics",
+      "description": "The Earth passes between the Sun and the Moon, so the Moon moves through the Earth's shadow",
+      "aliases": [
+        "lunar eclipse",
+        "eclipse of the Moon",
+        "Earth's shadow on the Moon"
+      ],
+      "prerequisites": [
+        "earths-rotation-revolution",
+        "light-sources-and-shadows"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "magnetic-effect-of-current": {
+      "canonical_name": "Magnetic Effect of Electric Current",
+      "slug": "magnetic-effect-of-current",
+      "grades": [
+        8,
+        10
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Oersted's experiment; field due to straight conductor; right-hand thumb rule",
+      "prerequisites": [],
+      "leads_to": [
+        "biot-savart-law"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter4_001",
+          "g8_science_chapter4_002",
+          "g8_science_chapter4_003",
+          "g8_science_chapter4_004",
+          "g8_science_chapter4_005",
+          "g8_science_chapter4_006",
+          "g8_science_chapter4_007",
+          "g8_science_chapter4_008",
+          "g8_science_chapter4_010"
+        ],
+        "10": [
+          "g10_science_chapter12_006",
+          "g10_science_chapter12_007",
+          "g10_science_chapter12_008",
+          "g10_science_chapter12_009",
+          "g10_science_chapter12_010",
+          "g10_science_chapter12_011"
+        ]
+      }
+    },
+    "magnetic-field": {
+      "canonical_name": "Magnetic Field and Field Lines",
+      "slug": "magnetic-field",
+      "grades": [
+        10
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Magnetic field lines; properties; Earth's magnetic field",
+      "prerequisites": [
+        "magnets-and-magnetism"
+      ],
+      "leads_to": [
+        "electromagnetic-induction"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter12_002",
+          "g10_science_chapter12_003",
+          "g10_science_chapter12_004",
+          "g10_science_chapter12_005"
+        ]
+      }
+    },
+    "magnets-and-magnetism": {
+      "canonical_name": "Magnets and Magnetism",
+      "slug": "magnets-and-magnetism",
+      "grades": [
+        6
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Natural and artificial magnets; poles; attraction and repulsion; compass",
+      "prerequisites": [],
+      "leads_to": [
+        "magnetic-field"
+      ],
+      "subject": "physics"
+    },
+    "measurement-of-length": {
+      "canonical_name": "Measurement of Length",
+      "slug": "measurement-of-length",
+      "grades": [
+        6
+      ],
+      "area": "Units and Measurement",
+      "description": "Measuring length using ruler, metre scale; unit conversions",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [
+        "rest-and-motion"
+      ],
+      "subject": "physics"
+    },
+    "measurement-of-mass": {
+      "canonical_name": "Measurement of Mass",
+      "slug": "measurement-of-mass",
+      "grades": [
+        6
+      ],
+      "area": "Units and Measurement",
+      "description": "Measuring mass using beam balance; units: gram, kilogram",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "measuring mass",
+        "beam balance",
+        "gram and kilogram",
+        "how heavy an object is"
+      ],
+      "subject": "physics"
+    },
+    "measurement-of-temperature": {
+      "canonical_name": "Measurement of Temperature",
+      "slug": "measurement-of-temperature",
+      "grades": [
+        6
+      ],
+      "area": "Units and Measurement",
+      "description": "Thermometer; Celsius and Fahrenheit scales; clinical vs laboratory thermometer",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [
+        "first-law-of-thermodynamics",
+        "heat-and-temperature",
+        "kinetic-theory-of-gases"
+      ],
+      "subject": "physics"
+    },
+    "measurement-of-time": {
+      "canonical_name": "Measurement of Time",
+      "slug": "measurement-of-time",
+      "grades": [
+        6
+      ],
+      "area": "Units and Measurement",
+      "description": "Measuring time using clock, stopwatch; units: second, minute, hour",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [
+        "rest-and-motion"
+      ],
+      "aliases": [
+        "measuring time",
+        "stopwatch",
+        "second minute and hour",
+        "time interval"
+      ],
+      "subject": "physics"
+    },
+    "mendels-laws": {
+      "canonical_name": "Mendel's Laws of Inheritance",
+      "slug": "mendels-laws",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Genetics and Evolution",
+      "description": "Law of dominance, segregation, independent assortment; monohybrid and dihybrid crosses",
+      "prerequisites": [
+        "heredity-and-variation"
+      ],
+      "leads_to": [
+        "applications-of-biotechnology"
+      ],
+      "subject": "biology"
+    },
+    "metals-nonmetals-properties": {
+      "canonical_name": "Properties of Metals and Non-metals",
+      "slug": "metals-nonmetals-properties",
+      "grades": [
+        8,
+        10
+      ],
+      "area": "Periodic Classification",
+      "description": "Physical and chemical properties; malleability, ductility, conductivity",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [
+        "reactivity-series"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter3_001",
+          "g10_science_chapter3_002",
+          "g10_science_chapter3_003",
+          "g10_science_chapter3_004",
+          "g10_science_chapter3_005",
+          "g10_science_chapter3_006",
+          "g10_science_chapter3_007",
+          "g10_science_chapter3_008",
+          "g10_science_chapter3_009",
+          "g10_science_chapter3_010",
+          "g10_science_chapter3_012",
+          "g10_science_chapter3_013",
+          "g10_science_chapter3_014",
+          "g10_science_chapter3_015",
+          "g10_science_chapter3_016",
+          "g10_science_chapter3_017",
+          "g10_science_chapter3_018"
+        ]
+      }
+    },
+    "microbes-in-human-welfare": {
+      "canonical_name": "Microbes in Human Welfare",
+      "slug": "microbes-in-human-welfare",
+      "grades": [
+        12
+      ],
+      "area": "Biotechnology",
+      "description": "Industrial products; biogas; sewage treatment; biocontrol agents; biofertilisers",
+      "prerequisites": [
+        "microorganisms"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "microorganisms": {
+      "canonical_name": "Microorganisms",
+      "slug": "microorganisms",
+      "grades": [
+        8
+      ],
+      "area": "Diversity of Life",
+      "description": "Bacteria, viruses, fungi, protozoa; useful and harmful microorganisms",
+      "prerequisites": [
+        "classification-of-organisms"
+      ],
+      "leads_to": [
+        "antibiotics-and-vaccines",
+        "decomposition-and-recycling",
+        "five-kingdom-classification",
+        "infectious-diseases",
+        "microbes-in-human-welfare"
+      ],
+      "aliases": [
+        "bacteria virus fungi and protozoa",
+        "microbes",
+        "useful and harmful microorganisms"
+      ],
+      "subject": "biology"
+    },
+    "mirror-formula": {
+      "canonical_name": "Mirror Formula and Magnification",
+      "slug": "mirror-formula",
+      "grades": [
+        10
+      ],
+      "area": "Optics",
+      "description": "1/v + 1/u = 1/f; magnification m = −v/u; sign convention",
+      "prerequisites": [
+        "spherical-mirrors"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "mixtures-types": {
+      "canonical_name": "Mixtures — Types and Properties",
+      "slug": "mixtures-types",
+      "grades": [
+        8
+      ],
+      "area": "Matter and Classification",
+      "description": "Homogeneous and heterogeneous mixtures; solutions, suspensions, colloids",
+      "prerequisites": [],
+      "leads_to": [
+        "solutions-chemistry"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter8_001",
+          "g8_science_chapter8_004",
+          "g8_science_chapter8_006",
+          "g8_science_chapter8_008"
+        ]
+      }
+    },
+    "modes-of-nutrition": {
+      "canonical_name": "Modes of Nutrition",
+      "slug": "modes-of-nutrition",
+      "grades": [
+        7,
+        10
+      ],
+      "area": "Nutrition and Digestion",
+      "description": "Autotrophic and heterotrophic; saprophytic, parasitic, holozoic",
+      "prerequisites": [
+        "living-vs-nonliving"
+      ],
+      "leads_to": [
+        "animal-nutrition",
+        "human-digestive-system"
+      ],
+      "subject": "biology"
+    },
+    "mole-concept": {
+      "canonical_name": "Mole Concept",
+      "slug": "mole-concept",
+      "grades": [
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Avogadro's number; molar mass; mole as counting unit",
+      "prerequisites": [
+        "atoms-and-molecules"
+      ],
+      "leads_to": [
+        "colligative-properties"
+      ],
+      "subject": "chemistry"
+    },
+    "natural-disasters": {
+      "canonical_name": "Natural Disasters",
+      "slug": "natural-disasters",
+      "grades": [
+        8
+      ],
+      "area": "Ecology",
+      "description": "Earthquakes, volcanoes, floods, cyclones; preparedness",
+      "prerequisites": [
+        "earths-rotation-revolution"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "earthquake",
+        "cyclone and floods",
+        "volcano",
+        "disaster preparedness"
+      ],
+      "subject": "biology"
+    },
+    "nervous-system": {
+      "canonical_name": "Nervous System",
+      "slug": "nervous-system",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "CNS and PNS; neuron structure; reflex arc; synapse",
+      "prerequisites": [
+        "cell-basic-unit",
+        "cell-organelles"
+      ],
+      "leads_to": [
+        "endocrine-system"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "6.1 ANIMALS - NERVOUS SYSTEM",
+          "6.1.2 Human Brain",
+          "6.1.4 How does the Nervous Tissue cause Action?"
+        ],
+        "11": [
+          "18.1 NEURAL SYSTEM",
+          "18.2 HUMAN NEURAL SYSTEM",
+          "18.3 NEURON AS STRUCTURAL AND FUNCTIONAL UNIT OF NEURAL SYSTEM",
+          "18.3.1 Generation and Conduction of Nerve Impulse",
+          "18.3.2 Transmission of Impulses"
+        ]
+      }
+    },
+    "neutralisation": {
+      "canonical_name": "Neutralisation Reaction",
+      "slug": "neutralisation",
+      "grades": [
+        7
+      ],
+      "area": "Acids Bases and Salts",
+      "description": "Acid + Base → Salt + Water; exothermic",
+      "prerequisites": [],
+      "leads_to": [
+        "properties-of-acids-bases"
+      ],
+      "subject": "chemistry"
+    },
+    "newtons-first-law": {
+      "canonical_name": "Newton's First Law of Motion",
+      "slug": "newtons-first-law",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Law of inertia; objects at rest stay at rest unless acted upon by net force",
+      "prerequisites": [
+        "force-concept"
+      ],
+      "leads_to": [
+        "newtons-second-law"
+      ],
+      "subject": "physics"
+    },
+    "newtons-second-law": {
+      "canonical_name": "Newton's Second Law of Motion",
+      "slug": "newtons-second-law",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "F = ma; net force equals mass times acceleration",
+      "prerequisites": [
+        "acceleration",
+        "newtons-first-law"
+      ],
+      "leads_to": [
+        "centre-of-mass",
+        "gravitation-intro",
+        "kinetic-theory-of-gases",
+        "newtons-third-law"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "9": [
+          "8.4 Second Law of Motion",
+          "8.4.1 MATHEMATICAL FORMULATION OF SECOND LAW OF MOTION"
+        ]
+      }
+    },
+    "newtons-third-law": {
+      "canonical_name": "Newton's Third Law of Motion",
+      "slug": "newtons-third-law",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Every action has an equal and opposite reaction; action-reaction pairs",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "nomenclature-iupac": {
+      "canonical_name": "IUPAC Nomenclature",
+      "slug": "nomenclature-iupac",
+      "grades": [
+        11
+      ],
+      "area": "Organic Chemistry",
+      "description": "Systematic naming rules for organic compounds",
+      "prerequisites": [
+        "functional-groups"
+      ],
+      "leads_to": [
+        "haloalkanes-haloarenes"
+      ],
+      "subject": "chemistry"
+    },
+    "nuclear-structure": {
+      "canonical_name": "Nuclear Structure",
+      "slug": "nuclear-structure",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Nucleus: protons and neutrons; atomic number, mass number; isotopes",
+      "prerequisites": [
+        "atomic-models-physics",
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "ohms-law": {
+      "canonical_name": "Ohm's Law",
+      "slug": "ohms-law",
+      "grades": [
+        10
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "V = IR; resistance; V-I characteristics",
+      "prerequisites": [
+        "electric-current",
+        "electric-potential"
+      ],
+      "leads_to": [
+        "alternating-current",
+        "kirchhoffs-laws",
+        "resistance-and-resistivity"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter11_008",
+          "g10_science_chapter11_009",
+          "g10_science_chapter11_010",
+          "g10_science_chapter11_011",
+          "g10_science_chapter11_012",
+          "g10_science_chapter11_013"
+        ]
+      }
+    },
+    "organism-interactions": {
+      "canonical_name": "Interactions Among Organisms",
+      "slug": "organism-interactions",
+      "grades": [
+        8
+      ],
+      "area": "Ecology",
+      "description": "How living things affect one another and their surroundings: predation, competition and living together",
+      "aliases": [
+        "interactions among organisms and their surroundings",
+        "who lives together in nature",
+        "balance in ecosystems"
+      ],
+      "prerequisites": [],
+      "leads_to": [
+        "population-interactions"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter12_004",
+          "g8_science_chapter12_005",
+          "g8_science_chapter12_007",
+          "g8_science_chapter12_008",
+          "g8_science_chapter12_009",
+          "g8_science_chapter12_010",
+          "g8_science_chapter12_011",
+          "g8_science_chapter12_012"
+        ]
+      }
+    },
+    "oxidation-reduction": {
+      "canonical_name": "Oxidation and Reduction",
+      "slug": "oxidation-reduction",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Reactions",
+      "description": "Loss/gain of electrons; oxidation number; redox reactions",
+      "prerequisites": [
+        "types-of-chemical-reactions"
+      ],
+      "leads_to": [
+        "electrode-potential"
+      ],
+      "subject": "chemistry"
+    },
+    "particle-nature-of-matter": {
+      "canonical_name": "Particle Nature of Matter",
+      "slug": "particle-nature-of-matter",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Matter is made of tiny particles; diffusion; Brownian motion",
+      "prerequisites": [
+        "states-of-matter-chemistry"
+      ],
+      "leads_to": [
+        "pure-substances"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter7_001",
+          "g8_science_chapter7_002",
+          "g8_science_chapter7_004",
+          "g8_science_chapter7_006",
+          "g8_science_chapter7_007",
+          "g8_science_chapter7_008",
+          "g8_science_chapter7_009",
+          "g8_science_chapter7_010",
+          "g8_science_chapter7_013",
+          "g8_science_chapter7_014",
+          "g8_science_chapter7_015",
+          "g8_science_chapter7_016"
+        ],
+        "9": [
+          "g9_science_chapter1_001",
+          "g9_science_chapter1_002",
+          "g9_science_chapter1_003",
+          "g9_science_chapter1_004",
+          "g9_science_chapter1_005",
+          "g9_science_chapter1_006",
+          "g9_science_chapter1_007",
+          "g9_science_chapter1_008",
+          "g9_science_chapter1_009",
+          "g9_science_chapter1_010"
+        ]
+      }
+    },
+    "periodic-properties": {
+      "canonical_name": "Periodic Properties",
+      "slug": "periodic-properties",
+      "grades": [
+        11
+      ],
+      "area": "Periodic Classification",
+      "description": "Atomic radius, ionisation enthalpy, electron affinity, electronegativity; trends",
+      "prerequisites": [
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [
+        "d-and-f-block-elements"
+      ],
+      "subject": "chemistry"
+    },
+    "ph-scale": {
+      "canonical_name": "pH Scale",
+      "slug": "ph-scale",
+      "grades": [
+        10
+      ],
+      "area": "Acids Bases and Salts",
+      "description": "pH = −log[H⁺]; acidic < 7, neutral = 7, basic > 7; pH meter; universal indicator",
+      "prerequisites": [
+        "properties-of-acids-bases",
+        "solutions-chemistry"
+      ],
+      "leads_to": [
+        "ionic-equilibrium"
+      ],
+      "subject": "chemistry"
+    },
+    "photoelectric-effect": {
+      "canonical_name": "Photoelectric Effect",
+      "slug": "photoelectric-effect",
+      "grades": [
+        12
+      ],
+      "area": "Modern Physics",
+      "description": "Einstein's equation; threshold frequency; stopping potential; photon",
+      "prerequisites": [
+        "alternating-current",
+        "coulombs-law",
+        "electric-potential"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "photosynthesis": {
+      "canonical_name": "Photosynthesis",
+      "slug": "photosynthesis",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; light and dark reactions; chlorophyll",
+      "prerequisites": [],
+      "leads_to": [
+        "cellular-respiration"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter5_007",
+          "g10_science_chapter5_008",
+          "g10_science_chapter5_009",
+          "g10_science_chapter5_010",
+          "g10_science_chapter5_011"
+        ]
+      }
+    },
+    "physical-quantities": {
+      "canonical_name": "Physical Quantities",
+      "slug": "physical-quantities",
+      "grades": [
+        6
+      ],
+      "area": "Units and Measurement",
+      "description": "Measurable attributes of the physical world: length, mass, time, temperature",
+      "prerequisites": [],
+      "leads_to": [
+        "si-units"
+      ],
+      "subject": "physics"
+    },
+    "physical-vs-chemical-change": {
+      "canonical_name": "Physical and Chemical Changes",
+      "slug": "physical-vs-chemical-change",
+      "grades": [
+        7
+      ],
+      "area": "Chemical Reactions",
+      "description": "Reversible vs irreversible; indicators of chemical change",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [
+        "acids-bases-indicators",
+        "chemical-equations"
+      ],
+      "aliases": [
+        "physical and chemical changes",
+        "reversible and irreversible change",
+        "changes around us"
+      ],
+      "subject": "chemistry"
+    },
+    "plant-hormones": {
+      "canonical_name": "Plant Hormones",
+      "slug": "plant-hormones",
+      "grades": [
+        10
+      ],
+      "area": "Plant Biology",
+      "description": "Auxins, gibberellins, cytokinins, abscisic acid, ethylene; tropic movements",
+      "prerequisites": [
+        "cell-organelles"
+      ],
+      "leads_to": [],
+      "subject": "biology",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter6_014",
+          "g10_science_chapter6_015",
+          "g10_science_chapter6_016",
+          "g10_science_chapter6_017",
+          "g10_science_chapter6_018",
+          "g10_science_chapter6_019",
+          "g10_science_chapter6_020"
+        ]
+      }
+    },
+    "plant-kingdom": {
+      "canonical_name": "Plant Kingdom",
+      "slug": "plant-kingdom",
+      "grades": [
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Thallophyta, Bryophyta, Pteridophyta, Gymnosperms, Angiosperms",
+      "prerequisites": [
+        "five-kingdom-classification"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "plant-reproduction-asexual": {
+      "canonical_name": "Asexual Reproduction in Plants",
+      "slug": "plant-reproduction-asexual",
+      "grades": [
+        7
+      ],
+      "area": "Reproduction",
+      "description": "Vegetative propagation: cutting, layering, grafting; budding, fragmentation",
+      "prerequisites": [],
+      "leads_to": [
+        "asexual-reproduction"
+      ],
+      "subject": "biology"
+    },
+    "plant-respiration": {
+      "canonical_name": "Respiration in Plants",
+      "slug": "plant-respiration",
+      "grades": [
+        7
+      ],
+      "area": "Plant Biology",
+      "description": "Aerobic and anaerobic; fermentation; compensation point",
+      "prerequisites": [],
+      "leads_to": [
+        "cellular-respiration"
+      ],
+      "subject": "biology"
+    },
+    "pollination-and-fertilisation-plants": {
+      "canonical_name": "Pollination and Fertilisation in Plants",
+      "slug": "pollination-and-fertilisation-plants",
+      "grades": [
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Agents of pollination; pollen-pistil interaction; double fertilisation",
+      "prerequisites": [
+        "flower-structure"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "population-interactions": {
+      "canonical_name": "Population Interactions",
+      "slug": "population-interactions",
+      "grades": [
+        12
+      ],
+      "area": "Ecology",
+      "description": "Competition, predation, parasitism, mutualism, commensalism, amensalism",
+      "prerequisites": [
+        "food-chains-and-webs",
+        "organism-interactions"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "potential-energy": {
+      "canonical_name": "Potential Energy",
+      "slug": "potential-energy",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Gravitational PE = mgh; elastic PE; zero reference",
+      "prerequisites": [
+        "work-physics"
+      ],
+      "leads_to": [
+        "conservation-of-energy"
+      ],
+      "subject": "physics"
+    },
+    "power-physics": {
+      "canonical_name": "Power",
+      "slug": "power-physics",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Rate of doing work; P = W/t; unit: watt",
+      "prerequisites": [
+        "work-physics"
+      ],
+      "leads_to": [],
+      "subject": "physics",
+      "source_sections": {
+        "9": [
+          "g9_science_chapter10_033",
+          "g9_science_chapter10_034",
+          "g9_science_chapter10_035",
+          "g9_science_chapter10_036",
+          "g9_science_chapter10_038"
+        ]
+      }
+    },
+    "pressure-concept": {
+      "canonical_name": "Pressure",
+      "slug": "pressure-concept",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Pressure = Force/Area; applications in everyday life",
+      "prerequisites": [
+        "force-concept"
+      ],
+      "leads_to": [
+        "atmospheric-pressure",
+        "fluid-pressure"
+      ],
+      "aliases": [
+        "force per unit area",
+        "pressure exerted by air",
+        "atmospheric pressure",
+        "thrust and pressure"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "9": [
+          "9.5 Thrust and Pressure",
+          "9.5.1 PRESSURE IN FLUIDS"
+        ]
+      }
+    },
+    "projectile-motion": {
+      "canonical_name": "Projectile Motion",
+      "slug": "projectile-motion",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Motion in 2D under gravity; range, maximum height, time of flight",
+      "prerequisites": [
+        "acceleration-due-to-gravity",
+        "equations-of-motion"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "properties-of-acids-bases": {
+      "canonical_name": "Properties of Acids and Bases",
+      "slug": "properties-of-acids-bases",
+      "grades": [
+        10
+      ],
+      "area": "Acids Bases and Salts",
+      "description": "Taste, conductivity, reaction with metals, carbonates; Arrhenius definition",
+      "prerequisites": [
+        "acids-bases-indicators",
+        "neutralisation"
+      ],
+      "leads_to": [
+        "ph-scale"
+      ],
+      "aliases": [
+        "what do all acids and bases have in common",
+        "reaction of acids with metals",
+        "litmus test",
+        "acid base indicators"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter2_004",
+          "g10_science_chapter2_005",
+          "g10_science_chapter2_006",
+          "g10_science_chapter2_007",
+          "g10_science_chapter2_008",
+          "g10_science_chapter2_009",
+          "g10_science_chapter2_011",
+          "g10_science_chapter2_012"
+        ]
+      }
+    },
+    "pure-substances": {
+      "canonical_name": "Pure Substances",
+      "slug": "pure-substances",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Elements and compounds; homogeneous composition; fixed properties",
+      "prerequisites": [
+        "particle-nature-of-matter"
+      ],
+      "leads_to": [
+        "atoms-and-molecules"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter8_009",
+          "g8_science_chapter8_011",
+          "g8_science_chapter8_015",
+          "g8_science_chapter8_019",
+          "g8_science_chapter8_025"
+        ]
+      }
+    },
+    "quantum-mechanical-model": {
+      "canonical_name": "Quantum Mechanical Model",
+      "slug": "quantum-mechanical-model",
+      "grades": [
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Schrödinger equation (qualitative); orbitals; quantum numbers; shapes of s, p, d orbitals",
+      "prerequisites": [
+        "bohrs-model-chemistry"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "reactions-of-hydrocarbons": {
+      "canonical_name": "Reactions of Hydrocarbons",
+      "slug": "reactions-of-hydrocarbons",
+      "grades": [
+        10
+      ],
+      "area": "Organic Chemistry",
+      "description": "Combustion, addition, substitution reactions; tests for saturation",
+      "prerequisites": [],
+      "leads_to": [
+        "alcohols-phenols-ethers",
+        "aldehydes-ketones-carboxylic-acids",
+        "amines",
+        "haloalkanes-haloarenes"
+      ],
+      "aliases": [
+        "combustion addition and substitution reactions",
+        "carbon compounds",
+        "saturated and unsaturated hydrocarbons"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter4_021",
+          "g10_science_chapter4_022",
+          "g10_science_chapter4_023",
+          "g10_science_chapter4_024",
+          "g10_science_chapter4_025",
+          "g10_science_chapter4_026",
+          "g10_science_chapter4_027",
+          "g10_science_chapter4_028"
+        ]
+      }
+    },
+    "reactivity-series": {
+      "canonical_name": "Reactivity Series",
+      "slug": "reactivity-series",
+      "grades": [
+        10
+      ],
+      "area": "Chemical Reactions",
+      "description": "Ordering metals by reactivity; displacement reactions; extraction principles",
+      "prerequisites": [
+        "atomic-number-mass-number",
+        "metals-nonmetals-properties"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "recombinant-dna-technology": {
+      "canonical_name": "Recombinant DNA Technology",
+      "slug": "recombinant-dna-technology",
+      "grades": [
+        12
+      ],
+      "area": "Biotechnology",
+      "description": "Steps: isolation, cutting, amplification (PCR), ligation, transformation",
+      "prerequisites": [
+        "dna-structure-replication"
+      ],
+      "leads_to": [
+        "applications-of-biotechnology"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "12": [
+          "9.2 TOOLS OF RECOMBINANT DNA TECHNOLOGY",
+          "9.2.1 Restriction Enzymes",
+          "9.2.2 Cloning Vectors",
+          "9.2.3 Competent Host (For Transformation with Recombinant DNA)",
+          "9.3 PROCESSES OF RECOMBINANT DNA TECHNOLOGY"
+        ]
+      }
+    },
+    "reflection-of-light": {
+      "canonical_name": "Reflection of Light",
+      "slug": "reflection-of-light",
+      "grades": [
+        8
+      ],
+      "area": "Optics",
+      "description": "Laws of reflection; regular and diffuse reflection",
+      "prerequisites": [
+        "light-sources-and-shadows"
+      ],
+      "leads_to": [
+        "spherical-mirrors"
+      ],
+      "subject": "physics"
+    },
+    "reproductive-health": {
+      "canonical_name": "Reproductive Health",
+      "slug": "reproductive-health",
+      "grades": [
+        12
+      ],
+      "area": "Reproduction",
+      "description": "Family planning; contraception; STIs; infertility; ART",
+      "prerequisites": [
+        "adolescence-and-puberty",
+        "human-reproductive-system"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "resistance-and-resistivity": {
+      "canonical_name": "Resistance and Resistivity",
+      "slug": "resistance-and-resistivity",
+      "grades": [
+        10
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Factors affecting resistance; R = ρl/A; series and parallel resistors",
+      "prerequisites": [
+        "ohms-law"
+      ],
+      "leads_to": [
+        "kirchhoffs-laws"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "10": [
+          "g10_science_chapter11_014",
+          "g10_science_chapter11_015",
+          "g10_science_chapter11_016",
+          "g10_science_chapter11_017",
+          "g10_science_chapter11_018"
+        ]
+      }
+    },
+    "rest-and-motion": {
+      "canonical_name": "Rest and Motion",
+      "slug": "rest-and-motion",
+      "grades": [
+        6
+      ],
+      "area": "Mechanics",
+      "description": "Relative nature of rest and motion; types: rectilinear, circular, oscillatory",
+      "prerequisites": [
+        "measurement-of-length",
+        "measurement-of-time"
+      ],
+      "leads_to": [
+        "distance-and-displacement",
+        "force-concept"
+      ],
+      "aliases": [
+        "moving things",
+        "types of motion",
+        "at rest or in motion",
+        "rectilinear and circular motion"
+      ],
+      "subject": "physics"
+    },
+    "seed-formation": {
+      "canonical_name": "Seed Formation and Dispersal",
+      "slug": "seed-formation",
+      "grades": [
+        7
+      ],
+      "area": "Reproduction",
+      "description": "Fertilisation; development of seed and fruit; dispersal mechanisms",
+      "prerequisites": [
+        "flower-structure"
+      ],
+      "leads_to": [
+        "crop-improvement"
+      ],
+      "aliases": [
+        "formation of fruit and seed",
+        "seed dispersal",
+        "fertilisation in plants",
+        "sexual reproduction in flowering plants"
+      ],
+      "subject": "biology"
+    },
+    "separation-techniques": {
+      "canonical_name": "Separation Techniques",
+      "slug": "separation-techniques",
+      "grades": [
+        6
+      ],
+      "area": "Matter and Classification",
+      "description": "Filtration, evaporation, distillation, chromatography, crystallisation; sublimation",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "filtration evaporation and distillation",
+        "separation of mixtures",
+        "methods of separation",
+        "sieving and winnowing"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "6": [
+          "g6_science_chapter9_000",
+          "g6_science_chapter9_001",
+          "g6_science_chapter9_002",
+          "g6_science_chapter9_015"
+        ]
+      }
+    },
+    "sexual-reproduction-overview": {
+      "canonical_name": "Sexual Reproduction — Overview",
+      "slug": "sexual-reproduction-overview",
+      "grades": [
+        10
+      ],
+      "area": "Reproduction",
+      "description": "Gametes; fertilisation; zygote; advantage of sexual reproduction",
+      "prerequisites": [
+        "animal-reproduction"
+      ],
+      "leads_to": [
+        "human-reproductive-system"
+      ],
+      "subject": "biology"
+    },
+    "si-units": {
+      "canonical_name": "SI Units",
+      "slug": "si-units",
+      "grades": [
+        6
+      ],
+      "area": "Units and Measurement",
+      "description": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela",
+      "prerequisites": [
+        "physical-quantities"
+      ],
+      "leads_to": [
+        "dimensional-analysis",
+        "measurement-of-length",
+        "measurement-of-mass",
+        "measurement-of-temperature",
+        "measurement-of-time"
+      ],
+      "subject": "physics"
+    },
+    "simple-harmonic-motion": {
+      "canonical_name": "Simple Harmonic Motion",
+      "slug": "simple-harmonic-motion",
+      "grades": [
+        11
+      ],
+      "area": "Oscillations",
+      "description": "SHM as projection of uniform circular motion; x = A sin(ωt + φ)",
+      "prerequisites": [
+        "acceleration",
+        "conservation-of-energy"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "snells-law": {
+      "canonical_name": "Snell's Law",
+      "slug": "snells-law",
+      "grades": [
+        10,
+        12
+      ],
+      "area": "Optics",
+      "description": "n₁ sinθ₁ = n₂ sinθ₂; refractive index",
+      "prerequisites": [
+        "light-sources-and-shadows"
+      ],
+      "leads_to": [
+        "wave-optics-interference"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "12": [
+          "9.3 REFRACTION",
+          "9.4 TOTAL INTERNAL REFLECTION",
+          "9.4.1 Total internal reflection in nature and its technological applications"
+        ]
+      }
+    },
+    "solar-eclipse": {
+      "canonical_name": "Solar Eclipse",
+      "slug": "solar-eclipse",
+      "grades": [
+        7
+      ],
+      "area": "Optics",
+      "description": "The Moon passes between the Sun and the Earth and its shadow falls on the Earth",
+      "aliases": [
+        "solar eclipse",
+        "eclipse of the Sun",
+        "Moon's shadow on the Earth"
+      ],
+      "prerequisites": [
+        "earths-rotation-revolution",
+        "light-sources-and-shadows"
+      ],
+      "leads_to": [],
+      "subject": "physics",
+      "source_sections": {
+        "7": [
+          "12.3 Eclipses",
+          "12.3.1 Solar eclipse"
+        ]
+      }
+    },
+    "solar-system": {
+      "canonical_name": "Solar System",
+      "slug": "solar-system",
+      "grades": [
+        6,
+        8
+      ],
+      "area": "Ecology",
+      "description": "Sun, planets, moons, asteroids, comets; Earth's place in the solar system",
+      "prerequisites": [],
+      "leads_to": [
+        "earths-rotation-revolution"
+      ],
+      "subject": "biology",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter13_002",
+          "g8_science_chapter13_003",
+          "g8_science_chapter13_004",
+          "g8_science_chapter13_005",
+          "g8_science_chapter13_006",
+          "g8_science_chapter13_008",
+          "g8_science_chapter13_010",
+          "g8_science_chapter13_012"
+        ]
+      }
+    },
+    "solutions-chemistry": {
+      "canonical_name": "Solutions",
+      "slug": "solutions-chemistry",
+      "grades": [
+        8,
+        9
+      ],
+      "area": "Solutions",
+      "description": "Solute, solvent, solution; concentration; saturated and unsaturated",
+      "prerequisites": [
+        "mixtures-types"
+      ],
+      "leads_to": [
+        "colligative-properties",
+        "ph-scale"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter9_001",
+          "g8_science_chapter9_003",
+          "g8_science_chapter9_004",
+          "g8_science_chapter9_008"
+        ]
+      }
+    },
+    "sound-production": {
+      "canonical_name": "Sound — Production and Propagation",
+      "slug": "sound-production",
+      "grades": [
+        9
+      ],
+      "area": "Waves and Sound",
+      "description": "Sound needs a medium; vibrations produce sound; speed of sound in different media",
+      "prerequisites": [],
+      "leads_to": [
+        "characteristics-of-sound",
+        "echo-and-reverberation"
+      ],
+      "subject": "physics"
+    },
+    "speed-and-velocity": {
+      "canonical_name": "Speed and Velocity",
+      "slug": "speed-and-velocity",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "Speed = distance/time; velocity = displacement/time; uniform and non-uniform motion",
+      "prerequisites": [
+        "distance-and-displacement"
+      ],
+      "leads_to": [
+        "acceleration",
+        "kinetic-energy",
+        "wave-motion"
+      ],
+      "subject": "physics"
+    },
+    "spherical-mirrors": {
+      "canonical_name": "Spherical Mirrors",
+      "slug": "spherical-mirrors",
+      "grades": [
+        8,
+        10
+      ],
+      "area": "Optics",
+      "description": "Concave and convex mirrors; focus, centre of curvature, principal axis",
+      "prerequisites": [
+        "reflection-of-light"
+      ],
+      "leads_to": [
+        "human-eye-defects",
+        "mirror-formula"
+      ],
+      "subject": "physics",
+      "source_sections": {
+        "8": [
+          "g8_science_chapter10_003",
+          "g8_science_chapter10_004",
+          "g8_science_chapter10_006",
+          "g8_science_chapter10_007",
+          "g8_science_chapter10_008"
+        ]
+      }
+    },
+    "states-of-matter-chemistry": {
+      "canonical_name": "States of Matter",
+      "slug": "states-of-matter-chemistry",
+      "grades": [
+        6,
+        9
+      ],
+      "area": "Matter and Classification",
+      "description": "Solid, liquid, gas; arrangement and movement of particles",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [
+        "particle-nature-of-matter",
+        "thermal-expansion",
+        "water-and-its-properties"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "9": [
+          "g9_science_chapter1_012",
+          "g9_science_chapter1_013",
+          "g9_science_chapter1_014",
+          "g9_science_chapter1_015",
+          "g9_science_chapter1_016",
+          "g9_science_chapter1_017"
+        ]
+      }
+    },
+    "sustainable-development": {
+      "canonical_name": "Sustainable Development",
+      "slug": "sustainable-development",
+      "grades": [
+        8
+      ],
+      "area": "Ecology",
+      "description": "Three Rs; rainwater harvesting; watershed management",
+      "prerequisites": [
+        "fossil-fuels"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "reduce reuse recycle",
+        "rainwater harvesting",
+        "conservation of resources",
+        "managing resources"
+      ],
+      "subject": "biology"
+    },
+    "thermal-expansion": {
+      "canonical_name": "Thermal Expansion",
+      "slug": "thermal-expansion",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Linear, area and volume expansion; coefficients; anomalous expansion of water",
+      "prerequisites": [
+        "heat-and-temperature",
+        "states-of-matter-chemistry"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "tissue-types": {
+      "canonical_name": "Tissue Types",
+      "slug": "tissue-types",
+      "grades": [
+        9
+      ],
+      "area": "Cell Biology",
+      "description": "Plant tissues: meristematic, permanent; animal tissues: epithelial, connective, muscular, nervous",
+      "prerequisites": [
+        "levels-of-organisation"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "torque": {
+      "canonical_name": "Torque and Moment of Force",
+      "slug": "torque",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "τ = r × F; turning effect of force; couple",
+      "prerequisites": [
+        "distance-and-displacement",
+        "force-concept"
+      ],
+      "leads_to": [],
+      "subject": "physics",
+      "source_sections": {
+        "11": [
+          "6.7.1 Moment of force (Torque)"
+        ]
+      }
+    },
+    "transpiration": {
+      "canonical_name": "Transpiration",
+      "slug": "transpiration",
+      "grades": [
+        7
+      ],
+      "area": "Plant Biology",
+      "description": "Loss of water from leaves; stomata; factors affecting transpiration",
+      "prerequisites": [
+        "water-cycle"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "types-of-chemical-reactions": {
+      "canonical_name": "Types of Chemical Reactions",
+      "slug": "types-of-chemical-reactions",
+      "grades": [
+        10
+      ],
+      "area": "Chemical Reactions",
+      "description": "Combination, decomposition, displacement, double displacement, redox",
+      "prerequisites": [
+        "chemical-equations"
+      ],
+      "leads_to": [
+        "chemical-equilibrium",
+        "collision-theory",
+        "oxidation-reduction"
+      ],
+      "subject": "chemistry"
+    },
+    "types-of-forces": {
+      "canonical_name": "Types of Forces",
+      "slug": "types-of-forces",
+      "grades": [
+        8
+      ],
+      "area": "Mechanics",
+      "description": "Muscular, frictional, gravitational, magnetic, electrostatic forces",
+      "prerequisites": [
+        "force-concept"
+      ],
+      "leads_to": [
+        "friction"
+      ],
+      "aliases": [
+        "contact and non-contact forces",
+        "muscular force",
+        "magnetic and electrostatic force",
+        "gravitational force"
+      ],
+      "subject": "physics"
+    },
+    "ultrasound-applications": {
+      "canonical_name": "Ultrasound and Its Applications",
+      "slug": "ultrasound-applications",
+      "grades": [
+        9
+      ],
+      "area": "Waves and Sound",
+      "description": "Ultrasound in medical imaging, cleaning, SONAR",
+      "prerequisites": [
+        "characteristics-of-sound"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "valency-chemistry": {
+      "canonical_name": "Valency",
+      "slug": "valency-chemistry",
+      "grades": [
+        9
+      ],
+      "area": "Atomic Structure",
+      "description": "Combining capacity of an atom; relation to outermost shell electrons",
+      "prerequisites": [],
+      "leads_to": [
+        "chemical-formula-writing"
+      ],
+      "subject": "chemistry",
+      "source_sections": {
+        "9": [
+          "4.3 How are Electrons Distributed in Different Orbits (Shells)?",
+          "4.4 Valency"
+        ]
+      }
+    },
+    "vsepr-theory": {
+      "canonical_name": "VSEPR Theory",
+      "slug": "vsepr-theory",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "Predicting shapes of molecules; linear, trigonal planar, tetrahedral, etc.",
+      "prerequisites": [
+        "atomic-number-mass-number",
+        "covalent-bonding"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "water-and-its-properties": {
+      "canonical_name": "Water and Its Properties",
+      "slug": "water-and-its-properties",
+      "grades": [
+        6
+      ],
+      "area": "Environmental Chemistry",
+      "description": "States of water; water cycle; solvent properties",
+      "prerequisites": [
+        "states-of-matter-chemistry",
+        "what-is-matter"
+      ],
+      "leads_to": [
+        "water-cycle"
+      ],
+      "aliases": [
+        "states of water",
+        "the water cycle",
+        "water as a solvent"
+      ],
+      "subject": "chemistry"
+    },
+    "water-cycle": {
+      "canonical_name": "Water Cycle",
+      "slug": "water-cycle",
+      "grades": [
+        6
+      ],
+      "area": "Ecology",
+      "description": "Evaporation, condensation, precipitation; groundwater",
+      "prerequisites": [
+        "water-and-its-properties"
+      ],
+      "leads_to": [
+        "transpiration"
+      ],
+      "subject": "biology"
+    },
+    "wave-motion": {
+      "canonical_name": "Wave Motion",
+      "slug": "wave-motion",
+      "grades": [
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Mechanical and electromagnetic waves; transverse and longitudinal",
+      "prerequisites": [
+        "speed-and-velocity"
+      ],
+      "leads_to": [
+        "wave-optics-interference"
+      ],
+      "subject": "physics"
+    },
+    "wave-optics-interference": {
+      "canonical_name": "Interference of Light",
+      "slug": "wave-optics-interference",
+      "grades": [
+        12
+      ],
+      "area": "Optics",
+      "description": "Young's double slit experiment; fringe width; coherent sources",
+      "prerequisites": [
+        "dispersion-of-light",
+        "snells-law",
+        "wave-motion"
+      ],
+      "leads_to": [
+        "diffraction"
+      ],
+      "subject": "physics"
+    },
+    "what-is-matter": {
+      "canonical_name": "Matter and Its Properties",
+      "slug": "what-is-matter",
+      "grades": [
+        6
+      ],
+      "area": "Matter and Classification",
+      "description": "Anything that has mass and occupies space",
+      "prerequisites": [],
+      "leads_to": [
+        "air-pollution",
+        "law-of-conservation-of-mass",
+        "metals-nonmetals-properties",
+        "physical-vs-chemical-change",
+        "separation-techniques",
+        "states-of-matter-chemistry",
+        "water-and-its-properties"
+      ],
+      "subject": "chemistry"
+    },
+    "work-energy-theorem": {
+      "canonical_name": "Work-Energy Theorem",
+      "slug": "work-energy-theorem",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Net work = change in KE; applications in variable force problems",
+      "prerequisites": [
+        "kinetic-energy",
+        "work-physics"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "work-physics": {
+      "canonical_name": "Work (Physics)",
+      "slug": "work-physics",
+      "grades": [
+        9
+      ],
+      "area": "Mechanics",
+      "description": "W = F·d·cosθ; positive, negative and zero work",
+      "prerequisites": [
+        "distance-and-displacement",
+        "force-concept"
+      ],
+      "leads_to": [
+        "electric-potential",
+        "kinetic-energy",
+        "potential-energy",
+        "power-physics",
+        "work-energy-theorem"
+      ],
+      "subject": "physics"
+    }
+  },
+  "edges": [
+    {
+      "from": "alternating-current",
+      "to": "ac-circuits-lcr",
+      "type": "prerequisite"
+    },
+    {
+      "from": "capacitance",
+      "to": "ac-circuits-lcr",
+      "type": "prerequisite"
+    },
+    {
+      "from": "speed-and-velocity",
+      "to": "acceleration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "gravitation-intro",
+      "to": "acceleration-due-to-gravity",
+      "type": "prerequisite"
+    },
+    {
+      "from": "physical-vs-chemical-change",
+      "to": "acids-bases-indicators",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fossil-fuels",
+      "to": "air-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "air-pollution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "covalent-bonding",
+      "to": "alcohols-phenols-ethers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "functional-groups",
+      "to": "alcohols-phenols-ethers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reactions-of-hydrocarbons",
+      "to": "alcohols-phenols-ethers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "covalent-bonding",
+      "to": "aldehydes-ketones-carboxylic-acids",
+      "type": "prerequisite"
+    },
+    {
+      "from": "functional-groups",
+      "to": "aldehydes-ketones-carboxylic-acids",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reactions-of-hydrocarbons",
+      "to": "aldehydes-ketones-carboxylic-acids",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electromagnetic-induction",
+      "to": "alternating-current",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ohms-law",
+      "to": "alternating-current",
+      "type": "prerequisite"
+    },
+    {
+      "from": "covalent-bonding",
+      "to": "amines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "functional-groups",
+      "to": "amines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reactions-of-hydrocarbons",
+      "to": "amines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "components-of-food",
+      "to": "animal-husbandry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "five-kingdom-classification",
+      "to": "animal-kingdom",
+      "type": "prerequisite"
+    },
+    {
+      "from": "components-of-food",
+      "to": "animal-nutrition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "modes-of-nutrition",
+      "to": "animal-nutrition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microorganisms",
+      "to": "antibiotics-and-vaccines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mendels-laws",
+      "to": "applications-of-biotechnology",
+      "type": "prerequisite"
+    },
+    {
+      "from": "recombinant-dna-technology",
+      "to": "applications-of-biotechnology",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cell-basic-unit",
+      "to": "asexual-reproduction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "plant-reproduction-asexual",
+      "to": "asexual-reproduction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fluid-pressure",
+      "to": "atmospheric-pressure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pressure-concept",
+      "to": "atmospheric-pressure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atoms-and-molecules",
+      "to": "atomic-number-mass-number",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pure-substances",
+      "to": "atoms-and-molecules",
+      "type": "prerequisite"
+    },
+    {
+      "from": "components-of-food",
+      "to": "balanced-diet",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chemical-bonding-intro",
+      "to": "band-theory",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electrode-potential",
+      "to": "batteries-and-fuel-cells",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conservation-of-energy",
+      "to": "bernoullis-principle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fluid-pressure",
+      "to": "bernoullis-principle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "classification-of-organisms",
+      "to": "biodiversity",
+      "type": "prerequisite"
+    },
+    {
+      "from": "forests-and-their-importance",
+      "to": "biodiversity",
+      "type": "prerequisite"
+    },
+    {
+      "from": "components-of-food",
+      "to": "biomolecules-intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "magnetic-effect-of-current",
+      "to": "biot-savart-law",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-number-mass-number",
+      "to": "bohrs-model-chemistry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "human-respiratory-system",
+      "to": "breathing-and-gas-exchange",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acceleration-due-to-gravity",
+      "to": "buoyancy-and-archimedes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fluid-pressure",
+      "to": "buoyancy-and-archimedes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "coulombs-law",
+      "to": "capacitance",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electric-potential",
+      "to": "capacitance",
+      "type": "prerequisite"
+    },
+    {
+      "from": "biomolecules-intro",
+      "to": "carbohydrates",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-number-mass-number",
+      "to": "carbon-and-its-compounds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "covalent-bonding",
+      "to": "carbon-and-its-compounds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "living-vs-nonliving",
+      "to": "cell-basic-unit",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cell-organelles",
+      "to": "cell-cycle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cell-basic-unit",
+      "to": "cell-organelles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cell-organelles",
+      "to": "cellular-respiration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "human-digestive-system",
+      "to": "cellular-respiration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "photosynthesis",
+      "to": "cellular-respiration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "plant-respiration",
+      "to": "cellular-respiration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-second-law",
+      "to": "centre-of-mass",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sound-production",
+      "to": "characteristics-of-sound",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-number-mass-number",
+      "to": "chemical-bonding-intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chemical-formula-writing",
+      "to": "chemical-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "physical-vs-chemical-change",
+      "to": "chemical-equations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-chemical-reactions",
+      "to": "chemical-equilibrium",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atoms-and-molecules",
+      "to": "chemical-formula-writing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "valency-chemistry",
+      "to": "chemical-formula-writing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "diversity-of-organisms",
+      "to": "classification-of-organisms",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mole-concept",
+      "to": "colligative-properties",
+      "type": "prerequisite"
+    },
+    {
+      "from": "solutions-chemistry",
+      "to": "colligative-properties",
+      "type": "prerequisite"
+    },
+    {
+      "from": "kinetic-theory-of-gases",
+      "to": "collision-theory",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-chemical-reactions",
+      "to": "collision-theory",
+      "type": "prerequisite"
+    },
+    {
+      "from": "kinetic-energy",
+      "to": "conservation-of-energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "potential-energy",
+      "to": "conservation-of-energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chemical-bonding-intro",
+      "to": "coordination-compounds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "d-and-f-block-elements",
+      "to": "coordination-compounds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "seed-formation",
+      "to": "crop-improvement",
+      "type": "prerequisite"
+    },
+    {
+      "from": "periodic-properties",
+      "to": "d-and-f-block-elements",
+      "type": "prerequisite"
+    },
+    {
+      "from": "diversity-of-organisms",
+      "to": "darwins-theory",
+      "type": "prerequisite"
+    },
+    {
+      "from": "heredity-and-variation",
+      "to": "darwins-theory",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microorganisms",
+      "to": "decomposition-and-recycling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "wave-optics-interference",
+      "to": "diffraction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "si-units",
+      "to": "dimensional-analysis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "living-vs-nonliving",
+      "to": "diseases-types",
+      "type": "prerequisite"
+    },
+    {
+      "from": "light-sources-and-shadows",
+      "to": "dispersion-of-light",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-and-motion",
+      "to": "distance-and-displacement",
+      "type": "prerequisite"
+    },
+    {
+      "from": "living-vs-nonliving",
+      "to": "diversity-of-organisms",
+      "type": "prerequisite"
+    },
+    {
+      "from": "biomolecules-intro",
+      "to": "dna-structure-replication",
+      "type": "prerequisite"
+    },
+    {
+      "from": "solar-system",
+      "to": "earths-rotation-revolution",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sound-production",
+      "to": "echo-and-reverberation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "diversity-of-organisms",
+      "to": "ecosystem-concept",
+      "type": "prerequisite"
+    },
+    {
+      "from": "force-concept",
+      "to": "elasticity-physics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circuit-diagrams-symbols",
+      "to": "electric-circuit",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electrical-conductors-insulators",
+      "to": "electric-circuit",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electrical-conductors-insulators",
+      "to": "electric-current",
+      "type": "prerequisite"
+    },
+    {
+      "from": "work-physics",
+      "to": "electric-potential",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electric-current",
+      "to": "electrode-potential",
+      "type": "prerequisite"
+    },
+    {
+      "from": "oxidation-reduction",
+      "to": "electrode-potential",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electric-current",
+      "to": "electromagnetic-induction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "magnetic-field",
+      "to": "electromagnetic-induction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "nervous-system",
+      "to": "endocrine-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chemical-equations",
+      "to": "enthalpy-changes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "first-law-of-thermodynamics",
+      "to": "enthalpy-changes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acceleration",
+      "to": "equations-of-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cell-organelles",
+      "to": "excretory-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "human-circulatory-system",
+      "to": "excretory-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conservation-of-energy",
+      "to": "first-law-of-thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measurement-of-temperature",
+      "to": "first-law-of-thermodynamics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "classification-of-organisms",
+      "to": "five-kingdom-classification",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microorganisms",
+      "to": "five-kingdom-classification",
+      "type": "prerequisite"
+    },
+    {
+      "from": "pressure-concept",
+      "to": "fluid-pressure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "adaptations",
+      "to": "food-chains-and-webs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ecosystem-concept",
+      "to": "food-chains-and-webs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-and-motion",
+      "to": "force-concept",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-forces",
+      "to": "friction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-second-law",
+      "to": "gravitation-intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "covalent-bonding",
+      "to": "haloalkanes-haloarenes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "nomenclature-iupac",
+      "to": "haloalkanes-haloarenes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reactions-of-hydrocarbons",
+      "to": "haloalkanes-haloarenes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measurement-of-temperature",
+      "to": "heat-and-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "heat-and-temperature",
+      "to": "heat-transfer-modes",
+      "type": "prerequisite"
+    },
+    {
+      "from": "components-of-food",
+      "to": "human-digestive-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "modes-of-nutrition",
+      "to": "human-digestive-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "lens-formula",
+      "to": "human-eye-defects",
+      "type": "prerequisite"
+    },
+    {
+      "from": "spherical-mirrors",
+      "to": "human-eye-defects",
+      "type": "prerequisite"
+    },
+    {
+      "from": "infectious-diseases",
+      "to": "human-health-diseases-detail",
+      "type": "prerequisite"
+    },
+    {
+      "from": "adolescence-and-puberty",
+      "to": "human-reproductive-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "animal-reproduction",
+      "to": "human-reproductive-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "endocrine-system",
+      "to": "human-reproductive-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sexual-reproduction-overview",
+      "to": "human-reproductive-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "carbon-and-its-compounds",
+      "to": "hydrocarbons-intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "diseases-types",
+      "to": "infectious-diseases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microorganisms",
+      "to": "infectious-diseases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chemical-equilibrium",
+      "to": "ionic-equilibrium",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ph-scale",
+      "to": "ionic-equilibrium",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-number-mass-number",
+      "to": "isotopes-isobars",
+      "type": "prerequisite"
+    },
+    {
+      "from": "speed-and-velocity",
+      "to": "kinetic-energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "work-physics",
+      "to": "kinetic-energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measurement-of-temperature",
+      "to": "kinetic-theory-of-gases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-second-law",
+      "to": "kinetic-theory-of-gases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ohms-law",
+      "to": "kirchhoffs-laws",
+      "type": "prerequisite"
+    },
+    {
+      "from": "resistance-and-resistivity",
+      "to": "kirchhoffs-laws",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "law-of-conservation-of-mass",
+      "type": "prerequisite"
+    },
+    {
+      "from": "lenses",
+      "to": "lens-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "light-sources-and-shadows",
+      "to": "lenses",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cell-basic-unit",
+      "to": "levels-of-organisation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-revolution",
+      "to": "lunar-eclipse",
+      "type": "prerequisite"
+    },
+    {
+      "from": "light-sources-and-shadows",
+      "to": "lunar-eclipse",
+      "type": "prerequisite"
+    },
+    {
+      "from": "magnets-and-magnetism",
+      "to": "magnetic-field",
+      "type": "prerequisite"
+    },
+    {
+      "from": "si-units",
+      "to": "measurement-of-length",
+      "type": "prerequisite"
+    },
+    {
+      "from": "si-units",
+      "to": "measurement-of-mass",
+      "type": "prerequisite"
+    },
+    {
+      "from": "si-units",
+      "to": "measurement-of-temperature",
+      "type": "prerequisite"
+    },
+    {
+      "from": "si-units",
+      "to": "measurement-of-time",
+      "type": "prerequisite"
+    },
+    {
+      "from": "heredity-and-variation",
+      "to": "mendels-laws",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "metals-nonmetals-properties",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microorganisms",
+      "to": "microbes-in-human-welfare",
+      "type": "prerequisite"
+    },
+    {
+      "from": "classification-of-organisms",
+      "to": "microorganisms",
+      "type": "prerequisite"
+    },
+    {
+      "from": "spherical-mirrors",
+      "to": "mirror-formula",
+      "type": "prerequisite"
+    },
+    {
+      "from": "living-vs-nonliving",
+      "to": "modes-of-nutrition",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atoms-and-molecules",
+      "to": "mole-concept",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-revolution",
+      "to": "natural-disasters",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cell-basic-unit",
+      "to": "nervous-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cell-organelles",
+      "to": "nervous-system",
+      "type": "prerequisite"
+    },
+    {
+      "from": "force-concept",
+      "to": "newtons-first-law",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acceleration",
+      "to": "newtons-second-law",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-first-law",
+      "to": "newtons-second-law",
+      "type": "prerequisite"
+    },
+    {
+      "from": "newtons-second-law",
+      "to": "newtons-third-law",
+      "type": "prerequisite"
+    },
+    {
+      "from": "functional-groups",
+      "to": "nomenclature-iupac",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-models-physics",
+      "to": "nuclear-structure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-number-mass-number",
+      "to": "nuclear-structure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electric-current",
+      "to": "ohms-law",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electric-potential",
+      "to": "ohms-law",
+      "type": "prerequisite"
+    },
+    {
+      "from": "types-of-chemical-reactions",
+      "to": "oxidation-reduction",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter-chemistry",
+      "to": "particle-nature-of-matter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-number-mass-number",
+      "to": "periodic-properties",
+      "type": "prerequisite"
+    },
+    {
+      "from": "properties-of-acids-bases",
+      "to": "ph-scale",
+      "type": "prerequisite"
+    },
+    {
+      "from": "solutions-chemistry",
+      "to": "ph-scale",
+      "type": "prerequisite"
+    },
+    {
+      "from": "alternating-current",
+      "to": "photoelectric-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "coulombs-law",
+      "to": "photoelectric-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "electric-potential",
+      "to": "photoelectric-effect",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "physical-vs-chemical-change",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cell-organelles",
+      "to": "plant-hormones",
+      "type": "prerequisite"
+    },
+    {
+      "from": "five-kingdom-classification",
+      "to": "plant-kingdom",
+      "type": "prerequisite"
+    },
+    {
+      "from": "flower-structure",
+      "to": "pollination-and-fertilisation-plants",
+      "type": "prerequisite"
+    },
+    {
+      "from": "food-chains-and-webs",
+      "to": "population-interactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "organism-interactions",
+      "to": "population-interactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "work-physics",
+      "to": "potential-energy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "work-physics",
+      "to": "power-physics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "force-concept",
+      "to": "pressure-concept",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acceleration-due-to-gravity",
+      "to": "projectile-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "equations-of-motion",
+      "to": "projectile-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acids-bases-indicators",
+      "to": "properties-of-acids-bases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "neutralisation",
+      "to": "properties-of-acids-bases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "particle-nature-of-matter",
+      "to": "pure-substances",
+      "type": "prerequisite"
+    },
+    {
+      "from": "bohrs-model-chemistry",
+      "to": "quantum-mechanical-model",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-number-mass-number",
+      "to": "reactivity-series",
+      "type": "prerequisite"
+    },
+    {
+      "from": "metals-nonmetals-properties",
+      "to": "reactivity-series",
+      "type": "prerequisite"
+    },
+    {
+      "from": "dna-structure-replication",
+      "to": "recombinant-dna-technology",
+      "type": "prerequisite"
+    },
+    {
+      "from": "light-sources-and-shadows",
+      "to": "reflection-of-light",
+      "type": "prerequisite"
+    },
+    {
+      "from": "adolescence-and-puberty",
+      "to": "reproductive-health",
+      "type": "prerequisite"
+    },
+    {
+      "from": "human-reproductive-system",
+      "to": "reproductive-health",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ohms-law",
+      "to": "resistance-and-resistivity",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measurement-of-length",
+      "to": "rest-and-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "measurement-of-time",
+      "to": "rest-and-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "flower-structure",
+      "to": "seed-formation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "separation-techniques",
+      "type": "prerequisite"
+    },
+    {
+      "from": "animal-reproduction",
+      "to": "sexual-reproduction-overview",
+      "type": "prerequisite"
+    },
+    {
+      "from": "physical-quantities",
+      "to": "si-units",
+      "type": "prerequisite"
+    },
+    {
+      "from": "acceleration",
+      "to": "simple-harmonic-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "conservation-of-energy",
+      "to": "simple-harmonic-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "light-sources-and-shadows",
+      "to": "snells-law",
+      "type": "prerequisite"
+    },
+    {
+      "from": "earths-rotation-revolution",
+      "to": "solar-eclipse",
+      "type": "prerequisite"
+    },
+    {
+      "from": "light-sources-and-shadows",
+      "to": "solar-eclipse",
+      "type": "prerequisite"
+    },
+    {
+      "from": "mixtures-types",
+      "to": "solutions-chemistry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distance-and-displacement",
+      "to": "speed-and-velocity",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reflection-of-light",
+      "to": "spherical-mirrors",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "states-of-matter-chemistry",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fossil-fuels",
+      "to": "sustainable-development",
+      "type": "prerequisite"
+    },
+    {
+      "from": "heat-and-temperature",
+      "to": "thermal-expansion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter-chemistry",
+      "to": "thermal-expansion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "levels-of-organisation",
+      "to": "tissue-types",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distance-and-displacement",
+      "to": "torque",
+      "type": "prerequisite"
+    },
+    {
+      "from": "force-concept",
+      "to": "torque",
+      "type": "prerequisite"
+    },
+    {
+      "from": "water-cycle",
+      "to": "transpiration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chemical-equations",
+      "to": "types-of-chemical-reactions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "force-concept",
+      "to": "types-of-forces",
+      "type": "prerequisite"
+    },
+    {
+      "from": "characteristics-of-sound",
+      "to": "ultrasound-applications",
+      "type": "prerequisite"
+    },
+    {
+      "from": "atomic-number-mass-number",
+      "to": "vsepr-theory",
+      "type": "prerequisite"
+    },
+    {
+      "from": "covalent-bonding",
+      "to": "vsepr-theory",
+      "type": "prerequisite"
+    },
+    {
+      "from": "states-of-matter-chemistry",
+      "to": "water-and-its-properties",
+      "type": "prerequisite"
+    },
+    {
+      "from": "what-is-matter",
+      "to": "water-and-its-properties",
+      "type": "prerequisite"
+    },
+    {
+      "from": "water-and-its-properties",
+      "to": "water-cycle",
+      "type": "prerequisite"
+    },
+    {
+      "from": "speed-and-velocity",
+      "to": "wave-motion",
+      "type": "prerequisite"
+    },
+    {
+      "from": "dispersion-of-light",
+      "to": "wave-optics-interference",
+      "type": "prerequisite"
+    },
+    {
+      "from": "snells-law",
+      "to": "wave-optics-interference",
+      "type": "prerequisite"
+    },
+    {
+      "from": "wave-motion",
+      "to": "wave-optics-interference",
+      "type": "prerequisite"
+    },
+    {
+      "from": "kinetic-energy",
+      "to": "work-energy-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "work-physics",
+      "to": "work-energy-theorem",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distance-and-displacement",
+      "to": "work-physics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "force-concept",
+      "to": "work-physics",
+      "type": "prerequisite"
+    }
+  ]
+}

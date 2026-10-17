@@ -1,13 +1,12 @@
 {
   "grade": 10,
   "subject": "maths",
-  "total_concepts": 53,
+  "total_concepts": 58,
   "concepts": {
     "euclidean-algorithm": {
       "canonical_name": "Euclidean Algorithm",
       "slug": "euclidean-algorithm",
       "grades": [
-        6,
         10
       ],
       "area": "Number Theory",
@@ -18,6 +17,12 @@
       "leads_to": [
         "euclidean-division-lemma",
         "modular-arithmetic"
+      ],
+      "aliases": [
+        "Euclid's division lemma",
+        "Euclid's division algorithm",
+        "HCF by long division",
+        "greatest common divisor"
       ]
     },
     "similar-triangles": {
@@ -41,11 +46,46 @@
         "constructions-advanced"
       ]
     },
+    "theoretical-probability": {
+      "canonical_name": "Theoretical Probability",
+      "slug": "theoretical-probability",
+      "grades": [
+        10
+      ],
+      "area": "Probability",
+      "description": "P(E) = favourable outcomes / total outcomes",
+      "prerequisites": [
+        "fractions"
+      ],
+      "leads_to": [
+        "experimental-probability",
+        "probability-basic"
+      ]
+    },
+    "experimental-probability": {
+      "canonical_name": "Experimental Probability",
+      "slug": "experimental-probability",
+      "grades": [
+        10
+      ],
+      "area": "Probability",
+      "description": "Relative frequency from repeated experiments",
+      "prerequisites": [
+        "theoretical-probability",
+        "decimal-operations"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "empirical probability",
+        "relative frequency",
+        "probability from repeated trials",
+        "chance"
+      ]
+    },
     "circumference-and-area-of-circle": {
       "canonical_name": "Circumference and Area of Circle",
       "slug": "circumference-and-area-of-circle",
       "grades": [
-        8,
         10
       ],
       "area": "Mensuration",
@@ -59,6 +99,23 @@
         "surface-area-cone",
         "surface-area-sphere",
         "area-of-sector-and-segment"
+      ]
+    },
+    "volume-cylinder": {
+      "canonical_name": "Volume of Cylinder",
+      "slug": "volume-cylinder",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Mensuration",
+      "description": "V = πr²h",
+      "prerequisites": [
+        "surface-area-cylinder"
+      ],
+      "leads_to": [
+        "volume-cone",
+        "surface-area-volume-combinations"
       ]
     },
     "ogive": {
@@ -184,6 +241,23 @@
         "measures-of-dispersion"
       ]
     },
+    "probability-basic": {
+      "canonical_name": "Probability — Basic Concepts",
+      "slug": "probability-basic",
+      "grades": [
+        10
+      ],
+      "area": "Probability",
+      "description": "Sample space, events, favourable outcomes",
+      "prerequisites": [
+        "theoretical-probability",
+        "data-collection-and-organisation"
+      ],
+      "leads_to": [
+        "probability-theoretical-approach",
+        "sample-space-events"
+      ]
+    },
     "fundamental-theorem-of-arithmetic": {
       "canonical_name": "Fundamental Theorem of Arithmetic",
       "slug": "fundamental-theorem-of-arithmetic",
@@ -225,7 +299,13 @@
       "prerequisites": [
         "euclidean-algorithm"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "Euclid's division algorithm",
+        "division algorithm",
+        "a = bq + r",
+        "HCF"
+      ]
     },
     "zeroes-coefficients-relationship": {
       "canonical_name": "Relationship Between Zeroes and Coefficients",
@@ -288,7 +368,12 @@
         "quadratic-equations",
         "algebraic-identities"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "solution of a quadratic equation by completing the square",
+        "perfect square form",
+        "deriving the quadratic formula"
+      ]
     },
     "nature-of-roots": {
       "canonical_name": "Nature of Roots — Discriminant",
@@ -362,7 +447,12 @@
       "prerequisites": [
         "pair-of-linear-equations"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "pair of linear equations in two variables",
+        "algebraic methods of solving",
+        "elimination and substitution"
+      ]
     },
     "consistency-of-system": {
       "canonical_name": "Consistency of a System of Equations",
@@ -442,7 +532,6 @@
         "area-of-triangle-coordinate",
         "straight-lines",
         "section-formula-3d",
-        "median-of-triangle",
         "centroid"
       ]
     },
@@ -460,6 +549,10 @@
       "leads_to": [
         "collinearity",
         "area-using-determinants"
+      ],
+      "aliases": [
+        "area from vertices",
+        "coordinate geometry triangle"
       ]
     },
     "collinearity": {
@@ -473,7 +566,12 @@
       "prerequisites": [
         "area-of-triangle-coordinate"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "collinear points",
+        "points lying on one line",
+        "area of triangle is zero"
+      ]
     },
     "similar-triangles-advanced": {
       "canonical_name": "Similarity of Triangles — Theorems",
@@ -502,7 +600,13 @@
       "prerequisites": [
         "similar-triangles-advanced"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "Thales theorem",
+        "BPT",
+        "line parallel to a side of a triangle",
+        "similarity of triangles"
+      ]
     },
     "tangent-to-a-circle": {
       "canonical_name": "Tangent to a Circle",
@@ -611,7 +715,12 @@
       "prerequisites": [
         "surface-area-volume-combinations"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "frustum",
+        "cone cut by a parallel plane",
+        "surface area and volume of a frustum"
+      ]
     },
     "mean-of-grouped-data": {
       "canonical_name": "Mean of Grouped Data",
@@ -680,10 +789,14 @@
       "area": "Geometry",
       "description": "Median connects vertex to midpoint of opposite side; centroid divides 2:1",
       "prerequisites": [
-        "properties-of-triangles",
-        "section-formula"
+        "properties-of-triangles"
       ],
       "leads_to": [
+        "centroid"
+      ],
+      "aliases": [
+        "mid-point theorem",
+        "median of a triangle",
         "centroid"
       ]
     },
@@ -714,7 +827,11 @@
         "median-of-triangle",
         "section-formula"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "intersection of medians",
+        "centroid divides 2:1"
+      ]
     },
     "circumcentre": {
       "canonical_name": "Circumcentre of a Triangle",
@@ -728,7 +845,12 @@
         "circle-theorems",
         "perpendicular-bisector"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "circumcircle",
+        "perpendicular bisectors of a triangle",
+        "circumscribed circle"
+      ]
     },
     "incentre": {
       "canonical_name": "Incentre of a Triangle",
@@ -742,7 +864,12 @@
         "angle-sum-property-triangle",
         "tangent-to-a-circle"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "incircle",
+        "angle bisectors of a triangle",
+        "inscribed circle"
+      ]
     },
     "synthetic-division": {
       "canonical_name": "Synthetic Division",
@@ -757,7 +884,13 @@
         "division-of-polynomials",
         "remainder-theorem"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "division algorithm for polynomials",
+        "dividing a polynomial",
+        "factor theorem",
+        "remainder theorem"
+      ]
     },
     "vieta-s-formulas": {
       "canonical_name": "Vieta's Formulas",
@@ -771,7 +904,11 @@
       "prerequisites": [
         "zeroes-coefficients-relationship"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "relationship between zeroes and coefficients",
+        "sum and product of roots"
+      ]
     },
     "modular-arithmetic": {
       "canonical_name": "Modular Arithmetic",
@@ -803,6 +940,10 @@
       ],
       "leads_to": [
         "correlation"
+      ],
+      "aliases": [
+        "scatter diagram",
+        "plotting paired data"
       ]
     },
     "constructions-advanced": {
@@ -817,7 +958,12 @@
         "basic-constructions",
         "similar-triangles"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "dividing a line segment in a ratio",
+        "geometric construction",
+        "section formula"
+      ]
     },
     "construction-of-tangents": {
       "canonical_name": "Construction of Tangents to a Circle",
@@ -832,6 +978,26 @@
         "basic-constructions"
       ],
       "leads_to": []
+    },
+    "representing-linear-equations-graphically": {
+      "canonical_name": "Graphing Linear Equations",
+      "slug": "representing-linear-equations-graphically",
+      "grades": [
+        9,
+        10
+      ],
+      "area": "Algebra",
+      "description": "Plotting y=mx+c; interpreting slope and intercept",
+      "prerequisites": [
+        "linear-equations-two-variables",
+        "cartesian-coordinate-system"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "graphical method of solution",
+        "straight line graph",
+        "slope and intercept"
+      ]
     }
   }
 }

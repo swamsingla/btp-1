@@ -1,0 +1,1920 @@
+{
+  "maths": {
+    "no_evidence": [
+      {
+        "slug": "integers",
+        "name": "Integers",
+        "grade": 6,
+        "area": "Number Systems",
+        "best_cosine": 0.6963
+      },
+      {
+        "slug": "euclidean-algorithm",
+        "name": "Euclidean Algorithm",
+        "grade": 6,
+        "area": "Number Theory",
+        "best_cosine": 0.6596
+      },
+      {
+        "slug": "fibonacci-virahanka-sequence",
+        "name": "Fibonacci–Virahanka Sequence",
+        "grade": 6,
+        "area": "Patterns and Sequences",
+        "best_cosine": 0.6943
+      },
+      {
+        "slug": "frequency-distribution",
+        "name": "Frequency Distribution Table",
+        "grade": 6,
+        "area": "Statistics",
+        "best_cosine": 0.6791
+      },
+      {
+        "slug": "frequency-distribution",
+        "name": "Frequency Distribution Table",
+        "grade": 7,
+        "area": "Statistics",
+        "best_cosine": 0.6932
+      },
+      {
+        "slug": "area-of-circle",
+        "name": "Area of a Circle",
+        "grade": 7,
+        "area": "Mensuration",
+        "best_cosine": 0.6904
+      },
+      {
+        "slug": "mean-median-mode",
+        "name": "Mean, Median and Mode",
+        "grade": 7,
+        "area": "Statistics",
+        "best_cosine": 0.6985
+      },
+      {
+        "slug": "range",
+        "name": "Range",
+        "grade": 8,
+        "area": "Statistics",
+        "best_cosine": 0.689
+      },
+      {
+        "slug": "unitary-method-and-direct-proportion",
+        "name": "Unitary Method and Direct Proportion",
+        "grade": 7,
+        "area": "Proportional Reasoning",
+        "best_cosine": 0.6991
+      },
+      {
+        "slug": "profit-loss-percentage",
+        "name": "Profit, Loss and Discount",
+        "grade": 7,
+        "area": "Proportional Reasoning",
+        "best_cosine": 0.686
+      },
+      {
+        "slug": "simple-interest",
+        "name": "Simple Interest",
+        "grade": 7,
+        "area": "Proportional Reasoning",
+        "best_cosine": 0.6961
+      },
+      {
+        "slug": "simple-interest",
+        "name": "Simple Interest",
+        "grade": 8,
+        "area": "Proportional Reasoning",
+        "best_cosine": 0.6621
+      },
+      {
+        "slug": "linear-equations-two-variables",
+        "name": "Linear Equations in Two Variables",
+        "grade": 8,
+        "area": "Algebra",
+        "best_cosine": 0.6593
+      },
+      {
+        "slug": "compound-interest",
+        "name": "Compound Interest",
+        "grade": 8,
+        "area": "Proportional Reasoning",
+        "best_cosine": 0.6989
+      },
+      {
+        "slug": "data-representation-grouped",
+        "name": "Data Representation — Grouped Data",
+        "grade": 8,
+        "area": "Statistics",
+        "best_cosine": 0.6845
+      },
+      {
+        "slug": "histogram",
+        "name": "Histogram",
+        "grade": 8,
+        "area": "Statistics",
+        "best_cosine": 0.6999
+      },
+      {
+        "slug": "frequency-polygon",
+        "name": "Frequency Polygon",
+        "grade": 8,
+        "area": "Statistics",
+        "best_cosine": 0.6998
+      },
+      {
+        "slug": "geometric-progressions",
+        "name": "Geometric Progressions",
+        "grade": 9,
+        "area": "Sequences",
+        "best_cosine": 0.6959
+      },
+      {
+        "slug": "scatter-plot",
+        "name": "Scatter Plot",
+        "grade": 10,
+        "area": "Statistics",
+        "best_cosine": 0.6857
+      },
+      {
+        "slug": "scatter-plot",
+        "name": "Scatter Plot",
+        "grade": 11,
+        "area": "Statistics",
+        "best_cosine": 0.673
+      },
+      {
+        "slug": "correlation",
+        "name": "Correlation",
+        "grade": 11,
+        "area": "Statistics",
+        "best_cosine": 0.6815
+      },
+      {
+        "slug": "regression-line",
+        "name": "Regression Line",
+        "grade": 11,
+        "area": "Statistics",
+        "best_cosine": 0.6991
+      },
+      {
+        "slug": "regression-line",
+        "name": "Regression Line",
+        "grade": 12,
+        "area": "Statistics",
+        "best_cosine": 0.6878
+      },
+      {
+        "slug": "estimation",
+        "name": "Estimation and Approximation",
+        "grade": 6,
+        "area": "Number Systems",
+        "best_cosine": 0.6567
+      }
+    ],
+    "grade_mismatch": [
+      {
+        "slug": "collinearity",
+        "name": "Collinearity of Points",
+        "assigned_grades": [
+          10
+        ],
+        "better_grade": 11,
+        "assigned_cosine": 0.73,
+        "other_cosine": 0.843
+      },
+      {
+        "slug": "place-value",
+        "name": "Place Value and Indian Numeration",
+        "assigned_grades": [
+          6
+        ],
+        "better_grade": 7,
+        "assigned_cosine": 0.745,
+        "other_cosine": 0.841
+      },
+      {
+        "slug": "mean-variance-rv",
+        "name": "Mean and Variance of a Random Variable",
+        "assigned_grades": [
+          12
+        ],
+        "better_grade": 11,
+        "assigned_cosine": 0.714,
+        "other_cosine": 0.807
+      },
+      {
+        "slug": "mean-median-mode",
+        "name": "Mean, Median and Mode",
+        "assigned_grades": [
+          7,
+          8
+        ],
+        "better_grade": 10,
+        "assigned_cosine": 0.735,
+        "other_cosine": 0.821
+      },
+      {
+        "slug": "linear-equations-one-variable",
+        "name": "Linear Equations in One Variable",
+        "assigned_grades": [
+          7,
+          8
+        ],
+        "better_grade": 9,
+        "assigned_cosine": 0.729,
+        "other_cosine": 0.804
+      },
+      {
+        "slug": "distance-point-to-plane",
+        "name": "Distance of a Point from a Plane",
+        "assigned_grades": [
+          12
+        ],
+        "better_grade": 11,
+        "assigned_cosine": 0.734,
+        "other_cosine": 0.802
+      },
+      {
+        "slug": "area-of-triangle-coordinate",
+        "name": "Area of Triangle using Coordinates",
+        "assigned_grades": [
+          10
+        ],
+        "better_grade": 12,
+        "assigned_cosine": 0.763,
+        "other_cosine": 0.83
+      },
+      {
+        "slug": "frequency-distribution",
+        "name": "Frequency Distribution Table",
+        "assigned_grades": [
+          6,
+          7
+        ],
+        "better_grade": 9,
+        "assigned_cosine": 0.727,
+        "other_cosine": 0.793
+      },
+      {
+        "slug": "factorisation-expressions",
+        "name": "Factorisation of Algebraic Expressions",
+        "assigned_grades": [
+          8
+        ],
+        "better_grade": 9,
+        "assigned_cosine": 0.768,
+        "other_cosine": 0.833
+      },
+      {
+        "slug": "even-and-odd-numbers",
+        "name": "Even and Odd Numbers",
+        "assigned_grades": [
+          6
+        ],
+        "better_grade": 7,
+        "assigned_cosine": 0.723,
+        "other_cosine": 0.786
+      },
+      {
+        "slug": "division-of-polynomials",
+        "name": "Division of Algebraic Expressions",
+        "assigned_grades": [
+          8
+        ],
+        "better_grade": 9,
+        "assigned_cosine": 0.717,
+        "other_cosine": 0.778
+      },
+      {
+        "slug": "surface-area-cylinder",
+        "name": "Surface Area of Cylinder",
+        "assigned_grades": [
+          9
+        ],
+        "better_grade": 10,
+        "assigned_cosine": 0.75,
+        "other_cosine": 0.811
+      },
+      {
+        "slug": "surds-and-rationalisation",
+        "name": "Surds and Rationalisation",
+        "assigned_grades": [
+          9
+        ],
+        "better_grade": 7,
+        "assigned_cosine": 0.701,
+        "other_cosine": 0.762
+      },
+      {
+        "slug": "ratios-and-proportions",
+        "name": "Ratios and Proportions",
+        "assigned_grades": [
+          6,
+          7
+        ],
+        "better_grade": 8,
+        "assigned_cosine": 0.752,
+        "other_cosine": 0.813
+      }
+    ],
+    "late_prereq": [],
+    "unclaimed": [
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter3",
+        "section": "3.1 Reema's Curiosity",
+        "passages": 8,
+        "prose": 8,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter3",
+        "section": "3.5 Units of Measurement",
+        "passages": 5,
+        "prose": 5,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter4",
+        "section": "4.4 Look Before You Leap!",
+        "passages": 5,
+        "prose": 5,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter3",
+        "section": "3.2 Some Early Number Systems",
+        "passages": 5,
+        "prose": 5,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter7",
+        "section": "7.4 Problem Solving with Proportional Reasoning",
+        "passages": 5,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter5",
+        "section": "5.2 Visualising and Interpreting Data",
+        "passages": 5,
+        "prose": 5,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "maths",
+        "chapter": "chapter12",
+        "section": "12.2 Intuitive Idea of Derivatives",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter1",
+        "section": "1.4 Exact and Approximate Values",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter3",
+        "section": "3.2 A Tenth Part",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter6",
+        "section": "6.3 Some Explorations in Grids",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter5",
+        "section": "5.2 Representative Values",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter7",
+        "section": "7.5 Sharing, but Not Equally!",
+        "passages": 4,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 6,
+        "subject": "maths",
+        "chapter": "chapter10",
+        "section": "10.1 Bela's Building of Fun",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 6,
+        "subject": "maths",
+        "chapter": "chapter4",
+        "section": "4.4 Drawing a Bar Graph",
+        "passages": 3,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter2",
+        "section": "2.1 Experiencing the Power Play ...",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter3",
+        "section": "3.3 Ratios with More than 2 Terms",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter3",
+        "section": "3.4 Dividing a Whole in a Given Ratio",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter4",
+        "section": "4.1 Fractals",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter6",
+        "section": "6.5 The Largest Product",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 10,
+        "subject": "maths",
+        "chapter": "chapter5",
+        "section": "5.1 Introduction",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 6,
+        "subject": "maths",
+        "chapter": "chapter4",
+        "section": "4.1 Collecting and Organising Data",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter1",
+        "section": "1.1 A Lakh Varieties!",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter1",
+        "section": "1.2 Land of Tens",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter1",
+        "section": "2100 × 70,000",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter3",
+        "section": "3.1 The Need for Smaller Units",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter3",
+        "section": "3.8 More on the Decimal System",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter1",
+        "section": "1.1 Geometric Twins",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "maths",
+        "chapter": "chapter5",
+        "section": "5.1 Of Questions and Statements",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter7",
+        "section": "7.1 Observing Similarity in Change",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter3",
+        "section": "3.2 Ratios in Maps",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "maths",
+        "chapter": "chapter6",
+        "section": "6.4 Fun with Grids",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      }
+    ]
+  },
+  "science": {
+    "no_evidence": [
+      {
+        "slug": "si-units",
+        "name": "SI Units",
+        "grade": 9,
+        "area": "Units and Measurement",
+        "best_cosine": 0.6588
+      },
+      {
+        "slug": "measurement-of-temperature",
+        "name": "Measurement of Temperature",
+        "grade": 7,
+        "area": "Units and Measurement",
+        "best_cosine": 0.6439
+      },
+      {
+        "slug": "rest-and-motion",
+        "name": "Rest and Motion",
+        "grade": 6,
+        "area": "Mechanics",
+        "best_cosine": 0.6396
+      },
+      {
+        "slug": "friction",
+        "name": "Friction",
+        "grade": 8,
+        "area": "Mechanics",
+        "best_cosine": 0.6873
+      },
+      {
+        "slug": "power-physics",
+        "name": "Power",
+        "grade": 9,
+        "area": "Mechanics",
+        "best_cosine": 0.6677
+      },
+      {
+        "slug": "forms-of-energy",
+        "name": "Forms of Energy",
+        "grade": 6,
+        "area": "Mechanics",
+        "best_cosine": 0.6761
+      },
+      {
+        "slug": "sound-production",
+        "name": "Sound — Production and Propagation",
+        "grade": 8,
+        "area": "Waves and Sound",
+        "best_cosine": 0.5966
+      },
+      {
+        "slug": "heat-and-temperature",
+        "name": "Heat and Temperature",
+        "grade": 8,
+        "area": "Heat and Thermodynamics",
+        "best_cosine": 0.6724
+      },
+      {
+        "slug": "heat-transfer-modes",
+        "name": "Modes of Heat Transfer",
+        "grade": 8,
+        "area": "Heat and Thermodynamics",
+        "best_cosine": 0.6844
+      },
+      {
+        "slug": "specific-heat-capacity",
+        "name": "Specific Heat Capacity",
+        "grade": 9,
+        "area": "Heat and Thermodynamics",
+        "best_cosine": 0.6852
+      },
+      {
+        "slug": "electric-charge",
+        "name": "Electric Charge",
+        "grade": 8,
+        "area": "Electricity and Magnetism",
+        "best_cosine": 0.6673
+      },
+      {
+        "slug": "electric-current",
+        "name": "Electric Current",
+        "grade": 8,
+        "area": "Electricity and Magnetism",
+        "best_cosine": 0.6335
+      },
+      {
+        "slug": "electric-circuit",
+        "name": "Electric Circuit",
+        "grade": 8,
+        "area": "Electricity and Magnetism",
+        "best_cosine": 0.6835
+      },
+      {
+        "slug": "radioactivity",
+        "name": "Radioactivity",
+        "grade": 10,
+        "area": "Modern Physics",
+        "best_cosine": 0.6934
+      },
+      {
+        "slug": "nuclear-fission-fusion",
+        "name": "Nuclear Fission and Fusion",
+        "grade": 10,
+        "area": "Modern Physics",
+        "best_cosine": 0.6888
+      },
+      {
+        "slug": "logic-gates",
+        "name": "Logic Gates",
+        "grade": 12,
+        "area": "Modern Physics",
+        "best_cosine": 0.6283
+      },
+      {
+        "slug": "mixtures-types",
+        "name": "Mixtures — Types and Properties",
+        "grade": 6,
+        "area": "Matter and Classification",
+        "best_cosine": 0.6484
+      },
+      {
+        "slug": "separation-techniques",
+        "name": "Separation Techniques",
+        "grade": 6,
+        "area": "Matter and Classification",
+        "best_cosine": 0.6695
+      },
+      {
+        "slug": "separation-techniques",
+        "name": "Separation Techniques",
+        "grade": 9,
+        "area": "Matter and Classification",
+        "best_cosine": 0.6783
+      },
+      {
+        "slug": "valency-chemistry",
+        "name": "Valency",
+        "grade": 8,
+        "area": "Atomic Structure",
+        "best_cosine": 0.6839
+      },
+      {
+        "slug": "metals-nonmetals-properties",
+        "name": "Properties of Metals and Non-metals",
+        "grade": 8,
+        "area": "Periodic Classification",
+        "best_cosine": 0.681
+      },
+      {
+        "slug": "polymers",
+        "name": "Polymers",
+        "grade": 12,
+        "area": "Organic Chemistry",
+        "best_cosine": 0.6672
+      },
+      {
+        "slug": "soaps-and-detergents",
+        "name": "Soaps and Detergents",
+        "grade": 10,
+        "area": "Organic Chemistry",
+        "best_cosine": 0.6303
+      },
+      {
+        "slug": "electrolysis",
+        "name": "Electrolysis",
+        "grade": 8,
+        "area": "Electrochemistry",
+        "best_cosine": 0.6872
+      },
+      {
+        "slug": "water-pollution",
+        "name": "Water Pollution",
+        "grade": 8,
+        "area": "Environmental Chemistry",
+        "best_cosine": 0.6885
+      },
+      {
+        "slug": "water-pollution",
+        "name": "Water Pollution",
+        "grade": 10,
+        "area": "Environmental Chemistry",
+        "best_cosine": 0.6582
+      },
+      {
+        "slug": "diversity-of-organisms",
+        "name": "Diversity of Organisms",
+        "grade": 7,
+        "area": "Diversity of Life",
+        "best_cosine": 0.6598
+      },
+      {
+        "slug": "classification-of-organisms",
+        "name": "Classification of Living Organisms",
+        "grade": 7,
+        "area": "Diversity of Life",
+        "best_cosine": 0.6421
+      },
+      {
+        "slug": "classification-of-organisms",
+        "name": "Classification of Living Organisms",
+        "grade": 9,
+        "area": "Diversity of Life",
+        "best_cosine": 0.6746
+      },
+      {
+        "slug": "animal-kingdom",
+        "name": "Animal Kingdom",
+        "grade": 9,
+        "area": "Diversity of Life",
+        "best_cosine": 0.6956
+      },
+      {
+        "slug": "binomial-nomenclature",
+        "name": "Binomial Nomenclature",
+        "grade": 9,
+        "area": "Diversity of Life",
+        "best_cosine": 0.6476
+      },
+      {
+        "slug": "mitosis",
+        "name": "Mitosis",
+        "grade": 10,
+        "area": "Cell Biology",
+        "best_cosine": 0.6972
+      },
+      {
+        "slug": "plant-hormones",
+        "name": "Plant Hormones",
+        "grade": 10,
+        "area": "Plant Biology",
+        "best_cosine": 0.6905
+      },
+      {
+        "slug": "plant-reproduction-asexual",
+        "name": "Asexual Reproduction in Plants",
+        "grade": 7,
+        "area": "Reproduction",
+        "best_cosine": 0.6894
+      },
+      {
+        "slug": "flower-structure",
+        "name": "Flower Structure and Function",
+        "grade": 7,
+        "area": "Reproduction",
+        "best_cosine": 0.6602
+      },
+      {
+        "slug": "enzymes",
+        "name": "Enzymes",
+        "grade": 10,
+        "area": "Biomolecules",
+        "best_cosine": 0.6681
+      },
+      {
+        "slug": "human-respiratory-system",
+        "name": "Human Respiratory System",
+        "grade": 10,
+        "area": "Human Physiology",
+        "best_cosine": 0.6835
+      },
+      {
+        "slug": "human-circulatory-system",
+        "name": "Human Circulatory System",
+        "grade": 7,
+        "area": "Human Physiology",
+        "best_cosine": 0.67
+      },
+      {
+        "slug": "blood-composition",
+        "name": "Blood — Composition and Functions",
+        "grade": 10,
+        "area": "Human Physiology",
+        "best_cosine": 0.6674
+      },
+      {
+        "slug": "skeletal-and-muscular-system",
+        "name": "Skeletal and Muscular System",
+        "grade": 7,
+        "area": "Human Physiology",
+        "best_cosine": 0.6337
+      },
+      {
+        "slug": "locomotion-in-animals",
+        "name": "Locomotion in Animals",
+        "grade": 7,
+        "area": "Human Physiology",
+        "best_cosine": 0.6969
+      },
+      {
+        "slug": "sense-organs",
+        "name": "Sense Organs",
+        "grade": 6,
+        "area": "Human Physiology",
+        "best_cosine": 0.6593
+      },
+      {
+        "slug": "carbohydrates",
+        "name": "Carbohydrates",
+        "grade": 12,
+        "area": "Biomolecules",
+        "best_cosine": 0.6784
+      },
+      {
+        "slug": "origin-of-life",
+        "name": "Origin of Life",
+        "grade": 10,
+        "area": "Genetics and Evolution",
+        "best_cosine": 0.6769
+      },
+      {
+        "slug": "evidence-of-evolution",
+        "name": "Evidence of Evolution",
+        "grade": 10,
+        "area": "Genetics and Evolution",
+        "best_cosine": 0.6989
+      },
+      {
+        "slug": "ecosystem-concept",
+        "name": "Ecosystem — Concept",
+        "grade": 6,
+        "area": "Ecology",
+        "best_cosine": 0.6485
+      },
+      {
+        "slug": "food-chains-and-webs",
+        "name": "Food Chains and Food Webs",
+        "grade": 6,
+        "area": "Ecology",
+        "best_cosine": 0.6774
+      },
+      {
+        "slug": "water-cycle",
+        "name": "Water Cycle",
+        "grade": 6,
+        "area": "Ecology",
+        "best_cosine": 0.6738
+      },
+      {
+        "slug": "water-cycle",
+        "name": "Water Cycle",
+        "grade": 9,
+        "area": "Ecology",
+        "best_cosine": 0.6693
+      },
+      {
+        "slug": "nitrogen-cycle",
+        "name": "Nitrogen Cycle",
+        "grade": 8,
+        "area": "Ecology",
+        "best_cosine": 0.6798
+      },
+      {
+        "slug": "carbon-cycle",
+        "name": "Carbon Cycle",
+        "grade": 9,
+        "area": "Ecology",
+        "best_cosine": 0.6997
+      },
+      {
+        "slug": "biodiversity",
+        "name": "Biodiversity",
+        "grade": 10,
+        "area": "Ecology",
+        "best_cosine": 0.6941
+      },
+      {
+        "slug": "biodiversity-conservation",
+        "name": "Biodiversity Conservation",
+        "grade": 10,
+        "area": "Ecology",
+        "best_cosine": 0.6465
+      },
+      {
+        "slug": "natural-resources-management",
+        "name": "Natural Resources and Management",
+        "grade": 10,
+        "area": "Ecology",
+        "best_cosine": 0.6641
+      },
+      {
+        "slug": "sustainable-development",
+        "name": "Sustainable Development",
+        "grade": 8,
+        "area": "Ecology",
+        "best_cosine": 0.6927
+      },
+      {
+        "slug": "environmental-issues",
+        "name": "Environmental Issues",
+        "grade": 12,
+        "area": "Ecology",
+        "best_cosine": 0.6731
+      },
+      {
+        "slug": "health-and-hygiene",
+        "name": "Health and Hygiene",
+        "grade": 9,
+        "area": "Health and Disease",
+        "best_cosine": 0.6377
+      },
+      {
+        "slug": "diseases-types",
+        "name": "Diseases — Types",
+        "grade": 9,
+        "area": "Health and Disease",
+        "best_cosine": 0.6432
+      },
+      {
+        "slug": "immune-system",
+        "name": "Immune System",
+        "grade": 8,
+        "area": "Health and Disease",
+        "best_cosine": 0.6948
+      },
+      {
+        "slug": "natural-disasters",
+        "name": "Natural Disasters",
+        "grade": 7,
+        "area": "Ecology",
+        "best_cosine": 0.6332
+      },
+      {
+        "slug": "nuclear-energy-sources",
+        "name": "Nuclear Energy — Reactor and Applications",
+        "grade": 10,
+        "area": "Modern Physics",
+        "best_cosine": 0.6544
+      },
+      {
+        "slug": "microorganisms",
+        "name": "Microorganisms",
+        "grade": 9,
+        "area": "Diversity of Life",
+        "best_cosine": 0.6717
+      },
+      {
+        "slug": "nitrogen-fixation",
+        "name": "Nitrogen Fixation",
+        "grade": 8,
+        "area": "Ecology",
+        "best_cosine": 0.6543
+      },
+      {
+        "slug": "nitrogen-fixation",
+        "name": "Nitrogen Fixation",
+        "grade": 9,
+        "area": "Ecology",
+        "best_cosine": 0.6748
+      },
+      {
+        "slug": "breathing-and-gas-exchange",
+        "name": "Breathing and Gas Exchange",
+        "grade": 10,
+        "area": "Human Physiology",
+        "best_cosine": 0.6929
+      }
+    ],
+    "grade_mismatch": [
+      {
+        "slug": "diseases-types",
+        "name": "Diseases — Types",
+        "assigned_grades": [
+          9
+        ],
+        "better_grade": 8,
+        "assigned_cosine": 0.639,
+        "other_cosine": 0.865
+      },
+      {
+        "slug": "heat-and-temperature",
+        "name": "Heat and Temperature",
+        "assigned_grades": [
+          7,
+          8
+        ],
+        "better_grade": 11,
+        "assigned_cosine": 0.715,
+        "other_cosine": 0.823
+      },
+      {
+        "slug": "friction",
+        "name": "Friction",
+        "assigned_grades": [
+          8
+        ],
+        "better_grade": 11,
+        "assigned_cosine": 0.689,
+        "other_cosine": 0.795
+      },
+      {
+        "slug": "natural-resources-management",
+        "name": "Natural Resources and Management",
+        "assigned_grades": [
+          10
+        ],
+        "better_grade": 6,
+        "assigned_cosine": 0.713,
+        "other_cosine": 0.819
+      },
+      {
+        "slug": "sense-organs",
+        "name": "Sense Organs",
+        "assigned_grades": [
+          6
+        ],
+        "better_grade": 10,
+        "assigned_cosine": 0.665,
+        "other_cosine": 0.769
+      },
+      {
+        "slug": "fossil-fuels",
+        "name": "Fossil Fuels",
+        "assigned_grades": [
+          6
+        ],
+        "better_grade": 10,
+        "assigned_cosine": 0.733,
+        "other_cosine": 0.822
+      },
+      {
+        "slug": "blood-composition",
+        "name": "Blood — Composition and Functions",
+        "assigned_grades": [
+          9,
+          10
+        ],
+        "better_grade": 11,
+        "assigned_cosine": 0.715,
+        "other_cosine": 0.799
+      },
+      {
+        "slug": "measurement-of-time",
+        "name": "Measurement of Time",
+        "assigned_grades": [
+          6,
+          9
+        ],
+        "better_grade": 7,
+        "assigned_cosine": 0.71,
+        "other_cosine": 0.793
+      },
+      {
+        "slug": "locomotion-in-animals",
+        "name": "Locomotion in Animals",
+        "assigned_grades": [
+          6,
+          7
+        ],
+        "better_grade": 11,
+        "assigned_cosine": 0.719,
+        "other_cosine": 0.797
+      },
+      {
+        "slug": "seed-formation",
+        "name": "Seed Formation and Dispersal",
+        "assigned_grades": [
+          7,
+          10
+        ],
+        "better_grade": 12,
+        "assigned_cosine": 0.75,
+        "other_cosine": 0.826
+      },
+      {
+        "slug": "biogeochemical-cycles",
+        "name": "Biogeochemical Cycles",
+        "assigned_grades": [
+          9,
+          10
+        ],
+        "better_grade": 12,
+        "assigned_cosine": 0.703,
+        "other_cosine": 0.775
+      }
+    ],
+    "late_prereq": [],
+    "unclaimed": [
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.3.2 Particle Nature of Electromagnetic Radiation: Planck's Quantum Theory",
+        "passages": 11,
+        "prose": 11,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "chemistry",
+        "chapter": "chapter5",
+        "section": "10.1 Carbohydrates",
+        "passages": 8,
+        "prose": 8,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter3",
+        "section": "10.9.1 Conduction",
+        "passages": 7,
+        "prose": 7,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.11.3 Ionization Constants of Weak Acids",
+        "passages": 6,
+        "prose": 6,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter3",
+        "section": "10.8 CHANGE OF STATE",
+        "passages": 6,
+        "prose": 6,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "biology",
+        "chapter": "chapter7",
+        "section": "7.3 AIDS",
+        "passages": 6,
+        "prose": 6,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.3.1 Wave Nature of Electromagnetic Radiation",
+        "passages": 5,
+        "prose": 5,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter2",
+        "section": "2.2 INSTANTANEOUS VELOCITY AND SPEED",
+        "passages": 5,
+        "prose": 5,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter3",
+        "section": "10.10 NEWTON'S LAW OF COOLING",
+        "passages": 5,
+        "prose": 5,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter1",
+        "section": "1.3.3 The International System of Units (SI)",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.6.3 Energies of Orbitals",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.11.2 The pH Scale",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.11.4 Ionization of Weak Bases",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "8.8.5 Chromatography",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter3",
+        "section": "9.2.4 Conformations",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "chemistry",
+        "chapter": "chapter5",
+        "section": "10.1.2.2 Fructose",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 9,
+        "subject": "science",
+        "chapter": "chapter9",
+        "section": "9.5 Thrust and Pressure",
+        "passages": 4,
+        "prose": 4,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.2.5 Drawbacks of Rutherford Model",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.5.1 Dual Behaviour of Matter",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.10 ACIDS, BASES AND SALTS",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.10.2 The Brönsted-Lowry Acids and Bases",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.11 IONIZATION OF ACIDS AND BASES",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.11.8 Common Ion Effect in the Ionization of Acids and Bases",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.11.9 Hydrolysis of Salts and the pH of their Solutions",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "8.8.3 Distillation",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter2",
+        "section": "1 torr = 133 Pa.",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter2",
+        "section": "9.4.2 Dynamic Lift",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter3",
+        "section": "10.9.2 Convection",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter3",
+        "section": "10.9.4 Blackbody Radiation",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "biology",
+        "chapter": "chapter7",
+        "section": "7.5 DRUGS AND ALCOHOL ABUSE",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "chemistry",
+        "chapter": "chapter1",
+        "section": "6.2 Nomenclature",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "7.1.3 Ethers",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "chemistry",
+        "chapter": "chapter5",
+        "section": "10.5.1 Chemical Composition of Nucleic Acids",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "physics",
+        "chapter": "chapter2",
+        "section": "10.2 HUYGENS PRINCIPLE",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 6,
+        "subject": "science",
+        "chapter": "chapter12",
+        "section": "12.1 Stars and Constellations",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 6,
+        "subject": "science",
+        "chapter": "chapter12",
+        "section": "12.2 Night Sky Watching",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "science",
+        "chapter": "chapter4",
+        "section": "4.1.1 Malleability",
+        "passages": 3,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "science",
+        "chapter": "chapter8",
+        "section": "8.1.1 A simple pendulum",
+        "passages": 3,
+        "prose": 3,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "biology",
+        "chapter": "chapter11",
+        "section": "11.6.3 Chemiosmotic Hypothesis",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "biology",
+        "chapter": "chapter15",
+        "section": "15.1.2 Formed Elements",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "biology",
+        "chapter": "chapter18",
+        "section": "18.3.1 Generation and Conduction of Nerve Impulse",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "biology",
+        "chapter": "chapter3",
+        "section": "3.1 ALGAE",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "biology",
+        "chapter": "chapter5",
+        "section": "5.5.1.4 Gynoecium",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "biology",
+        "chapter": "chapter6",
+        "section": "6.1.1 Epidermal Tissue System",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter1",
+        "section": "1.1 IMPORTANCE OF CHEMISTRY",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter1",
+        "section": "1.7.1 Atomic Mass",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.1.1 Discovery of Electron",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.1.2 Charge to Mass Ratio of Electron",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.2 ATOMIC MODELS",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.2.1 Thomson Model of Atom",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.2.2 Rutherford's Nuclear Model of Atom",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "2.2.4 Isobars and Isotopes",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.6.2 Predicting the Direction of the Reaction",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.8.4 Effect of Temperature Change",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter6",
+        "section": "6.11.6 Di- and Polybasic Acids and Di- and Polyacidic Bases",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "chemistry",
+        "chapter": "chapter2",
+        "section": "8.7.9 Hyperconjugation",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter6",
+        "section": "6.8.1 Principle of moments",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter3",
+        "section": "10.2 TEMPERATURE AND HEAT",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 11,
+        "subject": "physics",
+        "chapter": "chapter3",
+        "section": "10.9.3 Radiation",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "biology",
+        "chapter": "chapter10",
+        "section": "10.2.1 Genetically Engineered Insulin",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "biology",
+        "chapter": "chapter10",
+        "section": "10.2.2 Gene Therapy",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "biology",
+        "chapter": "chapter5",
+        "section": "5.2 THE SEARCH FOR GENETIC MATERIAL",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "biology",
+        "chapter": "chapter7",
+        "section": "7.5.3 Effects of Drug/Alcohol Abuse",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "biology",
+        "chapter": "chapter7",
+        "section": "7.5.4 Prevention and Control",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "chemistry",
+        "chapter": "chapter1",
+        "section": "6.1 Classification",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "chemistry",
+        "chapter": "chapter1",
+        "section": "6.22 What happens when",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "chemistry",
+        "chapter": "chapter5",
+        "section": "10.6 Hormones",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "physics",
+        "chapter": "chapter5",
+        "section": "5.2.4 The electrostatic analog",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 12,
+        "subject": "physics",
+        "chapter": "chapter3",
+        "section": "11.2 ELECTRON EMISSION",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 6,
+        "subject": "science",
+        "chapter": "chapter10",
+        "section": "10.5.1 Life cycle of a mosquito",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 6,
+        "subject": "science",
+        "chapter": "chapter11",
+        "section": "11.3 Energy from the Sun",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 6,
+        "subject": "science",
+        "chapter": "chapter5",
+        "section": "5.5 Describing Position",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 6,
+        "subject": "science",
+        "chapter": "chapter6",
+        "section": "6.3.6 Space and volume",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "science",
+        "chapter": "chapter11",
+        "section": "11.6 Images Formed in a Plane Mirror",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "science",
+        "chapter": "chapter8",
+        "section": "8.3 Speed",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "science",
+        "chapter": "chapter8",
+        "section": "8.3.1 Relationship between speed, distance, and time",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 7,
+        "subject": "science",
+        "chapter": "chapter8",
+        "section": "8.4 Uniform and Non-uniform Linear Motion",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "science",
+        "chapter": "chapter11",
+        "section": "11.2.4 The Indian National Calendar",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "science",
+        "chapter": "chapter12",
+        "section": "12.9 What Are the Benefits of an Ecosystem?",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "science",
+        "chapter": "chapter6",
+        "section": "6.5 Storms, Thunderstorms, and Lightning",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 8,
+        "subject": "science",
+        "chapter": "chapter9",
+        "section": "9.5 What Is Density?",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      },
+      {
+        "grade": 9,
+        "subject": "science",
+        "chapter": "chapter5",
+        "section": "5.2.5 (ii) GOLGI APPARATUS",
+        "passages": 2,
+        "prose": 2,
+        "claimed": 0
+      }
+    ]
+  }
+}

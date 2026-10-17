@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "(no fault named)",
+    "tokens": 805,
+    "said": "VERDICT: ok\n- what the page says, and what it should be\n- (one line per fault)"
+  }
+]

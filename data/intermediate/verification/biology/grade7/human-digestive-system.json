@@ -1,0 +1,14 @@
+[
+  {
+    "verdict": "fail",
+    "first_fault": "- The page claims in \"Key points\" that muscle cells are \"round or long and thin,\" but the \"Worked example\" section only describes them as \"spindle-shaped\" and compares them to squeezing a tube of toothpaste.",
+    "tokens": 1189,
+    "said": "VERDICT: fail\n- The page claims in \"Key points\" that muscle cells are \"round or long and thin,\" but the \"Worked example\" section only describes them as \"spindle-shaped\" and compares them to squeezing a tube of toothpaste.\n- The page states the oesophagus uses muscle cells to push food down, but the \"Worked example\" says the muscle cells squeeze the food pipe in a wave, which is a contradiction between the general rule and the specific illustration.\n- The page says the large intestine turns waste into a solid form, but the \"Key points\" section only says it \"removes water from the leftover waste,\" omitting the solidification step.\n- The page claims in \"Key points\" that the stomach uses muscle cells to churn food with acid and juices, but the \"Worked example\" only discusses muscle cells in the oesophagus and does not mention the stomach's churning action.\n- The page states the small intestine takes in nutrients, but the \"Worked example\" does not illustrate or mention the small intestine at all, making it inconsistent with the key points."
+  },
+  {
+    "verdict": "ok",
+    "first_fault": "(no fault named)",
+    "tokens": 780,
+    "said": "VERDICT: ok"
+  }
+]

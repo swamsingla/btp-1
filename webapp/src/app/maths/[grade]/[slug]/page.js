@@ -1,6 +1,10 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getGrades, getConcept, getConceptsForGrade, getRelatedConcepts, areaColor } from '@/lib/knowledge-graph';
+import { getGeneratedPage, getAvailableLanguages } from '@/lib/content';
+import LanguageSwitcher from '@/components/LanguageSwitcher';
+import { renderMarkdown } from '@/lib/markdown';
+import ConceptContent from '@/components/ConceptContent';
 
 export async function generateStaticParams() {
   const params = [];
@@ -22,8 +26,9 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default async function ConceptPage({ params }) {
+export default async function ConceptPage({ params, searchParams }) {
   const { grade: gradeStr, slug } = await params;
+  const { lang: langParam } = await searchParams;
   const grade = parseInt(gradeStr);
   const concept = getConcept(slug);
 
@@ -31,10 +36,24 @@ export default async function ConceptPage({ params }) {
 
   const c = areaColor(concept.area);
 
+  // The generated explanation, when this concept has one yet.
+  const languages = getAvailableLanguages('maths', grade, slug);
+  // Fall back to English when the requested language has no page yet.
+  const lang = languages.includes(langParam) ? langParam : 'en';
+  const page = getGeneratedPage('maths', grade, slug, lang);
+
   // Resolve prerequisite concept objects
+  // Only prerequisites the reader could already have met. A concept can sit at one grade
+  // while a prerequisite of it is taught later: separation techniques is a Grade 6 topic
+  // whose prerequisite "types of mixtures" is Grade 9, and percentage at Grade 6 lists
+  // ratios, which is Grade 7. Those relations are real at the higher grade and the graph
+  // is right to hold them, but listing them here, under "you should know these first",
+  // tells a Grade 6 reader to go and read something that has not been taught yet and
+  // links them to a grade of it that has no page.
   const prereqs = (concept.prerequisites || [])
     .map(s => getConcept(s))
-    .filter(Boolean);
+    .filter(Boolean)
+    .filter(pre => pre.grades.some(g => g <= grade));
 
   // Resolve leads_to (what this concept unlocks)
   const leadsTo = (concept.leads_to || [])
@@ -109,7 +128,9 @@ export default async function ConceptPage({ params }) {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 {prereqs.map(pre => {
                   const pc = areaColor(pre.area);
-                  const targetGrade = pre.grades.includes(grade) ? grade : pre.grades[0];
+                  const targetGrade = pre.grades.includes(grade)
+                    ? grade
+                    : Math.max(...pre.grades.filter(g => g <= grade));
                   return (
                     <Link
                       key={pre.slug}
@@ -136,20 +157,34 @@ export default async function ConceptPage({ params }) {
             </section>
           )}
 
-          {/* ── Content placeholder ── */}
+          {/* ── Generated explanation, or a placeholder until one exists ── */}
           <section className="mb-8">
-            <div className={`rounded-2xl border-2 border-dashed ${c.border} bg-gradient-to-br ${c.bg} dark:bg-gray-800/50 p-10 text-center`}>
-              <div className="text-5xl mb-4">📝</div>
-              <h3 className={`text-xl font-bold ${c.text} mb-2`}>Content Coming Soon</h3>
-              <p className="text-sm text-gray-500 dark:text-gray-400 max-w-md mx-auto mb-4">
-                Detailed explanations, worked examples, and practice problems for{' '}
-                <strong>{concept.canonical_name}</strong> will appear here.
-              </p>
-              <div className="inline-flex items-center gap-2 px-4 py-2 bg-white dark:bg-gray-700 rounded-lg text-xs text-gray-500 dark:text-gray-400 shadow-sm">
-                <span className="w-2 h-2 bg-yellow-400 rounded-full animate-pulse" />
-                Content generation in progress
+            {page ? (
+              <article className="max-w-none">
+                <LanguageSwitcher available={languages} current={lang}
+                  basePath={`/maths/${grade}/${slug}`} />
+                <ConceptContent html={renderMarkdown(page.body)} />
+                {page.meta?.source_grade && page.meta.source_grade !== grade && (
+                  <p className="mt-8 text-xs text-gray-400 dark:text-gray-500 border-t border-gray-100 dark:border-gray-700 pt-4">
+                    Written for Grade {grade} from Grade {page.meta.source_grade} material,
+                    because the Grade {grade} books do not cover this topic directly.
+                  </p>
+                )}
+              </article>
+            ) : (
+              <div className={`rounded-2xl border-2 border-dashed ${c.border} bg-gradient-to-br ${c.bg} dark:bg-gray-800/50 p-10 text-center`}>
+                <div className="text-5xl mb-4">📝</div>
+                <h3 className={`text-xl font-bold ${c.text} mb-2`}>Content Coming Soon</h3>
+                <p className="text-sm text-gray-500 dark:text-gray-400 max-w-md mx-auto mb-4">
+                  Detailed explanations, worked examples, and practice problems for{' '}
+                  <strong>{concept.canonical_name}</strong> will appear here.
+                </p>
+                <div className="inline-flex items-center gap-2 px-4 py-2 bg-white dark:bg-gray-700 rounded-lg text-xs text-gray-500 dark:text-gray-400 shadow-sm">
+                  <span className="w-2 h-2 bg-yellow-400 rounded-full animate-pulse" />
+                  Content generation in progress
+                </div>
               </div>
-            </div>
+            )}
           </section>
 
           {/* ── What this unlocks ── */}

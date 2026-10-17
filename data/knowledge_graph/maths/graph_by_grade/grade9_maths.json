@@ -1,13 +1,12 @@
 {
   "grade": 9,
   "subject": "maths",
-  "total_concepts": 54,
+  "total_concepts": 53,
   "concepts": {
     "algebraic-identities": {
       "canonical_name": "Algebraic Identities",
       "slug": "algebraic-identities",
       "grades": [
-        7,
         8,
         9
       ],
@@ -77,7 +76,6 @@
         "properties-of-triangles"
       ],
       "leads_to": [
-        "isosceles-equilateral-properties",
         "constructions-triangles",
         "properties-of-parallelogram",
         "triangle-theorems",
@@ -109,7 +107,6 @@
       "canonical_name": "Constructions of Triangles",
       "slug": "constructions-triangles",
       "grades": [
-        7,
         9
       ],
       "area": "Geometry",
@@ -130,8 +127,7 @@
       "area": "Algebra",
       "description": "ax + by + c = 0; graphing; solution as ordered pair",
       "prerequisites": [
-        "linear-equations-one-variable",
-        "cartesian-coordinate-system"
+        "linear-equations-one-variable"
       ],
       "leads_to": [
         "pair-of-linear-equations",
@@ -215,6 +211,12 @@
       "leads_to": [
         "circle-theorems",
         "circle-equation"
+      ],
+      "aliases": [
+        "chord",
+        "arc and sector",
+        "segment of a circle",
+        "radius and diameter"
       ]
     },
     "heron-s-formula": {
@@ -279,13 +281,19 @@
       "leads_to": [
         "volume-cylinder",
         "surface-area-volume-combinations"
+      ],
+      "aliases": [
+        "curved surface area of a cylinder",
+        "total surface area",
+        "right circular cylinder"
       ]
     },
     "volume-cylinder": {
       "canonical_name": "Volume of Cylinder",
       "slug": "volume-cylinder",
       "grades": [
-        9
+        9,
+        10
       ],
       "area": "Mensuration",
       "description": "V = πr²h",
@@ -379,6 +387,12 @@
       "leads_to": [
         "histogram",
         "statistics-measures"
+      ],
+      "aliases": [
+        "histogram",
+        "frequency polygon",
+        "graphical representation of data",
+        "class intervals"
       ]
     },
     "histogram": {
@@ -494,7 +508,13 @@
         "irrational-numbers",
         "algebraic-identities"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "rationalising the denominator",
+        "irrational numbers",
+        "operations on real numbers",
+        "square root of 2"
+      ]
     },
     "polynomials-in-one-variable": {
       "canonical_name": "Polynomials in One Variable",
@@ -529,6 +549,11 @@
       "leads_to": [
         "factor-theorem",
         "synthetic-division"
+      ],
+      "aliases": [
+        "factor theorem",
+        "factorisation of polynomials",
+        "zeroes of a polynomial"
       ]
     },
     "factor-theorem": {
@@ -596,7 +621,6 @@
         "number-line"
       ],
       "leads_to": [
-        "linear-equations-two-variables",
         "plotting-points",
         "pair-of-linear-equations",
         "distance-formula",
@@ -618,7 +642,14 @@
       "prerequisites": [
         "cartesian-coordinate-system"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "cartesian system",
+        "coordinate axes",
+        "quadrants",
+        "abscissa and ordinate",
+        "ordered pair"
+      ]
     },
     "euclid-definitions-axioms-postulates": {
       "canonical_name": "Euclid's Definitions, Axioms and Postulates",
@@ -834,23 +865,6 @@
         "measures-of-dispersion"
       ]
     },
-    "probability-basic": {
-      "canonical_name": "Probability — Basic Concepts",
-      "slug": "probability-basic",
-      "grades": [
-        9
-      ],
-      "area": "Probability",
-      "description": "Sample space, events, favourable outcomes",
-      "prerequisites": [
-        "theoretical-probability",
-        "data-collection-and-organisation"
-      ],
-      "leads_to": [
-        "probability-theoretical-approach",
-        "sample-space-events"
-      ]
-    },
     "logarithms": {
       "canonical_name": "Logarithms",
       "slug": "logarithms",
@@ -868,6 +882,12 @@
         "special-functions",
         "common-and-natural-logarithms",
         "logarithmic-differentiation"
+      ],
+      "aliases": [
+        "log",
+        "logarithmic function",
+        "laws of logarithms",
+        "laws of exponents"
       ]
     },
     "median-of-triangle": {
@@ -880,10 +900,14 @@
       "area": "Geometry",
       "description": "Median connects vertex to midpoint of opposite side; centroid divides 2:1",
       "prerequisites": [
-        "properties-of-triangles",
-        "section-formula"
+        "properties-of-triangles"
       ],
       "leads_to": [
+        "centroid"
+      ],
+      "aliases": [
+        "mid-point theorem",
+        "median of a triangle",
         "centroid"
       ]
     },
@@ -916,14 +940,19 @@
       ],
       "leads_to": [
         "circumcentre"
+      ],
+      "aliases": [
+        "right bisector",
+        "equidistant from two points",
+        "construction of a bisector"
       ]
     },
     "representing-linear-equations-graphically": {
       "canonical_name": "Graphing Linear Equations",
       "slug": "representing-linear-equations-graphically",
       "grades": [
-        8,
-        9
+        9,
+        10
       ],
       "area": "Algebra",
       "description": "Plotting y=mx+c; interpreting slope and intercept",
@@ -931,7 +960,12 @@
         "linear-equations-two-variables",
         "cartesian-coordinate-system"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "graphical method of solution",
+        "straight line graph",
+        "slope and intercept"
+      ]
     }
   }
 }

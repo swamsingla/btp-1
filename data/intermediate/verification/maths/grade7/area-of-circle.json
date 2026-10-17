@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- The page states π ≈ 3.14; it uses this approximation to compute 49 × 3.14 = 153.86.",
+    "tokens": 1090,
+    "said": "VERDICT: ok\n- The page states π ≈ 3.14; it uses this approximation to compute 49 × 3.14 = 153.86.\n- The page states that doubling the radius makes the area four times larger because 2² = 4; this is arithmetically correct.\n- The page states the worked example uses r = 7 cm, computes r² = 49, and gives area = 49π ≈ 153.86 cm²; this is arithmetically correct.\n- The page states five key points; counting them yields exactly five.\n- The page states the formula is A = πr²; the worked example follows this rule exactly.\n- The page states π is irrational with a decimal that goes on forever without repeating; this is mathematically accurate and internally consistent with the rest of the page."
+  }
+]

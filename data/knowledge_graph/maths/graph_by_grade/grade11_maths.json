@@ -62,6 +62,11 @@
       ],
       "leads_to": [
         "set-operations"
+      ],
+      "aliases": [
+        "power set",
+        "subset of a set",
+        "intervals as subsets of R"
       ]
     },
     "set-operations": {
@@ -146,6 +151,12 @@
         "limits-intuitive",
         "continuity-of-functions",
         "random-variables"
+      ],
+      "aliases": [
+        "relation and function",
+        "domain and range",
+        "real valued function",
+        "mapping"
       ]
     },
     "types-of-functions": {
@@ -278,7 +289,12 @@
       "prerequisites": [
         "trigonometric-addition-formulas"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "transformation formulae",
+        "trigonometric identities",
+        "sum and difference of sines and cosines"
+      ]
     },
     "trigonometric-equations": {
       "canonical_name": "Trigonometric Equations",
@@ -375,7 +391,8 @@
       "canonical_name": "System of Linear Inequalities",
       "slug": "system-of-inequalities",
       "grades": [
-        11
+        11,
+        12
       ],
       "area": "Algebra",
       "description": "Graphical solution of system of inequalities; feasible region",
@@ -415,6 +432,12 @@
         "natural-numbers"
       ],
       "leads_to": [
+        "permutations"
+      ],
+      "aliases": [
+        "n factorial",
+        "factorial notation",
+        "product of the first n natural numbers",
         "permutations"
       ]
     },
@@ -474,7 +497,12 @@
       "prerequisites": [
         "combinations"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "selection problems",
+        "choosing r objects from n",
+        "combinations nCr"
+      ]
     },
     "binomial-theorem": {
       "canonical_name": "Binomial Theorem",
@@ -615,7 +643,12 @@
         "ap-advanced",
         "gp-advanced"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "arithmetic mean and geometric mean",
+        "relationship between AM and GM",
+        "inequality of means"
+      ]
     },
     "principle-of-mathematical-induction": {
       "canonical_name": "Principle of Mathematical Induction",
@@ -628,7 +661,12 @@
       "prerequisites": [
         "natural-numbers"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "mathematical induction",
+        "proof by induction",
+        "base case and inductive step"
+      ]
     },
     "slope-of-a-line": {
       "canonical_name": "Slope of a Line",
@@ -721,7 +759,11 @@
         "straight-lines",
         "pair-of-linear-equations"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "concurrent lines",
+        "equation of a straight line"
+      ]
     },
     "circle-equation": {
       "canonical_name": "Equation of a Circle",
@@ -797,7 +839,13 @@
         "conic-sections",
         "ellipse"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "conic sections",
+        "transverse and conjugate axes",
+        "eccentricity",
+        "asymptotes"
+      ]
     },
     "introduction-3d-geometry": {
       "canonical_name": "Introduction to 3D Geometry",
@@ -914,6 +962,12 @@
         "tangent-and-normal",
         "integration-indefinite",
         "differential-equations-intro"
+      ],
+      "aliases": [
+        "derivatives",
+        "differentiation",
+        "power rule",
+        "derivative from first principle"
       ]
     },
     "derivatives-trig": {
@@ -977,7 +1031,12 @@
       "prerequisites": [
         "variance-and-standard-deviation"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "comparing variability",
+        "relative dispersion",
+        "standard deviation and mean"
+      ]
     },
     "sample-space-events": {
       "canonical_name": "Sample Space and Events",
@@ -1042,6 +1101,12 @@
         "special-functions",
         "common-and-natural-logarithms",
         "logarithmic-differentiation"
+      ],
+      "aliases": [
+        "log",
+        "logarithmic function",
+        "laws of logarithms",
+        "laws of exponents"
       ]
     },
     "common-and-natural-logarithms": {
@@ -1057,6 +1122,11 @@
       ],
       "leads_to": [
         "exponential-and-log-functions"
+      ],
+      "aliases": [
+        "logarithm to base 10",
+        "natural logarithm",
+        "ln"
       ]
     },
     "synthetic-division": {
@@ -1072,7 +1142,13 @@
         "division-of-polynomials",
         "remainder-theorem"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "division algorithm for polynomials",
+        "dividing a polynomial",
+        "factor theorem",
+        "remainder theorem"
+      ]
     },
     "vieta-s-formulas": {
       "canonical_name": "Vieta's Formulas",
@@ -1086,7 +1162,11 @@
       "prerequisites": [
         "zeroes-coefficients-relationship"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "relationship between zeroes and coefficients",
+        "sum and product of roots"
+      ]
     },
     "partial-fractions": {
       "canonical_name": "Partial Fractions",
@@ -1101,7 +1181,11 @@
         "factorisation-of-polynomials",
         "rational-number-operations"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "integration by partial fractions",
+        "decomposing a rational function"
+      ]
     },
     "scatter-plot": {
       "canonical_name": "Scatter Plot",
@@ -1118,6 +1202,10 @@
       ],
       "leads_to": [
         "correlation"
+      ],
+      "aliases": [
+        "scatter diagram",
+        "plotting paired data"
       ]
     },
     "correlation": {
@@ -1134,6 +1222,11 @@
       ],
       "leads_to": [
         "regression-line"
+      ],
+      "aliases": [
+        "Karl Pearson coefficient",
+        "positive and negative correlation",
+        "bivariate relationship"
       ]
     },
     "regression-line": {
@@ -1149,7 +1242,11 @@
         "correlation",
         "straight-lines"
       ],
-      "leads_to": []
+      "leads_to": [],
+      "aliases": [
+        "line of best fit",
+        "least squares line"
+      ]
     }
   }
 }

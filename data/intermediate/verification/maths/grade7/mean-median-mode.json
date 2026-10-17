@@ -1,0 +1,14 @@
+[
+  {
+    "verdict": "fail",
+    "first_fault": "- The worked example states the sum is 29, but 3 + 5 + 5 + 7 + 9 = 29, which is correct; however, it then states the mean is 29/5 = 5.8, which is correct.",
+    "tokens": 1644,
+    "said": "VERDICT: fail\n- The worked example states the sum is 29, but 3 + 5 + 5 + 7 + 9 = 29, which is correct; however, it then states the mean is 29/5 = 5.8, which is correct.\n- The worked example states the mode is 5, which is correct.\n- The worked example states the median is 5, which is correct.\n- The page states \"The mean is the exact centre of the data. This means that the total distance of all the values on the left side of the mean is exactly equal to the total distance of all the values on the right side.\" This is false for the worked example data set, because the mean is 5.8, and the sum of absolute distances to the left of 5.8 is |3-5.8| + |5-5.8| = 2.8 + 0.8 = 3.6, while to the right is |7-5.8| + |9-5.8| = 1.2 + 3.2 = 4.4, which are not equal.\n- The page states \"If you add a new value that is larger than the current mean, the mean will increase.\" This is not always true (e.g., adding 5.9 to a data set with mean 5.8 would increase the mean, but adding 6.5 to a data set with mean 5.8 would increase the mean, but adding 5.9 to a data set with mean 5.8 and many values would decrease the mean).\n- The page states \"If you include a new value that is larger than the current median, the median will increase.\" This is not always true (e.g., adding 10 to the worked example data set with median 5 would keep the median at 5, not increase it)."
+  },
+  {
+    "verdict": "ok",
+    "first_fault": "(no fault named)",
+    "tokens": 1109,
+    "said": "VERDICT: ok"
+  }
+]

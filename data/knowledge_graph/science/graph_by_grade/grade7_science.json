@@ -1,687 +1,448 @@
 {
   "grade": 7,
   "subject": "science",
+  "total_concepts": 23,
   "concepts": {
-    "what-we-eat": {
-      "canonical_name": "What We Eat",
-      "slug": "what-we-eat",
-      "aliases": [
-        "Food Habits",
-        "Nutrition"
-      ],
-      "domain": "Human Nutrition",
-      "area": "Components of Food",
-      "parent": "",
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 1,
-        "8": 2,
-        "9": 3,
-        "10": 4
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "diversity-in-plants-and-animal-around-us",
-        "leaves-as-food-factories",
-        "life-cycle-of-plants",
-        "natural-resource-management",
-        "water-pollution",
-        "what-sets-the-living-apart-from-the-non-living"
-      ],
-      "leads_to": [],
-      "related": [
-        "balanced-diet",
-        "diversity-in-plants-and-animal-around-us",
-        "human-impact-on-the-environmental-conservation",
-        "natural-resource-management",
-        "our-solar-system"
-      ],
-      "see_also": []
-    },
-    "measuring-temperature": {
-      "canonical_name": "Measuring Temperature",
-      "slug": "measuring-temperature",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Temperature Measurement",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 5,
-        "7": 4,
-        "8": 3,
-        "9": 2,
-        "10": 1
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-environmental-conservation",
-        "earths-natural-resources",
-        "states-of-water"
-      ],
-      "leads_to": [],
-      "related": [
-        "food-chain-dynamics",
-        "leaves-as-food-factories"
-      ],
-      "see_also": []
-    },
-    "soil-erosion": {
-      "canonical_name": "Soil Erosion",
-      "slug": "soil-erosion",
-      "_aliases": [
-        "Land Degradation",
-        "Water Pollution"
-      ],
-      "domain": "Environmental Science",
-      "area": "Geography and Environment",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 5,
-        "7": 4,
-        "8": 3,
-        "9": 2,
-        "10": 1
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "natural-resource-management",
-        "plate-tectoncs"
-      ],
-      "leads_to": [],
-      "related": [
-        "diversity-in-plants-and-animal-around-us",
-        "earths-natural-resources",
-        "human-impact-on-the-environmental-conservation"
-      ],
-      "see_also": []
-    },
-    "leaves-as-food-factories": {
-      "canonical_name": "Leaves as Food Factories",
-      "slug": "leaves-as-food-factories",
-      "aliases": [],
-      "domain": "Biology",
-      "area": "Plant Anatomy and Physiology",
-      "parent": null,
+    "light-sources-and-shadows": {
+      "canonical_name": "Light — Sources and Shadows",
+      "slug": "light-sources-and-shadows",
       "grades": [
         7
       ],
-      "importance_BY_GRADE": {
-        "7": 5
-      },
-      "source_BOARDS": [
-        "NCERT"
-      ],
-      "subject": "science",
+      "area": "Optics",
+      "description": "Luminous and non-luminous objects; opaque, translucent, transparent; shadow formation",
       "prerequisites": [],
       "leads_to": [
-        "balanced-diet",
-        "cellular-respiration",
-        "cooling-effect",
-        "living-organisms",
-        "mixtures",
-        "natural-resource-management",
-        "population-dynamics",
-        "soil-composition",
-        "standard-units",
-        "states-of-water",
-        "valency",
-        "water-pollution",
-        "what-we-eat"
+        "rectilinear-propagation",
+        "solar-eclipse",
+        "lunar-eclipse"
       ],
-      "related": [],
-      "see_also": []
+      "aliases": [
+        "shadow formation",
+        "luminous and non-luminous",
+        "opaque transparent and translucent",
+        "light shadows and reflections"
+      ],
+      "subject": "physics"
     },
-    "food-chain-dynamics": {
-      "canonical_name": "Food Chain Dynamics",
-      "slug": "food-chain-dynamics",
-      "aliases": [],
-      "domain": "Ecology",
-      "area": "Ecosystem Processes",
-      "parent": "ecological-processes",
+    "heat-and-temperature": {
+      "canonical_name": "Heat and Temperature",
+      "slug": "heat-and-temperature",
       "grades": [
         7,
-        9
+        8
       ],
-      "importance_BY_GRADE": {
-        "7": 5,
-        "9": 4
-      },
-      "source_BOARDS": [
-        "NCERT"
-      ],
-      "subject": "science",
+      "area": "Heat and Thermodynamics",
+      "description": "Heat as form of energy; distinction between heat and temperature",
       "prerequisites": [
-        "food-chain",
-        "interactions-that-maintain-ecosystems"
+        "measurement-of-temperature"
       ],
       "leads_to": [
-        "cellular-respiration",
-        "energy",
-        "population-dynamics",
-        "valency",
-        "water-pollution"
+        "heat-transfer-modes",
+        "change-of-state",
+        "specific-heat-capacity",
+        "thermal-expansion"
       ],
-      "related": [],
-      "see_also": []
-    },
-    "climate-change": {
-      "canonical_name": "Climate Change",
-      "slug": "climate-change",
       "aliases": [
-        "Global Warming",
-        "Environmental Issue"
+        "hot and cold",
+        "measuring temperature",
+        "thermometer",
+        "heat as a form of energy"
       ],
-      "domain": "Earth Sciences",
-      "area": "Atmospheric Science",
-      "parent": "",
+      "subject": "physics"
+    },
+    "heat-transfer-modes": {
+      "canonical_name": "Modes of Heat Transfer",
+      "slug": "heat-transfer-modes",
       "grades": [
         7,
-        8,
-        9,
-        10
+        8
       ],
-      "importance_BY_GRADE": {
-        "7": 5,
-        "8": 4,
-        "9": 5,
-        "10": 4
-      },
-      "source_BOARDS": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Heat and Thermodynamics",
+      "description": "Conduction, convection, radiation; conductors and insulators",
       "prerequisites": [
-        "earths-environmental-conservation",
-        "earths-natural-resources",
-        "human-impact-on-the-environmental-conservation",
-        "natural-disasters"
+        "heat-and-temperature"
       ],
       "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "plate-tectoncs": {
-      "canonical_name": "Plate Tectoncs",
-      "slug": "plate-tectoncs",
       "aliases": [
-        "Tectonics",
-        "Earth's Crust Dynamics"
+        "conduction convection and radiation",
+        "conductors and insulators of heat",
+        "transfer of heat"
       ],
-      "domain": "Geology",
-      "area": "Earth Sciences",
-      "parent": null,
+      "subject": "physics"
+    },
+    "physical-vs-chemical-change": {
+      "canonical_name": "Physical and Chemical Changes",
+      "slug": "physical-vs-chemical-change",
+      "grades": [
+        7,
+        8
+      ],
+      "area": "Chemical Reactions",
+      "description": "Reversible vs irreversible; indicators of chemical change",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [
+        "chemical-equations",
+        "acids-bases-indicators"
+      ],
+      "aliases": [
+        "physical and chemical changes",
+        "reversible and irreversible change",
+        "changes around us"
+      ],
+      "subject": "chemistry"
+    },
+    "acids-bases-indicators": {
+      "canonical_name": "Acids, Bases and Indicators",
+      "slug": "acids-bases-indicators",
+      "grades": [
+        7,
+        10
+      ],
+      "area": "Acids Bases and Salts",
+      "description": "Acidic, basic, neutral substances; litmus, phenolphthalein, methyl orange",
+      "prerequisites": [
+        "physical-vs-chemical-change"
+      ],
+      "leads_to": [
+        "properties-of-acids-bases",
+        "soaps-and-detergents"
+      ],
+      "subject": "chemistry"
+    },
+    "neutralisation": {
+      "canonical_name": "Neutralisation Reaction",
+      "slug": "neutralisation",
+      "grades": [
+        7,
+        10
+      ],
+      "area": "Acids Bases and Salts",
+      "description": "Acid + Base → Salt + Water; exothermic",
+      "prerequisites": [],
+      "leads_to": [
+        "salts-and-their-properties"
+      ],
+      "subject": "chemistry"
+    },
+    "diversity-of-organisms": {
+      "canonical_name": "Diversity of Organisms",
+      "slug": "diversity-of-organisms",
       "grades": [
         7
       ],
-      "importance_byGrade": {
-        "7": 5
-      },
-      "sourceBoards": [
-        "NCERT",
-        "ICSE"
+      "area": "Diversity of Life",
+      "description": "Plants and animals around us; variety of habitats",
+      "prerequisites": [
+        "living-vs-nonliving"
       ],
-      "subject": "science",
+      "leads_to": [
+        "classification-of-organisms",
+        "origin-of-life",
+        "ecosystem-concept",
+        "adaptations"
+      ],
+      "subject": "biology"
+    },
+    "classification-of-organisms": {
+      "canonical_name": "Classification of Living Organisms",
+      "slug": "classification-of-organisms",
+      "grades": [
+        7,
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species",
+      "prerequisites": [
+        "diversity-of-organisms"
+      ],
+      "leads_to": [
+        "five-kingdom-classification",
+        "binomial-nomenclature",
+        "speciation",
+        "biodiversity",
+        "microorganisms"
+      ],
+      "subject": "biology"
+    },
+    "plant-respiration": {
+      "canonical_name": "Respiration in Plants",
+      "slug": "plant-respiration",
+      "grades": [
+        7,
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "Aerobic and anaerobic; fermentation; compensation point",
+      "prerequisites": [
+        "photosynthesis"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "transpiration": {
+      "canonical_name": "Transpiration",
+      "slug": "transpiration",
+      "grades": [
+        7,
+        10
+      ],
+      "area": "Plant Biology",
+      "description": "Loss of water from leaves; stomata; factors affecting transpiration",
+      "prerequisites": [
+        "water-cycle"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "plant-reproduction-asexual": {
+      "canonical_name": "Asexual Reproduction in Plants",
+      "slug": "plant-reproduction-asexual",
+      "grades": [
+        7,
+        10
+      ],
+      "area": "Reproduction",
+      "description": "Vegetative propagation: cutting, layering, grafting; budding, fragmentation",
       "prerequisites": [],
       "leads_to": [
-        "earths-natural-resources",
-        "earths-oceans",
-        "natural-disasters",
-        "our-solar-system",
-        "soil-erosion"
+        "strategies-for-food-enhancement"
       ],
-      "related": [],
-      "see_also": []
+      "subject": "biology"
     },
-    "mixtures": {
-      "canonical_name": "Mixtures",
-      "slug": "mixtures",
-      "_aliases": [
-        "Mixture",
-        "Blends"
-      ],
-      "domain": "Chemistry",
-      "area": "States of Matter",
-      "parent": null,
+    "flower-structure": {
+      "canonical_name": "Flower Structure and Function",
+      "slug": "flower-structure",
       "grades": [
-        6,
         7,
-        8,
-        9,
-        10
+        10,
+        12
       ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 4,
-        "9": 5,
-        "10": 3
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "leaves-as-food-factories",
-        "natural-resource-management",
-        "states-of-water",
-        "what-is-matter"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "energy": {
-      "canonical_name": "Energy",
-      "slug": "energy",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Thermodynamics",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "earths-environmental-conservation",
-        "earths-natural-resources",
-        "food-chain-dynamics",
-        "natural-disasters"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "types-of-pure-elements-and-compounds": {
-      "canonical_name": "Types of Pure Elements and Compounds",
-      "slug": "types-of-pure-elements-and-compounds",
-      "_aliases": [
-        "Pure Elements",
-        "Elements",
-        "Compounds"
-      ],
-      "domain": "Chemistry",
-      "area": "Atomic Structure and Properties",
-      "parent": "chemistry",
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Reproduction",
+      "description": "Sepals, petals, stamens, carpels; pollination; self and cross pollination",
       "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "valency": {
-      "canonical_name": "Valency",
-      "slug": "valency",
-      "_aliases": [
-        "Definition of valency",
-        "Types of valency",
-        "Valency of metals",
-        "Valency of non-metalls",
-        "Electron Configuration",
-        "Chemical Reactivity",
-        "Chemistry Bonding"
+      "leads_to": [
+        "seed-formation",
+        "pollination-and-fertilisation-plants"
       ],
-      "domain": "Atomic Structure",
-      "area": "Periodic Table and Elements",
-      "parent": "periodic-table-and-elements",
+      "subject": "biology"
+    },
+    "seed-formation": {
+      "canonical_name": "Seed Formation and Dispersal",
+      "slug": "seed-formation",
       "grades": [
-        6,
         7,
-        8,
-        9,
         10
       ],
-      "importance by grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Reproduction",
+      "description": "Fertilisation; development of seed and fruit; dispersal mechanisms",
       "prerequisites": [
-        "food-chain-dynamics",
-        "leaves-as-food-factories",
-        "natural-resource-management",
-        "states-of-matter"
+        "flower-structure"
       ],
       "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "living-organisms": {
-      "canonical_name": "Living Organisms",
-      "slug": "living-organisms",
-      "aliases": [],
-      "domain": "Biology",
-      "area": "Characteristics of Living Organisms",
-      "parents": [
-        {
-          "name": "biology",
-          "level": "Domain"
-        },
-        {
-          "value": "characteristics-of-living-organisms",
-          "level": "Area"
-        }
-      ],
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 1,
-        "8": 2,
-        "9": 3,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "diversity-in-plants-and-animal-around-us",
-        "leaves-as-food-factories",
-        "life-cycle-of-plants",
-        "what-sets-the-living-apart-from-the-non-living"
-      ],
-      "leads_to": [],
-      "related": [
-        "climate-change",
-        "food-chain-dynamics",
-        "plate-tectoncs"
-      ],
-      "see_also": []
-    },
-    "first-law-of-motion-newton-s-first-law": {
-      "canonical_name": "First Law of Motion Newton's First Law",
-      "slug": "first-law-of-motion-newton-s-first-law",
       "aliases": [
-        "Law of Motion",
-        "Inertia"
+        "formation of fruit and seed",
+        "seed dispersal",
+        "fertilisation in plants",
+        "sexual reproduction in flowering plants"
       ],
-      "domain": "Physics",
-      "area": "Newton's Law of Motion and Universal Gravitation",
-      "parent": null,
+      "subject": "biology"
+    },
+    "modes-of-nutrition": {
+      "canonical_name": "Modes of Nutrition",
+      "slug": "modes-of-nutrition",
       "grades": [
-        6,
         7,
-        8,
-        9,
         10
       ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 5,
-        "10": 4
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
+      "area": "Nutrition and Digestion",
+      "description": "Autotrophic and heterotrophic; saprophytic, parasitic, holozoic",
+      "prerequisites": [
+        "living-vs-nonliving"
       ],
-      "subject": "science",
+      "leads_to": [
+        "human-digestive-system",
+        "animal-nutrition"
+      ],
+      "subject": "biology"
+    },
+    "human-digestive-system": {
+      "canonical_name": "Human Digestive System",
+      "slug": "human-digestive-system",
+      "grades": [
+        7,
+        10
+      ],
+      "area": "Nutrition and Digestion",
+      "description": "Mouth → oesophagus → stomach → small intestine → large intestine; role of enzymes",
+      "prerequisites": [
+        "components-of-food",
+        "modes-of-nutrition"
+      ],
+      "leads_to": [
+        "enzymes",
+        "digestion-absorption-detail"
+      ],
+      "subject": "biology"
+    },
+    "human-respiratory-system": {
+      "canonical_name": "Human Respiratory System",
+      "slug": "human-respiratory-system",
+      "grades": [
+        7,
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Nose → pharynx → trachea → bronchi → lungs; alveoli; gas exchange",
       "prerequisites": [],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
+      "leads_to": [
+        "breathing-and-gas-exchange"
+      ],
+      "subject": "biology"
     },
-    "mass": {
-      "canonical_name": "Mass",
-      "slug": "mass",
-      "aliases": [],
-      "domain": "Physics",
-      "area": "Properties of Matter",
-      "parent": null,
+    "animal-nutrition": {
+      "canonical_name": "Nutrition in Animals",
+      "slug": "animal-nutrition",
       "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
+        7
       ],
-      "importance-by-grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 4,
-        "10": 5
-      },
-      "source_Boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
+      "area": "Nutrition and Digestion",
+      "description": "Feeding mechanisms; digestion in amoeba, grasshopper; ruminants",
       "prerequisites": [
-        "earths-natural-resources",
-        "states-of-water",
-        "what-is-matter"
+        "modes-of-nutrition"
       ],
       "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "evolution": {
-      "canonical_name": "Evolution",
-      "slug": "evolution",
-      "_aliases": [
-        "Species Change And Fossil Record",
-        "Mechanisms Of Evolution",
-        "Evolutionary Adaptations And Speciation",
-        "Phylogenetic Trees And Cladistics",
-        "Evolution Relationships And Homologous Structures"
-      ],
-      "domain": "Biology",
-      "area": "Ecology And Evolution",
-      "parent": null,
-      "grades": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "importance by grade": {
-        "6": 1,
-        "7": 2,
-        "8": 3,
-        "9": 5,
-        "10": 4
-      },
-      "source boards": [
-        "NCERT",
-        "ICSE"
-      ],
-      "subject": "science",
-      "prerequisites": [
-        "diversity-in-plants-and-animal-around-us",
-        "earths-biodversity-hotspots",
-        "life-cycle-of-plants"
-      ],
-      "leads_to": [],
-      "related": [],
-      "see_also": []
-    },
-    "population-dynamics": {
-      "canonical_name": "Population Dynamics",
-      "slug": "population-dynamics",
       "aliases": [
-        "Demography",
-        "Population Growth"
+        "nutrition in animals",
+        "digestion in animals",
+        "ruminants",
+        "how animals obtain food"
       ],
-      "domain": "Science",
-      "area": "Biology/Ecology",
-      "parent": "",
+      "subject": "biology"
+    },
+    "breathing-and-gas-exchange": {
+      "canonical_name": "Breathing and Gas Exchange",
+      "slug": "breathing-and-gas-exchange",
       "grades": [
-        6,
         7,
-        8,
-        9,
         10
       ],
-      "importance_By_Grade": {
-        "6": 1,
-        "7": 1,
-        "8": 2,
-        "9": 4,
-        "10": 5
-      },
-      "Source_Boards": [
-        "NCERT",
-        "state Boards"
-      ],
-      "subject": "science",
+      "area": "Human Physiology",
+      "description": "Mechanism of breathing; exchange of gases in alveoli; role of diaphragm",
       "prerequisites": [
-        "earths-biodversity-hotspots",
-        "earths-environmental-conservation",
-        "food-chain-dynamics",
-        "human-impact-on-the-environmental-conservation",
-        "leaves-as-food-factories",
-        "life-cycle-of-plants",
-        "natural-resource-management",
-        "water-pollution"
+        "human-respiratory-system"
       ],
       "leads_to": [],
-      "related": [
-        "food-chain-dynamics",
-        "human-impact-on-the-environmental-conservation"
+      "subject": "biology"
+    },
+    "solar-eclipse": {
+      "canonical_name": "Solar Eclipse",
+      "slug": "solar-eclipse",
+      "grades": [
+        7
       ],
-      "see_also": []
+      "area": "Optics",
+      "description": "The Moon passes between the Sun and the Earth and its shadow falls on the Earth",
+      "aliases": [
+        "solar eclipse",
+        "eclipse of the Sun",
+        "Moon's shadow on the Earth"
+      ],
+      "prerequisites": [
+        "rectilinear-propagation",
+        "light-sources-and-shadows",
+        "earths-rotation-revolution"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "lunar-eclipse": {
+      "canonical_name": "Lunar Eclipse",
+      "slug": "lunar-eclipse",
+      "grades": [
+        7
+      ],
+      "area": "Optics",
+      "description": "The Earth passes between the Sun and the Moon, so the Moon moves through the Earth's shadow",
+      "aliases": [
+        "lunar eclipse",
+        "eclipse of the Moon",
+        "Earth's shadow on the Moon"
+      ],
+      "prerequisites": [
+        "rectilinear-propagation",
+        "light-sources-and-shadows",
+        "earths-rotation-revolution"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "adolescence-and-puberty": {
+      "canonical_name": "Adolescence and Puberty",
+      "slug": "adolescence-and-puberty",
+      "grades": [
+        7
+      ],
+      "area": "Reproduction",
+      "description": "Physical and emotional changes of the teenage years and the onset of reproductive capability",
+      "aliases": [
+        "puberty",
+        "growing with age",
+        "the teenage years",
+        "changes at adolescence"
+      ],
+      "prerequisites": [
+        "health-and-hygiene"
+      ],
+      "leads_to": [
+        "human-reproductive-system",
+        "reproductive-health"
+      ],
+      "subject": "biology"
+    },
+    "electrical-conductors-insulators": {
+      "canonical_name": "Electrical Conductors and Insulators",
+      "slug": "electrical-conductors-insulators",
+      "grades": [
+        7
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Materials that let electric current pass through them and materials that do not",
+      "aliases": [
+        "conductors and insulators",
+        "materials that conduct electricity",
+        "testing whether a material conducts"
+      ],
+      "prerequisites": [],
+      "leads_to": [
+        "electric-circuit",
+        "electric-current"
+      ],
+      "subject": "physics"
+    },
+    "circuit-diagrams-symbols": {
+      "canonical_name": "Circuit Diagrams and Symbols",
+      "slug": "circuit-diagrams-symbols",
+      "grades": [
+        7
+      ],
+      "area": "Electricity and Magnetism",
+      "description": "Standard symbols for a cell, switch, bulb and wires, and drawing a circuit from them",
+      "aliases": [
+        "circuit diagram",
+        "symbols for circuit components",
+        "electric switch",
+        "drawing an electric circuit"
+      ],
+      "prerequisites": [],
+      "leads_to": [
+        "electric-circuit"
+      ],
+      "subject": "physics"
     }
-  },
-  "edges": [
-    {
-      "from": "leaves-as-food-factories",
-      "to": "what-we-eat",
-      "type": "prerequisite"
-    },
-    {
-      "from": "leaves-as-food-factories",
-      "to": "mixtures",
-      "type": "prerequisite"
-    },
-    {
-      "from": "leaves-as-food-factories",
-      "to": "valency",
-      "type": "prerequisite"
-    },
-    {
-      "from": "leaves-as-food-factories",
-      "to": "living-organisms",
-      "type": "prerequisite"
-    },
-    {
-      "from": "leaves-as-food-factories",
-      "to": "population-dynamics",
-      "type": "prerequisite"
-    },
-    {
-      "from": "food-chain-dynamics",
-      "to": "energy",
-      "type": "prerequisite"
-    },
-    {
-      "from": "food-chain-dynamics",
-      "to": "valency",
-      "type": "prerequisite"
-    },
-    {
-      "from": "food-chain-dynamics",
-      "to": "population-dynamics",
-      "type": "prerequisite"
-    },
-    {
-      "from": "plate-tectoncs",
-      "to": "soil-erosion",
-      "type": "prerequisite"
-    }
-  ],
-  "entry_points": [
-    "measuring-temperature",
-    "leaves-as-food-factories",
-    "food-chain-dynamics",
-    "climate-change",
-    "plate-tectoncs",
-    "types-of-pure-elements-and-compounds",
-    "first-law-of-motion-newton-s-first-law",
-    "mass",
-    "evolution"
-  ]
+  }
 }

@@ -1,0 +1,156 @@
+---
+{
+  "concept": "Surds and Rationalisation",
+  "slug": "surds-and-rationalisation",
+  "grade": 9,
+  "language": "te",
+  "hand_edited": "2026-10-17: Telugu audit against the English page. The two terms were swapped: akaraniya (rational) was used for irrational and hetubaddha for rational, so 'akaraniya sankhya (irrational number)' contradicted the other Grade 9 pages; now akaraniya = rational, karaniya = irrational throughout. Title 'sarali kalu' (meaningless) replaced. 'Terminating' was written where the English says non-terminating non-recurring. 'Identity' was sutram (formula); now sarvasameekaranam. Citation tags unchanged.",
+  "subject": "maths",
+  "area": "Number Systems",
+  "model": "sarvam-105b",
+  "settings": {
+    "temperature": 0.3,
+    "max_tokens": 8000,
+    "reasoning_effort": "none"
+  },
+  "usage": {
+    "completion_tokens": 2893,
+    "prompt_tokens": 3022,
+    "total_tokens": 5915,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "prompt_tokens_details": null
+  },
+  "target_words": [
+    1000,
+    1350
+  ],
+  "generated_at": "2026-10-17T05:46:26",
+  "source_grade": 9,
+  "grade_delta": 0,
+  "sources": [
+    {
+      "ref": "S1",
+      "passage_id": "g9_maths_chapter1_017",
+      "chapter": "chapter1",
+      "section": "1.4 Operations on Real Numbers"
+    },
+    {
+      "ref": "S2",
+      "passage_id": "g9_maths_chapter1_005",
+      "chapter": "chapter1",
+      "section": "1.2 Irrational Numbers"
+    }
+  ],
+  "citation_check": {
+    "cited": [
+      "1",
+      "2"
+    ],
+    "invented_citations": [],
+    "unused_sources": [],
+    "explanatory_paragraphs_without_a_citation": 0,
+    "words": 944,
+    "target_words": [
+      1000,
+      1350
+    ],
+    "untraceable_sections": 0,
+    "ok": true,
+    "tags_vs_english": "32/32",
+    "localisation_problems": []
+  },
+  "terms": [
+    "irrational number",
+    "rational number",
+    "square root",
+    "rationalising the denominator",
+    "real number"
+  ]
+}
+---
+
+# కరణీయ వర్గమూలాలు మరియు హారాన్ని అకరణీయం చేయడం (Surds and Rationalisation)
+
+ఈ పేజీ $\sqrt{2}$ మరియు $\sqrt{3}$ వంటి కరణీయ వర్గమూలాలను (irrational square roots) కలిగి ఉన్న సమాసాల గురించి వివరిస్తుంది. అటువంటి సంఖ్యలను కూడిక, గుణకారం మరియు భాగహారం చేసినప్పుడు ఏమి జరుగుతుందో, వర్గమూలాల సర్వసమీకరణాలు (identities) సమాసాలను సరళీకృతం చేయడంలో ఎలా సహాయపడతాయో, మరియు వర్గమూలం ఉన్న హారాన్ని (denominator) ఎలా అకరణీయం చేయాలో (rationalise) మనం ఇక్కడ చూస్తాము.
+
+## కరణీయ వర్గమూలాలు (Irrational Square Roots)
+
+ఒక సంఖ్యను $p$ మరియు $q$ లు పూర్ణాంకాలు మరియు $q \neq 0$ అయ్యేలా $\frac{p}{q}$ రూపంలో రాయలేకపోతే, ఆ సంఖ్యను కరణీయ సంఖ్య (irrational number) అంటారు. $\sqrt{2}$, $\sqrt{3}$, $\sqrt{15}$ మరియు $\pi$ లు కొన్ని ఉదాహరణలు.
+
+మనం $\sqrt{}$ గుర్తును ఉపయోగించినప్పుడు, దానిని ఆ సంఖ్య యొక్క ధనాత్మక వర్గమూలంగా (positive square root) భావిస్తాము. కాబట్టి $\sqrt{4}=2$, అయితే 2 మరియు $-2$ రెండూ 4 యొక్క వర్గమూలాలే. వాస్తవ సంఖ్య (real number) $a > 0$ కు, $\sqrt{a} = b$ అంటే $b^2 = a$ మరియు $b > 0$ అని అర్థం.
+
+## కరణీయ సంఖ్యలపై ప్రక్రియలు (Operations on Irrational Numbers)
+
+కరణీయ సంఖ్యల మొత్తం, వ్యత్యాసం, భాగఫలం మరియు లబ్ధం ఎల్లప్పుడూ కరణీయంగా ఉండవు. ఉదాహరణకు, $\left(\sqrt{6}\right)+\left(-\sqrt{6}\right)$, $\left(\sqrt{2}\right)-\left(\sqrt{2}\right)$, $\left(\sqrt{3}\right)\cdot\left(\sqrt{3}\right)$ మరియు $\frac{\sqrt{17}}{\sqrt{17}}$ అన్నీ అకరణీయ సంఖ్యలే (rational).
+
+ఇప్పుడు ఒక అకరణీయ సంఖ్యను కరణీయ సంఖ్యతో కలిపి తీసుకుందాం. $\sqrt{3}$ కు అంతం కాని, పునరావృతం కాని దశాంశ విస్తరణ ఉన్నందున, $2 + \sqrt{3}$ మరియు $2\sqrt{3}$ లకు కూడా అదే వర్తిస్తుంది. కాబట్టి $2 + \sqrt{3}$ మరియు $2\sqrt{3}$ రెండూ కరణీయ సంఖ్యలు.
+
+ఇలాంటి ఉదాహరణలు కింది వాస్తవాలకు దారితీస్తాయి, ఇవి నిజమైనవి:
+
+*   అకరణీయ సంఖ్య మరియు కరణీయ సంఖ్యల మొత్తం లేదా వ్యత్యాసం కరణీయంగా ఉంటుంది.
+*   సున్నా కాని అకరణీయ సంఖ్య మరియు కరణీయ సంఖ్యల లబ్ధం లేదా భాగఫలం కరణీయంగా ఉంటుంది.
+*   మనం రెండు కరణీయ సంఖ్యలను కూడినా, తీసివేసినా, గుణించినా లేదా భాగించినా, ఫలితం అకరణీయంగా లేదా కరణీయంగా ఉండవచ్చు.
+
+ఒక సంఖ్యను దశాంశంగా (decimal) రాయడం ద్వారా మనం దానిని పరీక్షించవచ్చు. $\sqrt{5} = 2.236\ldots$, $\sqrt{2} = 1.4142\ldots$ మరియు $\pi = 3.1415\ldots$ లను ఉపయోగించి, మనకు $7\sqrt{5} = 15.652\ldots$, $\frac{7}{\sqrt{5}} = \frac{7\sqrt{5}}{\sqrt{5}\sqrt{5}} = \frac{7\sqrt{5}}{5} = 3.1304\ldots$, $\sqrt{2} + 21 = 22.4142\ldots$ మరియు $\pi - 2 = 1.1415\ldots$ వస్తాయి. ఇవన్నీ అంతం కాని, పునరావృతం కాని దశాంశాలు, కాబట్టి అవన్నీ కరణీయ సంఖ్యలు.
+
+కరణీయ సంఖ్యలను కూడిక, గుణకారం మరియు భాగహారం చేసే విధానం ఇక్కడ ఉంది:
+
+*   $2\sqrt{2} + 5\sqrt{3}$ మరియు $\sqrt{2} - 3\sqrt{3}$ లను కలపండి. సజాతి పదాలను (like terms) సేకరిస్తే, $\left(2\sqrt{2} + \sqrt{2}\right) + \left(5\sqrt{3} - 3\sqrt{3}\right) = (2 + 1)\sqrt{2} + (5 - 3)\sqrt{3} = 3\sqrt{2} + 2\sqrt{3}$ వస్తుంది.
+*   $6\sqrt{5}$ ను $2\sqrt{5}$ తో గుణించండి. మనకు $6 \times 2 \times \sqrt{5} \times \sqrt{5} = 12 \times 5 = 60$ వస్తుంది.
+*   $8\sqrt{15}$ ను $2\sqrt{3}$ తో భాగించండి. $\sqrt{15} = \sqrt{3} \times \sqrt{5}$ అని రాస్తే, మనకు $\frac{8\sqrt{3} \times \sqrt{5}}{2\sqrt{3}} = 4\sqrt{5}$ వస్తుంది.
+
+## వర్గమూలాలకు సర్వసమీకరణాలు (Identities for Square Roots)
+
+వర్గమూలాలకు సంబంధించిన కొన్ని సర్వసమీకరణాలు వివిధ రకాలుగా ఉపయోగపడతాయి. మిగిలినవి వాస్తవ సంఖ్యల కూడికపై గుణకారం యొక్క వితరణ నియమం (distributive law) నుండి, మరియు ఏదైనా వాస్తవ సంఖ్యలు $x$ మరియు $y$ లకు $(x + y)(x - y) = x^{2} - y^{2}$ అనే సర్వసమీకరణం నుండి వస్తాయి. $a$ మరియు $b$ లు ధనాత్మక వాస్తవ సంఖ్యలు అనుకుందాం. అప్పుడు:
+
+(i) $\sqrt{ab} = \sqrt{a}\sqrt{b}$
+
+(ii) $\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}$
+
+(iii) $\left(\sqrt{a} + \sqrt{b}\right)\left(\sqrt{a} - \sqrt{b}\right) = a - b$
+
+(iv) $\left(a + \sqrt{b}\right)\left(a - \sqrt{b}\right) = a^2 - b$
+
+(v) $\left(\sqrt{a} + \sqrt{b}\right)\left(\sqrt{c} + \sqrt{d}\right) = \sqrt{ac} + \sqrt{ad} + \sqrt{bc} + \sqrt{bd}$
+
+(vi) $\left(\sqrt{a} + \sqrt{b}\right)^2 = a + 2\sqrt{ab} + b$
+
+ఇక్కడ "సరళీకృతం" (simplify) అంటే సమాసాన్ని ఒక అకరణీయ సంఖ్య మరియు ఒక కరణీయ సంఖ్యల మొత్తంగా రాయడం. సర్వసమీకరణాలను ఉపయోగించి కొన్ని సమాసాలను సరళీకృతం చేద్దాం.
+
+*   వితరణ నియమం ప్రకారం, $\left(5+\sqrt{7}\right)\left(2+\sqrt{5}\right) = 10 + 5\sqrt{5} + 2\sqrt{7} + \sqrt{35}$.
+*   సర్వసమీకరణం (iv) ప్రకారం, $\left(5 + \sqrt{5}\right)\left(5 - \sqrt{5}\right) = 5^2 - \left(\sqrt{5}\right)^2 = 25 - 5 = 20$.
+*   సర్వసమీకరణం (vi) ప్రకారం, $\left(\sqrt{3} + \sqrt{7}\right)^2 = \left(\sqrt{3}\right)^2 + 2\sqrt{3}\sqrt{7} + \left(\sqrt{7}\right)^2 = 3 + 2\sqrt{21} + 7 = 10 + 2\sqrt{21}$.
+*   సర్వసమీకరణం (iii) ప్రకారం, $\left(\sqrt{11} - \sqrt{7}\right)\left(\sqrt{11} + \sqrt{7}\right) = \left(\sqrt{11}\right)^2 - \left(\sqrt{7}\right)^2 = 11 - 7 = 4$.
+
+## హారాన్ని అకరణీయం చేయడం (Rationalising the Denominator)
+
+$\frac{1}{\sqrt{2}}$ ని చూడండి. ఇది కరణీయమైనది, మరియు హారం (denominator) ఒక అకరణీయ సంఖ్య అయితే దానిని నిర్వహించడం సులభం కావచ్చు. హారాన్ని అకరణీయం చేయడం అంటే హారాన్ని ఒక అకరణీయ సంఖ్యగా మార్చడం. అలా చేయడానికి, మనకు వర్గమూలాలకు సంబంధించిన సర్వసమీకరణాలు అవసరం.
+
+మనం $\frac{1}{\sqrt{2}}$ ను హారం అకరణీయ సంఖ్యగా ఉండే సమాన సమాసంగా రాయాలనుకుంటున్నాము. $\sqrt{2} \cdot \sqrt{2}$ అనేది అకరణీయమైనదని మనకు తెలుసు. $\frac{1}{\sqrt{2}}$ ను $\frac{\sqrt{2}}{\sqrt{2}}$ తో గుణిస్తే సమాన సమాసం వస్తుందని కూడా మనకు తెలుసు, ఎందుకంటే $\frac{\sqrt{2}}{\sqrt{2}} = 1$. ఈ రెండు వాస్తవాలను కలిపి చూస్తే, $\frac{1}{\sqrt{2}} = \frac{1}{\sqrt{2}} \times \frac{\sqrt{2}}{\sqrt{2}} = \frac{\sqrt{2}}{2}$ వస్తుంది. ఈ రూపంలో $\frac{1}{\sqrt{2}}$ ను సంఖ్యా రేఖపై (number line) గుర్తించడం సులభం, ఎందుకంటే ఇది 0 మరియు $\sqrt{2}$ మధ్య సగం దూరంలో ఉంటుంది.
+
+హారంలో రెండు పదాలు ఉన్నప్పుడు, మనం అవే రెండు పదాలతో, వాటి మధ్య ఉన్న గుర్తును (sign) మార్చి, గుణించి, భాగిస్తాము, తద్వారా ఒక సర్వసమీకరణం హారం నుండి వర్గమూలాలను తొలగిస్తుంది. $\frac{1}{2 + \sqrt{3}}$ హారాన్ని అకరణీయం చేయడానికి మనం సర్వసమీకరణం (iv) ని ఉపయోగిస్తాము మరియు $2 - \sqrt{3}$ తో గుణించి, భాగిస్తాము:
+
+$\frac{1}{2 + \sqrt{3}}\times \frac{2 - \sqrt{3}}{2 - \sqrt{3}} = \frac{2 - \sqrt{3}}{4 - 3} = 2 - \sqrt{3}$.
+
+అదే విధంగా, $\frac{1}{7 + 3\sqrt{2}}$ హారాన్ని అకరణీయం చేయడానికి మనం $7 - 3\sqrt{2}$ తో గుణించి, భాగిస్తాము, ఇది $\frac{7 - 3\sqrt{2}}{49 - 18} = \frac{7 - 3\sqrt{2}}{31}$ ఇస్తుంది.
+
+కాబట్టి, ఒక సమాసం యొక్క హారంలో వర్గమూలం ఉన్న పదం ఉన్నప్పుడు, దానిని హారం అకరణీయ సంఖ్యగా ఉండే సమాన సమాసంగా మార్చడాన్ని హారాన్ని అకరణీయం చేయడం అంటారు.
+
+## సాధించిన ఉదాహరణ
+
+$\frac{5}{\sqrt{3} - \sqrt{5}}$ యొక్క హారాన్ని అకరణీయం చేయండి. ఇక్కడ మనం $a = 3$ మరియు $b = 5$ తో సర్వసమీకరణం (iii), $\left(\sqrt{a} + \sqrt{b}\right)\left(\sqrt{a} - \sqrt{b}\right) = a - b$ ని ఉపయోగిస్తాము, కాబట్టి మనం $\sqrt{3} + \sqrt{5}$ తో గుణించి, భాగిస్తాము.
+
+$\frac{5}{\sqrt{3} - \sqrt{5}} = \frac{5}{\sqrt{3} - \sqrt{5}} \times \frac{\sqrt{3} + \sqrt{5}}{\sqrt{3} + \sqrt{5}} = \frac{5\left(\sqrt{3} + \sqrt{5}\right)}{3 - 5} = \left(\frac{-5}{2}\right)\left(\sqrt{3} + \sqrt{5}\right)$.
+
+## ముఖ్య అంశాలు
+
+*   రెండు కరణీయ సంఖ్యల మొత్తం, వ్యత్యాసం, భాగఫలం మరియు లబ్ధం అకరణీయంగా లేదా కరణీయంగా ఉండవచ్చు.
+*   అకరణీయ సంఖ్య మరియు కరణీయ సంఖ్యల మొత్తం లేదా వ్యత్యాసం కరణీయంగా ఉంటుంది.
+*   సున్నా కాని అకరణీయ సంఖ్య మరియు కరణీయ సంఖ్యల లబ్ధం లేదా భాగఫలం కరణీయంగా ఉంటుంది.
+*   $\left(\sqrt{a} + \sqrt{b}\right)\left(\sqrt{a} - \sqrt{b}\right) = a - b$ మరియు $\left(a + \sqrt{b}\right)\left(a - \sqrt{b}\right) = a^2 - b$ వంటి సర్వసమీకరణాలు వర్గమూలాలతో ఉన్న సమాసాలను సరళీకృతం చేయడంలో మనకు సహాయపడతాయి.
+*   హారాన్ని అకరణీయం చేయడం అంటే హారంలో వర్గమూలం ఉన్న సమాసాన్ని, హారం అకరణీయ సంఖ్యగా ఉండే సమాన సమాసంగా మార్చడం.

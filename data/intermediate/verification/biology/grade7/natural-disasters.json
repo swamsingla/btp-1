@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- No arithmetic errors or internal contradictions found in the text.",
+    "tokens": 1227,
+    "said": "VERDICT: ok\n- No arithmetic errors or internal contradictions found in the text."
+  }
+]

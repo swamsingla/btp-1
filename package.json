@@ -1,15 +1,14 @@
 {
-  "name": "ncert-smart-wiki",
+  "name": "graphlearn",
   "version": "1.0.0",
-  "description": "NCERT Multilingual Smart Wiki — MERN Stack",
+  "description": "GraphLearn — knowledge-graph learning platform for NCERT Grades 6-12",
+  "private": true,
   "scripts": {
-    "server": "cd server && node server.js",
-    "client": "cd client && npm run dev",
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "install-all": "npm install && cd server && npm install && cd ../client && npm install",
-    "build": "cd client && npm run build"
-  },
-  "devDependencies": {
-    "concurrently": "^8.2.2"
+    "dev": "cd webapp && npm run dev",
+    "build": "cd webapp && npm run build",
+    "start": "cd webapp && npm run start",
+    "lint": "cd webapp && npm run lint",
+    "graph-viz": "cd graph-viz && npm run dev",
+    "install-all": "cd webapp && npm install && cd ../graph-viz && npm install"
   }
 }

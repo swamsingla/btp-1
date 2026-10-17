@@ -1,0 +1,2640 @@
+{
+  "grade": 11,
+  "subject": "science",
+  "total_concepts": 148,
+  "concepts": {
+    "physical-quantities": {
+      "canonical_name": "Physical Quantities",
+      "slug": "physical-quantities",
+      "grades": [
+        6,
+        9,
+        11
+      ],
+      "area": "Units and Measurement",
+      "description": "Measurable attributes of the physical world: length, mass, time, temperature",
+      "prerequisites": [],
+      "leads_to": [
+        "si-units"
+      ],
+      "subject": "physics"
+    },
+    "si-units": {
+      "canonical_name": "SI Units",
+      "slug": "si-units",
+      "grades": [
+        6,
+        9,
+        11
+      ],
+      "area": "Units and Measurement",
+      "description": "International System of Units: metre, kilogram, second, ampere, kelvin, mole, candela",
+      "prerequisites": [
+        "physical-quantities"
+      ],
+      "leads_to": [
+        "measurement-of-length",
+        "measurement-of-mass",
+        "measurement-of-time",
+        "measurement-of-temperature",
+        "dimensional-analysis",
+        "ideal-gas-laws"
+      ],
+      "subject": "physics"
+    },
+    "dimensional-analysis": {
+      "canonical_name": "Dimensional Analysis",
+      "slug": "dimensional-analysis",
+      "grades": [
+        11
+      ],
+      "area": "Units and Measurement",
+      "description": "Dimensions of physical quantities; dimensional formulae; checking equations",
+      "prerequisites": [
+        "si-units"
+      ],
+      "leads_to": [
+        "significant-figures",
+        "dimensional-formula-applications"
+      ],
+      "subject": "physics"
+    },
+    "significant-figures": {
+      "canonical_name": "Significant Figures and Errors",
+      "slug": "significant-figures",
+      "grades": [
+        11
+      ],
+      "area": "Units and Measurement",
+      "description": "Significant figures; systematic and random errors; absolute and relative error",
+      "prerequisites": [
+        "dimensional-analysis"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "uniform-circular-motion": {
+      "canonical_name": "Uniform Circular Motion",
+      "slug": "uniform-circular-motion",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Motion in a circle at constant speed; centripetal acceleration",
+      "prerequisites": [
+        "speed-and-velocity"
+      ],
+      "leads_to": [
+        "keplers-laws",
+        "rotational-kinematics",
+        "centripetal-force"
+      ],
+      "subject": "physics"
+    },
+    "scalars-and-vectors": {
+      "canonical_name": "Scalars and Vectors",
+      "slug": "scalars-and-vectors",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Scalar vs vector quantities; vector addition; triangle and parallelogram laws",
+      "prerequisites": [
+        "distance-and-displacement"
+      ],
+      "leads_to": [
+        "vector-resolution",
+        "relative-motion",
+        "centre-of-mass"
+      ],
+      "subject": "physics"
+    },
+    "vector-resolution": {
+      "canonical_name": "Resolution of Vectors",
+      "slug": "vector-resolution",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Resolving a vector into rectangular components; unit vectors i, j, k",
+      "prerequisites": [
+        "scalars-and-vectors"
+      ],
+      "leads_to": [
+        "projectile-motion",
+        "torque",
+        "motion-in-a-plane"
+      ],
+      "subject": "physics"
+    },
+    "projectile-motion": {
+      "canonical_name": "Projectile Motion",
+      "slug": "projectile-motion",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Motion in 2D under gravity; range, maximum height, time of flight",
+      "prerequisites": [
+        "vector-resolution",
+        "equations-of-motion",
+        "acceleration-due-to-gravity"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "relative-motion": {
+      "canonical_name": "Relative Motion",
+      "slug": "relative-motion",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Velocity of one object as seen from another; rain-umbrella problems",
+      "prerequisites": [
+        "scalars-and-vectors"
+      ],
+      "leads_to": [
+        "doppler-effect"
+      ],
+      "subject": "physics"
+    },
+    "fluid-pressure": {
+      "canonical_name": "Pressure in Fluids",
+      "slug": "fluid-pressure",
+      "grades": [
+        8,
+        11
+      ],
+      "area": "Fluid Mechanics",
+      "description": "Pressure in liquids; pressure increases with depth; Pascal's law",
+      "prerequisites": [
+        "pressure-concept"
+      ],
+      "leads_to": [
+        "atmospheric-pressure",
+        "buoyancy-and-archimedes",
+        "bernoullis-principle",
+        "viscosity",
+        "surface-tension"
+      ],
+      "subject": "physics"
+    },
+    "newtons-first-law": {
+      "canonical_name": "Newton's First Law of Motion",
+      "slug": "newtons-first-law",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Law of inertia; objects at rest stay at rest unless acted upon by net force",
+      "prerequisites": [
+        "force-concept"
+      ],
+      "leads_to": [
+        "inertia",
+        "newtons-second-law"
+      ],
+      "subject": "physics"
+    },
+    "newtons-second-law": {
+      "canonical_name": "Newton's Second Law of Motion",
+      "slug": "newtons-second-law",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "F = ma; net force equals mass times acceleration",
+      "prerequisites": [
+        "newtons-first-law",
+        "acceleration"
+      ],
+      "leads_to": [
+        "momentum",
+        "newtons-third-law",
+        "gravitation-intro",
+        "free-body-diagrams",
+        "pulleys-and-strings",
+        "centre-of-mass",
+        "centripetal-force"
+      ],
+      "subject": "physics"
+    },
+    "momentum": {
+      "canonical_name": "Momentum",
+      "slug": "momentum",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "p = mv; impulse = change in momentum; F = dp/dt",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [
+        "conservation-of-momentum",
+        "angular-momentum",
+        "kinetic-theory-of-gases",
+        "dual-nature-of-matter"
+      ],
+      "aliases": [
+        "linear momentum",
+        "impulse",
+        "conservation of momentum",
+        "mass times velocity"
+      ],
+      "subject": "physics"
+    },
+    "newtons-third-law": {
+      "canonical_name": "Newton's Third Law of Motion",
+      "slug": "newtons-third-law",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Every action has an equal and opposite reaction; action-reaction pairs",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [
+        "conservation-of-momentum"
+      ],
+      "subject": "physics"
+    },
+    "conservation-of-momentum": {
+      "canonical_name": "Conservation of Momentum",
+      "slug": "conservation-of-momentum",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Total momentum of isolated system is conserved; applications in collisions",
+      "prerequisites": [
+        "momentum",
+        "newtons-third-law",
+        "conservation-of-energy"
+      ],
+      "leads_to": [
+        "equilibrium-of-rigid-body",
+        "elastic-collisions"
+      ],
+      "subject": "physics"
+    },
+    "work-physics": {
+      "canonical_name": "Work (Physics)",
+      "slug": "work-physics",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "W = F·d·cosθ; positive, negative and zero work",
+      "prerequisites": [
+        "force-concept",
+        "distance-and-displacement"
+      ],
+      "leads_to": [
+        "kinetic-energy",
+        "potential-energy",
+        "power-physics",
+        "gravitational-potential-energy",
+        "electric-potential",
+        "work-energy-theorem"
+      ],
+      "subject": "physics"
+    },
+    "kinetic-energy": {
+      "canonical_name": "Kinetic Energy",
+      "slug": "kinetic-energy",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "KE = ½mv²; work-energy theorem",
+      "prerequisites": [
+        "work-physics",
+        "speed-and-velocity",
+        "forms-of-energy"
+      ],
+      "leads_to": [
+        "conservation-of-energy",
+        "elastic-collisions",
+        "work-energy-theorem"
+      ],
+      "subject": "physics"
+    },
+    "potential-energy": {
+      "canonical_name": "Potential Energy",
+      "slug": "potential-energy",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Gravitational PE = mgh; elastic PE; zero reference",
+      "prerequisites": [
+        "work-physics",
+        "forms-of-energy"
+      ],
+      "leads_to": [
+        "conservation-of-energy",
+        "gravitational-potential-energy"
+      ],
+      "subject": "physics"
+    },
+    "conservation-of-energy": {
+      "canonical_name": "Conservation of Energy",
+      "slug": "conservation-of-energy",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Energy can neither be created nor destroyed; transformation between forms",
+      "prerequisites": [
+        "kinetic-energy",
+        "potential-energy",
+        "forms-of-energy"
+      ],
+      "leads_to": [
+        "conservation-of-momentum",
+        "angular-momentum",
+        "oscillations",
+        "specific-heat-capacity",
+        "first-law-of-thermodynamics",
+        "emf-and-internal-resistance",
+        "bernoullis-principle"
+      ],
+      "subject": "physics"
+    },
+    "power-physics": {
+      "canonical_name": "Power",
+      "slug": "power-physics",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Rate of doing work; P = W/t; unit: watt",
+      "prerequisites": [
+        "work-physics"
+      ],
+      "leads_to": [
+        "electric-power"
+      ],
+      "subject": "physics"
+    },
+    "torque": {
+      "canonical_name": "Torque and Moment of Force",
+      "slug": "torque",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "τ = r × F; turning effect of force; couple",
+      "prerequisites": [
+        "force-concept",
+        "vector-resolution"
+      ],
+      "leads_to": [
+        "equilibrium-of-rigid-body",
+        "moment-of-inertia"
+      ],
+      "subject": "physics"
+    },
+    "equilibrium-of-rigid-body": {
+      "canonical_name": "Equilibrium of a Rigid Body",
+      "slug": "equilibrium-of-rigid-body",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Conditions for translational and rotational equilibrium; centre of gravity",
+      "prerequisites": [
+        "torque",
+        "conservation-of-momentum"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "moment-of-inertia": {
+      "canonical_name": "Moment of Inertia",
+      "slug": "moment-of-inertia",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "I = Σmr²; depends on mass distribution; parallel and perpendicular axis theorems",
+      "prerequisites": [
+        "torque"
+      ],
+      "leads_to": [
+        "angular-momentum",
+        "rolling-motion"
+      ],
+      "subject": "physics"
+    },
+    "angular-momentum": {
+      "canonical_name": "Angular Momentum",
+      "slug": "angular-momentum",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "L = Iω; conservation of angular momentum",
+      "prerequisites": [
+        "moment-of-inertia",
+        "momentum",
+        "conservation-of-energy"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "gravitation-intro": {
+      "canonical_name": "Gravitation",
+      "slug": "gravitation-intro",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Gravitation",
+      "description": "Every body attracts every other body; Newton's law of gravitation F = GMm/r²",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [
+        "acceleration-due-to-gravity",
+        "keplers-laws",
+        "gravitational-potential-energy"
+      ],
+      "subject": "physics"
+    },
+    "acceleration-due-to-gravity": {
+      "canonical_name": "Acceleration Due to Gravity",
+      "slug": "acceleration-due-to-gravity",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Gravitation",
+      "description": "g = GM/R²; variation with altitude, depth and latitude",
+      "prerequisites": [
+        "gravitation-intro"
+      ],
+      "leads_to": [
+        "projectile-motion",
+        "buoyancy-and-archimedes",
+        "simple-pendulum"
+      ],
+      "subject": "physics"
+    },
+    "keplers-laws": {
+      "canonical_name": "Kepler's Laws of Planetary Motion",
+      "slug": "keplers-laws",
+      "grades": [
+        11
+      ],
+      "area": "Gravitation",
+      "description": "Elliptical orbits; equal areas in equal times; T² ∝ a³",
+      "prerequisites": [
+        "gravitation-intro",
+        "uniform-circular-motion"
+      ],
+      "leads_to": [
+        "satellites"
+      ],
+      "subject": "physics"
+    },
+    "gravitational-potential-energy": {
+      "canonical_name": "Gravitational Potential Energy",
+      "slug": "gravitational-potential-energy",
+      "grades": [
+        11
+      ],
+      "area": "Gravitation",
+      "description": "U = −GMm/r; escape velocity; orbital velocity",
+      "prerequisites": [
+        "gravitation-intro",
+        "potential-energy",
+        "work-physics"
+      ],
+      "leads_to": [
+        "satellites"
+      ],
+      "subject": "physics"
+    },
+    "satellites": {
+      "canonical_name": "Satellites and Orbital Mechanics",
+      "slug": "satellites",
+      "grades": [
+        11
+      ],
+      "area": "Gravitation",
+      "description": "Geostationary and polar satellites; orbital velocity; binding energy",
+      "prerequisites": [
+        "gravitational-potential-energy",
+        "keplers-laws"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "earth satellites",
+        "orbital velocity",
+        "geostationary satellite",
+        "escape speed"
+      ],
+      "subject": "physics"
+    },
+    "oscillations": {
+      "canonical_name": "Oscillations and Periodic Motion",
+      "slug": "oscillations",
+      "grades": [
+        11
+      ],
+      "area": "Oscillations",
+      "description": "Periodic, oscillatory motion; time period, frequency, amplitude",
+      "prerequisites": [
+        "acceleration",
+        "conservation-of-energy"
+      ],
+      "leads_to": [
+        "simple-harmonic-motion"
+      ],
+      "subject": "physics"
+    },
+    "simple-harmonic-motion": {
+      "canonical_name": "Simple Harmonic Motion",
+      "slug": "simple-harmonic-motion",
+      "grades": [
+        11
+      ],
+      "area": "Oscillations",
+      "description": "SHM as projection of uniform circular motion; x = A sin(ωt + φ)",
+      "prerequisites": [
+        "oscillations"
+      ],
+      "leads_to": [
+        "simple-pendulum",
+        "spring-mass-system"
+      ],
+      "subject": "physics"
+    },
+    "simple-pendulum": {
+      "canonical_name": "Simple Pendulum",
+      "slug": "simple-pendulum",
+      "grades": [
+        11
+      ],
+      "area": "Oscillations",
+      "description": "T = 2π√(l/g); seconds pendulum; factors affecting time period",
+      "prerequisites": [
+        "simple-harmonic-motion",
+        "acceleration-due-to-gravity"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "spring-mass-system": {
+      "canonical_name": "Spring-Mass System",
+      "slug": "spring-mass-system",
+      "grades": [
+        11
+      ],
+      "area": "Oscillations",
+      "description": "F = −kx; T = 2π√(m/k); series and parallel combinations",
+      "prerequisites": [
+        "simple-harmonic-motion",
+        "elasticity-physics"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "wave-motion": {
+      "canonical_name": "Wave Motion",
+      "slug": "wave-motion",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Mechanical and electromagnetic waves; transverse and longitudinal",
+      "prerequisites": [
+        "speed-and-velocity"
+      ],
+      "leads_to": [
+        "wave-properties"
+      ],
+      "subject": "physics"
+    },
+    "wave-properties": {
+      "canonical_name": "Wave Properties",
+      "slug": "wave-properties",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Wavelength, frequency, amplitude, speed; v = fλ",
+      "prerequisites": [
+        "wave-motion"
+      ],
+      "leads_to": [
+        "characteristics-of-sound",
+        "superposition-of-waves",
+        "doppler-effect",
+        "dispersion-of-light"
+      ],
+      "subject": "physics"
+    },
+    "superposition-of-waves": {
+      "canonical_name": "Superposition of Waves",
+      "slug": "superposition-of-waves",
+      "grades": [
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Principle of superposition; constructive and destructive interference",
+      "prerequisites": [
+        "wave-properties"
+      ],
+      "leads_to": [
+        "standing-waves",
+        "wave-optics-interference",
+        "beats"
+      ],
+      "subject": "physics"
+    },
+    "standing-waves": {
+      "canonical_name": "Standing Waves",
+      "slug": "standing-waves",
+      "grades": [
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Nodes and antinodes; resonance in strings and air columns",
+      "prerequisites": [
+        "superposition-of-waves",
+        "sound-production"
+      ],
+      "leads_to": [
+        "resonance"
+      ],
+      "subject": "physics"
+    },
+    "doppler-effect": {
+      "canonical_name": "Doppler Effect",
+      "slug": "doppler-effect",
+      "grades": [
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Apparent change in frequency due to relative motion of source and observer",
+      "prerequisites": [
+        "wave-properties",
+        "relative-motion",
+        "speed-and-velocity"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "apparent change in frequency",
+        "moving source and observer",
+        "change in pitch"
+      ],
+      "subject": "physics"
+    },
+    "specific-heat-capacity": {
+      "canonical_name": "Specific Heat Capacity",
+      "slug": "specific-heat-capacity",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Q = mcΔT; specific heat; calorimetry",
+      "prerequisites": [
+        "heat-and-temperature",
+        "conservation-of-energy"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "thermal-expansion": {
+      "canonical_name": "Thermal Expansion",
+      "slug": "thermal-expansion",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Linear, area and volume expansion; coefficients; anomalous expansion of water",
+      "prerequisites": [
+        "heat-and-temperature",
+        "states-of-matter-chemistry"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "ideal-gas-laws": {
+      "canonical_name": "Ideal Gas Laws",
+      "slug": "ideal-gas-laws",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Boyle's, Charles's, Gay-Lussac's laws; ideal gas equation PV = nRT",
+      "prerequisites": [
+        "si-units",
+        "measurement-of-temperature"
+      ],
+      "leads_to": [
+        "kinetic-theory-of-gases",
+        "first-law-of-thermodynamics",
+        "gaseous-state"
+      ],
+      "subject": "physics"
+    },
+    "kinetic-theory-of-gases": {
+      "canonical_name": "Kinetic Theory of Gases",
+      "slug": "kinetic-theory-of-gases",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Molecular model; pressure from molecular collisions; rms speed; degrees of freedom",
+      "prerequisites": [
+        "ideal-gas-laws",
+        "momentum"
+      ],
+      "leads_to": [
+        "collision-theory"
+      ],
+      "subject": "physics"
+    },
+    "first-law-of-thermodynamics": {
+      "canonical_name": "First Law of Thermodynamics",
+      "slug": "first-law-of-thermodynamics",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "ΔU = Q − W; internal energy; work done by gas; thermodynamic processes",
+      "prerequisites": [
+        "conservation-of-energy",
+        "ideal-gas-laws"
+      ],
+      "leads_to": [
+        "thermodynamic-processes",
+        "second-law-of-thermodynamics",
+        "thermochemistry"
+      ],
+      "subject": "physics"
+    },
+    "thermodynamic-processes": {
+      "canonical_name": "Thermodynamic Processes",
+      "slug": "thermodynamic-processes",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Isothermal, adiabatic, isobaric, isochoric processes; PV diagrams",
+      "prerequisites": [
+        "first-law-of-thermodynamics"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "second-law-of-thermodynamics": {
+      "canonical_name": "Second Law of Thermodynamics",
+      "slug": "second-law-of-thermodynamics",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Entropy; Kelvin-Planck and Clausius statements; Carnot engine",
+      "prerequisites": [
+        "first-law-of-thermodynamics"
+      ],
+      "leads_to": [
+        "heat-engines",
+        "gibbs-free-energy"
+      ],
+      "subject": "physics"
+    },
+    "heat-engines": {
+      "canonical_name": "Heat Engines and Refrigerators",
+      "slug": "heat-engines",
+      "grades": [
+        11
+      ],
+      "area": "Heat and Thermodynamics",
+      "description": "Efficiency of heat engine; COP of refrigerator; Carnot cycle",
+      "prerequisites": [
+        "second-law-of-thermodynamics"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "states-of-matter-chemistry": {
+      "canonical_name": "States of Matter",
+      "slug": "states-of-matter-chemistry",
+      "grades": [
+        6,
+        9,
+        11
+      ],
+      "area": "Matter and Classification",
+      "description": "Solid, liquid, gas; arrangement and movement of particles",
+      "prerequisites": [
+        "what-is-matter"
+      ],
+      "leads_to": [
+        "thermal-expansion",
+        "change-of-state-chemistry",
+        "particle-nature-of-matter",
+        "water-and-its-properties",
+        "liquid-state"
+      ],
+      "subject": "chemistry"
+    },
+    "electron-configuration": {
+      "canonical_name": "Electronic Configuration",
+      "slug": "electron-configuration",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Shells and subshells; 2n² rule; Aufbau, Pauli, Hund's rules",
+      "prerequisites": [
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [
+        "bohrs-model-chemistry",
+        "modern-periodic-table",
+        "periodic-properties",
+        "chemical-bonding-intro",
+        "vsepr-theory",
+        "reactivity-series",
+        "carbon-and-its-compounds"
+      ],
+      "subject": "chemistry"
+    },
+    "bohrs-model-chemistry": {
+      "canonical_name": "Bohr's Atomic Model",
+      "slug": "bohrs-model-chemistry",
+      "grades": [
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Quantised energy levels; line spectra of hydrogen; limitations",
+      "prerequisites": [
+        "electron-configuration"
+      ],
+      "leads_to": [
+        "quantum-mechanical-model"
+      ],
+      "subject": "chemistry"
+    },
+    "quantum-mechanical-model": {
+      "canonical_name": "Quantum Mechanical Model",
+      "slug": "quantum-mechanical-model",
+      "grades": [
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Schrödinger equation (qualitative); orbitals; quantum numbers; shapes of s, p, d orbitals",
+      "prerequisites": [
+        "bohrs-model-chemistry"
+      ],
+      "leads_to": [
+        "hybridisation",
+        "chemical-bonding-molecular-orbital"
+      ],
+      "subject": "chemistry"
+    },
+    "mole-concept": {
+      "canonical_name": "Mole Concept",
+      "slug": "mole-concept",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Avogadro's number; molar mass; mole as counting unit",
+      "prerequisites": [
+        "atoms-and-molecules",
+        "daltons-atomic-theory"
+      ],
+      "leads_to": [
+        "concentration-of-solutions",
+        "colligative-properties",
+        "stoichiometry",
+        "types-of-chemical-reactions",
+        "molecular-formula-calculations",
+        "faradays-laws-of-electrolysis"
+      ],
+      "subject": "chemistry"
+    },
+    "stoichiometry": {
+      "canonical_name": "Stoichiometry",
+      "slug": "stoichiometry",
+      "grades": [
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Balancing equations; mole ratios; limiting reagent; percentage yield",
+      "prerequisites": [
+        "mole-concept",
+        "chemical-formula-writing",
+        "chemical-equations",
+        "law-of-conservation-of-mass"
+      ],
+      "leads_to": [
+        "molecular-formula-calculations"
+      ],
+      "subject": "chemistry"
+    },
+    "elements-classification-early": {
+      "canonical_name": "Early Attempts at Classification",
+      "slug": "elements-classification-early",
+      "grades": [
+        11
+      ],
+      "area": "Periodic Classification",
+      "description": "Döbereiner's triads; Newlands' law of octaves; limitations",
+      "prerequisites": [
+        "atoms-and-molecules"
+      ],
+      "leads_to": [
+        "mendeleevs-periodic-table"
+      ],
+      "aliases": [
+        "Dobereiner's triads",
+        "Newlands law of octaves",
+        "genesis of periodic classification"
+      ],
+      "subject": "chemistry"
+    },
+    "mendeleevs-periodic-table": {
+      "canonical_name": "Mendeleev's Periodic Table",
+      "slug": "mendeleevs-periodic-table",
+      "grades": [
+        11
+      ],
+      "area": "Periodic Classification",
+      "description": "Arranged by atomic mass; groups and periods; prediction of elements; limitations",
+      "prerequisites": [
+        "elements-classification-early",
+        "atomic-number-mass-number"
+      ],
+      "leads_to": [
+        "modern-periodic-table"
+      ],
+      "subject": "chemistry"
+    },
+    "modern-periodic-table": {
+      "canonical_name": "Modern Periodic Table",
+      "slug": "modern-periodic-table",
+      "grades": [
+        11
+      ],
+      "area": "Periodic Classification",
+      "description": "Arranged by atomic number; 18 groups and 7 periods; s, p, d, f blocks",
+      "prerequisites": [
+        "mendeleevs-periodic-table",
+        "electron-configuration"
+      ],
+      "leads_to": [
+        "periodic-properties"
+      ],
+      "subject": "chemistry"
+    },
+    "periodic-properties": {
+      "canonical_name": "Periodic Properties",
+      "slug": "periodic-properties",
+      "grades": [
+        11
+      ],
+      "area": "Periodic Classification",
+      "description": "Atomic radius, ionisation enthalpy, electron affinity, electronegativity; trends",
+      "prerequisites": [
+        "modern-periodic-table",
+        "electron-configuration"
+      ],
+      "leads_to": [
+        "hydrogen-bonding",
+        "d-and-f-block-elements",
+        "p-block-elements",
+        "s-block-elements"
+      ],
+      "subject": "chemistry"
+    },
+    "chemical-bonding-intro": {
+      "canonical_name": "Chemical Bonding — Introduction",
+      "slug": "chemical-bonding-intro",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "Why atoms bond; octet rule; Kossel-Lewis approach",
+      "prerequisites": [
+        "electron-configuration"
+      ],
+      "leads_to": [
+        "ionic-bonding",
+        "covalent-bonding",
+        "metallic-bonding",
+        "solid-state",
+        "coordination-compounds"
+      ],
+      "subject": "chemistry"
+    },
+    "ionic-bonding": {
+      "canonical_name": "Ionic Bonding",
+      "slug": "ionic-bonding",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "Transfer of electrons; formation of ions; properties of ionic compounds",
+      "prerequisites": [
+        "chemical-bonding-intro",
+        "metals-nonmetals-properties"
+      ],
+      "leads_to": [
+        "inorganic-qualitative-analysis"
+      ],
+      "subject": "chemistry"
+    },
+    "covalent-bonding": {
+      "canonical_name": "Covalent Bonding",
+      "slug": "covalent-bonding",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "Sharing of electrons; single, double, triple bonds; Lewis structures",
+      "prerequisites": [
+        "chemical-bonding-intro"
+      ],
+      "leads_to": [
+        "vsepr-theory",
+        "hydrogen-bonding",
+        "carbon-and-its-compounds",
+        "reaction-mechanisms",
+        "chemical-bonding-molecular-orbital"
+      ],
+      "subject": "chemistry"
+    },
+    "metallic-bonding": {
+      "canonical_name": "Metallic Bonding",
+      "slug": "metallic-bonding",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "Sea of electrons model; properties of metals explained",
+      "prerequisites": [
+        "chemical-bonding-intro"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "sea of electrons",
+        "metallic bond",
+        "properties of metals explained"
+      ],
+      "subject": "chemistry"
+    },
+    "vsepr-theory": {
+      "canonical_name": "VSEPR Theory",
+      "slug": "vsepr-theory",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "Predicting shapes of molecules; linear, trigonal planar, tetrahedral, etc.",
+      "prerequisites": [
+        "covalent-bonding",
+        "electron-configuration"
+      ],
+      "leads_to": [
+        "hybridisation"
+      ],
+      "subject": "chemistry"
+    },
+    "hybridisation": {
+      "canonical_name": "Hybridisation",
+      "slug": "hybridisation",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "sp, sp², sp³ hybridisation; geometry of hybrid orbitals",
+      "prerequisites": [
+        "vsepr-theory",
+        "quantum-mechanical-model"
+      ],
+      "leads_to": [
+        "isomerism"
+      ],
+      "subject": "chemistry"
+    },
+    "hydrogen-bonding": {
+      "canonical_name": "Hydrogen Bonding",
+      "slug": "hydrogen-bonding",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "Intermolecular H-bonds; effect on boiling point; importance in water, DNA",
+      "prerequisites": [
+        "covalent-bonding",
+        "periodic-properties"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "oxidation-reduction": {
+      "canonical_name": "Oxidation and Reduction",
+      "slug": "oxidation-reduction",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Chemical Reactions",
+      "description": "Loss/gain of electrons; oxidation number; redox reactions",
+      "prerequisites": [
+        "types-of-chemical-reactions"
+      ],
+      "leads_to": [
+        "corrosion-and-rancidity",
+        "reactivity-series",
+        "electrochemical-cells",
+        "redox-reactions-advanced"
+      ],
+      "subject": "chemistry"
+    },
+    "rate-of-reaction": {
+      "canonical_name": "Rate of Chemical Reaction",
+      "slug": "rate-of-reaction",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Chemical Kinetics",
+      "description": "Factors affecting rate; rate law; order of reaction",
+      "prerequisites": [
+        "types-of-chemical-reactions"
+      ],
+      "leads_to": [
+        "collision-theory",
+        "chemical-equilibrium",
+        "catalysis"
+      ],
+      "subject": "chemistry"
+    },
+    "chemical-equilibrium": {
+      "canonical_name": "Chemical Equilibrium",
+      "slug": "chemical-equilibrium",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Reactions",
+      "description": "Reversible reactions; equilibrium constant Kc, Kp; Le Chatelier's principle",
+      "prerequisites": [
+        "rate-of-reaction"
+      ],
+      "leads_to": [
+        "gibbs-free-energy",
+        "ionic-equilibrium",
+        "le-chateliers-principle"
+      ],
+      "subject": "chemistry"
+    },
+    "hydrocarbons-intro": {
+      "canonical_name": "Hydrocarbons — Introduction",
+      "slug": "hydrocarbons-intro",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Organic Chemistry",
+      "description": "Saturated and unsaturated; alkanes, alkenes, alkynes; nomenclature",
+      "prerequisites": [
+        "carbon-and-its-compounds"
+      ],
+      "leads_to": [
+        "functional-groups",
+        "reactions-of-hydrocarbons"
+      ],
+      "subject": "chemistry"
+    },
+    "functional-groups": {
+      "canonical_name": "Functional Groups",
+      "slug": "functional-groups",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Organic Chemistry",
+      "description": "Alcohol, aldehyde, ketone, carboxylic acid, amine; homologous series",
+      "prerequisites": [
+        "hydrocarbons-intro"
+      ],
+      "leads_to": [
+        "nomenclature-iupac",
+        "alcohols-phenols-ethers",
+        "aldehydes-ketones-carboxylic-acids",
+        "amines",
+        "polymers",
+        "chemistry-in-everyday-life"
+      ],
+      "subject": "chemistry"
+    },
+    "nomenclature-iupac": {
+      "canonical_name": "IUPAC Nomenclature",
+      "slug": "nomenclature-iupac",
+      "grades": [
+        11
+      ],
+      "area": "Organic Chemistry",
+      "description": "Systematic naming rules for organic compounds",
+      "prerequisites": [
+        "functional-groups"
+      ],
+      "leads_to": [
+        "isomerism",
+        "haloalkanes-haloarenes"
+      ],
+      "subject": "chemistry"
+    },
+    "isomerism": {
+      "canonical_name": "Isomerism",
+      "slug": "isomerism",
+      "grades": [
+        11
+      ],
+      "area": "Organic Chemistry",
+      "description": "Structural and stereoisomerism; chain, position, functional group isomers",
+      "prerequisites": [
+        "nomenclature-iupac",
+        "hybridisation"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "reactions-of-hydrocarbons": {
+      "canonical_name": "Reactions of Hydrocarbons",
+      "slug": "reactions-of-hydrocarbons",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Organic Chemistry",
+      "description": "Combustion, addition, substitution reactions; tests for saturation",
+      "prerequisites": [
+        "hydrocarbons-intro"
+      ],
+      "leads_to": [
+        "polymers",
+        "reaction-mechanisms"
+      ],
+      "aliases": [
+        "combustion addition and substitution reactions",
+        "carbon compounds",
+        "saturated and unsaturated hydrocarbons"
+      ],
+      "subject": "chemistry"
+    },
+    "thermochemistry": {
+      "canonical_name": "Thermochemistry",
+      "slug": "thermochemistry",
+      "grades": [
+        11
+      ],
+      "area": "Thermochemistry",
+      "description": "Enthalpy; exothermic and endothermic reactions; Hess's law",
+      "prerequisites": [
+        "first-law-of-thermodynamics",
+        "chemical-equations"
+      ],
+      "leads_to": [
+        "enthalpy-changes",
+        "chemical-thermodynamics-systems"
+      ],
+      "subject": "chemistry"
+    },
+    "enthalpy-changes": {
+      "canonical_name": "Enthalpy Changes",
+      "slug": "enthalpy-changes",
+      "grades": [
+        11
+      ],
+      "area": "Thermochemistry",
+      "description": "Standard enthalpy of formation, combustion, bond enthalpy; Born-Haber cycle",
+      "prerequisites": [
+        "thermochemistry"
+      ],
+      "leads_to": [
+        "gibbs-free-energy"
+      ],
+      "subject": "chemistry"
+    },
+    "gibbs-free-energy": {
+      "canonical_name": "Gibbs Free Energy",
+      "slug": "gibbs-free-energy",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Thermochemistry",
+      "description": "ΔG = ΔH − TΔS; spontaneity; equilibrium condition ΔG = 0",
+      "prerequisites": [
+        "enthalpy-changes",
+        "second-law-of-thermodynamics",
+        "chemical-equilibrium"
+      ],
+      "leads_to": [
+        "entropy-chemistry"
+      ],
+      "subject": "chemistry"
+    },
+    "classification-of-organisms": {
+      "canonical_name": "Classification of Living Organisms",
+      "slug": "classification-of-organisms",
+      "grades": [
+        7,
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Need for classification; hierarchy: kingdom, phylum, class, order, family, genus, species",
+      "prerequisites": [
+        "diversity-of-organisms"
+      ],
+      "leads_to": [
+        "five-kingdom-classification",
+        "binomial-nomenclature",
+        "speciation",
+        "biodiversity",
+        "microorganisms"
+      ],
+      "subject": "biology"
+    },
+    "five-kingdom-classification": {
+      "canonical_name": "Five-Kingdom Classification",
+      "slug": "five-kingdom-classification",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Monera, Protista, Fungi, Plantae, Animalia; criteria: cell type, body organisation, nutrition",
+      "prerequisites": [
+        "classification-of-organisms",
+        "microorganisms"
+      ],
+      "leads_to": [
+        "plant-kingdom",
+        "animal-kingdom",
+        "biological-classification-detail"
+      ],
+      "subject": "biology"
+    },
+    "plant-kingdom": {
+      "canonical_name": "Plant Kingdom",
+      "slug": "plant-kingdom",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Thallophyta, Bryophyta, Pteridophyta, Gymnosperms, Angiosperms",
+      "prerequisites": [
+        "five-kingdom-classification"
+      ],
+      "leads_to": [
+        "alternation-of-generations"
+      ],
+      "subject": "biology"
+    },
+    "animal-kingdom": {
+      "canonical_name": "Animal Kingdom",
+      "slug": "animal-kingdom",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Porifera to Chordata; distinguishing features of each phylum",
+      "prerequisites": [
+        "five-kingdom-classification"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "binomial-nomenclature": {
+      "canonical_name": "Binomial Nomenclature",
+      "slug": "binomial-nomenclature",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Two-part naming system; Linnaeus; rules of nomenclature",
+      "prerequisites": [
+        "classification-of-organisms"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "cell-basic-unit": {
+      "canonical_name": "Cell — Basic Unit of Life",
+      "slug": "cell-basic-unit",
+      "grades": [
+        8,
+        9,
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Discovery of cells; cell theory; unicellular and multicellular organisms",
+      "prerequisites": [
+        "living-vs-nonliving"
+      ],
+      "leads_to": [
+        "cell-organelles",
+        "levels-of-organisation",
+        "nervous-system",
+        "asexual-reproduction",
+        "plant-vs-animal-cell"
+      ],
+      "subject": "biology"
+    },
+    "cell-organelles": {
+      "canonical_name": "Cell Organelles",
+      "slug": "cell-organelles",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Nucleus, mitochondria, ER, Golgi, lysosomes, ribosomes, vacuoles, plastids",
+      "prerequisites": [
+        "cell-basic-unit",
+        "plant-vs-animal-cell"
+      ],
+      "leads_to": [
+        "cell-membrane",
+        "cell-cycle",
+        "cellular-respiration",
+        "nervous-system"
+      ],
+      "subject": "biology"
+    },
+    "cell-membrane": {
+      "canonical_name": "Cell Membrane and Transport",
+      "slug": "cell-membrane",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Fluid mosaic model; diffusion, osmosis, active transport",
+      "prerequisites": [
+        "cell-organelles"
+      ],
+      "leads_to": [
+        "transport-in-plants",
+        "excretory-system",
+        "human-reproductive-system"
+      ],
+      "subject": "biology"
+    },
+    "cell-cycle": {
+      "canonical_name": "Cell Cycle",
+      "slug": "cell-cycle",
+      "grades": [
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Interphase (G1, S, G2); M phase; regulation of cell cycle",
+      "prerequisites": [
+        "cell-organelles"
+      ],
+      "leads_to": [
+        "plant-growth-and-development"
+      ],
+      "subject": "biology"
+    },
+    "mitosis": {
+      "canonical_name": "Mitosis",
+      "slug": "mitosis",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Prophase, metaphase, anaphase, telophase; cytokinesis; significance",
+      "prerequisites": [],
+      "leads_to": [
+        "meiosis"
+      ],
+      "subject": "biology"
+    },
+    "meiosis": {
+      "canonical_name": "Meiosis",
+      "slug": "meiosis",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Cell Biology",
+      "description": "Meiosis I and II; crossing over; independent assortment; significance",
+      "prerequisites": [
+        "mitosis"
+      ],
+      "leads_to": [
+        "alternation-of-generations",
+        "heredity-and-variation",
+        "dna-structure-replication",
+        "darwins-theory",
+        "sexual-reproduction-overview",
+        "pollination-and-fertilisation-plants"
+      ],
+      "subject": "biology"
+    },
+    "photosynthesis": {
+      "canonical_name": "Photosynthesis",
+      "slug": "photosynthesis",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; light and dark reactions; chlorophyll",
+      "prerequisites": [],
+      "leads_to": [
+        "photosynthesis-detail",
+        "plant-respiration",
+        "cellular-respiration",
+        "energy-flow-in-ecosystem",
+        "carbon-cycle"
+      ],
+      "subject": "biology"
+    },
+    "photosynthesis-detail": {
+      "canonical_name": "Photosynthesis — Light and Dark Reactions",
+      "slug": "photosynthesis-detail",
+      "grades": [
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "Photosystems I and II; Calvin cycle; C3, C4 and CAM pathways",
+      "prerequisites": [
+        "photosynthesis",
+        "cellular-respiration"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "plant-respiration": {
+      "canonical_name": "Respiration in Plants",
+      "slug": "plant-respiration",
+      "grades": [
+        7,
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "Aerobic and anaerobic; fermentation; compensation point",
+      "prerequisites": [
+        "photosynthesis"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "transport-in-plants": {
+      "canonical_name": "Transport in Plants",
+      "slug": "transport-in-plants",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "Xylem: water and mineral transport; phloem: translocation of food",
+      "prerequisites": [
+        "cell-membrane"
+      ],
+      "leads_to": [
+        "plant-hormones",
+        "excretion-in-plants",
+        "mineral-nutrition-in-plants"
+      ],
+      "subject": "biology"
+    },
+    "plant-hormones": {
+      "canonical_name": "Plant Hormones",
+      "slug": "plant-hormones",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "Auxins, gibberellins, cytokinins, abscisic acid, ethylene; tropic movements",
+      "prerequisites": [
+        "transport-in-plants"
+      ],
+      "leads_to": [
+        "plant-growth-and-development"
+      ],
+      "subject": "biology"
+    },
+    "alternation-of-generations": {
+      "canonical_name": "Alternation of Generations",
+      "slug": "alternation-of-generations",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Plant Biology",
+      "description": "Haploid gametophyte and diploid sporophyte phases",
+      "prerequisites": [
+        "plant-kingdom",
+        "meiosis"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "enzymes": {
+      "canonical_name": "Enzymes",
+      "slug": "enzymes",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Biomolecules",
+      "description": "Biological catalysts; specificity; factors affecting enzyme activity; lock-and-key model",
+      "prerequisites": [
+        "human-digestive-system"
+      ],
+      "leads_to": [
+        "cellular-respiration",
+        "digestion-absorption-detail"
+      ],
+      "subject": "biology"
+    },
+    "human-respiratory-system": {
+      "canonical_name": "Human Respiratory System",
+      "slug": "human-respiratory-system",
+      "grades": [
+        7,
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Nose → pharynx → trachea → bronchi → lungs; alveoli; gas exchange",
+      "prerequisites": [],
+      "leads_to": [
+        "breathing-and-gas-exchange"
+      ],
+      "subject": "biology"
+    },
+    "cellular-respiration": {
+      "canonical_name": "Cellular Respiration",
+      "slug": "cellular-respiration",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Glycolysis → Krebs cycle → ETC; aerobic vs anaerobic; ATP",
+      "prerequisites": [
+        "cell-organelles",
+        "enzymes",
+        "photosynthesis"
+      ],
+      "leads_to": [
+        "photosynthesis-detail",
+        "energy-flow-in-ecosystem",
+        "respiration-detail"
+      ],
+      "subject": "biology"
+    },
+    "human-circulatory-system": {
+      "canonical_name": "Human Circulatory System",
+      "slug": "human-circulatory-system",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Heart: chambers and valves; arteries, veins, capillaries; blood composition",
+      "prerequisites": [],
+      "leads_to": [
+        "blood-composition",
+        "body-fluids-and-circulation"
+      ],
+      "subject": "biology"
+    },
+    "excretory-system": {
+      "canonical_name": "Human Excretory System",
+      "slug": "excretory-system",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Kidneys: nephron structure; urine formation; dialysis",
+      "prerequisites": [
+        "cell-membrane",
+        "blood-composition"
+      ],
+      "leads_to": [
+        "excretory-system-detail"
+      ],
+      "subject": "biology"
+    },
+    "nervous-system": {
+      "canonical_name": "Nervous System",
+      "slug": "nervous-system",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "CNS and PNS; neuron structure; reflex arc; synapse",
+      "prerequisites": [
+        "cell-basic-unit",
+        "cell-organelles"
+      ],
+      "leads_to": [
+        "reflex-actions",
+        "endocrine-system",
+        "control-and-coordination",
+        "neural-control-coordination"
+      ],
+      "subject": "biology"
+    },
+    "endocrine-system": {
+      "canonical_name": "Endocrine System",
+      "slug": "endocrine-system",
+      "grades": [
+        10,
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Glands: pituitary, thyroid, adrenal, pancreas; hormones and their functions",
+      "prerequisites": [
+        "nervous-system",
+        "blood-composition"
+      ],
+      "leads_to": [
+        "hormones-and-feedback",
+        "human-reproductive-system",
+        "control-and-coordination",
+        "chemical-coordination"
+      ],
+      "subject": "biology"
+    },
+    "hormones-and-feedback": {
+      "canonical_name": "Hormones and Feedback Mechanisms",
+      "slug": "hormones-and-feedback",
+      "grades": [
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Positive and negative feedback; hypothalamic-pituitary axis",
+      "prerequisites": [
+        "endocrine-system"
+      ],
+      "leads_to": [
+        "chemical-coordination"
+      ],
+      "aliases": [
+        "chemical coordination and integration",
+        "endocrine glands",
+        "feedback mechanism",
+        "hypothalamus and pituitary"
+      ],
+      "subject": "biology"
+    },
+    "skeletal-and-muscular-system": {
+      "canonical_name": "Skeletal and Muscular System",
+      "slug": "skeletal-and-muscular-system",
+      "grades": [
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Bones, joints, cartilage; skeletal, smooth, cardiac muscle; movement",
+      "prerequisites": [],
+      "leads_to": [
+        "locomotion-and-movement-detail"
+      ],
+      "subject": "biology"
+    },
+    "biomolecules-intro": {
+      "canonical_name": "Biomolecules — Introduction",
+      "slug": "biomolecules-intro",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "Carbohydrates, lipids, proteins, nucleic acids; their biological roles",
+      "prerequisites": [
+        "components-of-food"
+      ],
+      "leads_to": [
+        "carbohydrates",
+        "proteins-structure",
+        "lipids",
+        "nucleic-acids"
+      ],
+      "subject": "biology"
+    },
+    "carbohydrates": {
+      "canonical_name": "Carbohydrates",
+      "slug": "carbohydrates",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "Mono-, di-, polysaccharides; glucose, sucrose, starch, cellulose",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "proteins-structure": {
+      "canonical_name": "Proteins — Structure and Function",
+      "slug": "proteins-structure",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "Amino acids; peptide bonds; primary to quaternary structure",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [
+        "translation-biology"
+      ],
+      "subject": "biology"
+    },
+    "lipids": {
+      "canonical_name": "Lipids",
+      "slug": "lipids",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "Fats, oils, phospholipids; cell membrane structure; energy storage",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "fats and oils",
+        "phospholipids",
+        "biomolecules",
+        "cell membrane"
+      ],
+      "subject": "biology"
+    },
+    "nucleic-acids": {
+      "canonical_name": "Nucleic Acids",
+      "slug": "nucleic-acids",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Biomolecules",
+      "description": "DNA and RNA structure; nucleotides; double helix",
+      "prerequisites": [
+        "biomolecules-intro"
+      ],
+      "leads_to": [
+        "dna-structure-replication"
+      ],
+      "subject": "biology"
+    },
+    "free-body-diagrams": {
+      "canonical_name": "Free Body Diagrams",
+      "slug": "free-body-diagrams",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Drawing all forces acting on a body; resolving forces; equilibrium problems",
+      "prerequisites": [
+        "types-of-forces",
+        "newtons-second-law"
+      ],
+      "leads_to": [
+        "inclined-plane"
+      ],
+      "subject": "physics"
+    },
+    "inclined-plane": {
+      "canonical_name": "Motion on an Inclined Plane",
+      "slug": "inclined-plane",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Component of gravity along and perpendicular to plane; acceleration on incline",
+      "prerequisites": [
+        "free-body-diagrams",
+        "friction"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "motion on an incline",
+        "component of weight along the plane",
+        "friction on an inclined surface"
+      ],
+      "subject": "physics"
+    },
+    "pulleys-and-strings": {
+      "canonical_name": "Pulleys and Connected Bodies",
+      "slug": "pulleys-and-strings",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Tension in strings; Atwood machine; constraint equations",
+      "prerequisites": [
+        "newtons-second-law"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "tension in a string",
+        "connected bodies",
+        "Atwood machine",
+        "common forces in mechanics"
+      ],
+      "subject": "physics"
+    },
+    "elastic-collisions": {
+      "canonical_name": "Elastic and Inelastic Collisions",
+      "slug": "elastic-collisions",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Conservation laws in 1D and 2D collisions; coefficient of restitution",
+      "prerequisites": [
+        "conservation-of-momentum",
+        "kinetic-energy"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "rotational-kinematics": {
+      "canonical_name": "Rotational Kinematics",
+      "slug": "rotational-kinematics",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Angular displacement, velocity, acceleration; ω = ω₀ + αt analogies",
+      "prerequisites": [
+        "uniform-circular-motion",
+        "equations-of-motion"
+      ],
+      "leads_to": [
+        "rolling-motion"
+      ],
+      "subject": "physics"
+    },
+    "rolling-motion": {
+      "canonical_name": "Rolling Motion",
+      "slug": "rolling-motion",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Rolling without slipping; KE = ½mv² + ½Iω²",
+      "prerequisites": [
+        "rotational-kinematics",
+        "moment-of-inertia"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "rolling without slipping",
+        "rotational motion",
+        "moment of inertia"
+      ],
+      "subject": "physics"
+    },
+    "bernoullis-principle": {
+      "canonical_name": "Bernoulli's Principle",
+      "slug": "bernoullis-principle",
+      "grades": [
+        11
+      ],
+      "area": "Fluid Mechanics",
+      "description": "P + ½ρv² + ρgh = constant; applications: Venturi meter, airplane lift",
+      "prerequisites": [
+        "fluid-pressure",
+        "conservation-of-energy"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "Bernoulli's equation",
+        "pressure and velocity of a fluid",
+        "streamline flow"
+      ],
+      "subject": "physics"
+    },
+    "viscosity": {
+      "canonical_name": "Viscosity",
+      "slug": "viscosity",
+      "grades": [
+        11
+      ],
+      "area": "Fluid Mechanics",
+      "description": "Newton's law of viscous flow; Stokes' law; terminal velocity",
+      "prerequisites": [
+        "fluid-pressure"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "surface-tension": {
+      "canonical_name": "Surface Tension",
+      "slug": "surface-tension",
+      "grades": [
+        11
+      ],
+      "area": "Fluid Mechanics",
+      "description": "Surface energy; contact angle; capillarity; drops and bubbles",
+      "prerequisites": [
+        "fluid-pressure"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "elasticity-physics": {
+      "canonical_name": "Elasticity",
+      "slug": "elasticity-physics",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Stress, strain; Hooke's law; Young's modulus; bulk and shear moduli",
+      "prerequisites": [
+        "force-concept"
+      ],
+      "leads_to": [
+        "spring-mass-system"
+      ],
+      "subject": "physics"
+    },
+    "beats": {
+      "canonical_name": "Beats",
+      "slug": "beats",
+      "grades": [
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Beat frequency = |f₁ − f₂|; applications in tuning",
+      "prerequisites": [
+        "superposition-of-waves"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "beat frequency",
+        "superposition of waves",
+        "tuning an instrument"
+      ],
+      "subject": "physics"
+    },
+    "resonance": {
+      "canonical_name": "Resonance",
+      "slug": "resonance",
+      "grades": [
+        11
+      ],
+      "area": "Waves and Sound",
+      "description": "Natural frequency; forced oscillations; resonance in strings, pipes, bridges",
+      "prerequisites": [
+        "standing-waves"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "forced oscillations and resonance",
+        "natural frequency",
+        "standing waves"
+      ],
+      "subject": "physics"
+    },
+    "centre-of-mass": {
+      "canonical_name": "Centre of Mass",
+      "slug": "centre-of-mass",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Position of COM; motion of COM; COM frame; system of particles",
+      "prerequisites": [
+        "newtons-second-law",
+        "scalars-and-vectors"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "work-energy-theorem": {
+      "canonical_name": "Work-Energy Theorem",
+      "slug": "work-energy-theorem",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "Net work = change in KE; applications in variable force problems",
+      "prerequisites": [
+        "work-physics",
+        "kinetic-energy"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "dimensional-formula-applications": {
+      "canonical_name": "Dimensional Formula — Applications",
+      "slug": "dimensional-formula-applications",
+      "grades": [
+        11
+      ],
+      "area": "Units and Measurement",
+      "description": "Deriving relations; converting between unit systems; checking homogeneity",
+      "prerequisites": [
+        "dimensional-analysis"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "motion-in-a-plane": {
+      "canonical_name": "Motion in a Plane",
+      "slug": "motion-in-a-plane",
+      "grades": [
+        11
+      ],
+      "area": "Mechanics",
+      "description": "2D kinematics; position, velocity, acceleration vectors in a plane",
+      "prerequisites": [
+        "vector-resolution",
+        "speed-and-velocity"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "centripetal-force": {
+      "canonical_name": "Centripetal Force",
+      "slug": "centripetal-force",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Mechanics",
+      "description": "F = mv²/r; banking of roads; conical pendulum; vertical circular motion",
+      "prerequisites": [
+        "uniform-circular-motion",
+        "newtons-second-law"
+      ],
+      "leads_to": [],
+      "subject": "physics"
+    },
+    "law-of-conservation-of-mass": {
+      "canonical_name": "Law of Conservation of Mass",
+      "slug": "law-of-conservation-of-mass",
+      "grades": [
+        9,
+        11
+      ],
+      "area": "Chemical Reactions",
+      "description": "Mass is neither created nor destroyed in a chemical reaction",
+      "prerequisites": [
+        "daltons-atomic-theory"
+      ],
+      "leads_to": [
+        "stoichiometry"
+      ],
+      "subject": "chemistry"
+    },
+    "molecular-formula-calculations": {
+      "canonical_name": "Molecular Formula Calculations",
+      "slug": "molecular-formula-calculations",
+      "grades": [
+        11
+      ],
+      "area": "Atomic Structure",
+      "description": "Empirical to molecular formula; percentage composition; combustion analysis",
+      "prerequisites": [
+        "mole-concept",
+        "stoichiometry"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "redox-reactions-advanced": {
+      "canonical_name": "Redox Reactions — Balancing",
+      "slug": "redox-reactions-advanced",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Reactions",
+      "description": "Oxidation number method; half-reaction method; disproportionation",
+      "prerequisites": [
+        "oxidation-reduction"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "ionic-equilibrium": {
+      "canonical_name": "Ionic Equilibrium",
+      "slug": "ionic-equilibrium",
+      "grades": [
+        11
+      ],
+      "area": "Solutions",
+      "description": "Buffer solutions; Henderson-Hasselbalch equation; solubility product Ksp",
+      "prerequisites": [
+        "chemical-equilibrium",
+        "ph-scale"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "p-block-elements": {
+      "canonical_name": "p-Block Elements",
+      "slug": "p-block-elements",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Periodic Classification",
+      "description": "Groups 13-18; boron, carbon, nitrogen, oxygen, halogen, noble gas families",
+      "prerequisites": [
+        "periodic-properties"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "s-block-elements": {
+      "canonical_name": "s-Block Elements",
+      "slug": "s-block-elements",
+      "grades": [
+        11
+      ],
+      "area": "Periodic Classification",
+      "description": "Alkali and alkaline earth metals; properties; compounds: NaOH, Na₂CO₃, CaO",
+      "prerequisites": [
+        "periodic-properties"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "reaction-mechanisms": {
+      "canonical_name": "Reaction Mechanisms",
+      "slug": "reaction-mechanisms",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Organic Chemistry",
+      "description": "Homolytic and heterolytic fission; carbocations; free radical mechanism",
+      "prerequisites": [
+        "reactions-of-hydrocarbons",
+        "covalent-bonding"
+      ],
+      "leads_to": [
+        "alcohols-phenols-ethers",
+        "aldehydes-ketones-carboxylic-acids",
+        "amines",
+        "haloalkanes-haloarenes"
+      ],
+      "subject": "chemistry"
+    },
+    "chemical-bonding-molecular-orbital": {
+      "canonical_name": "Molecular Orbital Theory",
+      "slug": "chemical-bonding-molecular-orbital",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Bonding",
+      "description": "LCAO; bonding and antibonding MOs; bond order; MO diagrams for O₂, N₂",
+      "prerequisites": [
+        "covalent-bonding",
+        "quantum-mechanical-model"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "le-chateliers-principle": {
+      "canonical_name": "Le Chatelier's Principle",
+      "slug": "le-chateliers-principle",
+      "grades": [
+        11
+      ],
+      "area": "Chemical Reactions",
+      "description": "Effect of concentration, temperature, pressure on equilibrium position",
+      "prerequisites": [
+        "chemical-equilibrium"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "inorganic-qualitative-analysis": {
+      "canonical_name": "Inorganic Qualitative Analysis",
+      "slug": "inorganic-qualitative-analysis",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Chemical Reactions",
+      "description": "Identification of cations and anions; flame test; wet analysis",
+      "prerequisites": [
+        "salts-and-their-properties",
+        "ionic-bonding"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "identification of cations and anions",
+        "flame test",
+        "salt analysis"
+      ],
+      "subject": "chemistry"
+    },
+    "gaseous-state": {
+      "canonical_name": "Gaseous State — Behaviour of Gases",
+      "slug": "gaseous-state",
+      "grades": [
+        11
+      ],
+      "area": "Matter and Classification",
+      "description": "Gas laws; ideal vs real gases; van der Waals equation; liquefaction",
+      "prerequisites": [
+        "ideal-gas-laws",
+        "particle-nature-of-matter"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "liquid-state": {
+      "canonical_name": "Liquid State",
+      "slug": "liquid-state",
+      "grades": [
+        11
+      ],
+      "area": "Matter and Classification",
+      "description": "Properties: vapour pressure, viscosity, surface tension; comparison with solids and gases",
+      "prerequisites": [
+        "states-of-matter-chemistry"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "chemical-thermodynamics-systems": {
+      "canonical_name": "Thermodynamic Systems and Processes",
+      "slug": "chemical-thermodynamics-systems",
+      "grades": [
+        11
+      ],
+      "area": "Thermochemistry",
+      "description": "Open, closed, isolated systems; state vs path functions; internal energy",
+      "prerequisites": [
+        "thermochemistry"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "entropy-chemistry": {
+      "canonical_name": "Entropy and Spontaneity",
+      "slug": "entropy-chemistry",
+      "grades": [
+        11,
+        12
+      ],
+      "area": "Thermochemistry",
+      "description": "Entropy change in processes; second law in chemistry; ΔG = ΔH − TΔS application",
+      "prerequisites": [
+        "gibbs-free-energy"
+      ],
+      "leads_to": [],
+      "subject": "chemistry"
+    },
+    "body-fluids-and-circulation": {
+      "canonical_name": "Body Fluids and Circulation",
+      "slug": "body-fluids-and-circulation",
+      "grades": [
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Lymph; double circulation; cardiac cycle; ECG; blood pressure",
+      "prerequisites": [
+        "human-circulatory-system",
+        "blood-composition"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "mineral-nutrition-in-plants": {
+      "canonical_name": "Mineral Nutrition in Plants",
+      "slug": "mineral-nutrition-in-plants",
+      "grades": [
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "Essential elements; macro and micro nutrients; deficiency symptoms; nitrogen metabolism",
+      "prerequisites": [
+        "transport-in-plants"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "mineral nutrition",
+        "macronutrients and micronutrients",
+        "deficiency symptoms in plants"
+      ],
+      "subject": "biology"
+    },
+    "plant-growth-and-development": {
+      "canonical_name": "Plant Growth and Development",
+      "slug": "plant-growth-and-development",
+      "grades": [
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "Phases of growth; growth regulators; seed dormancy; vernalisation; photoperiodism",
+      "prerequisites": [
+        "plant-hormones",
+        "cell-cycle"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "animal-morphology": {
+      "canonical_name": "Structural Organisation in Animals",
+      "slug": "animal-morphology",
+      "grades": [
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Morphology and anatomy of earthworm, cockroach, frog",
+      "prerequisites": [
+        "tissue-types",
+        "levels-of-organisation"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "structural organisation in animals",
+        "morphology and anatomy",
+        "earthworm cockroach and frog",
+        "organ and organ system"
+      ],
+      "subject": "biology"
+    },
+    "biological-classification-detail": {
+      "canonical_name": "Biological Classification — Detail",
+      "slug": "biological-classification-detail",
+      "grades": [
+        11
+      ],
+      "area": "Diversity of Life",
+      "description": "Fungi: types; Protista: classification; viruses, viroids, lichens, prions",
+      "prerequisites": [
+        "five-kingdom-classification"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "anatomy-of-flowering-plants": {
+      "canonical_name": "Anatomy of Flowering Plants",
+      "slug": "anatomy-of-flowering-plants",
+      "grades": [
+        11
+      ],
+      "area": "Plant Biology",
+      "description": "Internal structure: root, stem, leaf; secondary growth; cambium",
+      "prerequisites": [
+        "tissue-types"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "respiration-detail": {
+      "canonical_name": "Cellular Respiration — Detail",
+      "slug": "respiration-detail",
+      "grades": [
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Glycolysis steps; Krebs cycle detail; oxidative phosphorylation; RQ",
+      "prerequisites": [
+        "cellular-respiration"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "neural-control-coordination": {
+      "canonical_name": "Neural Control and Coordination",
+      "slug": "neural-control-coordination",
+      "grades": [
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Central, peripheral, autonomic NS; human brain anatomy; reflex arc detail",
+      "prerequisites": [
+        "nervous-system"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "neural control and coordination",
+        "human brain",
+        "reflex arc",
+        "the nervous system"
+      ],
+      "subject": "biology"
+    },
+    "chemical-coordination": {
+      "canonical_name": "Chemical Coordination and Integration",
+      "slug": "chemical-coordination",
+      "grades": [
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Detailed hormones of all glands; mechanism of hormone action; disorders",
+      "prerequisites": [
+        "endocrine-system",
+        "hormones-and-feedback"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "locomotion-and-movement-detail": {
+      "canonical_name": "Locomotion and Movement — Detail",
+      "slug": "locomotion-and-movement-detail",
+      "grades": [
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Sliding filament theory; joints; skeletal disorders: arthritis, osteoporosis",
+      "prerequisites": [
+        "skeletal-and-muscular-system"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "locomotion and movement",
+        "muscles and joints",
+        "sliding filament theory",
+        "skeletal system"
+      ],
+      "subject": "biology"
+    },
+    "excretory-system-detail": {
+      "canonical_name": "Excretory Products and Their Elimination",
+      "slug": "excretory-system-detail",
+      "grades": [
+        11
+      ],
+      "area": "Human Physiology",
+      "description": "Nephron structure detail; countercurrent mechanism; regulation by ADH and aldosterone",
+      "prerequisites": [
+        "excretory-system"
+      ],
+      "leads_to": [],
+      "subject": "biology"
+    },
+    "digestion-absorption-detail": {
+      "canonical_name": "Digestion and Absorption — Detail",
+      "slug": "digestion-absorption-detail",
+      "grades": [
+        11
+      ],
+      "area": "Nutrition and Digestion",
+      "description": "Detailed enzymatic actions; absorption in intestine; disorders: jaundice, vomiting, PEM",
+      "prerequisites": [
+        "human-digestive-system",
+        "enzymes"
+      ],
+      "leads_to": [],
+      "aliases": [
+        "digestion and absorption",
+        "digestive enzymes",
+        "alimentary canal",
+        "absorption in the intestine"
+      ],
+      "subject": "biology"
+    }
+  }
+}

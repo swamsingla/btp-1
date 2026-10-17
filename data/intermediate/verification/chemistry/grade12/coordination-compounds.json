@@ -1,0 +1,8 @@
+[
+  {
+    "verdict": "ok",
+    "first_fault": "- no arithmetic or internal consistency faults found",
+    "tokens": 1698,
+    "said": "VERDICT: ok\n- no arithmetic or internal consistency faults found"
+  }
+]
