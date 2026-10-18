@@ -75,9 +75,9 @@ While the universal indicator gives a wide range of colours, specific indicators
 
 ## Worked example
 
-Let us apply the rule about the pH scale to a common household scenario. Imagine you are testing two different liquids using universal indicator paper. The first liquid is lemon juice, which is known to be highly acidic. According to the rules of the pH scale, a highly acidic solution has a low pH value. Therefore, the pH of the lemon juice would be somewhere between 0 and 6. 
+Let us apply the rule about the pH scale to a common household scenario. Imagine you are testing two different liquids using universal indicator paper. The first liquid is lemon juice, which is known to be highly acidic. According to the rules of the pH scale, a highly acidic solution has a low pH value. Therefore, the pH of the lemon juice would be below 7, in fact close to 2. 
 
-The second liquid is a solution of baking soda mixed with water. This is a basic solution. Because the pH scale increases in basicity as it goes from 7 to 14, the pH of the baking soda solution would be somewhere between 8 and 14. By comparing the colour of the indicator paper, you can easily tell that the lemon juice has a lower pH than the baking soda solution.
+The second liquid is a solution of baking soda mixed with water. This is a basic solution. Because the pH scale increases in basicity as it goes from 7 to 14, the pH of the baking soda solution would be above 7, around 8 to 9. By comparing the colour of the indicator paper, you can easily tell that the lemon juice has a lower pH than the baking soda solution.
 
 ## Key points
 
